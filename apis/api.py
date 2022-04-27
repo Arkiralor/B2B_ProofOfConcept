@@ -13,26 +13,28 @@ class LinkedInAPI:
     username = environ["LINKEDIN_USERNAME"]
     password = environ["LINKEDIN_PASSWORD"]
 
+    api = Linkedin(username, password)
+
     @classmethod
-    def get_details(cls, uid: str):   
+    def get_profile_details(cls, uid: str):   
         detail_dict = {}
 
         # Authenticate using any Linkedin account credentials
         logging.info(f"[{datetime.now()}]   AUTHENTICATING {cls.username}")
-        api = Linkedin(cls.username, cls.password)
+        # cls.api = Linkedin(cls.username, cls.password)
         # GET a profile
         logging.info(f"[{datetime.now()}]   GETTING PROFILE INFO for: {uid}")
-        profile = api.get_profile(uid)
+        profile = cls.api.get_profile(uid)
         detail_dict['profile'] = profile
 
         # GET a profiles contact info
         logging.info(f"[{datetime.now()}]   GETTING CONTACT INFO for: {uid}")
-        contact_info = api.get_profile_contact_info(uid)
+        contact_info = cls.api.get_profile_contact_info(uid)
         detail_dict['contact_info'] = contact_info
 
         # GET 1st degree connections of a given profile
         logging.info(f"[{datetime.now()}]   GETTING CONNECTIONS INFO for: {uid}")
-        connections = api.get_profile_connections(uid)
+        connections = cls.api.get_profile_connections(uid)
         detail_dict['connections'] = connections
 
         # print(detail_dict)

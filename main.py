@@ -8,7 +8,7 @@ def main():
     uid_list.sort()
 
     for uid in uid_list:
-        LinkedInAPI.get_details(uid)
+        LinkedInAPI.get_profile_details(uid)
 
 if __name__=="__main__":
     main()
