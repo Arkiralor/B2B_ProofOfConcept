@@ -1,0 +1,583 @@
+{
+    "profile": {
+        "summary": "Currently pursuing a career in Software and Web-Application Development/Engineering.\n\nExperienced in multiple Python-dependent fields such as Web Application Development, Web-Automation and Data Processing.\n\nDemonstrably excellent communication and comprehension skills in English, good literary and communicative\nability in Hindi and native proficiency in Assamese along with high-level problem solving and more-than-adequate analytical skills.",
+        "industryName": "Information Technology & Services",
+        "lastName": "Medhi",
+        "locationName": "India",
+        "student": false,
+        "geoCountryName": "India",
+        "geoCountryUrn": "urn:li:fs_geo:102713980",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "industryUrn": "urn:li:fs_industry:96",
+        "firstName": "Prithoo",
+        "entityUrn": "urn:li:fs_profile:ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:105607401"
+        },
+        "geoLocationName": "Guwahati, Assam",
+        "location": {
+            "basicLocation": {
+                "countryCode": "in"
+            }
+        },
+        "headline": "Software Developer at TechVariable | FastAPI | Django | REST API",
+        "displayPictureUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQHzCit0-LSR5A/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/0/1644147868073?e=1656547200&v=beta&t=Mt_ZsweMBLcatECqoK80J8suzTYtO4EHY_3_H-ffziU",
+        "img_200_200": "200_200/0/1644147868073?e=1656547200&v=beta&t=4V7rO7BRrt0HgkttKYwQ_eFLDZ_lw1LO86ouLusu_6I",
+        "img_400_400": "400_400/0/1644147868073?e=1656547200&v=beta&t=O4IznCw5SWYC7R4yuUvBAbTfx4KmVUTbu4vNFiUZMBA",
+        "img_800_800": "800_800/0/1644147868073?e=1656547200&v=beta&t=JKxt9r1Vq9pdKiin6jz9A51Pz8abBNNYPDPZqh3W98E",
+        "profile_id": "ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE",
+        "member_urn": "urn:li:member:231212168",
+        "experience": [
+            {
+                "locationName": "Guwahati, Assam, India",
+                "projects": [
+                    "urn:li:fs_project:(ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE,630239391)",
+                    "urn:li:fs_project:(ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE,1308571165)",
+                    "urn:li:fs_project:(ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE,1308724224)",
+                    "urn:li:fs_project:(ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE,2074374569)",
+                    "urn:li:fs_project:(ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE,1499974790)"
+                ],
+                "geoUrn": "urn:li:fs_geo:105607401",
+                "companyName": "TechVariable",
+                "description": "* Developed modules and Web Applications (backend) through REST APIs in Core Go, Core Python, FastAPI, Django, Gorilla, SQLAlchemy ORM, and Gorm ORM.\n* Designed and constructed APIs to implement business logic in CRM, CRUD, and microservice modules and prototyped SQL queries for test development in PostgreSQL databases and transformed the same to equivalent Django-ORM queries.\n* Collaborated with team-mates in Agile Software Development in both: weekly and daily standups.\n* Debugged and modified existing codebases using Test-Based Development.",
+                "title": "Software Developer",
+                "companyUrn": "urn:li:fs_miniCompany:10632640",
+                "entityUrn": "urn:li:fs_position:(ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE,1847872999)",
+                "geoLocationName": "Guwahati, Assam, India",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 10,
+                        "year": 2021
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "region": "urn:li:fs_region:(in,0)",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQE6IzKHUZQmAA/company-logo_"
+            },
+            {
+                "locationName": "Guwahati, Assam, India",
+                "projects": [
+                    "urn:li:fs_project:(ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE,1308392104)",
+                    "urn:li:fs_project:(ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE,1309095805)"
+                ],
+                "geoUrn": "urn:li:fs_geo:105607401",
+                "companyName": "Freelance (Self employed)",
+                "description": "* Developed bespoke Python scripts and applications for clients based on various disciplines such as Web scraping, Data-Management, Data-Processing, and Web Development.\n* Engineered APIs in Django Rest framework to implement User-Authentication, CRUD operations, and miscellaneous business logic.\n* Collaborated with clients to manage timely updates about the development and delivery of deliverables.",
+                "title": "Python Developer",
+                "companyUrn": "urn:li:fs_miniCompany:1256222",
+                "entityUrn": "urn:li:fs_position:(ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE,1832007634)",
+                "geoLocationName": "Guwahati, Assam, India",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 9,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 3,
+                        "year": 2021
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 0,
+                        "end": 1
+                    },
+                    "industries": [
+                        "Writing and Editing"
+                    ]
+                },
+                "region": "urn:li:fs_region:(in,0)"
+            },
+            {
+                "locationName": "Guwahati, Assam, India",
+                "projects": [
+                    "urn:li:fs_project:(ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE,220263061)"
+                ],
+                "entityUrn": "urn:li:fs_position:(ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE,1749174859)",
+                "$anti_abuse_metadata": {
+                    "/geoUrn": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:231212168"
+                        }
+                    },
+                    "/companyName": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:231212168"
+                        }
+                    },
+                    "/companyUrn": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:231212168"
+                        }
+                    },
+                    "/entityUrn": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:231212168"
+                        }
+                    },
+                    "/geoLocationName": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:231212168"
+                        }
+                    },
+                    "/promotion": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:231212168"
+                        }
+                    },
+                    "/title": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:231212168"
+                        }
+                    },
+                    "/region": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:231212168"
+                        }
+                    },
+                    "/locationName": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:231212168"
+                        }
+                    },
+                    "/description": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:231212168"
+                        }
+                    }
+                },
+                "geoLocationName": "Guwahati, Assam, India",
+                "geoUrn": "urn:li:fs_geo:105607401",
+                "companyName": "Dept. of Information Technology, Gauhati University",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 3,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 11,
+                        "year": 2020
+                    }
+                },
+                "description": "* Designed, Cleaned and Collated custom Eastern Nagari Script glyphs into glyph-set and assigned Unicode values in vector format (SVG).\n* Assigned Ligature and Super/Sub-script rules using Glyph Substitution in OpenType coding and\nAssigned and placed Vowel, Conjunct and Diacritic symbols using Glyph Positioning in OpenType\ncoding.\n* Published font faces as per criteria and specifications provided by the client ( Govt. of Assam) using Fontlab as well as tested and repaired any issues in the published Font Faces.",
+                "title": "Opentype Font Developer",
+                "region": "urn:li:fs_region:(in,0)"
+            },
+            {
+                "locationName": "Guwahati Area, India",
+                "projects": [
+                    "urn:li:fs_project:(ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE,1308461341)"
+                ],
+                "entityUrn": "urn:li:fs_position:(ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE,1571039523)",
+                "$anti_abuse_metadata": {
+                    "/geoUrn": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:231212168"
+                        }
+                    },
+                    "/companyName": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:231212168"
+                        }
+                    },
+                    "/companyUrn": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:231212168"
+                        }
+                    },
+                    "/entityUrn": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:231212168"
+                        }
+                    },
+                    "/geoLocationName": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:231212168"
+                        }
+                    },
+                    "/promotion": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:231212168"
+                        }
+                    },
+                    "/title": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:231212168"
+                        }
+                    },
+                    "/region": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:231212168"
+                        }
+                    },
+                    "/locationName": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:231212168"
+                        }
+                    },
+                    "/description": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:231212168"
+                        }
+                    }
+                },
+                "geoLocationName": "Guwahati Area, India",
+                "geoUrn": "urn:li:fs_geo:104535556",
+                "companyName": "Mantra Associates",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 3,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 2,
+                        "year": 2020
+                    }
+                },
+                "description": "* Hosted and provided support for online ICT skill-development seminars via distance-conferencing software as well as designed promotional materials for upcoming seminars.\n* Provided training on proper, efficient, and safe usage of ICT software systems to faculty & professionals primarily from educational institutions.\n* Constructed and amended basic software design and control flow based on client input and review and developed prototype web application as per client specifications in Python and Django.\n* Developed custom stand-alone scripts and modules for niche applications as per boutique client request, in Python.",
+                "title": "Trainee",
+                "region": "urn:li:fs_region:(in,7248)"
+            },
+            {
+                "locationName": "Beltola",
+                "entityUrn": "urn:li:fs_position:(ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE,990371563)",
+                "$anti_abuse_metadata": {
+                    "/geoUrn": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:231212168"
+                        }
+                    },
+                    "/companyName": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:231212168"
+                        }
+                    },
+                    "/companyUrn": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:231212168"
+                        }
+                    },
+                    "/entityUrn": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:231212168"
+                        }
+                    },
+                    "/geoLocationName": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:231212168"
+                        }
+                    },
+                    "/promotion": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:231212168"
+                        }
+                    },
+                    "/title": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:231212168"
+                        }
+                    },
+                    "/region": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:231212168"
+                        }
+                    },
+                    "/locationName": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:231212168"
+                        }
+                    },
+                    "/description": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:231212168"
+                        }
+                    }
+                },
+                "geoLocationName": "Beltola",
+                "companyName": "Swasthi Skill Development Centre",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2017
+                    },
+                    "startDate": {
+                        "month": 5,
+                        "year": 2017
+                    }
+                },
+                "description": "Summer job before starting post-graduation in 2017.",
+                "title": "Data-Entry Instructor"
+            }
+        ],
+        "education": [
+            {
+                "courses": [
+                    "urn:li:fs_course:(ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE,1845771654)",
+                    "urn:li:fs_course:(ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE,1845814671)",
+                    "urn:li:fs_course:(ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE,1845873480)",
+                    "urn:li:fs_course:(ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE,1845910475)",
+                    "urn:li:fs_course:(ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE,1845959701)"
+                ],
+                "projects": [
+                    "urn:li:fs_project:(ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE,731459645)"
+                ],
+                "degreeName": "Master of Science - MS",
+                "schoolUrn": "urn:li:fs_miniSchool:13476",
+                "entityUrn": "urn:li:fs_education:(ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE,439524994)",
+                "school": {
+                    "objectUrn": "urn:li:school:13476",
+                    "entityUrn": "urn:li:fs_miniSchool:13476",
+                    "active": true,
+                    "schoolName": "Gauhati University",
+                    "trackingId": "HerdplKuSBWeR9W7n85M6g==",
+                    "logoUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQE_SHDG7RHWLg/company-logo_"
+                },
+                "activities": "3rd Prize: Inter-Departmental Wall Magazine Team (GU Varsity Week 2019)\n2nd Prize: Dept. of Computer Science Departmental Extempore Speech Competition.",
+                "grade": "7.65",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 7,
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2017
+                    }
+                },
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100189",
+                "schoolName": "Gauhati University",
+                "fieldOfStudy": "Computer Science",
+                "degreeUrn": "urn:li:fs_degree:626"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE,144625205)",
+                "grade": "6.68",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2016
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2012
+                    }
+                },
+                "degreeName": "Bachelor of Science - BS",
+                "schoolName": "B. Barooah College, Guwahati",
+                "fieldOfStudy": "Information Technology",
+                "degreeUrn": "urn:li:fs_degree:400"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE,144631287)",
+                "activities": "1st Prize: Maggi Quiz\n1st Rank: Tata Green Olympiad, 2007\n2nd Rank: Tata Green Olympiad 2006\n\nSchool Representative: ITC Young Author Contest 2006",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2011
+                    },
+                    "startDate": {
+                        "year": 2001
+                    }
+                },
+                "degreeName": "Senior Secondary",
+                "schoolName": "Kendriya Vidyalaya, Khanapara",
+                "fieldOfStudy": "Computer Science"
+            }
+        ],
+        "languages": [
+            {
+                "name": "Assamese",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "English",
+                "proficiency": "PROFESSIONAL_WORKING"
+            },
+            {
+                "name": "Hindi",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ],
+        "publications": [],
+        "certifications": [
+            {
+                "authority": "Triplebyte",
+                "name": "Triplebyte Certified",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 1,
+                        "year": 2022
+                    }
+                },
+                "licenseNumber": "MWbGoa6",
+                "company": {
+                    "objectUrn": "urn:li:company:6622522",
+                    "entityUrn": "urn:li:fs_miniCompany:6622522",
+                    "name": "Triplebyte",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1592438653658?e=2147483647&v=beta&t=FEPgbC4gU2PWW0KVxs3jtYAKFsnudLN89tlfahXTWVE",
+                                    "expiresAt": 1658966400000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1592438653658?e=2147483647&v=beta&t=fetgePcPqVKOFNBF2GBlsF_YWMzJdwLYFiWIeKv78Sw",
+                                    "expiresAt": 1658966400000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1592438653658?e=2147483647&v=beta&t=OAhb8pcM6vk0bHNvTkkjI6Vv4h-oIe_e6y2zo6skQc4",
+                                    "expiresAt": 1658966400000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQFL5EsaT_03yA/company-logo_"
+                        }
+                    },
+                    "universalName": "triplebyte",
+                    "dashCompanyUrn": "urn:li:fsd_company:6622522",
+                    "trackingId": "GZu5xuVaRJ6y8ZVRn2w3Iw=="
+                },
+                "displaySource": "triplebyte.com",
+                "companyUrn": "urn:li:fs_miniCompany:6622522",
+                "url": "https://triplebyte.com/tb/prithoo-medhi-ntygins/certificate"
+            },
+            {
+                "authority": "HackerRank",
+                "name": "Python (Basic)",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 1,
+                        "year": 2022
+                    }
+                },
+                "licenseNumber": "719684F38028",
+                "company": {
+                    "objectUrn": "urn:li:company:435210",
+                    "entityUrn": "urn:li:fs_miniCompany:435210",
+                    "name": "HackerRank",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1641202397642?e=2147483647&v=beta&t=iJHEvNU0DCjMT9XiHeoSTBpzl7ozWetkwwGD1hb08JQ",
+                                    "expiresAt": 1658966400000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1641202397642?e=2147483647&v=beta&t=hdSts_g83fRKZIujTLwSyom9U7QOmm79o2-FtRKU2n0",
+                                    "expiresAt": 1658966400000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1641202397642?e=2147483647&v=beta&t=einyucGb3zeJyTCEa3c5Du-Nz2CCpNCL9Ypgp5JnrEo",
+                                    "expiresAt": 1658966400000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHneWLNCPQgDA/company-logo_"
+                        }
+                    },
+                    "universalName": "hackerrank",
+                    "dashCompanyUrn": "urn:li:fsd_company:435210",
+                    "trackingId": "JpHYG0F9TLWPDaCJzaqGJA=="
+                },
+                "displaySource": "hackerrank.com",
+                "companyUrn": "urn:li:fs_miniCompany:435210",
+                "url": "https://www.hackerrank.com/certificates/719684f38028"
+            },
+            {
+                "authority": "HackerRank",
+                "name": "SQL (Basic)",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 3,
+                        "year": 2022
+                    }
+                },
+                "licenseNumber": "E6500AC4B466",
+                "company": {
+                    "objectUrn": "urn:li:company:435210",
+                    "entityUrn": "urn:li:fs_miniCompany:435210",
+                    "name": "HackerRank",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1641202397642?e=2147483647&v=beta&t=iJHEvNU0DCjMT9XiHeoSTBpzl7ozWetkwwGD1hb08JQ",
+                                    "expiresAt": 1658966400000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1641202397642?e=2147483647&v=beta&t=hdSts_g83fRKZIujTLwSyom9U7QOmm79o2-FtRKU2n0",
+                                    "expiresAt": 1658966400000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1641202397642?e=2147483647&v=beta&t=einyucGb3zeJyTCEa3c5Du-Nz2CCpNCL9Ypgp5JnrEo",
+                                    "expiresAt": 1658966400000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHneWLNCPQgDA/company-logo_"
+                        }
+                    },
+                    "universalName": "hackerrank",
+                    "dashCompanyUrn": "urn:li:fsd_company:435210",
+                    "trackingId": "h7r6GadXQVijGtdlpiqfGQ=="
+                },
+                "displaySource": "hackerrank.com",
+                "companyUrn": "urn:li:fs_miniCompany:435210",
+                "url": "https://www.hackerrank.com/certificates/e6500ac4b466"
+            }
+        ],
+        "volunteer": [],
+        "honors": []
+    },
+    "contact_info": {
+        "email_address": null,
+        "websites": [
+            {
+                "url": "https://github.com/Arkiralor/",
+                "label": "PORTFOLIO"
+            }
+        ],
+        "twitter": [
+            {
+                "name": "Arkalon11235",
+                "credentialId": "urn:li:member:231212168;186251769"
+            }
+        ],
+        "birthdate": null,
+        "ims": null,
+        "phone_numbers": []
+    },
+    "connections": []
+}

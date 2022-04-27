@@ -1,0 +1,183 @@
+{
+    "profile": {
+        "summary": "Expertise in developing web apps using React, NodeJs, and Python Programming Language frameworks along with Rest API development in Node.js. I have a keen interest in learning new technologies and tools for the field. Interested in working on challenging problems with innovative solutions. Strong engineering professional with a Bachelor's degree focused on Computer Science from Girijananda Chowdhury Institute of Management & Technology.",
+        "industryName": "Computer Software",
+        "lastName": "Borah",
+        "locationName": "India",
+        "student": false,
+        "geoCountryName": "India",
+        "geoCountryUrn": "urn:li:fs_geo:102713980",
+        "geoLocationBackfilled": false,
+        "elt": true,
+        "industryUrn": "urn:li:fs_industry:4",
+        "firstName": "Parthava",
+        "entityUrn": "urn:li:fs_profile:ACoAACHlA7IB_d9MYYVP_4JgPjZfqJiP0PpAAk0",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:105607401"
+        },
+        "geoLocationName": "Guwahati, Assam",
+        "location": {
+            "basicLocation": {
+                "countryCode": "in"
+            }
+        },
+        "headline": "Programmer Analyst @TechVariable | MERN | NestJS",
+        "displayPictureUrl": "https://media-exp1.licdn.com/dms/image/C4E03AQGf7I5gIdOmrg/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/0/1625927098421?e=1656547200&v=beta&t=ZD609ww-shmWnOevqjCqyYuoo2G7CWhF2eEU4wRNKo8",
+        "img_200_200": "200_200/0/1625927098421?e=1656547200&v=beta&t=4U8hCX6Ior0QAs0R6T8pIPd3MytEZQJlEosHZSV3Nck",
+        "img_400_400": "400_400/0/1625927098421?e=1656547200&v=beta&t=n33UHuQiwEsdJXPsx13OYr3HTGDjTH5zIuWO83-889o",
+        "img_800_800": "800_800/0/1625927098421?e=1656547200&v=beta&t=D8-nOR7e7RbAt2LMpAAmoFmrKYfA5w6_qj-xMV7Fvnc",
+        "profile_id": "ACoAACHlA7IB_d9MYYVP_4JgPjZfqJiP0PpAAk0",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAACHlA7IB_d9MYYVP_4JgPjZfqJiP0PpAAk0",
+        "member_urn": "urn:li:member:568656818",
+        "experience": [
+            {
+                "locationName": "Guwahati, Assam, India",
+                "entityUrn": "urn:li:fs_position:(ACoAACHlA7IB_d9MYYVP_4JgPjZfqJiP0PpAAk0,1843069553)",
+                "geoLocationName": "Guwahati, Assam, India",
+                "geoUrn": "urn:li:fs_geo:105607401",
+                "companyName": "TechVariable",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 9,
+                        "year": 2021
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Programmer Analyst Trainee",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:10632640",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQE6IzKHUZQmAA/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAACHlA7IB_d9MYYVP_4JgPjZfqJiP0PpAAk0,398577800)",
+                "school": {
+                    "objectUrn": "urn:li:school:208756",
+                    "entityUrn": "urn:li:fs_miniSchool:208756",
+                    "active": true,
+                    "schoolName": "Girijananda Chowdhury Institute of Management & Technology",
+                    "trackingId": "D7dtJ9UoSpahLhM/QkVUJA=="
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "year": 2015
+                    }
+                },
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100189",
+                "degreeName": "Bachelor of Technology (B.Tech.)",
+                "schoolName": "Girijananda Chowdhury Institute of Management & Technology",
+                "fieldOfStudy": "Computer Science",
+                "degreeUrn": "urn:li:fs_degree:250",
+                "schoolUrn": "urn:li:fs_miniSchool:208756"
+            }
+        ],
+        "languages": [],
+        "publications": [],
+        "certifications": [
+            {
+                "authority": "Webtek Labs Pvt. Ltd.",
+                "name": "Backend development with PHP and MySQL",
+                "company": {
+                    "objectUrn": "urn:li:company:47903",
+                    "entityUrn": "urn:li:fs_miniCompany:47903",
+                    "name": "Webtek Labs Pvt. Ltd.",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1549532612352?e=2147483647&v=beta&t=aTgjw8VtAHhQlskg7uFHQHYMutMXVFOu4mXrIi0zya4",
+                                    "expiresAt": 1658966400000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1549532612352?e=2147483647&v=beta&t=mZX5uF9HGR-lxJOD5EGH_GoZVg7xmMCKlyy3gpKIIFw",
+                                    "expiresAt": 1658966400000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1549532612352?e=2147483647&v=beta&t=2hWiAxY3yZEzW70veo_rIjw4hYNKkovzEwCJpQ1AB5A",
+                                    "expiresAt": 1658966400000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C510BAQEVmx1ZvCWgtw/company-logo_"
+                        }
+                    },
+                    "universalName": "webtek",
+                    "dashCompanyUrn": "urn:li:fsd_company:47903",
+                    "trackingId": "WmL+ZVK2Qz68enekbhzuRw=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:47903"
+            },
+            {
+                "authority": "Udemy",
+                "name": "Full stack development with MERN and Redux",
+                "company": {
+                    "objectUrn": "urn:li:company:822535",
+                    "entityUrn": "urn:li:fs_miniCompany:822535",
+                    "name": "Udemy",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1626275253364?e=2147483647&v=beta&t=8MdoFbBWBgGX0-2lzYyhkgSsXi-QfhSTJElBKTUPC8g",
+                                    "expiresAt": 1658966400000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1626275253364?e=2147483647&v=beta&t=Wz78YREAq7TUQO6J0Y_a1TyyEURdQUMzZrU3OrIV5o0",
+                                    "expiresAt": 1658966400000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1626275253364?e=2147483647&v=beta&t=X8yvPPlXymbrCj4gcwT6r2Hp6czhSNYR4tQvq13_U6g",
+                                    "expiresAt": 1658966400000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQFQr9e68bBOPQ/company-logo_"
+                        }
+                    },
+                    "universalName": "udemy",
+                    "dashCompanyUrn": "urn:li:fsd_company:822535",
+                    "trackingId": "NdCzNaTZQNC8LeQ/zw3erA=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:822535"
+            }
+        ],
+        "volunteer": [],
+        "honors": []
+    },
+    "contact_info": {
+        "email_address": null,
+        "websites": [],
+        "twitter": [],
+        "birthdate": null,
+        "ims": null,
+        "phone_numbers": []
+    },
+    "connections": []
+}
