@@ -17,6 +17,15 @@ from fake_useragent import UserAgent
 load_dotenv()
 random.seed()
 
+class FeedObject:
+    feed_item = '/html/body/div[6]/div[3]/div/div/div[2]/div/div/main/div[3]/div[1]/div[1]/div[2]/div'
+    item_op = '/html/body/div[6]/div[3]/div/div/div[2]/div/div/main/div[3]/div[1]/div[1]/div[4]/div/div/div/div/div[2]/a/div[3]/span[1]/span/span'
+    item_body = '/html/body/div[6]/div[3]/div/div/div[2]/div/div/main/div[3]/div[1]/div[1]/div[4]/div/div/div/div/div[4]/div/div/span/span/span'
+    item_reaction_page = '/html/body/div[6]/div[3]/div/div/div[2]/div/div/main/div[3]/div[1]/div[1]/div[4]/div/div/div/div/div[6]/ul/li[1]/button'
+    item_reactions_count = '/html/body/div[6]/div[3]/div/div/div[2]/div/div/main/div[3]/div[1]/div[1]/div[4]/div/div/div/div/div[6]/ul/li[1]/button/span'
+    
+
+
 class LinkedinScraper:
 
     path = environ["WEBDRIVER_PATH"]
@@ -45,6 +54,7 @@ class LinkedinScraper:
         login_password_xpath = '//*[@id="session_password"]'
         login_submit_xpath = '//*[@id="main-content"]/section[1]/div/div/form/button'
         phone_skip_btn = "/html/body/div/div[1]/section/div[2]/div/article/footer/div/div/button"
+        
 
         try:
             cls.driver.get(cls.url)
@@ -84,6 +94,8 @@ class LinkedinScraper:
             print(e)
             cls.driver.quit()
             exit(1)
+
+    
 
 
 def main():
