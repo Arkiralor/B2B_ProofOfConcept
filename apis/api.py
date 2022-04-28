@@ -19,10 +19,7 @@ class LinkedInAPI:
     def get_profile_details(cls, uid: str):   
         detail_dict = {}
 
-        # Authenticate using any Linkedin account credentials
         logging.info(f"[{datetime.now()}]   AUTHENTICATING {cls.username}")
-        # cls.api = Linkedin(cls.username, cls.password)
-        # GET a profile
         logging.info(f"[{datetime.now()}]   GETTING PROFILE INFO for: {uid}")
         profile = cls.api.get_profile(uid)
         detail_dict['profile'] = profile
@@ -37,16 +34,46 @@ class LinkedInAPI:
         connections = cls.api.get_profile_connections(uid)
         detail_dict['connections'] = connections
 
-        # print(detail_dict)
-        with open(f"output_data{sep}{uid}.json", "w+t", encoding="utf-8") as data_file:
+        ## GET skills from profile
+        skills = cls.api.get_profile_skills(uid)
+        detail_dict['skills'] = skills
+
+        with open(f"output_data{sep}profiles{sep}{uid}.json", "w+t", encoding="utf-8") as data_file:
             data = dumps(detail_dict, indent=4)
             logging.info(f"[{datetime.now()}]   WRITING PROFILE INFO for: {uid}")
             data_file.write(data)
 
-if __name__=="__main__":
-    with open(f"data_store{sep}uids.csv", "rt", encoding="utf-8") as data:
-        uid_list = data.read().split("\n")
+    @classmethod
+    def get_search_results(cls, search_term:str="Python", search_type:str="CONTENT"):
+        '''
+        search_type: ALL|CONTENT|PEOPLE|JOBS|COMPANIES|SCHOOLS|GROUPS|EVENTS|LEARNING|SERVICES|
+        '''
+        params = {
+            "filters":[
+                    f"resultType->{search_type}"
+                ],
+            "keywords":search_term,
+            "origin":"GLOBAL_SEARCH_HEADER",
+        }
 
-    for uid in uid_list:
-        LinkedInAPI.get_details(uid)
+        search = cls.api.search(
+            params=params,
+            limit=100
+        )
+
+        with open(f"output_data{sep}search_results{sep}{search_term.lower()}_{search_type.lower()}.json", "w+t", encoding="utf-8") as data_file:
+            data = dumps(search, indent=4)
+            logging.info(f"[{datetime.now()}]   WRITING SEARCH INFO for: {search_term}")
+            data_file.write(data)
+
+    @classmethod
+    def get_comments(cls, post_urn:str, comment_count:int=100):
+        comments =cls.api.get_post_comments(post_urn, comment_count)
+        with open(f"output_data{sep}post_comments{sep}{post_urn.lower()}_comments.json", "w+t", encoding="utf-8") as data_file:
+            data = dumps(comments, indent=4)
+            logging.info(f"[{datetime.now()}]   WRITING SEARCH INFO for: {post_urn}")
+            data_file.write(data)
+
+if __name__=="__main__":
+    pass
 
