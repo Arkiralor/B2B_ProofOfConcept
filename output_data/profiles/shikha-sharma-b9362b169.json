@@ -1,0 +1,214 @@
+{
+    "profile": {
+        "summary": "Experienced Advocate with a demonstrated history of working in the judiciary industry. Skilled in Legal Advice, Corporate Law, Legal Assistance, Criminal Law, and Arbitration. Strong legal professional graduated under Gauhati University",
+        "industryName": "Law Practice",
+        "lastName": "Sharma",
+        "address": "Akashinagar, Bamunimaidam",
+        "locationName": "India",
+        "student": false,
+        "geoCountryName": "India",
+        "geoCountryUrn": "urn:li:fs_geo:102713980",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "industryUrn": "urn:li:fs_industry:9",
+        "firstName": "Shikha",
+        "entityUrn": "urn:li:fs_profile:ACoAACgjSt8BeiOHuTX4FilAfDIo8eRpEoNyr68",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:101944557"
+        },
+        "geoLocationName": "Hajo, Assam",
+        "location": {
+            "basicLocation": {
+                "countryCode": "in"
+            }
+        },
+        "headline": "Advocate at Gauhati High Court",
+        "displayPictureUrl": "https://media-exp1.licdn.com/dms/image/C5103AQGXDi1Akk8POg/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/0/1532528473290?e=1656547200&v=beta&t=CjN_V7nqTIjT4I3JUvsmQpr5WgLaImGCB4EUbxrZ7wY",
+        "img_200_200": "200_200/0/1532528473290?e=1656547200&v=beta&t=NyGGdFkqsxp3VCiYGjZuaKgFs1jmj_YVCK460SSAzAk",
+        "img_400_400": "400_400/0/1532528473290?e=1656547200&v=beta&t=AO4rIhyAxGAMAks9g60ZxLLt71VLESXaH5qnLiOpcfw",
+        "img_800_800": "800_800/0/1532528473290?e=1656547200&v=beta&t=uxVdw3mwi6BpJ2-gHFFKU9nKhA7up-LNDi6gUt3mn-4",
+        "profile_id": "ACoAACgjSt8BeiOHuTX4FilAfDIo8eRpEoNyr68",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAACgjSt8BeiOHuTX4FilAfDIo8eRpEoNyr68",
+        "member_urn": "urn:li:member:673401567",
+        "experience": [
+            {
+                "locationName": "Guwahati, Assam, India",
+                "entityUrn": "urn:li:fs_position:(ACoAACgjSt8BeiOHuTX4FilAfDIo8eRpEoNyr68,1341728154)",
+                "geoLocationName": "Guwahati, Assam, India",
+                "geoUrn": "urn:li:fs_geo:105607401",
+                "companyName": "Gauhati High Court",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 2,
+                        "year": 2016
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 201,
+                        "end": 500
+                    },
+                    "industries": [
+                        "Judiciary"
+                    ]
+                },
+                "title": "Associate Advocate",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:5765129"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAACgjSt8BeiOHuTX4FilAfDIo8eRpEoNyr68,544948800)",
+                "school": {
+                    "objectUrn": "urn:li:school:212806",
+                    "entityUrn": "urn:li:fs_miniSchool:212806",
+                    "active": true,
+                    "schoolName": "J.B. Law College",
+                    "trackingId": "3ZEncRg9Rgm3fhNKgecrwg=="
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2015
+                    },
+                    "startDate": {
+                        "year": 2010
+                    }
+                },
+                "degreeName": "LLB - Bachelor of Laws",
+                "schoolName": "J.B. Law College",
+                "fieldOfStudy": "b.a.llb",
+                "schoolUrn": "urn:li:fs_miniSchool:212806"
+            }
+        ],
+        "languages": [],
+        "publications": [],
+        "certifications": [
+            {
+                "authority": "Bar Council of Assam",
+                "name": "Certificate of Enrolment",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 1,
+                        "year": 2016
+                    }
+                }
+            }
+        ],
+        "volunteer": [],
+        "honors": [],
+        "projects": []
+    },
+    "contact_info": {
+        "email_address": "shikhas1312@gmail.com",
+        "websites": [],
+        "twitter": [],
+        "birthdate": null,
+        "ims": [
+            {
+                "provider": "SKYPE",
+                "id": "shikhas1312"
+            }
+        ],
+        "phone_numbers": [
+            {
+                "type": "MOBILE",
+                "number": "8638841582"
+            }
+        ]
+    },
+    "connections": [],
+    "skills": [
+        {
+            "name": "Legal Research",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:1770",
+            "standardizedSkill": {
+                "name": "Legal Research",
+                "entityUrn": "urn:li:fs_miniSkill:1770"
+            }
+        },
+        {
+            "name": "Litigation",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:431",
+            "standardizedSkill": {
+                "name": "Litigation",
+                "entityUrn": "urn:li:fs_miniSkill:431"
+            }
+        },
+        {
+            "name": "Legal Writing",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:4751",
+            "standardizedSkill": {
+                "name": "Legal Writing",
+                "entityUrn": "urn:li:fs_miniSkill:4751"
+            }
+        },
+        {
+            "name": "Civil Litigation",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:2006",
+            "standardizedSkill": {
+                "name": "Civil Litigation",
+                "entityUrn": "urn:li:fs_miniSkill:2006"
+            }
+        },
+        {
+            "name": "Corporate Law",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:1745",
+            "standardizedSkill": {
+                "name": "Corporate Law",
+                "entityUrn": "urn:li:fs_miniSkill:1745"
+            }
+        },
+        {
+            "name": "Legal Advice",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:4273",
+            "standardizedSkill": {
+                "name": "Legal Advice",
+                "entityUrn": "urn:li:fs_miniSkill:4273"
+            }
+        },
+        {
+            "name": "Legal Assistance",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:16611",
+            "standardizedSkill": {
+                "name": "Legal Assistance",
+                "entityUrn": "urn:li:fs_miniSkill:16611"
+            }
+        },
+        {
+            "name": "Arbitration",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:1861",
+            "standardizedSkill": {
+                "name": "Arbitration",
+                "entityUrn": "urn:li:fs_miniSkill:1861"
+            }
+        },
+        {
+            "name": "Criminal Law",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:1315",
+            "standardizedSkill": {
+                "name": "Criminal Law",
+                "entityUrn": "urn:li:fs_miniSkill:1315"
+            }
+        },
+        {
+            "name": "Legal Compliance"
+        },
+        {
+            "name": "Family Law"
+        },
+        {
+            "name": "Property Law"
+        },
+        {
+            "name": "Trials"
+        },
+        {
+            "name": "Alternative Dispute Resolution"
+        },
+        {
+            "name": "Consumer Law"
+        }
+    ]
+}

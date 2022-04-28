@@ -74,6 +74,9 @@ class LinkedInAPI:
             logging.info(f"[{datetime.now()}]   WRITING SEARCH INFO for: {post_urn}")
             data_file.write(data)
 
+    # @classmethod
+    # def 
+
 if __name__=="__main__":
     pass
 

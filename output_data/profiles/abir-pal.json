@@ -1,0 +1,539 @@
+{
+    "profile": {
+        "summary": "First of all I am a Student and pursuing my BTech in CSE and I am a Self Learner and I love to learn and use new languages, technology, frameworks,  products and devics and Currently I am working with Web Development and learning DSA ( Datastructure And Algorithams ).",
+        "industryName": "Information Technology & Services",
+        "lastName": "Pal",
+        "locationName": "India",
+        "student": false,
+        "geoCountryName": "India",
+        "geoCountryUrn": "urn:li:fs_geo:102713980",
+        "geoLocationBackfilled": false,
+        "elt": true,
+        "birthDate": {
+            "month": 9,
+            "day": 28
+        },
+        "industryUrn": "urn:li:fs_industry:96",
+        "firstName": "Abir",
+        "entityUrn": "urn:li:fs_profile:ACoAADKB8g4BV_oxOAjRubhfDFTf3zvU76Q8rUo",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:107140529"
+        },
+        "geoLocationName": "Asansol, West Bengal",
+        "location": {
+            "basicLocation": {
+                "countryCode": "in"
+            }
+        },
+        "headline": "Full Stack Web Developer at MERN Stack | Next.js | Strapi | Student Mentor at GSSoC22 | AI - ML Enthusiast",
+        "displayPictureUrl": "https://media-exp1.licdn.com/dms/image/C5603AQFQy0qu8Ph2QQ/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/0/1628591040615?e=1656547200&v=beta&t=nVUgSlL4f1z1joVZvaIsTIY-3nF7YAFJt0w_R8JLc7U",
+        "img_200_200": "200_200/0/1628591040615?e=1656547200&v=beta&t=W-sK3JPSUh4DHklb-5nIZKcahKd4l87Mz0BhpffzQ7M",
+        "img_400_400": "400_400/0/1628591040615?e=1656547200&v=beta&t=YTPUzC1I8zVTJ9CN8GA_ttKDs_lFeBomlA2HN2wYWtI",
+        "img_800_800": "800_800/0/1628591040615?e=1656547200&v=beta&t=xAgLzqefIVXZ2Q6bmPz-WyAfHuxx8um2ftInxcy7f1g",
+        "profile_id": "ACoAADKB8g4BV_oxOAjRubhfDFTf3zvU76Q8rUo",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAADKB8g4BV_oxOAjRubhfDFTf3zvU76Q8rUo",
+        "member_urn": "urn:li:member:847376910",
+        "experience": [
+            {
+                "locationName": "Kolkata, West Bengal, India",
+                "entityUrn": "urn:li:fs_position:(ACoAADKB8g4BV_oxOAjRubhfDFTf3zvU76Q8rUo,1950468496)",
+                "geoLocationName": "Kolkata, West Bengal, India",
+                "geoUrn": "urn:li:fs_geo:111795395",
+                "companyName": "GirlScript Asansol",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 4,
+                        "year": 2022
+                    }
+                },
+                "description": "Today, I am delighted to share that I have been selected for the Web Dev Lead role in GirlScript Asansol. I am thankful to the team of GirlScript Foundation and Tanmoyee Roy ma\u2019am for providing me with this wonderful experience.\n\nLooking forward to learning a lot from this opportunity and at the same time contributing to the community with the best of my abilities.\u2728",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 2,
+                        "end": 10
+                    },
+                    "industries": [
+                        "Higher Education"
+                    ]
+                },
+                "title": "Web Development Lead",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:85096603",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQGnt6Z0DtV3qg/company-logo_"
+            },
+            {
+                "locationName": "Remote",
+                "entityUrn": "urn:li:fs_position:(ACoAADKB8g4BV_oxOAjRubhfDFTf3zvU76Q8rUo,1952903099)",
+                "geoLocationName": "Remote",
+                "companyName": "Weframe.tech",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 12,
+                        "year": 2021
+                    }
+                },
+                "description": "- Developing several web apps using Next.JS and Strapi\n- Implemented Incremental Static Regeneration (ISR)\n- Improvised SEO and Accessibility of the Website\n- Generated VAPT reports of the Website",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 2,
+                        "end": 10
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Full Stack Developer",
+                "companyUrn": "urn:li:fs_miniCompany:76261780",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C560BAQEtqqzXDq3BQg/company-logo_"
+            },
+            {
+                "locationName": "India",
+                "entityUrn": "urn:li:fs_position:(ACoAADKB8g4BV_oxOAjRubhfDFTf3zvU76Q8rUo,1950461981)",
+                "geoLocationName": "India",
+                "geoUrn": "urn:li:fs_geo:102713980",
+                "companyName": "GirlScript Summer of Code",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 2,
+                        "year": 2022
+                    }
+                },
+                "description": "Mentor at GSSoC22",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Student Mentor",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:14488336",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C510BAQGSObrO0QPlMQ/company-logo_"
+            },
+            {
+                "locationName": "India",
+                "entityUrn": "urn:li:fs_position:(ACoAADKB8g4BV_oxOAjRubhfDFTf3zvU76Q8rUo,1950467303)",
+                "geoLocationName": "India",
+                "geoUrn": "urn:li:fs_geo:102713980",
+                "companyName": "Script Winter of Code",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 3,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 11,
+                        "year": 2021
+                    }
+                },
+                "description": "\u2b50 Script Winter of Code is an open-source program envisioned by the Script Foundation. It aims to bring students into the world of open source development and see the power of unified problem-solving in real-time.\n\u2b50 I will guide the students throughout their journey in this program.\n\u2b50 I will teach them the skills essential in the world of programming, all the while developing a deep appreciation for the world of open-source.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Education Management"
+                    ]
+                },
+                "title": "Student Mentor",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:69075094",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C560BAQGh8hr-FgbrHw/company-logo_"
+            },
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAADKB8g4BV_oxOAjRubhfDFTf3zvU76Q8rUo,1785001875)",
+                "companyName": "The Sparks Foundation",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 5,
+                        "year": 2021
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 51,
+                        "end": 200
+                    },
+                    "industries": [
+                        "Education Management"
+                    ]
+                },
+                "title": "Intern",
+                "companyUrn": "urn:li:fs_miniCompany:13625083",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C560BAQFgHU3sTF4LfQ/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAADKB8g4BV_oxOAjRubhfDFTf3zvU76Q8rUo,678647575)",
+                "school": {
+                    "objectUrn": "urn:li:school:3233829",
+                    "entityUrn": "urn:li:fs_miniSchool:3233829",
+                    "active": true,
+                    "schoolName": "Asansol Engineering College - India",
+                    "trackingId": "TlYypakjSiu76PDVGQ2azg=="
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2024
+                    },
+                    "startDate": {
+                        "year": 2020
+                    }
+                },
+                "degreeName": "Bachelor of Technology - BTech",
+                "schoolName": "Asansol Engineering College - India",
+                "fieldOfStudy": "Computer Science",
+                "schoolUrn": "urn:li:fs_miniSchool:3233829"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAADKB8g4BV_oxOAjRubhfDFTf3zvU76Q8rUo,678653201)",
+                "grade": "87.5%",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "year": 2018
+                    }
+                },
+                "degreeName": "11-12",
+                "schoolName": "DAV PUBLIC SCHOOL KANYAPUR ,ASANSOL",
+                "fieldOfStudy": "Science"
+            }
+        ],
+        "languages": [],
+        "publications": [],
+        "certifications": [
+            {
+                "authority": "HackerRank",
+                "name": "Python (Basic)",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 2,
+                        "year": 2021
+                    }
+                },
+                "licenseNumber": "16EA1D7BB073",
+                "company": {
+                    "objectUrn": "urn:li:company:435210",
+                    "entityUrn": "urn:li:fs_miniCompany:435210",
+                    "name": "HackerRank",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1641202397642?e=2147483647&v=beta&t=iJHEvNU0DCjMT9XiHeoSTBpzl7ozWetkwwGD1hb08JQ",
+                                    "expiresAt": 1658966400000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1641202397642?e=2147483647&v=beta&t=hdSts_g83fRKZIujTLwSyom9U7QOmm79o2-FtRKU2n0",
+                                    "expiresAt": 1658966400000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1641202397642?e=2147483647&v=beta&t=einyucGb3zeJyTCEa3c5Du-Nz2CCpNCL9Ypgp5JnrEo",
+                                    "expiresAt": 1658966400000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHneWLNCPQgDA/company-logo_"
+                        }
+                    },
+                    "universalName": "hackerrank",
+                    "dashCompanyUrn": "urn:li:fsd_company:435210",
+                    "trackingId": "tZ5kKRmNTKel2DtC+VoTBA=="
+                },
+                "displaySource": "hackerrank.com",
+                "companyUrn": "urn:li:fs_miniCompany:435210",
+                "url": "https://www.hackerrank.com/certificates/16ea1d7bb073"
+            },
+            {
+                "authority": "Eindhoven University of Technology",
+                "name": "Ethics, Technology and Engineering",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 3,
+                        "year": 2021
+                    }
+                },
+                "licenseNumber": "QCWYTJ2R6FBE",
+                "company": {
+                    "objectUrn": "urn:li:company:4838",
+                    "entityUrn": "urn:li:fs_miniCompany:4838",
+                    "name": "Eindhoven University of Technology",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1642150189320?e=2147483647&v=beta&t=r4SwaCojk7sxUHWe7EPJiZFOqbbiRW1bweaSHGMtBvw",
+                                    "expiresAt": 1658966400000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1642150189320?e=2147483647&v=beta&t=B_dTdXI0vxNc5Pl_5RCHhb1ZbsJphalp8FV0nwvPJ5o",
+                                    "expiresAt": 1658966400000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1642150189320?e=2147483647&v=beta&t=8AfEUUDsYzyUp9KDo1F3h4nHk9L0ReK2jB4KPDdJV5o",
+                                    "expiresAt": 1658966400000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQG4PGSYiNG4CA/company-logo_"
+                        }
+                    },
+                    "universalName": "eindhoven-university-of-technology",
+                    "dashCompanyUrn": "urn:li:fsd_company:4838",
+                    "trackingId": "BXplQr7OSKS/2IUldW5Drw=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:4838",
+                "url": "https://coursera.org/share/5ccc98125554bfad97472a2bc3f5243e"
+            },
+            {
+                "authority": "University of Michigan",
+                "name": "Programming for Everybody (Getting Started with Python)",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 6,
+                        "year": 2021
+                    }
+                },
+                "licenseNumber": "EUYKU8YG99QP",
+                "company": {
+                    "objectUrn": "urn:li:company:2516",
+                    "entityUrn": "urn:li:fs_miniCompany:2516",
+                    "name": "University of Michigan",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1519856309184?e=2147483647&v=beta&t=0EnaL5NBfQheBSJW-bDfbmBCDcHck0pPAb22lhwmKmg",
+                                    "expiresAt": 1658966400000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1519856309184?e=2147483647&v=beta&t=DgbhaULMJNAejba1o0w8Xh2UfvnNSP2UEcbCJttRQOY",
+                                    "expiresAt": 1658966400000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1519856309184?e=2147483647&v=beta&t=GMry1zA-LY1c2sxoJxPw3xKlB1BUQOP4YHNxaAvf9to",
+                                    "expiresAt": 1658966400000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQFGfERBPGurCg/company-logo_"
+                        }
+                    },
+                    "universalName": "university-of-michigan",
+                    "dashCompanyUrn": "urn:li:fsd_company:2516",
+                    "trackingId": "hSpKnxnLQw2waRjOqHkg6w=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:2516",
+                "url": "https://www.coursera.org/account/accomplishments/verify/EUYKU8YG99QP"
+            },
+            {
+                "authority": "University of Pennsylvania",
+                "name": "English for Career Development",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 6,
+                        "year": 2021
+                    }
+                },
+                "licenseNumber": "2W6YR3DX8GCC",
+                "company": {
+                    "objectUrn": "urn:li:company:3165",
+                    "entityUrn": "urn:li:fs_miniCompany:3165",
+                    "name": "University of Pennsylvania",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1574783042416?e=2147483647&v=beta&t=2JgV355kgpxUM8W1xYYpU8n-dgmkOaZWX89zENIa7p8",
+                                    "expiresAt": 1658966400000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1574783042416?e=2147483647&v=beta&t=HpJeJeJrzmuqX8AbxmqHmGZA1WFWmVKSvJwyVGDldHI",
+                                    "expiresAt": 1658966400000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1574783042416?e=2147483647&v=beta&t=NGQsgnXVYGklJGirSciPM1N5kQKfl5ufDbQJyv2-Qf0",
+                                    "expiresAt": 1658966400000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQHnbnsnJlBiZg/company-logo_"
+                        }
+                    },
+                    "universalName": "university-of-pennsylvania",
+                    "dashCompanyUrn": "urn:li:fsd_company:3165",
+                    "trackingId": "MTOuB/dbTOaImuc64a4H2w=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:3165",
+                "url": "https://www.coursera.org/account/accomplishments/verify/2W6YR3DX8GCC"
+            }
+        ],
+        "volunteer": [],
+        "honors": [],
+        "projects": []
+    },
+    "contact_info": {
+        "email_address": null,
+        "websites": [],
+        "twitter": [],
+        "birthdate": {
+            "month": 9,
+            "day": 28
+        },
+        "ims": null,
+        "phone_numbers": []
+    },
+    "connections": [],
+    "skills": [
+        {
+            "name": "Full-stack web development"
+        },
+        {
+            "name": "WordPress"
+        },
+        {
+            "name": "Android Development",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:26904",
+            "standardizedSkill": {
+                "name": "Android Development",
+                "entityUrn": "urn:li:fs_miniSkill:26904"
+            }
+        },
+        {
+            "name": "Engineering",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:166",
+            "standardizedSkill": {
+                "name": "Engineering",
+                "entityUrn": "urn:li:fs_miniSkill:166"
+            }
+        },
+        {
+            "name": "Search Engine Optimization (SEO)",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:512",
+            "standardizedSkill": {
+                "name": "Search Engine Optimization (SEO)",
+                "entityUrn": "urn:li:fs_miniSkill:512"
+            }
+        },
+        {
+            "name": "HTML5"
+        },
+        {
+            "name": "Microsoft Visual Studio Code"
+        },
+        {
+            "name": "C++",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:198",
+            "standardizedSkill": {
+                "name": "C++",
+                "entityUrn": "urn:li:fs_miniSkill:198"
+            }
+        },
+        {
+            "name": "Django",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:5103",
+            "standardizedSkill": {
+                "name": "Django",
+                "entityUrn": "urn:li:fs_miniSkill:5103"
+            }
+        },
+        {
+            "name": "Python (Programming Language)",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:1346",
+            "standardizedSkill": {
+                "name": "Python (Programming Language)",
+                "entityUrn": "urn:li:fs_miniSkill:1346"
+            }
+        },
+        {
+            "name": "C"
+        },
+        {
+            "name": "JavaScript"
+        },
+        {
+            "name": "Cascading Style Sheets (CSS)"
+        },
+        {
+            "name": "Bootstrap"
+        },
+        {
+            "name": "Android Studio",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:55003",
+            "standardizedSkill": {
+                "name": "Android Studio",
+                "entityUrn": "urn:li:fs_miniSkill:55003"
+            }
+        },
+        {
+            "name": "Git"
+        },
+        {
+            "name": "GitHub"
+        },
+        {
+            "name": "Stock Market"
+        },
+        {
+            "name": "Bitcoin"
+        },
+        {
+            "name": "MERN Stack"
+        },
+        {
+            "name": "Flutter"
+        },
+        {
+            "name": "Web Development"
+        },
+        {
+            "name": "c++"
+        },
+        {
+            "name": "c"
+        }
+    ]
+}

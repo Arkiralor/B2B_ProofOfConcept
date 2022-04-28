@@ -1,0 +1,1266 @@
+{
+    "profile": {
+        "summary": "Currently learning about data engineering with AWS services like GLUE and Kinesis  and data warehouse like Redshift to create a complete ETL pipeline. Have good knowledge and experience of working in web development areas like MERN stack and Laravel like framework. In my free time, I enjoy doing competitive programming, reading about new technologies like AWS cloud.\n\nI also write medium blogs for python related topics , you can check them here \n\nhttps://medium.com/me/stories/public",
+        "industryName": "Information Technology & Services",
+        "lastName": "Borah",
+        "address": "Rowriah Nefa tini ali, near borbheta post office",
+        "locationName": "India",
+        "student": false,
+        "geoCountryName": "India",
+        "geoCountryUrn": "urn:li:fs_geo:102713980",
+        "geoLocationBackfilled": false,
+        "elt": true,
+        "birthDate": {
+            "month": 8,
+            "day": 12
+        },
+        "industryUrn": "urn:li:fs_industry:96",
+        "firstName": "Nabajyoti",
+        "entityUrn": "urn:li:fs_profile:ACoAACZxhUQBl1V8kpLj4ACrE2LzpatGvVzEgSA",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:105292557"
+        },
+        "geoLocationName": "Jorhat, Assam",
+        "location": {
+            "basicLocation": {
+                "countryCode": "in"
+            }
+        },
+        "headline": "Programmer Analyst at TechVariable\u00ae | AWS | Data engineering (Python) | Django l fastAPI l Node js",
+        "displayPictureUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQHY5Qt6rKoCFQ/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/0/1637762188093?e=1656547200&v=beta&t=8xINr8qjoAmHIHPexVmWvjxa4Lw0f9pUFFCfXpiWaBc",
+        "img_200_200": "200_200/0/1637762188093?e=1656547200&v=beta&t=4PIVWnRSMNEHDrl7-RYNLgA-dxU7bT2eFalacihISm0",
+        "img_400_400": "400_400/0/1637762188093?e=1656547200&v=beta&t=r7ssVIzp5ld8JGsjB6AqnELDm0eZCXyE7Ro0Jiyk-xw",
+        "img_800_800": "800_800/0/1637762188093?e=1656547200&v=beta&t=E0aGTWk2tZhiuckLbDFGn6P5RiN7unMPuyUYFYu_-Sc",
+        "profile_id": "ACoAACZxhUQBl1V8kpLj4ACrE2LzpatGvVzEgSA",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAACZxhUQBl1V8kpLj4ACrE2LzpatGvVzEgSA",
+        "member_urn": "urn:li:member:644973892",
+        "experience": [
+            {
+                "locationName": "Guwahati, Assam, India",
+                "entityUrn": "urn:li:fs_position:(ACoAACZxhUQBl1V8kpLj4ACrE2LzpatGvVzEgSA,1869902482)",
+                "geoLocationName": "Guwahati, Assam, India",
+                "geoUrn": "urn:li:fs_geo:105607401",
+                "companyName": "TechVariable",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 11,
+                        "year": 2021
+                    }
+                },
+                "description": "* Working as a Backend developer  on a Microservice architecture project which uses Kafka as a streaming service and Postgres and MongoDB for database\n* Responsible for building solutions to parse formulas from an excel sheet and convert them to executable formulas which can be utilized to create scores\n* Worked in building ETL pipeline using pyspark and AWS GLUE with streaming services like AWS kinesis",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Programmer Analyst",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:10632640",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQE6IzKHUZQmAA/company-logo_"
+            },
+            {
+                "locationName": "Guwahati, Assam, India",
+                "entityUrn": "urn:li:fs_position:(ACoAACZxhUQBl1V8kpLj4ACrE2LzpatGvVzEgSA,1802357180)",
+                "geoLocationName": "Guwahati, Assam, India",
+                "geoUrn": "urn:li:fs_geo:105607401",
+                "companyName": "TechVariable\u00ae",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 10,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 7,
+                        "year": 2021
+                    }
+                },
+                "description": "* Working on a microservice project",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Programmer Analyst Trainee",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:10632640",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQE6IzKHUZQmAA/company-logo_"
+            },
+            {
+                "locationName": "Jorhat, Assam, India",
+                "projects": [
+                    "urn:li:fs_project:(ACoAACZxhUQBl1V8kpLj4ACrE2LzpatGvVzEgSA,239730042)"
+                ],
+                "geoUrn": "urn:li:fs_geo:112924919",
+                "companyName": "SEWA",
+                "description": "* Developed a web application using Django and DRF for the organization to handle all of its operations.\n* Integrated API gateways for payments using Instamojo\n* Incorporated calendar APIs for event organization\n* Worked as a full stack developer in Nurse service provider web application \n    - Created Attendance module for daily attendance \n    - Nurse and patient registration and also online payment",
+                "title": "Web Application Developer",
+                "companyUrn": "urn:li:fs_miniCompany:28595260",
+                "entityUrn": "urn:li:fs_position:(ACoAACZxhUQBl1V8kpLj4ACrE2LzpatGvVzEgSA,1682599130)",
+                "geoLocationName": "Jorhat, Assam, India",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 3,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 10,
+                        "year": 2020
+                    }
+                },
+                "organizations": [
+                    "urn:li:fs_organization:(ACoAACZxhUQBl1V8kpLj4ACrE2LzpatGvVzEgSA,917113725)"
+                ],
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Nonprofit Organization Management"
+                    ]
+                },
+                "region": "urn:li:fs_region:(in,0)",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C510BAQFSYlwhzB46dg/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "projects": [
+                    "urn:li:fs_project:(ACoAACZxhUQBl1V8kpLj4ACrE2LzpatGvVzEgSA,239292625)",
+                    "urn:li:fs_project:(ACoAACZxhUQBl1V8kpLj4ACrE2LzpatGvVzEgSA,241011875)"
+                ],
+                "entityUrn": "urn:li:fs_education:(ACoAACZxhUQBl1V8kpLj4ACrE2LzpatGvVzEgSA,505691186)",
+                "school": {
+                    "objectUrn": "urn:li:school:213912",
+                    "entityUrn": "urn:li:fs_miniSchool:213912",
+                    "active": true,
+                    "schoolName": "Kaziranga University",
+                    "trackingId": "B+cuwl8/Qaa/mxJkJ+wCfg==",
+                    "logoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQElalzjOh8NUA/company-logo_"
+                },
+                "grade": "9.51 CGPA",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 7,
+                        "year": 2016
+                    }
+                },
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100176",
+                "degreeName": "Master of Science - MS",
+                "schoolName": "Kaziranga University",
+                "fieldOfStudy": "Information Technology",
+                "degreeUrn": "urn:li:fs_degree:626",
+                "schoolUrn": "urn:li:fs_miniSchool:213912"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAACZxhUQBl1V8kpLj4ACrE2LzpatGvVzEgSA,730388130)",
+                "school": {
+                    "objectUrn": "urn:li:school:563065",
+                    "entityUrn": "urn:li:fs_miniSchool:563065",
+                    "active": true,
+                    "schoolName": "Army Public School Jorhat",
+                    "trackingId": "D4/46BlcRKOhyD1cUIm2mg==",
+                    "logoUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQEvFRtFU-ksGA/company-logo_"
+                },
+                "grade": "72.2%",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2016
+                    },
+                    "startDate": {
+                        "year": 2014
+                    }
+                },
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100189",
+                "degreeName": "Higher secondary",
+                "schoolName": "Army Public School Jorhat",
+                "fieldOfStudy": "Computer Science",
+                "schoolUrn": "urn:li:fs_miniSchool:563065"
+            }
+        ],
+        "languages": [],
+        "publications": [],
+        "certifications": [
+            {
+                "authority": "Coursera",
+                "name": "DeepLearning.AI TensorFlow Developer Specialization",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 5,
+                        "year": 2020
+                    }
+                },
+                "licenseNumber": "4WABEX8DB7CA",
+                "company": {
+                    "objectUrn": "urn:li:company:2453129",
+                    "entityUrn": "urn:li:fs_miniCompany:2453129",
+                    "name": "Coursera",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1608039227697?e=2147483647&v=beta&t=pvpGY1OenKeH7GG49DtlI6ne5NVXxm6IEnfV-EfSAdw",
+                                    "expiresAt": 1658966400000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1608039227697?e=2147483647&v=beta&t=XPIN_zBKBmgWp_N9EDiww52RGQcHN2dDRHL1u_Ir61w",
+                                    "expiresAt": 1658966400000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1608039227697?e=2147483647&v=beta&t=DBRZC6OrK9VdgkjksxNMILxzuwfXh-7DLdIwpcBL0rE",
+                                    "expiresAt": 1658966400000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQGexnfBxeEG-g/company-logo_"
+                        }
+                    },
+                    "universalName": "coursera",
+                    "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                    "trackingId": "a3UAkZ6YSWOjvWJFVAhBSA=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:2453129",
+                "url": "https://www.coursera.org/account/accomplishments/specialization/certificate/4WABEX8DB7CA"
+            },
+            {
+                "authority": "Coursera",
+                "name": "Deep Learning Specialization",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 7,
+                        "year": 2020
+                    }
+                },
+                "licenseNumber": "KRCSUN4RJXGU",
+                "company": {
+                    "objectUrn": "urn:li:company:2453129",
+                    "entityUrn": "urn:li:fs_miniCompany:2453129",
+                    "name": "Coursera",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1608039227697?e=2147483647&v=beta&t=pvpGY1OenKeH7GG49DtlI6ne5NVXxm6IEnfV-EfSAdw",
+                                    "expiresAt": 1658966400000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1608039227697?e=2147483647&v=beta&t=XPIN_zBKBmgWp_N9EDiww52RGQcHN2dDRHL1u_Ir61w",
+                                    "expiresAt": 1658966400000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1608039227697?e=2147483647&v=beta&t=DBRZC6OrK9VdgkjksxNMILxzuwfXh-7DLdIwpcBL0rE",
+                                    "expiresAt": 1658966400000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQGexnfBxeEG-g/company-logo_"
+                        }
+                    },
+                    "universalName": "coursera",
+                    "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                    "trackingId": "j1tasTD7SKS+M8DYUm4dYQ=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:2453129",
+                "url": "https://www.coursera.org/account/accomplishments/specialization/certificate/KRCSUN4RJXGU"
+            },
+            {
+                "authority": "Coursera",
+                "name": "TensorFlow: Data and Deployment Specialization",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 8,
+                        "year": 2020
+                    }
+                },
+                "licenseNumber": "CE7PXX4XHFXW",
+                "company": {
+                    "objectUrn": "urn:li:company:2453129",
+                    "entityUrn": "urn:li:fs_miniCompany:2453129",
+                    "name": "Coursera",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1608039227697?e=2147483647&v=beta&t=pvpGY1OenKeH7GG49DtlI6ne5NVXxm6IEnfV-EfSAdw",
+                                    "expiresAt": 1658966400000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1608039227697?e=2147483647&v=beta&t=XPIN_zBKBmgWp_N9EDiww52RGQcHN2dDRHL1u_Ir61w",
+                                    "expiresAt": 1658966400000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1608039227697?e=2147483647&v=beta&t=DBRZC6OrK9VdgkjksxNMILxzuwfXh-7DLdIwpcBL0rE",
+                                    "expiresAt": 1658966400000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQGexnfBxeEG-g/company-logo_"
+                        }
+                    },
+                    "universalName": "coursera",
+                    "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                    "trackingId": "ZLBr11BJT7qXA/BUALwqgQ=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:2453129",
+                "url": "https://www.coursera.org/account/accomplishments/specialization/certificate/CE7PXX4XHFXW"
+            },
+            {
+                "authority": "Coursera",
+                "name": "Using TensorFlow with Amazon Sagemaker",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 9,
+                        "year": 2020
+                    }
+                },
+                "licenseNumber": "453HZ9BD6JDT",
+                "company": {
+                    "objectUrn": "urn:li:company:2453129",
+                    "entityUrn": "urn:li:fs_miniCompany:2453129",
+                    "name": "Coursera",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1608039227697?e=2147483647&v=beta&t=pvpGY1OenKeH7GG49DtlI6ne5NVXxm6IEnfV-EfSAdw",
+                                    "expiresAt": 1658966400000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1608039227697?e=2147483647&v=beta&t=XPIN_zBKBmgWp_N9EDiww52RGQcHN2dDRHL1u_Ir61w",
+                                    "expiresAt": 1658966400000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1608039227697?e=2147483647&v=beta&t=DBRZC6OrK9VdgkjksxNMILxzuwfXh-7DLdIwpcBL0rE",
+                                    "expiresAt": 1658966400000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQGexnfBxeEG-g/company-logo_"
+                        }
+                    },
+                    "universalName": "coursera",
+                    "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                    "trackingId": "+Z6EcDVgSTuzLd6jHg+IlA=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:2453129",
+                "url": "https://www.coursera.org/account/accomplishments/certificate/453HZ9BD6JDT"
+            },
+            {
+                "authority": "Coursera",
+                "name": "Natural Language Processing with Classification and Vector Spaces",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 8,
+                        "year": 2020
+                    }
+                },
+                "licenseNumber": "24S26MCNCBGM",
+                "company": {
+                    "objectUrn": "urn:li:company:2453129",
+                    "entityUrn": "urn:li:fs_miniCompany:2453129",
+                    "name": "Coursera",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1608039227697?e=2147483647&v=beta&t=pvpGY1OenKeH7GG49DtlI6ne5NVXxm6IEnfV-EfSAdw",
+                                    "expiresAt": 1658966400000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1608039227697?e=2147483647&v=beta&t=XPIN_zBKBmgWp_N9EDiww52RGQcHN2dDRHL1u_Ir61w",
+                                    "expiresAt": 1658966400000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1608039227697?e=2147483647&v=beta&t=DBRZC6OrK9VdgkjksxNMILxzuwfXh-7DLdIwpcBL0rE",
+                                    "expiresAt": 1658966400000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQGexnfBxeEG-g/company-logo_"
+                        }
+                    },
+                    "universalName": "coursera",
+                    "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                    "trackingId": "jo037hItQPSgPiDlo2+PYQ=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:2453129",
+                "url": "https://www.coursera.org/account/accomplishments/certificate/24S26MCNCBGM"
+            },
+            {
+                "authority": "Amazon Web Services (AWS)",
+                "name": "AWS Academy Graduate - AWS Academy Cloud Foundations",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 5,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 5,
+                        "year": 2021
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:2382910",
+                    "entityUrn": "urn:li:fs_miniCompany:2382910",
+                    "name": "Amazon Web Services (AWS)",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1640205885683?e=2147483647&v=beta&t=A-9vpU-DpLR3lg6cYzLHyo0hzJNAYBoV9GI8EGbqJZM",
+                                    "expiresAt": 1658966400000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1640205885683?e=2147483647&v=beta&t=Aqmvxbh9I3Uv6XnBvlWCAPw4AU3meh8EPznk1Nfv8NU",
+                                    "expiresAt": 1658966400000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1640205885683?e=2147483647&v=beta&t=Uo9jNJSYj7scw9LIwr52hTiLGaqks20zISCBUU5VTL4",
+                                    "expiresAt": 1658966400000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQE_4UwvNNtNTQ/company-logo_"
+                        }
+                    },
+                    "universalName": "amazon-web-services",
+                    "dashCompanyUrn": "urn:li:fsd_company:2382910",
+                    "trackingId": "jxgLE43TTym3D+qWja8CDw=="
+                },
+                "displaySource": "credly.com",
+                "companyUrn": "urn:li:fs_miniCompany:2382910",
+                "url": "https://www.credly.com/badges/e8fae731-5c32-47e6-af0f-a336351e2094?source=linked_in_profile"
+            },
+            {
+                "authority": "Coursera",
+                "name": "Custom Models, Layers, and Loss Functions with TensorFlow",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 3,
+                        "year": 2021
+                    }
+                },
+                "licenseNumber": "LZ2MB53MWUYA",
+                "company": {
+                    "objectUrn": "urn:li:company:2453129",
+                    "entityUrn": "urn:li:fs_miniCompany:2453129",
+                    "name": "Coursera",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1608039227697?e=2147483647&v=beta&t=pvpGY1OenKeH7GG49DtlI6ne5NVXxm6IEnfV-EfSAdw",
+                                    "expiresAt": 1658966400000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1608039227697?e=2147483647&v=beta&t=XPIN_zBKBmgWp_N9EDiww52RGQcHN2dDRHL1u_Ir61w",
+                                    "expiresAt": 1658966400000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1608039227697?e=2147483647&v=beta&t=DBRZC6OrK9VdgkjksxNMILxzuwfXh-7DLdIwpcBL0rE",
+                                    "expiresAt": 1658966400000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQGexnfBxeEG-g/company-logo_"
+                        }
+                    },
+                    "universalName": "coursera",
+                    "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                    "trackingId": "CA4lr926SAmO+ZWGtLi4dQ=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:2453129",
+                "url": "https://www.coursera.org/account/accomplishments/certificate/LZ2MB53MWUYA"
+            },
+            {
+                "authority": "HackerRank",
+                "name": "Python (Basic)",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 7,
+                        "year": 2021
+                    }
+                },
+                "licenseNumber": "AF699496F6C1",
+                "company": {
+                    "objectUrn": "urn:li:company:435210",
+                    "entityUrn": "urn:li:fs_miniCompany:435210",
+                    "name": "HackerRank",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1641202397642?e=2147483647&v=beta&t=iJHEvNU0DCjMT9XiHeoSTBpzl7ozWetkwwGD1hb08JQ",
+                                    "expiresAt": 1658966400000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1641202397642?e=2147483647&v=beta&t=hdSts_g83fRKZIujTLwSyom9U7QOmm79o2-FtRKU2n0",
+                                    "expiresAt": 1658966400000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1641202397642?e=2147483647&v=beta&t=einyucGb3zeJyTCEa3c5Du-Nz2CCpNCL9Ypgp5JnrEo",
+                                    "expiresAt": 1658966400000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHneWLNCPQgDA/company-logo_"
+                        }
+                    },
+                    "universalName": "hackerrank",
+                    "dashCompanyUrn": "urn:li:fsd_company:435210",
+                    "trackingId": "/zPQLYhuRYC4+lZuCrnsfg=="
+                },
+                "displaySource": "hackerrank.com",
+                "companyUrn": "urn:li:fs_miniCompany:435210",
+                "url": "https://www.hackerrank.com/certificates/af699496f6c1"
+            },
+            {
+                "authority": "Udemy",
+                "name": "Python-Django",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 6,
+                        "year": 2021
+                    }
+                },
+                "licenseNumber": "UC-d8b35ce9-dc2e-4f69-b237-f70c2d94330b",
+                "company": {
+                    "objectUrn": "urn:li:company:822535",
+                    "entityUrn": "urn:li:fs_miniCompany:822535",
+                    "name": "Udemy",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1626275253364?e=2147483647&v=beta&t=8MdoFbBWBgGX0-2lzYyhkgSsXi-QfhSTJElBKTUPC8g",
+                                    "expiresAt": 1658966400000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1626275253364?e=2147483647&v=beta&t=Wz78YREAq7TUQO6J0Y_a1TyyEURdQUMzZrU3OrIV5o0",
+                                    "expiresAt": 1658966400000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1626275253364?e=2147483647&v=beta&t=X8yvPPlXymbrCj4gcwT6r2Hp6czhSNYR4tQvq13_U6g",
+                                    "expiresAt": 1658966400000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQFQr9e68bBOPQ/company-logo_"
+                        }
+                    },
+                    "universalName": "udemy",
+                    "dashCompanyUrn": "urn:li:fsd_company:822535",
+                    "trackingId": "CnTKp1tYRmGYN06bDLSxSA=="
+                },
+                "displaySource": "udemy.com",
+                "companyUrn": "urn:li:fs_miniCompany:822535",
+                "url": "https://www.udemy.com/certificate/UC-d8b35ce9-dc2e-4f69-b237-f70c2d94330b/"
+            }
+        ],
+        "volunteer": [
+            {
+                "role": "Student Intern",
+                "companyName": "SEWA",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 8,
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "month": 5,
+                        "year": 2020
+                    }
+                },
+                "cause": "EDUCATION",
+                "description": "I worked as a web developer and created a web application for Nursing Service, which helps to provide jobs for the unemployed in the COVID time. I worked in a team of 3 to develop the application using technology stack of laravel, MySQL database, and HTML5, css3, js",
+                "company": {
+                    "miniCompany": {
+                        "objectUrn": "urn:li:company:28595260",
+                        "entityUrn": "urn:li:fs_miniCompany:28595260",
+                        "name": "SEWA",
+                        "showcase": false,
+                        "active": true,
+                        "logo": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1560876586015?e=2147483647&v=beta&t=F2s2cv5YvlXa3LTDJssYZsCd8KZyPtRqjl8V_851prE",
+                                        "expiresAt": 1658966400000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1560876586015?e=2147483647&v=beta&t=T0iENDcCUoCdQyOmkDtVDmaonCdmV-fPRAZHLO90NiI",
+                                        "expiresAt": 1658966400000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1560876586015?e=2147483647&v=beta&t=7X0Ws1X_LifWhKcJp2X5amIaiaQIwq0LpXSMrybOuEE",
+                                        "expiresAt": 1658966400000,
+                                        "height": 400
+                                    }
+                                ],
+                                "rootUrl": "https://media-exp1.licdn.com/dms/image/C510BAQFSYlwhzB46dg/company-logo_"
+                            }
+                        },
+                        "universalName": "sewango",
+                        "dashCompanyUrn": "urn:li:fsd_company:28595260",
+                        "trackingId": "nx1O78o7Rhq4HySqKPTvWw=="
+                    }
+                },
+                "companyUrn": "urn:li:fs_miniCompany:28595260"
+            }
+        ],
+        "honors": [],
+        "projects": [
+            {
+                "occupation": "urn:li:fs_education:(ACoAACZxhUQBl1V8kpLj4ACrE2LzpatGvVzEgSA,505691186)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Nabajyoti",
+                            "lastName": "Borah",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACZxhUQBl1V8kpLj4ACrE2LzpatGvVzEgSA",
+                            "occupation": "Programmer Analyst at TechVariable\u00ae | AWS | Data engineering (Python) | Django l fastAPI l Node js",
+                            "objectUrn": "urn:li:member:644973892",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACZxhUQBl1V8kpLj4ACrE2LzpatGvVzEgSA",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1642407117803?e=2147483647&v=beta&t=_RWVQtvlfK7jXd08R4nD9XmcNYT3RbWBmXifJ-tehQg",
+                                            "expiresAt": 1656547200000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1642407117803?e=2147483647&v=beta&t=98ZgmHk8MPGs43oUaCU8vKwt6OGm-NG2GjgRx1b9kJ8",
+                                            "expiresAt": 1656547200000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E16AQEZ3YrpAcAMUA/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "nabajyoti-borah-944000160",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1637762188093?e=1656547200&v=beta&t=8xINr8qjoAmHIHPexVmWvjxa4Lw0f9pUFFCfXpiWaBc",
+                                            "expiresAt": 1656547200000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1637762188093?e=1656547200&v=beta&t=4PIVWnRSMNEHDrl7-RYNLgA-dxU7bT2eFalacihISm0",
+                                            "expiresAt": 1656547200000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1637762188093?e=1656547200&v=beta&t=r7ssVIzp5ld8JGsjB6AqnELDm0eZCXyE7Ro0Jiyk-xw",
+                                            "expiresAt": 1656547200000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1637762188093?e=1656547200&v=beta&t=E0aGTWk2tZhiuckLbDFGn6P5RiN7unMPuyUYFYu_-Sc",
+                                            "expiresAt": 1656547200000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQHY5Qt6rKoCFQ/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "osL6DDl+Qgu8j3OvJ89EgQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAACZxhUQBl1V8kpLj4ACrE2LzpatGvVzEgSA,239292625,306230190)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACZxhUQBl1V8kpLj4ACrE2LzpatGvVzEgSA"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Raju Moni",
+                            "lastName": "Borah",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAClGHl8Bkg1-FBWeyXHlveDeXDBovpxKYtw",
+                            "occupation": "Programmer Analyst Trainee @TechVariable| Laravel | Flutter",
+                            "objectUrn": "urn:li:member:692461151",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAClGHl8Bkg1-FBWeyXHlveDeXDBovpxKYtw",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1645069827485?e=2147483647&v=beta&t=NAx45WY2iqyYqyoZv_BBz_k8H4QHN6_WuVfH2yZIkqU",
+                                            "expiresAt": 1656547200000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1645069827485?e=2147483647&v=beta&t=SOMp-3YLGlPJJpzqZVfsgE6labIz0n7gjFebEsnjUzM",
+                                            "expiresAt": 1656547200000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5616AQHGz_tCxYjhgA/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "raju-moni-borah-9bbaa1173",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1593531737515?e=1656547200&v=beta&t=Dgxboehn-6YtrhDe6zBNKiqyVFknpWT7P3ojVYuCZBs",
+                                            "expiresAt": 1656547200000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1593531737515?e=1656547200&v=beta&t=4bwANHPouD5RyGm_UeeyWveUl_cimONGdLVf3NorsSk",
+                                            "expiresAt": 1656547200000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1593531737515?e=1656547200&v=beta&t=Q87nKOJY4nU08Xb024o3y3j1MAuSwW6bSESdwHMkFno",
+                                            "expiresAt": 1656547200000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1593531737515?e=1656547200&v=beta&t=TN9r-TnO6KvJ6xiv0wjxwjPnJe_cx3Fb8KpsAOw1CaA",
+                                            "expiresAt": 1656547200000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E03AQFkvA23QNFrbw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "Y2C9yuCCQG6g4y0K1tb/dg=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAACZxhUQBl1V8kpLj4ACrE2LzpatGvVzEgSA,239292625,306226748)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAClGHl8Bkg1-FBWeyXHlveDeXDBovpxKYtw"
+                    }
+                ],
+                "timePeriod": {
+                    "startDate": {
+                        "month": 9,
+                        "year": 2020
+                    }
+                },
+                "description": "Trying to detect tea leave disease of three classes using Mask RCNN, using PixelLib. And also with the help of segmented parts, trying to calculate the total diseased area in the leave. In the future, I will try mattertplot Mask RCNn repo when it will be updated to TensorFlow 2.0  to train my model with more flexibility. The Training of the model is done in AWS EC2 , and the model will deployed in EC2 with help of Fast API. User will be able predict the leaves using an application built on flutter and also for web a react application with node js backend",
+                "title": "Tea Leaves disease Detection and segmentation",
+                "url": "https://github.com/Nabajyoti4/Tea-leaves-detection-with-Mask-RCNN.git"
+            },
+            {
+                "occupation": "urn:li:fs_position:(ACoAACZxhUQBl1V8kpLj4ACrE2LzpatGvVzEgSA,1682599130)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Nabajyoti",
+                            "lastName": "Borah",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACZxhUQBl1V8kpLj4ACrE2LzpatGvVzEgSA",
+                            "occupation": "Programmer Analyst at TechVariable\u00ae | AWS | Data engineering (Python) | Django l fastAPI l Node js",
+                            "objectUrn": "urn:li:member:644973892",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACZxhUQBl1V8kpLj4ACrE2LzpatGvVzEgSA",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1642407117803?e=2147483647&v=beta&t=_RWVQtvlfK7jXd08R4nD9XmcNYT3RbWBmXifJ-tehQg",
+                                            "expiresAt": 1656547200000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1642407117803?e=2147483647&v=beta&t=98ZgmHk8MPGs43oUaCU8vKwt6OGm-NG2GjgRx1b9kJ8",
+                                            "expiresAt": 1656547200000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E16AQEZ3YrpAcAMUA/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "nabajyoti-borah-944000160",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1637762188093?e=1656547200&v=beta&t=8xINr8qjoAmHIHPexVmWvjxa4Lw0f9pUFFCfXpiWaBc",
+                                            "expiresAt": 1656547200000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1637762188093?e=1656547200&v=beta&t=4PIVWnRSMNEHDrl7-RYNLgA-dxU7bT2eFalacihISm0",
+                                            "expiresAt": 1656547200000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1637762188093?e=1656547200&v=beta&t=r7ssVIzp5ld8JGsjB6AqnELDm0eZCXyE7Ro0Jiyk-xw",
+                                            "expiresAt": 1656547200000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1637762188093?e=1656547200&v=beta&t=E0aGTWk2tZhiuckLbDFGn6P5RiN7unMPuyUYFYu_-Sc",
+                                            "expiresAt": 1656547200000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQHY5Qt6rKoCFQ/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "osL6DDl+Qgu8j3OvJ89EgQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAACZxhUQBl1V8kpLj4ACrE2LzpatGvVzEgSA,239730042,306231089)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACZxhUQBl1V8kpLj4ACrE2LzpatGvVzEgSA"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Raju Moni",
+                            "lastName": "Borah",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAClGHl8Bkg1-FBWeyXHlveDeXDBovpxKYtw",
+                            "occupation": "Programmer Analyst Trainee @TechVariable| Laravel | Flutter",
+                            "objectUrn": "urn:li:member:692461151",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAClGHl8Bkg1-FBWeyXHlveDeXDBovpxKYtw",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1645069827485?e=2147483647&v=beta&t=NAx45WY2iqyYqyoZv_BBz_k8H4QHN6_WuVfH2yZIkqU",
+                                            "expiresAt": 1656547200000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1645069827485?e=2147483647&v=beta&t=SOMp-3YLGlPJJpzqZVfsgE6labIz0n7gjFebEsnjUzM",
+                                            "expiresAt": 1656547200000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5616AQHGz_tCxYjhgA/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "raju-moni-borah-9bbaa1173",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1593531737515?e=1656547200&v=beta&t=Dgxboehn-6YtrhDe6zBNKiqyVFknpWT7P3ojVYuCZBs",
+                                            "expiresAt": 1656547200000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1593531737515?e=1656547200&v=beta&t=4bwANHPouD5RyGm_UeeyWveUl_cimONGdLVf3NorsSk",
+                                            "expiresAt": 1656547200000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1593531737515?e=1656547200&v=beta&t=Q87nKOJY4nU08Xb024o3y3j1MAuSwW6bSESdwHMkFno",
+                                            "expiresAt": 1656547200000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1593531737515?e=1656547200&v=beta&t=TN9r-TnO6KvJ6xiv0wjxwjPnJe_cx3Fb8KpsAOw1CaA",
+                                            "expiresAt": 1656547200000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E03AQFkvA23QNFrbw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "Y2C9yuCCQG6g4y0K1tb/dg=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAACZxhUQBl1V8kpLj4ACrE2LzpatGvVzEgSA,239730042,306225878)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAClGHl8Bkg1-FBWeyXHlveDeXDBovpxKYtw"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Vivek",
+                            "lastName": "Chetia",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAB2igH8BZFLJ9nNA_LBQ_vAn-PxtQyThshc",
+                            "occupation": "Programmer Analyst at TechVariable\u00ae Web3 | Moralis| MERN | Nodejs | Reactjs | React Native | AWS",
+                            "objectUrn": "urn:li:member:497188991",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAB2igH8BZFLJ9nNA_LBQ_vAn-PxtQyThshc",
+                            "publicIdentifier": "vivek-chetia",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1557052453305?e=1656547200&v=beta&t=rUyTDJD0URj84ZRM3Oy-X1-ZipIOG9y1dNzRhSN_T8Q",
+                                            "expiresAt": 1656547200000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1557052453305?e=1656547200&v=beta&t=OFWPJKWQdW6lpLNX2BGv3jutcNJse_KPbUOYU11dgWM",
+                                            "expiresAt": 1656547200000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1557052453305?e=1656547200&v=beta&t=d91S99dcKUUgLCc2iydCfs7fJ5O8E1LQqV2JqySqKRI",
+                                            "expiresAt": 1656547200000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1557052453305?e=1656547200&v=beta&t=p7Niytlb7QxF2fMZYKZdFOOSCVOTVdY0xUTsHfsbS48",
+                                            "expiresAt": 1656547200000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5103AQGV3p8n0vgjyA/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "fGqMoKWlShKdHcuGr98fNQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAACZxhUQBl1V8kpLj4ACrE2LzpatGvVzEgSA,239730042,306231090)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAB2igH8BZFLJ9nNA_LBQ_vAn-PxtQyThshc"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Abdul Taher",
+                            "lastName": "Khan",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAClGCgsB7Y0A2wjUZwTQatIfBzr91e3uv_o",
+                            "occupation": "Flutter Developer at Elite Back Office Solution",
+                            "objectUrn": "urn:li:member:692455947",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAClGCgsB7Y0A2wjUZwTQatIfBzr91e3uv_o",
+                            "publicIdentifier": "abdul-taher-khan-9a3a9a173",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1602268379421?e=1656547200&v=beta&t=mFcU6UQnvxxy9Jz1k6iKqDoAzefFxz_OmXdvElRrWYo",
+                                            "expiresAt": 1656547200000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1602268379421?e=1656547200&v=beta&t=FI12dp9LzYmW9b1cF6zFPJIyF1Yla5UJidBJew6OOPE",
+                                            "expiresAt": 1656547200000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1602268379421?e=1656547200&v=beta&t=JQGByqx_rbFjMtP7PpiBOUSNYNlT2fG07YDii2sQE-M",
+                                            "expiresAt": 1656547200000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1602268379421?e=1656547200&v=beta&t=sD5FEyX1y9H8kOA4WFvJjt9ppIdODXDo7rlfkm-aXrw",
+                                            "expiresAt": 1656547200000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E03AQG_aOnWHGwLag/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "qSitGn4MTNaY+eZqT/uJ3w=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAACZxhUQBl1V8kpLj4ACrE2LzpatGvVzEgSA,239730042,306226779)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAClGCgsB7Y0A2wjUZwTQatIfBzr91e3uv_o"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 4,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2021
+                    }
+                },
+                "description": "A web application for Sewa org to manage their all work online using a full admin panel with all features to add new contents to the main website. The website is built on a Laravel framework, SQL database",
+                "title": "SEWA web application",
+                "url": "http://test.sewaorganisation.org/"
+            },
+            {
+                "occupation": "urn:li:fs_education:(ACoAACZxhUQBl1V8kpLj4ACrE2LzpatGvVzEgSA,505691186)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Nabajyoti",
+                            "lastName": "Borah",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACZxhUQBl1V8kpLj4ACrE2LzpatGvVzEgSA",
+                            "occupation": "Programmer Analyst at TechVariable\u00ae | AWS | Data engineering (Python) | Django l fastAPI l Node js",
+                            "objectUrn": "urn:li:member:644973892",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACZxhUQBl1V8kpLj4ACrE2LzpatGvVzEgSA",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1642407117803?e=2147483647&v=beta&t=_RWVQtvlfK7jXd08R4nD9XmcNYT3RbWBmXifJ-tehQg",
+                                            "expiresAt": 1656547200000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1642407117803?e=2147483647&v=beta&t=98ZgmHk8MPGs43oUaCU8vKwt6OGm-NG2GjgRx1b9kJ8",
+                                            "expiresAt": 1656547200000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E16AQEZ3YrpAcAMUA/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "nabajyoti-borah-944000160",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1637762188093?e=1656547200&v=beta&t=8xINr8qjoAmHIHPexVmWvjxa4Lw0f9pUFFCfXpiWaBc",
+                                            "expiresAt": 1656547200000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1637762188093?e=1656547200&v=beta&t=4PIVWnRSMNEHDrl7-RYNLgA-dxU7bT2eFalacihISm0",
+                                            "expiresAt": 1656547200000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1637762188093?e=1656547200&v=beta&t=r7ssVIzp5ld8JGsjB6AqnELDm0eZCXyE7Ro0Jiyk-xw",
+                                            "expiresAt": 1656547200000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1637762188093?e=1656547200&v=beta&t=E0aGTWk2tZhiuckLbDFGn6P5RiN7unMPuyUYFYu_-Sc",
+                                            "expiresAt": 1656547200000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQHY5Qt6rKoCFQ/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "osL6DDl+Qgu8j3OvJ89EgQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAACZxhUQBl1V8kpLj4ACrE2LzpatGvVzEgSA,241011875,306227574)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACZxhUQBl1V8kpLj4ACrE2LzpatGvVzEgSA"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 2,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2021
+                    }
+                },
+                "description": "Using TensorFlow object detection model SSD_MOBILENET_V2 i tried to improve the detection of detecting small disease parts in Tea leaves and further converting the model to TFlite for using in mobile devices",
+                "title": "Tea Leaves disease Detection with object detection",
+                "url": "https://github.com/Nabajyoti4/Tea-Leaves-disease-detection-with-Object-detection.git"
+            }
+        ]
+    },
+    "contact_info": {
+        "email_address": "sirnaba@gmail.com",
+        "websites": [
+            {
+                "url": "https://github.com/Nabajyoti4",
+                "label": "BLOG"
+            },
+            {
+                "url": "https://medium.com/me/stories/public",
+                "label": "PERSONAL"
+            }
+        ],
+        "twitter": [],
+        "birthdate": {
+            "month": 8,
+            "day": 12
+        },
+        "ims": null,
+        "phone_numbers": [
+            {
+                "type": "HOME",
+                "number": "08638552856"
+            }
+        ]
+    },
+    "connections": [],
+    "skills": [
+        {
+            "name": "Amazon Web Services (AWS)"
+        },
+        {
+            "name": "TensorFlow"
+        },
+        {
+            "name": "Python (Programming Language)"
+        },
+        {
+            "name": "Deep Learning"
+        },
+        {
+            "name": "Machine Learning"
+        },
+        {
+            "name": "Project Management"
+        },
+        {
+            "name": "Laravel",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:50109",
+            "standardizedSkill": {
+                "name": "Laravel",
+                "entityUrn": "urn:li:fs_miniSkill:50109"
+            }
+        },
+        {
+            "name": "Pandas (Software)"
+        },
+        {
+            "name": "MySQL"
+        },
+        {
+            "name": "Django"
+        },
+        {
+            "name": "MongoDB"
+        },
+        {
+            "name": "Git"
+        },
+        {
+            "name": "PySpark"
+        },
+        {
+            "name": "Amazon Kinesis"
+        },
+        {
+            "name": "Database Management System (DBMS)",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:14012",
+            "standardizedSkill": {
+                "name": "Database Management System (DBMS)",
+                "entityUrn": "urn:li:fs_miniSkill:14012"
+            }
+        },
+        {
+            "name": "Scikit-Learn"
+        },
+        {
+            "name": "NumPy"
+        },
+        {
+            "name": "Natural Language Processing (NLP)"
+        },
+        {
+            "name": "Full-Stack Development"
+        },
+        {
+            "name": "Microservices"
+        },
+        {
+            "name": "AWS Glue"
+        },
+        {
+            "name": "Amazon Redshift"
+        }
+    ]
+}
