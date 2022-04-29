@@ -74,8 +74,13 @@ class LinkedInAPI:
             logging.info(f"[{datetime.now()}]   WRITING SEARCH INFO for: {post_urn}")
             data_file.write(data)
 
-    # @classmethod
-    # def 
+    @classmethod
+    def get_feed(cls):
+        feed = cls.api.get_feed_posts(limit=1000) 
+        with open(f"output_data{sep}search_results{sep}{cls.username.lower()}_feed.json", "w+t", encoding="utf-8") as data_file:
+            data = dumps(feed, indent=4)
+            logging.info(f"[{datetime.now()}]   WRITING SEARCH INFO for: {cls.username} FEED")
+            data_file.write(data)
 
 if __name__=="__main__":
     pass
