@@ -12,12 +12,12 @@ def main():
     #     LinkedInAPI.get_profile_details(uid)
 
     ## For search results:
-    # LinkedInAPI.get_search_results("Python", "GROUPS")
+    LinkedInAPI.get_search_results("Python Django", "CONTENT")
 
     ## For post comments
     # LinkedInAPI.get_comments("ACoAJXLmXAMBHA6xI27_UiUhOv7gs5ztFxKJ4TQ")
 
-    LinkedInAPI.get_feed()
+    # LinkedInAPI.get_feed()
 
 
 if __name__=="__main__":
