@@ -3,7 +3,6 @@
         "summary": "Experienced Advocate with a demonstrated history of working in the judiciary industry. Skilled in Legal Advice, Corporate Law, Legal Assistance, Criminal Law, and Arbitration. Strong legal professional graduated under Gauhati University",
         "industryName": "Law Practice",
         "lastName": "Sharma",
-        "address": "Akashinagar, Bamunimaidam",
         "locationName": "India",
         "student": false,
         "geoCountryName": "India",
@@ -24,10 +23,10 @@
         },
         "headline": "Advocate at Gauhati High Court",
         "displayPictureUrl": "https://media-exp1.licdn.com/dms/image/C5103AQGXDi1Akk8POg/profile-displayphoto-shrink_",
-        "img_100_100": "100_100/0/1532528473290?e=1656547200&v=beta&t=CjN_V7nqTIjT4I3JUvsmQpr5WgLaImGCB4EUbxrZ7wY",
-        "img_200_200": "200_200/0/1532528473290?e=1656547200&v=beta&t=NyGGdFkqsxp3VCiYGjZuaKgFs1jmj_YVCK460SSAzAk",
-        "img_400_400": "400_400/0/1532528473290?e=1656547200&v=beta&t=AO4rIhyAxGAMAks9g60ZxLLt71VLESXaH5qnLiOpcfw",
-        "img_800_800": "800_800/0/1532528473290?e=1656547200&v=beta&t=uxVdw3mwi6BpJ2-gHFFKU9nKhA7up-LNDi6gUt3mn-4",
+        "img_100_100": "100_100/0/1532528473290?e=1657152000&v=beta&t=ECO8pSQjtg6wJgYGlstZeXixqNQbwegG6ljHlkUJKAs",
+        "img_200_200": "200_200/0/1532528473290?e=1657152000&v=beta&t=hyZNmVDjJUMIuun4BuIyiFYN1-OE_8AMmD4BrPveUtc",
+        "img_400_400": "400_400/0/1532528473290?e=1657152000&v=beta&t=zGxLRwR5w-OlMUAb6wKNqlWV2caaC0xHt2rqXYEOp-I",
+        "img_800_800": "800_800/0/1532528473290?e=1657152000&v=beta&t=bJN_QanBY_rvjNhyXJvi_Oc8IRiBn8VBzir_jzh1rm4",
         "profile_id": "ACoAACgjSt8BeiOHuTX4FilAfDIo8eRpEoNyr68",
         "profile_urn": "urn:li:fs_miniProfile:ACoAACgjSt8BeiOHuTX4FilAfDIo8eRpEoNyr68",
         "member_urn": "urn:li:member:673401567",
@@ -66,7 +65,7 @@
                     "entityUrn": "urn:li:fs_miniSchool:212806",
                     "active": true,
                     "schoolName": "J.B. Law College",
-                    "trackingId": "3ZEncRg9Rgm3fhNKgecrwg=="
+                    "trackingId": "YdZiRmedRJu1XaCZibrsgw=="
                 },
                 "timePeriod": {
                     "endDate": {
@@ -101,22 +100,12 @@
         "projects": []
     },
     "contact_info": {
-        "email_address": "shikhas1312@gmail.com",
+        "email_address": null,
         "websites": [],
         "twitter": [],
         "birthdate": null,
-        "ims": [
-            {
-                "provider": "SKYPE",
-                "id": "shikhas1312"
-            }
-        ],
-        "phone_numbers": [
-            {
-                "type": "MOBILE",
-                "number": "8638841582"
-            }
-        ]
+        "ims": null,
+        "phone_numbers": []
     },
     "connections": [],
     "skills": [

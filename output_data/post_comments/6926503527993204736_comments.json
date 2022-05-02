@@ -1,0 +1,452 @@
+[
+    {
+        "commenterProfileId": "ACoAAAwUWR4BeP1kFwzVMXisHj04PLuQ8YpIPs4",
+        "dashEntityUrn": "urn:li:fsd_comment:(6926551842273267712,urn:li:activity:6926503527993204736)",
+        "edited": false,
+        "index": -1,
+        "timeOffset": -1,
+        "originalLanguage": "English",
+        "commenter": {
+            "com.linkedin.voyager.feed.MemberActor": {
+                "urn": "urn:li:member:202660126",
+                "miniProfile": {
+                    "firstName": "NABAJYOTI",
+                    "lastName": "DAS",
+                    "dashEntityUrn": "urn:li:fsd_profile:ACoAAAwUWR4BeP1kFwzVMXisHj04PLuQ8YpIPs4",
+                    "occupation": "Full-stack Developer and Trainer with specialization in Android App, Web App and ML/DL development.",
+                    "objectUrn": "urn:li:member:202660126",
+                    "entityUrn": "urn:li:fs_miniProfile:ACoAAAwUWR4BeP1kFwzVMXisHj04PLuQ8YpIPs4",
+                    "backgroundImage": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 800,
+                                    "fileIdentifyingUrlPathSegment": "200_800/0/1563218589579?e=2147483647&v=beta&t=g5Jo-lzNYbxacT7kAJZz1qSyc0iK3J-lGXwGZ2yiwmg",
+                                    "expiresAt": 1657152000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 1400,
+                                    "fileIdentifyingUrlPathSegment": "350_1400/0/1563218589579?e=2147483647&v=beta&t=f9lzfhgnJxw7dMf2nrNCs4VVPFnWhQ3x49xWXL-ZjBk",
+                                    "expiresAt": 1657152000000,
+                                    "height": 350
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C5116AQGCI2XcgIY_JA/profile-displaybackgroundimage-shrink_"
+                        }
+                    },
+                    "publicIdentifier": "nabajyoti-das",
+                    "picture": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1553531313059?e=1657152000&v=beta&t=Th999KbgHqW7ifhcTWkNocedx7KsjUW5UgoAKgqcF8o",
+                                    "expiresAt": 1657152000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1553531313059?e=1657152000&v=beta&t=Q9BAWylIUIXLTVz5QvuB0ny97qBHs0m0BaCfcRaYdwc",
+                                    "expiresAt": 1657152000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1553531313059?e=1657152000&v=beta&t=zl7la_MECq2rW6TT6hsf8W4qa_XGNYHWDFeizfw1HP8",
+                                    "expiresAt": 1657152000000,
+                                    "height": 400
+                                },
+                                {
+                                    "width": 800,
+                                    "fileIdentifyingUrlPathSegment": "800_800/0/1553531313059?e=1657152000&v=beta&t=gS_8Z17UjXSGJmFtWGouxgWPEVgZU-vaRf-TOg9jgyA",
+                                    "expiresAt": 1657152000000,
+                                    "height": 800
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C5103AQGTNA4azRjA1w/profile-displayphoto-shrink_"
+                        }
+                    },
+                    "trackingId": "I0NPvB+1Q62x4vdN7hQyRQ=="
+                },
+                "showFollowAction": false,
+                "followingInfo": {
+                    "entityUrn": "urn:li:fs_followingInfo:urn:li:member:ACoAAAwUWR4BeP1kFwzVMXisHj04PLuQ8YpIPs4",
+                    "dashFollowingStateUrn": "urn:li:fsd_followingState:urn:li:fsd_profile:ACoAAAwUWR4BeP1kFwzVMXisHj04PLuQ8YpIPs4",
+                    "following": false,
+                    "trackingUrn": "urn:li:member:202660126",
+                    "followingType": "DEFAULT"
+                },
+                "distance": {
+                    "value": "DISTANCE_2"
+                },
+                "skillNames": []
+            }
+        },
+        "socialDetail": {
+            "urn": "urn:li:comment:(activity:6926503527993204736,6926551842273267712)",
+            "threadId": "comment:(activity:6926503527993204736,6926551842273267712)",
+            "allowedCommentersScope": "ALL",
+            "dashEntityUrn": "urn:li:fsd_socialDetail:(urn:li:comment:(activity:6926503527993204736,6926551842273267712),urn:li:comment:(activity:6926503527993204736,6926551842273267712))",
+            "comments": {
+                "paging": {
+                    "count": 1,
+                    "start": 0,
+                    "total": 1,
+                    "links": []
+                },
+                "metadata": {
+                    "sort": "CHRON"
+                },
+                "elements": [
+                    {
+                        "commenterProfileId": "ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE",
+                        "dashEntityUrn": "urn:li:fsd_comment:(6926558992496242688,urn:li:activity:6926503527993204736)",
+                        "edited": false,
+                        "index": -1,
+                        "timeOffset": -1,
+                        "originalLanguage": "English",
+                        "commenter": {
+                            "com.linkedin.voyager.feed.MemberActor": {
+                                "urn": "urn:li:member:231212168",
+                                "miniProfile": {
+                                    "firstName": "Prithoo",
+                                    "lastName": "Medhi",
+                                    "dashEntityUrn": "urn:li:fsd_profile:ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE",
+                                    "occupation": "Software Developer at TechVariable | FastAPI | Django | REST API",
+                                    "objectUrn": "urn:li:member:231212168",
+                                    "entityUrn": "urn:li:fs_miniProfile:ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE",
+                                    "backgroundImage": {
+                                        "com.linkedin.common.VectorImage": {
+                                            "artifacts": [
+                                                {
+                                                    "width": 800,
+                                                    "fileIdentifyingUrlPathSegment": "200_800/0/1641985443722?e=2147483647&v=beta&t=Ixu2Sk2DTiOmS7WQK6mtcAH_BeeCWwcRuOwORSCcfNA",
+                                                    "expiresAt": 1657152000000,
+                                                    "height": 200
+                                                },
+                                                {
+                                                    "width": 1400,
+                                                    "fileIdentifyingUrlPathSegment": "350_1400/0/1641985443722?e=2147483647&v=beta&t=JrjYJ9q-1peyXr2ALImw9RxhLljl_ppZEmDS9EmaI-0",
+                                                    "expiresAt": 1657152000000,
+                                                    "height": 350
+                                                }
+                                            ],
+                                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D16AQF5zHIc1x2SnQ/profile-displaybackgroundimage-shrink_"
+                                        }
+                                    },
+                                    "publicIdentifier": "prithoo11335",
+                                    "picture": {
+                                        "com.linkedin.common.VectorImage": {
+                                            "artifacts": [
+                                                {
+                                                    "width": 100,
+                                                    "fileIdentifyingUrlPathSegment": "100_100/0/1644147868073?e=1657152000&v=beta&t=eInIbqveIoeZuPsHnEmsYXhtL_j0MIZokmrKkuHQi4U",
+                                                    "expiresAt": 1657152000000,
+                                                    "height": 100
+                                                },
+                                                {
+                                                    "width": 200,
+                                                    "fileIdentifyingUrlPathSegment": "200_200/0/1644147868073?e=1657152000&v=beta&t=VkCnWlMdBCQj2005seqQTL6kp8rXFm0hQw008igFJTY",
+                                                    "expiresAt": 1657152000000,
+                                                    "height": 200
+                                                },
+                                                {
+                                                    "width": 400,
+                                                    "fileIdentifyingUrlPathSegment": "400_400/0/1644147868073?e=1657152000&v=beta&t=SNDmYoZW_2I3oR1WReNiYt0pKn6V9OpJ19pFVB-dBkU",
+                                                    "expiresAt": 1657152000000,
+                                                    "height": 400
+                                                },
+                                                {
+                                                    "width": 800,
+                                                    "fileIdentifyingUrlPathSegment": "800_800/0/1644147868073?e=1657152000&v=beta&t=GeDVSgBYzO-g01KAROx8HsxSwugCHO8bNp0bEAVZBag",
+                                                    "expiresAt": 1657152000000,
+                                                    "height": 800
+                                                }
+                                            ],
+                                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQHzCit0-LSR5A/profile-displayphoto-shrink_"
+                                        }
+                                    },
+                                    "trackingId": "BaVymN0lRz+slRe1w56ayQ=="
+                                },
+                                "showFollowAction": false,
+                                "followingInfo": {
+                                    "entityUrn": "urn:li:fs_followingInfo:urn:li:member:ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE",
+                                    "dashFollowingStateUrn": "urn:li:fsd_followingState:urn:li:fsd_profile:ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE",
+                                    "following": true,
+                                    "trackingUrn": "urn:li:member:231212168",
+                                    "followingType": "FOLLOWING"
+                                },
+                                "distance": {
+                                    "value": "DISTANCE_1"
+                                },
+                                "skillNames": []
+                            }
+                        },
+                        "socialDetail": {
+                            "urn": "urn:li:comment:(activity:6926503527993204736,6926558992496242688)",
+                            "threadId": "comment:(activity:6926503527993204736,6926558992496242688)",
+                            "allowedCommentersScope": "ALL",
+                            "dashEntityUrn": "urn:li:fsd_socialDetail:(urn:li:comment:(activity:6926503527993204736,6926558992496242688),urn:li:comment:(activity:6926503527993204736,6926558992496242688))",
+                            "comments": {
+                                "paging": {
+                                    "count": 0,
+                                    "start": 0,
+                                    "total": 0,
+                                    "links": []
+                                },
+                                "elements": []
+                            },
+                            "totalSocialActivityCounts": {
+                                "socialDetailEntityUrn": "urn:li:fs_socialDetail:urn:li:comment:(activity:6926503527993204736,6926558992496242688)",
+                                "urn": "urn:li:comment:(activity:6926503527993204736,6926558992496242688)",
+                                "numComments": 0,
+                                "dashEntityUrn": "urn:li:fsd_socialActivityCounts:urn:li:comment:(activity:6926503527993204736,6926558992496242688)",
+                                "reactionTypeCounts": [],
+                                "entityUrn": "urn:li:fs_socialActivityCounts:urn:li:comment:(activity:6926503527993204736,6926558992496242688)",
+                                "numLikes": 0,
+                                "liked": false
+                            },
+                            "socialPermissions": {
+                                "dashEntityUrn": "urn:li:fsd_socialPermissions:(urn:li:comment:(activity:6926503527993204736,6926558992496242688),urn:li:fsd_profile:ACoAADpVdUkBj_kGMabVK1teC4S0gjGataKnnTg)",
+                                "canPostComments": true,
+                                "entityUrn": "urn:li:fs_socialPermissions:(urn:li:comment:(activity:6926503527993204736,6926558992496242688),urn:li:fs_profile:(ACoAADpVdUkBj_kGMabVK1teC4S0gjGataKnnTg,en_US))",
+                                "canShare": true,
+                                "canReact": true
+                            },
+                            "entityUrn": "urn:li:fs_socialDetail:urn:li:comment:(activity:6926503527993204736,6926558992496242688)",
+                            "hideFirstPrompt": true,
+                            "liked": false,
+                            "showShareButton": false,
+                            "likes": {
+                                "paging": {
+                                    "start": 0,
+                                    "count": 0,
+                                    "total": 0,
+                                    "links": []
+                                },
+                                "elements": []
+                            }
+                        },
+                        "urn": "urn:li:comment:(activity:6926503527993204736,6926558992496242688)",
+                        "threadId": "activity:6926503527993204736",
+                        "dashParentCommentUrn": "urn:li:fsd_comment:(6926551842273267712,urn:li:activity:6926503527993204736)",
+                        "entityUrn": "urn:li:fs_objectComment:(6926558992496242688,activity:6926503527993204736)",
+                        "parentCommentUrn": "urn:li:comment:(activity:6926503527993204736,6926551842273267712)",
+                        "commentV2": {
+                            "textDirection": "FIRST_STRONG",
+                            "text": "Thank you, sir. I will try."
+                        },
+                        "createdTime": 1651420353055,
+                        "canDelete": false,
+                        "comment": {
+                            "values": [
+                                {
+                                    "value": "Thank you, sir. I will try."
+                                }
+                            ]
+                        },
+                        "permalink": "https://www.linkedin.com/feed/update/urn:li:activity:6926503527993204736?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A6926503527993204736%2C6926551842273267712%29&replyUrn=urn%3Ali%3Acomment%3A%28activity%3A6926503527993204736%2C6926558992496242688%29",
+                        "actions": [
+                            "SHARE_VIA",
+                            "MESSAGE",
+                            "REPORT"
+                        ]
+                    }
+                ]
+            },
+            "totalSocialActivityCounts": {
+                "socialDetailEntityUrn": "urn:li:fs_socialDetail:urn:li:comment:(activity:6926503527993204736,6926551842273267712)",
+                "urn": "urn:li:comment:(activity:6926503527993204736,6926551842273267712)",
+                "numComments": 1,
+                "dashEntityUrn": "urn:li:fsd_socialActivityCounts:urn:li:comment:(activity:6926503527993204736,6926551842273267712)",
+                "reactionTypeCounts": [
+                    {
+                        "count": 1,
+                        "reactionType": "LIKE"
+                    }
+                ],
+                "entityUrn": "urn:li:fs_socialActivityCounts:urn:li:comment:(activity:6926503527993204736,6926551842273267712)",
+                "numLikes": 1,
+                "liked": false
+            },
+            "socialPermissions": {
+                "dashEntityUrn": "urn:li:fsd_socialPermissions:(urn:li:comment:(activity:6926503527993204736,6926551842273267712),urn:li:fsd_profile:ACoAADpVdUkBj_kGMabVK1teC4S0gjGataKnnTg)",
+                "canPostComments": true,
+                "entityUrn": "urn:li:fs_socialPermissions:(urn:li:comment:(activity:6926503527993204736,6926551842273267712),urn:li:fs_profile:(ACoAADpVdUkBj_kGMabVK1teC4S0gjGataKnnTg,en_US))",
+                "canShare": true,
+                "canReact": true
+            },
+            "entityUrn": "urn:li:fs_socialDetail:urn:li:comment:(activity:6926503527993204736,6926551842273267712)",
+            "hideFirstPrompt": true,
+            "liked": false,
+            "showShareButton": false,
+            "likes": {
+                "paging": {
+                    "start": 0,
+                    "count": 0,
+                    "total": 1,
+                    "links": []
+                },
+                "elements": []
+            }
+        },
+        "urn": "urn:li:comment:(activity:6926503527993204736,6926551842273267712)",
+        "threadId": "activity:6926503527993204736",
+        "entityUrn": "urn:li:fs_objectComment:(6926551842273267712,activity:6926503527993204736)",
+        "commentV2": {
+            "textDirection": "FIRST_STRONG",
+            "attributes": [
+                {
+                    "start": 31,
+                    "length": 13,
+                    "miniProfile": {
+                        "firstName": "Prithoo",
+                        "lastName": "Medhi",
+                        "dashEntityUrn": "urn:li:fsd_profile:ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE",
+                        "occupation": "Software Developer at TechVariable | FastAPI | Django | REST API",
+                        "objectUrn": "urn:li:member:231212168",
+                        "entityUrn": "urn:li:fs_miniProfile:ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE",
+                        "backgroundImage": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "200_800/0/1641985443722?e=2147483647&v=beta&t=Ixu2Sk2DTiOmS7WQK6mtcAH_BeeCWwcRuOwORSCcfNA",
+                                        "expiresAt": 1657152000000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 1400,
+                                        "fileIdentifyingUrlPathSegment": "350_1400/0/1641985443722?e=2147483647&v=beta&t=JrjYJ9q-1peyXr2ALImw9RxhLljl_ppZEmDS9EmaI-0",
+                                        "expiresAt": 1657152000000,
+                                        "height": 350
+                                    }
+                                ],
+                                "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D16AQF5zHIc1x2SnQ/profile-displaybackgroundimage-shrink_"
+                            }
+                        },
+                        "publicIdentifier": "prithoo11335",
+                        "picture": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1644147868073?e=1657152000&v=beta&t=eInIbqveIoeZuPsHnEmsYXhtL_j0MIZokmrKkuHQi4U",
+                                        "expiresAt": 1657152000000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1644147868073?e=1657152000&v=beta&t=VkCnWlMdBCQj2005seqQTL6kp8rXFm0hQw008igFJTY",
+                                        "expiresAt": 1657152000000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1644147868073?e=1657152000&v=beta&t=SNDmYoZW_2I3oR1WReNiYt0pKn6V9OpJ19pFVB-dBkU",
+                                        "expiresAt": 1657152000000,
+                                        "height": 400
+                                    },
+                                    {
+                                        "width": 800,
+                                        "fileIdentifyingUrlPathSegment": "800_800/0/1644147868073?e=1657152000&v=beta&t=GeDVSgBYzO-g01KAROx8HsxSwugCHO8bNp0bEAVZBag",
+                                        "expiresAt": 1657152000000,
+                                        "height": 800
+                                    }
+                                ],
+                                "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQHzCit0-LSR5A/profile-displayphoto-shrink_"
+                            }
+                        },
+                        "trackingId": "BaVymN0lRz+slRe1w56ayQ=="
+                    },
+                    "type": "PROFILE_MENTION"
+                }
+            ],
+            "text": "A very well written. Good work Prithoo Medhi \nKeep it up.\ud83d\udc4d"
+        },
+        "createdTime": 1651418648309,
+        "canDelete": false,
+        "comment": {
+            "values": [
+                {
+                    "value": "A very well written. Good work "
+                },
+                {
+                    "value": "Prithoo Medhi",
+                    "entity": {
+                        "com.linkedin.voyager.identity.shared.MiniProfile": {
+                            "firstName": "Prithoo",
+                            "lastName": "Medhi",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE",
+                            "occupation": "Software Developer at TechVariable | FastAPI | Django | REST API",
+                            "objectUrn": "urn:li:member:231212168",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1641985443722?e=2147483647&v=beta&t=Ixu2Sk2DTiOmS7WQK6mtcAH_BeeCWwcRuOwORSCcfNA",
+                                            "expiresAt": 1657152000000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1641985443722?e=2147483647&v=beta&t=JrjYJ9q-1peyXr2ALImw9RxhLljl_ppZEmDS9EmaI-0",
+                                            "expiresAt": 1657152000000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D16AQF5zHIc1x2SnQ/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "prithoo11335",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1644147868073?e=1657152000&v=beta&t=eInIbqveIoeZuPsHnEmsYXhtL_j0MIZokmrKkuHQi4U",
+                                            "expiresAt": 1657152000000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1644147868073?e=1657152000&v=beta&t=VkCnWlMdBCQj2005seqQTL6kp8rXFm0hQw008igFJTY",
+                                            "expiresAt": 1657152000000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1644147868073?e=1657152000&v=beta&t=SNDmYoZW_2I3oR1WReNiYt0pKn6V9OpJ19pFVB-dBkU",
+                                            "expiresAt": 1657152000000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1644147868073?e=1657152000&v=beta&t=GeDVSgBYzO-g01KAROx8HsxSwugCHO8bNp0bEAVZBag",
+                                            "expiresAt": 1657152000000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQHzCit0-LSR5A/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "BaVymN0lRz+slRe1w56ayQ=="
+                        }
+                    }
+                },
+                {
+                    "value": " \nKeep it up.\ud83d\udc4d"
+                }
+            ]
+        },
+        "permalink": "https://www.linkedin.com/feed/update/urn:li:activity:6926503527993204736?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A6926503527993204736%2C6926551842273267712%29",
+        "actions": [
+            "SHARE_VIA",
+            "REPORT"
+        ],
+        "trackingId": "G2aEHPYPJU32CNc+WeBcrA=="
+    }
+]

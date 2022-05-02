@@ -21,12 +21,12 @@
                 "countryCode": "in"
             }
         },
-        "headline": "Programmer Analyst @TechVariable | MERN | NestJS",
+        "headline": "Backend developer | MERN | NestJS",
         "displayPictureUrl": "https://media-exp1.licdn.com/dms/image/C4E03AQGf7I5gIdOmrg/profile-displayphoto-shrink_",
-        "img_100_100": "100_100/0/1625927098421?e=1656547200&v=beta&t=ZD609ww-shmWnOevqjCqyYuoo2G7CWhF2eEU4wRNKo8",
-        "img_200_200": "200_200/0/1625927098421?e=1656547200&v=beta&t=4U8hCX6Ior0QAs0R6T8pIPd3MytEZQJlEosHZSV3Nck",
-        "img_400_400": "400_400/0/1625927098421?e=1656547200&v=beta&t=n33UHuQiwEsdJXPsx13OYr3HTGDjTH5zIuWO83-889o",
-        "img_800_800": "800_800/0/1625927098421?e=1656547200&v=beta&t=D8-nOR7e7RbAt2LMpAAmoFmrKYfA5w6_qj-xMV7Fvnc",
+        "img_100_100": "100_100/0/1625927098421?e=1657152000&v=beta&t=iXG-tLk9c6LWXsIqvT7dv8KaN-NkHgsTt6qXJXVtOQE",
+        "img_200_200": "200_200/0/1625927098421?e=1657152000&v=beta&t=T7hE5Pq72I3FBTuQ_kQjXQ70Tx6Bnee0A7CKhRLzbGM",
+        "img_400_400": "400_400/0/1625927098421?e=1657152000&v=beta&t=_fVbHXBR6TFCQwDY3pb_MYtJXTHMw0QZ90vS1b3Ykm8",
+        "img_800_800": "800_800/0/1625927098421?e=1657152000&v=beta&t=otvzbfDJjgAtwz2tgWCuADR7EiaCwrVY0UxNRj_B3eI",
         "profile_id": "ACoAACHlA7IB_d9MYYVP_4JgPjZfqJiP0PpAAk0",
         "profile_urn": "urn:li:fs_miniProfile:ACoAACHlA7IB_d9MYYVP_4JgPjZfqJiP0PpAAk0",
         "member_urn": "urn:li:member:568656818",
@@ -38,6 +38,10 @@
                 "geoUrn": "urn:li:fs_geo:105607401",
                 "companyName": "TechVariable",
                 "timePeriod": {
+                    "endDate": {
+                        "month": 4,
+                        "year": 2022
+                    },
                     "startDate": {
                         "month": 9,
                         "year": 2021
@@ -66,7 +70,7 @@
                     "entityUrn": "urn:li:fs_miniSchool:208756",
                     "active": true,
                     "schoolName": "Girijananda Chowdhury Institute of Management & Technology",
-                    "trackingId": "Y823v75cRACDq+4sFjXzrg=="
+                    "trackingId": "bkkHO8NhQpuYkRpu5tCVyQ=="
                 },
                 "timePeriod": {
                     "endDate": {
@@ -102,19 +106,19 @@
                                 {
                                     "width": 200,
                                     "fileIdentifyingUrlPathSegment": "200_200/0/1549532612352?e=2147483647&v=beta&t=aTgjw8VtAHhQlskg7uFHQHYMutMXVFOu4mXrIi0zya4",
-                                    "expiresAt": 1658966400000,
+                                    "expiresAt": 1659571200000,
                                     "height": 200
                                 },
                                 {
                                     "width": 100,
                                     "fileIdentifyingUrlPathSegment": "100_100/0/1549532612352?e=2147483647&v=beta&t=mZX5uF9HGR-lxJOD5EGH_GoZVg7xmMCKlyy3gpKIIFw",
-                                    "expiresAt": 1658966400000,
+                                    "expiresAt": 1659571200000,
                                     "height": 100
                                 },
                                 {
                                     "width": 400,
                                     "fileIdentifyingUrlPathSegment": "400_400/0/1549532612352?e=2147483647&v=beta&t=2hWiAxY3yZEzW70veo_rIjw4hYNKkovzEwCJpQ1AB5A",
-                                    "expiresAt": 1658966400000,
+                                    "expiresAt": 1659571200000,
                                     "height": 400
                                 }
                             ],
@@ -123,7 +127,7 @@
                     },
                     "universalName": "webtek",
                     "dashCompanyUrn": "urn:li:fsd_company:47903",
-                    "trackingId": "MnhlViRnRlSgwPVPAB8kDg=="
+                    "trackingId": "OdH3qi7/SgGpLt01RWnIzw=="
                 },
                 "companyUrn": "urn:li:fs_miniCompany:47903"
             },
@@ -142,19 +146,19 @@
                                 {
                                     "width": 200,
                                     "fileIdentifyingUrlPathSegment": "200_200/0/1626275253364?e=2147483647&v=beta&t=8MdoFbBWBgGX0-2lzYyhkgSsXi-QfhSTJElBKTUPC8g",
-                                    "expiresAt": 1658966400000,
+                                    "expiresAt": 1659571200000,
                                     "height": 200
                                 },
                                 {
                                     "width": 100,
                                     "fileIdentifyingUrlPathSegment": "100_100/0/1626275253364?e=2147483647&v=beta&t=Wz78YREAq7TUQO6J0Y_a1TyyEURdQUMzZrU3OrIV5o0",
-                                    "expiresAt": 1658966400000,
+                                    "expiresAt": 1659571200000,
                                     "height": 100
                                 },
                                 {
                                     "width": 400,
                                     "fileIdentifyingUrlPathSegment": "400_400/0/1626275253364?e=2147483647&v=beta&t=X8yvPPlXymbrCj4gcwT6r2Hp6czhSNYR4tQvq13_U6g",
-                                    "expiresAt": 1658966400000,
+                                    "expiresAt": 1659571200000,
                                     "height": 400
                                 }
                             ],
@@ -163,7 +167,7 @@
                     },
                     "universalName": "udemy",
                     "dashCompanyUrn": "urn:li:fsd_company:822535",
-                    "trackingId": "EwoeLj0+Q1qs5DA/mSqqbA=="
+                    "trackingId": "uausk9gSQf60wEtXQMBmPQ=="
                 },
                 "companyUrn": "urn:li:fs_miniCompany:822535"
             }
@@ -173,7 +177,7 @@
         "projects": []
     },
     "contact_info": {
-        "email_address": "parthavaborah@gmail.com",
+        "email_address": null,
         "websites": [],
         "twitter": [],
         "birthdate": null,
