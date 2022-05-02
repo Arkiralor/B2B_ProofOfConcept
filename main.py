@@ -12,7 +12,11 @@ def main():
     #     LinkedInAPI.get_profile_details(uid)
 
     ## For search results:
+<<<<<<< HEAD
     LinkedInAPI.get_search_results("Python Django", "CONTENT")
+=======
+    LinkedInAPI.get_search_results("Python", "CONTENT")
+>>>>>>> 29f69f8a4e55956d86a5d5e732fd09fa687ac175
 
     ## For post comments
     # LinkedInAPI.get_comments("ACoAJXLmXAMBHA6xI27_UiUhOv7gs5ztFxKJ4TQ")
