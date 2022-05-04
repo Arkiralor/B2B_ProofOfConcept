@@ -27,10 +27,10 @@
         },
         "headline": "Manager- HR & Admin at TechVariable",
         "displayPictureUrl": "https://media-exp1.licdn.com/dms/image/C4D35AQHgaSu1fqyEVQ/profile-framedphoto-shrink_",
-        "img_200_200": "200_200/0/1620636953826?e=2147483647&v=beta&t=Lnj1O3qfOrGbFI3U_JnTziFm0xRCnxMmHVYrS8cTMxc",
-        "img_400_400": "400_400/0/1620636953826?e=2147483647&v=beta&t=MFjf0QAVC1Bebrd7RJVcm4kKZpRWjJ-5ef9758dW_5A",
-        "img_800_800": "800_800/0/1620636953826?e=2147483647&v=beta&t=S_0dBfu31R9VNKZ6uryYo9QH_6BhqkEo2rWw505-efM",
-        "img_100_100": "100_100/0/1620636953826?e=2147483647&v=beta&t=nW6jJpC8ipp5nA98KMMgTgoI6aHcCsWsyWC4eWsPlYc",
+        "img_200_200": "200_200/0/1620636953826?e=1651755600&v=beta&t=57kFqAxX4auImhiJOVNg2pV8WhhBbQcH-zqEwQyHrUU",
+        "img_400_400": "400_400/0/1620636953826?e=1651755600&v=beta&t=2luxg6ial1nUqCK5uYMp1Kyd6x2bMIai7K0WBCS8PuM",
+        "img_800_800": "800_800/0/1620636953826?e=1651755600&v=beta&t=KESS40j-bVaGcVVrMX5eNEsZAZ9A6BR0JttmA_9bZUA",
+        "img_100_100": "100_100/0/1620636953826?e=1651755600&v=beta&t=MpIar3cSuaFb1EAEkn_j6ugWY2DKD7kklLtnYsXmaAk",
         "profile_id": "ACoAAAVk5UwBklWGzTHM6qUjh_jExhnKh0cHA-Q",
         "profile_urn": "urn:li:fs_miniProfile:ACoAAAVk5UwBklWGzTHM6qUjh_jExhnKh0cHA-Q",
         "member_urn": "urn:li:member:90498380",
@@ -272,7 +272,6 @@
         "ims": null,
         "phone_numbers": []
     },
-    "connections": [],
     "skills": [
         {
             "name": "Human Resources"

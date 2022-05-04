@@ -6,10 +6,12 @@ def main():
     with open(f"data_store{sep}uids.csv", "rt", encoding="utf-8") as data:
         uid_list = data.read().split("\n")
 
+    main_api = LinkedInAPI()
+
     uid_list.sort()
 
     for uid in uid_list:
-        LinkedInAPI.get_profile_details(uid)
+        main_api.get_profile_details(uid)
 
     ## For search results:
     # LinkedInAPI.get_search_results("Python Django", "CONTENT")

@@ -65,7 +65,7 @@
                     "entityUrn": "urn:li:fs_miniSchool:212806",
                     "active": true,
                     "schoolName": "J.B. Law College",
-                    "trackingId": "YdZiRmedRJu1XaCZibrsgw=="
+                    "trackingId": "WXYL5Z//QTGO50eTs7wFtw=="
                 },
                 "timePeriod": {
                     "endDate": {
@@ -107,7 +107,6 @@
         "ims": null,
         "phone_numbers": []
     },
-    "connections": [],
     "skills": [
         {
             "name": "Legal Research",

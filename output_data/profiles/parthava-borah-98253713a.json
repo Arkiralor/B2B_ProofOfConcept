@@ -70,7 +70,7 @@
                     "entityUrn": "urn:li:fs_miniSchool:208756",
                     "active": true,
                     "schoolName": "Girijananda Chowdhury Institute of Management & Technology",
-                    "trackingId": "bkkHO8NhQpuYkRpu5tCVyQ=="
+                    "trackingId": "/P2kK96SRx+/laS4OrtdaQ=="
                 },
                 "timePeriod": {
                     "endDate": {
@@ -105,19 +105,19 @@
                             "artifacts": [
                                 {
                                     "width": 200,
-                                    "fileIdentifyingUrlPathSegment": "200_200/0/1549532612352?e=2147483647&v=beta&t=aTgjw8VtAHhQlskg7uFHQHYMutMXVFOu4mXrIi0zya4",
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1549532612352?e=1659571200&v=beta&t=KSrZvIod6uzwicSzPCvrW-6hbei6iIVUD8vc5BgSZJw",
                                     "expiresAt": 1659571200000,
                                     "height": 200
                                 },
                                 {
                                     "width": 100,
-                                    "fileIdentifyingUrlPathSegment": "100_100/0/1549532612352?e=2147483647&v=beta&t=mZX5uF9HGR-lxJOD5EGH_GoZVg7xmMCKlyy3gpKIIFw",
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1549532612352?e=1659571200&v=beta&t=QIS4_no-koyexN-aH-Q4hSJ9x8iQs29sulRgEvz6s9A",
                                     "expiresAt": 1659571200000,
                                     "height": 100
                                 },
                                 {
                                     "width": 400,
-                                    "fileIdentifyingUrlPathSegment": "400_400/0/1549532612352?e=2147483647&v=beta&t=2hWiAxY3yZEzW70veo_rIjw4hYNKkovzEwCJpQ1AB5A",
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1549532612352?e=1659571200&v=beta&t=q2S7SPowH6j_0fH9Q0wKKlKxQfEEICb01OWgnyKcyrM",
                                     "expiresAt": 1659571200000,
                                     "height": 400
                                 }
@@ -127,7 +127,7 @@
                     },
                     "universalName": "webtek",
                     "dashCompanyUrn": "urn:li:fsd_company:47903",
-                    "trackingId": "OdH3qi7/SgGpLt01RWnIzw=="
+                    "trackingId": "yF/a8D03RRa18xFFsYhEbg=="
                 },
                 "companyUrn": "urn:li:fs_miniCompany:47903"
             },
@@ -145,19 +145,19 @@
                             "artifacts": [
                                 {
                                     "width": 200,
-                                    "fileIdentifyingUrlPathSegment": "200_200/0/1626275253364?e=2147483647&v=beta&t=8MdoFbBWBgGX0-2lzYyhkgSsXi-QfhSTJElBKTUPC8g",
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1626275253364?e=1659571200&v=beta&t=wY_YVUj0V6Bski5lVCV3ebyos-FNnIMIGOOtlatAqLM",
                                     "expiresAt": 1659571200000,
                                     "height": 200
                                 },
                                 {
                                     "width": 100,
-                                    "fileIdentifyingUrlPathSegment": "100_100/0/1626275253364?e=2147483647&v=beta&t=Wz78YREAq7TUQO6J0Y_a1TyyEURdQUMzZrU3OrIV5o0",
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1626275253364?e=1659571200&v=beta&t=KWNNs3uV-MSfQBoauhIAGEBnLhlhFyJdgFspBk6xWT8",
                                     "expiresAt": 1659571200000,
                                     "height": 100
                                 },
                                 {
                                     "width": 400,
-                                    "fileIdentifyingUrlPathSegment": "400_400/0/1626275253364?e=2147483647&v=beta&t=X8yvPPlXymbrCj4gcwT6r2Hp6czhSNYR4tQvq13_U6g",
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1626275253364?e=1659571200&v=beta&t=u2QEr2BRRnIby57nW8L05wxMJemreUXV70gdWXK53Ds",
                                     "expiresAt": 1659571200000,
                                     "height": 400
                                 }
@@ -167,7 +167,7 @@
                     },
                     "universalName": "udemy",
                     "dashCompanyUrn": "urn:li:fsd_company:822535",
-                    "trackingId": "uausk9gSQf60wEtXQMBmPQ=="
+                    "trackingId": "MfTXmuIoTUiwB4Ck3zK9qA=="
                 },
                 "companyUrn": "urn:li:fs_miniCompany:822535"
             }
@@ -184,7 +184,6 @@
         "ims": null,
         "phone_numbers": []
     },
-    "connections": [],
     "skills": [
         {
             "name": "Node.js"
