@@ -1,0 +1,366 @@
+{
+    "staffingCompany": false,
+    "companyIndustries": [
+        {
+            "localizedName": "Information Technology & Services",
+            "entityUrn": "urn:li:fs_industry:96"
+        }
+    ],
+    "callToAction": {
+        "callToActionType": "LEARN_MORE",
+        "visible": true,
+        "callToActionMessage": {
+            "textDirection": "USER_LOCALE",
+            "text": "Learn more"
+        },
+        "url": "https://www.techvariable.com/services/"
+    },
+    "staffCount": 55,
+    "adsRule": "STANDARD",
+    "companyEmployeesSearchPageUrl": "https://www.linkedin.com/vsearch/p?f_CC=10632640",
+    "viewerFollowingJobsUpdates": false,
+    "staffCountRange": {
+        "start": 11,
+        "end": 50
+    },
+    "permissions": {
+        "landingPageAdmin": false,
+        "admin": false,
+        "adAccountHolder": false
+    },
+    "logo": {
+        "image": {
+            "com.linkedin.common.VectorImage": {
+                "artifacts": [
+                    {
+                        "width": 200,
+                        "fileIdentifyingUrlPathSegment": "200_200/0/1609933104733?e=1660176000&v=beta&t=AsfZO1zLviHg_r-ckV131cX_xnURb6jvnfH8WqCfF2M",
+                        "expiresAt": 1660176000000,
+                        "height": 200
+                    },
+                    {
+                        "width": 100,
+                        "fileIdentifyingUrlPathSegment": "100_100/0/1609933104733?e=1660176000&v=beta&t=tzwk9B2CHJhwAUSOlHDGQqiSCOKgxLaCj7LoAoHYYrs",
+                        "expiresAt": 1660176000000,
+                        "height": 100
+                    },
+                    {
+                        "width": 400,
+                        "fileIdentifyingUrlPathSegment": "400_400/0/1609933104733?e=1660176000&v=beta&t=7H65Xk9at_tICwe-Vug7y-Fkgg5a349CIMWN0CimB78",
+                        "expiresAt": 1660176000000,
+                        "height": 400
+                    }
+                ],
+                "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQE6IzKHUZQmAA/company-logo_"
+            }
+        },
+        "type": "SQUARE_LOGO"
+    },
+    "claimable": false,
+    "specialities": [
+        "Enterprise Application Development",
+        "Offshore Development",
+        "Data Analytics",
+        "Software Development",
+        "Reporting & Visualisation",
+        "Machine Learning",
+        "rapid application development",
+        "MVP development",
+        "PoC development",
+        "Web Development",
+        "App development",
+        "Product Engineering",
+        "Product Development",
+        "UI-UX designing"
+    ],
+    "confirmedLocations": [
+        {
+            "country": "IN",
+            "geographicArea": "Assam",
+            "city": "Guwahati",
+            "postalCode": "781003",
+            "description": "TechVariable",
+            "streetAddressOptOut": false,
+            "headquarter": true,
+            "line2": "Chandmari",
+            "line1": "53 -B , Navagiri Path"
+        },
+        {
+            "country": "IN",
+            "geographicArea": "Karnataka",
+            "city": "Bengaluru",
+            "postalCode": "560071",
+            "description": "TechVariable - Bangalore",
+            "streetAddressOptOut": false,
+            "headquarter": false,
+            "line2": "130 Amarjyothi Layout, 3rd Main",
+            "line1": "Domlur"
+        },
+        {
+            "country": "US",
+            "geographicArea": "New York",
+            "city": "New York",
+            "postalCode": "10005",
+            "description": "TechVariable - USA",
+            "streetAddressOptOut": false,
+            "headquarter": false,
+            "line1": "99 Wall Street #4015"
+        }
+    ],
+    "followingInfo": {
+        "entityUrn": "urn:li:fs_followingInfo:urn:li:company:10632640",
+        "dashFollowingStateUrn": "urn:li:fsd_followingState:urn:li:fsd_company:10632640",
+        "following": true,
+        "followingType": "FOLLOWING",
+        "followerCount": 3781
+    },
+    "viewerEmployee": true,
+    "affiliatedCompaniesWithEmployeesRollup": [],
+    "lcpTreatment": false,
+    "affiliatedCompaniesWithJobsRollup": [],
+    "associatedHashtagsResolutionResults": {
+        "urn:li:fs_contentTopicData:urn:li:hashtag:mvpdevelopment": {
+            "feedTopic": {
+                "topic": {
+                    "trending": false,
+                    "name": "#mvpdevelopment",
+                    "useCase": "HASHTAG_FEED",
+                    "recommendationTrackingId": "\u00d6\u001aZ\u00ae\u0017aMP\u0081\u00a6\u00acx\u001aW\u009d\u00b6",
+                    "backendUrn": "urn:li:hashtag:mvpdevelopment"
+                },
+                "tracking": {
+                    "trackingId": "1hparhdhTVCBpqx4Gledtg=="
+                },
+                "entityUrn": "urn:li:fs_feedTopic:(urn:li:hashtag:mvpdevelopment,HASHTAG_FEED)"
+            },
+            "$recipeType": "com.linkedin.voyager.deco.organization.web.WebContentTopicDataCard",
+            "entityUrn": "urn:li:fs_contentTopicData:urn:li:hashtag:mvpdevelopment",
+            "followAction": {
+                "followingInfo": {
+                    "followingType": "DEFAULT",
+                    "entityUrn": "urn:li:fs_followingInfo:urn:li:hashtag:mvpdevelopment",
+                    "followerCount": 55,
+                    "dashFollowingStateUrn": "urn:li:fsd_followingState:urn:li:fsd_hashtag:mvpdevelopment",
+                    "following": false,
+                    "trackingUrn": "urn:li:hashtag:mvpdevelopment"
+                },
+                "unfollowTrackingActionType": "unfollowTopic",
+                "followTrackingActionType": "followTopic",
+                "type": "FOLLOW_TOGGLE",
+                "trackingActionType": "followTopic"
+            }
+        },
+        "urn:li:fs_contentTopicData:urn:li:hashtag:softwaredevelopment": {
+            "feedTopic": {
+                "topic": {
+                    "trending": false,
+                    "name": "#softwaredevelopment",
+                    "useCase": "HASHTAG_FEED",
+                    "recommendationTrackingId": "Ff\u0017\u0019%\u0091@`\u0080&yl+\u0085\u00d2\u00b9",
+                    "backendUrn": "urn:li:hashtag:softwaredevelopment"
+                },
+                "tracking": {
+                    "trackingId": "RmYXGSWRQGCAJnlsK4XSuQ=="
+                },
+                "entityUrn": "urn:li:fs_feedTopic:(urn:li:hashtag:softwaredevelopment,HASHTAG_FEED)"
+            },
+            "$recipeType": "com.linkedin.voyager.deco.organization.web.WebContentTopicDataCard",
+            "entityUrn": "urn:li:fs_contentTopicData:urn:li:hashtag:softwaredevelopment",
+            "followAction": {
+                "followingInfo": {
+                    "followingType": "DEFAULT",
+                    "entityUrn": "urn:li:fs_followingInfo:urn:li:hashtag:softwaredevelopment",
+                    "followerCount": 55593,
+                    "dashFollowingStateUrn": "urn:li:fsd_followingState:urn:li:fsd_hashtag:softwaredevelopment",
+                    "following": false,
+                    "trackingUrn": "urn:li:hashtag:softwaredevelopment"
+                },
+                "unfollowTrackingActionType": "unfollowTopic",
+                "followTrackingActionType": "followTopic",
+                "type": "FOLLOW_TOGGLE",
+                "trackingActionType": "followTopic"
+            }
+        },
+        "urn:li:fs_contentTopicData:urn:li:hashtag:digitaltransformation": {
+            "feedTopic": {
+                "topic": {
+                    "trending": false,
+                    "name": "#digitaltransformation",
+                    "useCase": "HASHTAG_FEED",
+                    "recommendationTrackingId": "I#\u00c8\u00f4k\u00edG\u00c3\u0098\u001c\u00cc\u0089RB\u0002\u009f",
+                    "backendUrn": "urn:li:hashtag:digitaltransformation"
+                },
+                "tracking": {
+                    "trackingId": "SSPI9GvtR8OYHMyJUkICnw=="
+                },
+                "entityUrn": "urn:li:fs_feedTopic:(urn:li:hashtag:digitaltransformation,HASHTAG_FEED)"
+            },
+            "$recipeType": "com.linkedin.voyager.deco.organization.web.WebContentTopicDataCard",
+            "entityUrn": "urn:li:fs_contentTopicData:urn:li:hashtag:digitaltransformation",
+            "followAction": {
+                "followingInfo": {
+                    "followingType": "DEFAULT",
+                    "entityUrn": "urn:li:fs_followingInfo:urn:li:hashtag:digitaltransformation",
+                    "followerCount": 415081,
+                    "dashFollowingStateUrn": "urn:li:fsd_followingState:urn:li:fsd_hashtag:digitaltransformation",
+                    "following": false,
+                    "trackingUrn": "urn:li:hashtag:digitaltransformation"
+                },
+                "unfollowTrackingActionType": "unfollowTopic",
+                "followTrackingActionType": "followTopic",
+                "type": "FOLLOW_TOGGLE",
+                "trackingActionType": "followTopic"
+            }
+        }
+    },
+    "phone": {
+        "number": "60002 66830"
+    },
+    "name": "TechVariable",
+    "tagline": "A Tech Consulting company with end to end product development services utilizing experience in Design, Data & Deep Tech",
+    "$recipeType": "com.linkedin.voyager.deco.organization.web.WebFullCompanyMain",
+    "overviewPhoto": {
+        "com.linkedin.voyager.common.MediaProcessorImage": {
+            "id": "/AAMABAQIAAkAAQAAAAAAAAn4AAAAJGMyZDRhOWM5LWEzYzAtNGJmYS1iYjAxLTBmMmJkMWNmZTcyMw.bin"
+        }
+    },
+    "multiLocaleTaglines": {
+        "localized": {
+            "en_US": "A Tech Consulting company with end to end product development services utilizing experience in Design, Data & Deep Tech"
+        },
+        "preferredLocale": {
+            "country": "US",
+            "language": "en"
+        }
+    },
+    "description": "TechVariable is an end-to-end Product Development Company that helps startup founders and innovators get their MVP/POC or complete tech product developed through its rapid development services in Product Planning (PRD development), Interaction Design & Architecture (UI-UX), Product Engineering (Custom Software Development) & Deployment. \n\nA team of 40+ people, comprising of designers, developers, and product managers, that has garnered experience over its 5+ years of journey in developing end-to-end products for our clients in multiple domains. Specialised in converging conventional tech and effective use of disruptive technologies to ensure customers become an innovative disruptor to lead their competition\nMVP Development || Product Engineering ||\n|| Digital Transformation || Software Consulting ||\n\nWhy choose us at all?\n-- We are a full-stack product development studio- Product planning, UI-UX designing, Custom Development, and Deployment.\n-- Team of project/product managers in different domains, who have vast experience in developing different ranges of products.\n-- Optimized time to market within an affordable budget.\n-- We make sure that a proper post-Go-live support framework is established so that the client can fully focus on other business activities.\n-- Our product engineering and R&D services have catered to multiple funded startups and corporates.\n-- Referenceable clients with long term engagements.\n\nHow we work:\nWith deep rooted empathy to understand end users\u2019 needs, our technologists who know the technical implications of an idea and designers who understand human behavior can co-create solutions that are truly meaningful.\n\nPricing Model:\nHourly-Time and Material, \nRetainer-Staff Augmentation, \nFixed Priced-Managed Services.\n\nProcess Expertise:\nAgile Devops.\nContinuous Integration & Delivery.\nRapid prototyping and continual refinement.\nQA led delivery process.\nReusable frameworks and component store.\nOutcome based deliverables.\n",
+    "entityUrn": "urn:li:fs_normalized_company:10632640",
+    "headquarter": {
+        "country": "IN",
+        "geographicArea": "Assam",
+        "city": "Guwahati",
+        "postalCode": "781003",
+        "line2": "Chandmari",
+        "line1": "53 -B , Navagiri Path"
+    },
+    "paidCompany": false,
+    "universalName": "techvariable",
+    "viewerPendingAdministrator": false,
+    "companyPageUrl": "https://techvariable.com/",
+    "viewerConnectedToAdministrator": true,
+    "affiliatedCompanies": [],
+    "dataVersion": -1,
+    "foundedOn": {
+        "year": 2015
+    },
+    "companyType": {
+        "localizedName": "Privately Held",
+        "code": "PRIVATELY_HELD"
+    },
+    "coverPhoto": {
+        "com.linkedin.voyager.common.MediaProcessorImage": {
+            "id": "/AAMABAQIAAkAAQAAAAAAAAn4AAAAJGMyZDRhOWM5LWEzYzAtNGJmYS1iYjAxLTBmMmJkMWNmZTcyMw.bin"
+        }
+    },
+    "associatedHashtags": [
+        "urn:li:fs_contentTopicData:urn:li:hashtag:mvpdevelopment",
+        "urn:li:fs_contentTopicData:urn:li:hashtag:softwaredevelopment",
+        "urn:li:fs_contentTopicData:urn:li:hashtag:digitaltransformation"
+    ],
+    "groups": [
+        "urn:li:fs_normalized_group:35313"
+    ],
+    "url": "https://www.linkedin.com/company/techvariable",
+    "groupsResolutionResults": {
+        "urn:li:fs_normalized_group:35313": {
+            "groupName": "Project Manager Community - Best Group for Project Management",
+            "entityUrn": "urn:li:fs_normalized_group:35313",
+            "memberCount": 507777,
+            "logo": {
+                "com.linkedin.common.VectorImage": {
+                    "artifacts": [
+                        {
+                            "width": 48,
+                            "fileIdentifyingUrlPathSegment": "48x48/0/1651077420270?e=1651924800&v=beta&t=cChkD5XPypV7CZ5ZaidEFlzMWx_M_itYYVa6mE4rsrQ",
+                            "expiresAt": 1651924800000,
+                            "height": 48
+                        },
+                        {
+                            "width": 200,
+                            "fileIdentifyingUrlPathSegment": "200x200/0/1651077420270?e=1651924800&v=beta&t=rBhzWFb84OMVS6R_mHaHsbLLfH8YuqWxLx_dqxnEDVo",
+                            "expiresAt": 1651924800000,
+                            "height": 200
+                        },
+                        {
+                            "width": 389,
+                            "fileIdentifyingUrlPathSegment": "400x400/0/1651077420270?e=1651924800&v=beta&t=fV3-1VSnGW2g2kfpJyc80KztfxMJ2NFV1Emqlw-_zno",
+                            "expiresAt": 1651924800000,
+                            "height": 389
+                        },
+                        {
+                            "width": 92,
+                            "fileIdentifyingUrlPathSegment": "92x92/0/1651077420270?e=1651924800&v=beta&t=mYIsZnX98Iigg4FJDXZA_p5Lh4rPX8USXuIiVhQdxTs",
+                            "expiresAt": 1651924800000,
+                            "height": 92
+                        },
+                        {
+                            "width": 24,
+                            "fileIdentifyingUrlPathSegment": "24x24/0/1651077420270?e=1651924800&v=beta&t=EgubV-aKGrm4FDO22U6QlJvHg_7QPIM1lphv571-CbQ",
+                            "expiresAt": 1651924800000,
+                            "height": 24
+                        },
+                        {
+                            "width": 72,
+                            "fileIdentifyingUrlPathSegment": "72x72/0/1651077420270?e=1651924800&v=beta&t=X3ZBroNfuFfvpNtQt3n0A3xSWrCYE3Q_0Q7ZZFpcqT8",
+                            "expiresAt": 1651924800000,
+                            "height": 72
+                        }
+                    ],
+                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5607AQHv5bWZy73umw/group-logo_image-shrink_"
+                }
+            },
+            "$recipeType": "com.linkedin.voyager.deco.organization.web.WebGroupCard",
+            "url": "https://www.linkedin.com/groups?gid=35313"
+        }
+    },
+    "showcasePages": [
+        "urn:li:fs_normalized_company:35940774"
+    ],
+    "claimableByViewer": true,
+    "jobSearchPageUrl": "https://www.linkedin.com/jobs/search?geoId=92000000&f_C=10632640",
+    "showcase": false,
+    "autoGenerated": false,
+    "backgroundCoverImage": {
+        "image": {
+            "com.linkedin.common.VectorImage": {
+                "artifacts": [
+                    {
+                        "width": 10000,
+                        "fileIdentifyingUrlPathSegment": "10000/0/1612518159105?e=1651924800&v=beta&t=0u75IqAIEgA6INlQq56lDOnkDHpIcga1_38V21ze0Zs",
+                        "expiresAt": 1651924800000,
+                        "height": 10000
+                    },
+                    {
+                        "width": 400,
+                        "fileIdentifyingUrlPathSegment": "400/0/1612518159105?e=1651924800&v=beta&t=bgNlufzDpVmKa_oNB6Jv5praTqv9w_T9fXkAOxA_6KE",
+                        "expiresAt": 1651924800000,
+                        "height": 400
+                    },
+                    {
+                        "width": 200,
+                        "fileIdentifyingUrlPathSegment": "200/0/1612518159105?e=1651924800&v=beta&t=LsKppuGU9E4yUShpZcWTewcd3ROJRnBLXOFVrbh2hvY",
+                        "expiresAt": 1651924800000,
+                        "height": 200
+                    }
+                ],
+                "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D1BAQFD1qsNAGjw3w/company-background_"
+            }
+        },
+        "cropInfo": {
+            "x": 0,
+            "width": 1584,
+            "y": 56,
+            "height": 268
+        }
+    }
+}

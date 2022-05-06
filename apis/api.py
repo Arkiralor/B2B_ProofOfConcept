@@ -42,14 +42,13 @@ class LinkedInAPI:
         skills = self.api.get_profile_skills(uid)
         detail_dict['skills'] = skills
 
-        with open(f"output_data{sep}profiles{sep}{uid}.json", "w+t", encoding="utf-8") as data_file:
+        with open(f"raw_data{sep}profiles{sep}{uid}.json", "w+t", encoding="utf-8") as data_file:
             data = dumps(detail_dict, indent=4)
             logging.info(
                 f"[{datetime.now()}]   WRITING PROFILE INFO for: {uid}")
             data_file.write(data)
 
-    @classmethod
-    def get_search_results(cls, search_term: str = "Python", search_type: str = "CONTENT"):
+    def search_posts(self, search_term: str = "Python", search_type: str = "CONTENT"):
         '''
         search_type: ALL|CONTENT|PEOPLE|JOBS|COMPANIES|SCHOOLS|GROUPS|EVENTS|LEARNING|SERVICES|
         '''
@@ -61,35 +60,49 @@ class LinkedInAPI:
             "origin": "GLOBAL_SEARCH_HEADER",
         }
 
-        search = cls.api.search(
+        search = self.api.search(
             params=params,
-            limit=100
+            limit=-1
         )
 
-        with open(f"output_data{sep}search_results{sep}{search_term.lower()}_{search_type.lower()}.json", "w+t", encoding="utf-8") as data_file:
+        with open(f"raw_data{sep}search_results{sep}posts{sep}{search_term.lower()}_{search_type.lower()}.json", "w+t", encoding="utf-8") as data_file:
             data = dumps(search, indent=4)
             logging.info(
                 f"[{datetime.now()}]   WRITING SEARCH INFO for: {search_term}")
             data_file.write(data)
 
-    @classmethod
-    def get_comments(cls, post_urn: str, comment_count: int = 100):
-        comments = cls.api.get_post_comments(post_urn, comment_count)
-        with open(f"output_data{sep}post_comments{sep}{post_urn.lower()}_comments.json", "w+t", encoding="utf-8") as data_file:
+    def get_comments(self, post_urn: str, comment_count: int = 100):
+        comments = self.api.get_post_comments(post_urn, comment_count)
+        with open(f"raw_data{sep}post_comments{sep}{post_urn.lower()}_comments.json", "w+t", encoding="utf-8") as data_file:
             data = dumps(comments, indent=4)
             logging.info(
                 f"[{datetime.now()}]   WRITING SEARCH INFO for: {post_urn}")
             data_file.write(data)
 
-    @classmethod
-    def get_feed(cls):
-        feed = cls.api.get_feed_posts(limit=1000)
+    def get_jobs(self, query:str):
+        jobs = self.api.search_jobs(query)
+
+        with open(f"raw_data{sep}search_results{sep}jobs{sep}{query}_jobs.json", "w+t", encoding="utf-8") as data_file:
+            data = dumps(jobs, indent=4)
+            logging.info(f"[{datetime.now()}]   WRITING SEARCH INFO for: {query}")
+            data_file.write(data)
+
+    def get_feed(self):
+        feed = self.api.get_feed_posts(limit=1000)
         resp = {}
         resp["feed"] = feed
-        with open(f"output_data{sep}search_results{sep}{cls.username.lower()}_feed.json", "w+t", encoding="utf-8") as data_file:
+        with open(f"output_data{sep}raw_data{sep}{self.username.lower()}_feed.json", "w+t", encoding="utf-8") as data_file:
             data = dumps(resp, indent=4)
             logging.info(
-                f"[{datetime.now()}]   WRITING SEARCH INFO for: {cls.username} FEED")
+                f"[{datetime.now()}]   WRITING SEARCH INFO for: {self.username} FEED")
+            data_file.write(data)
+
+    def get_companies(self, public_id: str):
+        company = self.api.get_company(public_id)
+
+        with open(f"raw_data{sep}companies{sep}{public_id}_company.json", "w+t", encoding="utf-8") as data_file:
+            data = dumps(company, indent=4)
+            logging.info(f"[{datetime.now()}]   WRITING SEARCH INFO for: {company}")
             data_file.write(data)
 
 

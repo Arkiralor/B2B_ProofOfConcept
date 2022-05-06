@@ -3,6 +3,7 @@
         "summary": "Experienced Advocate with a demonstrated history of working in the judiciary industry. Skilled in Legal Advice, Corporate Law, Legal Assistance, Criminal Law, and Arbitration. Strong legal professional graduated under Gauhati University",
         "industryName": "Law Practice",
         "lastName": "Sharma",
+        "address": "Akashinagar, Bamunimaidam",
         "locationName": "India",
         "student": false,
         "geoCountryName": "India",
@@ -65,7 +66,7 @@
                     "entityUrn": "urn:li:fs_miniSchool:212806",
                     "active": true,
                     "schoolName": "J.B. Law College",
-                    "trackingId": "WXYL5Z//QTGO50eTs7wFtw=="
+                    "trackingId": "0PxY87efTVeBlKKf29UPJw=="
                 },
                 "timePeriod": {
                     "endDate": {
@@ -100,12 +101,22 @@
         "projects": []
     },
     "contact_info": {
-        "email_address": null,
+        "email_address": "shikhas1312@gmail.com",
         "websites": [],
         "twitter": [],
         "birthdate": null,
-        "ims": null,
-        "phone_numbers": []
+        "ims": [
+            {
+                "provider": "SKYPE",
+                "id": "shikhas1312"
+            }
+        ],
+        "phone_numbers": [
+            {
+                "type": "MOBILE",
+                "number": "8638841582"
+            }
+        ]
     },
     "skills": [
         {

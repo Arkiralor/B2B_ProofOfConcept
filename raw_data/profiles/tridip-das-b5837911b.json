@@ -1,8 +1,9 @@
 {
     "profile": {
-        "summary": "Software Developer with 1.5+ years of experience in Backend development using Python.Experienced in developing scalable applications.Have also worked with projects related to Data Engineering and Natural Language Processing.\n\nSkills & Core Competencies::\n\n\u2022 Language(s) : Python, Javascript(Basics)\n\u2022 Frameworks: Django, Django Rest Framework, FastAPI\n\u2022 Databases: MySQL, PostgreSQL, MongoDB\n\u2022 Data Preprocessing:: Pandas, Pyspark.\n\u2022 NLP Library(s): NLTK, Spacy\n\u2022 Search Engine: Elasticsearch\n\u2022 Operating System: Windows, Linux (Ubuntu)\n\u2022 Containerization : Docker\n\u2022 Cloud: AWS (S3, EC2)\n\u2022 Source Control: Git",
+        "summary": "Software Developer with 1.5+ years of experience in Backend development using Python.Experienced in developing scalable applications.Have also worked with projects related to Data Engineering and Natural Language Processing.\n\nSkills & Core Competencies::\n\n\u2022 Language(s) : Python, Javascript(Basics)\n\u2022 Frameworks: Django, Django Rest Framework, FastAPI\n\u2022 Databases: MySQL, PostgreSQL, MongoDB\n\u2022 Data Preprocessing:: Pandas, Pyspark, Koalas\n\u2022 NLP Library(s): NLTK, Spacy\n\u2022 Search Engine: Elasticsearch\n\u2022 Operating System: Windows, Linux (Ubuntu)\n\u2022 Containerization : Docker\n\u2022 Cloud: AWS (S3, EC2, ELB)\n\u2022 Source Control: Git",
         "industryName": "Information Technology & Services",
         "lastName": "Das",
+        "locationName": "India",
         "student": false,
         "geoCountryName": "India",
         "geoCountryUrn": "urn:li:fs_geo:102713980",
@@ -20,7 +21,7 @@
                 "countryCode": "in"
             }
         },
-        "headline": "Django | FastAPI| Pyspark | NLP ",
+        "headline": "Django | FastAPI | Data Engineering(Python) | AWS",
         "displayPictureUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQF99fv8v6MGgQ/profile-displayphoto-shrink_",
         "img_100_100": "100_100/0/1646553243077?e=1657152000&v=beta&t=XjaQJ47BOr_r58vVMqLRcajD9G-1Pb8RjBa8T6FYp_8",
         "img_200_200": "200_200/0/1646553243077?e=1657152000&v=beta&t=E6DeQ3hlzmWoqwVbuW6pik_rOwynU9jU8NiSnBj3C7Q",
@@ -102,7 +103,7 @@
                     "entityUrn": "urn:li:fs_miniSchool:221732",
                     "active": true,
                     "schoolName": "Tezpur University, Tezpur",
-                    "trackingId": "+X3kERZ+Td+qe/urDyTYhQ=="
+                    "trackingId": "eQVxlF3nS5idfS0oclqayA=="
                 },
                 "timePeriod": {
                     "endDate": {
@@ -153,20 +154,20 @@
                             "artifacts": [
                                 {
                                     "width": 200,
-                                    "fileIdentifyingUrlPathSegment": "200_200/0/1599728627938?e=1659571200&v=beta&t=g_F4HzD9xGOKT3HH-wa2By37Zx1AxvL_T32e_6FS4IY",
-                                    "expiresAt": 1659571200000,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1599728627938?e=1660176000&v=beta&t=HATYRhgVLd5k95DHNgNsJ4BPyd_GMGO5-RNaxC4BshA",
+                                    "expiresAt": 1660176000000,
                                     "height": 200
                                 },
                                 {
                                     "width": 100,
-                                    "fileIdentifyingUrlPathSegment": "100_100/0/1599728627938?e=1659571200&v=beta&t=Q3kfoi5QB-qD6AvR0w1_ryPNLqTwuYFqZ_mh8buev9U",
-                                    "expiresAt": 1659571200000,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1599728627938?e=1660176000&v=beta&t=GC62dZ7Ze_cBCFGQUDbm3XNQiOeqTySNLogGPVEeQXM",
+                                    "expiresAt": 1660176000000,
                                     "height": 100
                                 },
                                 {
                                     "width": 400,
-                                    "fileIdentifyingUrlPathSegment": "400_400/0/1599728627938?e=1659571200&v=beta&t=WEUGhrMSWXBgY4ImkHr1w6ucNYFUVcRmjTUH93wRZhE",
-                                    "expiresAt": 1659571200000,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1599728627938?e=1660176000&v=beta&t=EFlG1TtAISA2Oy85hw4bunDuHov8OYRc9dPeZytd3yE",
+                                    "expiresAt": 1660176000000,
                                     "height": 400
                                 }
                             ],
@@ -175,7 +176,7 @@
                     },
                     "universalName": "edurade",
                     "dashCompanyUrn": "urn:li:fsd_company:7798305",
-                    "trackingId": "c8bWIY7ZTqOdhDu+D+i9fw=="
+                    "trackingId": "ntzYEFWuRNqRtRdlzjRciA=="
                 },
                 "companyUrn": "urn:li:fs_miniCompany:7798305"
             },
@@ -193,20 +194,20 @@
                             "artifacts": [
                                 {
                                     "width": 200,
-                                    "fileIdentifyingUrlPathSegment": "200_200/0/1519898420366?e=1659571200&v=beta&t=SfkuBhhiez9jtnSLeI0lSVEzX0RmvXvGmyRdOVw13g8",
-                                    "expiresAt": 1659571200000,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1519898420366?e=1660176000&v=beta&t=m3X6knrr9uNvqJVLXYKGliiKbUHhj0GYI9EUgF_qhbs",
+                                    "expiresAt": 1660176000000,
                                     "height": 200
                                 },
                                 {
                                     "width": 100,
-                                    "fileIdentifyingUrlPathSegment": "100_100/0/1519898420366?e=1659571200&v=beta&t=hFXVu_CCtNBLNbei7HWvlZaPIPAAtY718kXW9gtxy5k",
-                                    "expiresAt": 1659571200000,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1519898420366?e=1660176000&v=beta&t=TKl9Dd_QwHSlP_U0JTEwhp7Lonp8hw--Cbs915-0kug",
+                                    "expiresAt": 1660176000000,
                                     "height": 100
                                 },
                                 {
                                     "width": 400,
-                                    "fileIdentifyingUrlPathSegment": "400_400/0/1519898420366?e=1659571200&v=beta&t=FFok76sh8SthDP8qMqYMH96MNxHOwS39DCAPhB2J4KQ",
-                                    "expiresAt": 1659571200000,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1519898420366?e=1660176000&v=beta&t=QT_o0su2LZcqRcym9MYUo2k1b3kSWns7TvEY4vzALIs",
+                                    "expiresAt": 1660176000000,
                                     "height": 400
                                 }
                             ],
@@ -215,7 +216,7 @@
                     },
                     "universalName": "nptel",
                     "dashCompanyUrn": "urn:li:fsd_company:13229455",
-                    "trackingId": "ViXCtM0xQ46yypkte14g8Q=="
+                    "trackingId": "MacXc1KhTZiscP1GAGDang=="
                 },
                 "companyUrn": "urn:li:fs_miniCompany:13229455"
             },
@@ -240,20 +241,20 @@
                             "artifacts": [
                                 {
                                     "width": 200,
-                                    "fileIdentifyingUrlPathSegment": "200_200/0/1608039227697?e=1659571200&v=beta&t=wRVMY-MVaYJ_gRPJGWAmyAtra5UDkrb5C2QMosl4GYM",
-                                    "expiresAt": 1659571200000,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1608039227697?e=1660176000&v=beta&t=24dSeYZFSUztRaUy6-QqI0GSTK5-7tfyOci9sanIOTE",
+                                    "expiresAt": 1660176000000,
                                     "height": 200
                                 },
                                 {
                                     "width": 100,
-                                    "fileIdentifyingUrlPathSegment": "100_100/0/1608039227697?e=1659571200&v=beta&t=CAPMRMiVXUqDmrqp-BqC1vdIyYJOoqnSBerWM3FwWok",
-                                    "expiresAt": 1659571200000,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1608039227697?e=1660176000&v=beta&t=8mJvTc5z6PI8olmLRWSi-xaA6ZOeYWkWcZiqxFWbrhE",
+                                    "expiresAt": 1660176000000,
                                     "height": 100
                                 },
                                 {
                                     "width": 400,
-                                    "fileIdentifyingUrlPathSegment": "400_400/0/1608039227697?e=1659571200&v=beta&t=dXUOk2D6bXYDERj7MKq6dw7_5lnp43QhPvs89CpW8D4",
-                                    "expiresAt": 1659571200000,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1608039227697?e=1660176000&v=beta&t=o8C5zQF49vmVYRAgj4K1Q2W5kUw9P0IZwKQoBFhnmDc",
+                                    "expiresAt": 1660176000000,
                                     "height": 400
                                 }
                             ],
@@ -262,7 +263,7 @@
                     },
                     "universalName": "coursera",
                     "dashCompanyUrn": "urn:li:fsd_company:2453129",
-                    "trackingId": "EGV0Hv59Ruuq64E1nAJGSQ=="
+                    "trackingId": "S4hxUvGTRoaNQU7uGSSt5A=="
                 },
                 "displaySource": "coursera.org",
                 "companyUrn": "urn:li:fs_miniCompany:2453129",
@@ -282,20 +283,20 @@
                             "artifacts": [
                                 {
                                     "width": 200,
-                                    "fileIdentifyingUrlPathSegment": "200_200/0/1519898420366?e=1659571200&v=beta&t=SfkuBhhiez9jtnSLeI0lSVEzX0RmvXvGmyRdOVw13g8",
-                                    "expiresAt": 1659571200000,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1519898420366?e=1660176000&v=beta&t=m3X6knrr9uNvqJVLXYKGliiKbUHhj0GYI9EUgF_qhbs",
+                                    "expiresAt": 1660176000000,
                                     "height": 200
                                 },
                                 {
                                     "width": 100,
-                                    "fileIdentifyingUrlPathSegment": "100_100/0/1519898420366?e=1659571200&v=beta&t=hFXVu_CCtNBLNbei7HWvlZaPIPAAtY718kXW9gtxy5k",
-                                    "expiresAt": 1659571200000,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1519898420366?e=1660176000&v=beta&t=TKl9Dd_QwHSlP_U0JTEwhp7Lonp8hw--Cbs915-0kug",
+                                    "expiresAt": 1660176000000,
                                     "height": 100
                                 },
                                 {
                                     "width": 400,
-                                    "fileIdentifyingUrlPathSegment": "400_400/0/1519898420366?e=1659571200&v=beta&t=FFok76sh8SthDP8qMqYMH96MNxHOwS39DCAPhB2J4KQ",
-                                    "expiresAt": 1659571200000,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1519898420366?e=1660176000&v=beta&t=QT_o0su2LZcqRcym9MYUo2k1b3kSWns7TvEY4vzALIs",
+                                    "expiresAt": 1660176000000,
                                     "height": 400
                                 }
                             ],
@@ -304,7 +305,7 @@
                     },
                     "universalName": "nptel",
                     "dashCompanyUrn": "urn:li:fsd_company:13229455",
-                    "trackingId": "wNnEbotxQR6lud12FC/9UA=="
+                    "trackingId": "/sQzhZMNSPyIqMfamMk3aw=="
                 },
                 "companyUrn": "urn:li:fs_miniCompany:13229455"
             },
@@ -329,20 +330,20 @@
                             "artifacts": [
                                 {
                                     "width": 200,
-                                    "fileIdentifyingUrlPathSegment": "200_200/0/1608039227697?e=1659571200&v=beta&t=wRVMY-MVaYJ_gRPJGWAmyAtra5UDkrb5C2QMosl4GYM",
-                                    "expiresAt": 1659571200000,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1608039227697?e=1660176000&v=beta&t=24dSeYZFSUztRaUy6-QqI0GSTK5-7tfyOci9sanIOTE",
+                                    "expiresAt": 1660176000000,
                                     "height": 200
                                 },
                                 {
                                     "width": 100,
-                                    "fileIdentifyingUrlPathSegment": "100_100/0/1608039227697?e=1659571200&v=beta&t=CAPMRMiVXUqDmrqp-BqC1vdIyYJOoqnSBerWM3FwWok",
-                                    "expiresAt": 1659571200000,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1608039227697?e=1660176000&v=beta&t=8mJvTc5z6PI8olmLRWSi-xaA6ZOeYWkWcZiqxFWbrhE",
+                                    "expiresAt": 1660176000000,
                                     "height": 100
                                 },
                                 {
                                     "width": 400,
-                                    "fileIdentifyingUrlPathSegment": "400_400/0/1608039227697?e=1659571200&v=beta&t=dXUOk2D6bXYDERj7MKq6dw7_5lnp43QhPvs89CpW8D4",
-                                    "expiresAt": 1659571200000,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1608039227697?e=1660176000&v=beta&t=o8C5zQF49vmVYRAgj4K1Q2W5kUw9P0IZwKQoBFhnmDc",
+                                    "expiresAt": 1660176000000,
                                     "height": 400
                                 }
                             ],
@@ -351,7 +352,7 @@
                     },
                     "universalName": "coursera",
                     "dashCompanyUrn": "urn:li:fsd_company:2453129",
-                    "trackingId": "5SOsXiTzQGOwYt+FxtMsvg=="
+                    "trackingId": "b1xMF5R0R3GMwvLFKbSfTw=="
                 },
                 "displaySource": "coursera.org",
                 "companyUrn": "urn:li:fs_miniCompany:2453129",
@@ -378,20 +379,20 @@
                             "artifacts": [
                                 {
                                     "width": 200,
-                                    "fileIdentifyingUrlPathSegment": "200_200/0/1608039227697?e=1659571200&v=beta&t=wRVMY-MVaYJ_gRPJGWAmyAtra5UDkrb5C2QMosl4GYM",
-                                    "expiresAt": 1659571200000,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1608039227697?e=1660176000&v=beta&t=24dSeYZFSUztRaUy6-QqI0GSTK5-7tfyOci9sanIOTE",
+                                    "expiresAt": 1660176000000,
                                     "height": 200
                                 },
                                 {
                                     "width": 100,
-                                    "fileIdentifyingUrlPathSegment": "100_100/0/1608039227697?e=1659571200&v=beta&t=CAPMRMiVXUqDmrqp-BqC1vdIyYJOoqnSBerWM3FwWok",
-                                    "expiresAt": 1659571200000,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1608039227697?e=1660176000&v=beta&t=8mJvTc5z6PI8olmLRWSi-xaA6ZOeYWkWcZiqxFWbrhE",
+                                    "expiresAt": 1660176000000,
                                     "height": 100
                                 },
                                 {
                                     "width": 400,
-                                    "fileIdentifyingUrlPathSegment": "400_400/0/1608039227697?e=1659571200&v=beta&t=dXUOk2D6bXYDERj7MKq6dw7_5lnp43QhPvs89CpW8D4",
-                                    "expiresAt": 1659571200000,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1608039227697?e=1660176000&v=beta&t=o8C5zQF49vmVYRAgj4K1Q2W5kUw9P0IZwKQoBFhnmDc",
+                                    "expiresAt": 1660176000000,
                                     "height": 400
                                 }
                             ],
@@ -400,7 +401,7 @@
                     },
                     "universalName": "coursera",
                     "dashCompanyUrn": "urn:li:fsd_company:2453129",
-                    "trackingId": "VgbV1u2ySVG1ZTmtSNipjQ=="
+                    "trackingId": "nDAkK3WLSJ+s/k9cN41+Eg=="
                 },
                 "displaySource": "coursera.org",
                 "companyUrn": "urn:li:fs_miniCompany:2453129",
@@ -427,20 +428,20 @@
                             "artifacts": [
                                 {
                                     "width": 200,
-                                    "fileIdentifyingUrlPathSegment": "200_200/0/1608039227697?e=1659571200&v=beta&t=wRVMY-MVaYJ_gRPJGWAmyAtra5UDkrb5C2QMosl4GYM",
-                                    "expiresAt": 1659571200000,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1608039227697?e=1660176000&v=beta&t=24dSeYZFSUztRaUy6-QqI0GSTK5-7tfyOci9sanIOTE",
+                                    "expiresAt": 1660176000000,
                                     "height": 200
                                 },
                                 {
                                     "width": 100,
-                                    "fileIdentifyingUrlPathSegment": "100_100/0/1608039227697?e=1659571200&v=beta&t=CAPMRMiVXUqDmrqp-BqC1vdIyYJOoqnSBerWM3FwWok",
-                                    "expiresAt": 1659571200000,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1608039227697?e=1660176000&v=beta&t=8mJvTc5z6PI8olmLRWSi-xaA6ZOeYWkWcZiqxFWbrhE",
+                                    "expiresAt": 1660176000000,
                                     "height": 100
                                 },
                                 {
                                     "width": 400,
-                                    "fileIdentifyingUrlPathSegment": "400_400/0/1608039227697?e=1659571200&v=beta&t=dXUOk2D6bXYDERj7MKq6dw7_5lnp43QhPvs89CpW8D4",
-                                    "expiresAt": 1659571200000,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1608039227697?e=1660176000&v=beta&t=o8C5zQF49vmVYRAgj4K1Q2W5kUw9P0IZwKQoBFhnmDc",
+                                    "expiresAt": 1660176000000,
                                     "height": 400
                                 }
                             ],
@@ -449,7 +450,7 @@
                     },
                     "universalName": "coursera",
                     "dashCompanyUrn": "urn:li:fsd_company:2453129",
-                    "trackingId": "MlXZwQ7JSVeCaPCrohO2GQ=="
+                    "trackingId": "ewVQTkypSi+jvuq1ZT9moQ=="
                 },
                 "displaySource": "coursera.org",
                 "companyUrn": "urn:li:fs_miniCompany:2453129",
@@ -475,20 +476,20 @@
                             "artifacts": [
                                 {
                                     "width": 200,
-                                    "fileIdentifyingUrlPathSegment": "200_200/0/1608039227697?e=1659571200&v=beta&t=wRVMY-MVaYJ_gRPJGWAmyAtra5UDkrb5C2QMosl4GYM",
-                                    "expiresAt": 1659571200000,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1608039227697?e=1660176000&v=beta&t=24dSeYZFSUztRaUy6-QqI0GSTK5-7tfyOci9sanIOTE",
+                                    "expiresAt": 1660176000000,
                                     "height": 200
                                 },
                                 {
                                     "width": 100,
-                                    "fileIdentifyingUrlPathSegment": "100_100/0/1608039227697?e=1659571200&v=beta&t=CAPMRMiVXUqDmrqp-BqC1vdIyYJOoqnSBerWM3FwWok",
-                                    "expiresAt": 1659571200000,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1608039227697?e=1660176000&v=beta&t=8mJvTc5z6PI8olmLRWSi-xaA6ZOeYWkWcZiqxFWbrhE",
+                                    "expiresAt": 1660176000000,
                                     "height": 100
                                 },
                                 {
                                     "width": 400,
-                                    "fileIdentifyingUrlPathSegment": "400_400/0/1608039227697?e=1659571200&v=beta&t=dXUOk2D6bXYDERj7MKq6dw7_5lnp43QhPvs89CpW8D4",
-                                    "expiresAt": 1659571200000,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1608039227697?e=1660176000&v=beta&t=o8C5zQF49vmVYRAgj4K1Q2W5kUw9P0IZwKQoBFhnmDc",
+                                    "expiresAt": 1660176000000,
                                     "height": 400
                                 }
                             ],
@@ -497,7 +498,7 @@
                     },
                     "universalName": "coursera",
                     "dashCompanyUrn": "urn:li:fsd_company:2453129",
-                    "trackingId": "Dzpm215qTKOeJcSlogwDnQ=="
+                    "trackingId": "oI27s83GTzGh9dxEs11PLg=="
                 },
                 "displaySource": "youracclaim.com",
                 "companyUrn": "urn:li:fs_miniCompany:2453129",
@@ -524,20 +525,20 @@
                             "artifacts": [
                                 {
                                     "width": 200,
-                                    "fileIdentifyingUrlPathSegment": "200_200/0/1608039227697?e=1659571200&v=beta&t=wRVMY-MVaYJ_gRPJGWAmyAtra5UDkrb5C2QMosl4GYM",
-                                    "expiresAt": 1659571200000,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1608039227697?e=1660176000&v=beta&t=24dSeYZFSUztRaUy6-QqI0GSTK5-7tfyOci9sanIOTE",
+                                    "expiresAt": 1660176000000,
                                     "height": 200
                                 },
                                 {
                                     "width": 100,
-                                    "fileIdentifyingUrlPathSegment": "100_100/0/1608039227697?e=1659571200&v=beta&t=CAPMRMiVXUqDmrqp-BqC1vdIyYJOoqnSBerWM3FwWok",
-                                    "expiresAt": 1659571200000,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1608039227697?e=1660176000&v=beta&t=8mJvTc5z6PI8olmLRWSi-xaA6ZOeYWkWcZiqxFWbrhE",
+                                    "expiresAt": 1660176000000,
                                     "height": 100
                                 },
                                 {
                                     "width": 400,
-                                    "fileIdentifyingUrlPathSegment": "400_400/0/1608039227697?e=1659571200&v=beta&t=dXUOk2D6bXYDERj7MKq6dw7_5lnp43QhPvs89CpW8D4",
-                                    "expiresAt": 1659571200000,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1608039227697?e=1660176000&v=beta&t=o8C5zQF49vmVYRAgj4K1Q2W5kUw9P0IZwKQoBFhnmDc",
+                                    "expiresAt": 1660176000000,
                                     "height": 400
                                 }
                             ],
@@ -546,7 +547,7 @@
                     },
                     "universalName": "coursera",
                     "dashCompanyUrn": "urn:li:fsd_company:2453129",
-                    "trackingId": "tiYv9j12Qd2HY/xj/S333Q=="
+                    "trackingId": "tIJZlkoSQsmZbJj9TAsGTg=="
                 },
                 "displaySource": "coursera.org",
                 "companyUrn": "urn:li:fs_miniCompany:2453129",
@@ -573,20 +574,20 @@
                             "artifacts": [
                                 {
                                     "width": 200,
-                                    "fileIdentifyingUrlPathSegment": "200_200/0/1608039227697?e=1659571200&v=beta&t=wRVMY-MVaYJ_gRPJGWAmyAtra5UDkrb5C2QMosl4GYM",
-                                    "expiresAt": 1659571200000,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1608039227697?e=1660176000&v=beta&t=24dSeYZFSUztRaUy6-QqI0GSTK5-7tfyOci9sanIOTE",
+                                    "expiresAt": 1660176000000,
                                     "height": 200
                                 },
                                 {
                                     "width": 100,
-                                    "fileIdentifyingUrlPathSegment": "100_100/0/1608039227697?e=1659571200&v=beta&t=CAPMRMiVXUqDmrqp-BqC1vdIyYJOoqnSBerWM3FwWok",
-                                    "expiresAt": 1659571200000,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1608039227697?e=1660176000&v=beta&t=8mJvTc5z6PI8olmLRWSi-xaA6ZOeYWkWcZiqxFWbrhE",
+                                    "expiresAt": 1660176000000,
                                     "height": 100
                                 },
                                 {
                                     "width": 400,
-                                    "fileIdentifyingUrlPathSegment": "400_400/0/1608039227697?e=1659571200&v=beta&t=dXUOk2D6bXYDERj7MKq6dw7_5lnp43QhPvs89CpW8D4",
-                                    "expiresAt": 1659571200000,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1608039227697?e=1660176000&v=beta&t=o8C5zQF49vmVYRAgj4K1Q2W5kUw9P0IZwKQoBFhnmDc",
+                                    "expiresAt": 1660176000000,
                                     "height": 400
                                 }
                             ],
@@ -595,7 +596,7 @@
                     },
                     "universalName": "coursera",
                     "dashCompanyUrn": "urn:li:fsd_company:2453129",
-                    "trackingId": "Wy8DtiJkQd2LHEj9CniTKQ=="
+                    "trackingId": "m5aHoj56RtKwKbnsxzF8vw=="
                 },
                 "displaySource": "coursera.org",
                 "companyUrn": "urn:li:fs_miniCompany:2453129",
@@ -612,7 +613,7 @@
                             "firstName": "Tridip",
                             "lastName": "Das",
                             "dashEntityUrn": "urn:li:fsd_profile:ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY",
-                            "occupation": "Django | FastAPI| Pyspark | NLP",
+                            "occupation": "Django | FastAPI | Data Engineering(Python) | AWS",
                             "objectUrn": "urn:li:member:499568180",
                             "entityUrn": "urn:li:fs_miniProfile:ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY",
                             "backgroundImage": {
@@ -666,7 +667,7 @@
                                     "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQF99fv8v6MGgQ/profile-displayphoto-shrink_"
                                 }
                             },
-                            "trackingId": "T+vDHPyhTd66jTkj5GZPzQ=="
+                            "trackingId": "tjlYu2UtRPKf2mlDk6Zl5g=="
                         },
                         "entityUrn": "urn:li:fs_contributor:(ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY,1652455073,277025951)",
                         "profileUrn": "urn:li:fs_miniProfile:ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY"
@@ -689,7 +690,7 @@
                             "firstName": "Tridip",
                             "lastName": "Das",
                             "dashEntityUrn": "urn:li:fsd_profile:ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY",
-                            "occupation": "Django | FastAPI| Pyspark | NLP",
+                            "occupation": "Django | FastAPI | Data Engineering(Python) | AWS",
                             "objectUrn": "urn:li:member:499568180",
                             "entityUrn": "urn:li:fs_miniProfile:ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY",
                             "backgroundImage": {
@@ -743,7 +744,7 @@
                                     "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQF99fv8v6MGgQ/profile-displayphoto-shrink_"
                                 }
                             },
-                            "trackingId": "T+vDHPyhTd66jTkj5GZPzQ=="
+                            "trackingId": "tjlYu2UtRPKf2mlDk6Zl5g=="
                         },
                         "entityUrn": "urn:li:fs_contributor:(ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY,732329772,276129672)",
                         "profileUrn": "urn:li:fs_miniProfile:ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY"
@@ -766,7 +767,7 @@
                             "firstName": "Tridip",
                             "lastName": "Das",
                             "dashEntityUrn": "urn:li:fsd_profile:ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY",
-                            "occupation": "Django | FastAPI| Pyspark | NLP",
+                            "occupation": "Django | FastAPI | Data Engineering(Python) | AWS",
                             "objectUrn": "urn:li:member:499568180",
                             "entityUrn": "urn:li:fs_miniProfile:ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY",
                             "backgroundImage": {
@@ -820,7 +821,7 @@
                                     "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQF99fv8v6MGgQ/profile-displayphoto-shrink_"
                                 }
                             },
-                            "trackingId": "T+vDHPyhTd66jTkj5GZPzQ=="
+                            "trackingId": "tjlYu2UtRPKf2mlDk6Zl5g=="
                         },
                         "entityUrn": "urn:li:fs_contributor:(ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY,1070301108,276994968)",
                         "profileUrn": "urn:li:fs_miniProfile:ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY"
@@ -843,7 +844,7 @@
                             "firstName": "Tridip",
                             "lastName": "Das",
                             "dashEntityUrn": "urn:li:fsd_profile:ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY",
-                            "occupation": "Django | FastAPI| Pyspark | NLP",
+                            "occupation": "Django | FastAPI | Data Engineering(Python) | AWS",
                             "objectUrn": "urn:li:member:499568180",
                             "entityUrn": "urn:li:fs_miniProfile:ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY",
                             "backgroundImage": {
@@ -897,7 +898,7 @@
                                     "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQF99fv8v6MGgQ/profile-displayphoto-shrink_"
                                 }
                             },
-                            "trackingId": "T+vDHPyhTd66jTkj5GZPzQ=="
+                            "trackingId": "tjlYu2UtRPKf2mlDk6Zl5g=="
                         },
                         "entityUrn": "urn:li:fs_contributor:(ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY,556259585,276608631)",
                         "profileUrn": "urn:li:fs_miniProfile:ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY"
@@ -920,7 +921,7 @@
                             "firstName": "Tridip",
                             "lastName": "Das",
                             "dashEntityUrn": "urn:li:fsd_profile:ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY",
-                            "occupation": "Django | FastAPI| Pyspark | NLP",
+                            "occupation": "Django | FastAPI | Data Engineering(Python) | AWS",
                             "objectUrn": "urn:li:member:499568180",
                             "entityUrn": "urn:li:fs_miniProfile:ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY",
                             "backgroundImage": {
@@ -974,7 +975,7 @@
                                     "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQF99fv8v6MGgQ/profile-displayphoto-shrink_"
                                 }
                             },
-                            "trackingId": "T+vDHPyhTd66jTkj5GZPzQ=="
+                            "trackingId": "tjlYu2UtRPKf2mlDk6Zl5g=="
                         },
                         "entityUrn": "urn:li:fs_contributor:(ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY,2067971245,270689342)",
                         "profileUrn": "urn:li:fs_miniProfile:ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY"
@@ -997,7 +998,7 @@
                             "firstName": "Tridip",
                             "lastName": "Das",
                             "dashEntityUrn": "urn:li:fsd_profile:ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY",
-                            "occupation": "Django | FastAPI| Pyspark | NLP",
+                            "occupation": "Django | FastAPI | Data Engineering(Python) | AWS",
                             "objectUrn": "urn:li:member:499568180",
                             "entityUrn": "urn:li:fs_miniProfile:ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY",
                             "backgroundImage": {
@@ -1051,7 +1052,7 @@
                                     "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQF99fv8v6MGgQ/profile-displayphoto-shrink_"
                                 }
                             },
-                            "trackingId": "T+vDHPyhTd66jTkj5GZPzQ=="
+                            "trackingId": "tjlYu2UtRPKf2mlDk6Zl5g=="
                         },
                         "entityUrn": "urn:li:fs_contributor:(ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY,556161604,276606735)",
                         "profileUrn": "urn:li:fs_miniProfile:ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY"
@@ -1075,7 +1076,7 @@
                             "firstName": "Tridip",
                             "lastName": "Das",
                             "dashEntityUrn": "urn:li:fsd_profile:ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY",
-                            "occupation": "Django | FastAPI| Pyspark | NLP",
+                            "occupation": "Django | FastAPI | Data Engineering(Python) | AWS",
                             "objectUrn": "urn:li:member:499568180",
                             "entityUrn": "urn:li:fs_miniProfile:ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY",
                             "backgroundImage": {
@@ -1129,7 +1130,7 @@
                                     "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQF99fv8v6MGgQ/profile-displayphoto-shrink_"
                                 }
                             },
-                            "trackingId": "T+vDHPyhTd66jTkj5GZPzQ=="
+                            "trackingId": "tjlYu2UtRPKf2mlDk6Zl5g=="
                         },
                         "entityUrn": "urn:li:fs_contributor:(ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY,1762628705,266727613)",
                         "profileUrn": "urn:li:fs_miniProfile:ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY"
@@ -1174,7 +1175,7 @@
                                     "rootUrl": "https://media-exp1.licdn.com/dms/image/C5103AQGOrOszI66fnA/profile-displayphoto-shrink_"
                                 }
                             },
-                            "trackingId": "cz5mY7ILRqG/kqN+CqBIBA=="
+                            "trackingId": "PCr6VKXvT9iqNvKlE5O0Iw=="
                         },
                         "entityUrn": "urn:li:fs_contributor:(ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY,1762628705,266728305)",
                         "profileUrn": "urn:li:fs_miniProfile:ACoAACpz0nMBeidhBNHUtXjTFGRmsQ33ExKj2pg"
@@ -1196,7 +1197,7 @@
                             "firstName": "Tridip",
                             "lastName": "Das",
                             "dashEntityUrn": "urn:li:fsd_profile:ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY",
-                            "occupation": "Django | FastAPI| Pyspark | NLP",
+                            "occupation": "Django | FastAPI | Data Engineering(Python) | AWS",
                             "objectUrn": "urn:li:member:499568180",
                             "entityUrn": "urn:li:fs_miniProfile:ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY",
                             "backgroundImage": {
@@ -1250,7 +1251,7 @@
                                     "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQF99fv8v6MGgQ/profile-displayphoto-shrink_"
                                 }
                             },
-                            "trackingId": "T+vDHPyhTd66jTkj5GZPzQ=="
+                            "trackingId": "tjlYu2UtRPKf2mlDk6Zl5g=="
                         },
                         "entityUrn": "urn:li:fs_contributor:(ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY,1960729169,221291064)",
                         "profileUrn": "urn:li:fs_miniProfile:ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY"
@@ -1273,7 +1274,7 @@
                             "firstName": "Tridip",
                             "lastName": "Das",
                             "dashEntityUrn": "urn:li:fsd_profile:ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY",
-                            "occupation": "Django | FastAPI| Pyspark | NLP",
+                            "occupation": "Django | FastAPI | Data Engineering(Python) | AWS",
                             "objectUrn": "urn:li:member:499568180",
                             "entityUrn": "urn:li:fs_miniProfile:ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY",
                             "backgroundImage": {
@@ -1327,7 +1328,7 @@
                                     "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQF99fv8v6MGgQ/profile-displayphoto-shrink_"
                                 }
                             },
-                            "trackingId": "T+vDHPyhTd66jTkj5GZPzQ=="
+                            "trackingId": "tjlYu2UtRPKf2mlDk6Zl5g=="
                         },
                         "entityUrn": "urn:li:fs_contributor:(ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY,1762532242,266728276)",
                         "profileUrn": "urn:li:fs_miniProfile:ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY"
@@ -1355,7 +1356,7 @@
                             "firstName": "Tridip",
                             "lastName": "Das",
                             "dashEntityUrn": "urn:li:fsd_profile:ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY",
-                            "occupation": "Django | FastAPI| Pyspark | NLP",
+                            "occupation": "Django | FastAPI | Data Engineering(Python) | AWS",
                             "objectUrn": "urn:li:member:499568180",
                             "entityUrn": "urn:li:fs_miniProfile:ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY",
                             "backgroundImage": {
@@ -1409,7 +1410,7 @@
                                     "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQF99fv8v6MGgQ/profile-displayphoto-shrink_"
                                 }
                             },
-                            "trackingId": "T+vDHPyhTd66jTkj5GZPzQ=="
+                            "trackingId": "tjlYu2UtRPKf2mlDk6Zl5g=="
                         },
                         "entityUrn": "urn:li:fs_contributor:(ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY,1670983609,236167875)",
                         "profileUrn": "urn:li:fs_miniProfile:ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY"

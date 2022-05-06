@@ -1,32 +1,126 @@
 {
     "profile": {
-        "summary": "Currently pursuing a career in Software and Web-Application Development/Engineering.\n\nExperienced in multiple Python-dependent fields such as Web Application Development, Web-Automation and Data Processing.\n\nDemonstrably excellent communication and comprehension skills in English, good literary and communicative\nability in Hindi and native proficiency in Assamese along with high-level problem solving and more-than-adequate analytical skills.",
-        "industryName": "Information Technology & Services",
         "lastName": "Medhi",
-        "address": "Guwahati",
-        "locationName": "India",
         "student": false,
-        "geoCountryName": "India",
         "geoCountryUrn": "urn:li:fs_geo:102713980",
         "geoLocationBackfilled": false,
+        "entityUrn": "urn:li:fs_profile:ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE",
+        "headline": "Software Developer at TechVariable | FastAPI | Django | REST API",
+        "summary": "Currently pursuing a career in Software and Web-Application Development/Engineering.\n\nExperienced in multiple Python-dependent fields such as Web Application Development, Web-Automation and Data Processing.\n\nDemonstrably excellent communication and comprehension skills in English, good literary and communicative\nability in Hindi and native proficiency in Assamese along with high-level problem solving and more-than-adequate analytical skills.",
+        "industryName": "Information Technology & Services",
+        "address": "Guwahati",
+        "locationName": "India",
+        "geoCountryName": "India",
         "elt": false,
+        "profilePictureOriginalImage": {
+            "com.linkedin.common.VectorImage": {
+                "artifacts": [
+                    {
+                        "width": 600,
+                        "fileIdentifyingUrlPathSegment": "900_1200/0/1644147869087?m=AQIIyjHBfcSAHwAAAYCZIwQRDZFQB9ccbbrCmy6NpmFOQLj2xgPudgh7qg&e=1651923050&v=beta&t=artsrgWszZHgMHX9RtCjo3KXFgBeKUtfw_g8FQfPO2Q",
+                        "expiresAt": 1651923050000,
+                        "height": 900
+                    },
+                    {
+                        "width": 300,
+                        "fileIdentifyingUrlPathSegment": "450_600/0/1644147869087?m=AQKL4Fe0Gz2k4wAAAYCZIwQR14nkmi0gOHj5nknToATBOnUxwpnh9W-EAA&e=1651923050&v=beta&t=d9BqF-B0aocRYDtEoRDN95zOCewRkoSJU4DUBsuTB5o",
+                        "expiresAt": 1651923050000,
+                        "height": 450
+                    }
+                ],
+                "rootUrl": "https://www.linkedin.com/dms/C4D04AQEuBFSeExcYjQ/profile-originalphoto-shrink_"
+            }
+        },
         "birthDate": {
             "month": 9,
             "day": 25
         },
         "industryUrn": "urn:li:fs_industry:96",
         "firstName": "Prithoo",
-        "entityUrn": "urn:li:fs_profile:ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE",
+        "profilePicture": {
+            "displayImage": "urn:li:digitalmediaAsset:C4D03AQHzCit0-LSR5A",
+            "originalImage": "urn:li:digitalmediaAsset:C4D04AQEuBFSeExcYjQ",
+            "photoFilterEditInfo": {
+                "bottomLeft": {
+                    "x": -6.178632484870436e-17,
+                    "y": 0.7666666666666667
+                },
+                "saturation": 0.0,
+                "brightness": 0.0,
+                "vignette": 0.0,
+                "photoFilterType": "ORIGINAL",
+                "bottomRight": {
+                    "x": 1.0,
+                    "y": 0.7666666666666667
+                },
+                "topLeft": {
+                    "x": -6.178632484870436e-17,
+                    "y": 0.1
+                },
+                "contrast": 0.0,
+                "topRight": {
+                    "x": 1.0,
+                    "y": 0.1
+                }
+            }
+        },
         "geoLocation": {
-            "geoUrn": "urn:li:fs_geo:105607401"
+            "geoUrn": "urn:li:fs_geo:105607401",
+            "postalCode": "781121"
         },
         "geoLocationName": "Guwahati, Assam",
         "location": {
             "basicLocation": {
-                "countryCode": "in"
+                "countryCode": "in",
+                "postalCode": "781121"
             }
         },
-        "headline": "Software Developer at TechVariable | FastAPI | Django | REST API",
+        "backgroundPicture": {
+            "displayImage": "urn:li:digitalmediaAsset:C4D16AQF5zHIc1x2SnQ",
+            "originalImage": "urn:li:digitalmediaAsset:C4D04AQF5UXxsPVoUGA",
+            "photoFilterEditInfo": {
+                "bottomLeft": {
+                    "x": 2.9802322387695312e-08,
+                    "y": 1.0
+                },
+                "saturation": 0.0,
+                "brightness": 0.0,
+                "vignette": 0.0,
+                "photoFilterType": "ORIGINAL",
+                "bottomRight": {
+                    "x": 1.0,
+                    "y": 1.0
+                },
+                "topLeft": {
+                    "x": 2.9802322387695312e-08,
+                    "y": 5.960464477539063e-08
+                },
+                "contrast": 0.0,
+                "topRight": {
+                    "x": 1.0,
+                    "y": 5.960464477539063e-08
+                }
+            }
+        },
+        "backgroundPictureOriginalImage": {
+            "com.linkedin.common.VectorImage": {
+                "artifacts": [
+                    {
+                        "width": 1400,
+                        "fileIdentifyingUrlPathSegment": "396_1584/0/1641985444921?m=AQI1NgpzWnNL2QAAAYCZIwQRgHSsWIYH2OgXD6dQxnOPSu8C3zNEgF0yXA&e=1651923050&v=beta&t=N27KbWLYTd-CxnRoTnC997ds67D9P5hoEb62DSmSito",
+                        "expiresAt": 1651923050000,
+                        "height": 350
+                    },
+                    {
+                        "width": 800,
+                        "fileIdentifyingUrlPathSegment": "200_800/0/1641985444921?m=AQJYgp6Y9C4XmAAAAYCZIwQR937sBWsOQLz0uFcJYr4GUur_NXI-P3FBLw&e=1651923050&v=beta&t=-gnm67N9dKw9QbMKZJxubLiqOMOijQkEvupeRXdjAig",
+                        "expiresAt": 1651923050000,
+                        "height": 200
+                    }
+                ],
+                "rootUrl": "https://www.linkedin.com/dms/C4D04AQF5UXxsPVoUGA/profile-originalbackgroundimage-shrink_"
+            }
+        },
         "displayPictureUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQHzCit0-LSR5A/profile-displayphoto-shrink_",
         "img_100_100": "100_100/0/1644147868073?e=1657152000&v=beta&t=eInIbqveIoeZuPsHnEmsYXhtL_j0MIZokmrKkuHQi4U",
         "img_200_200": "200_200/0/1644147868073?e=1657152000&v=beta&t=VkCnWlMdBCQj2005seqQTL6kp8rXFm0hQw008igFJTY",
@@ -345,7 +439,7 @@
                     "entityUrn": "urn:li:fs_miniSchool:13476",
                     "active": true,
                     "schoolName": "Gauhati University",
-                    "trackingId": "QSU1AqIwQoubBeVyafL5ag==",
+                    "trackingId": "jGoVOCBXSX2i3v44dBYtcA==",
                     "logoUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQE_SHDG7RHWLg/company-logo_"
                 },
                 "activities": "3rd Prize: Inter-Departmental Wall Magazine Team (GU Varsity Week 2019)\n2nd Prize: Dept. of Computer Science Departmental Extempore Speech Competition.",
@@ -436,20 +530,20 @@
                             "artifacts": [
                                 {
                                     "width": 200,
-                                    "fileIdentifyingUrlPathSegment": "200_200/0/1592438653658?e=1659571200&v=beta&t=uZu8V5NL3fT7RuePPBf0MrP18NyMl8YhqhwmjezejUI",
-                                    "expiresAt": 1659571200000,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1592438653658?e=1660176000&v=beta&t=10JfZzdBQK01Jakc0Yc7rwjmf_1-Xnw_loXP1ZwJW18",
+                                    "expiresAt": 1660176000000,
                                     "height": 200
                                 },
                                 {
                                     "width": 100,
-                                    "fileIdentifyingUrlPathSegment": "100_100/0/1592438653658?e=1659571200&v=beta&t=DCopa0XUgerTKG68lTco6VEip3uPWZdQhRS3u-w-UGA",
-                                    "expiresAt": 1659571200000,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1592438653658?e=1660176000&v=beta&t=1u0tj9Ab8GhYu6CIYjeeQOuAv3cdCUAVABpssocr70w",
+                                    "expiresAt": 1660176000000,
                                     "height": 100
                                 },
                                 {
                                     "width": 400,
-                                    "fileIdentifyingUrlPathSegment": "400_400/0/1592438653658?e=1659571200&v=beta&t=bpY9THjxwA3g-ElLJUpqDW8_YCs5Iuy_bs9Kyk8nVEw",
-                                    "expiresAt": 1659571200000,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1592438653658?e=1660176000&v=beta&t=w_A_JQrvmpFakNprU8NtS_OmKewbKM6L8m4GAA845k0",
+                                    "expiresAt": 1660176000000,
                                     "height": 400
                                 }
                             ],
@@ -458,7 +552,7 @@
                     },
                     "universalName": "triplebyte",
                     "dashCompanyUrn": "urn:li:fsd_company:6622522",
-                    "trackingId": "3U7Krrj3SuWzPuiLWnXgxA=="
+                    "trackingId": "YbFH9d7CTWmaDgkcUyUaVQ=="
                 },
                 "displaySource": "triplebyte.com",
                 "companyUrn": "urn:li:fs_miniCompany:6622522",
@@ -485,20 +579,20 @@
                             "artifacts": [
                                 {
                                     "width": 200,
-                                    "fileIdentifyingUrlPathSegment": "200_200/0/1641202397642?e=1659571200&v=beta&t=4ZlJk-5JrTvkH7_sbbRQIJCGyKKRcmCg8Ov6Rpa8WNw",
-                                    "expiresAt": 1659571200000,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1641202397642?e=1660176000&v=beta&t=Ix11l-5N4KcRtRth48ZPACX6rW1IZzJoWzAy9_4bxo4",
+                                    "expiresAt": 1660176000000,
                                     "height": 200
                                 },
                                 {
                                     "width": 100,
-                                    "fileIdentifyingUrlPathSegment": "100_100/0/1641202397642?e=1659571200&v=beta&t=Z2ju7R7JqCWCNvimS1g3-tQOgr-3o1XOulmBMEMneqg",
-                                    "expiresAt": 1659571200000,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1641202397642?e=1660176000&v=beta&t=1wEUWwbPAJE5oClfZksATmGN7fbvC3TkUOx8x6dlOFE",
+                                    "expiresAt": 1660176000000,
                                     "height": 100
                                 },
                                 {
                                     "width": 400,
-                                    "fileIdentifyingUrlPathSegment": "400_400/0/1641202397642?e=1659571200&v=beta&t=fMvbEY-TEFdUf4RZbKLGABnLpWTEcoG1jV-5mYrm9O0",
-                                    "expiresAt": 1659571200000,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1641202397642?e=1660176000&v=beta&t=7yI0595xh0aic_daPziBqKaN35HhJqHMSSzx5NCGEwg",
+                                    "expiresAt": 1660176000000,
                                     "height": 400
                                 }
                             ],
@@ -507,7 +601,7 @@
                     },
                     "universalName": "hackerrank",
                     "dashCompanyUrn": "urn:li:fsd_company:435210",
-                    "trackingId": "1lrre0E4R/CKctl9z3FQTg=="
+                    "trackingId": "VLOg+8YXTQScRLz8O0SOWQ=="
                 },
                 "displaySource": "hackerrank.com",
                 "companyUrn": "urn:li:fs_miniCompany:435210",
@@ -534,20 +628,20 @@
                             "artifacts": [
                                 {
                                     "width": 200,
-                                    "fileIdentifyingUrlPathSegment": "200_200/0/1641202397642?e=1659571200&v=beta&t=4ZlJk-5JrTvkH7_sbbRQIJCGyKKRcmCg8Ov6Rpa8WNw",
-                                    "expiresAt": 1659571200000,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1641202397642?e=1660176000&v=beta&t=Ix11l-5N4KcRtRth48ZPACX6rW1IZzJoWzAy9_4bxo4",
+                                    "expiresAt": 1660176000000,
                                     "height": 200
                                 },
                                 {
                                     "width": 100,
-                                    "fileIdentifyingUrlPathSegment": "100_100/0/1641202397642?e=1659571200&v=beta&t=Z2ju7R7JqCWCNvimS1g3-tQOgr-3o1XOulmBMEMneqg",
-                                    "expiresAt": 1659571200000,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1641202397642?e=1660176000&v=beta&t=1wEUWwbPAJE5oClfZksATmGN7fbvC3TkUOx8x6dlOFE",
+                                    "expiresAt": 1660176000000,
                                     "height": 100
                                 },
                                 {
                                     "width": 400,
-                                    "fileIdentifyingUrlPathSegment": "400_400/0/1641202397642?e=1659571200&v=beta&t=fMvbEY-TEFdUf4RZbKLGABnLpWTEcoG1jV-5mYrm9O0",
-                                    "expiresAt": 1659571200000,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1641202397642?e=1660176000&v=beta&t=7yI0595xh0aic_daPziBqKaN35HhJqHMSSzx5NCGEwg",
+                                    "expiresAt": 1660176000000,
                                     "height": 400
                                 }
                             ],
@@ -556,7 +650,7 @@
                     },
                     "universalName": "hackerrank",
                     "dashCompanyUrn": "urn:li:fsd_company:435210",
-                    "trackingId": "dV2pJoieSC+3tygMOjDOhA=="
+                    "trackingId": "AVX6hqemQpiyMY04yqG9WQ=="
                 },
                 "displaySource": "hackerrank.com",
                 "companyUrn": "urn:li:fs_miniCompany:435210",
@@ -628,7 +722,7 @@
                                     "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQHzCit0-LSR5A/profile-displayphoto-shrink_"
                                 }
                             },
-                            "trackingId": "uM5VihoIR5i5HjsnX1Q3kw=="
+                            "trackingId": "dBX9+xiSTI2+RY0/ksVsyA=="
                         },
                         "entityUrn": "urn:li:fs_contributor:(ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE,1499974790,339931523)",
                         "profileUrn": "urn:li:fs_miniProfile:ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE"
@@ -710,7 +804,7 @@
                                     "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQHzCit0-LSR5A/profile-displayphoto-shrink_"
                                 }
                             },
-                            "trackingId": "uM5VihoIR5i5HjsnX1Q3kw=="
+                            "trackingId": "dBX9+xiSTI2+RY0/ksVsyA=="
                         },
                         "entityUrn": "urn:li:fs_contributor:(ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE,2074374569,337885055)",
                         "profileUrn": "urn:li:fs_miniProfile:ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE"
@@ -792,7 +886,7 @@
                                     "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQHzCit0-LSR5A/profile-displayphoto-shrink_"
                                 }
                             },
-                            "trackingId": "uM5VihoIR5i5HjsnX1Q3kw=="
+                            "trackingId": "dBX9+xiSTI2+RY0/ksVsyA=="
                         },
                         "entityUrn": "urn:li:fs_contributor:(ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE,1308571165,336553289)",
                         "profileUrn": "urn:li:fs_miniProfile:ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE"
@@ -874,7 +968,7 @@
                                     "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQHzCit0-LSR5A/profile-displayphoto-shrink_"
                                 }
                             },
-                            "trackingId": "uM5VihoIR5i5HjsnX1Q3kw=="
+                            "trackingId": "dBX9+xiSTI2+RY0/ksVsyA=="
                         },
                         "entityUrn": "urn:li:fs_contributor:(ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE,1308724224,336554226)",
                         "profileUrn": "urn:li:fs_miniProfile:ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE"
@@ -956,7 +1050,7 @@
                                     "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQHzCit0-LSR5A/profile-displayphoto-shrink_"
                                 }
                             },
-                            "trackingId": "uM5VihoIR5i5HjsnX1Q3kw=="
+                            "trackingId": "dBX9+xiSTI2+RY0/ksVsyA=="
                         },
                         "entityUrn": "urn:li:fs_contributor:(ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE,630239391,333302443)",
                         "profileUrn": "urn:li:fs_miniProfile:ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE"
@@ -1038,7 +1132,7 @@
                                     "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQHzCit0-LSR5A/profile-displayphoto-shrink_"
                                 }
                             },
-                            "trackingId": "uM5VihoIR5i5HjsnX1Q3kw=="
+                            "trackingId": "dBX9+xiSTI2+RY0/ksVsyA=="
                         },
                         "entityUrn": "urn:li:fs_contributor:(ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE,1309095805,336553335)",
                         "profileUrn": "urn:li:fs_miniProfile:ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE"
@@ -1120,7 +1214,7 @@
                                     "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQHzCit0-LSR5A/profile-displayphoto-shrink_"
                                 }
                             },
-                            "trackingId": "uM5VihoIR5i5HjsnX1Q3kw=="
+                            "trackingId": "dBX9+xiSTI2+RY0/ksVsyA=="
                         },
                         "entityUrn": "urn:li:fs_contributor:(ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE,220263061,338413750)",
                         "profileUrn": "urn:li:fs_miniProfile:ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE"
@@ -1184,7 +1278,7 @@
                                     "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E03AQH0P1Cy_tsTvQ/profile-displayphoto-shrink_"
                                 }
                             },
-                            "trackingId": "/nYDooLZS1mqlWgRyPd4Ig=="
+                            "trackingId": "ierpGX93SDiWJGCoPjSoHw=="
                         },
                         "entityUrn": "urn:li:fs_contributor:(ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE,220263061,338415701)",
                         "profileUrn": "urn:li:fs_miniProfile:ACoAABW4VjwBxaKaQkiS-3oKNBqaC_4AD-KmBeA"
@@ -1266,7 +1360,7 @@
                                     "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQHzCit0-LSR5A/profile-displayphoto-shrink_"
                                 }
                             },
-                            "trackingId": "uM5VihoIR5i5HjsnX1Q3kw=="
+                            "trackingId": "dBX9+xiSTI2+RY0/ksVsyA=="
                         },
                         "entityUrn": "urn:li:fs_contributor:(ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE,1308392104,336551403)",
                         "profileUrn": "urn:li:fs_miniProfile:ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE"
@@ -1348,7 +1442,7 @@
                                     "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQHzCit0-LSR5A/profile-displayphoto-shrink_"
                                 }
                             },
-                            "trackingId": "uM5VihoIR5i5HjsnX1Q3kw=="
+                            "trackingId": "dBX9+xiSTI2+RY0/ksVsyA=="
                         },
                         "entityUrn": "urn:li:fs_contributor:(ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE,1308461341,336553277)",
                         "profileUrn": "urn:li:fs_miniProfile:ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE"
@@ -1429,7 +1523,7 @@
                                     "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQHzCit0-LSR5A/profile-displayphoto-shrink_"
                                 }
                             },
-                            "trackingId": "uM5VihoIR5i5HjsnX1Q3kw=="
+                            "trackingId": "dBX9+xiSTI2+RY0/ksVsyA=="
                         },
                         "entityUrn": "urn:li:fs_contributor:(ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE,731619591,276743126)",
                         "profileUrn": "urn:li:fs_miniProfile:ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE"
