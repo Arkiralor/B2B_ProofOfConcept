@@ -33,7 +33,7 @@ def main():
     # main_api.get_companies("techvariable")
 
     ## Search people:
-    main_api.get_people(keywords="linkedin")
+    # main_api.get_people(keywords="linkedin")
 
     ## Get Python Profile:
     # with open("raw_data\search_results\people\python_people.json")as python_people_file:
@@ -43,16 +43,20 @@ def main():
     # with open(f"raw_data{sep}search_results\people{sep}techvariable_people.json")as python_people_file:
     #     python_people_dict = json.load(python_people_file)
 
-    # max_rand = len(python_people_dict)
-    # seed()
+    ## Get LinkedIn Profile:
+    with open("raw_data\search_results\people\linkedin_people.json")as python_people_file:
+        python_people_dict = json.load(python_people_file)
 
-    # for counter in range(26):
-    #     logging.info(f"   \n\n\nBEGIN ITERATION: {counter+1}  ")
-    #     i = randrange(max_rand)
-    #     logging.info(f"   INDEX: {i}  ")
-    #     person = python_people_dict[i]
-    #     main_api.get_profile_details(person.get("public_id"))
-    #     logging.info(f"   END ITERATION: {counter+1}  \n\n\n")
+    max_rand = len(python_people_dict)
+    seed()
+
+    for counter in range(26):
+        logging.info(f"   \n\n\nBEGIN ITERATION: {counter+1}  ")
+        i = randrange(max_rand)
+        logging.info(f"   INDEX: {i}  ")
+        person = python_people_dict[i]
+        main_api.get_profile_details(person.get("public_id"))
+        logging.info(f"   END ITERATION: {counter+1}  \n\n\n")
 
 
     # for person in python_people_dict:
