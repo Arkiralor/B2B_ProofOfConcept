@@ -1,0 +1,726 @@
+{
+    "profile": {
+        "summary": "Hi, I am Shilpi Borah.\nGraduated as an electrical engineer made a transition to the digital marketing lane.\n\n\ud83c\udfaf I use a 3-step (analyze-formulate-implement) strategy to help Startups to build a strong social presence.\n\nSpecialized platforms:\n\u270f\ufe0fQuora\n\u270f\ufe0fLinkedIn\n\u270f\ufe0fFacebook\n\u270f\ufe0fInstagram\n\nI specialize in SEO & Content planning. Every startup is unique. Hence, curating customized solutions for your startup is where I use my superpowers!!\n\nMy previous experiences:\n\ud83d\uddde\ufe0f News & Media - 1 year of research, content planning & community building\n\ud83d\udcbb Tech - 6 months of Quora brand foundation & personal branding, LinkedIn community building & event management, off-page SEO & keyword research, visuals & content development & competitor research\n\nI am a co-founder & community momma to Quora@Assam - A community of writers from all parts of Assam.\n\nHow am I related to Quora?\n\ud83d\udca1 Quora World Meetup Organiser, Assam Chapter - 2017, 2018, 2019\n\ud83d\udca1 Panelist at Quora World Meetup English 2020- As a popular contributor of Quora\n\ud83d\udca1 Participant of virtual Quora World Meetup 2021 Hindi & English\n\nI have a piece of good news too! \nMy freelancing platform \ud83d\udfe3 Her Strategy \ud83d\udfe3 is now actively providing digital marketing services -\n\n\ud83d\udcccContent Development (both on-page & off-page SEO)\n\ud83d\udcccSocial Media Marketing (Quora, LinkedIn, Facebook, Instagram)\n\ud83d\udcccCommunity building\n\ud83d\udcccComplete SEO for websites (Reduce bounce rate, get high conversion rate by optimizing content)\n\nTools that I use -\n\ud83d\udd27 Q-stats: To keep Quora analytics on check\n\ud83d\udd27 Quora for business: Quora Ads\n\ud83d\udd27 Google Workplace: Content & reports\n\ud83d\udd27 Canva: Visual designs\n\ud83d\udd27 Gmeet, Zoom: Meetings\n\ud83d\udd27 Spyfu, Alexa.com, similarweb: Competitor research\n\ud83d\udd27 Ubersuggest.io: Organic keyword research\n\ud83d\udd27 Google keyword planner: SEO\n\ud83d\udd27 Grammarly: Content optimisation\n\ud83d\udd27 Paraphraser.io: Paraphrasing\n\ud83d\udd27 Plagiarism checker by smallseotools: To create unique content\n& never-ending...\n\nContact me for-\n\ud83e\udd1dCollaborations\n\ud83d\udc4f\ud83c\udffc Discussions\n\ud83d\udcca Projects\n\u2615\ufe0f Grabbing a cup of tea\n\nborahshilpi11@gmail.com || herstrategy.co@gmail.com",
+        "industryName": "Mining",
+        "lastName": "Borah",
+        "locationName": "India",
+        "student": false,
+        "geoCountryName": "India",
+        "geoCountryUrn": "urn:li:fs_geo:102713980",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "industryUrn": "urn:li:fs_industry:56",
+        "firstName": "Shilpi",
+        "entityUrn": "urn:li:fs_profile:ACoAACFdopAB1Ywk4L_RLJeLmOZxJksl_s-p3Ws",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:104261992"
+        },
+        "geoLocationName": "Udaipur, Rajasthan",
+        "location": {
+            "basicLocation": {
+                "countryCode": "in"
+            }
+        },
+        "headline": "Graduate Engineer Trainee at Hindustan Zinc Ltd.",
+        "displayPictureUrl": "https://media-exp1.licdn.com/dms/image/C4E03AQGmSpLSjKp41A/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/0/1598073635781?e=1657756800&v=beta&t=e3VueyuVqO_7HrfC7EDNAk3gMTBKGF6Qm5pPJbuG4u0",
+        "img_200_200": "200_200/0/1598073635781?e=1657756800&v=beta&t=nqVPxqxZixgQbJakrys2c-yxGpzHIg2UOVw_j3eTBmM",
+        "img_400_400": "400_400/0/1598073635781?e=1657756800&v=beta&t=2ey5Hs3hgGFj50pNQrRCfnAH21pFKQMKm5bZas_bwOc",
+        "img_800_800": "800_800/0/1598073635781?e=1657756800&v=beta&t=Aono_8382FjPu1jRQWP-_fcvuILTNK9VFP2hUcvtWuo",
+        "profile_id": "ACoAACFdopAB1Ywk4L_RLJeLmOZxJksl_s-p3Ws",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAACFdopAB1Ywk4L_RLJeLmOZxJksl_s-p3Ws",
+        "member_urn": "urn:li:member:559784592",
+        "experience": [
+            {
+                "locationName": "Udaipur, Rajasthan, India",
+                "entityUrn": "urn:li:fs_position:(ACoAACFdopAB1Ywk4L_RLJeLmOZxJksl_s-p3Ws,1905756793)",
+                "geoLocationName": "Udaipur, Rajasthan, India",
+                "geoUrn": "urn:li:fs_geo:106713940",
+                "companyName": "Hindustan Zinc",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 1,
+                        "year": 2022
+                    }
+                },
+                "description": "Maintenance & Central Electrical Planning",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Mining & Metals"
+                    ]
+                },
+                "title": "Graduate Engineer Trainee",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:13742084",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHMp043bWVNiQ/company-logo_"
+            },
+            {
+                "locationName": "ASSAM",
+                "entityUrn": "urn:li:fs_position:(ACoAACFdopAB1Ywk4L_RLJeLmOZxJksl_s-p3Ws,1084659437)",
+                "geoLocationName": "ASSAM",
+                "companyName": "Quora",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 12,
+                        "year": 2016
+                    }
+                },
+                "organizations": [
+                    "urn:li:fs_organization:(ACoAACFdopAB1Ywk4L_RLJeLmOZxJksl_s-p3Ws,1155579132)"
+                ],
+                "company": {
+                    "employeeCountRange": {
+                        "start": 201,
+                        "end": 500
+                    },
+                    "industries": [
+                        "Internet"
+                    ]
+                },
+                "title": "Quora World Meetup Organiser",
+                "companyUrn": "urn:li:fs_miniCompany:1039156",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C560BAQESjNFCktIidg/company-logo_"
+            },
+            {
+                "locationName": "India",
+                "entityUrn": "urn:li:fs_position:(ACoAACFdopAB1Ywk4L_RLJeLmOZxJksl_s-p3Ws,1751777668)",
+                "geoLocationName": "India",
+                "geoUrn": "urn:li:fs_geo:102713980",
+                "companyName": "TechVariable",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 8,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 2,
+                        "year": 2021
+                    }
+                },
+                "description": "SEO & Keyword Research\nb2b market research\nQuora Marketing\nTechnical Content Development & Proofreading\nInternal blog management\nVisual content designing\nEvent planning & management",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Corporate Communications Trainee",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:10632640",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQE6IzKHUZQmAA/company-logo_"
+            },
+            {
+                "locationName": "Assam Engineering College",
+                "entityUrn": "urn:li:fs_position:(ACoAACFdopAB1Ywk4L_RLJeLmOZxJksl_s-p3Ws,1499681182)",
+                "$anti_abuse_metadata": {
+                    "/geoUrn": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:559784592"
+                        }
+                    },
+                    "/companyName": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:559784592"
+                        }
+                    },
+                    "/companyUrn": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:559784592"
+                        }
+                    },
+                    "/entityUrn": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:559784592"
+                        }
+                    },
+                    "/geoLocationName": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:559784592"
+                        }
+                    },
+                    "/promotion": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:559784592"
+                        }
+                    },
+                    "/title": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:559784592"
+                        }
+                    },
+                    "/region": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:559784592"
+                        }
+                    },
+                    "/locationName": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:559784592"
+                        }
+                    },
+                    "/description": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:559784592"
+                        }
+                    }
+                },
+                "geoLocationName": "Assam Engineering College",
+                "companyName": "AEC MEDIA CELL",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2019
+                    }
+                },
+                "title": "Chief Co-ordinator"
+            },
+            {
+                "locationName": "Guwahati, Assam, India",
+                "entityUrn": "urn:li:fs_position:(ACoAACFdopAB1Ywk4L_RLJeLmOZxJksl_s-p3Ws,1751774987)",
+                "geoLocationName": "Guwahati, Assam, India",
+                "geoUrn": "urn:li:fs_geo:105607401",
+                "companyName": "VLSI Expert Private Limited",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 8,
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "month": 7,
+                        "year": 2020
+                    }
+                },
+                "description": "Risc-V based 32-bit processor design using Spice",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 2,
+                        "end": 10
+                    },
+                    "industries": [
+                        "Education Management"
+                    ]
+                },
+                "title": "Summer Intern",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:10468926",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQGAlla6nx0s3A/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "courses": [
+                    "urn:li:fs_course:(ACoAACFdopAB1Ywk4L_RLJeLmOZxJksl_s-p3Ws,1391469961)",
+                    "urn:li:fs_course:(ACoAACFdopAB1Ywk4L_RLJeLmOZxJksl_s-p3Ws,2141060221)",
+                    "urn:li:fs_course:(ACoAACFdopAB1Ywk4L_RLJeLmOZxJksl_s-p3Ws,2141110044)",
+                    "urn:li:fs_course:(ACoAACFdopAB1Ywk4L_RLJeLmOZxJksl_s-p3Ws,2141122324)"
+                ],
+                "projects": [
+                    "urn:li:fs_project:(ACoAACFdopAB1Ywk4L_RLJeLmOZxJksl_s-p3Ws,1155485937)"
+                ],
+                "description": "Spokesperson & Chief Co-ordinator",
+                "degreeName": "Bachelor of Engineering - BE",
+                "schoolUrn": "urn:li:fs_miniSchool:3241817",
+                "entityUrn": "urn:li:fs_education:(ACoAACFdopAB1Ywk4L_RLJeLmOZxJksl_s-p3Ws,450297935)",
+                "school": {
+                    "objectUrn": "urn:li:school:3241817",
+                    "entityUrn": "urn:li:fs_miniSchool:3241817",
+                    "active": true,
+                    "schoolName": "Assam Engineering College, (A.E.C)",
+                    "trackingId": "KGA3/z/BRPWPncOa8T8uGQ==",
+                    "logoUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQF2c8H0frv_Dw/company-logo_"
+                },
+                "activities": "AEC MEDIA CELL",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "year": 2017
+                    }
+                },
+                "testScores": [
+                    "urn:li:fs_testScore:(ACoAACFdopAB1Ywk4L_RLJeLmOZxJksl_s-p3Ws,5654769)"
+                ],
+                "schoolName": "Assam Engineering College, (A.E.C)",
+                "fieldOfStudy": "Electrical"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAACFdopAB1Ywk4L_RLJeLmOZxJksl_s-p3Ws,390353097)",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2017
+                    },
+                    "startDate": {
+                        "year": 2015
+                    }
+                },
+                "degreeName": "12th science",
+                "schoolName": "Salt Brook Academy",
+                "fieldOfStudy": "pcm"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAACFdopAB1Ywk4L_RLJeLmOZxJksl_s-p3Ws,472211120)",
+                "school": {
+                    "objectUrn": "urn:li:school:207721",
+                    "entityUrn": "urn:li:fs_miniSchool:207721",
+                    "active": true,
+                    "schoolName": "Bhatkhande Music Institute, Lucknow",
+                    "trackingId": "AEdn0vRlStqd7ukNt/hitg=="
+                },
+                "activities": "B.mus",
+                "grade": "1st class",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2016
+                    },
+                    "startDate": {
+                        "year": 2004
+                    }
+                },
+                "degreeName": "B.mus",
+                "schoolName": "Bhatkhande Music Institute, Lucknow",
+                "fieldOfStudy": "Classical music VOCAL",
+                "schoolUrn": "urn:li:fs_miniSchool:207721"
+            }
+        ],
+        "languages": [
+            {
+                "name": "Assamese",
+                "proficiency": "PROFESSIONAL_WORKING"
+            },
+            {
+                "name": "English",
+                "proficiency": "PROFESSIONAL_WORKING"
+            },
+            {
+                "name": "Hindi",
+                "proficiency": "PROFESSIONAL_WORKING"
+            }
+        ],
+        "publications": [
+            {
+                "date": {
+                    "month": 4,
+                    "year": 2020,
+                    "day": 12
+                },
+                "name": "Automated Speed Controller (RISC-V based 32-bit Processor design using SPICE)",
+                "publisher": "IEEE",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Shilpi",
+                            "lastName": "Borah",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACFdopAB1Ywk4L_RLJeLmOZxJksl_s-p3Ws",
+                            "occupation": "Graduate Engineer Trainee at Hindustan Zinc Ltd.",
+                            "objectUrn": "urn:li:member:559784592",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACFdopAB1Ywk4L_RLJeLmOZxJksl_s-p3Ws",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1629951894436?e=1657756800&v=beta&t=9XlPyumSxKqXCUaF0tHShEpMZDRJ24ZddhM6rq2huiw",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1629951894436?e=1657756800&v=beta&t=BlFCEIrY49RMjxFm6DXsMOXclnzuj_9-FPvWy_3DeXc",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E16AQEgf2DrFSCTOA/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "borahshilpi11",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1598073635781?e=1657756800&v=beta&t=e3VueyuVqO_7HrfC7EDNAk3gMTBKGF6Qm5pPJbuG4u0",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1598073635781?e=1657756800&v=beta&t=nqVPxqxZixgQbJakrys2c-yxGpzHIg2UOVw_j3eTBmM",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1598073635781?e=1657756800&v=beta&t=2ey5Hs3hgGFj50pNQrRCfnAH21pFKQMKm5bZas_bwOc",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1598073635781?e=1657756800&v=beta&t=Aono_8382FjPu1jRQWP-_fcvuILTNK9VFP2hUcvtWuo",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E03AQGmSpLSjKp41A/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "iKSD6NelQbKUeF1Wb9IvMg=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACFdopAB1Ywk4L_RLJeLmOZxJksl_s-p3Ws"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Rishav",
+                            "lastName": "Das",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACubWCMBM0xfWWLU4Uk2ZGOviSCiOX2HAXc",
+                            "occupation": "EE Assam Engineering College||AIR-15923 GATE(EE) 2022",
+                            "objectUrn": "urn:li:member:731600931",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACubWCMBM0xfWWLU4Uk2ZGOviSCiOX2HAXc",
+                            "publicIdentifier": "rishav-das-203018185",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1555225802440?e=1657756800&v=beta&t=0-MqAU_sX6QdM-DenirPLrtiT8AUanhxIabliMP_4gM",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1555225802440?e=1657756800&v=beta&t=X22kx3uEM4QnSYr5CGk3k0ijKmwDJpclbVYy6J8-mMw",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1555225802440?e=1657756800&v=beta&t=WrOlLKjeUousYdbAzX1wceZiLIki1xbBdfNP0S50TMA",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1555225802440?e=1657756800&v=beta&t=GNCKz4S7QpyUKg0vHfR2qN3d2Krt4asBf2Hpqa7__TI",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5103AQG8fo-8lb5Eeg/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "ELLJaTCbS1O4qMH66QDHEw=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACubWCMBM0xfWWLU4Uk2ZGOviSCiOX2HAXc"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Jayita",
+                            "lastName": "Roy",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAADWjGK8BjkKFQLAqEFGkV6IyU6BCkBIQVVo",
+                            "occupation": "Apprentice at Powergrid Corporation of India Ltd",
+                            "objectUrn": "urn:li:member:899881135",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAADWjGK8BjkKFQLAqEFGkV6IyU6BCkBIQVVo",
+                            "publicIdentifier": "jayita-roy-667450211",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1651684155363?e=1657756800&v=beta&t=y71TGlkrwm8oIppakDj3hh0Zqhn_0gOnPkLDTiD0n0A",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1651684155363?e=1657756800&v=beta&t=lmVMvhmuFbSwfHGZ2rOAaoXevfn7BswE8-XUOCXjbvA",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1651684155363?e=1657756800&v=beta&t=GJ6hDGXBu67iCMP7Os801DhAtuSzRFNGmfuEnfyTZR8",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1651684155363?e=1657756800&v=beta&t=zgRrf6WV7hO0jr6rLhqPByr-sHbemoXFbfGqsXvcHyA",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5603AQEI433-NhAb4Q/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "a0zx7JaxSG6H5yicy5Msnw=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAADWjGK8BjkKFQLAqEFGkV6IyU6BCkBIQVVo"
+                    }
+                ]
+            }
+        ],
+        "certifications": [
+            {
+                "authority": "Udemy",
+                "name": "SEO 2021: Complete SEO Training + SEO for WordPress Websites",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 8,
+                        "year": 2021
+                    }
+                },
+                "licenseNumber": "SEO 2021: Complete SEO Training + SEO for WordPress Websites",
+                "company": {
+                    "objectUrn": "urn:li:company:822535",
+                    "entityUrn": "urn:li:fs_miniCompany:822535",
+                    "name": "Udemy",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1626275253364?e=1660176000&v=beta&t=hNmtDdN4pnwTuJsDQsvaI2SOIkRq2BCrfWF7YKlNaM4",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1626275253364?e=1660176000&v=beta&t=bZ9FL43L79ghc74x71A2lY51dAogHCVQKWAZH1-YcuM",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1626275253364?e=1660176000&v=beta&t=7EyDsPVIShmG1t96OAsrJK6AWUi0vObIpIVqPL4hc6E",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQFQr9e68bBOPQ/company-logo_"
+                        }
+                    },
+                    "universalName": "udemy",
+                    "dashCompanyUrn": "urn:li:fsd_company:822535",
+                    "trackingId": "v+wt5GiKSgeyck8LyfqxNA=="
+                },
+                "displaySource": "google.com",
+                "companyUrn": "urn:li:fs_miniCompany:822535",
+                "url": "https://drive.google.com/drive/folders/1Zv8LdcMxIVOciEjNqFs9KiMzsgZk1Ejm?usp=sharing"
+            }
+        ],
+        "volunteer": [],
+        "honors": [],
+        "projects": [
+            {
+                "occupation": "urn:li:fs_education:(ACoAACFdopAB1Ywk4L_RLJeLmOZxJksl_s-p3Ws,450297935)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Shilpi",
+                            "lastName": "Borah",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACFdopAB1Ywk4L_RLJeLmOZxJksl_s-p3Ws",
+                            "occupation": "Graduate Engineer Trainee at Hindustan Zinc Ltd.",
+                            "objectUrn": "urn:li:member:559784592",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACFdopAB1Ywk4L_RLJeLmOZxJksl_s-p3Ws",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1629951894436?e=1657756800&v=beta&t=9XlPyumSxKqXCUaF0tHShEpMZDRJ24ZddhM6rq2huiw",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1629951894436?e=1657756800&v=beta&t=BlFCEIrY49RMjxFm6DXsMOXclnzuj_9-FPvWy_3DeXc",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E16AQEgf2DrFSCTOA/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "borahshilpi11",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1598073635781?e=1657756800&v=beta&t=e3VueyuVqO_7HrfC7EDNAk3gMTBKGF6Qm5pPJbuG4u0",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1598073635781?e=1657756800&v=beta&t=nqVPxqxZixgQbJakrys2c-yxGpzHIg2UOVw_j3eTBmM",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1598073635781?e=1657756800&v=beta&t=2ey5Hs3hgGFj50pNQrRCfnAH21pFKQMKm5bZas_bwOc",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1598073635781?e=1657756800&v=beta&t=Aono_8382FjPu1jRQWP-_fcvuILTNK9VFP2hUcvtWuo",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E03AQGmSpLSjKp41A/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "iKSD6NelQbKUeF1Wb9IvMg=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAACFdopAB1Ywk4L_RLJeLmOZxJksl_s-p3Ws,1155485937,304571373)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACFdopAB1Ywk4L_RLJeLmOZxJksl_s-p3Ws"
+                    }
+                ],
+                "timePeriod": {
+                    "startDate": {
+                        "month": 10,
+                        "year": 2020
+                    }
+                },
+                "title": "Arduino based- Automated Speed Controller for vehicles"
+            }
+        ]
+    },
+    "contact_info": {
+        "email_address": null,
+        "websites": [],
+        "twitter": [],
+        "birthdate": null,
+        "ims": null,
+        "phone_numbers": []
+    },
+    "connections": [
+        {
+            "urn_id": "ACoAABr4jt0BoOUmisITdRo1gR4CumG5I4jjZIw",
+            "distance": "DISTANCE_1",
+            "public_id": "samudra-deka-911659107",
+            "tracking_id": "452497117"
+        },
+        {
+            "urn_id": "ACoAADLJzxsBizdB0nN5NZBCM41Q-z6-7ef5gyI",
+            "distance": "DISTANCE_1",
+            "public_id": "deepjyoti-kalita-78b4411b9",
+            "tracking_id": "852086555"
+        },
+        {
+            "urn_id": "ACoAACT67ZEBgw1Aprl8Aqy8zWMavdTyaWs7J3w",
+            "distance": "DISTANCE_1",
+            "public_id": "titikshya-das-015942153",
+            "tracking_id": "620424593"
+        },
+        {
+            "urn_id": "ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY",
+            "distance": "DISTANCE_1",
+            "public_id": "tridip-das-b5837911b",
+            "tracking_id": "499568180"
+        },
+        {
+            "urn_id": "ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8",
+            "distance": "DISTANCE_1",
+            "public_id": "sivaranjan-goswami-790b4523",
+            "tracking_id": "83451420"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Leadership",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:154",
+            "standardizedSkill": {
+                "name": "Leadership",
+                "entityUrn": "urn:li:fs_miniSkill:154"
+            }
+        },
+        {
+            "name": "Public Speaking",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:1101",
+            "standardizedSkill": {
+                "name": "Public Speaking",
+                "entityUrn": "urn:li:fs_miniSkill:1101"
+            }
+        },
+        {
+            "name": "Research",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:176",
+            "standardizedSkill": {
+                "name": "Research",
+                "entityUrn": "urn:li:fs_miniSkill:176"
+            }
+        },
+        {
+            "name": "Project Management",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:2269",
+            "standardizedSkill": {
+                "name": "Project Management",
+                "entityUrn": "urn:li:fs_miniSkill:2269"
+            }
+        },
+        {
+            "name": "Electrical Engineering"
+        },
+        {
+            "name": "Microsoft Office"
+        },
+        {
+            "name": "Programmable Logic Controller (PLC)",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:1717",
+            "standardizedSkill": {
+                "name": "Programmable Logic Controller (PLC)",
+                "entityUrn": "urn:li:fs_miniSkill:1717"
+            }
+        },
+        {
+            "name": "Matlab"
+        },
+        {
+            "name": "Management"
+        },
+        {
+            "name": "Teamwork"
+        },
+        {
+            "name": "IOT"
+        },
+        {
+            "name": "Media Research",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:4553",
+            "standardizedSkill": {
+                "name": "Media Research",
+                "entityUrn": "urn:li:fs_miniSkill:4553"
+            }
+        },
+        {
+            "name": "ELECTRICAL CAD"
+        },
+        {
+            "name": "Marketing Strategy"
+        },
+        {
+            "name": "Web Content Writing"
+        },
+        {
+            "name": "Search Engine Optimization (SEO)"
+        }
+    ]
+}

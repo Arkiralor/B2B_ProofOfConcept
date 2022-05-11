@@ -1,0 +1,457 @@
+{
+    "profile": {
+        "summary": "I am a very passionate software engineer who is always willing to learn, explore and experience new things and technologies. I am full of enthusiasm and confident towards my work. I am looking forward to join an organisation having a better work environment, where I can work as a team member and can learn more and utilize my problem solving skills. I am a team player and I am eager to work in a such a place where I can share my experience and get new things to learn from the team members.\n",
+        "industryName": "IT Services and IT Consulting",
+        "lastName": "Boruah",
+        "locationName": "India",
+        "student": false,
+        "geoCountryName": "India",
+        "geoCountryUrn": "urn:li:fs_geo:102713980",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "industryUrn": "urn:li:fs_industry:96",
+        "firstName": "Nilutpal",
+        "entityUrn": "urn:li:fs_profile:ACoAACJ-UyABxqgr4OcKc_qh5xvCkzQdCpLPq00",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:105607401"
+        },
+        "geoLocationName": "Guwahati, Assam",
+        "location": {
+            "basicLocation": {
+                "countryCode": "in"
+            }
+        },
+        "headline": "Javascript | NodeJs | ReactJs | NextJs | ReactNative | AWS | SQL | GraphQL | Python",
+        "displayPictureUrl": "https://media-exp1.licdn.com/dms/image/C4E03AQH0VHQ7FdruoA/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/0/1596706206726?e=1657756800&v=beta&t=v-N1fQONuQhzSEM7fmWlzNDiMPGTJmVMyDGJlX8glWw",
+        "img_200_200": "200_200/0/1596706206726?e=1657756800&v=beta&t=9f6UtVEel0WPGi93j2iaAbLaAQiAc2lshxawthSKTCs",
+        "img_400_400": "400_400/0/1596706206726?e=1657756800&v=beta&t=ygFIOwL9A7yThQAIdiyFMCgEp0SrSpXG21hY4c8w8W8",
+        "img_800_800": "800_800/0/1596706206726?e=1657756800&v=beta&t=3uyg4uYgn-Jx5XcVQFtNaD6tMtxc_Pos5xpmnEK5-z8",
+        "profile_id": "ACoAACJ-UyABxqgr4OcKc_qh5xvCkzQdCpLPq00",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAACJ-UyABxqgr4OcKc_qh5xvCkzQdCpLPq00",
+        "member_urn": "urn:li:member:578704160",
+        "experience": [
+            {
+                "locationName": "Bangalore Urban, Karnataka, India",
+                "entityUrn": "urn:li:fs_position:(ACoAACJ-UyABxqgr4OcKc_qh5xvCkzQdCpLPq00,1910407623)",
+                "geoLocationName": "Bangalore Urban, Karnataka, India",
+                "geoUrn": "urn:li:fs_geo:112376381",
+                "companyName": "Flexday Solutions LLC",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 5,
+                        "year": 2021
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "SDE II",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:74234365",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQH9yfeo_CFGrw/company-logo_"
+            },
+            {
+                "locationName": "Bengaluru, Karnataka, India",
+                "entityUrn": "urn:li:fs_position:(ACoAACJ-UyABxqgr4OcKc_qh5xvCkzQdCpLPq00,1899958519)",
+                "geoLocationName": "Bengaluru, Karnataka, India",
+                "geoUrn": "urn:li:fs_geo:105214831",
+                "companyName": "JLL",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 5,
+                        "year": 2021
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Real Estate"
+                    ]
+                },
+                "title": "Fullstack Engineer (Contractor)",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:3178",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQEmcAw4Qz9iLA/company-logo_"
+            },
+            {
+                "locationName": "Guwahati, Assam, India",
+                "entityUrn": "urn:li:fs_position:(ACoAACJ-UyABxqgr4OcKc_qh5xvCkzQdCpLPq00,1669606867)",
+                "geoLocationName": "Guwahati, Assam, India",
+                "geoUrn": "urn:li:fs_geo:105607401",
+                "companyName": "TechVariable",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 4,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2020
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Programmer Analyst",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:10632640",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQE6IzKHUZQmAA/company-logo_"
+            },
+            {
+                "locationName": "Guwahati Area, India",
+                "entityUrn": "urn:li:fs_position:(ACoAACJ-UyABxqgr4OcKc_qh5xvCkzQdCpLPq00,1421878421)",
+                "geoLocationName": "Guwahati Area, India",
+                "geoUrn": "urn:li:fs_geo:104535556",
+                "companyName": "Borgos Technologies Pvt Ltd",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 9,
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "month": 2,
+                        "year": 2019
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Software Developer",
+                "region": "urn:li:fs_region:(in,7248)",
+                "companyUrn": "urn:li:fs_miniCompany:14403989",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQEnvQSNuiFcmg/company-logo_"
+            },
+            {
+                "locationName": "Guwahati Area, India",
+                "entityUrn": "urn:li:fs_position:(ACoAACJ-UyABxqgr4OcKc_qh5xvCkzQdCpLPq00,1352146780)",
+                "geoLocationName": "Guwahati Area, India",
+                "companyName": "TechVariable",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 10,
+                        "year": 2018
+                    },
+                    "startDate": {
+                        "month": 7,
+                        "year": 2018
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Software Developer Intern",
+                "companyUrn": "urn:li:fs_miniCompany:10632640",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQE6IzKHUZQmAA/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAACJ-UyABxqgr4OcKc_qh5xvCkzQdCpLPq00,602441610)",
+                "school": {
+                    "objectUrn": "urn:li:school:206547",
+                    "entityUrn": "urn:li:fs_miniSchool:206547",
+                    "active": true,
+                    "schoolName": "ASSAM SCIENCE AND TECHNOLOGY UNIVERSITY",
+                    "trackingId": "uJzCU4xnSFSGdb763wyBJw==",
+                    "logoUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQG52wZer9DolA/company-logo_"
+                },
+                "grade": "A",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2018
+                    },
+                    "startDate": {
+                        "year": 2014
+                    }
+                },
+                "degreeName": "B. Tech",
+                "schoolName": "ASSAM SCIENCE AND TECHNOLOGY UNIVERSITY",
+                "fieldOfStudy": "Computer Science and Engineering",
+                "schoolUrn": "urn:li:fs_miniSchool:206547"
+            }
+        ],
+        "languages": [],
+        "publications": [],
+        "certifications": [],
+        "volunteer": [],
+        "honors": [],
+        "projects": []
+    },
+    "contact_info": {
+        "email_address": "nilutpal.boruah92@gmail.com",
+        "websites": [],
+        "twitter": [],
+        "birthdate": null,
+        "ims": null,
+        "phone_numbers": []
+    },
+    "connections": [
+        {
+            "urn_id": "ACoAABr4jt0BoOUmisITdRo1gR4CumG5I4jjZIw",
+            "distance": "DISTANCE_1",
+            "public_id": "samudra-deka-911659107",
+            "tracking_id": "452497117"
+        },
+        {
+            "urn_id": "ACoAADLJzxsBizdB0nN5NZBCM41Q-z6-7ef5gyI",
+            "distance": "DISTANCE_1",
+            "public_id": "deepjyoti-kalita-78b4411b9",
+            "tracking_id": "852086555"
+        },
+        {
+            "urn_id": "ACoAADe3CFYBsoFdtSEajXbg51HDagdpBEb3kx4",
+            "distance": "DISTANCE_1",
+            "public_id": "binud-panging-872062221",
+            "tracking_id": "934742102"
+        },
+        {
+            "urn_id": "ACoAAAjgx0kBxJoPu_7t3kS1NbDizQekjIIzMbE",
+            "distance": "DISTANCE_1",
+            "public_id": "lakheswar-nath-289a7141",
+            "tracking_id": "148948809"
+        },
+        {
+            "urn_id": "ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE",
+            "distance": "DISTANCE_1",
+            "public_id": "prithoo11335",
+            "tracking_id": "231212168"
+        },
+        {
+            "urn_id": "ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY",
+            "distance": "DISTANCE_1",
+            "public_id": "tridip-das-b5837911b",
+            "tracking_id": "499568180"
+        },
+        {
+            "urn_id": "ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8",
+            "distance": "DISTANCE_1",
+            "public_id": "sivaranjan-goswami-790b4523",
+            "tracking_id": "83451420"
+        },
+        {
+            "urn_id": "ACoAACTFIIYB1cK_syRcCXEc0o8RTm4JMlhYcHA",
+            "distance": "DISTANCE_1",
+            "public_id": "arun-kumar-nath-686721152",
+            "tracking_id": "616898694"
+        },
+        {
+            "urn_id": "ACoAAC4efLABFBv0f30-SDGDgLSf1gXTlkpJTfc",
+            "distance": "DISTANCE_1",
+            "public_id": "shawan-mandal",
+            "tracking_id": "773749936"
+        },
+        {
+            "urn_id": "ACoAACDVs-sB_IgxPBMHMRBfR6is3jmwwV_OvTE",
+            "distance": "DISTANCE_1",
+            "public_id": "swapnil-bhattacharjee-ghy",
+            "tracking_id": "550876139"
+        },
+        {
+            "urn_id": "ACoAACYmrvgBRdvWxItbY_KP_fyrEgZ9U-QKJqk",
+            "distance": "DISTANCE_1",
+            "public_id": "rtsu",
+            "tracking_id": "640069368"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Web Development",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:764",
+            "standardizedSkill": {
+                "name": "Web Development",
+                "entityUrn": "urn:li:fs_miniSkill:764"
+            }
+        },
+        {
+            "name": "Adobe Photoshop"
+        },
+        {
+            "name": "Microsoft Office",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:366",
+            "standardizedSkill": {
+                "name": "Microsoft Office",
+                "entityUrn": "urn:li:fs_miniSkill:366"
+            }
+        },
+        {
+            "name": "Android Development",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:26904",
+            "standardizedSkill": {
+                "name": "Android Development",
+                "entityUrn": "urn:li:fs_miniSkill:26904"
+            }
+        },
+        {
+            "name": "Web Design"
+        },
+        {
+            "name": "Web Applications"
+        },
+        {
+            "name": "Software Development"
+        },
+        {
+            "name": "Project Management"
+        },
+        {
+            "name": "User Interface Design"
+        },
+        {
+            "name": "Node.js"
+        },
+        {
+            "name": "Microsoft Word",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:260",
+            "standardizedSkill": {
+                "name": "Microsoft Word",
+                "entityUrn": "urn:li:fs_miniSkill:260"
+            }
+        },
+        {
+            "name": "Microsoft PowerPoint",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:310",
+            "standardizedSkill": {
+                "name": "Microsoft PowerPoint",
+                "entityUrn": "urn:li:fs_miniSkill:310"
+            }
+        },
+        {
+            "name": "Adobe Illustrator"
+        },
+        {
+            "name": "Adobe Premiere Pro"
+        },
+        {
+            "name": "Java"
+        },
+        {
+            "name": "Python"
+        },
+        {
+            "name": "C"
+        },
+        {
+            "name": "Laravel"
+        },
+        {
+            "name": "AngularJS"
+        },
+        {
+            "name": "MongoDB"
+        },
+        {
+            "name": "Django"
+        },
+        {
+            "name": "Linux"
+        },
+        {
+            "name": "PHP"
+        },
+        {
+            "name": "JavaScript"
+        },
+        {
+            "name": "Cascading Style Sheets (CSS)"
+        },
+        {
+            "name": "C++"
+        },
+        {
+            "name": "HTML"
+        },
+        {
+            "name": "SQL"
+        },
+        {
+            "name": "HTML5"
+        },
+        {
+            "name": "ElasticSearch"
+        },
+        {
+            "name": "MySQL"
+        },
+        {
+            "name": "Windows"
+        },
+        {
+            "name": "Core Java"
+        },
+        {
+            "name": "jQuery"
+        },
+        {
+            "name": "Git"
+        },
+        {
+            "name": "Communication"
+        },
+        {
+            "name": "Team Management"
+        },
+        {
+            "name": "FL Studio"
+        },
+        {
+            "name": "Amazon Web Services (AWS)"
+        },
+        {
+            "name": "React.js"
+        },
+        {
+            "name": "GitHub"
+        },
+        {
+            "name": "Redux.js"
+        },
+        {
+            "name": "Front-end Development"
+        },
+        {
+            "name": "Representational State Transfer (REST)"
+        },
+        {
+            "name": "Spring Boot"
+        },
+        {
+            "name": "React Native"
+        },
+        {
+            "name": "Spring Framework"
+        },
+        {
+            "name": "Web Application Development"
+        },
+        {
+            "name": "Programming"
+        }
+    ]
+}

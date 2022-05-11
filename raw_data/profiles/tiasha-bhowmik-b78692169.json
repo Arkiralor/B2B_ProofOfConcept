@@ -1,0 +1,1671 @@
+{
+    "profile": {
+        "summary": "An individual with hands on experience in  software development(2yrs of exp.)\n\nWorked with team of experts with adequate knowledge during my past and current jobs.\n\nSkills - Javascript, CSS3, Reactjs, Html5, TailwindCss, Jest, Mongodb, Mysql, Bootstrap, Next.Js, Material Ui, Chakra Ui, Jinja, PWA, core java\n\nApart from these I have done some hands-on project with React Native, Machine learning and Deep learning.\n\nMost importantly, I may not be the most talented person in the room,but I will get your job done  anyhow ;)",
+        "industryName": "Financial Services",
+        "lastName": "Bhowmik",
+        "locationName": "India",
+        "student": false,
+        "geoCountryName": "India",
+        "geoCountryUrn": "urn:li:fs_geo:102713980",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "industryUrn": "urn:li:fs_industry:43",
+        "firstName": "Tiasha",
+        "entityUrn": "urn:li:fs_profile:ACoAACglRQwBZTHRkpVLDvljqU_X61ime20nkuM",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:104436408"
+        },
+        "geoLocationName": "Assam",
+        "location": {
+            "basicLocation": {
+                "countryCode": "in"
+            }
+        },
+        "headline": "Frontend Engineer || React || Javascript || M.Tech BITS Pilani ||",
+        "displayPictureUrl": "https://media-exp1.licdn.com/dms/image/D5635AQEt6368V_KJpw/profile-framedphoto-shrink_",
+        "img_200_200": "200_200/0/1652269398363?e=1652400000&v=beta&t=qY2oCZ2yZpomew1CYOt_yc6itGfx4Ok4G4PYw_qZXA0",
+        "img_400_400": "400_400/0/1652269398363?e=1652400000&v=beta&t=kLgXV3Ykyj0wNl80qDRQgT7tViiinmhsO4pSr4v1rzw",
+        "img_800_800": "800_800/0/1652269398363?e=1652400000&v=beta&t=4ZYxqMQLeorpfr_R7nyDqoGlI1ch2VRxCwjlqBa3qMc",
+        "img_100_100": "100_100/0/1652269398363?e=1652400000&v=beta&t=PN7a6OcWrykSaJjYWQS9A2Bi-u566uERtnnkCC-WhaI",
+        "profile_id": "ACoAACglRQwBZTHRkpVLDvljqU_X61ime20nkuM",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAACglRQwBZTHRkpVLDvljqU_X61ime20nkuM",
+        "member_urn": "urn:li:member:673531148",
+        "experience": [
+            {
+                "locationName": "Bengaluru, Karnataka, India",
+                "entityUrn": "urn:li:fs_position:(ACoAACglRQwBZTHRkpVLDvljqU_X61ime20nkuM,1752595393)",
+                "geoLocationName": "Bengaluru, Karnataka, India",
+                "geoUrn": "urn:li:fs_geo:109710172",
+                "companyName": "DataFoundry AI",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 6,
+                        "year": 2021
+                    }
+                },
+                "description": "Worked on a product that provides digital content monetization solutions which engages large segment of visitors - not just subscribers. As a front-end engineer, i worked on social signup integrations, API integrations, responsiveness, Email integrations, UI development , PWA.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 201,
+                        "end": 500
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Software Engineer - I",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:13599648",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C560BAQEwYb0fyNBZmA/company-logo_"
+            },
+            {
+                "locationName": "Bangalore Urban, Karnataka, India",
+                "entityUrn": "urn:li:fs_position:(ACoAACglRQwBZTHRkpVLDvljqU_X61ime20nkuM,1715557870)",
+                "geoLocationName": "Bangalore Urban, Karnataka, India",
+                "geoUrn": "urn:li:fs_geo:112376381",
+                "companyName": "TechVariable",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 7,
+                        "year": 2020
+                    }
+                },
+                "description": "Worked on front end  technologies in various client side projects. Mainly on UI development, API integrations, responsiveness, PWA.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Frontend Developer",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:10632640",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQE6IzKHUZQmAA/company-logo_"
+            },
+            {
+                "locationName": "Silchar, Assam",
+                "projects": [
+                    "urn:li:fs_project:(ACoAACglRQwBZTHRkpVLDvljqU_X61ime20nkuM,337532850)"
+                ],
+                "geoUrn": "urn:li:fs_geo:103991077",
+                "companyName": "Centre for Development of Advanced Computing (C-DAC)",
+                "description": "Explored with Keras,Tensorflow and many other ML and DL libraries and algorithms , used Django for building web interface for an ongoing project at CDAC named 'CATCH Sikkim', which was basically a health survey dataset.",
+                "title": "Deep Learning Intern",
+                "companyUrn": "urn:li:fs_miniCompany:13362775",
+                "entityUrn": "urn:li:fs_position:(ACoAACglRQwBZTHRkpVLDvljqU_X61ime20nkuM,1477712397)",
+                "geoLocationName": "Silchar, Assam",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 7,
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "month": 6,
+                        "year": 2019
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 1001,
+                        "end": 5000
+                    },
+                    "industries": [
+                        "Computer & Network Security"
+                    ]
+                },
+                "region": "urn:li:fs_region:(in,6866)",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQGa2DKE0PTaIg/company-logo_"
+            },
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAACglRQwBZTHRkpVLDvljqU_X61ime20nkuM,1433277758)",
+                "companyName": "Indian Institute of Information Technology, Design and Manufacturing, Jabalpur",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 3,
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "month": 3,
+                        "year": 2019
+                    }
+                },
+                "company": {
+                    "industries": [
+                        "Higher Education"
+                    ]
+                },
+                "title": "Campus Ambassador",
+                "companyUrn": "urn:li:fs_miniCompany:15096633",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQG2LjL0bUoxvA/company-logo_"
+            },
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAACglRQwBZTHRkpVLDvljqU_X61ime20nkuM,1423155489)",
+                "companyName": "eDC IIT Delhi(Entrepreneurship Development Cell)",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 3,
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "month": 2,
+                        "year": 2019
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 51,
+                        "end": 200
+                    },
+                    "industries": [
+                        "Nonprofit Organization Management"
+                    ]
+                },
+                "title": "Campus Ambassador",
+                "companyUrn": "urn:li:fs_miniCompany:352954",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQHNorgG53cLVA/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAACglRQwBZTHRkpVLDvljqU_X61ime20nkuM,736313026)",
+                "school": {
+                    "objectUrn": "urn:li:school:13440",
+                    "entityUrn": "urn:li:fs_miniSchool:13440",
+                    "active": true,
+                    "schoolName": "Birla Institute of Technology and Science, Pilani",
+                    "trackingId": "kM06LQhtSr+ZR4fcaOF6Kg==",
+                    "logoUrl": "https://media-exp1.licdn.com/dms/image/C510BAQFYyp6NIc6n2A/company-logo_"
+                },
+                "grade": "9.17 cgpa",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2023
+                    },
+                    "startDate": {
+                        "year": 2021
+                    }
+                },
+                "degreeName": "Master of Technology - MTech",
+                "schoolName": "Birla Institute of Technology and Science, Pilani",
+                "fieldOfStudy": "Software Engineering",
+                "degreeUrn": "urn:li:fs_degree:584",
+                "schoolUrn": "urn:li:fs_miniSchool:13440"
+            },
+            {
+                "courses": [
+                    "urn:li:fs_course:(ACoAACglRQwBZTHRkpVLDvljqU_X61ime20nkuM,177324525)",
+                    "urn:li:fs_course:(ACoAACglRQwBZTHRkpVLDvljqU_X61ime20nkuM,177360536)",
+                    "urn:li:fs_course:(ACoAACglRQwBZTHRkpVLDvljqU_X61ime20nkuM,177393168)",
+                    "urn:li:fs_course:(ACoAACglRQwBZTHRkpVLDvljqU_X61ime20nkuM,177414936)"
+                ],
+                "entityUrn": "urn:li:fs_education:(ACoAACglRQwBZTHRkpVLDvljqU_X61ime20nkuM,547553822)",
+                "school": {
+                    "objectUrn": "urn:li:school:13644",
+                    "entityUrn": "urn:li:fs_miniSchool:13644",
+                    "active": true,
+                    "schoolName": "Tezpur University",
+                    "trackingId": "+X2ZrXJeQOawnwxYU9OMQw==",
+                    "logoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQGdv3IR3tOUdw/company-logo_"
+                },
+                "grade": "9.8 sgpa, 7.79 cgpa",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "year": 2016
+                    }
+                },
+                "testScores": [
+                    "urn:li:fs_testScore:(ACoAACglRQwBZTHRkpVLDvljqU_X61ime20nkuM,177160821)"
+                ],
+                "degreeName": "BTech - Bachelor of Technology",
+                "schoolName": "Tezpur Central University",
+                "fieldOfStudy": "Computer Science and Engineering",
+                "schoolUrn": "urn:li:fs_miniSchool:13644"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAACglRQwBZTHRkpVLDvljqU_X61ime20nkuM,547951266)",
+                "degreeName": "HS",
+                "schoolName": "Deshabandhu Bidyapith Higher Secondary school"
+            }
+        ],
+        "languages": [
+            {
+                "name": "Assamese",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "Bengali",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "English",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "Hindi",
+                "proficiency": "FULL_PROFESSIONAL"
+            }
+        ],
+        "publications": [],
+        "certifications": [
+            {
+                "authority": "EduRade",
+                "name": "Robotics Workshop\n",
+                "company": {
+                    "objectUrn": "urn:li:company:7798305",
+                    "entityUrn": "urn:li:fs_miniCompany:7798305",
+                    "name": "EduRade",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1599728627938?e=1660176000&v=beta&t=HATYRhgVLd5k95DHNgNsJ4BPyd_GMGO5-RNaxC4BshA",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1599728627938?e=1660176000&v=beta&t=GC62dZ7Ze_cBCFGQUDbm3XNQiOeqTySNLogGPVEeQXM",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1599728627938?e=1660176000&v=beta&t=EFlG1TtAISA2Oy85hw4bunDuHov8OYRc9dPeZytd3yE",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQEIt0m-qIgyPQ/company-logo_"
+                        }
+                    },
+                    "universalName": "edurade",
+                    "dashCompanyUrn": "urn:li:fsd_company:7798305",
+                    "trackingId": "uXxBle/7Q5CxdChXvdOzew=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:7798305"
+            },
+            {
+                "authority": "Ministry of Electronics & Information Technology",
+                "name": "Cyber Security",
+                "company": {
+                    "objectUrn": "urn:li:company:39291128",
+                    "entityUrn": "urn:li:fs_miniCompany:39291128",
+                    "name": "Ministry of Electronics and Information Technology",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1644851369202?e=1660176000&v=beta&t=OPbtgt2fXTuspJQ-z1yonRBoSlrXSaCv6QYalqjCOcg",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1644851369202?e=1660176000&v=beta&t=z1hpTfgeMcDEUjm8hkLxeCk3vU4VU_aBxc3egg-4Jlc",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1644851369202?e=1660176000&v=beta&t=Vdrwb7MNRxPdbKnzNbsw2DPJvJLiGqgLM1STFl2_lDs",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHHg2ha4hH90Q/company-logo_"
+                        }
+                    },
+                    "universalName": "meity-in",
+                    "dashCompanyUrn": "urn:li:fsd_company:39291128",
+                    "trackingId": "SNAtCsMuT6qgLIA/jqX6iA=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:39291128"
+            },
+            {
+                "authority": "CDAC",
+                "name": "Cyber Security with applied Honeynet from C-DAC Pune",
+                "company": {
+                    "objectUrn": "urn:li:company:72786",
+                    "entityUrn": "urn:li:fs_miniCompany:72786",
+                    "name": "C-DAC",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1578294217220?e=1660176000&v=beta&t=2dVbJFjfsHhdLUue_q9ArQuJ-wTRGicSDTV_gbr0z3I",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1578294217220?e=1660176000&v=beta&t=XpeBZSrJiS2s3ImASO5ZlCwn2fSa_Bqy-DqRSp_UmKo",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1578294217220?e=1660176000&v=beta&t=FSzkIIOirNu-RrJzUpDpLaZTVeVzmo9JeK49my_E2zk",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQHsh6b7kt7tEQ/company-logo_"
+                        }
+                    },
+                    "universalName": "cdac",
+                    "dashCompanyUrn": "urn:li:fsd_company:72786",
+                    "trackingId": "xjaKszAPTSGJff8m9+5B0g=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:72786"
+            },
+            {
+                "authority": "Tezpur University",
+                "name": "Training in R ",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 2,
+                        "year": 2018
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:711389",
+                    "entityUrn": "urn:li:fs_miniCompany:711389",
+                    "name": "Tezpur University",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1519864284239?e=1660176000&v=beta&t=AU4ma65YfOvfkmzjqvwmj2_6GrDNZGY_r5y0Jk48iAI",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1519864284239?e=1660176000&v=beta&t=ywunEeikzxIa31pSNEH1vi-yvTuHSywIaA_wW02Yvp8",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1519864284239?e=1660176000&v=beta&t=ZllaLx9cY3RLQ4QShg-o8LL7HHp65xEmeQEjCyKnLy4",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQGdv3IR3tOUdw/company-logo_"
+                        }
+                    },
+                    "universalName": "tezpur-university",
+                    "dashCompanyUrn": "urn:li:fsd_company:711389",
+                    "trackingId": "2F+h3u2DQRmbpPzhyMSVVg=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:711389"
+            },
+            {
+                "authority": "Internshala",
+                "name": "Web Development",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 6,
+                        "year": 2017
+                    }
+                },
+                "licenseNumber": "0EFAFDEE-9A11-558B-7259-69ACD0D19FAC",
+                "company": {
+                    "objectUrn": "urn:li:company:1706756",
+                    "entityUrn": "urn:li:fs_miniCompany:1706756",
+                    "name": "Internshala",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1627026016891?e=1660176000&v=beta&t=3MaUfpfSdao4P14PHS5-Vm4WVP8hYwUG_SH1eyh8Q7I",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1627026016891?e=1660176000&v=beta&t=rlYzvgw6lVTmoOFB98UPU1RoyIZrwKGY_PaTA3CkW-E",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1627026016891?e=1660176000&v=beta&t=kbs3bUMySe154fdR9YCrI6beo6FAbi5xBOOg51l9Jvw",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQFi4GG2XwFHqQ/company-logo_"
+                        }
+                    },
+                    "universalName": "internshala",
+                    "dashCompanyUrn": "urn:li:fsd_company:1706756",
+                    "trackingId": "XeiTkvR4Qlat7UPkZZZmlA=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:1706756"
+            },
+            {
+                "authority": "Internshala",
+                "name": "Android Development ",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 2,
+                        "year": 2018
+                    }
+                },
+                "licenseNumber": "8C434AA8-A048-6E6E-C3CO-36E08EBDAB15",
+                "company": {
+                    "objectUrn": "urn:li:company:1706756",
+                    "entityUrn": "urn:li:fs_miniCompany:1706756",
+                    "name": "Internshala",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1627026016891?e=1660176000&v=beta&t=3MaUfpfSdao4P14PHS5-Vm4WVP8hYwUG_SH1eyh8Q7I",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1627026016891?e=1660176000&v=beta&t=rlYzvgw6lVTmoOFB98UPU1RoyIZrwKGY_PaTA3CkW-E",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1627026016891?e=1660176000&v=beta&t=kbs3bUMySe154fdR9YCrI6beo6FAbi5xBOOg51l9Jvw",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQFi4GG2XwFHqQ/company-logo_"
+                        }
+                    },
+                    "universalName": "internshala",
+                    "dashCompanyUrn": "urn:li:fsd_company:1706756",
+                    "trackingId": "I5+c68XoReyjGyh6VOksrg=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:1706756"
+            },
+            {
+                "authority": "NPTEL",
+                "name": "Cloud Computing",
+                "timePeriod": {
+                    "startDate": {
+                        "year": 2019
+                    }
+                },
+                "licenseNumber": "NPTEL19CS64S41410030",
+                "company": {
+                    "objectUrn": "urn:li:company:13229455",
+                    "entityUrn": "urn:li:fs_miniCompany:13229455",
+                    "name": "NPTEL",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1519898420366?e=1660176000&v=beta&t=m3X6knrr9uNvqJVLXYKGliiKbUHhj0GYI9EUgF_qhbs",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1519898420366?e=1660176000&v=beta&t=TKl9Dd_QwHSlP_U0JTEwhp7Lonp8hw--Cbs915-0kug",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1519898420366?e=1660176000&v=beta&t=QT_o0su2LZcqRcym9MYUo2k1b3kSWns7TvEY4vzALIs",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQHJZGa_G2gwUg/company-logo_"
+                        }
+                    },
+                    "universalName": "nptel",
+                    "dashCompanyUrn": "urn:li:fsd_company:13229455",
+                    "trackingId": "ZCPuP/foRSGC9Q5jsxmN7w=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:13229455"
+            },
+            {
+                "authority": "Tezpur University",
+                "name": "Introduction to Programming Using Java",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 12,
+                        "year": 2017
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:711389",
+                    "entityUrn": "urn:li:fs_miniCompany:711389",
+                    "name": "Tezpur University",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1519864284239?e=1660176000&v=beta&t=AU4ma65YfOvfkmzjqvwmj2_6GrDNZGY_r5y0Jk48iAI",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1519864284239?e=1660176000&v=beta&t=ywunEeikzxIa31pSNEH1vi-yvTuHSywIaA_wW02Yvp8",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1519864284239?e=1660176000&v=beta&t=ZllaLx9cY3RLQ4QShg-o8LL7HHp65xEmeQEjCyKnLy4",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQGdv3IR3tOUdw/company-logo_"
+                        }
+                    },
+                    "universalName": "tezpur-university",
+                    "dashCompanyUrn": "urn:li:fsd_company:711389",
+                    "trackingId": "7SqvKFD4QUGptVwDOvOFQA=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:711389"
+            },
+            {
+                "authority": "Udemy",
+                "name": "Complete Python Bootcamp:Go from Zero to Hero in Python",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 4,
+                        "year": 2020
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:822535",
+                    "entityUrn": "urn:li:fs_miniCompany:822535",
+                    "name": "Udemy",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1626275253364?e=1660176000&v=beta&t=hNmtDdN4pnwTuJsDQsvaI2SOIkRq2BCrfWF7YKlNaM4",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1626275253364?e=1660176000&v=beta&t=bZ9FL43L79ghc74x71A2lY51dAogHCVQKWAZH1-YcuM",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1626275253364?e=1660176000&v=beta&t=7EyDsPVIShmG1t96OAsrJK6AWUi0vObIpIVqPL4hc6E",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQFQr9e68bBOPQ/company-logo_"
+                        }
+                    },
+                    "universalName": "udemy",
+                    "dashCompanyUrn": "urn:li:fsd_company:822535",
+                    "trackingId": "pfEXf7eiTO+1iy+dH2CzZA=="
+                },
+                "displaySource": "ude.my",
+                "companyUrn": "urn:li:fs_miniCompany:822535",
+                "url": "http://ude.my/UC-35349adb-d6e8-448e-b3f8-b5ccf952c029"
+            },
+            {
+                "authority": "Udemy",
+                "name": "Deep Learning A-Z: Hands on Artificial-Neural Networks",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 4,
+                        "year": 2020
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:822535",
+                    "entityUrn": "urn:li:fs_miniCompany:822535",
+                    "name": "Udemy",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1626275253364?e=1660176000&v=beta&t=hNmtDdN4pnwTuJsDQsvaI2SOIkRq2BCrfWF7YKlNaM4",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1626275253364?e=1660176000&v=beta&t=bZ9FL43L79ghc74x71A2lY51dAogHCVQKWAZH1-YcuM",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1626275253364?e=1660176000&v=beta&t=7EyDsPVIShmG1t96OAsrJK6AWUi0vObIpIVqPL4hc6E",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQFQr9e68bBOPQ/company-logo_"
+                        }
+                    },
+                    "universalName": "udemy",
+                    "dashCompanyUrn": "urn:li:fsd_company:822535",
+                    "trackingId": "Gk3BZbqYRzOst7BTbbiuJw=="
+                },
+                "displaySource": "ude.my",
+                "companyUrn": "urn:li:fs_miniCompany:822535",
+                "url": "http://ude.my/UC-b8567af4-2733-488a-b82e-4773cb431744"
+            }
+        ],
+        "volunteer": [
+            {
+                "role": "Student Volunteer",
+                "companyName": "National Service Scheme",
+                "cause": "SOCIAL_SERVICES",
+                "company": {
+                    "miniCompany": {
+                        "objectUrn": "urn:li:company:10033186",
+                        "entityUrn": "urn:li:fs_miniCompany:10033186",
+                        "name": "National Service Scheme",
+                        "showcase": false,
+                        "active": true,
+                        "logo": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1519905766959?e=1660176000&v=beta&t=hQZWl263eF5yxEI2io_xAlAm0V7PaCRTNw7P7y6YEqQ",
+                                        "expiresAt": 1660176000000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1519905766959?e=1660176000&v=beta&t=n7JnCmQ_QrvqWwLj0bPNfMG0KD5fUJz7gqQ3v2IIwn4",
+                                        "expiresAt": 1660176000000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1519905766959?e=1660176000&v=beta&t=mlHuoNsPZVGrrV1fm1jL1OQiPxfmSasPD6wjAs1goTc",
+                                        "expiresAt": 1660176000000,
+                                        "height": 400
+                                    }
+                                ],
+                                "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQEJ6yAnaG3CtQ/company-logo_"
+                            }
+                        },
+                        "universalName": "national-service-scheme",
+                        "dashCompanyUrn": "urn:li:fsd_company:10033186",
+                        "trackingId": "rlp8mu7LSee8CJEfOAGQpA=="
+                    }
+                },
+                "companyUrn": "urn:li:fs_miniCompany:10033186"
+            },
+            {
+                "role": "Participant",
+                "companyName": "GirlScript Foundation",
+                "cause": "EDUCATION",
+                "description": "Participated as an open source contributor in Girls Script of Code Competition.",
+                "company": {
+                    "miniCompany": {
+                        "objectUrn": "urn:li:company:13425352",
+                        "entityUrn": "urn:li:fs_miniCompany:13425352",
+                        "name": "GirlScript Foundation",
+                        "showcase": false,
+                        "active": true,
+                        "logo": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1519922053637?e=1660176000&v=beta&t=i2GZn3Adr96EG8UNe4JPmlakBJs3sbg8_8jRKfB_kOg",
+                                        "expiresAt": 1660176000000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1519922053637?e=1660176000&v=beta&t=y_Y0YoVCoSak1WrKxuMtCxc_qaDrHuk5qlXLYe1eMxE",
+                                        "expiresAt": 1660176000000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1519922053637?e=1660176000&v=beta&t=_dU2QvZxONVM_6STQ1391dLwidR_617JlgtgvD0dMPk",
+                                        "expiresAt": 1660176000000,
+                                        "height": 400
+                                    }
+                                ],
+                                "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQGIb09ZW2tSUw/company-logo_"
+                            }
+                        },
+                        "universalName": "girlscript-foundation",
+                        "dashCompanyUrn": "urn:li:fsd_company:13425352",
+                        "trackingId": "NtoprJUCTM2rSGPFlcKoQA=="
+                    }
+                },
+                "companyUrn": "urn:li:fs_miniCompany:13425352"
+            }
+        ],
+        "honors": [],
+        "projects": [
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Tiasha",
+                            "lastName": "Bhowmik",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACglRQwBZTHRkpVLDvljqU_X61ime20nkuM",
+                            "occupation": "Frontend Engineer || React || Javascript || M.Tech BITS Pilani ||",
+                            "objectUrn": "urn:li:member:673531148",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACglRQwBZTHRkpVLDvljqU_X61ime20nkuM",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1618917035510?e=1657756800&v=beta&t=81n9Mg0YUMYJ_4P1CNb5UP2rcEjzrrCFqsql5BLVJrQ",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1618917035510?e=1657756800&v=beta&t=f3O4xvqFNXfclldQmcY1rjaEY1uTHmNZdKEk18o5_Ag",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E16AQG0lEjamuCUsw/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "tiasha-bhowmik-b78692169",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1652269398363?e=1652400000&v=beta&t=qY2oCZ2yZpomew1CYOt_yc6itGfx4Ok4G4PYw_qZXA0",
+                                            "expiresAt": 1652400000000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1652269398363?e=1652400000&v=beta&t=kLgXV3Ykyj0wNl80qDRQgT7tViiinmhsO4pSr4v1rzw",
+                                            "expiresAt": 1652400000000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1652269398363?e=1652400000&v=beta&t=4ZYxqMQLeorpfr_R7nyDqoGlI1ch2VRxCwjlqBa3qMc",
+                                            "expiresAt": 1652400000000,
+                                            "height": 800
+                                        },
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1652269398363?e=1652400000&v=beta&t=PN7a6OcWrykSaJjYWQS9A2Bi-u566uERtnnkCC-WhaI",
+                                            "expiresAt": 1652400000000,
+                                            "height": 100
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/D5635AQEt6368V_KJpw/profile-framedphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "Fh3fLt2nQqaw0LG8Z5Jyww=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAACglRQwBZTHRkpVLDvljqU_X61ime20nkuM,1823877881,273947019)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACglRQwBZTHRkpVLDvljqU_X61ime20nkuM"
+                    }
+                ],
+                "timePeriod": {
+                    "startDate": {
+                        "month": 8,
+                        "year": 2019
+                    }
+                },
+                "description": "Any registered user in the app can send notification messages uptil a certain specified range in case of emergency situation(unicast and multicast facility added on).\nAlso the user can add his own marker in the Google map (on -touch) on the screen and post/edit responses about a certain place and can send to one person or many person (private and public tagging features).\nWhen another new user arrives, that person can see the previous posts about any particular place(wherever marker was added).\nSuccessfully deployed the app .Now end users can avail the advantage of this app.\n\nLink: https://bhowmiktiasha.github.io(not mobile responsive though)",
+                "title": "Geocast Based Messaging Application with location tagging facility"
+            },
+            {
+                "occupation": "urn:li:fs_position:(ACoAACglRQwBZTHRkpVLDvljqU_X61ime20nkuM,1477712397)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Tiasha",
+                            "lastName": "Bhowmik",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACglRQwBZTHRkpVLDvljqU_X61ime20nkuM",
+                            "occupation": "Frontend Engineer || React || Javascript || M.Tech BITS Pilani ||",
+                            "objectUrn": "urn:li:member:673531148",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACglRQwBZTHRkpVLDvljqU_X61ime20nkuM",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1618917035510?e=1657756800&v=beta&t=81n9Mg0YUMYJ_4P1CNb5UP2rcEjzrrCFqsql5BLVJrQ",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1618917035510?e=1657756800&v=beta&t=f3O4xvqFNXfclldQmcY1rjaEY1uTHmNZdKEk18o5_Ag",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E16AQG0lEjamuCUsw/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "tiasha-bhowmik-b78692169",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1652269398363?e=1652400000&v=beta&t=qY2oCZ2yZpomew1CYOt_yc6itGfx4Ok4G4PYw_qZXA0",
+                                            "expiresAt": 1652400000000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1652269398363?e=1652400000&v=beta&t=kLgXV3Ykyj0wNl80qDRQgT7tViiinmhsO4pSr4v1rzw",
+                                            "expiresAt": 1652400000000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1652269398363?e=1652400000&v=beta&t=4ZYxqMQLeorpfr_R7nyDqoGlI1ch2VRxCwjlqBa3qMc",
+                                            "expiresAt": 1652400000000,
+                                            "height": 800
+                                        },
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1652269398363?e=1652400000&v=beta&t=PN7a6OcWrykSaJjYWQS9A2Bi-u566uERtnnkCC-WhaI",
+                                            "expiresAt": 1652400000000,
+                                            "height": 100
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/D5635AQEt6368V_KJpw/profile-framedphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "Fh3fLt2nQqaw0LG8Z5Jyww=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAACglRQwBZTHRkpVLDvljqU_X61ime20nkuM,337532850,227677502)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACglRQwBZTHRkpVLDvljqU_X61ime20nkuM"
+                    }
+                ],
+                "timePeriod": {
+                    "startDate": {
+                        "month": 6,
+                        "year": 2019
+                    }
+                },
+                "description": "It was my 6th semester Internship Project.\nI worked on a Live project of C-DAC silchar named (CATCH SIKKIM , basically a survey dataset of various hospitals of Sikkim).Here i have successfully developed ML and DL models for predicting a patient's health status and his disease(if he has any).\nMoreover I deployed the model by building a web application interface using Django so that any one can give certain inputs(Ex-Weight,BMI, Blood pressure etc ...) and check his /her health status.",
+                "title": "Health Status and Disease Prediction using Machine Learning and Deep Learning"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Tiasha",
+                            "lastName": "Bhowmik",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACglRQwBZTHRkpVLDvljqU_X61ime20nkuM",
+                            "occupation": "Frontend Engineer || React || Javascript || M.Tech BITS Pilani ||",
+                            "objectUrn": "urn:li:member:673531148",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACglRQwBZTHRkpVLDvljqU_X61ime20nkuM",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1618917035510?e=1657756800&v=beta&t=81n9Mg0YUMYJ_4P1CNb5UP2rcEjzrrCFqsql5BLVJrQ",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1618917035510?e=1657756800&v=beta&t=f3O4xvqFNXfclldQmcY1rjaEY1uTHmNZdKEk18o5_Ag",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E16AQG0lEjamuCUsw/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "tiasha-bhowmik-b78692169",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1652269398363?e=1652400000&v=beta&t=qY2oCZ2yZpomew1CYOt_yc6itGfx4Ok4G4PYw_qZXA0",
+                                            "expiresAt": 1652400000000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1652269398363?e=1652400000&v=beta&t=kLgXV3Ykyj0wNl80qDRQgT7tViiinmhsO4pSr4v1rzw",
+                                            "expiresAt": 1652400000000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1652269398363?e=1652400000&v=beta&t=4ZYxqMQLeorpfr_R7nyDqoGlI1ch2VRxCwjlqBa3qMc",
+                                            "expiresAt": 1652400000000,
+                                            "height": 800
+                                        },
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1652269398363?e=1652400000&v=beta&t=PN7a6OcWrykSaJjYWQS9A2Bi-u566uERtnnkCC-WhaI",
+                                            "expiresAt": 1652400000000,
+                                            "height": 100
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/D5635AQEt6368V_KJpw/profile-framedphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "Fh3fLt2nQqaw0LG8Z5Jyww=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAACglRQwBZTHRkpVLDvljqU_X61ime20nkuM,337861762,276119284)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACglRQwBZTHRkpVLDvljqU_X61ime20nkuM"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 5,
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "month": 3,
+                        "year": 2019
+                    }
+                },
+                "description": "Embedded Systems term Project: Created a Smart Cap for blinds .This cap will basically help the blinds to detect obstacles till a certain height (say till head) and  diameter which can prevent various accidents .This cap will make life easier for blind people.",
+                "title": "Smart Cap for Blinds"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Tiasha",
+                            "lastName": "Bhowmik",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACglRQwBZTHRkpVLDvljqU_X61ime20nkuM",
+                            "occupation": "Frontend Engineer || React || Javascript || M.Tech BITS Pilani ||",
+                            "objectUrn": "urn:li:member:673531148",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACglRQwBZTHRkpVLDvljqU_X61ime20nkuM",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1618917035510?e=1657756800&v=beta&t=81n9Mg0YUMYJ_4P1CNb5UP2rcEjzrrCFqsql5BLVJrQ",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1618917035510?e=1657756800&v=beta&t=f3O4xvqFNXfclldQmcY1rjaEY1uTHmNZdKEk18o5_Ag",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E16AQG0lEjamuCUsw/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "tiasha-bhowmik-b78692169",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1652269398363?e=1652400000&v=beta&t=qY2oCZ2yZpomew1CYOt_yc6itGfx4Ok4G4PYw_qZXA0",
+                                            "expiresAt": 1652400000000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1652269398363?e=1652400000&v=beta&t=kLgXV3Ykyj0wNl80qDRQgT7tViiinmhsO4pSr4v1rzw",
+                                            "expiresAt": 1652400000000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1652269398363?e=1652400000&v=beta&t=4ZYxqMQLeorpfr_R7nyDqoGlI1ch2VRxCwjlqBa3qMc",
+                                            "expiresAt": 1652400000000,
+                                            "height": 800
+                                        },
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1652269398363?e=1652400000&v=beta&t=PN7a6OcWrykSaJjYWQS9A2Bi-u566uERtnnkCC-WhaI",
+                                            "expiresAt": 1652400000000,
+                                            "height": 100
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/D5635AQEt6368V_KJpw/profile-framedphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "Fh3fLt2nQqaw0LG8Z5Jyww=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAACglRQwBZTHRkpVLDvljqU_X61ime20nkuM,177281052,276118419)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACglRQwBZTHRkpVLDvljqU_X61ime20nkuM"
+                    }
+                ],
+                "description": "A full fledged web  application for storing and retrieving all the informations of all the non-teaching staffs of Tezpur Central University.",
+                "title": "An information system for the non teaching staffs of Tezpur University."
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Tiasha",
+                            "lastName": "Bhowmik",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACglRQwBZTHRkpVLDvljqU_X61ime20nkuM",
+                            "occupation": "Frontend Engineer || React || Javascript || M.Tech BITS Pilani ||",
+                            "objectUrn": "urn:li:member:673531148",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACglRQwBZTHRkpVLDvljqU_X61ime20nkuM",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1618917035510?e=1657756800&v=beta&t=81n9Mg0YUMYJ_4P1CNb5UP2rcEjzrrCFqsql5BLVJrQ",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1618917035510?e=1657756800&v=beta&t=f3O4xvqFNXfclldQmcY1rjaEY1uTHmNZdKEk18o5_Ag",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E16AQG0lEjamuCUsw/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "tiasha-bhowmik-b78692169",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1652269398363?e=1652400000&v=beta&t=qY2oCZ2yZpomew1CYOt_yc6itGfx4Ok4G4PYw_qZXA0",
+                                            "expiresAt": 1652400000000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1652269398363?e=1652400000&v=beta&t=kLgXV3Ykyj0wNl80qDRQgT7tViiinmhsO4pSr4v1rzw",
+                                            "expiresAt": 1652400000000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1652269398363?e=1652400000&v=beta&t=4ZYxqMQLeorpfr_R7nyDqoGlI1ch2VRxCwjlqBa3qMc",
+                                            "expiresAt": 1652400000000,
+                                            "height": 800
+                                        },
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1652269398363?e=1652400000&v=beta&t=PN7a6OcWrykSaJjYWQS9A2Bi-u566uERtnnkCC-WhaI",
+                                            "expiresAt": 1652400000000,
+                                            "height": 100
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/D5635AQEt6368V_KJpw/profile-framedphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "Fh3fLt2nQqaw0LG8Z5Jyww=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAACglRQwBZTHRkpVLDvljqU_X61ime20nkuM,453665862,257445614)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACglRQwBZTHRkpVLDvljqU_X61ime20nkuM"
+                    }
+                ],
+                "title": "Analysis and visualization of Malware Dataset using Big Data Tools and Technologies"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Tiasha",
+                            "lastName": "Bhowmik",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACglRQwBZTHRkpVLDvljqU_X61ime20nkuM",
+                            "occupation": "Frontend Engineer || React || Javascript || M.Tech BITS Pilani ||",
+                            "objectUrn": "urn:li:member:673531148",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACglRQwBZTHRkpVLDvljqU_X61ime20nkuM",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1618917035510?e=1657756800&v=beta&t=81n9Mg0YUMYJ_4P1CNb5UP2rcEjzrrCFqsql5BLVJrQ",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1618917035510?e=1657756800&v=beta&t=f3O4xvqFNXfclldQmcY1rjaEY1uTHmNZdKEk18o5_Ag",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E16AQG0lEjamuCUsw/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "tiasha-bhowmik-b78692169",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1652269398363?e=1652400000&v=beta&t=qY2oCZ2yZpomew1CYOt_yc6itGfx4Ok4G4PYw_qZXA0",
+                                            "expiresAt": 1652400000000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1652269398363?e=1652400000&v=beta&t=kLgXV3Ykyj0wNl80qDRQgT7tViiinmhsO4pSr4v1rzw",
+                                            "expiresAt": 1652400000000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1652269398363?e=1652400000&v=beta&t=4ZYxqMQLeorpfr_R7nyDqoGlI1ch2VRxCwjlqBa3qMc",
+                                            "expiresAt": 1652400000000,
+                                            "height": 800
+                                        },
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1652269398363?e=1652400000&v=beta&t=PN7a6OcWrykSaJjYWQS9A2Bi-u566uERtnnkCC-WhaI",
+                                            "expiresAt": 1652400000000,
+                                            "height": 100
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/D5635AQEt6368V_KJpw/profile-framedphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "Fh3fLt2nQqaw0LG8Z5Jyww=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAACglRQwBZTHRkpVLDvljqU_X61ime20nkuM,801970210,276114602)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACglRQwBZTHRkpVLDvljqU_X61ime20nkuM"
+                    }
+                ],
+                "description": "Used reactjs,node js, breaking bad api ,express.js ,react hooks for building a single page that shows the personal details of the entire casts of every seasons.",
+                "title": "Breaking Bad Cast page"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Tiasha",
+                            "lastName": "Bhowmik",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACglRQwBZTHRkpVLDvljqU_X61ime20nkuM",
+                            "occupation": "Frontend Engineer || React || Javascript || M.Tech BITS Pilani ||",
+                            "objectUrn": "urn:li:member:673531148",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACglRQwBZTHRkpVLDvljqU_X61ime20nkuM",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1618917035510?e=1657756800&v=beta&t=81n9Mg0YUMYJ_4P1CNb5UP2rcEjzrrCFqsql5BLVJrQ",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1618917035510?e=1657756800&v=beta&t=f3O4xvqFNXfclldQmcY1rjaEY1uTHmNZdKEk18o5_Ag",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E16AQG0lEjamuCUsw/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "tiasha-bhowmik-b78692169",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1652269398363?e=1652400000&v=beta&t=qY2oCZ2yZpomew1CYOt_yc6itGfx4Ok4G4PYw_qZXA0",
+                                            "expiresAt": 1652400000000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1652269398363?e=1652400000&v=beta&t=kLgXV3Ykyj0wNl80qDRQgT7tViiinmhsO4pSr4v1rzw",
+                                            "expiresAt": 1652400000000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1652269398363?e=1652400000&v=beta&t=4ZYxqMQLeorpfr_R7nyDqoGlI1ch2VRxCwjlqBa3qMc",
+                                            "expiresAt": 1652400000000,
+                                            "height": 800
+                                        },
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1652269398363?e=1652400000&v=beta&t=PN7a6OcWrykSaJjYWQS9A2Bi-u566uERtnnkCC-WhaI",
+                                            "expiresAt": 1652400000000,
+                                            "height": 100
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/D5635AQEt6368V_KJpw/profile-framedphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "Fh3fLt2nQqaw0LG8Z5Jyww=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAACglRQwBZTHRkpVLDvljqU_X61ime20nkuM,2115980838,260927775)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACglRQwBZTHRkpVLDvljqU_X61ime20nkuM"
+                    }
+                ],
+                "description": "Built using php artisan and composer for user login and registration form . Stored data in mysql database and created table automatically by migrating from Laravel using CMD.",
+                "title": "Built in authetication module using Laravel framework"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Tiasha",
+                            "lastName": "Bhowmik",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACglRQwBZTHRkpVLDvljqU_X61ime20nkuM",
+                            "occupation": "Frontend Engineer || React || Javascript || M.Tech BITS Pilani ||",
+                            "objectUrn": "urn:li:member:673531148",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACglRQwBZTHRkpVLDvljqU_X61ime20nkuM",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1618917035510?e=1657756800&v=beta&t=81n9Mg0YUMYJ_4P1CNb5UP2rcEjzrrCFqsql5BLVJrQ",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1618917035510?e=1657756800&v=beta&t=f3O4xvqFNXfclldQmcY1rjaEY1uTHmNZdKEk18o5_Ag",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E16AQG0lEjamuCUsw/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "tiasha-bhowmik-b78692169",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1652269398363?e=1652400000&v=beta&t=qY2oCZ2yZpomew1CYOt_yc6itGfx4Ok4G4PYw_qZXA0",
+                                            "expiresAt": 1652400000000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1652269398363?e=1652400000&v=beta&t=kLgXV3Ykyj0wNl80qDRQgT7tViiinmhsO4pSr4v1rzw",
+                                            "expiresAt": 1652400000000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1652269398363?e=1652400000&v=beta&t=4ZYxqMQLeorpfr_R7nyDqoGlI1ch2VRxCwjlqBa3qMc",
+                                            "expiresAt": 1652400000000,
+                                            "height": 800
+                                        },
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1652269398363?e=1652400000&v=beta&t=PN7a6OcWrykSaJjYWQS9A2Bi-u566uERtnnkCC-WhaI",
+                                            "expiresAt": 1652400000000,
+                                            "height": 100
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/D5635AQEt6368V_KJpw/profile-framedphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "Fh3fLt2nQqaw0LG8Z5Jyww=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAACglRQwBZTHRkpVLDvljqU_X61ime20nkuM,759748292,270808359)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACglRQwBZTHRkpVLDvljqU_X61ime20nkuM"
+                    }
+                ],
+                "description": "Implemented certain REST API's using Spring boot for a project (which included /topics,/topics/id APIs ) by implementing some services and controllers as well to establish connections with server side. \nGet,put,delete and update operations were performed. Apache derby (embedded database) was used as a database.",
+                "title": "Built various REST API's using spring boot and  Postman(for testing the APIs)"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Tiasha",
+                            "lastName": "Bhowmik",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACglRQwBZTHRkpVLDvljqU_X61ime20nkuM",
+                            "occupation": "Frontend Engineer || React || Javascript || M.Tech BITS Pilani ||",
+                            "objectUrn": "urn:li:member:673531148",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACglRQwBZTHRkpVLDvljqU_X61ime20nkuM",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1618917035510?e=1657756800&v=beta&t=81n9Mg0YUMYJ_4P1CNb5UP2rcEjzrrCFqsql5BLVJrQ",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1618917035510?e=1657756800&v=beta&t=f3O4xvqFNXfclldQmcY1rjaEY1uTHmNZdKEk18o5_Ag",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E16AQG0lEjamuCUsw/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "tiasha-bhowmik-b78692169",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1652269398363?e=1652400000&v=beta&t=qY2oCZ2yZpomew1CYOt_yc6itGfx4Ok4G4PYw_qZXA0",
+                                            "expiresAt": 1652400000000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1652269398363?e=1652400000&v=beta&t=kLgXV3Ykyj0wNl80qDRQgT7tViiinmhsO4pSr4v1rzw",
+                                            "expiresAt": 1652400000000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1652269398363?e=1652400000&v=beta&t=4ZYxqMQLeorpfr_R7nyDqoGlI1ch2VRxCwjlqBa3qMc",
+                                            "expiresAt": 1652400000000,
+                                            "height": 800
+                                        },
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1652269398363?e=1652400000&v=beta&t=PN7a6OcWrykSaJjYWQS9A2Bi-u566uERtnnkCC-WhaI",
+                                            "expiresAt": 1652400000000,
+                                            "height": 100
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/D5635AQEt6368V_KJpw/profile-framedphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "Fh3fLt2nQqaw0LG8Z5Jyww=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAACglRQwBZTHRkpVLDvljqU_X61ime20nkuM,1205438753,290972187)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACglRQwBZTHRkpVLDvljqU_X61ime20nkuM"
+                    }
+                ],
+                "description": "Worked on a reconcilation project , built several front end screens and also made several API integrations.",
+                "title": "Client side Project"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Tiasha",
+                            "lastName": "Bhowmik",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACglRQwBZTHRkpVLDvljqU_X61ime20nkuM",
+                            "occupation": "Frontend Engineer || React || Javascript || M.Tech BITS Pilani ||",
+                            "objectUrn": "urn:li:member:673531148",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACglRQwBZTHRkpVLDvljqU_X61ime20nkuM",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1618917035510?e=1657756800&v=beta&t=81n9Mg0YUMYJ_4P1CNb5UP2rcEjzrrCFqsql5BLVJrQ",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1618917035510?e=1657756800&v=beta&t=f3O4xvqFNXfclldQmcY1rjaEY1uTHmNZdKEk18o5_Ag",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E16AQG0lEjamuCUsw/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "tiasha-bhowmik-b78692169",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1652269398363?e=1652400000&v=beta&t=qY2oCZ2yZpomew1CYOt_yc6itGfx4Ok4G4PYw_qZXA0",
+                                            "expiresAt": 1652400000000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1652269398363?e=1652400000&v=beta&t=kLgXV3Ykyj0wNl80qDRQgT7tViiinmhsO4pSr4v1rzw",
+                                            "expiresAt": 1652400000000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1652269398363?e=1652400000&v=beta&t=4ZYxqMQLeorpfr_R7nyDqoGlI1ch2VRxCwjlqBa3qMc",
+                                            "expiresAt": 1652400000000,
+                                            "height": 800
+                                        },
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1652269398363?e=1652400000&v=beta&t=PN7a6OcWrykSaJjYWQS9A2Bi-u566uERtnnkCC-WhaI",
+                                            "expiresAt": 1652400000000,
+                                            "height": 100
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/D5635AQEt6368V_KJpw/profile-framedphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "Fh3fLt2nQqaw0LG8Z5Jyww=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAACglRQwBZTHRkpVLDvljqU_X61ime20nkuM,1205390153,290972179)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACglRQwBZTHRkpVLDvljqU_X61ime20nkuM"
+                    }
+                ],
+                "description": "Worked on a naukri like application. Made Responsive screens  for desktop view and mobile view with breakpoints .",
+                "title": "Client side project"
+            }
+        ]
+    },
+    "contact_info": {
+        "email_address": null,
+        "websites": [],
+        "twitter": [],
+        "birthdate": null,
+        "ims": null,
+        "phone_numbers": []
+    },
+    "connections": [
+        {
+            "urn_id": "ACoAAAjgx0kBxJoPu_7t3kS1NbDizQekjIIzMbE",
+            "distance": "DISTANCE_1",
+            "public_id": "lakheswar-nath-289a7141",
+            "tracking_id": "148948809"
+        },
+        {
+            "urn_id": "ACoAACYmrvgBRdvWxItbY_KP_fyrEgZ9U-QKJqk",
+            "distance": "DISTANCE_1",
+            "public_id": "rtsu",
+            "tracking_id": "640069368"
+        }
+    ],
+    "skills": [
+        {
+            "name": "JavaScript"
+        },
+        {
+            "name": "React.js"
+        },
+        {
+            "name": "Front-end Development"
+        },
+        {
+            "name": "Object-Oriented Programming (OOP)"
+        },
+        {
+            "name": "Software Development"
+        },
+        {
+            "name": "Web Development"
+        },
+        {
+            "name": "React Hooks"
+        },
+        {
+            "name": "Mobile Applications"
+        },
+        {
+            "name": "Android Development"
+        },
+        {
+            "name": "Data Analysis"
+        },
+        {
+            "name": "HTML"
+        },
+        {
+            "name": "CSS3"
+        },
+        {
+            "name": "Bootstrap"
+        },
+        {
+            "name": "Redux"
+        },
+        {
+            "name": "Material-UI"
+        },
+        {
+            "name": "C++"
+        },
+        {
+            "name": "Python"
+        },
+        {
+            "name": "Java"
+        },
+        {
+            "name": "Next.js"
+        },
+        {
+            "name": "MySQL"
+        },
+        {
+            "name": "Transact-SQL (T-SQL)"
+        },
+        {
+            "name": "MongoDB"
+        },
+        {
+            "name": "Node.js"
+        },
+        {
+            "name": "React Native"
+        },
+        {
+            "name": "Git"
+        },
+        {
+            "name": "Firebase"
+        },
+        {
+            "name": "Sql"
+        },
+        {
+            "name": "HTML5"
+        },
+        {
+            "name": "REST API"
+        },
+        {
+            "name": "Postman API"
+        },
+        {
+            "name": "node js"
+        },
+        {
+            "name": "Tableau"
+        },
+        {
+            "name": "Hadoop"
+        },
+        {
+            "name": "Tensor flow"
+        },
+        {
+            "name": "Keras"
+        },
+        {
+            "name": "Leadership"
+        },
+        {
+            "name": "Management"
+        },
+        {
+            "name": "Public Speaking"
+        },
+        {
+            "name": "Big Data Analytics"
+        },
+        {
+            "name": "Classical Singer"
+        },
+        {
+            "name": "Version Control - Git"
+        }
+    ]
+}

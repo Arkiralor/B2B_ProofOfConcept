@@ -1,0 +1,952 @@
+{
+    "profile": {
+        "summary": "I am someone who is on the constant look-out for learning something new. Computer programming is something that I love and as of now my primary focus lies in pursuing application development pertaining to both web application and mobile application development fields.\n\nThe implementation of computer applications to fix real world problems fascinates me and I want to use my skills for the sole purpose of solving some of those problems.",
+        "industryName": "Software Development",
+        "lastName": "Sharma",
+        "locationName": "India",
+        "student": false,
+        "geoCountryName": "India",
+        "geoCountryUrn": "urn:li:fs_geo:102713980",
+        "geoLocationBackfilled": false,
+        "elt": true,
+        "industryUrn": "urn:li:fs_industry:4",
+        "firstName": "Mridul",
+        "entityUrn": "urn:li:fs_profile:ACoAACbTg-gBtT_YqZc-FG2lIVBv13QTx8UUB8E",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:105607401"
+        },
+        "geoLocationName": "Guwahati, Assam",
+        "location": {
+            "basicLocation": {
+                "countryCode": "in"
+            }
+        },
+        "headline": "MERN Developer | React JS | Node JS",
+        "displayPictureUrl": "https://media-exp1.licdn.com/dms/image/C5103AQGDeNyU8dyXSw/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/0/1561130183721?e=1657756800&v=beta&t=763qIcY5adY07mmQ0j3Es8-wMHooHCu4g2-agoT5nXY",
+        "img_200_200": "200_200/0/1561130183721?e=1657756800&v=beta&t=-riEAAI2HmKeSxRQuFJXZLMdlhhAxFNpdyw-zQgIYPs",
+        "img_400_400": "400_400/0/1561130183721?e=1657756800&v=beta&t=6MQEcqJPvwi_lH1IphsATY_VASUAT2ivsANYas_QLeg",
+        "img_800_800": "800_800/0/1561130183721?e=1657756800&v=beta&t=O9autgs7rTeVDkyIVLEwJL4NuCbNevDY4h6z2KsUzTg",
+        "profile_id": "ACoAACbTg-gBtT_YqZc-FG2lIVBv13QTx8UUB8E",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAACbTg-gBtT_YqZc-FG2lIVBv13QTx8UUB8E",
+        "member_urn": "urn:li:member:651396072",
+        "experience": [
+            {
+                "locationName": "Guwahati, Assam, India",
+                "entityUrn": "urn:li:fs_position:(ACoAACbTg-gBtT_YqZc-FG2lIVBv13QTx8UUB8E,1881352467)",
+                "geoLocationName": "Guwahati, Assam, India",
+                "geoUrn": "urn:li:fs_geo:105607401",
+                "companyName": "TechVariable",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 12,
+                        "year": 2021
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Programmer Analyst Trainee",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:10632640",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQE6IzKHUZQmAA/company-logo_"
+            },
+            {
+                "locationName": "Guwahati, Assam, India",
+                "entityUrn": "urn:li:fs_position:(ACoAACbTg-gBtT_YqZc-FG2lIVBv13QTx8UUB8E,1757962703)",
+                "geoLocationName": "Guwahati, Assam, India",
+                "geoUrn": "urn:li:fs_geo:105607401",
+                "companyName": "Assam Power Distribution Company Limited",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2021
+                    }
+                },
+                "description": "Primarily worked with \"Spring Boot\" for creating an e-tendering portal -\n\u2022 Implemented micro-services for different functionalities of the application\n\u2022 Created basic authentication for the system\n\u2022 Provided file storage and retrieval functionalities\n\u2022 Worked with \"Thymeleaf\" (server-side Java template engine) for sending data from back-end to the front-end templates\n\u2022 Used \"Bootstrap\" for UI design\n\u2022 Implemented MVC + repository pattern with micro-services and used dependency injection in order to modularize the code base\n\u2022 Worked with \"Hibernate\" for using object relational mapping in order to perform database queries",
+                "company": {
+                    "industries": [
+                        "Utilities"
+                    ]
+                },
+                "title": "Web Developer",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:27897463"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAACbTg-gBtT_YqZc-FG2lIVBv13QTx8UUB8E,548993641)",
+                "school": {
+                    "objectUrn": "urn:li:school:5097230",
+                    "entityUrn": "urn:li:fs_miniSchool:5097230",
+                    "active": true,
+                    "schoolName": "Cotton University",
+                    "trackingId": "oNwt2B1ZT26F/FEYhOEgtg==",
+                    "logoUrl": "https://media-exp1.licdn.com/dms/image/C510BAQGRd0nj9XsJww/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "year": 2018
+                    }
+                },
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100189",
+                "degreeName": "Master's degree",
+                "schoolName": "Cotton University",
+                "fieldOfStudy": "Computer Science and Applications",
+                "degreeUrn": "urn:li:fs_degree:500",
+                "schoolUrn": "urn:li:fs_miniSchool:5097230"
+            },
+            {
+                "projects": [
+                    "urn:li:fs_project:(ACoAACbTg-gBtT_YqZc-FG2lIVBv13QTx8UUB8E,1234641297)"
+                ],
+                "entityUrn": "urn:li:fs_education:(ACoAACbTg-gBtT_YqZc-FG2lIVBv13QTx8UUB8E,518208296)",
+                "school": {
+                    "objectUrn": "urn:li:school:5097230",
+                    "entityUrn": "urn:li:fs_miniSchool:5097230",
+                    "active": true,
+                    "schoolName": "Cotton University",
+                    "trackingId": "rsk5zOe7TtaGfQfNG/BVWg==",
+                    "logoUrl": "https://media-exp1.licdn.com/dms/image/C510BAQGRd0nj9XsJww/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2018
+                    },
+                    "startDate": {
+                        "year": 2015
+                    }
+                },
+                "degreeName": "Bachelor's degree",
+                "schoolName": "Cotton University",
+                "fieldOfStudy": "Computer Science and Applications",
+                "degreeUrn": "urn:li:fs_degree:200",
+                "schoolUrn": "urn:li:fs_miniSchool:5097230"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English"
+            },
+            {
+                "name": "Hindi"
+            }
+        ],
+        "publications": [],
+        "certifications": [],
+        "volunteer": [],
+        "honors": [],
+        "projects": [
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Mridul",
+                            "lastName": "Sharma",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACbTg-gBtT_YqZc-FG2lIVBv13QTx8UUB8E",
+                            "occupation": "MERN Developer | React JS | Node JS",
+                            "objectUrn": "urn:li:member:651396072",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACbTg-gBtT_YqZc-FG2lIVBv13QTx8UUB8E",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1641997751470?e=1657756800&v=beta&t=KYRXl-lWzvBYM7tffLGi2VGCFmHi9WTWN9zzZ1OMyVQ",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1641997751470?e=1657756800&v=beta&t=453NLT5MUaPtOKkonuTSoG5qfmhuNLXGfe0wB4Hd9tI",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D16AQFfSBtnamLrWQ/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "mridul24",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1561130183721?e=1657756800&v=beta&t=763qIcY5adY07mmQ0j3Es8-wMHooHCu4g2-agoT5nXY",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1561130183721?e=1657756800&v=beta&t=-riEAAI2HmKeSxRQuFJXZLMdlhhAxFNpdyw-zQgIYPs",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1561130183721?e=1657756800&v=beta&t=6MQEcqJPvwi_lH1IphsATY_VASUAT2ivsANYas_QLeg",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1561130183721?e=1657756800&v=beta&t=O9autgs7rTeVDkyIVLEwJL4NuCbNevDY4h6z2KsUzTg",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5103AQGDeNyU8dyXSw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "UQ4bGrNfTuutAxK84+d/fA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAACbTg-gBtT_YqZc-FG2lIVBv13QTx8UUB8E,570264795,327793949)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACbTg-gBtT_YqZc-FG2lIVBv13QTx8UUB8E"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 10,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 10,
+                        "year": 2021
+                    }
+                },
+                "description": "- React application \n- Used styled components \n- Used a \"ThemeProvider\" for creating Dark/Light themes\n- Created global styles using \"createGlobalStyles\"\n- Passes props to styled components\n\nGithub link - https://github.com/mridul1024/dark-mode-react",
+                "title": "Dark/Light Mode Toggler",
+                "url": "https://compassionate-murdock-642809.netlify.app/"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Mridul",
+                            "lastName": "Sharma",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACbTg-gBtT_YqZc-FG2lIVBv13QTx8UUB8E",
+                            "occupation": "MERN Developer | React JS | Node JS",
+                            "objectUrn": "urn:li:member:651396072",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACbTg-gBtT_YqZc-FG2lIVBv13QTx8UUB8E",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1641997751470?e=1657756800&v=beta&t=KYRXl-lWzvBYM7tffLGi2VGCFmHi9WTWN9zzZ1OMyVQ",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1641997751470?e=1657756800&v=beta&t=453NLT5MUaPtOKkonuTSoG5qfmhuNLXGfe0wB4Hd9tI",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D16AQFfSBtnamLrWQ/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "mridul24",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1561130183721?e=1657756800&v=beta&t=763qIcY5adY07mmQ0j3Es8-wMHooHCu4g2-agoT5nXY",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1561130183721?e=1657756800&v=beta&t=-riEAAI2HmKeSxRQuFJXZLMdlhhAxFNpdyw-zQgIYPs",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1561130183721?e=1657756800&v=beta&t=6MQEcqJPvwi_lH1IphsATY_VASUAT2ivsANYas_QLeg",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1561130183721?e=1657756800&v=beta&t=O9autgs7rTeVDkyIVLEwJL4NuCbNevDY4h6z2KsUzTg",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5103AQGDeNyU8dyXSw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "UQ4bGrNfTuutAxK84+d/fA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAACbTg-gBtT_YqZc-FG2lIVBv13QTx8UUB8E,1457635594,328986372)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACbTg-gBtT_YqZc-FG2lIVBv13QTx8UUB8E"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 10,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 10,
+                        "year": 2021
+                    }
+                },
+                "description": "- React application\n- Used styled components\n- Used redux for state management (Created actions and reducers)\n- Used fake store API (https://fakestoreapi.com)\n\nGithub link - https://github.com/mridul1024/fake-store",
+                "title": "Fake Store",
+                "url": "https://elegant-kirch-bb7e95.netlify.app/"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Mridul",
+                            "lastName": "Sharma",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACbTg-gBtT_YqZc-FG2lIVBv13QTx8UUB8E",
+                            "occupation": "MERN Developer | React JS | Node JS",
+                            "objectUrn": "urn:li:member:651396072",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACbTg-gBtT_YqZc-FG2lIVBv13QTx8UUB8E",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1641997751470?e=1657756800&v=beta&t=KYRXl-lWzvBYM7tffLGi2VGCFmHi9WTWN9zzZ1OMyVQ",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1641997751470?e=1657756800&v=beta&t=453NLT5MUaPtOKkonuTSoG5qfmhuNLXGfe0wB4Hd9tI",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D16AQFfSBtnamLrWQ/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "mridul24",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1561130183721?e=1657756800&v=beta&t=763qIcY5adY07mmQ0j3Es8-wMHooHCu4g2-agoT5nXY",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1561130183721?e=1657756800&v=beta&t=-riEAAI2HmKeSxRQuFJXZLMdlhhAxFNpdyw-zQgIYPs",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1561130183721?e=1657756800&v=beta&t=6MQEcqJPvwi_lH1IphsATY_VASUAT2ivsANYas_QLeg",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1561130183721?e=1657756800&v=beta&t=O9autgs7rTeVDkyIVLEwJL4NuCbNevDY4h6z2KsUzTg",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5103AQGDeNyU8dyXSw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "UQ4bGrNfTuutAxK84+d/fA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAACbTg-gBtT_YqZc-FG2lIVBv13QTx8UUB8E,569718432,327793916)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACbTg-gBtT_YqZc-FG2lIVBv13QTx8UUB8E"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 10,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 10,
+                        "year": 2021
+                    }
+                },
+                "description": "- React application\n- Used jest and react-testing-library\n- Performed unit testing and snapshot testing\n- Used state hooks\n\nGithub link - https://github.com/mridul1024/todo-app-react",
+                "title": "Todo Application",
+                "url": "https://elastic-edison-9efffa.netlify.app/"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Mridul",
+                            "lastName": "Sharma",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACbTg-gBtT_YqZc-FG2lIVBv13QTx8UUB8E",
+                            "occupation": "MERN Developer | React JS | Node JS",
+                            "objectUrn": "urn:li:member:651396072",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACbTg-gBtT_YqZc-FG2lIVBv13QTx8UUB8E",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1641997751470?e=1657756800&v=beta&t=KYRXl-lWzvBYM7tffLGi2VGCFmHi9WTWN9zzZ1OMyVQ",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1641997751470?e=1657756800&v=beta&t=453NLT5MUaPtOKkonuTSoG5qfmhuNLXGfe0wB4Hd9tI",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D16AQFfSBtnamLrWQ/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "mridul24",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1561130183721?e=1657756800&v=beta&t=763qIcY5adY07mmQ0j3Es8-wMHooHCu4g2-agoT5nXY",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1561130183721?e=1657756800&v=beta&t=-riEAAI2HmKeSxRQuFJXZLMdlhhAxFNpdyw-zQgIYPs",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1561130183721?e=1657756800&v=beta&t=6MQEcqJPvwi_lH1IphsATY_VASUAT2ivsANYas_QLeg",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1561130183721?e=1657756800&v=beta&t=O9autgs7rTeVDkyIVLEwJL4NuCbNevDY4h6z2KsUzTg",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5103AQGDeNyU8dyXSw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "UQ4bGrNfTuutAxK84+d/fA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAACbTg-gBtT_YqZc-FG2lIVBv13QTx8UUB8E,1598860049,329009964)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACbTg-gBtT_YqZc-FG2lIVBv13QTx8UUB8E"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 7,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 6,
+                        "year": 2021
+                    }
+                },
+                "description": "- Used \"Mongoose\" npm to connect with Mongo DB \n- Used \"Express\" for creating Get and Post routes\n- Used JSON Web Token for generating web tokens to access particular routes\n- Implemented micro-services for different functionalities to modularize the codebase\n- Structured the code in a proper manner\n- Implemented branches in git for proper workflow",
+                "title": "Node JS Rest API",
+                "url": "https://github.com/mridul1024/rest-api"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Mridul",
+                            "lastName": "Sharma",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACbTg-gBtT_YqZc-FG2lIVBv13QTx8UUB8E",
+                            "occupation": "MERN Developer | React JS | Node JS",
+                            "objectUrn": "urn:li:member:651396072",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACbTg-gBtT_YqZc-FG2lIVBv13QTx8UUB8E",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1641997751470?e=1657756800&v=beta&t=KYRXl-lWzvBYM7tffLGi2VGCFmHi9WTWN9zzZ1OMyVQ",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1641997751470?e=1657756800&v=beta&t=453NLT5MUaPtOKkonuTSoG5qfmhuNLXGfe0wB4Hd9tI",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D16AQFfSBtnamLrWQ/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "mridul24",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1561130183721?e=1657756800&v=beta&t=763qIcY5adY07mmQ0j3Es8-wMHooHCu4g2-agoT5nXY",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1561130183721?e=1657756800&v=beta&t=-riEAAI2HmKeSxRQuFJXZLMdlhhAxFNpdyw-zQgIYPs",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1561130183721?e=1657756800&v=beta&t=6MQEcqJPvwi_lH1IphsATY_VASUAT2ivsANYas_QLeg",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1561130183721?e=1657756800&v=beta&t=O9autgs7rTeVDkyIVLEwJL4NuCbNevDY4h6z2KsUzTg",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5103AQGDeNyU8dyXSw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "UQ4bGrNfTuutAxK84+d/fA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAACbTg-gBtT_YqZc-FG2lIVBv13QTx8UUB8E,1468122440,291290483)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACbTg-gBtT_YqZc-FG2lIVBv13QTx8UUB8E"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 9,
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "month": 6,
+                        "year": 2020
+                    }
+                },
+                "description": "\u2022 Handles internet connectivity changes\n\u2022 Fetches data from OpenWeatherMap REST API using Retrofit\n\u2022 MVVM architecture pattern\n\u2022 Notification service using \"Broadcast Receiver\" and \"Job Service\"\n\u2022 Dependency injection with Dagger2\n\u2022 Uses RxJava ( also handles errors which occurs upstream)\n\u2022 Detects current user location\n\u2022 Shared Preferences for settings module",
+                "title": "Weather Application",
+                "url": "https://github.com/mridul1024/weatherapplication"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Mridul",
+                            "lastName": "Sharma",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACbTg-gBtT_YqZc-FG2lIVBv13QTx8UUB8E",
+                            "occupation": "MERN Developer | React JS | Node JS",
+                            "objectUrn": "urn:li:member:651396072",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACbTg-gBtT_YqZc-FG2lIVBv13QTx8UUB8E",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1641997751470?e=1657756800&v=beta&t=KYRXl-lWzvBYM7tffLGi2VGCFmHi9WTWN9zzZ1OMyVQ",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1641997751470?e=1657756800&v=beta&t=453NLT5MUaPtOKkonuTSoG5qfmhuNLXGfe0wB4Hd9tI",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D16AQFfSBtnamLrWQ/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "mridul24",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1561130183721?e=1657756800&v=beta&t=763qIcY5adY07mmQ0j3Es8-wMHooHCu4g2-agoT5nXY",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1561130183721?e=1657756800&v=beta&t=-riEAAI2HmKeSxRQuFJXZLMdlhhAxFNpdyw-zQgIYPs",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1561130183721?e=1657756800&v=beta&t=6MQEcqJPvwi_lH1IphsATY_VASUAT2ivsANYas_QLeg",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1561130183721?e=1657756800&v=beta&t=O9autgs7rTeVDkyIVLEwJL4NuCbNevDY4h6z2KsUzTg",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5103AQGDeNyU8dyXSw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "UQ4bGrNfTuutAxK84+d/fA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAACbTg-gBtT_YqZc-FG2lIVBv13QTx8UUB8E,1468004893,291292164)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACbTg-gBtT_YqZc-FG2lIVBv13QTx8UUB8E"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 5,
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "month": 3,
+                        "year": 2020
+                    }
+                },
+                "description": "\u2022 App which lists movie's from \"themoviedb\" API\n\u2022 MVP architecture pattern\n\u2022 Uses retrofit to fetch data\n\u2022 Implemented Glide to display images\n\u2022 Movies can be sorted (Trending/Most popular/Top rated)\n\u2022 Shared preference for sort settings",
+                "title": "Movies Application",
+                "url": "https://github.com/mridul1024/moviesapp"
+            },
+            {
+                "occupation": "urn:li:fs_education:(ACoAACbTg-gBtT_YqZc-FG2lIVBv13QTx8UUB8E,518208296)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Mridul",
+                            "lastName": "Sharma",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACbTg-gBtT_YqZc-FG2lIVBv13QTx8UUB8E",
+                            "occupation": "MERN Developer | React JS | Node JS",
+                            "objectUrn": "urn:li:member:651396072",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACbTg-gBtT_YqZc-FG2lIVBv13QTx8UUB8E",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1641997751470?e=1657756800&v=beta&t=KYRXl-lWzvBYM7tffLGi2VGCFmHi9WTWN9zzZ1OMyVQ",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1641997751470?e=1657756800&v=beta&t=453NLT5MUaPtOKkonuTSoG5qfmhuNLXGfe0wB4Hd9tI",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D16AQFfSBtnamLrWQ/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "mridul24",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1561130183721?e=1657756800&v=beta&t=763qIcY5adY07mmQ0j3Es8-wMHooHCu4g2-agoT5nXY",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1561130183721?e=1657756800&v=beta&t=-riEAAI2HmKeSxRQuFJXZLMdlhhAxFNpdyw-zQgIYPs",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1561130183721?e=1657756800&v=beta&t=6MQEcqJPvwi_lH1IphsATY_VASUAT2ivsANYas_QLeg",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1561130183721?e=1657756800&v=beta&t=O9autgs7rTeVDkyIVLEwJL4NuCbNevDY4h6z2KsUzTg",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5103AQGDeNyU8dyXSw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "UQ4bGrNfTuutAxK84+d/fA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAACbTg-gBtT_YqZc-FG2lIVBv13QTx8UUB8E,1234641297,225942918)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACbTg-gBtT_YqZc-FG2lIVBv13QTx8UUB8E"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 5,
+                        "year": 2018
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2018
+                    }
+                },
+                "description": "\u2022 Android application which lists events.\n\u2022 Consists of a login facility.\n\u2022 A SQLite database was put in place for storing user data locally.\n\u2022 UI layouts are plain simple.\n\u2022 It is just a working prototype, it doesn't have a server-based data storage system.",
+                "title": "Event Manager",
+                "url": "https://github.com/mridul1024/EventManager"
+            }
+        ]
+    },
+    "contact_info": {
+        "email_address": "mridul1024@gmail.com",
+        "websites": [],
+        "twitter": [],
+        "birthdate": null,
+        "ims": null,
+        "phone_numbers": []
+    },
+    "connections": [
+        {
+            "urn_id": "ACoAABr4jt0BoOUmisITdRo1gR4CumG5I4jjZIw",
+            "distance": "DISTANCE_1",
+            "public_id": "samudra-deka-911659107",
+            "tracking_id": "452497117"
+        },
+        {
+            "urn_id": "ACoAADZmR9QB1zOH_PmrzQQw2wQmTJRTcNGU7CE",
+            "distance": "DISTANCE_1",
+            "public_id": "bkalita",
+            "tracking_id": "912672724"
+        },
+        {
+            "urn_id": "ACoAADe3CFYBsoFdtSEajXbg51HDagdpBEb3kx4",
+            "distance": "DISTANCE_1",
+            "public_id": "binud-panging-872062221",
+            "tracking_id": "934742102"
+        },
+        {
+            "urn_id": "ACoAAC2aUPYBGPB-T9xDu2Hjrq7OgzRPu5nTvyE",
+            "distance": "DISTANCE_1",
+            "public_id": "jintudas",
+            "tracking_id": "765087990"
+        },
+        {
+            "urn_id": "ACoAAAjgx0kBxJoPu_7t3kS1NbDizQekjIIzMbE",
+            "distance": "DISTANCE_1",
+            "public_id": "lakheswar-nath-289a7141",
+            "tracking_id": "148948809"
+        },
+        {
+            "urn_id": "ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE",
+            "distance": "DISTANCE_1",
+            "public_id": "prithoo11335",
+            "tracking_id": "231212168"
+        },
+        {
+            "urn_id": "ACoAACr0GSwBcmPDh22HqivG9h0JwG-eahXSYW8",
+            "distance": "DISTANCE_1",
+            "public_id": "nihar-kashyap98",
+            "tracking_id": "720640300"
+        },
+        {
+            "urn_id": "ACoAACeXhGEBEVCUXmKi5rowUSeFZNerPjvzQsc",
+            "distance": "DISTANCE_1",
+            "public_id": "mahbubul-haque-a55552166",
+            "tracking_id": "664241249"
+        },
+        {
+            "urn_id": "ACoAACzP6KMBcLKqKnFRpIudaukkoW4NoqstgrM",
+            "distance": "DISTANCE_1",
+            "public_id": "pranit-prakash-sahu",
+            "tracking_id": "751823011"
+        },
+        {
+            "urn_id": "ACoAAAI9wXoBijRhLoxf7BO8UTK0DX-7KexJV30",
+            "distance": "DISTANCE_1",
+            "public_id": "boren-ghosh-27671410",
+            "tracking_id": "37601658"
+        },
+        {
+            "urn_id": "ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8",
+            "distance": "DISTANCE_1",
+            "public_id": "sivaranjan-goswami-790b4523",
+            "tracking_id": "83451420"
+        },
+        {
+            "urn_id": "ACoAACTFIIYB1cK_syRcCXEc0o8RTm4JMlhYcHA",
+            "distance": "DISTANCE_1",
+            "public_id": "arun-kumar-nath-686721152",
+            "tracking_id": "616898694"
+        },
+        {
+            "urn_id": "ACoAACDVs-sB_IgxPBMHMRBfR6is3jmwwV_OvTE",
+            "distance": "DISTANCE_1",
+            "public_id": "swapnil-bhattacharjee-ghy",
+            "tracking_id": "550876139"
+        },
+        {
+            "urn_id": "ACoAAC12ZqEBCx9JN_YIi1eF1FPPDif3mXI3fyc",
+            "distance": "DISTANCE_1",
+            "public_id": "abinash-panigrahi-169531193",
+            "tracking_id": "762734241"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Java"
+        },
+        {
+            "name": "Object-Oriented Programming (OOP)"
+        },
+        {
+            "name": "C++"
+        },
+        {
+            "name": "XML"
+        },
+        {
+            "name": "SQLite"
+        },
+        {
+            "name": "PHP"
+        },
+        {
+            "name": "database"
+        },
+        {
+            "name": "JavaScript"
+        },
+        {
+            "name": "Github"
+        },
+        {
+            "name": "git"
+        },
+        {
+            "name": "HTML"
+        },
+        {
+            "name": "Problem Solving"
+        },
+        {
+            "name": "Android Studio"
+        },
+        {
+            "name": "XAMPP"
+        },
+        {
+            "name": "Cascading Style Sheets (CSS)"
+        },
+        {
+            "name": "SQL"
+        },
+        {
+            "name": "Retrofit"
+        },
+        {
+            "name": "Dagger (Software)"
+        },
+        {
+            "name": "Room Database"
+        },
+        {
+            "name": "Object-Relational Mapping (ORM)"
+        },
+        {
+            "name": "Model-View-Presenter (MVP)"
+        },
+        {
+            "name": "Model-view-viewmodel (MVVM)"
+        },
+        {
+            "name": "Unit Testing"
+        },
+        {
+            "name": "RxJava"
+        },
+        {
+            "name": "Representational State Transfer (REST)"
+        },
+        {
+            "name": "Hilt"
+        },
+        {
+            "name": "Kotlin"
+        },
+        {
+            "name": "Spring Boot"
+        },
+        {
+            "name": "Spring MVC"
+        },
+        {
+            "name": "Spring Data JPA"
+        },
+        {
+            "name": "Bootstrap"
+        },
+        {
+            "name": "Model-View-Controller (MVC)"
+        },
+        {
+            "name": "Microservices"
+        },
+        {
+            "name": "Thymeleaf"
+        },
+        {
+            "name": "React.js"
+        },
+        {
+            "name": "Node.js"
+        },
+        {
+            "name": "mongoose"
+        },
+        {
+            "name": "JSON Web Token (JWT)"
+        },
+        {
+            "name": "REST APIs"
+        },
+        {
+            "name": "MongoDB"
+        },
+        {
+            "name": "snapshot testing"
+        },
+        {
+            "name": "Jest"
+        },
+        {
+            "name": "styled-components"
+        },
+        {
+            "name": "redux"
+        }
+    ]
+}

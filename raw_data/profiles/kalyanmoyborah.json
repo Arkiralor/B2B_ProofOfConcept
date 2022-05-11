@@ -1,0 +1,1146 @@
+{
+    "profile": {
+        "summary": "A UI/UX Designer / Full Stack developer who specializes in JavaScript Technologies across the whole stack (Node.js, Express, Angular, React, React-native). Experience building complete web-apps and mobile-apps with backend API systems. ",
+        "industryName": "IT Services and IT Consulting",
+        "lastName": "Borah",
+        "locationName": "India",
+        "student": false,
+        "geoCountryName": "India",
+        "geoCountryUrn": "urn:li:fs_geo:102713980",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "birthDate": {
+            "month": 1,
+            "day": 24
+        },
+        "industryUrn": "urn:li:fs_industry:96",
+        "firstName": "Kalyanmoy",
+        "entityUrn": "urn:li:fs_profile:ACoAAC3w0UgB3xo2m97kbEUawgvcbz4znRoKEpk",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:105607401"
+        },
+        "geoLocationName": "Guwahati, Assam",
+        "location": {
+            "basicLocation": {
+                "countryCode": "in"
+            }
+        },
+        "headline": "React | React-Native | Node.js | MySql | MongoDB | PostgreSQL | Firebase | Angular | D3.js | AWS | UI/UX Design",
+        "displayPictureUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQFKIVVXfZ1pFQ/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/0/1616059459278?e=1657756800&v=beta&t=V7RswcZkNpp3zKjuMYXUMhC_GCJehB6eH8z1UIcvWW4",
+        "img_200_200": "200_200/0/1616059459278?e=1657756800&v=beta&t=qARLA7OkvdFH7b5Ou3m3dYmKqEYbhMPQU-E0qolAGjE",
+        "img_400_400": "400_400/0/1616059459278?e=1657756800&v=beta&t=67BiFjoTJNtdVhuud2YzqRXnv3wG9hPJrcPXTzX2_co",
+        "img_800_800": "800_800/0/1616059459278?e=1657756800&v=beta&t=hxHiJPzlFci87Orbkol7g9IyTQ2DdE9VYdKVqKjqmN8",
+        "profile_id": "ACoAAC3w0UgB3xo2m97kbEUawgvcbz4znRoKEpk",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAAC3w0UgB3xo2m97kbEUawgvcbz4znRoKEpk",
+        "member_urn": "urn:li:member:770756936",
+        "experience": [
+            {
+                "locationName": "Guwahati, Assam, India",
+                "entityUrn": "urn:li:fs_position:(ACoAAC3w0UgB3xo2m97kbEUawgvcbz4znRoKEpk,1961526324)",
+                "geoLocationName": "Guwahati, Assam, India",
+                "geoUrn": "urn:li:fs_geo:105607401",
+                "companyName": "TechVariable",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 2,
+                        "year": 2022
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Team Lead",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:10632640",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQE6IzKHUZQmAA/company-logo_"
+            },
+            {
+                "locationName": "Guwahati, Assam, India",
+                "entityUrn": "urn:li:fs_position:(ACoAAC3w0UgB3xo2m97kbEUawgvcbz4znRoKEpk,1653868389)",
+                "geoLocationName": "Guwahati, Assam, India",
+                "geoUrn": "urn:li:fs_geo:105607401",
+                "companyName": "TechVariable",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 2,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2020
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Programmer Analyst",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:10632640",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQE6IzKHUZQmAA/company-logo_"
+            },
+            {
+                "locationName": "Guwahati, Assam, India",
+                "entityUrn": "urn:li:fs_position:(ACoAAC3w0UgB3xo2m97kbEUawgvcbz4znRoKEpk,1913139647)",
+                "geoLocationName": "Guwahati, Assam, India",
+                "geoUrn": "urn:li:fs_geo:105607401",
+                "companyName": "QuickGhy",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 3,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 12,
+                        "year": 2020
+                    }
+                },
+                "description": "Worked on the Node.js server for the QG Daksha mobile app.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 2,
+                        "end": 10
+                    },
+                    "industries": [
+                        "Facilities Services"
+                    ]
+                },
+                "title": "Back End Developer",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:40664871",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQHK-QCf7gHKbQ/company-logo_"
+            },
+            {
+                "locationName": "Ahmedabad, India",
+                "entityUrn": "urn:li:fs_position:(ACoAAC3w0UgB3xo2m97kbEUawgvcbz4znRoKEpk,1563818615)",
+                "geoLocationName": "Ahmedabad, India",
+                "companyName": "Inspired Automation Future Technologies",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 7,
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "month": 12,
+                        "year": 2019
+                    }
+                },
+                "description": "I was a part of the software team building the India's first Robot Museum in Gujarat Science City, Ahmedabad.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Industrial Automation"
+                    ]
+                },
+                "title": "Full Stack Developer",
+                "companyUrn": "urn:li:fs_miniCompany:14399651",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C510BAQEbjQAuvEvROw/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAC3w0UgB3xo2m97kbEUawgvcbz4znRoKEpk,717581983)",
+                "school": {
+                    "objectUrn": "urn:li:school:3241817",
+                    "entityUrn": "urn:li:fs_miniSchool:3241817",
+                    "active": true,
+                    "schoolName": "Assam Engineering College, (A.E.C)",
+                    "trackingId": "dWAakWEFTASDMtbccVeX3Q==",
+                    "logoUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQF2c8H0frv_Dw/company-logo_"
+                },
+                "schoolName": "Assam Engineering College, (A.E.C)",
+                "schoolUrn": "urn:li:fs_miniSchool:3241817"
+            }
+        ],
+        "languages": [
+            {
+                "name": "Assamese",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "English",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "Hindi",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ],
+        "publications": [],
+        "certifications": [],
+        "volunteer": [],
+        "honors": [],
+        "projects": [
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Kalyanmoy",
+                            "lastName": "Borah",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAC3w0UgB3xo2m97kbEUawgvcbz4znRoKEpk",
+                            "occupation": "React | React-Native | Node.js | MySql | MongoDB | PostgreSQL | Firebase | Angular | D3.js | AWS | UI/UX Design",
+                            "objectUrn": "urn:li:member:770756936",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAC3w0UgB3xo2m97kbEUawgvcbz4znRoKEpk",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1587895034524?e=1657756800&v=beta&t=APAQlZxNtCzTzW1V8qbJ7ODvAxj9bK965bxQSSP-j8E",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1587895034524?e=1657756800&v=beta&t=Vb2NxhNBxYGpNHFAjGjMbGkSeDsU8jckRzsR-QTLNFs",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5616AQED96zM9yTCSQ/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "kalyanmoyborah",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1616059459278?e=1657756800&v=beta&t=V7RswcZkNpp3zKjuMYXUMhC_GCJehB6eH8z1UIcvWW4",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1616059459278?e=1657756800&v=beta&t=qARLA7OkvdFH7b5Ou3m3dYmKqEYbhMPQU-E0qolAGjE",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1616059459278?e=1657756800&v=beta&t=67BiFjoTJNtdVhuud2YzqRXnv3wG9hPJrcPXTzX2_co",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1616059459278?e=1657756800&v=beta&t=hxHiJPzlFci87Orbkol7g9IyTQ2DdE9VYdKVqKjqmN8",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQFKIVVXfZ1pFQ/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "7WmDbEgWRpuvTtg+S/fIFQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAC3w0UgB3xo2m97kbEUawgvcbz4znRoKEpk,1570927035,295509298)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAC3w0UgB3xo2m97kbEUawgvcbz4znRoKEpk"
+                    }
+                ],
+                "description": "Built the front end of the job portal application using React.js where hospitals can post jobs and doctors can apply in those jobs.",
+                "title": "A job portal for doctors and hospitals"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Kalyanmoy",
+                            "lastName": "Borah",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAC3w0UgB3xo2m97kbEUawgvcbz4znRoKEpk",
+                            "occupation": "React | React-Native | Node.js | MySql | MongoDB | PostgreSQL | Firebase | Angular | D3.js | AWS | UI/UX Design",
+                            "objectUrn": "urn:li:member:770756936",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAC3w0UgB3xo2m97kbEUawgvcbz4znRoKEpk",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1587895034524?e=1657756800&v=beta&t=APAQlZxNtCzTzW1V8qbJ7ODvAxj9bK965bxQSSP-j8E",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1587895034524?e=1657756800&v=beta&t=Vb2NxhNBxYGpNHFAjGjMbGkSeDsU8jckRzsR-QTLNFs",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5616AQED96zM9yTCSQ/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "kalyanmoyborah",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1616059459278?e=1657756800&v=beta&t=V7RswcZkNpp3zKjuMYXUMhC_GCJehB6eH8z1UIcvWW4",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1616059459278?e=1657756800&v=beta&t=qARLA7OkvdFH7b5Ou3m3dYmKqEYbhMPQU-E0qolAGjE",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1616059459278?e=1657756800&v=beta&t=67BiFjoTJNtdVhuud2YzqRXnv3wG9hPJrcPXTzX2_co",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1616059459278?e=1657756800&v=beta&t=hxHiJPzlFci87Orbkol7g9IyTQ2DdE9VYdKVqKjqmN8",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQFKIVVXfZ1pFQ/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "7WmDbEgWRpuvTtg+S/fIFQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAC3w0UgB3xo2m97kbEUawgvcbz4znRoKEpk,1054119734,316786528)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAC3w0UgB3xo2m97kbEUawgvcbz4znRoKEpk"
+                    }
+                ],
+                "description": "Built the admin panel of the Synctactic.ai saas product using airframe react dashboard template.",
+                "title": "Admin panel of Synctactic.ai",
+                "url": "http://admin.synctactic.ai"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Kalyanmoy",
+                            "lastName": "Borah",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAC3w0UgB3xo2m97kbEUawgvcbz4znRoKEpk",
+                            "occupation": "React | React-Native | Node.js | MySql | MongoDB | PostgreSQL | Firebase | Angular | D3.js | AWS | UI/UX Design",
+                            "objectUrn": "urn:li:member:770756936",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAC3w0UgB3xo2m97kbEUawgvcbz4znRoKEpk",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1587895034524?e=1657756800&v=beta&t=APAQlZxNtCzTzW1V8qbJ7ODvAxj9bK965bxQSSP-j8E",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1587895034524?e=1657756800&v=beta&t=Vb2NxhNBxYGpNHFAjGjMbGkSeDsU8jckRzsR-QTLNFs",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5616AQED96zM9yTCSQ/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "kalyanmoyborah",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1616059459278?e=1657756800&v=beta&t=V7RswcZkNpp3zKjuMYXUMhC_GCJehB6eH8z1UIcvWW4",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1616059459278?e=1657756800&v=beta&t=qARLA7OkvdFH7b5Ou3m3dYmKqEYbhMPQU-E0qolAGjE",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1616059459278?e=1657756800&v=beta&t=67BiFjoTJNtdVhuud2YzqRXnv3wG9hPJrcPXTzX2_co",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1616059459278?e=1657756800&v=beta&t=hxHiJPzlFci87Orbkol7g9IyTQ2DdE9VYdKVqKjqmN8",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQFKIVVXfZ1pFQ/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "7WmDbEgWRpuvTtg+S/fIFQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAC3w0UgB3xo2m97kbEUawgvcbz4znRoKEpk,1054953645,316785645)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAC3w0UgB3xo2m97kbEUawgvcbz4znRoKEpk"
+                    }
+                ],
+                "description": "Configured the databases and built the APIs for order booking module of QG Dakhsa mobile app using Node.js and Mysql.",
+                "title": "Booking module for QuickGhy app",
+                "url": "https://play.google.com/store/apps/details?id=com.daksha.daksha"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Kalyanmoy",
+                            "lastName": "Borah",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAC3w0UgB3xo2m97kbEUawgvcbz4znRoKEpk",
+                            "occupation": "React | React-Native | Node.js | MySql | MongoDB | PostgreSQL | Firebase | Angular | D3.js | AWS | UI/UX Design",
+                            "objectUrn": "urn:li:member:770756936",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAC3w0UgB3xo2m97kbEUawgvcbz4znRoKEpk",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1587895034524?e=1657756800&v=beta&t=APAQlZxNtCzTzW1V8qbJ7ODvAxj9bK965bxQSSP-j8E",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1587895034524?e=1657756800&v=beta&t=Vb2NxhNBxYGpNHFAjGjMbGkSeDsU8jckRzsR-QTLNFs",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5616AQED96zM9yTCSQ/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "kalyanmoyborah",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1616059459278?e=1657756800&v=beta&t=V7RswcZkNpp3zKjuMYXUMhC_GCJehB6eH8z1UIcvWW4",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1616059459278?e=1657756800&v=beta&t=qARLA7OkvdFH7b5Ou3m3dYmKqEYbhMPQU-E0qolAGjE",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1616059459278?e=1657756800&v=beta&t=67BiFjoTJNtdVhuud2YzqRXnv3wG9hPJrcPXTzX2_co",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1616059459278?e=1657756800&v=beta&t=hxHiJPzlFci87Orbkol7g9IyTQ2DdE9VYdKVqKjqmN8",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQFKIVVXfZ1pFQ/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "7WmDbEgWRpuvTtg+S/fIFQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAC3w0UgB3xo2m97kbEUawgvcbz4znRoKEpk,1452447228,307468864)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAC3w0UgB3xo2m97kbEUawgvcbz4znRoKEpk"
+                    }
+                ],
+                "description": "Built the official company website of Callify.ai using React, Node.js and MySql.",
+                "title": "Callify.ai",
+                "url": "https://www.callify.ai"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Kalyanmoy",
+                            "lastName": "Borah",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAC3w0UgB3xo2m97kbEUawgvcbz4znRoKEpk",
+                            "occupation": "React | React-Native | Node.js | MySql | MongoDB | PostgreSQL | Firebase | Angular | D3.js | AWS | UI/UX Design",
+                            "objectUrn": "urn:li:member:770756936",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAC3w0UgB3xo2m97kbEUawgvcbz4znRoKEpk",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1587895034524?e=1657756800&v=beta&t=APAQlZxNtCzTzW1V8qbJ7ODvAxj9bK965bxQSSP-j8E",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1587895034524?e=1657756800&v=beta&t=Vb2NxhNBxYGpNHFAjGjMbGkSeDsU8jckRzsR-QTLNFs",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5616AQED96zM9yTCSQ/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "kalyanmoyborah",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1616059459278?e=1657756800&v=beta&t=V7RswcZkNpp3zKjuMYXUMhC_GCJehB6eH8z1UIcvWW4",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1616059459278?e=1657756800&v=beta&t=qARLA7OkvdFH7b5Ou3m3dYmKqEYbhMPQU-E0qolAGjE",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1616059459278?e=1657756800&v=beta&t=67BiFjoTJNtdVhuud2YzqRXnv3wG9hPJrcPXTzX2_co",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1616059459278?e=1657756800&v=beta&t=hxHiJPzlFci87Orbkol7g9IyTQ2DdE9VYdKVqKjqmN8",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQFKIVVXfZ1pFQ/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "7WmDbEgWRpuvTtg+S/fIFQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAC3w0UgB3xo2m97kbEUawgvcbz4znRoKEpk,901561932,292497469)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAC3w0UgB3xo2m97kbEUawgvcbz4znRoKEpk"
+                    }
+                ],
+                "description": "Worked on the Control Panel for India's first Robotic Museum, which is being constructed in Ahmedabad, Gujarat. Used Angular for the dashboard and Node.js+Express.js for the RestFul API. The website is hosted on the local server of the museum and is used to connect and control all the robots and exhibits of the museum.",
+                "title": "Control Panel for Robot Museum, Gujarat Science City"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Kalyanmoy",
+                            "lastName": "Borah",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAC3w0UgB3xo2m97kbEUawgvcbz4znRoKEpk",
+                            "occupation": "React | React-Native | Node.js | MySql | MongoDB | PostgreSQL | Firebase | Angular | D3.js | AWS | UI/UX Design",
+                            "objectUrn": "urn:li:member:770756936",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAC3w0UgB3xo2m97kbEUawgvcbz4znRoKEpk",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1587895034524?e=1657756800&v=beta&t=APAQlZxNtCzTzW1V8qbJ7ODvAxj9bK965bxQSSP-j8E",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1587895034524?e=1657756800&v=beta&t=Vb2NxhNBxYGpNHFAjGjMbGkSeDsU8jckRzsR-QTLNFs",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5616AQED96zM9yTCSQ/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "kalyanmoyborah",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1616059459278?e=1657756800&v=beta&t=V7RswcZkNpp3zKjuMYXUMhC_GCJehB6eH8z1UIcvWW4",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1616059459278?e=1657756800&v=beta&t=qARLA7OkvdFH7b5Ou3m3dYmKqEYbhMPQU-E0qolAGjE",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1616059459278?e=1657756800&v=beta&t=67BiFjoTJNtdVhuud2YzqRXnv3wG9hPJrcPXTzX2_co",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1616059459278?e=1657756800&v=beta&t=hxHiJPzlFci87Orbkol7g9IyTQ2DdE9VYdKVqKjqmN8",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQFKIVVXfZ1pFQ/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "7WmDbEgWRpuvTtg+S/fIFQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAC3w0UgB3xo2m97kbEUawgvcbz4znRoKEpk,225633414,298082828)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAC3w0UgB3xo2m97kbEUawgvcbz4znRoKEpk"
+                    }
+                ],
+                "description": "Built the e-commerce site for Grace medical solutions for buying and selling medical goods with Angular, Node.js and MySql. Integrated Paytm payment gateway in the portal.",
+                "title": "Ecommerce website for Grace Medical Solutions",
+                "url": "https://grace-user-ui.netlify.app/#/"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Kalyanmoy",
+                            "lastName": "Borah",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAC3w0UgB3xo2m97kbEUawgvcbz4znRoKEpk",
+                            "occupation": "React | React-Native | Node.js | MySql | MongoDB | PostgreSQL | Firebase | Angular | D3.js | AWS | UI/UX Design",
+                            "objectUrn": "urn:li:member:770756936",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAC3w0UgB3xo2m97kbEUawgvcbz4znRoKEpk",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1587895034524?e=1657756800&v=beta&t=APAQlZxNtCzTzW1V8qbJ7ODvAxj9bK965bxQSSP-j8E",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1587895034524?e=1657756800&v=beta&t=Vb2NxhNBxYGpNHFAjGjMbGkSeDsU8jckRzsR-QTLNFs",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5616AQED96zM9yTCSQ/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "kalyanmoyborah",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1616059459278?e=1657756800&v=beta&t=V7RswcZkNpp3zKjuMYXUMhC_GCJehB6eH8z1UIcvWW4",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1616059459278?e=1657756800&v=beta&t=qARLA7OkvdFH7b5Ou3m3dYmKqEYbhMPQU-E0qolAGjE",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1616059459278?e=1657756800&v=beta&t=67BiFjoTJNtdVhuud2YzqRXnv3wG9hPJrcPXTzX2_co",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1616059459278?e=1657756800&v=beta&t=hxHiJPzlFci87Orbkol7g9IyTQ2DdE9VYdKVqKjqmN8",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQFKIVVXfZ1pFQ/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "7WmDbEgWRpuvTtg+S/fIFQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAC3w0UgB3xo2m97kbEUawgvcbz4znRoKEpk,901638157,265000696)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAC3w0UgB3xo2m97kbEUawgvcbz4znRoKEpk"
+                    }
+                ],
+                "description": "Built the mobile app for India's first Robotic Museum, Ahmedabad. Streaming of videos related to the exhibits of the museum was enabled along with all the details of the Robots. The app is built in React-Native with Expo. ",
+                "title": "Mobile App for Robot Museum"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Kalyanmoy",
+                            "lastName": "Borah",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAC3w0UgB3xo2m97kbEUawgvcbz4znRoKEpk",
+                            "occupation": "React | React-Native | Node.js | MySql | MongoDB | PostgreSQL | Firebase | Angular | D3.js | AWS | UI/UX Design",
+                            "objectUrn": "urn:li:member:770756936",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAC3w0UgB3xo2m97kbEUawgvcbz4znRoKEpk",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1587895034524?e=1657756800&v=beta&t=APAQlZxNtCzTzW1V8qbJ7ODvAxj9bK965bxQSSP-j8E",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1587895034524?e=1657756800&v=beta&t=Vb2NxhNBxYGpNHFAjGjMbGkSeDsU8jckRzsR-QTLNFs",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5616AQED96zM9yTCSQ/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "kalyanmoyborah",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1616059459278?e=1657756800&v=beta&t=V7RswcZkNpp3zKjuMYXUMhC_GCJehB6eH8z1UIcvWW4",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1616059459278?e=1657756800&v=beta&t=qARLA7OkvdFH7b5Ou3m3dYmKqEYbhMPQU-E0qolAGjE",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1616059459278?e=1657756800&v=beta&t=67BiFjoTJNtdVhuud2YzqRXnv3wG9hPJrcPXTzX2_co",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1616059459278?e=1657756800&v=beta&t=hxHiJPzlFci87Orbkol7g9IyTQ2DdE9VYdKVqKjqmN8",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQFKIVVXfZ1pFQ/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "7WmDbEgWRpuvTtg+S/fIFQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAC3w0UgB3xo2m97kbEUawgvcbz4znRoKEpk,907528757,274999839)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAC3w0UgB3xo2m97kbEUawgvcbz4znRoKEpk"
+                    }
+                ],
+                "description": "My own portfolio website made with React and Node+Express, where I introduce myself and my skills to the world and show the works I have accomplished. Work in progress.",
+                "title": "My Portfolio Website",
+                "url": "http://www.kalyanmoyborah.com"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Kalyanmoy",
+                            "lastName": "Borah",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAC3w0UgB3xo2m97kbEUawgvcbz4znRoKEpk",
+                            "occupation": "React | React-Native | Node.js | MySql | MongoDB | PostgreSQL | Firebase | Angular | D3.js | AWS | UI/UX Design",
+                            "objectUrn": "urn:li:member:770756936",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAC3w0UgB3xo2m97kbEUawgvcbz4znRoKEpk",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1587895034524?e=1657756800&v=beta&t=APAQlZxNtCzTzW1V8qbJ7ODvAxj9bK965bxQSSP-j8E",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1587895034524?e=1657756800&v=beta&t=Vb2NxhNBxYGpNHFAjGjMbGkSeDsU8jckRzsR-QTLNFs",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5616AQED96zM9yTCSQ/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "kalyanmoyborah",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1616059459278?e=1657756800&v=beta&t=V7RswcZkNpp3zKjuMYXUMhC_GCJehB6eH8z1UIcvWW4",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1616059459278?e=1657756800&v=beta&t=qARLA7OkvdFH7b5Ou3m3dYmKqEYbhMPQU-E0qolAGjE",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1616059459278?e=1657756800&v=beta&t=67BiFjoTJNtdVhuud2YzqRXnv3wG9hPJrcPXTzX2_co",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1616059459278?e=1657756800&v=beta&t=hxHiJPzlFci87Orbkol7g9IyTQ2DdE9VYdKVqKjqmN8",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQFKIVVXfZ1pFQ/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "7WmDbEgWRpuvTtg+S/fIFQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAC3w0UgB3xo2m97kbEUawgvcbz4znRoKEpk,1053872416,316784889)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAC3w0UgB3xo2m97kbEUawgvcbz4znRoKEpk"
+                    }
+                ],
+                "description": "worked on the frontend of the data driven saas product. Tools used : React, Redux, React-flow.",
+                "title": "Synctactic.ai",
+                "url": "http://dash.synctactic.ai"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Kalyanmoy",
+                            "lastName": "Borah",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAC3w0UgB3xo2m97kbEUawgvcbz4znRoKEpk",
+                            "occupation": "React | React-Native | Node.js | MySql | MongoDB | PostgreSQL | Firebase | Angular | D3.js | AWS | UI/UX Design",
+                            "objectUrn": "urn:li:member:770756936",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAC3w0UgB3xo2m97kbEUawgvcbz4znRoKEpk",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1587895034524?e=1657756800&v=beta&t=APAQlZxNtCzTzW1V8qbJ7ODvAxj9bK965bxQSSP-j8E",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1587895034524?e=1657756800&v=beta&t=Vb2NxhNBxYGpNHFAjGjMbGkSeDsU8jckRzsR-QTLNFs",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5616AQED96zM9yTCSQ/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "kalyanmoyborah",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1616059459278?e=1657756800&v=beta&t=V7RswcZkNpp3zKjuMYXUMhC_GCJehB6eH8z1UIcvWW4",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1616059459278?e=1657756800&v=beta&t=qARLA7OkvdFH7b5Ou3m3dYmKqEYbhMPQU-E0qolAGjE",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1616059459278?e=1657756800&v=beta&t=67BiFjoTJNtdVhuud2YzqRXnv3wG9hPJrcPXTzX2_co",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1616059459278?e=1657756800&v=beta&t=hxHiJPzlFci87Orbkol7g9IyTQ2DdE9VYdKVqKjqmN8",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQFKIVVXfZ1pFQ/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "7WmDbEgWRpuvTtg+S/fIFQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAC3w0UgB3xo2m97kbEUawgvcbz4znRoKEpk,1595239793,296885641)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAC3w0UgB3xo2m97kbEUawgvcbz4znRoKEpk"
+                    }
+                ],
+                "description": "Built part of the front end in the web portal where custom surveys can be created and collected responses are displayed using graphs.",
+                "title": "Track Your Metrics",
+                "url": "https://appv2.trackyourmetrics.com"
+            }
+        ]
+    },
+    "contact_info": {
+        "email_address": null,
+        "websites": [
+            {
+                "url": "www.kalyanmoyborah.com",
+                "label": "PORTFOLIO"
+            }
+        ],
+        "twitter": [],
+        "birthdate": {
+            "month": 1,
+            "day": 24
+        },
+        "ims": null,
+        "phone_numbers": []
+    },
+    "connections": [
+        {
+            "urn_id": "ACoAAByhqogBLFVDJbqojrVMhtKfC3o3hRfEcjg",
+            "distance": "DISTANCE_1",
+            "public_id": "biki-talukdar-460a54114",
+            "tracking_id": "480357000"
+        },
+        {
+            "urn_id": "ACoAABr4jt0BoOUmisITdRo1gR4CumG5I4jjZIw",
+            "distance": "DISTANCE_1",
+            "public_id": "samudra-deka-911659107",
+            "tracking_id": "452497117"
+        },
+        {
+            "urn_id": "ACoAADZmR9QB1zOH_PmrzQQw2wQmTJRTcNGU7CE",
+            "distance": "DISTANCE_1",
+            "public_id": "bkalita",
+            "tracking_id": "912672724"
+        },
+        {
+            "urn_id": "ACoAADLJzxsBizdB0nN5NZBCM41Q-z6-7ef5gyI",
+            "distance": "DISTANCE_1",
+            "public_id": "deepjyoti-kalita-78b4411b9",
+            "tracking_id": "852086555"
+        },
+        {
+            "urn_id": "ACoAADe3CFYBsoFdtSEajXbg51HDagdpBEb3kx4",
+            "distance": "DISTANCE_1",
+            "public_id": "binud-panging-872062221",
+            "tracking_id": "934742102"
+        },
+        {
+            "urn_id": "ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE",
+            "distance": "DISTANCE_1",
+            "public_id": "prithoo11335",
+            "tracking_id": "231212168"
+        },
+        {
+            "urn_id": "ACoAACr0GSwBcmPDh22HqivG9h0JwG-eahXSYW8",
+            "distance": "DISTANCE_1",
+            "public_id": "nihar-kashyap98",
+            "tracking_id": "720640300"
+        },
+        {
+            "urn_id": "ACoAACeXhGEBEVCUXmKi5rowUSeFZNerPjvzQsc",
+            "distance": "DISTANCE_1",
+            "public_id": "mahbubul-haque-a55552166",
+            "tracking_id": "664241249"
+        },
+        {
+            "urn_id": "ACoAACbTg-gBtT_YqZc-FG2lIVBv13QTx8UUB8E",
+            "distance": "DISTANCE_1",
+            "public_id": "mridul24",
+            "tracking_id": "651396072"
+        },
+        {
+            "urn_id": "ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY",
+            "distance": "DISTANCE_1",
+            "public_id": "tridip-das-b5837911b",
+            "tracking_id": "499568180"
+        },
+        {
+            "urn_id": "ACoAAAI9wXoBijRhLoxf7BO8UTK0DX-7KexJV30",
+            "distance": "DISTANCE_1",
+            "public_id": "boren-ghosh-27671410",
+            "tracking_id": "37601658"
+        },
+        {
+            "urn_id": "ACoAACZxhUQBl1V8kpLj4ACrE2LzpatGvVzEgSA",
+            "distance": "DISTANCE_1",
+            "public_id": "nabajyoti-borah-944000160",
+            "tracking_id": "644973892"
+        },
+        {
+            "urn_id": "ACoAABYq8T8ByHFGBUFRrHT5iKBI2u4YZjTLHFc",
+            "distance": "DISTANCE_1",
+            "public_id": "netranjit-borgohain-53b677a4",
+            "tracking_id": "371913023"
+        },
+        {
+            "urn_id": "ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8",
+            "distance": "DISTANCE_1",
+            "public_id": "sivaranjan-goswami-790b4523",
+            "tracking_id": "83451420"
+        },
+        {
+            "urn_id": "ACoAACTFIIYB1cK_syRcCXEc0o8RTm4JMlhYcHA",
+            "distance": "DISTANCE_1",
+            "public_id": "arun-kumar-nath-686721152",
+            "tracking_id": "616898694"
+        },
+        {
+            "urn_id": "ACoAAC4efLABFBv0f30-SDGDgLSf1gXTlkpJTfc",
+            "distance": "DISTANCE_1",
+            "public_id": "shawan-mandal",
+            "tracking_id": "773749936"
+        },
+        {
+            "urn_id": "ACoAACDVs-sB_IgxPBMHMRBfR6is3jmwwV_OvTE",
+            "distance": "DISTANCE_1",
+            "public_id": "swapnil-bhattacharjee-ghy",
+            "tracking_id": "550876139"
+        },
+        {
+            "urn_id": "ACoAACYmrvgBRdvWxItbY_KP_fyrEgZ9U-QKJqk",
+            "distance": "DISTANCE_1",
+            "public_id": "rtsu",
+            "tracking_id": "640069368"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Full-Stack Development"
+        },
+        {
+            "name": "Web Development"
+        },
+        {
+            "name": "Mobile Application Development"
+        },
+        {
+            "name": "Web Design"
+        },
+        {
+            "name": "User Interface Design"
+        },
+        {
+            "name": "User Experience Design (UED)"
+        },
+        {
+            "name": "Mobile Applications"
+        },
+        {
+            "name": "HTML"
+        },
+        {
+            "name": "css"
+        },
+        {
+            "name": "JavaScript"
+        },
+        {
+            "name": "Python (Programming Language)"
+        },
+        {
+            "name": "React.js"
+        },
+        {
+            "name": "React Native"
+        },
+        {
+            "name": "AngularJS"
+        },
+        {
+            "name": "MongoDB"
+        },
+        {
+            "name": "MySQL"
+        },
+        {
+            "name": "Node.js"
+        },
+        {
+            "name": "D3.js"
+        },
+        {
+            "name": "Angular Material"
+        },
+        {
+            "name": "Material-UI"
+        },
+        {
+            "name": "jQuery"
+        },
+        {
+            "name": "Bootstrap"
+        },
+        {
+            "name": "REST API"
+        },
+        {
+            "name": "Adobe XD"
+        },
+        {
+            "name": "Figma (Software)"
+        },
+        {
+            "name": "Strapi"
+        },
+        {
+            "name": "SQL"
+        },
+        {
+            "name": "NoSQL"
+        },
+        {
+            "name": "Representational State Transfer (REST)"
+        },
+        {
+            "name": "Amazon Web Services (AWS)"
+        },
+        {
+            "name": "Express.js"
+        },
+        {
+            "name": "TypeScript"
+        },
+        {
+            "name": "Socket.io"
+        },
+        {
+            "name": "expo"
+        },
+        {
+            "name": "Back-End Web Development"
+        },
+        {
+            "name": "Application Programming Interfaces"
+        },
+        {
+            "name": "Graphical User Interface (GUI)"
+        },
+        {
+            "name": "DevOps"
+        },
+        {
+            "name": "PostgreSQL"
+        },
+        {
+            "name": "Firebase"
+        }
+    ]
+}

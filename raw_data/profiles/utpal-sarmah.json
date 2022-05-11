@@ -1,0 +1,356 @@
+{
+    "profile": {
+        "summary": "Software technologist with experience spanning product engineering, enterprise architecture, technology consulting and people management.\n- As an applied consultant & systems architect, he has extensive experience in concept productization, helping startups from product ideation to product delivery to accomplish their vision.    \n- Strong experience in diverse technologies like Cloud, Web and Mobility,Devops and Data Analytics\n- Driven product development from concept to delivery \u2013 strategizing and creating product plans, technology research and roadmap, architecture definition and delivery management\n- Hands-on involvement in guiding development team in implementation, reviews of deliverables for adherence to architectural and design principles, best practices and compliances.\n- Experienced in Agile methodology for product development and working with globally distributed technology teams\n- Cross-domain experience in Healthcare, Retail, Education, Government, Hospitality and Transportation",
+        "industryName": "IT Services and IT Consulting",
+        "lastName": "Sarmah",
+        "locationName": "India",
+        "student": false,
+        "geoCountryName": "India",
+        "geoCountryUrn": "urn:li:fs_geo:102713980",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "industryUrn": "urn:li:fs_industry:96",
+        "firstName": "Utpal",
+        "entityUrn": "urn:li:fs_profile:ACoAABHea9QBRdo1nnhrvN_YUDnelIUbJ5wqpLI",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:105898704"
+        },
+        "geoLocationName": "Mumbai, Maharashtra",
+        "location": {
+            "basicLocation": {
+                "countryCode": "in"
+            }
+        },
+        "headline": "CTO at TechVariable || Rapid Application Development for startups",
+        "displayPictureUrl": "https://media-exp1.licdn.com/dms/image/C5103AQECwxZWuhinbw/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/0/1554789710442?e=1657756800&v=beta&t=bFeFy-kG-HBJhLuYn8BVUpd9qH-geymxcMqAzqWwoZY",
+        "img_200_200": "200_200/0/1554789710442?e=1657756800&v=beta&t=B3kjHIRh7OwDY4ZV84Evp3fRFpipTl5ILmEMamJpDx8",
+        "img_400_400": "400_400/0/1554789710442?e=1657756800&v=beta&t=ZTHNRtJd2uCz0U-iwSFMudhSbcokXMSw1qgyGqzmVm4",
+        "img_800_800": "800_800/0/1554789710442?e=1657756800&v=beta&t=smA5YmUEyn9qTkM1vc9nlw-iJHAmaKWZp7WgZGV5keI",
+        "profile_id": "ACoAABHea9QBRdo1nnhrvN_YUDnelIUbJ5wqpLI",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAABHea9QBRdo1nnhrvN_YUDnelIUbJ5wqpLI",
+        "member_urn": "urn:li:member:299789268",
+        "experience": [
+            {
+                "locationName": "Guwahati Area, India",
+                "projects": [
+                    "urn:li:fs_project:(ACoAABHea9QBRdo1nnhrvN_YUDnelIUbJ5wqpLI,416622173)"
+                ],
+                "geoUrn": "urn:li:fs_geo:104535556",
+                "companyName": "TechVariable",
+                "description": "TechVariable is a Digital Transformation company, whose core services including rapid application development for startups who are looking to get their MVPs released in the market faster.\n\nWe have a team that has garnered experience over its 5+ years of journey in developing end to end products for our clients in multiple domains. We start off the development cycle by working on the scope for an MVP so that a market-fit product can be delivered within the initially assigned budget and timeline. Once the MVP is released in the market and user feedbacks received, our product engineering team makes sure that we deliver the best possible sequences of releases throughout the product lifecycle. Right from seeding to feeding, we make sure that we remain the development partners for our clients and not just another software development vendor.\n",
+                "title": "Co-Founder",
+                "companyUrn": "urn:li:fs_miniCompany:10632640",
+                "entityUrn": "urn:li:fs_position:(ACoAABHea9QBRdo1nnhrvN_YUDnelIUbJ5wqpLI,768770196)",
+                "geoLocationName": "Guwahati Area, India",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 2,
+                        "year": 2016
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "region": "urn:li:fs_region:(in,7248)",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQE6IzKHUZQmAA/company-logo_"
+            },
+            {
+                "locationName": "Mumbai Area, India",
+                "geoUrn": "urn:li:fs_geo:90009639",
+                "companyName": "Tata Consultancy Services",
+                "description": "Customized Product Lifecycle Management (PLM) applications to provide global access of design files to manufacturers worldwide.\n\nIntegrated various interfaces with PLM applications to minimize the cycle time. \n\nAutomated various internal business processes by innovative solutions, such as an end-to-end automation tool to replicate the data from Production to Test environment and thereby reducing efforts upto 50%.",
+                "title": "System Engineer",
+                "companyUrn": "urn:li:fs_miniCompany:1353",
+                "honors": [
+                    "urn:li:fs_honor:(ACoAABHea9QBRdo1nnhrvN_YUDnelIUbJ5wqpLI,2122422441)"
+                ],
+                "entityUrn": "urn:li:fs_position:(ACoAABHea9QBRdo1nnhrvN_YUDnelIUbJ5wqpLI,474586434)",
+                "geoLocationName": "Mumbai Area, India",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 2,
+                        "year": 2016
+                    },
+                    "startDate": {
+                        "month": 3,
+                        "year": 2013
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "region": "urn:li:fs_region:(in,7150)",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQEMvQ8E6gXSPA/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAABHea9QBRdo1nnhrvN_YUDnelIUbJ5wqpLI,233936551)",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2012
+                    },
+                    "startDate": {
+                        "year": 2008
+                    }
+                },
+                "degreeName": "Bachelor of Engineering (BE)",
+                "schoolName": "Assam Engineering College"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAABHea9QBRdo1nnhrvN_YUDnelIUbJ5wqpLI,192597847)",
+                "schoolName": "Jorhat Govt. Boys' School"
+            }
+        ],
+        "languages": [
+            {
+                "name": "Assamese",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "English",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "Hindi",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ],
+        "publications": [],
+        "certifications": [],
+        "volunteer": [],
+        "honors": [
+            {
+                "description": "Awarded \"Technical Excellence\" for complex project execution. ",
+                "occupation": "urn:li:fs_position:(ACoAABHea9QBRdo1nnhrvN_YUDnelIUbJ5wqpLI,474586434)",
+                "title": "Technical Excellence",
+                "issueDate": {
+                    "month": 10,
+                    "year": 2015
+                },
+                "issuer": "Tata consultance services"
+            }
+        ],
+        "projects": [
+            {
+                "occupation": "urn:li:fs_position:(ACoAABHea9QBRdo1nnhrvN_YUDnelIUbJ5wqpLI,768770196)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Utpal",
+                            "lastName": "Sarmah",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABHea9QBRdo1nnhrvN_YUDnelIUbJ5wqpLI",
+                            "occupation": "CTO at TechVariable || Rapid Application Development for startups",
+                            "objectUrn": "urn:li:member:299789268",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABHea9QBRdo1nnhrvN_YUDnelIUbJ5wqpLI",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1612524262520?e=1657756800&v=beta&t=s4SRrH-v97Jf5socFkzfCwCxysp-DD3slJQYoau30rQ",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1612524262520?e=1657756800&v=beta&t=X4-cDKZfLgE89icvwRFLYF-M-QJoza-xXV-BLafz5Bk",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E16AQGZFWs-czdktw/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "utpal-sarmah",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1554789710442?e=1657756800&v=beta&t=bFeFy-kG-HBJhLuYn8BVUpd9qH-geymxcMqAzqWwoZY",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1554789710442?e=1657756800&v=beta&t=B3kjHIRh7OwDY4ZV84Evp3fRFpipTl5ILmEMamJpDx8",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1554789710442?e=1657756800&v=beta&t=ZTHNRtJd2uCz0U-iwSFMudhSbcokXMSw1qgyGqzmVm4",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1554789710442?e=1657756800&v=beta&t=smA5YmUEyn9qTkM1vc9nlw-iJHAmaKWZp7WgZGV5keI",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5103AQECwxZWuhinbw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "iQhQS736TS2gJ8WFy/84TQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABHea9QBRdo1nnhrvN_YUDnelIUbJ5wqpLI,416622173,167215868)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABHea9QBRdo1nnhrvN_YUDnelIUbJ5wqpLI"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 1,
+                        "year": 2017
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2017
+                    }
+                },
+                "description": "Network Travels is the largest private bus fleet operator in Assam and North East India established in the year 1992. The first Government-recognized tour operator in North East India, the company was incorporated to provide connectivity by road to important destinations within the region and is currently the largest operator in this segment.\n\nProblems:\nInconvenience: Customers\u2019 needs to visit bus counters for booking tickets, costing them both money and time.\nUnsystematic: Since tickets are booked manually over the phone, errors are inevitable like multiple booking of the same seat.\nLoss: Less number of officially booked tickets resulted in customer\u2019s loss and roadside pickups of passengers by drivers and conductors led to the loss of authorized agents and negative branding of the company.\nExtended staff: Ticket booking agent\u2019s commission had to be calculated manually and commission had to be sent through cheque or bank deposits. This required additional manpower which is a burden to the company.\n\nSolution:\nDevelop a Web portal and mobile application so that general public as well as personnel from various Network Travels Head office, bus counters across North East can book tickets online. The application is a one-stop solution with a secure facility to make online payments and book tickets for the desired destination. The administrator of the portal is to manage transactions of the users of the website. Admin can update or modify some parts of the application through the admin panel provided and also add info of newer solution heads or additions to existing ones and also update any new services that Network Travels like to extend to the customers. The admin cannot modify any order and can neither alter nor change any part of the order. Admin can of course set discounts or offers for the customers for any given route, for promoting the app and to increase sales.",
+                "title": "Network Travels online"
+            }
+        ]
+    },
+    "contact_info": {
+        "email_address": null,
+        "websites": [],
+        "twitter": [],
+        "birthdate": null,
+        "ims": null,
+        "phone_numbers": []
+    },
+    "connections": [
+        {
+            "urn_id": "ACoAABr4jt0BoOUmisITdRo1gR4CumG5I4jjZIw",
+            "distance": "DISTANCE_1",
+            "public_id": "samudra-deka-911659107",
+            "tracking_id": "452497117"
+        },
+        {
+            "urn_id": "ACoAADZmR9QB1zOH_PmrzQQw2wQmTJRTcNGU7CE",
+            "distance": "DISTANCE_1",
+            "public_id": "bkalita",
+            "tracking_id": "912672724"
+        },
+        {
+            "urn_id": "ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE",
+            "distance": "DISTANCE_1",
+            "public_id": "prithoo11335",
+            "tracking_id": "231212168"
+        },
+        {
+            "urn_id": "ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY",
+            "distance": "DISTANCE_1",
+            "public_id": "tridip-das-b5837911b",
+            "tracking_id": "499568180"
+        },
+        {
+            "urn_id": "ACoAACZxhUQBl1V8kpLj4ACrE2LzpatGvVzEgSA",
+            "distance": "DISTANCE_1",
+            "public_id": "nabajyoti-borah-944000160",
+            "tracking_id": "644973892"
+        },
+        {
+            "urn_id": "ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8",
+            "distance": "DISTANCE_1",
+            "public_id": "sivaranjan-goswami-790b4523",
+            "tracking_id": "83451420"
+        },
+        {
+            "urn_id": "ACoAACDVs-sB_IgxPBMHMRBfR6is3jmwwV_OvTE",
+            "distance": "DISTANCE_1",
+            "public_id": "swapnil-bhattacharjee-ghy",
+            "tracking_id": "550876139"
+        }
+    ],
+    "skills": [
+        {
+            "name": "DevOps"
+        },
+        {
+            "name": "Continuous Integration and Continuous Delivery (CI/CD)"
+        },
+        {
+            "name": "Node.js"
+        },
+        {
+            "name": "Requirements Analysis"
+        },
+        {
+            "name": "Product Lifecycle Management"
+        },
+        {
+            "name": "Object Oriented Design"
+        },
+        {
+            "name": "Lean Six Sigma"
+        },
+        {
+            "name": "Programming"
+        },
+        {
+            "name": "Testing"
+        },
+        {
+            "name": "Pre-sales"
+        },
+        {
+            "name": "Maven"
+        },
+        {
+            "name": "SQL"
+        },
+        {
+            "name": "Java Enterprise Edition"
+        },
+        {
+            "name": "JSP"
+        },
+        {
+            "name": "Core Java"
+        },
+        {
+            "name": "Bootstrap"
+        },
+        {
+            "name": "Linux"
+        },
+        {
+            "name": "Java"
+        },
+        {
+            "name": "JavaServer Pages (JSP)"
+        },
+        {
+            "name": "HTML"
+        },
+        {
+            "name": "Cloud Applications"
+        },
+        {
+            "name": "API Development"
+        },
+        {
+            "name": "enovia matrixone"
+        },
+        {
+            "name": "MQL"
+        }
+    ]
+}

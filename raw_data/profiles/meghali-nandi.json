@@ -1,0 +1,1208 @@
+{
+    "profile": {
+        "summary": "Meghali is a software engineer with 2 years of experience credited with a strong ability to solve problems with optimal solutions. She has knowledge of SDLC and believes in being a team player. \n\nShe considers herself as a working and proactive person with a professional and humanistic approach to problem-solving. \n\nHer areas of expertise are in the field of Data Structures, Algorithms, and Planning before coding.\n\nHer favorite programming languages are  Java, Python and Javascript.",
+        "industryName": "IT Services and IT Consulting",
+        "lastName": "Nandi",
+        "locationName": "India",
+        "student": false,
+        "geoCountryName": "India",
+        "geoCountryUrn": "urn:li:fs_geo:102713980",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "birthDate": {
+            "month": 12,
+            "day": 1
+        },
+        "industryUrn": "urn:li:fs_industry:96",
+        "firstName": "Meghali",
+        "entityUrn": "urn:li:fs_profile:ACoAAB0xm6cBFLe4DKL6GDNXVcoFOz05oX29PuA",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:105607401"
+        },
+        "geoLocationName": "Guwahati, Assam",
+        "location": {
+            "basicLocation": {
+                "countryCode": "in"
+            }
+        },
+        "headline": "Software Engineer at Alation | Ex-Zalonian | MEAN Stack | Deep Learning | Hadoop",
+        "displayPictureUrl": "https://media-exp1.licdn.com/dms/image/C5103AQH9LqwuyxVU9Q/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/0/1538327112099?e=1657756800&v=beta&t=grZ7mFsON2iEAtREkaJC-lVtx_dWedSWx6ODADw9UWs",
+        "img_200_200": "200_200/0/1538327112099?e=1657756800&v=beta&t=jSj-xco0CPm1PKnpWcZNncgVU8xMJ2fANZzyrzQ8VhE",
+        "img_400_400": "400_400/0/1538327112099?e=1657756800&v=beta&t=9H8ydj5YfJLKO2jj0WLFb32mQheLArT_AJhzrnn6kFU",
+        "img_800_800": "800_800/0/1538327112099?e=1657756800&v=beta&t=PbuTmcaXcg66nR07T7p5Fn_WkP8IUAmFVFWIlHOgp3s",
+        "profile_id": "ACoAAB0xm6cBFLe4DKL6GDNXVcoFOz05oX29PuA",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAAB0xm6cBFLe4DKL6GDNXVcoFOz05oX29PuA",
+        "member_urn": "urn:li:member:489790375",
+        "experience": [
+            {
+                "locationName": "Bengaluru, Karnataka, India",
+                "entityUrn": "urn:li:fs_position:(ACoAAB0xm6cBFLe4DKL6GDNXVcoFOz05oX29PuA,1926042382)",
+                "geoLocationName": "Bengaluru, Karnataka, India",
+                "geoUrn": "urn:li:fs_geo:105214831",
+                "companyName": "Alation",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 1,
+                        "year": 2022
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 501,
+                        "end": 1000
+                    },
+                    "industries": [
+                        "Computer Software"
+                    ]
+                },
+                "title": "Software Engineer",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:3231829",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C560BAQH7g8MTOR5ahQ/company-logo_"
+            },
+            {
+                "locationName": "Guwahati Area, India",
+                "entityUrn": "urn:li:fs_position:(ACoAAB0xm6cBFLe4DKL6GDNXVcoFOz05oX29PuA,1499216777)",
+                "geoLocationName": "Guwahati Area, India",
+                "companyName": "Zaloni",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 1,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2019
+                    }
+                },
+                "description": "Developed automation scripts using Python, MySQL and Google AppScript for automating rosters and collecting client usage metrics.\n\nIncreased scope of bug fixes on the frequently used product features by 76%.\n\nETL implementation based on client use-cases.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 51,
+                        "end": 200
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Software Engineer",
+                "companyUrn": "urn:li:fs_miniCompany:859448",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C560BAQG24b_9aFPlDg/company-logo_"
+            },
+            {
+                "locationName": "Guwahati Area, India",
+                "entityUrn": "urn:li:fs_position:(ACoAAB0xm6cBFLe4DKL6GDNXVcoFOz05oX29PuA,1366802955)",
+                "geoLocationName": "Guwahati Area, India",
+                "companyName": "Indian Institute of Information Technology Guwahati",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 7,
+                        "year": 2018
+                    },
+                    "startDate": {
+                        "month": 6,
+                        "year": 2018
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 51,
+                        "end": 200
+                    },
+                    "industries": [
+                        "Research"
+                    ]
+                },
+                "title": "Blockchain intern",
+                "companyUrn": "urn:li:fs_miniCompany:7448443",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQGQCs8GbdiMGg/company-logo_"
+            },
+            {
+                "courses": [
+                    "urn:li:fs_course:(ACoAAB0xm6cBFLe4DKL6GDNXVcoFOz05oX29PuA,1180233256)"
+                ],
+                "locationName": "Guw\u0101h\u0101ti Area, India",
+                "entityUrn": "urn:li:fs_position:(ACoAAB0xm6cBFLe4DKL6GDNXVcoFOz05oX29PuA,1194351553)",
+                "geoLocationName": "Guw\u0101h\u0101ti Area, India",
+                "companyName": "Indian Institute of Technology, Guwahati",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2018
+                    },
+                    "startDate": {
+                        "month": 10,
+                        "year": 2017
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 501,
+                        "end": 1000
+                    },
+                    "industries": [
+                        "Higher Education"
+                    ]
+                },
+                "title": "Research Intern",
+                "companyUrn": "urn:li:fs_miniCompany:157270",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQFsVma02aZ5dg/company-logo_"
+            },
+            {
+                "locationName": "Guw\u0101h\u0101ti Area, India",
+                "entityUrn": "urn:li:fs_position:(ACoAAB0xm6cBFLe4DKL6GDNXVcoFOz05oX29PuA,1194353104)",
+                "geoLocationName": "Guw\u0101h\u0101ti Area, India",
+                "companyName": "TechVariable",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 1,
+                        "year": 2018
+                    },
+                    "startDate": {
+                        "month": 12,
+                        "year": 2017
+                    }
+                },
+                "description": "Working on Block Chains",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Intern",
+                "companyUrn": "urn:li:fs_miniCompany:10632640",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQE6IzKHUZQmAA/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAB0xm6cBFLe4DKL6GDNXVcoFOz05oX29PuA,743904574)",
+                "school": {
+                    "objectUrn": "urn:li:school:189077",
+                    "entityUrn": "urn:li:fs_miniSchool:189077",
+                    "active": true,
+                    "schoolName": "Indian Institute of Information Technology Guwahati",
+                    "trackingId": "hWXgqq3VTLuOtTx1bODByw==",
+                    "logoUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQGQCs8GbdiMGg/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "month": 8,
+                        "year": 2023
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2021
+                    }
+                },
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100175",
+                "degreeName": "M.Tech",
+                "schoolName": "Indian Institute of Information Technology Guwahati",
+                "fieldOfStudy": "Artificial Intelligence",
+                "schoolUrn": "urn:li:fs_miniSchool:189077"
+            },
+            {
+                "projects": [
+                    "urn:li:fs_project:(ACoAAB0xm6cBFLe4DKL6GDNXVcoFOz05oX29PuA,1181301188)"
+                ],
+                "entityUrn": "urn:li:fs_education:(ACoAAB0xm6cBFLe4DKL6GDNXVcoFOz05oX29PuA,489269355)",
+                "school": {
+                    "objectUrn": "urn:li:school:199762",
+                    "entityUrn": "urn:li:fs_miniSchool:199762",
+                    "active": true,
+                    "schoolName": "Assam Engineering College",
+                    "trackingId": "N2TP+cLDTteOYl8G0C46Pg=="
+                },
+                "activities": "AEC Coding Club, Artists Club",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "year": 2015
+                    }
+                },
+                "description": "Graduated",
+                "degreeName": "Bachelor of Engineering - BE",
+                "schoolName": "Assam Engineering College",
+                "fieldOfStudy": "Computer Science and Engineering",
+                "degreeUrn": "urn:li:fs_degree:269",
+                "schoolUrn": "urn:li:fs_miniSchool:199762"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAB0xm6cBFLe4DKL6GDNXVcoFOz05oX29PuA,336650820)",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 4,
+                        "year": 2014
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2009
+                    }
+                },
+                "schoolName": "Sanskriti the Gurukul"
+            }
+        ],
+        "languages": [
+            {
+                "name": "Assamese",
+                "proficiency": "PROFESSIONAL_WORKING"
+            },
+            {
+                "name": "Bengali",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "English",
+                "proficiency": "PROFESSIONAL_WORKING"
+            },
+            {
+                "name": "Hindi",
+                "proficiency": "PROFESSIONAL_WORKING"
+            }
+        ],
+        "publications": [],
+        "certifications": [
+            {
+                "authority": "Stanford University",
+                "name": "DeepLearning.ai ",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 8,
+                        "year": 2018
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:1792",
+                    "entityUrn": "urn:li:fs_miniCompany:1792",
+                    "name": "Stanford University",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1635534378574?e=1660176000&v=beta&t=MAFIC9UIoYjeNlk1-tdCKH6qHHGdaDqEbqhngVbpHlM",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1635534378574?e=1660176000&v=beta&t=585atWEpeS1nLPOjTMFmVwhzraXbAVDB5RFXNzX6jiM",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1635534378574?e=1660176000&v=beta&t=siI8cb5eim55duwvzxgJ9HV_GXUy7DMcD2A8Ivh5ugM",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHr9suxyJBXMw/company-logo_"
+                        }
+                    },
+                    "universalName": "stanford-university",
+                    "dashCompanyUrn": "urn:li:fsd_company:1792",
+                    "trackingId": "sSznNLu3RLqaHDwTIMyHCQ=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:1792"
+            },
+            {
+                "authority": "Udemy",
+                "name": "Ethereum Developer",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 1,
+                        "year": 2018
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:822535",
+                    "entityUrn": "urn:li:fs_miniCompany:822535",
+                    "name": "Udemy",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1626275253364?e=1660176000&v=beta&t=hNmtDdN4pnwTuJsDQsvaI2SOIkRq2BCrfWF7YKlNaM4",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1626275253364?e=1660176000&v=beta&t=bZ9FL43L79ghc74x71A2lY51dAogHCVQKWAZH1-YcuM",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1626275253364?e=1660176000&v=beta&t=7EyDsPVIShmG1t96OAsrJK6AWUi0vObIpIVqPL4hc6E",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQFQr9e68bBOPQ/company-logo_"
+                        }
+                    },
+                    "universalName": "udemy",
+                    "dashCompanyUrn": "urn:li:fsd_company:822535",
+                    "trackingId": "eAeieFQqR1adrzn4i1O+3w=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:822535"
+            },
+            {
+                "authority": "Udemy",
+                "name": "Cloud Computing",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 1,
+                        "year": 2018
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:822535",
+                    "entityUrn": "urn:li:fs_miniCompany:822535",
+                    "name": "Udemy",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1626275253364?e=1660176000&v=beta&t=hNmtDdN4pnwTuJsDQsvaI2SOIkRq2BCrfWF7YKlNaM4",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1626275253364?e=1660176000&v=beta&t=bZ9FL43L79ghc74x71A2lY51dAogHCVQKWAZH1-YcuM",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1626275253364?e=1660176000&v=beta&t=7EyDsPVIShmG1t96OAsrJK6AWUi0vObIpIVqPL4hc6E",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQFQr9e68bBOPQ/company-logo_"
+                        }
+                    },
+                    "universalName": "udemy",
+                    "dashCompanyUrn": "urn:li:fsd_company:822535",
+                    "trackingId": "7fh2h/o6RRSVvjIQjbEptA=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:822535"
+            },
+            {
+                "authority": "Udemy",
+                "name": "A-Z Deep Learning",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 5,
+                        "year": 2018
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:822535",
+                    "entityUrn": "urn:li:fs_miniCompany:822535",
+                    "name": "Udemy",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1626275253364?e=1660176000&v=beta&t=hNmtDdN4pnwTuJsDQsvaI2SOIkRq2BCrfWF7YKlNaM4",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1626275253364?e=1660176000&v=beta&t=bZ9FL43L79ghc74x71A2lY51dAogHCVQKWAZH1-YcuM",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1626275253364?e=1660176000&v=beta&t=7EyDsPVIShmG1t96OAsrJK6AWUi0vObIpIVqPL4hc6E",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQFQr9e68bBOPQ/company-logo_"
+                        }
+                    },
+                    "universalName": "udemy",
+                    "dashCompanyUrn": "urn:li:fsd_company:822535",
+                    "trackingId": "1auAT6RDRwO80UwOG5Ru6g=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:822535"
+            }
+        ],
+        "volunteer": [
+            {
+                "role": "Organiser ",
+                "companyName": "Assam Engineering College, (A.E.C)",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 10,
+                        "year": 2017
+                    },
+                    "startDate": {
+                        "month": 10,
+                        "year": 2017
+                    }
+                },
+                "cause": "EDUCATION",
+                "description": "A Machine Learning workshop for the students of the north east.",
+                "company": {
+                    "miniCompany": {
+                        "objectUrn": "urn:li:company:13362147",
+                        "entityUrn": "urn:li:fs_miniCompany:13362147",
+                        "name": "Assam Engineering College, (A.E.C)",
+                        "showcase": false,
+                        "active": true,
+                        "logo": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1598560806623?e=1660176000&v=beta&t=nN7980XIObJpbgGaOyOzHtkxIj-nzLhEtoQRY_qIP-4",
+                                        "expiresAt": 1660176000000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1598560806623?e=1660176000&v=beta&t=WLl_0Gh1sl-mNWuzo--v7Y38ixgKH37UGnaABjP9vpE",
+                                        "expiresAt": 1660176000000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1598560806623?e=1660176000&v=beta&t=EhqRMVmr0HX81dRubtOyMvRsHPNZ6iuMImYLtOqFmeQ",
+                                        "expiresAt": 1660176000000,
+                                        "height": 400
+                                    }
+                                ],
+                                "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQF2c8H0frv_Dw/company-logo_"
+                            }
+                        },
+                        "universalName": "assam-engineering-college-a-e-c",
+                        "dashCompanyUrn": "urn:li:fsd_company:13362147",
+                        "trackingId": "B4/0+uQjQyCEJXfuyjmSnA=="
+                    }
+                },
+                "companyUrn": "urn:li:fs_miniCompany:13362147"
+            },
+            {
+                "role": "Fundraising Volunteer",
+                "companyName": "HELP AGE INDIA FOUNDATION",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 3,
+                        "year": 2009
+                    },
+                    "startDate": {
+                        "month": 4,
+                        "year": 2008
+                    }
+                },
+                "cause": "POVERTY_ALLEVIATION",
+                "company": {
+                    "miniCompany": {
+                        "objectUrn": "urn:li:company:13439377",
+                        "entityUrn": "urn:li:fs_miniCompany:13439377",
+                        "name": "ngo csr energy consultancy BOX INDIA delhi mumbai karnatka kolkata aasam jammu kashmir uttarpradesh",
+                        "showcase": false,
+                        "active": true,
+                        "logo": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1651807911145?e=1660176000&v=beta&t=RAEnOANfTLejz0SqgvcK2EYvpFdBQFQUeIvTypNuJiM",
+                                        "expiresAt": 1660176000000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1651807911145?e=1660176000&v=beta&t=5G374J_ch4HU6GLKIwbH4VSkR0uaDJBZKZPpdOvy304",
+                                        "expiresAt": 1660176000000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1651807911145?e=1660176000&v=beta&t=E95vEcUqJTQ9u0FDL1lXQEsO0-XlEOEjnTnf_O0b1Z8",
+                                        "expiresAt": 1660176000000,
+                                        "height": 400
+                                    }
+                                ],
+                                "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHshR37ecF-QQ/company-logo_"
+                            }
+                        },
+                        "universalName": "help-age-india-foundation",
+                        "dashCompanyUrn": "urn:li:fsd_company:13439377",
+                        "trackingId": "NT8HCM0jSjGjzpd3vmfSWw=="
+                    }
+                },
+                "companyUrn": "urn:li:fs_miniCompany:13439377"
+            }
+        ],
+        "honors": [
+            {
+                "description": "An all-India idea-presentation platform and competition organised by the National Knowledge Network ",
+                "title": "NKN Ideathon 2017",
+                "issueDate": {
+                    "month": 10,
+                    "year": 2017
+                },
+                "issuer": "IIT Delhi and National Knowledge Network"
+            }
+        ],
+        "projects": [
+            {
+                "occupation": "urn:li:fs_education:(ACoAAB0xm6cBFLe4DKL6GDNXVcoFOz05oX29PuA,489269355)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Meghali",
+                            "lastName": "Nandi",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAB0xm6cBFLe4DKL6GDNXVcoFOz05oX29PuA",
+                            "occupation": "Software Engineer at Alation | Ex-Zalonian | MEAN Stack | Deep Learning | Hadoop",
+                            "objectUrn": "urn:li:member:489790375",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAB0xm6cBFLe4DKL6GDNXVcoFOz05oX29PuA",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1607915764628?e=1657756800&v=beta&t=I-fGrJwfZv4hgPDXWdWKqAwJwQ8OIQxs7ERjPlPPmqQ",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1607915764628?e=1657756800&v=beta&t=LW91SWJwwBAT28WcnXWEID5dPzp-GP9NxHDSQ3CPXr8",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E16AQHGJtH88m_7jw/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "meghali-nandi",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1538327112099?e=1657756800&v=beta&t=grZ7mFsON2iEAtREkaJC-lVtx_dWedSWx6ODADw9UWs",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1538327112099?e=1657756800&v=beta&t=jSj-xco0CPm1PKnpWcZNncgVU8xMJ2fANZzyrzQ8VhE",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1538327112099?e=1657756800&v=beta&t=9H8ydj5YfJLKO2jj0WLFb32mQheLArT_AJhzrnn6kFU",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1538327112099?e=1657756800&v=beta&t=PbuTmcaXcg66nR07T7p5Fn_WkP8IUAmFVFWIlHOgp3s",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5103AQH9LqwuyxVU9Q/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "b5nxGNtSQ5uUt/5jQ05cVQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAB0xm6cBFLe4DKL6GDNXVcoFOz05oX29PuA,1181301188,188149393)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAB0xm6cBFLe4DKL6GDNXVcoFOz05oX29PuA"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 5,
+                        "year": 2018
+                    },
+                    "startDate": {
+                        "month": 3,
+                        "year": 2018
+                    }
+                },
+                "description": "A web interface, made with HTML,CSS, jQuery, and Angular 6,  for the Inventory Management system with user access control, notification systems, databases for different individual systems.",
+                "title": "SAMS(Stock Analysis and Market System)",
+                "url": "https://github.com/rajatthepagal/SAMS"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Meghali",
+                            "lastName": "Nandi",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAB0xm6cBFLe4DKL6GDNXVcoFOz05oX29PuA",
+                            "occupation": "Software Engineer at Alation | Ex-Zalonian | MEAN Stack | Deep Learning | Hadoop",
+                            "objectUrn": "urn:li:member:489790375",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAB0xm6cBFLe4DKL6GDNXVcoFOz05oX29PuA",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1607915764628?e=1657756800&v=beta&t=I-fGrJwfZv4hgPDXWdWKqAwJwQ8OIQxs7ERjPlPPmqQ",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1607915764628?e=1657756800&v=beta&t=LW91SWJwwBAT28WcnXWEID5dPzp-GP9NxHDSQ3CPXr8",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E16AQHGJtH88m_7jw/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "meghali-nandi",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1538327112099?e=1657756800&v=beta&t=grZ7mFsON2iEAtREkaJC-lVtx_dWedSWx6ODADw9UWs",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1538327112099?e=1657756800&v=beta&t=jSj-xco0CPm1PKnpWcZNncgVU8xMJ2fANZzyrzQ8VhE",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1538327112099?e=1657756800&v=beta&t=9H8ydj5YfJLKO2jj0WLFb32mQheLArT_AJhzrnn6kFU",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1538327112099?e=1657756800&v=beta&t=PbuTmcaXcg66nR07T7p5Fn_WkP8IUAmFVFWIlHOgp3s",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5103AQH9LqwuyxVU9Q/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "b5nxGNtSQ5uUt/5jQ05cVQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAB0xm6cBFLe4DKL6GDNXVcoFOz05oX29PuA,1180578214,188149350)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAB0xm6cBFLe4DKL6GDNXVcoFOz05oX29PuA"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 2,
+                        "year": 2018
+                    },
+                    "startDate": {
+                        "month": 2,
+                        "year": 2018
+                    }
+                },
+                "description": "An implementation of creating my own Blockchain using Python and Flask.",
+                "title": "Pseudo_chain",
+                "url": "https://github.com/Meghali-Nandi/BLOCKCHAIN"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Meghali",
+                            "lastName": "Nandi",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAB0xm6cBFLe4DKL6GDNXVcoFOz05oX29PuA",
+                            "occupation": "Software Engineer at Alation | Ex-Zalonian | MEAN Stack | Deep Learning | Hadoop",
+                            "objectUrn": "urn:li:member:489790375",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAB0xm6cBFLe4DKL6GDNXVcoFOz05oX29PuA",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1607915764628?e=1657756800&v=beta&t=I-fGrJwfZv4hgPDXWdWKqAwJwQ8OIQxs7ERjPlPPmqQ",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1607915764628?e=1657756800&v=beta&t=LW91SWJwwBAT28WcnXWEID5dPzp-GP9NxHDSQ3CPXr8",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E16AQHGJtH88m_7jw/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "meghali-nandi",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1538327112099?e=1657756800&v=beta&t=grZ7mFsON2iEAtREkaJC-lVtx_dWedSWx6ODADw9UWs",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1538327112099?e=1657756800&v=beta&t=jSj-xco0CPm1PKnpWcZNncgVU8xMJ2fANZzyrzQ8VhE",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1538327112099?e=1657756800&v=beta&t=9H8ydj5YfJLKO2jj0WLFb32mQheLArT_AJhzrnn6kFU",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1538327112099?e=1657756800&v=beta&t=PbuTmcaXcg66nR07T7p5Fn_WkP8IUAmFVFWIlHOgp3s",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5103AQH9LqwuyxVU9Q/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "b5nxGNtSQ5uUt/5jQ05cVQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAB0xm6cBFLe4DKL6GDNXVcoFOz05oX29PuA,1180449257,188150266)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAB0xm6cBFLe4DKL6GDNXVcoFOz05oX29PuA"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 2,
+                        "year": 2018
+                    },
+                    "startDate": {
+                        "month": 2,
+                        "year": 2018
+                    }
+                },
+                "description": "1. A logo detection project using Deep Learning.\n2. An implementation to detect famous logo in real time video feed using YOLO(You Only Look Once) Algorithm.",
+                "title": "YOLO_logo"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Meghali",
+                            "lastName": "Nandi",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAB0xm6cBFLe4DKL6GDNXVcoFOz05oX29PuA",
+                            "occupation": "Software Engineer at Alation | Ex-Zalonian | MEAN Stack | Deep Learning | Hadoop",
+                            "objectUrn": "urn:li:member:489790375",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAB0xm6cBFLe4DKL6GDNXVcoFOz05oX29PuA",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1607915764628?e=1657756800&v=beta&t=I-fGrJwfZv4hgPDXWdWKqAwJwQ8OIQxs7ERjPlPPmqQ",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1607915764628?e=1657756800&v=beta&t=LW91SWJwwBAT28WcnXWEID5dPzp-GP9NxHDSQ3CPXr8",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E16AQHGJtH88m_7jw/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "meghali-nandi",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1538327112099?e=1657756800&v=beta&t=grZ7mFsON2iEAtREkaJC-lVtx_dWedSWx6ODADw9UWs",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1538327112099?e=1657756800&v=beta&t=jSj-xco0CPm1PKnpWcZNncgVU8xMJ2fANZzyrzQ8VhE",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1538327112099?e=1657756800&v=beta&t=9H8ydj5YfJLKO2jj0WLFb32mQheLArT_AJhzrnn6kFU",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1538327112099?e=1657756800&v=beta&t=PbuTmcaXcg66nR07T7p5Fn_WkP8IUAmFVFWIlHOgp3s",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5103AQH9LqwuyxVU9Q/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "b5nxGNtSQ5uUt/5jQ05cVQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAB0xm6cBFLe4DKL6GDNXVcoFOz05oX29PuA,1180706639,188150293)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAB0xm6cBFLe4DKL6GDNXVcoFOz05oX29PuA"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 1,
+                        "year": 2018
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2018
+                    }
+                },
+                "description": "1. An implementation of Transfer learning in Deep Learning using own custom data \n2. Networks used are Microsoft Resnet, Oxford VGG-19 and Google Inception.",
+                "title": "Deep_transfer",
+                "url": "https://github.com/Meghali-Nandi/TRANSFER-LEARNING-DEEP-NEURAL-NETS"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Meghali",
+                            "lastName": "Nandi",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAB0xm6cBFLe4DKL6GDNXVcoFOz05oX29PuA",
+                            "occupation": "Software Engineer at Alation | Ex-Zalonian | MEAN Stack | Deep Learning | Hadoop",
+                            "objectUrn": "urn:li:member:489790375",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAB0xm6cBFLe4DKL6GDNXVcoFOz05oX29PuA",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1607915764628?e=1657756800&v=beta&t=I-fGrJwfZv4hgPDXWdWKqAwJwQ8OIQxs7ERjPlPPmqQ",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1607915764628?e=1657756800&v=beta&t=LW91SWJwwBAT28WcnXWEID5dPzp-GP9NxHDSQ3CPXr8",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E16AQHGJtH88m_7jw/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "meghali-nandi",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1538327112099?e=1657756800&v=beta&t=grZ7mFsON2iEAtREkaJC-lVtx_dWedSWx6ODADw9UWs",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1538327112099?e=1657756800&v=beta&t=jSj-xco0CPm1PKnpWcZNncgVU8xMJ2fANZzyrzQ8VhE",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1538327112099?e=1657756800&v=beta&t=9H8ydj5YfJLKO2jj0WLFb32mQheLArT_AJhzrnn6kFU",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1538327112099?e=1657756800&v=beta&t=PbuTmcaXcg66nR07T7p5Fn_WkP8IUAmFVFWIlHOgp3s",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5103AQH9LqwuyxVU9Q/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "b5nxGNtSQ5uUt/5jQ05cVQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAB0xm6cBFLe4DKL6GDNXVcoFOz05oX29PuA,1180777925,188148440)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAB0xm6cBFLe4DKL6GDNXVcoFOz05oX29PuA"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 1,
+                        "year": 2018
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2018
+                    }
+                },
+                "description": "A real-time view of all the transactions on the Ethereum Blockchain using web3.JS and Metamask",
+                "title": "Ethereum Transaction page",
+                "url": "https://github.com/Meghali-Nandi/transaction_page_ethereum"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Meghali",
+                            "lastName": "Nandi",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAB0xm6cBFLe4DKL6GDNXVcoFOz05oX29PuA",
+                            "occupation": "Software Engineer at Alation | Ex-Zalonian | MEAN Stack | Deep Learning | Hadoop",
+                            "objectUrn": "urn:li:member:489790375",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAB0xm6cBFLe4DKL6GDNXVcoFOz05oX29PuA",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1607915764628?e=1657756800&v=beta&t=I-fGrJwfZv4hgPDXWdWKqAwJwQ8OIQxs7ERjPlPPmqQ",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1607915764628?e=1657756800&v=beta&t=LW91SWJwwBAT28WcnXWEID5dPzp-GP9NxHDSQ3CPXr8",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E16AQHGJtH88m_7jw/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "meghali-nandi",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1538327112099?e=1657756800&v=beta&t=grZ7mFsON2iEAtREkaJC-lVtx_dWedSWx6ODADw9UWs",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1538327112099?e=1657756800&v=beta&t=jSj-xco0CPm1PKnpWcZNncgVU8xMJ2fANZzyrzQ8VhE",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1538327112099?e=1657756800&v=beta&t=9H8ydj5YfJLKO2jj0WLFb32mQheLArT_AJhzrnn6kFU",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1538327112099?e=1657756800&v=beta&t=PbuTmcaXcg66nR07T7p5Fn_WkP8IUAmFVFWIlHOgp3s",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5103AQH9LqwuyxVU9Q/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "b5nxGNtSQ5uUt/5jQ05cVQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAB0xm6cBFLe4DKL6GDNXVcoFOz05oX29PuA,1180857191,188148447)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAB0xm6cBFLe4DKL6GDNXVcoFOz05oX29PuA"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 11,
+                        "year": 2017
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2017
+                    }
+                },
+                "description": "Created a website for conducting online exams in systems connected to a particular LAN, using HTML, CSS, JavaScript, jQuery as frontend tools and JSP and MySQL as backend tools.",
+                "title": "QuickTest",
+                "url": "https://github.com/Meghali-Nandi/Quick_test"
+            }
+        ]
+    },
+    "contact_info": {
+        "email_address": "nandimeghali@gmail.com",
+        "websites": [
+            {
+                "url": "https://github.com/Meghali-Nandi"
+            }
+        ],
+        "twitter": [],
+        "birthdate": {
+            "month": 12,
+            "day": 1
+        },
+        "ims": null,
+        "phone_numbers": []
+    },
+    "connections": [
+        {
+            "urn_id": "ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE",
+            "distance": "DISTANCE_1",
+            "public_id": "prithoo11335",
+            "tracking_id": "231212168"
+        },
+        {
+            "urn_id": "ACoAAC4efLABFBv0f30-SDGDgLSf1gXTlkpJTfc",
+            "distance": "DISTANCE_1",
+            "public_id": "shawan-mandal",
+            "tracking_id": "773749936"
+        },
+        {
+            "urn_id": "ACoAACYmrvgBRdvWxItbY_KP_fyrEgZ9U-QKJqk",
+            "distance": "DISTANCE_1",
+            "public_id": "rtsu",
+            "tracking_id": "640069368"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Machine Learning",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:3289",
+            "standardizedSkill": {
+                "name": "Machine Learning",
+                "entityUrn": "urn:li:fs_miniSkill:3289"
+            }
+        },
+        {
+            "name": "Deep Learning",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:50518",
+            "standardizedSkill": {
+                "name": "Deep Learning",
+                "entityUrn": "urn:li:fs_miniSkill:50518"
+            }
+        },
+        {
+            "name": "Blockchain"
+        },
+        {
+            "name": "Web Development",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:764",
+            "standardizedSkill": {
+                "name": "Web Development",
+                "entityUrn": "urn:li:fs_miniSkill:764"
+            }
+        },
+        {
+            "name": "Strategic Planning",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:423",
+            "standardizedSkill": {
+                "name": "Strategic Planning",
+                "entityUrn": "urn:li:fs_miniSkill:423"
+            }
+        },
+        {
+            "name": "Data Analysis",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:2470",
+            "standardizedSkill": {
+                "name": "Data Analysis",
+                "entityUrn": "urn:li:fs_miniSkill:2470"
+            }
+        },
+        {
+            "name": "Public Relations",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:95",
+            "standardizedSkill": {
+                "name": "Public Relations",
+                "entityUrn": "urn:li:fs_miniSkill:95"
+            }
+        },
+        {
+            "name": "Creative Writing",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:3023",
+            "standardizedSkill": {
+                "name": "Creative Writing",
+                "entityUrn": "urn:li:fs_miniSkill:3023"
+            }
+        },
+        {
+            "name": "Cascading Style Sheets (CSS)",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:307",
+            "standardizedSkill": {
+                "name": "Cascading Style Sheets (CSS)",
+                "entityUrn": "urn:li:fs_miniSkill:307"
+            }
+        },
+        {
+            "name": "JavaScript",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:218",
+            "standardizedSkill": {
+                "name": "JavaScript",
+                "entityUrn": "urn:li:fs_miniSkill:218"
+            }
+        },
+        {
+            "name": "jQuery",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:1611",
+            "standardizedSkill": {
+                "name": "jQuery",
+                "entityUrn": "urn:li:fs_miniSkill:1611"
+            }
+        },
+        {
+            "name": "HTML",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:280",
+            "standardizedSkill": {
+                "name": "HTML",
+                "entityUrn": "urn:li:fs_miniSkill:280"
+            }
+        },
+        {
+            "name": "Public Speaking",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:1101",
+            "standardizedSkill": {
+                "name": "Public Speaking",
+                "entityUrn": "urn:li:fs_miniSkill:1101"
+            }
+        },
+        {
+            "name": "Cognitive Computation"
+        },
+        {
+            "name": "Research"
+        }
+    ]
+}

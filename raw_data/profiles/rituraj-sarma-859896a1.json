@@ -1,0 +1,974 @@
+{
+    "profile": {
+        "summary": "A seasoned professional with Marketing & Sales Enablement experience, currently hired as the Marketing Content Creation Manager with High Radius. In this role, I am responsible for creating various marketing content in the form of blogs & articles, videos ( including animated videos), press releases, guest posts, articles outside the domain etc,\nIn my previous role, I was heading the Corporate Communications function handling all the communications from the organizations to have maximum traction in terms of viewership and new leads  for every marketing effort. \n In another previous assignment, I was hired as Global Digital Marketing Manager, working remotely for Milpitas (California) in the USA. In my current assignments, I was exposed to the role of a Marketing Communications & Content Creation specialist, Social Network Management Manager, Marketing strategies & budget allocation professional, and as a liaising officer acting as a bridge between technical engineering personnel and the marketing & sales teams from content generation aspect\n\nIn my other previous profile I was hired as a Social Media Manager & Market Analyst reporting to the Global Marketing VP, worked remotely for the marketing team in Raleigh (North Carolina). I was expected to research & analyze marketing/ sales data to find the whys, why not, and the hows in the Big data, Data lake, and the Hadoop space. Here I took care of CRM management and supervised data synchronization between marketing CRMs and Sales CRMs like Salesforce. Other aspects like blog writing, Google ads management, and Facebook ads were added to my key result areas. I also gained extensive experience in social media marketing, Google ads, and LinkedIn ads and run campaigns to showcase how technology could help witness business transformations.\n\nPreviously, I performed my duties as a Business / Revenue Analyst and lead the client retention team in the Telcos to glean new customers for both prepaid & postpaid connections and was entrusted with other jobs in the U&R function. The skills I picked up here were mostly analytical in nature like advanced MS Excel specialist, MS Access expert, SQL usage for data mining, etc. Root Cause Analytics and MIS Generation were the other two performance areas for me then.\n\nIn my others previous assignment with DHL, I was entrusted with profiles like Customer Acquisition, Client Interaction & Servicing, as a Revenue Generation specialist, Client Churn Management, Public Relations, Services Up-selling.\n\nEmail -riturajsarma09@gmail.com",
+        "industryName": "IT Services and IT Consulting",
+        "lastName": "Sarma",
+        "locationName": "India",
+        "student": false,
+        "geoCountryName": "India",
+        "geoCountryUrn": "urn:li:fs_geo:102713980",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "birthDate": {
+            "month": 7,
+            "day": 1
+        },
+        "industryUrn": "urn:li:fs_industry:96",
+        "firstName": "Rituraj",
+        "entityUrn": "urn:li:fs_profile:ACoAABWqdkUBu_NUXDVq9tqCSjeJfGGc6txH46c",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:105607401"
+        },
+        "geoLocationName": "Guwahati, Assam",
+        "location": {
+            "basicLocation": {
+                "countryCode": "in"
+            }
+        },
+        "headline": "Marketing Content Manager at HighRadius",
+        "displayPictureUrl": "https://media-exp1.licdn.com/dms/image/C4E03AQGMQivggYLEog/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/0/1602878128469?e=1657756800&v=beta&t=wPq-XukprnIZB-MrW6s4vze6vPnJbjmoPK5IO6tQ1bM",
+        "img_200_200": "200_200/0/1602878128469?e=1657756800&v=beta&t=572bF0u8KxKn4Lu7zPMecBBRj4lwz5eZK92q73ZUiAk",
+        "img_400_400": "400_400/0/1602878128469?e=1657756800&v=beta&t=5wJDxS4CREdrJWh2Gt6Qh7ZAOkDuIJEIhzrH6RkICfM",
+        "img_800_800": "800_800/0/1602878128469?e=1657756800&v=beta&t=LUdubc7TfyHHpUFJji3CyWHgGbw2SZV-TzxNtSihQ4Q",
+        "profile_id": "ACoAABWqdkUBu_NUXDVq9tqCSjeJfGGc6txH46c",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAABWqdkUBu_NUXDVq9tqCSjeJfGGc6txH46c",
+        "member_urn": "urn:li:member:363492933",
+        "experience": [
+            {
+                "locationName": "Bhubaneswar, Orissa, India",
+                "entityUrn": "urn:li:fs_position:(ACoAABWqdkUBu_NUXDVq9tqCSjeJfGGc6txH46c,1725368476)",
+                "geoLocationName": "Bhubaneswar, Orissa, India",
+                "geoUrn": "urn:li:fs_geo:112154036",
+                "companyName": "HighRadius",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 12,
+                        "year": 2020
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 1001,
+                        "end": 5000
+                    },
+                    "industries": [
+                        "Computer Software"
+                    ]
+                },
+                "title": "Marketing Content Manager",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:835110",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQH1OHg_ZLVr2w/company-logo_"
+            },
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAABWqdkUBu_NUXDVq9tqCSjeJfGGc6txH46c,1685593028)",
+                "companyName": "TechVariable",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 9,
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "month": 4,
+                        "year": 2020
+                    }
+                },
+                "description": "I was expected to design, develop, and deploy effective corporate communication strategies to boost the overall content effort including marketing communications, show marketing as a profit center, and act as a  liaison officer between engineering personnel and the marketing team. I would design & narrate press-releases for upcoming events, product launches, new service offerings, and influencer guest webinars for PR platforms and social channels.\n\nBesides this, I also offered my service in Advanced Paid ads techniques for Google Ads, LinkedIn Ads, and Facebook ads and proved myself to be an expert in Social Media Management. I also made some animated videos which are shown below. \n\nMoreover, I also played the role of a Client Engagement Manager whose job was to run Email marketing campaigns to convert leads to Marketing Qualified Leads to Sales Qualified Leads and assist the core sales team to convert them to opportunities.\n\nFurther, during my research, I also contributed into the functionality for some of the solutions which I observed in the competitor solutions like the 'Intuitive Report Generation tool' and 'Automated Employee Incentive program.\n\nLastly, I also had to put on my market analytics hat which involved finding relevant data sources, crunching them and gleaning insights to contribute to transformative decision making. The data visualization would be done in Tableau and the data mining would be done in MS Excel.\nI am pursuing MS Power BI course.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Head Of Corporate Communications",
+                "companyUrn": "urn:li:fs_miniCompany:10632640",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQE6IzKHUZQmAA/company-logo_"
+            },
+            {
+                "locationName": "Kolkata Area, India",
+                "entityUrn": "urn:li:fs_position:(ACoAABWqdkUBu_NUXDVq9tqCSjeJfGGc6txH46c,1366395060)",
+                "geoLocationName": "Kolkata Area, India",
+                "geoUrn": "urn:li:fs_geo:90009654",
+                "companyName": "Abzooba",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 3,
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2018
+                    }
+                },
+                "description": "Abzooba Inc. is a US-based data analytics and big data organization. They are into text analytics, advanced analytics, predictive data modeling of structured and unstructured data using our indigenous next-generation data analytics engine \u2013 XPRESSO.\n\n\"A Post from my Reporting Manager on LinkedIn\": https://buff.ly/3iZQ7yZ\n\nI lead the digital marketing machinery for Abzooba starting from promoting the client solution via Press Release via Cision or brand social media channels, conceptualizing the offer, designing communication posts, writing & supervising blogs, and coordinating with different teams. Speaking of social media, I visualized strategies to increase social following & generate leads from social brand channels like LinkedIn, Facebook, Twitter, Instagram. I also worked extensively with CRMs such as Hubspot, Marketo, and Get a response to run Email Marketing campaigns, create landing pages, and give-away freebies to attract leads. To elaborate further, I prepared content like blogs, animated videos, and landing pages for the Healthcare sector solutions like patient insight retrieval and processing with a click of a button.\n\nOn the analytics side, I would takeout data from Salesforce and backtrack from there to find what's working and what's not., then implement that insight to make better marketing campaigns across the spectrum. Running paid campaigns like Google ads & LinkedIn ads is second nature to me as the paid media costs are included in the marketing budget that I prepared.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 201,
+                        "end": 500
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Digital Marketing Manager & Communications Specialist",
+                "region": "urn:li:fs_region:(in,7003)",
+                "companyUrn": "urn:li:fs_miniCompany:1385602",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C560BAQGB8x_HMsZ9ug/company-logo_"
+            },
+            {
+                "locationName": "Guw\u0101h\u0101ti Area, India",
+                "projects": [
+                    "urn:li:fs_project:(ACoAABWqdkUBu_NUXDVq9tqCSjeJfGGc6txH46c,716161355)"
+                ],
+                "geoUrn": "urn:li:fs_geo:102713980",
+                "companyName": "Zaloni",
+                "description": "A leader in big data for more than a decade, Zaloni Inc works with pioneering enterprises to modernize their data architecture & operationalize their data lakes to incorporate data into everyday business practices.\n\u2022\tBuild social media strategies and responding to sales queries, engagements & mentions to promote sales selling strategies.   \n\u2022\tCoordinating between Sales reps and Tier-1 Opportunities (high-value clients) to prioritize a targeted client acquisition approach for technologies like Microsoft Azure and AWS. \n\u2022\tSentiment analytics was done based on the social listening LinkedIn posts and Topics to update Sales, Marketing and Product Engineering on audience insights, need for product & features and their feature requirements.\n\u2022\tBringing Sales, Marketing & Product engineering on the same page within insight sharing on customer feedback, how clients are benefiting from our product & services and any improvements asked for, in forthrightly All Hands meetings. \n\u2022\tExtended important contributions to get approval from decision-makers via a \u2018POC\u2019 to developing a data visualization tool for a product MICA based upon my research as to what kind of insights & analytics features clients needed.\n\u2022      Have played a key role to sync Salesforce data to other CRMs and vice versa for additional sales insights, customer behavior trends and reverse insights.\n\u2022\tData Visualization and Analysis for new insights (via data crunching) both for Sales & Marketing by using varied data formats and different platforms like MS Excel, MySQL & MS Access from various sources and merging that data.\n\u2022\tBuilding cross-functional parity for \u2018Proof Of Concept\u2019 improvement to targeted clients to increase the propensity to sale. \n\u2022\tSocial Media Insights & current trends are also gleaned through \u2018Geo Location\u2019 listening & conversations to help build insight strategy to benefit cross-functional teams including product development.",
+                "title": " Sales Enablement, Digital Marketing and Market Insight Professional ",
+                "companyUrn": "urn:li:fs_miniCompany:859448",
+                "entityUrn": "urn:li:fs_position:(ACoAABWqdkUBu_NUXDVq9tqCSjeJfGGc6txH46c,657648541)",
+                "geoLocationName": "Guw\u0101h\u0101ti Area, India",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2018
+                    },
+                    "startDate": {
+                        "month": 3,
+                        "year": 2015
+                    }
+                },
+                "organizations": [
+                    "urn:li:fs_organization:(ACoAABWqdkUBu_NUXDVq9tqCSjeJfGGc6txH46c,1258920521)"
+                ],
+                "company": {
+                    "employeeCountRange": {
+                        "start": 51,
+                        "end": 200
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "region": "urn:li:fs_region:(in,5375)",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C560BAQG24b_9aFPlDg/company-logo_"
+            },
+            {
+                "locationName": "Guwahati Area, India",
+                "projects": [
+                    "urn:li:fs_project:(ACoAABWqdkUBu_NUXDVq9tqCSjeJfGGc6txH46c,716260840)"
+                ],
+                "geoUrn": "urn:li:fs_geo:104535556",
+                "companyName": "Aircel Pvt. Ltd",
+                "description": " In my previous assignment, I offered my services as a Busines Analyst Revenue Generation & Prepaid Retention &  specialist in the Usage & Revenue function. My Primary responsibilities were as follows:\n\n- Engaged in conceptualization, design, and execution of promotion, offers & freebies for Prepaid Retention as part of Customer Life Cycle Management.\n- Target Segmentation of groups based on their lifecycle stage, decrement, Avg. Revenue per Unit (ARPU), Age on Network (AON) and then allocating them to the respective promotional campaign. The total customer base was 3.5 Mn prepaid subscribers.\n- Saving Acquisition -Cost & generating Retention Revenue by ensuring the stickiness of the prepaid subscribers in the network and by performing Up-Selling activities based on Avg. Revenue Per Unit (ARPU) of a subscriber. This includes forecasting Cost Saving & Revenue increase with Extrapolation method to fix a yearly target.\n- Monitoring of the various stages of the Lifecycle stage of a subscriber and coordinating with U&R Department to prevent the active subscribers from going to the Grace & Churn bucket.\n- Reconciliation of the entire subscriber base on the basis of ARPU & AON ( Age On Network) to distinguish loyal subscribers from fare-weather subscribers for effective target segmentation & easier decision. making. \n- Data Crunching & Analysis for new insights to view customer trends and behavior patterns.\n- Managed the Aircel Telco call center for all inbound & outbound calls for bringing subscribers to the network.   \n- Up-Selling & Churn management activities initiation after proper Market Study, Customer Behavior Analytics and Target Segmentation.\n- Using RDBMS & SQL to pull customer data from sources for further data crunching. ",
+                "title": "BUSINESS ANALYST (Revenue Generation & Retention  Specialist) ",
+                "companyUrn": "urn:li:fs_miniCompany:16432",
+                "entityUrn": "urn:li:fs_position:(ACoAABWqdkUBu_NUXDVq9tqCSjeJfGGc6txH46c,571595483)",
+                "geoLocationName": "Guwahati Area, India",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 3,
+                        "year": 2015
+                    },
+                    "startDate": {
+                        "month": 11,
+                        "year": 2008
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 5001,
+                        "end": 10000
+                    },
+                    "industries": [
+                        "Telecommunications"
+                    ]
+                },
+                "region": "urn:li:fs_region:(in,7248)",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHxF5fJBwi1Lw/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAABWqdkUBu_NUXDVq9tqCSjeJfGGc6txH46c,321586819)",
+                "activities": "AIM Quest Competition",
+                "grade": "A",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2005
+                    },
+                    "startDate": {
+                        "year": 2003
+                    }
+                },
+                "description": "A MBA graduate have specialization in Marketing & HR from Assam Institute of Management (AIM).",
+                "degreeName": "Master of Business Administration (M.B.A.)",
+                "schoolName": "Assam Institute of Management",
+                "fieldOfStudy": "Marketing & HR"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAABWqdkUBu_NUXDVq9tqCSjeJfGGc6txH46c,505578161)",
+                "school": {
+                    "objectUrn": "urn:li:school:3154151",
+                    "entityUrn": "urn:li:fs_miniSchool:3154151",
+                    "active": true,
+                    "schoolName": "HubSpot Academy",
+                    "trackingId": "4zroSRW2RDayI+lc0cFU5Q==",
+                    "logoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQHXxroN0uciQw/company-logo_"
+                },
+                "activities": "Why email marketing is still important ( Workshop)\nHow to build an effective email marketing strategy ( Workshop)\nWhat a successful email marketing strategy looks like\n\n",
+                "grade": "A",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2018
+                    },
+                    "startDate": {
+                        "year": 2017
+                    }
+                },
+                "description": "This advanced email marketing training course will teach you how lifecycle marketing, segmentation, email design, deliverability, analytics, and optimization come together to create an email marketing strategy that grows your business, and your career.\n\n",
+                "degreeName": "Email Marketing",
+                "schoolName": "HubSpot Academy",
+                "fieldOfStudy": "Email Marketing and your Business",
+                "schoolUrn": "urn:li:fs_miniSchool:3154151"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAABWqdkUBu_NUXDVq9tqCSjeJfGGc6txH46c,507394126)",
+                "school": {
+                    "objectUrn": "urn:li:school:3154151",
+                    "entityUrn": "urn:li:fs_miniSchool:3154151",
+                    "active": true,
+                    "schoolName": "HubSpot Academy",
+                    "trackingId": "FheehzW7T/614QUMAGr93g==",
+                    "logoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQHXxroN0uciQw/company-logo_"
+                },
+                "grade": "A",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2018
+                    },
+                    "startDate": {
+                        "year": 2015
+                    }
+                },
+                "description": "This course features twelve classes that span the four stages of the Inbound Marketing Methodology. From optimizing your website for more search traffic, to landing page anatomy that generates more leads, this free course and certification exam covers the fundamentals of inbound.",
+                "degreeName": "Certification",
+                "schoolName": "HubSpot Academy",
+                "fieldOfStudy": "Inbound Marketing",
+                "schoolUrn": "urn:li:fs_miniSchool:3154151"
+            }
+        ],
+        "languages": [
+            {
+                "name": "Assamese",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "Bengali",
+                "proficiency": "LIMITED_WORKING"
+            },
+            {
+                "name": "English",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "Hindi",
+                "proficiency": "PROFESSIONAL_WORKING"
+            }
+        ],
+        "publications": [
+            {
+                "date": {
+                    "month": 6,
+                    "year": 2020,
+                    "day": 10
+                },
+                "name": "How Enterprise Mobility Solutions can be a Game-changer?",
+                "publisher": "Medium",
+                "description": "6 key lessons that make your enterprise mobility a business game-changer instead of a failed project.",
+                "url": "https://medium.com/@rituraj_67448/how-enterprise-mobility-solutions-can-be-a-game-changer-469585790c06",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Rituraj",
+                            "lastName": "Sarma",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABWqdkUBu_NUXDVq9tqCSjeJfGGc6txH46c",
+                            "occupation": "Marketing Content Manager at HighRadius",
+                            "objectUrn": "urn:li:member:363492933",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABWqdkUBu_NUXDVq9tqCSjeJfGGc6txH46c",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1603348927787?e=1657756800&v=beta&t=-A8QJd5dsOtXUaigtIgKA5E2GIgAQs7kmGfVHiB_UvQ",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1603348927787?e=1657756800&v=beta&t=Bpf5lnN5ngq9RTwWl6KaP1mjCYpH8a4XqY2wHCEPjxY",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E16AQEQBp9DF9Bc4A/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "rituraj-sarma-859896a1",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1602878128469?e=1657756800&v=beta&t=wPq-XukprnIZB-MrW6s4vze6vPnJbjmoPK5IO6tQ1bM",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1602878128469?e=1657756800&v=beta&t=572bF0u8KxKn4Lu7zPMecBBRj4lwz5eZK92q73ZUiAk",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1602878128469?e=1657756800&v=beta&t=5wJDxS4CREdrJWh2Gt6Qh7ZAOkDuIJEIhzrH6RkICfM",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1602878128469?e=1657756800&v=beta&t=LUdubc7TfyHHpUFJji3CyWHgGbw2SZV-TzxNtSihQ4Q",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E03AQGMQivggYLEog/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "hCv5GGZDTBq5EDGkvSqj1w=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABWqdkUBu_NUXDVq9tqCSjeJfGGc6txH46c"
+                    }
+                ]
+            },
+            {
+                "date": {
+                    "month": 3,
+                    "year": 2017,
+                    "day": 29
+                },
+                "name": "5 Business Impacts of Advanced Analytics and Visualization",
+                "publisher": "D ZONE Big Data Zone",
+                "description": "By embracing advanced business analytics technology and data presentation techniques, there are greater prospects of companies getting better in decision-making and goal setting. There is hope for businesses to boost revenue and provide better services to their clients. Most importantly, businesses are now able to foster great innovations, taking customer experiences to greater levels. That is the power of Big Data analytics. For businesses that are yet to embrace sophisticated analytics technology, the time is now.",
+                "url": "https://dzone.com/articles/5-business-impacts-of-advanced-analytics-and-visua",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Rituraj",
+                            "lastName": "Sarma",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABWqdkUBu_NUXDVq9tqCSjeJfGGc6txH46c",
+                            "occupation": "Marketing Content Manager at HighRadius",
+                            "objectUrn": "urn:li:member:363492933",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABWqdkUBu_NUXDVq9tqCSjeJfGGc6txH46c",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1603348927787?e=1657756800&v=beta&t=-A8QJd5dsOtXUaigtIgKA5E2GIgAQs7kmGfVHiB_UvQ",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1603348927787?e=1657756800&v=beta&t=Bpf5lnN5ngq9RTwWl6KaP1mjCYpH8a4XqY2wHCEPjxY",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E16AQEQBp9DF9Bc4A/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "rituraj-sarma-859896a1",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1602878128469?e=1657756800&v=beta&t=wPq-XukprnIZB-MrW6s4vze6vPnJbjmoPK5IO6tQ1bM",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1602878128469?e=1657756800&v=beta&t=572bF0u8KxKn4Lu7zPMecBBRj4lwz5eZK92q73ZUiAk",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1602878128469?e=1657756800&v=beta&t=5wJDxS4CREdrJWh2Gt6Qh7ZAOkDuIJEIhzrH6RkICfM",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1602878128469?e=1657756800&v=beta&t=LUdubc7TfyHHpUFJji3CyWHgGbw2SZV-TzxNtSihQ4Q",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E03AQGMQivggYLEog/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "hCv5GGZDTBq5EDGkvSqj1w=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABWqdkUBu_NUXDVq9tqCSjeJfGGc6txH46c"
+                    }
+                ]
+            },
+            {
+                "date": {
+                    "month": 10,
+                    "year": 2016,
+                    "day": 16
+                },
+                "name": "6 Big Data Transformation Strategies in Telecommunications",
+                "publisher": "D ZONE Big Data Zone",
+                "description": "Big data has been gaining ground in nearly every telecom business and they are finding ways to exploit it. To leverage the big data ecosystem, telecom operators need to redefine their business strategies as the benefits of it are many as mentioned above. Thus, whoever wins this battle of creating new revenue streams, analyzing preferences and effectively deriving value from data will be a true game-changer in the industry worldwide.",
+                "url": "https://dzone.com/articles/6-big-data-transformation-strategies-in-telecommun",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Rituraj",
+                            "lastName": "Sarma",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABWqdkUBu_NUXDVq9tqCSjeJfGGc6txH46c",
+                            "occupation": "Marketing Content Manager at HighRadius",
+                            "objectUrn": "urn:li:member:363492933",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABWqdkUBu_NUXDVq9tqCSjeJfGGc6txH46c",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1603348927787?e=1657756800&v=beta&t=-A8QJd5dsOtXUaigtIgKA5E2GIgAQs7kmGfVHiB_UvQ",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1603348927787?e=1657756800&v=beta&t=Bpf5lnN5ngq9RTwWl6KaP1mjCYpH8a4XqY2wHCEPjxY",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E16AQEQBp9DF9Bc4A/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "rituraj-sarma-859896a1",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1602878128469?e=1657756800&v=beta&t=wPq-XukprnIZB-MrW6s4vze6vPnJbjmoPK5IO6tQ1bM",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1602878128469?e=1657756800&v=beta&t=572bF0u8KxKn4Lu7zPMecBBRj4lwz5eZK92q73ZUiAk",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1602878128469?e=1657756800&v=beta&t=5wJDxS4CREdrJWh2Gt6Qh7ZAOkDuIJEIhzrH6RkICfM",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1602878128469?e=1657756800&v=beta&t=LUdubc7TfyHHpUFJji3CyWHgGbw2SZV-TzxNtSihQ4Q",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E03AQGMQivggYLEog/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "hCv5GGZDTBq5EDGkvSqj1w=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABWqdkUBu_NUXDVq9tqCSjeJfGGc6txH46c"
+                    }
+                ]
+            }
+        ],
+        "certifications": [],
+        "volunteer": [],
+        "honors": [],
+        "projects": [
+            {
+                "occupation": "urn:li:fs_position:(ACoAABWqdkUBu_NUXDVq9tqCSjeJfGGc6txH46c,657648541)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Rituraj",
+                            "lastName": "Sarma",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABWqdkUBu_NUXDVq9tqCSjeJfGGc6txH46c",
+                            "occupation": "Marketing Content Manager at HighRadius",
+                            "objectUrn": "urn:li:member:363492933",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABWqdkUBu_NUXDVq9tqCSjeJfGGc6txH46c",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1603348927787?e=1657756800&v=beta&t=-A8QJd5dsOtXUaigtIgKA5E2GIgAQs7kmGfVHiB_UvQ",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1603348927787?e=1657756800&v=beta&t=Bpf5lnN5ngq9RTwWl6KaP1mjCYpH8a4XqY2wHCEPjxY",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E16AQEQBp9DF9Bc4A/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "rituraj-sarma-859896a1",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1602878128469?e=1657756800&v=beta&t=wPq-XukprnIZB-MrW6s4vze6vPnJbjmoPK5IO6tQ1bM",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1602878128469?e=1657756800&v=beta&t=572bF0u8KxKn4Lu7zPMecBBRj4lwz5eZK92q73ZUiAk",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1602878128469?e=1657756800&v=beta&t=5wJDxS4CREdrJWh2Gt6Qh7ZAOkDuIJEIhzrH6RkICfM",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1602878128469?e=1657756800&v=beta&t=LUdubc7TfyHHpUFJji3CyWHgGbw2SZV-TzxNtSihQ4Q",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E03AQGMQivggYLEog/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "hCv5GGZDTBq5EDGkvSqj1w=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABWqdkUBu_NUXDVq9tqCSjeJfGGc6txH46c,716161355,178400068)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABWqdkUBu_NUXDVq9tqCSjeJfGGc6txH46c"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 1,
+                        "year": 2017
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2017
+                    }
+                },
+                "description": "The research began with the industry the client catered to for e.g. Banking or Insurance. Insights were collected from Primary sources like surveys via Survey Monkey in industry-tested technologies where they would like to have more valuable insight or what their business roadmap focused on. From secondary social media sources like their Twitter & LinkedIn profiles, I monitored topics where they\u2019re trying to get more insight on and prospect's interests too. Then data from the primary & secondary sources were merged for Zaloni\u2019s Tier-1 opportunities and accordingly content like Whitepaper, eBooks etc. were created to be sent to their account owners like email marketing and social boosting. The research picked up a revenue of close to a $1Mn and 4 accounts in the quarter sales kitty.     ",
+                "title": "\u201cHow does the Marketing team contribute to the client data lake for better insights.\u201d"
+            },
+            {
+                "occupation": "urn:li:fs_position:(ACoAABWqdkUBu_NUXDVq9tqCSjeJfGGc6txH46c,571595483)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Rituraj",
+                            "lastName": "Sarma",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABWqdkUBu_NUXDVq9tqCSjeJfGGc6txH46c",
+                            "occupation": "Marketing Content Manager at HighRadius",
+                            "objectUrn": "urn:li:member:363492933",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABWqdkUBu_NUXDVq9tqCSjeJfGGc6txH46c",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1603348927787?e=1657756800&v=beta&t=-A8QJd5dsOtXUaigtIgKA5E2GIgAQs7kmGfVHiB_UvQ",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1603348927787?e=1657756800&v=beta&t=Bpf5lnN5ngq9RTwWl6KaP1mjCYpH8a4XqY2wHCEPjxY",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E16AQEQBp9DF9Bc4A/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "rituraj-sarma-859896a1",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1602878128469?e=1657756800&v=beta&t=wPq-XukprnIZB-MrW6s4vze6vPnJbjmoPK5IO6tQ1bM",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1602878128469?e=1657756800&v=beta&t=572bF0u8KxKn4Lu7zPMecBBRj4lwz5eZK92q73ZUiAk",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1602878128469?e=1657756800&v=beta&t=5wJDxS4CREdrJWh2Gt6Qh7ZAOkDuIJEIhzrH6RkICfM",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1602878128469?e=1657756800&v=beta&t=LUdubc7TfyHHpUFJji3CyWHgGbw2SZV-TzxNtSihQ4Q",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E03AQGMQivggYLEog/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "hCv5GGZDTBq5EDGkvSqj1w=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABWqdkUBu_NUXDVq9tqCSjeJfGGc6txH46c,716260840,177999747)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABWqdkUBu_NUXDVq9tqCSjeJfGGc6txH46c"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 1,
+                        "year": 2015
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2015
+                    }
+                },
+                "description": "     A project was taken up for researching into the Telco subscriber behavior for selecting their preferred network service operator. To achieve this data was taken from a primary data source like Know Your Customer (KYC), where the investigation was done to find if subscribers used \u2018double telco\u2019 including competitor sim. This meant they had to be using a dual sim phone to carry a competitor sim. So, from the KYC data, I looked for either information on any competitor sim a subscriber might possess or the type of devices he/she was using with a propensity to carry a competitor sim. With that data, I focused on those subscribers with the most lucrative offers to fend off any competitor\u2019s attempt to win them. The result was a 21% increase in the retention & significant revenue percentage for those last two quarters of that year.   Since I had all primary source data at my disposal, no secondary source data was used in this research project.",
+                "title": "Identification of Subscribers with competitor sims & dual mobile phones"
+            }
+        ]
+    },
+    "contact_info": {
+        "email_address": null,
+        "websites": [],
+        "twitter": [],
+        "birthdate": {
+            "month": 7,
+            "day": 1
+        },
+        "ims": null,
+        "phone_numbers": []
+    },
+    "connections": [
+        {
+            "urn_id": "ACoAAC24GToBKzC8vS7jZaCEqoq3Jse_M2Tson8",
+            "distance": "DISTANCE_1",
+            "public_id": "abhijit-paul-936a68194",
+            "tracking_id": "767039802"
+        },
+        {
+            "urn_id": "ACoAAByhqogBLFVDJbqojrVMhtKfC3o3hRfEcjg",
+            "distance": "DISTANCE_1",
+            "public_id": "biki-talukdar-460a54114",
+            "tracking_id": "480357000"
+        },
+        {
+            "urn_id": "ACoAABr4jt0BoOUmisITdRo1gR4CumG5I4jjZIw",
+            "distance": "DISTANCE_1",
+            "public_id": "samudra-deka-911659107",
+            "tracking_id": "452497117"
+        },
+        {
+            "urn_id": "ACoAADZmR9QB1zOH_PmrzQQw2wQmTJRTcNGU7CE",
+            "distance": "DISTANCE_1",
+            "public_id": "bkalita",
+            "tracking_id": "912672724"
+        },
+        {
+            "urn_id": "ACoAADLJzxsBizdB0nN5NZBCM41Q-z6-7ef5gyI",
+            "distance": "DISTANCE_1",
+            "public_id": "deepjyoti-kalita-78b4411b9",
+            "tracking_id": "852086555"
+        },
+        {
+            "urn_id": "ACoAADe3CFYBsoFdtSEajXbg51HDagdpBEb3kx4",
+            "distance": "DISTANCE_1",
+            "public_id": "binud-panging-872062221",
+            "tracking_id": "934742102"
+        },
+        {
+            "urn_id": "ACoAAC2aUPYBGPB-T9xDu2Hjrq7OgzRPu5nTvyE",
+            "distance": "DISTANCE_1",
+            "public_id": "jintudas",
+            "tracking_id": "765087990"
+        },
+        {
+            "urn_id": "ACoAACT67ZEBgw1Aprl8Aqy8zWMavdTyaWs7J3w",
+            "distance": "DISTANCE_1",
+            "public_id": "titikshya-das-015942153",
+            "tracking_id": "620424593"
+        },
+        {
+            "urn_id": "ACoAAAjgx0kBxJoPu_7t3kS1NbDizQekjIIzMbE",
+            "distance": "DISTANCE_1",
+            "public_id": "lakheswar-nath-289a7141",
+            "tracking_id": "148948809"
+        },
+        {
+            "urn_id": "ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE",
+            "distance": "DISTANCE_1",
+            "public_id": "prithoo11335",
+            "tracking_id": "231212168"
+        },
+        {
+            "urn_id": "ACoAACr0GSwBcmPDh22HqivG9h0JwG-eahXSYW8",
+            "distance": "DISTANCE_1",
+            "public_id": "nihar-kashyap98",
+            "tracking_id": "720640300"
+        },
+        {
+            "urn_id": "ACoAACeXhGEBEVCUXmKi5rowUSeFZNerPjvzQsc",
+            "distance": "DISTANCE_1",
+            "public_id": "mahbubul-haque-a55552166",
+            "tracking_id": "664241249"
+        },
+        {
+            "urn_id": "ACoAACzP6KMBcLKqKnFRpIudaukkoW4NoqstgrM",
+            "distance": "DISTANCE_1",
+            "public_id": "pranit-prakash-sahu",
+            "tracking_id": "751823011"
+        },
+        {
+            "urn_id": "ACoAACbTg-gBtT_YqZc-FG2lIVBv13QTx8UUB8E",
+            "distance": "DISTANCE_1",
+            "public_id": "mridul24",
+            "tracking_id": "651396072"
+        },
+        {
+            "urn_id": "ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY",
+            "distance": "DISTANCE_1",
+            "public_id": "tridip-das-b5837911b",
+            "tracking_id": "499568180"
+        },
+        {
+            "urn_id": "ACoAAAI9wXoBijRhLoxf7BO8UTK0DX-7KexJV30",
+            "distance": "DISTANCE_1",
+            "public_id": "boren-ghosh-27671410",
+            "tracking_id": "37601658"
+        },
+        {
+            "urn_id": "ACoAACZxhUQBl1V8kpLj4ACrE2LzpatGvVzEgSA",
+            "distance": "DISTANCE_1",
+            "public_id": "nabajyoti-borah-944000160",
+            "tracking_id": "644973892"
+        },
+        {
+            "urn_id": "ACoAABYq8T8ByHFGBUFRrHT5iKBI2u4YZjTLHFc",
+            "distance": "DISTANCE_1",
+            "public_id": "netranjit-borgohain-53b677a4",
+            "tracking_id": "371913023"
+        },
+        {
+            "urn_id": "ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8",
+            "distance": "DISTANCE_1",
+            "public_id": "sivaranjan-goswami-790b4523",
+            "tracking_id": "83451420"
+        },
+        {
+            "urn_id": "ACoAACTFIIYB1cK_syRcCXEc0o8RTm4JMlhYcHA",
+            "distance": "DISTANCE_1",
+            "public_id": "arun-kumar-nath-686721152",
+            "tracking_id": "616898694"
+        },
+        {
+            "urn_id": "ACoAAC4efLABFBv0f30-SDGDgLSf1gXTlkpJTfc",
+            "distance": "DISTANCE_1",
+            "public_id": "shawan-mandal",
+            "tracking_id": "773749936"
+        },
+        {
+            "urn_id": "ACoAACDVs-sB_IgxPBMHMRBfR6is3jmwwV_OvTE",
+            "distance": "DISTANCE_1",
+            "public_id": "swapnil-bhattacharjee-ghy",
+            "tracking_id": "550876139"
+        },
+        {
+            "urn_id": "ACoAACUEZ3QB2Xm0OWR0cqoc_u-o4KW_OENO1_8",
+            "distance": "DISTANCE_1",
+            "public_id": "rajan-sahu",
+            "tracking_id": "621045620"
+        },
+        {
+            "urn_id": "ACoAAC12ZqEBCx9JN_YIi1eF1FPPDif3mXI3fyc",
+            "distance": "DISTANCE_1",
+            "public_id": "abinash-panigrahi-169531193",
+            "tracking_id": "762734241"
+        },
+        {
+            "urn_id": "ACoAACYmrvgBRdvWxItbY_KP_fyrEgZ9U-QKJqk",
+            "distance": "DISTANCE_1",
+            "public_id": "rtsu",
+            "tracking_id": "640069368"
+        },
+        {
+            "urn_id": "ACoAADRMKTMBj76XTPRfB9R5rvfwNOXP2n93n4c",
+            "distance": "DISTANCE_1",
+            "public_id": "manash-deka-497a12205",
+            "tracking_id": "877406515"
+        },
+        {
+            "urn_id": "ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc",
+            "distance": "DISTANCE_1",
+            "public_id": "ratnadeep-bhattacharjee",
+            "tracking_id": "135079003"
+        },
+        {
+            "urn_id": "ACoAAAR5v8MBjPwCvp8TP9RWZyGSeNYNiJ1wKJE",
+            "distance": "DISTANCE_1",
+            "public_id": "nilotpal-boruah",
+            "tracking_id": "75087811"
+        }
+    ],
+    "skills": [
+        {
+            "name": "CRM"
+        },
+        {
+            "name": "Social Intelligence"
+        },
+        {
+            "name": "Key Account Management"
+        },
+        {
+            "name": "Business Strategy"
+        },
+        {
+            "name": "Team Management"
+        },
+        {
+            "name": "Customer Retention"
+        },
+        {
+            "name": "Business Development"
+        },
+        {
+            "name": "Business Analysis"
+        },
+        {
+            "name": "Customer Experience"
+        },
+        {
+            "name": "MIS"
+        },
+        {
+            "name": "Sales"
+        },
+        {
+            "name": "Team Leadership"
+        },
+        {
+            "name": "Market Study & Analytics"
+        },
+        {
+            "name": "Customer Service"
+        },
+        {
+            "name": "Business Promotions"
+        },
+        {
+            "name": "SQL"
+        },
+        {
+            "name": "Analytics"
+        },
+        {
+            "name": "Client Servicing"
+        },
+        {
+            "name": "Strategy"
+        },
+        {
+            "name": "MIS & Report Making"
+        },
+        {
+            "name": "Data Analysis"
+        },
+        {
+            "name": "Business Intelligence"
+        },
+        {
+            "name": "Account Management"
+        },
+        {
+            "name": "Management Information Systems (MIS)"
+        },
+        {
+            "name": "Customer Relationship Management (CRM)"
+        },
+        {
+            "name": "Sales Enablement"
+        },
+        {
+            "name": "Market Research"
+        },
+        {
+            "name": "Data Visualization"
+        },
+        {
+            "name": "Inbound Lead Generation"
+        },
+        {
+            "name": "Pay Per Click (PPC)"
+        },
+        {
+            "name": "Web Content Writing"
+        },
+        {
+            "name": "Ms Excel"
+        },
+        {
+            "name": "Google Sheets"
+        },
+        {
+            "name": "Google Slides"
+        },
+        {
+            "name": "Market Survey"
+        },
+        {
+            "name": "Tableau Data Visualization"
+        },
+        {
+            "name": "Tableau"
+        }
+    ]
+}

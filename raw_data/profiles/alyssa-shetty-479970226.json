@@ -1,0 +1,186 @@
+{
+    "profile": {
+        "summary": "\ud83d\udc49Currently, we are working with one of the world's largest health insurance revenue intelligence services.\u00a0The project is built around the already existing Intelligence portal developed by the client. The portal\u00a0contains machine learning models to predict if a claim\u00a0will be accepted or rejected by the insurance\u00a0provider. We are developing an\u00a0environment around the Intelligence portal\u00a0to automate tasks creation, ingestion, devalidation, and monitoring of rules used for generating predictions. The project involves data engineering, data analysis, and web development. At present, three people are working on this project (one Data Engineer, Two full-stack developers) Technologies used: Python Django, AWS RDS, PostgreSQL, Docker, Jenkins, AWS Redshift \n\n\ud83d\udc49TechVariable has also helped startups with 2x faster delivery in their product development journey with our services like Custom Application Development, Rapid Prototyping, etc. (https://www.techvariable.com/case-studies/)\n\n\ud83d\udc49TechVariable has achieved this because of the extremely lean delivery model and client-centric approach. \n\n \ud83d\udc49TechVariable has a strong team of about 50 and has developed products as well as solutions for several companies across the globe.\n\nWould it be possible for you to get on a call with us and explore how we have ensured the successful delivery of digital products throughout the globe?",
+        "industryName": "IT Services and IT Consulting",
+        "lastName": "Shetty",
+        "locationName": "India",
+        "student": false,
+        "geoCountryName": "India",
+        "geoCountryUrn": "urn:li:fs_geo:102713980",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "industryUrn": "urn:li:fs_industry:96",
+        "firstName": "Alyssa ",
+        "entityUrn": "urn:li:fs_profile:ACoAADi9RZ0Bucv7NRh-3n1tldlRmBYEIfYedmY",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:109710172"
+        },
+        "geoLocationName": "Bengaluru, Karnataka",
+        "location": {
+            "basicLocation": {
+                "countryCode": "in"
+            }
+        },
+        "headline": "Helping Mid-Size US Enterprises with Complex Data Science and Data Engineering Projects",
+        "displayPictureUrl": "https://media-exp1.licdn.com/dms/image/C5603AQFYSQPnpSQIuA/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/0/1637563464736?e=1657756800&v=beta&t=GykVNOahZyZSi5GdFzgpwbHiPdYSx4Bbx1F6LIY7FFA",
+        "img_200_200": "200_200/0/1637563464736?e=1657756800&v=beta&t=RfClGL7Hynyz0NElQbJz581gDILJoZECcV9YLZBiYbY",
+        "img_400_400": "400_400/0/1637563464736?e=1657756800&v=beta&t=U-h_4qxGk5hDX9zABQpQjVxYeJBeRCnBwW8GRM0CZ8g",
+        "img_800_800": "800_800/0/1637563464736?e=1657756800&v=beta&t=aLVRRJN82qYT0vexUqN44HZ8ABYR_Q40CLP5mBvwTlw",
+        "profile_id": "ACoAADi9RZ0Bucv7NRh-3n1tldlRmBYEIfYedmY",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAADi9RZ0Bucv7NRh-3n1tldlRmBYEIfYedmY",
+        "member_urn": "urn:li:member:951928221",
+        "experience": [
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAADi9RZ0Bucv7NRh-3n1tldlRmBYEIfYedmY,1873347169)",
+                "companyName": "TechVariable",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 9,
+                        "year": 2016
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Assistant To Chief Executive Officer",
+                "companyUrn": "urn:li:fs_miniCompany:10632640",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQE6IzKHUZQmAA/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAADi9RZ0Bucv7NRh-3n1tldlRmBYEIfYedmY,761755719)",
+                "school": {
+                    "objectUrn": "urn:li:school:3246831",
+                    "entityUrn": "urn:li:fs_miniSchool:3246831",
+                    "active": true,
+                    "schoolName": "ICFAI Business School",
+                    "trackingId": "TwFOW0fLREC1J7IetrxccA==",
+                    "logoUrl": "https://media-exp1.licdn.com/dms/image/C560BAQGAGGoQ4TJ_Hg/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "month": 7,
+                        "year": 2016
+                    },
+                    "startDate": {
+                        "month": 7,
+                        "year": 2014
+                    }
+                },
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:101406",
+                "degreeName": "Master of Business Administration - MBA",
+                "schoolName": "ICFAI Business School",
+                "fieldOfStudy": "Business, Management, Marketing, and Related Support Services",
+                "degreeUrn": "urn:li:fs_degree:700",
+                "schoolUrn": "urn:li:fs_miniSchool:3246831"
+            }
+        ],
+        "languages": [],
+        "publications": [],
+        "certifications": [],
+        "volunteer": [],
+        "honors": [],
+        "projects": []
+    },
+    "contact_info": {
+        "email_address": null,
+        "websites": [],
+        "twitter": [],
+        "birthdate": null,
+        "ims": null,
+        "phone_numbers": []
+    },
+    "connections": [
+        {
+            "urn_id": "ACoAAC24GToBKzC8vS7jZaCEqoq3Jse_M2Tson8",
+            "distance": "DISTANCE_1",
+            "public_id": "abhijit-paul-936a68194",
+            "tracking_id": "767039802"
+        },
+        {
+            "urn_id": "ACoAAByhqogBLFVDJbqojrVMhtKfC3o3hRfEcjg",
+            "distance": "DISTANCE_1",
+            "public_id": "biki-talukdar-460a54114",
+            "tracking_id": "480357000"
+        },
+        {
+            "urn_id": "ACoAABr4jt0BoOUmisITdRo1gR4CumG5I4jjZIw",
+            "distance": "DISTANCE_1",
+            "public_id": "samudra-deka-911659107",
+            "tracking_id": "452497117"
+        },
+        {
+            "urn_id": "ACoAADLJzxsBizdB0nN5NZBCM41Q-z6-7ef5gyI",
+            "distance": "DISTANCE_1",
+            "public_id": "deepjyoti-kalita-78b4411b9",
+            "tracking_id": "852086555"
+        },
+        {
+            "urn_id": "ACoAACT67ZEBgw1Aprl8Aqy8zWMavdTyaWs7J3w",
+            "distance": "DISTANCE_1",
+            "public_id": "titikshya-das-015942153",
+            "tracking_id": "620424593"
+        },
+        {
+            "urn_id": "ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE",
+            "distance": "DISTANCE_1",
+            "public_id": "prithoo11335",
+            "tracking_id": "231212168"
+        },
+        {
+            "urn_id": "ACoAACeXhGEBEVCUXmKi5rowUSeFZNerPjvzQsc",
+            "distance": "DISTANCE_1",
+            "public_id": "mahbubul-haque-a55552166",
+            "tracking_id": "664241249"
+        },
+        {
+            "urn_id": "ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY",
+            "distance": "DISTANCE_1",
+            "public_id": "tridip-das-b5837911b",
+            "tracking_id": "499568180"
+        },
+        {
+            "urn_id": "ACoAACZxhUQBl1V8kpLj4ACrE2LzpatGvVzEgSA",
+            "distance": "DISTANCE_1",
+            "public_id": "nabajyoti-borah-944000160",
+            "tracking_id": "644973892"
+        },
+        {
+            "urn_id": "ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8",
+            "distance": "DISTANCE_1",
+            "public_id": "sivaranjan-goswami-790b4523",
+            "tracking_id": "83451420"
+        },
+        {
+            "urn_id": "ACoAACDVs-sB_IgxPBMHMRBfR6is3jmwwV_OvTE",
+            "distance": "DISTANCE_1",
+            "public_id": "swapnil-bhattacharjee-ghy",
+            "tracking_id": "550876139"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Networking"
+        },
+        {
+            "name": "Business Planning"
+        },
+        {
+            "name": "Accounting"
+        },
+        {
+            "name": "Board of Directors"
+        },
+        {
+            "name": "Influencer Marketing"
+        }
+    ]
+}

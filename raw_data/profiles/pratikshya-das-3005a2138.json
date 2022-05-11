@@ -1,0 +1,479 @@
+{
+    "profile": {
+        "industryName": "Human Resources Services",
+        "lastName": "Das",
+        "locationName": "India",
+        "student": false,
+        "geoCountryName": "India",
+        "geoCountryUrn": "urn:li:fs_geo:102713980",
+        "geoLocationBackfilled": false,
+        "elt": true,
+        "birthDate": {
+            "month": 10,
+            "day": 21
+        },
+        "industryUrn": "urn:li:fs_industry:137",
+        "firstName": "Pratikshya",
+        "entityUrn": "urn:li:fs_profile:ACoAACGL9TAB-q4emD6QdWVn_vFhATQAfn30J_Y",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:105607401"
+        },
+        "geoLocationName": "Guwahati, Assam",
+        "location": {
+            "basicLocation": {
+                "countryCode": "in"
+            }
+        },
+        "headline": "Human Resource Executive at TechVariable",
+        "displayPictureUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQE6YeIN6cKyiA/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/0/1641884539786?e=1657756800&v=beta&t=QCVOMEruOKtN80cPAi5Xnt9NW8l-RlmlD5Mq9qNJhcE",
+        "img_200_200": "200_200/0/1641884539786?e=1657756800&v=beta&t=L5oic6tKQLM5Y4GwdgvKsyegfN1DZy5tDp5jU-G-XXg",
+        "img_400_400": "400_400/0/1641884539786?e=1657756800&v=beta&t=Okj-nscnQXSYPqhlxMq5ArnRVDqeiTVROYUn20CXLd0",
+        "img_800_800": "800_800/0/1641884539786?e=1657756800&v=beta&t=XVp8f31IwaESD3CrWsTSx24yQESV3iytIyiRpEpV9WI",
+        "profile_id": "ACoAACGL9TAB-q4emD6QdWVn_vFhATQAfn30J_Y",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAACGL9TAB-q4emD6QdWVn_vFhATQAfn30J_Y",
+        "member_urn": "urn:li:member:562820400",
+        "experience": [
+            {
+                "locationName": "Guwahati, Assam, India",
+                "entityUrn": "urn:li:fs_position:(ACoAACGL9TAB-q4emD6QdWVn_vFhATQAfn30J_Y,1879350836)",
+                "geoLocationName": "Guwahati, Assam, India",
+                "geoUrn": "urn:li:fs_geo:105607401",
+                "companyName": "TechVariable",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 10,
+                        "year": 2021
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Human Resources Executive",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:10632640",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQE6IzKHUZQmAA/company-logo_"
+            },
+            {
+                "locationName": "Guwahati, Assam, India",
+                "entityUrn": "urn:li:fs_position:(ACoAACGL9TAB-q4emD6QdWVn_vFhATQAfn30J_Y,1850568490)",
+                "geoLocationName": "Guwahati, Assam, India",
+                "geoUrn": "urn:li:fs_geo:105607401",
+                "companyName": "TechVariable",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 10,
+                        "year": 2021
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Human Resources Intern",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:10632640",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQE6IzKHUZQmAA/company-logo_"
+            },
+            {
+                "locationName": "Guwahati, Assam, India",
+                "entityUrn": "urn:li:fs_position:(ACoAACGL9TAB-q4emD6QdWVn_vFhATQAfn30J_Y,1817070445)",
+                "$anti_abuse_metadata": {
+                    "/geoUrn": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:562820400"
+                        }
+                    },
+                    "/companyName": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:562820400"
+                        }
+                    },
+                    "/companyUrn": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:562820400"
+                        }
+                    },
+                    "/entityUrn": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:562820400"
+                        }
+                    },
+                    "/geoLocationName": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:562820400"
+                        }
+                    },
+                    "/promotion": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:562820400"
+                        }
+                    },
+                    "/title": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:562820400"
+                        }
+                    },
+                    "/region": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:562820400"
+                        }
+                    },
+                    "/locationName": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:562820400"
+                        }
+                    },
+                    "/description": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:562820400"
+                        }
+                    }
+                },
+                "geoLocationName": "Guwahati, Assam, India",
+                "geoUrn": "urn:li:fs_geo:105607401",
+                "companyName": "Indian Oil Corporation Ltd.  Guwahati Refinery",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 3,
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2019
+                    }
+                },
+                "title": "Project Intern",
+                "region": "urn:li:fs_region:(in,0)"
+            },
+            {
+                "locationName": "Guwahati, Assam, India",
+                "entityUrn": "urn:li:fs_position:(ACoAACGL9TAB-q4emD6QdWVn_vFhATQAfn30J_Y,1817076186)",
+                "$anti_abuse_metadata": {
+                    "/geoUrn": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:562820400"
+                        }
+                    },
+                    "/companyName": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:562820400"
+                        }
+                    },
+                    "/companyUrn": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:562820400"
+                        }
+                    },
+                    "/entityUrn": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:562820400"
+                        }
+                    },
+                    "/geoLocationName": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:562820400"
+                        }
+                    },
+                    "/promotion": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:562820400"
+                        }
+                    },
+                    "/title": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:562820400"
+                        }
+                    },
+                    "/region": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:562820400"
+                        }
+                    },
+                    "/locationName": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:562820400"
+                        }
+                    },
+                    "/description": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:562820400"
+                        }
+                    }
+                },
+                "geoLocationName": "Guwahati, Assam, India",
+                "geoUrn": "urn:li:fs_geo:105607401",
+                "companyName": "The Co-operative City Bank Ltd.",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 8,
+                        "year": 2018
+                    },
+                    "startDate": {
+                        "month": 7,
+                        "year": 2018
+                    }
+                },
+                "title": "Project Intern",
+                "region": "urn:li:fs_region:(in,0)"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAACGL9TAB-q4emD6QdWVn_vFhATQAfn30J_Y,435671463)",
+                "school": {
+                    "objectUrn": "urn:li:school:203992",
+                    "entityUrn": "urn:li:fs_miniSchool:203992",
+                    "active": true,
+                    "schoolName": "North Eastern Regional Institute of Management",
+                    "trackingId": "/2s0idEgTM2vO+pDGszyyA==",
+                    "logoUrl": "https://media-exp1.licdn.com/dms/image/C560BAQEpw0A694f-Vg/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "year": 2017
+                    }
+                },
+                "degreeName": "Master of Business Administration - MBA",
+                "schoolName": "NORTH EASTERN REGIONAL INSTITUTE OF MANAGEMENT(NERIM)",
+                "fieldOfStudy": "Human Resources  and Marketing",
+                "degreeUrn": "urn:li:fs_degree:700",
+                "schoolUrn": "urn:li:fs_miniSchool:203992"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAACGL9TAB-q4emD6QdWVn_vFhATQAfn30J_Y,392818595)",
+                "school": {
+                    "objectUrn": "urn:li:school:213097",
+                    "entityUrn": "urn:li:fs_miniSchool:213097",
+                    "active": true,
+                    "schoolName": "Handique Girl's College",
+                    "trackingId": "53o7t2YRTa+24xDimFv0SQ==",
+                    "logoUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQHrn6fCVE7A_w/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2017
+                    },
+                    "startDate": {
+                        "year": 2014
+                    }
+                },
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100936",
+                "degreeName": "Bachelor of Arts (B.A.)",
+                "schoolName": "Handique Girl's College",
+                "fieldOfStudy": "Applied Psychology",
+                "degreeUrn": "urn:li:fs_degree:350",
+                "schoolUrn": "urn:li:fs_miniSchool:213097"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAACGL9TAB-q4emD6QdWVn_vFhATQAfn30J_Y,392820071)",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2014
+                    },
+                    "startDate": {
+                        "year": 2012
+                    }
+                },
+                "degreeName": "Higher Secondary",
+                "schoolName": "B.Barooah College",
+                "fieldOfStudy": "Arts"
+            }
+        ],
+        "languages": [
+            {
+                "name": "Assamese",
+                "proficiency": "PROFESSIONAL_WORKING"
+            },
+            {
+                "name": "English",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "Hindi",
+                "proficiency": "PROFESSIONAL_WORKING"
+            }
+        ],
+        "publications": [],
+        "certifications": [],
+        "volunteer": [],
+        "honors": [],
+        "projects": []
+    },
+    "contact_info": {
+        "email_address": null,
+        "websites": [],
+        "twitter": [],
+        "birthdate": {
+            "month": 10,
+            "day": 21
+        },
+        "ims": null,
+        "phone_numbers": []
+    },
+    "connections": [
+        {
+            "urn_id": "ACoAAC24GToBKzC8vS7jZaCEqoq3Jse_M2Tson8",
+            "distance": "DISTANCE_1",
+            "public_id": "abhijit-paul-936a68194",
+            "tracking_id": "767039802"
+        },
+        {
+            "urn_id": "ACoAAByhqogBLFVDJbqojrVMhtKfC3o3hRfEcjg",
+            "distance": "DISTANCE_1",
+            "public_id": "biki-talukdar-460a54114",
+            "tracking_id": "480357000"
+        },
+        {
+            "urn_id": "ACoAABr4jt0BoOUmisITdRo1gR4CumG5I4jjZIw",
+            "distance": "DISTANCE_1",
+            "public_id": "samudra-deka-911659107",
+            "tracking_id": "452497117"
+        },
+        {
+            "urn_id": "ACoAADZmR9QB1zOH_PmrzQQw2wQmTJRTcNGU7CE",
+            "distance": "DISTANCE_1",
+            "public_id": "bkalita",
+            "tracking_id": "912672724"
+        },
+        {
+            "urn_id": "ACoAADLJzxsBizdB0nN5NZBCM41Q-z6-7ef5gyI",
+            "distance": "DISTANCE_1",
+            "public_id": "deepjyoti-kalita-78b4411b9",
+            "tracking_id": "852086555"
+        },
+        {
+            "urn_id": "ACoAAC2aUPYBGPB-T9xDu2Hjrq7OgzRPu5nTvyE",
+            "distance": "DISTANCE_1",
+            "public_id": "jintudas",
+            "tracking_id": "765087990"
+        },
+        {
+            "urn_id": "ACoAACT67ZEBgw1Aprl8Aqy8zWMavdTyaWs7J3w",
+            "distance": "DISTANCE_1",
+            "public_id": "titikshya-das-015942153",
+            "tracking_id": "620424593"
+        },
+        {
+            "urn_id": "ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE",
+            "distance": "DISTANCE_1",
+            "public_id": "prithoo11335",
+            "tracking_id": "231212168"
+        },
+        {
+            "urn_id": "ACoAACr0GSwBcmPDh22HqivG9h0JwG-eahXSYW8",
+            "distance": "DISTANCE_1",
+            "public_id": "nihar-kashyap98",
+            "tracking_id": "720640300"
+        },
+        {
+            "urn_id": "ACoAACbTg-gBtT_YqZc-FG2lIVBv13QTx8UUB8E",
+            "distance": "DISTANCE_1",
+            "public_id": "mridul24",
+            "tracking_id": "651396072"
+        },
+        {
+            "urn_id": "ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY",
+            "distance": "DISTANCE_1",
+            "public_id": "tridip-das-b5837911b",
+            "tracking_id": "499568180"
+        },
+        {
+            "urn_id": "ACoAACZxhUQBl1V8kpLj4ACrE2LzpatGvVzEgSA",
+            "distance": "DISTANCE_1",
+            "public_id": "nabajyoti-borah-944000160",
+            "tracking_id": "644973892"
+        },
+        {
+            "urn_id": "ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8",
+            "distance": "DISTANCE_1",
+            "public_id": "sivaranjan-goswami-790b4523",
+            "tracking_id": "83451420"
+        },
+        {
+            "urn_id": "ACoAACDVs-sB_IgxPBMHMRBfR6is3jmwwV_OvTE",
+            "distance": "DISTANCE_1",
+            "public_id": "swapnil-bhattacharjee-ghy",
+            "tracking_id": "550876139"
+        },
+        {
+            "urn_id": "ACoAACYmrvgBRdvWxItbY_KP_fyrEgZ9U-QKJqk",
+            "distance": "DISTANCE_1",
+            "public_id": "rtsu",
+            "tracking_id": "640069368"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Human Resources"
+        },
+        {
+            "name": "Strategic Planning"
+        },
+        {
+            "name": "Team Management"
+        },
+        {
+            "name": "Entrepreneurship"
+        },
+        {
+            "name": "DTP"
+        },
+        {
+            "name": "Marketing Strategy"
+        },
+        {
+            "name": "Microsoft Word"
+        },
+        {
+            "name": "Microsoft Office"
+        },
+        {
+            "name": "Microsoft PowerPoint"
+        },
+        {
+            "name": "Microsoft Excel"
+        },
+        {
+            "name": "Management"
+        },
+        {
+            "name": "Marketing"
+        },
+        {
+            "name": "Abode Pagemaker"
+        },
+        {
+            "name": "Teamwork"
+        },
+        {
+            "name": "Communication"
+        },
+        {
+            "name": "Leadership"
+        },
+        {
+            "name": "Team Building"
+        },
+        {
+            "name": "Relationship Building"
+        },
+        {
+            "name": "Training"
+        }
+    ]
+}

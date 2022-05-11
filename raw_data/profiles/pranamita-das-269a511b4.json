@@ -1,0 +1,200 @@
+{
+    "profile": {
+        "summary": "Getting done with my Bachelor's Degree in English Literature, I chose Mass Media and Communication to master my eloquence for 2 years. My life has been nothing less than a roller-coaster ride, rushing from one career option to another, that I somehow landed into the PR World. Public Relations, since I've gotten to know this term during my Masters, has enticed me a lot.  \nConnecting and communicating with people has been my forte all time. The process of listening, creating, and telling stories is what I love the most.",
+        "industryName": "Public Relations and Communications Services",
+        "lastName": "Das",
+        "locationName": "India",
+        "student": false,
+        "geoCountryName": "India",
+        "geoCountryUrn": "urn:li:fs_geo:102713980",
+        "geoLocationBackfilled": false,
+        "elt": true,
+        "industryUrn": "urn:li:fs_industry:98",
+        "firstName": "Pranamita",
+        "entityUrn": "urn:li:fs_profile:ACoAADH9FTEBN2_Ou7SXUO_aK-uoqEfttmSGmJk",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:106442238"
+        },
+        "geoLocationName": "Gurugram, Haryana",
+        "location": {
+            "basicLocation": {
+                "countryCode": "in"
+            }
+        },
+        "headline": "Communications Executive at Jajabor Brand Consultancy",
+        "displayPictureUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQHqYnt1-UvjJw/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/0/1646738065796?e=1657756800&v=beta&t=wbZLoj6QUDfYRESJQDzdFdXynhCSsdVenMRUOu2hTGk",
+        "img_200_200": "200_200/0/1646738065796?e=1657756800&v=beta&t=gVq6FeQjaeLKCvS-2xiwA_EGIjX3CdzC7bLIliAtz1s",
+        "img_400_400": "400_400/0/1646738065796?e=1657756800&v=beta&t=yphAC5ghNJn6SR6IDoDCp7lEc7ekKI9HnU0FGBez9_c",
+        "img_800_800": "800_800/0/1646738065796?e=1657756800&v=beta&t=t-enDRXzzxlCPirAkLHCCx_T0PatBTNhN0Fo9iUexHY",
+        "profile_id": "ACoAADH9FTEBN2_Ou7SXUO_aK-uoqEfttmSGmJk",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAADH9FTEBN2_Ou7SXUO_aK-uoqEfttmSGmJk",
+        "member_urn": "urn:li:member:838669617",
+        "experience": [
+            {
+                "locationName": "Gurgaon",
+                "entityUrn": "urn:li:fs_position:(ACoAADH9FTEBN2_Ou7SXUO_aK-uoqEfttmSGmJk,1861612364)",
+                "geoLocationName": "Gurgaon",
+                "companyName": "Jajabor Brand Consultancy",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 10,
+                        "year": 2021
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Public Relations and Communications"
+                    ]
+                },
+                "title": "Communications Executive",
+                "companyUrn": "urn:li:fs_miniCompany:35921933",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C510BAQE5vP03FMMyzQ/company-logo_"
+            },
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAADH9FTEBN2_Ou7SXUO_aK-uoqEfttmSGmJk,1810756124)",
+                "companyName": "TechVariable\u00ae",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 10,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 7,
+                        "year": 2021
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "PR and Media Executive",
+                "companyUrn": "urn:li:fs_miniCompany:10632640",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQE6IzKHUZQmAA/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "courses": [
+                    "urn:li:fs_course:(ACoAADH9FTEBN2_Ou7SXUO_aK-uoqEfttmSGmJk,1790812860)"
+                ],
+                "entityUrn": "urn:li:fs_education:(ACoAADH9FTEBN2_Ou7SXUO_aK-uoqEfttmSGmJk,721511045)",
+                "school": {
+                    "objectUrn": "urn:li:school:13644",
+                    "entityUrn": "urn:li:fs_miniSchool:13644",
+                    "active": true,
+                    "schoolName": "Tezpur University",
+                    "trackingId": "LWgUNirRRTutpRaGc8dMCw==",
+                    "logoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQGdv3IR3tOUdw/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "year": 2019
+                    }
+                },
+                "degreeName": "M. A",
+                "schoolName": "Tezpur University",
+                "fieldOfStudy": "Mass Communication and Journalism",
+                "schoolUrn": "urn:li:fs_miniSchool:13644"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "proficiency": "PROFESSIONAL_WORKING"
+            }
+        ],
+        "publications": [],
+        "certifications": [],
+        "volunteer": [],
+        "honors": [],
+        "projects": []
+    },
+    "contact_info": {
+        "email_address": null,
+        "websites": [],
+        "twitter": [],
+        "birthdate": null,
+        "ims": null,
+        "phone_numbers": []
+    },
+    "connections": [
+        {
+            "urn_id": "ACoAABr4jt0BoOUmisITdRo1gR4CumG5I4jjZIw",
+            "distance": "DISTANCE_1",
+            "public_id": "samudra-deka-911659107",
+            "tracking_id": "452497117"
+        },
+        {
+            "urn_id": "ACoAADLJzxsBizdB0nN5NZBCM41Q-z6-7ef5gyI",
+            "distance": "DISTANCE_1",
+            "public_id": "deepjyoti-kalita-78b4411b9",
+            "tracking_id": "852086555"
+        },
+        {
+            "urn_id": "ACoAACT67ZEBgw1Aprl8Aqy8zWMavdTyaWs7J3w",
+            "distance": "DISTANCE_1",
+            "public_id": "titikshya-das-015942153",
+            "tracking_id": "620424593"
+        },
+        {
+            "urn_id": "ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY",
+            "distance": "DISTANCE_1",
+            "public_id": "tridip-das-b5837911b",
+            "tracking_id": "499568180"
+        },
+        {
+            "urn_id": "ACoAACZxhUQBl1V8kpLj4ACrE2LzpatGvVzEgSA",
+            "distance": "DISTANCE_1",
+            "public_id": "nabajyoti-borah-944000160",
+            "tracking_id": "644973892"
+        },
+        {
+            "urn_id": "ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8",
+            "distance": "DISTANCE_1",
+            "public_id": "sivaranjan-goswami-790b4523",
+            "tracking_id": "83451420"
+        },
+        {
+            "urn_id": "ACoAACDVs-sB_IgxPBMHMRBfR6is3jmwwV_OvTE",
+            "distance": "DISTANCE_1",
+            "public_id": "swapnil-bhattacharjee-ghy",
+            "tracking_id": "550876139"
+        }
+    ],
+    "skills": [
+        {
+            "name": "English"
+        },
+        {
+            "name": "Communication"
+        },
+        {
+            "name": "Research"
+        },
+        {
+            "name": "Management"
+        },
+        {
+            "name": "Education"
+        },
+        {
+            "name": "Leadership"
+        },
+        {
+            "name": "Strategy"
+        }
+    ]
+}

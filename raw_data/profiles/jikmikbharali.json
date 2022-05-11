@@ -1,0 +1,237 @@
+{
+    "profile": {
+        "summary": "\"Content is fire, and Marketing is gasoline.\"\nA great content is just not enough, what good is a masterpiece if it doesn't reach its target audience, right?\nI bridge the gap between a content & it's consumer by creating SEO friendly keywords based writeups.\n \n3+ years of experience as Content Marketer with a knack to grasp and put into application new ideas, concepts and methods with a demonstrated history of working in the Information Technology and Services industry. Strong operations professional skilled in Social Media Optimization (SMO), Corporate Writing and Editing, Internet Marketing, Content Management and Copy editing.\n\nAdept at working in cross-functional settings in a matrix organization. Self-motivated, flexible and can easily handle multiple priorities. \n\nAdapting new aspects of marketing and corporate communications, ranging from Integrated Marketing Campaigns, Digital Marketing, Public Relations, Internal Communications and Social media handling.\n\nWhen I am not involved in Marketing I like to indulge myself in blogs (reading/creating), audio podcasts and DIY youtube videos.\n\n\n",
+        "industryName": "IT Services and IT Consulting",
+        "lastName": "Bharali",
+        "locationName": "India",
+        "student": false,
+        "geoCountryName": "India",
+        "geoCountryUrn": "urn:li:fs_geo:102713980",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "industryUrn": "urn:li:fs_industry:96",
+        "firstName": "Jikmik",
+        "entityUrn": "urn:li:fs_profile:ACoAACO6K0IBJIokP8q_2FYOPuccdjol-zi7KcY",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:102713980"
+        },
+        "location": {
+            "basicLocation": {
+                "countryCode": "in"
+            }
+        },
+        "headline": "Corporate Blogger || Content Marketer || SMO",
+        "displayPictureUrl": "https://media-exp1.licdn.com/dms/image/C4E03AQHRKXULQ109Nw/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/0/1568025397080?e=1657756800&v=beta&t=yWB9LR-w-ngdI5LXHf295BKwIEr2bct-EpOaw6t2g9g",
+        "img_200_200": "200_200/0/1568025397080?e=1657756800&v=beta&t=OeTa3ONpbhGyTplUD0nOU_KAHzL_lPYzoPl5vq5A0Xs",
+        "img_400_400": "400_400/0/1568025397080?e=1657756800&v=beta&t=L10tPr2I_e9FPaV3ULbaXCnEW1_7lNRX4qhyN8Vsxsk",
+        "img_800_800": "800_800/0/1568025397080?e=1657756800&v=beta&t=Ap9H56H4gv9vykUQVh_buyDy0g8XKG_nooM3a2_8PG0",
+        "profile_id": "ACoAACO6K0IBJIokP8q_2FYOPuccdjol-zi7KcY",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAACO6K0IBJIokP8q_2FYOPuccdjol-zi7KcY",
+        "member_urn": "urn:li:member:599403330",
+        "experience": [
+            {
+                "locationName": "Guwahati Area, India",
+                "entityUrn": "urn:li:fs_position:(ACoAACO6K0IBJIokP8q_2FYOPuccdjol-zi7KcY,1162775576)",
+                "geoLocationName": "Guwahati Area, India",
+                "companyName": "TechVariable",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 6,
+                        "year": 2017
+                    }
+                },
+                "description": "- Developing web content in lucid language for target audience.\n- Also, content for general Blog post, in-house articles and Social Media.\n- Organizing integrated marketing campaigns.\n- Equipped with CRM handling.\n- Public Relation management.\n- Lead generation and Prospecting.\n- Social media.\n- Participate in Corporate Events representing the firm.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Corporate Blogger and Content Marketer",
+                "companyUrn": "urn:li:fs_miniCompany:10632640",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQE6IzKHUZQmAA/company-logo_"
+            },
+            {
+                "locationName": "Guwahati Area, India",
+                "entityUrn": "urn:li:fs_position:(ACoAACO6K0IBJIokP8q_2FYOPuccdjol-zi7KcY,1515044787)",
+                "geoLocationName": "Guwahati Area, India",
+                "geoUrn": "urn:li:fs_geo:104535556",
+                "companyName": "Northeast Jobs",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 9,
+                        "year": 2019
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 2,
+                        "end": 10
+                    },
+                    "industries": [
+                        "Education Management"
+                    ]
+                },
+                "title": "Freelance Blogger",
+                "region": "urn:li:fs_region:(in,7248)",
+                "companyUrn": "urn:li:fs_miniCompany:14593261",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C510BAQFcj10UfSJ-VA/company-logo_"
+            },
+            {
+                "locationName": "Jorhat Area, India",
+                "entityUrn": "urn:li:fs_position:(ACoAACO6K0IBJIokP8q_2FYOPuccdjol-zi7KcY,1113154839)",
+                "geoLocationName": "Jorhat Area, India",
+                "geoUrn": "urn:li:fs_geo:105292557",
+                "companyName": "ICICI Prudential Life Insurance Company Limited",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2017
+                    },
+                    "startDate": {
+                        "month": 6,
+                        "year": 2016
+                    }
+                },
+                "description": "Design, Plan, Organize and Direct orientation and training of IC33 syllabus for aspiring Financial Advisors.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Insurance"
+                    ]
+                },
+                "title": "Trainer",
+                "region": "urn:li:fs_region:(in,6987)",
+                "companyUrn": "urn:li:fs_miniCompany:164274",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQHFXeLRNYgzwg/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAACO6K0IBJIokP8q_2FYOPuccdjol-zi7KcY,460107929)",
+                "school": {
+                    "objectUrn": "urn:li:school:13476",
+                    "entityUrn": "urn:li:fs_miniSchool:13476",
+                    "active": true,
+                    "schoolName": "Gauhati University",
+                    "trackingId": "m296i1ZYSkaRBQ42CmsYEQ==",
+                    "logoUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQE_SHDG7RHWLg/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2016
+                    },
+                    "startDate": {
+                        "year": 2014
+                    }
+                },
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100583",
+                "degreeName": "M.A",
+                "schoolName": "Gauhati University",
+                "fieldOfStudy": "English Language and Literature, General",
+                "schoolUrn": "urn:li:fs_miniSchool:13476"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAACO6K0IBJIokP8q_2FYOPuccdjol-zi7KcY,460107937)",
+                "school": {
+                    "objectUrn": "urn:li:school:213579",
+                    "entityUrn": "urn:li:fs_miniSchool:213579",
+                    "active": true,
+                    "schoolName": "J.B. College P.O. Jorhat-785001",
+                    "trackingId": "4qjOfzFlQXiMXMQNSfNkAA=="
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2013
+                    },
+                    "startDate": {
+                        "year": 2010
+                    }
+                },
+                "degreeName": "B.A",
+                "schoolName": "J.B. College P.O. Jorhat-785001",
+                "fieldOfStudy": "English",
+                "schoolUrn": "urn:li:fs_miniSchool:213579"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAACO6K0IBJIokP8q_2FYOPuccdjol-zi7KcY,460107951)",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2010
+                    },
+                    "startDate": {
+                        "year": 2008
+                    }
+                },
+                "degreeName": "H.S",
+                "schoolName": "Luit Valley Academy",
+                "fieldOfStudy": "Arts"
+            }
+        ],
+        "languages": [],
+        "publications": [],
+        "certifications": [],
+        "volunteer": [],
+        "honors": [],
+        "projects": []
+    },
+    "contact_info": {
+        "email_address": null,
+        "websites": [],
+        "twitter": [],
+        "birthdate": null,
+        "ims": null,
+        "phone_numbers": []
+    },
+    "connections": [
+        {
+            "urn_id": "ACoAACT67ZEBgw1Aprl8Aqy8zWMavdTyaWs7J3w",
+            "distance": "DISTANCE_1",
+            "public_id": "titikshya-das-015942153",
+            "tracking_id": "620424593"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Training",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:47",
+            "standardizedSkill": {
+                "name": "Training",
+                "entityUrn": "urn:li:fs_miniSkill:47"
+            }
+        },
+        {
+            "name": "Customer Service",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:99",
+            "standardizedSkill": {
+                "name": "Customer Service",
+                "entityUrn": "urn:li:fs_miniSkill:99"
+            }
+        },
+        {
+            "name": "Leadership",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:154",
+            "standardizedSkill": {
+                "name": "Leadership",
+                "entityUrn": "urn:li:fs_miniSkill:154"
+            }
+        },
+        {
+            "name": "Research",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:176",
+            "standardizedSkill": {
+                "name": "Research",
+                "entityUrn": "urn:li:fs_miniSkill:176"
+            }
+        },
+        {
+            "name": "Creativity"
+        }
+    ]
+}

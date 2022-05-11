@@ -1,0 +1,256 @@
+{
+    "profile": {
+        "summary": "\ud83d\udc49 Currently working with B2Brain Technologies in re-engineering their product based on Marketing automation through intelligent insights and analytics. Two backend and one frontend resource are currently engaged in the project for the last 6 months. All milestones were hit ahead of time. \nTechnologies: React.js, Python Django.\n\n\ud83d\udc49TechVariable has also helped startups with 2x faster delivery in their product development journey with our services like Custom Application Development, Rapid Prototyping, etc. (https://www.techvariable.com/case-studies/)\n\n\ud83d\udc49TechVariable has achieved this because of the extremely lean delivery model and client-centric approach. \n\n \ud83d\udc49TechVariable has a strong team of about 50 and has developed products as well as solutions for several companies across the globe.\n\nWould it be possible for you to get on a call with us and explore how we have ensured the successful delivery of digital products throughout the globe?",
+        "industryName": "IT Services and IT Consulting",
+        "lastName": "Sharma",
+        "locationName": "India",
+        "student": false,
+        "geoCountryName": "India",
+        "geoCountryUrn": "urn:li:fs_geo:102713980",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "industryUrn": "urn:li:fs_industry:96",
+        "firstName": "Eric",
+        "entityUrn": "urn:li:fs_profile:ACoAADi9VIoBibUPS17-hfvr51H5i3PRLtTzlQQ",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:105607401"
+        },
+        "geoLocationName": "Guwahati, Assam",
+        "location": {
+            "basicLocation": {
+                "countryCode": "in"
+            }
+        },
+        "headline": "Helping Indian Startups affordably Build World Class Tech from India, BACKED with outcome guarantees and 98% Client Satisfaction Record",
+        "displayPictureUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQGFPt8PD37PYA/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/0/1640173520877?e=1657756800&v=beta&t=XsOzPYDoAoWYAdTvryLPCHl8ahCsgfJVtYA8cu6oqxw",
+        "img_200_200": "200_200/0/1640173520877?e=1657756800&v=beta&t=KqZvdw8ROXx_Jvj2brTANF0J-3HGw-XACTlF5HcWySc",
+        "img_400_400": "400_400/0/1640173520877?e=1657756800&v=beta&t=JEN9mv1SLj8T2MZ0aEXqXEvsUbEnp7ptS9RHnVUbHmA",
+        "img_800_800": "800_800/0/1640173520877?e=1657756800&v=beta&t=hFOTtVBHEniYmKewguAGsfkU0jsXV_n3C5tZaFIUYCw",
+        "profile_id": "ACoAADi9VIoBibUPS17-hfvr51H5i3PRLtTzlQQ",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAADi9VIoBibUPS17-hfvr51H5i3PRLtTzlQQ",
+        "member_urn": "urn:li:member:951932042",
+        "experience": [
+            {
+                "locationName": "Guwahati, Assam, India",
+                "entityUrn": "urn:li:fs_position:(ACoAADi9VIoBibUPS17-hfvr51H5i3PRLtTzlQQ,1887707776)",
+                "geoLocationName": "Guwahati, Assam, India",
+                "geoUrn": "urn:li:fs_geo:105607401",
+                "companyName": "TechVariable",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 6,
+                        "year": 2020
+                    }
+                },
+                "description": "Leading the Program Management function - Driving Innovation from identifying and crystallizing problem statements with business stakeholders to scouting and partnering with innovative deep-tech start-ups for customized solutions.\nIdentifying emerging technologies and architect custom solutions through partners to solve business problems.\nDeveloping hypotheses and creating robust test frameworks and KPI\u2019s to measure each hypothesis scientifically.\nExploring new innovation themes and technologies and driving a narrative-driven innovation culture.\nDeveloping due diligence start-up/partner decks covering market landscape, technology, and competitive analysis.\n\u2713 Understanding client goals, executing strategies to exceed these goals.\n\u2713 Providing strategic insights on the Campaigns to enhance the campaigns.\n\u2713 Preparation and analysis of performance reports & review with clients.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Director Of Strategic Partnerships",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:10632640",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQE6IzKHUZQmAA/company-logo_"
+            },
+            {
+                "locationName": "Guwahati, Assam, India",
+                "entityUrn": "urn:li:fs_position:(ACoAADi9VIoBibUPS17-hfvr51H5i3PRLtTzlQQ,1873348324)",
+                "geoLocationName": "Guwahati, Assam, India",
+                "geoUrn": "urn:li:fs_geo:105607401",
+                "companyName": "Ekodus INC.",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2017
+                    }
+                },
+                "description": "Exploring new innovation themes and technologies and driving a narrative-driven innovation culture.\nDeveloping due diligence start-up/partner decks covering market landscape, technology, and competitive analysis. \nWork with the Inside and Field sales team as their prospecting resource focused on uncovering new Hardware and Application opportunities in my territory.\nI am instrumental in creating demand for revenue opportunities with a focus on driving businesses to close and drawing the strategy for generating revenue and pipeline in their territory.\n\n\u2713 Understanding client goals, executing strategies to exceed these goals.\n\u2713 Providing strategic insights on the Campaigns to enhance the campaigns.\n\u2713 Preparation and analysis of performance reports & review with clients.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 51,
+                        "end": 200
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Sr. Sales Manager Strategic  & Lead Generation Consultant",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:13720472",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQEsmFCjzcL3oA/company-logo_"
+            },
+            {
+                "locationName": "Mumbai, Maharashtra, India",
+                "entityUrn": "urn:li:fs_position:(ACoAADi9VIoBibUPS17-hfvr51H5i3PRLtTzlQQ,1887710929)",
+                "geoLocationName": "Mumbai, Maharashtra, India",
+                "geoUrn": "urn:li:fs_geo:106164952",
+                "companyName": "Eagle Group",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 8,
+                        "year": 2017
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2015
+                    }
+                },
+                "description": "Responsible to maintain Brand Image of the organization by offering Cost saving & Effective\nSecurity solution with updated Technology for smooth operation to our clients.\n\u2022 Networking & Strategic Planning.\n\u2022 Keeping active track of the market and competition.\n\u2022 Actively represent Eagle Group at events, seminars, and other related social and business\nplatforms.\n\u2022 Maintain business relations with our esteemed Business Partners.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 2,
+                        "end": 10
+                    },
+                    "industries": [
+                        "Automotive"
+                    ]
+                },
+                "title": "Business Development Manager",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:747952",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQHmv6sqMRijjQ/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAADi9VIoBibUPS17-hfvr51H5i3PRLtTzlQQ,766363098)",
+                "school": {
+                    "objectUrn": "urn:li:school:3246831",
+                    "entityUrn": "urn:li:fs_miniSchool:3246831",
+                    "active": true,
+                    "schoolName": "ICFAI Business School",
+                    "trackingId": "x8mXK5EWRLKg/PgAxmGVZA==",
+                    "logoUrl": "https://media-exp1.licdn.com/dms/image/C560BAQGAGGoQ4TJ_Hg/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2016
+                    },
+                    "startDate": {
+                        "month": 6,
+                        "year": 2014
+                    }
+                },
+                "description": "Market research to uncover customer needs, Product planning and development \u2013to make products that meet and satisfy customer needs. Packaging, advertising and promotion \u2013 to create awareness and for brand-building. Pricing and distribution \u2013for long term revenue generation. Services that should be retained all through the years by the honest clientele.",
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:101465",
+                "degreeName": "Master of Business Administration - MBA",
+                "schoolName": "ICFAI Business School",
+                "fieldOfStudy": "International Business",
+                "degreeUrn": "urn:li:fs_degree:700",
+                "schoolUrn": "urn:li:fs_miniSchool:3246831"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAADi9VIoBibUPS17-hfvr51H5i3PRLtTzlQQ,769422994)",
+                "school": {
+                    "objectUrn": "urn:li:school:40884",
+                    "entityUrn": "urn:li:fs_miniSchool:40884",
+                    "active": true,
+                    "schoolName": "Ferguson Degree College",
+                    "trackingId": "yZndl06oR6a2+1F0PQz2JQ=="
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2013
+                    },
+                    "startDate": {
+                        "month": 7,
+                        "year": 2010
+                    }
+                },
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:101475",
+                "degreeName": "Bachelor of Commerce - BCom",
+                "schoolName": "Ferguson Degree College",
+                "fieldOfStudy": "Marketing",
+                "degreeUrn": "urn:li:fs_degree:215",
+                "schoolUrn": "urn:li:fs_miniSchool:40884"
+            }
+        ],
+        "languages": [],
+        "publications": [],
+        "certifications": [],
+        "volunteer": [],
+        "honors": [],
+        "projects": []
+    },
+    "contact_info": {
+        "email_address": null,
+        "websites": [],
+        "twitter": [],
+        "birthdate": null,
+        "ims": null,
+        "phone_numbers": []
+    },
+    "connections": [
+        {
+            "urn_id": "ACoAABr4jt0BoOUmisITdRo1gR4CumG5I4jjZIw",
+            "distance": "DISTANCE_1",
+            "public_id": "samudra-deka-911659107",
+            "tracking_id": "452497117"
+        },
+        {
+            "urn_id": "ACoAADLJzxsBizdB0nN5NZBCM41Q-z6-7ef5gyI",
+            "distance": "DISTANCE_1",
+            "public_id": "deepjyoti-kalita-78b4411b9",
+            "tracking_id": "852086555"
+        },
+        {
+            "urn_id": "ACoAACT67ZEBgw1Aprl8Aqy8zWMavdTyaWs7J3w",
+            "distance": "DISTANCE_1",
+            "public_id": "titikshya-das-015942153",
+            "tracking_id": "620424593"
+        },
+        {
+            "urn_id": "ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE",
+            "distance": "DISTANCE_1",
+            "public_id": "prithoo11335",
+            "tracking_id": "231212168"
+        },
+        {
+            "urn_id": "ACoAACeXhGEBEVCUXmKi5rowUSeFZNerPjvzQsc",
+            "distance": "DISTANCE_1",
+            "public_id": "mahbubul-haque-a55552166",
+            "tracking_id": "664241249"
+        },
+        {
+            "urn_id": "ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8",
+            "distance": "DISTANCE_1",
+            "public_id": "sivaranjan-goswami-790b4523",
+            "tracking_id": "83451420"
+        },
+        {
+            "urn_id": "ACoAACDVs-sB_IgxPBMHMRBfR6is3jmwwV_OvTE",
+            "distance": "DISTANCE_1",
+            "public_id": "swapnil-bhattacharjee-ghy",
+            "tracking_id": "550876139"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Analytical Skills"
+        },
+        {
+            "name": "Inbound Lead Generation"
+        },
+        {
+            "name": "Marketing"
+        },
+        {
+            "name": "B2B Marketing"
+        },
+        {
+            "name": "Business Development"
+        }
+    ]
+}

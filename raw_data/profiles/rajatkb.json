@@ -1,0 +1,3096 @@
+{
+    "profile": {
+        "summary": "A computer science graduate from Assam Engineering College (Batch 2019)  \ud83d\udcd6 and have close to 3 years experience with focus on areas in Full Stack Engineering \ud83d\udee0\ufe0f and Machine Learning Research \ud83d\udd2c. \n\nCurrently looking for new technologies and product space to work with. \ud83d\udc40\n\nI have an affinity towards never done before problems and particularly complex ones \ud83e\udd2f. I am not limited by ideas nor by toolset of choice. I am flexible and prefer to stay versatile with my tools. Although the more time I spend with one , the deeper I dig into it. I am a researcher at my core and love trifling with new ideas at my work. I can bring the best of both development as well as research experience on table.",
+        "industryName": "Internet Publishing",
+        "lastName": "Bhattacharjee",
+        "locationName": "India",
+        "student": false,
+        "geoCountryName": "India",
+        "geoCountryUrn": "urn:li:fs_geo:102713980",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "industryUrn": "urn:li:fs_industry:6",
+        "firstName": "Rajat Kanti",
+        "entityUrn": "urn:li:fs_profile:ACoAABuLazQByR0cOVlSLOC62gyVYvqXYhievAc",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:105607401"
+        },
+        "geoLocationName": "Guwahati, Assam",
+        "location": {
+            "basicLocation": {
+                "countryCode": "in"
+            }
+        },
+        "headline": "Engineer @ Gojek  ||  Interested in Research collaborations",
+        "displayPictureUrl": "https://media-exp1.licdn.com/dms/image/C4E03AQHYpvISXhDWFw/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/0/1614707285486?e=1657756800&v=beta&t=RbAgry1iPYednJkhcAPU-4Ghpy272vdx6LXLwbA4vzE",
+        "img_200_200": "200_200/0/1614707285486?e=1657756800&v=beta&t=_ruKzF_JVsVCt2DOaLynUS3xe49goeo00hYYKsGmZ64",
+        "img_400_400": "400_400/0/1614707285486?e=1657756800&v=beta&t=daa2L7W6GcTr-TRlDvdxgF9N37WvXSn-BC-mMyz6xss",
+        "img_800_800": "800_800/0/1614707285486?e=1657756800&v=beta&t=3cV2j9cFEuvGrPYJ-14SGxaq0zra3i9jx6qwjanGrG8",
+        "profile_id": "ACoAABuLazQByR0cOVlSLOC62gyVYvqXYhievAc",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAABuLazQByR0cOVlSLOC62gyVYvqXYhievAc",
+        "member_urn": "urn:li:member:462121780",
+        "experience": [
+            {
+                "locationName": "Bengaluru, Karnataka, India",
+                "entityUrn": "urn:li:fs_position:(ACoAABuLazQByR0cOVlSLOC62gyVYvqXYhievAc,1946687298)",
+                "geoLocationName": "Bengaluru, Karnataka, India",
+                "geoUrn": "urn:li:fs_geo:105214831",
+                "companyName": "Gojek",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 4,
+                        "year": 2022
+                    }
+                },
+                "description": "Platform Engineer (Hermes, Event Plantform Team)  Working with the internal event bus platform for gojek infrastructure and development usecases.\n\nStack: Golang, Kafka , Kubernetes ,",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 1001,
+                        "end": 5000
+                    },
+                    "industries": [
+                        "Internet"
+                    ]
+                },
+                "title": "Software Engineer - L2",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:2135950",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C510BAQHwmxtMwm2XIA/company-logo_"
+            },
+            {
+                "locationName": "Bangalore Urban, Karnataka, India",
+                "projects": [
+                    "urn:li:fs_project:(ACoAABuLazQByR0cOVlSLOC62gyVYvqXYhievAc,1596262732)"
+                ],
+                "geoUrn": "urn:li:fs_geo:112376381",
+                "companyName": "Typito",
+                "description": "Full stack engineer working with MERN stack , building Typito a web based video editing platform , the \"canva for videos\".\nStack: MySQL, Express, React with Redux, Node.js. Redis , Google Cloud,  FFMpeg\n\nProjects and Tasks worked on\n\n\n- Part of major UI revamp in 2021 dubbed Left Panel 2.0\n- Search Functionality on home page\n- Search on Editor for both offline and online content\n- Performance Improvement in both React and In-House built Templating Engine (Implemented a Dependency Graph System for same)\n- Instant Edit before Upload - Ability to start editing on frontend , before upload for media completes\n- Plugin System - IconScout plugin to bring icons from external resource into our template system for Users to use in their video edits. \n- Integration System - OAuth Based external services for grabbing in resources like Zoom videos. \n- Part of Sequence Feature Sprint , worked on Internal Implementation driving Sequences\n- Responsible for delivering solutions on several critical video upload , video export and frontend templating system Bugs.\n- Independently took up major refactors and lead efforts on same for several components for code migration to current React standards and with performance centric approach.\n- Responsible for adding performance primitive components and utilities driving the current state of UI performance of the editor (dated 2022 Feb)",
+                "title": "Software Engineer",
+                "companyUrn": "urn:li:fs_miniCompany:10376074",
+                "entityUrn": "urn:li:fs_position:(ACoAABuLazQByR0cOVlSLOC62gyVYvqXYhievAc,1650832199)",
+                "geoLocationName": "Bangalore Urban, Karnataka, India",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 3,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2020
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 2,
+                        "end": 10
+                    },
+                    "industries": [
+                        "Internet"
+                    ]
+                },
+                "region": "urn:li:fs_region:(in,0)",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C510BAQFESUCDyBCkDg/company-logo_"
+            },
+            {
+                "locationName": "Guwahati, Assam, India",
+                "entityUrn": "urn:li:fs_position:(ACoAABuLazQByR0cOVlSLOC62gyVYvqXYhievAc,1671120064)",
+                "geoLocationName": "Guwahati, Assam, India",
+                "geoUrn": "urn:li:fs_geo:105607401",
+                "companyName": "Upwork",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 4,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 4,
+                        "year": 2020
+                    }
+                },
+                "description": "Work in part-time for tutoring/write automation script/data engineering task/web applications/M.L based consultancy.\nVisit my profile to see the list of work: https://www.upwork.com/freelancers/~01ecfda73e723d80ad",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 501,
+                        "end": 1000
+                    },
+                    "industries": [
+                        "Internet"
+                    ]
+                },
+                "title": "Freelance Software Engineer(ML/Web/Hybrid App/Data Engineering)",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:4827017",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQFAvA55uI9RQQ/company-logo_"
+            },
+            {
+                "locationName": "Guwahati Area, India",
+                "entityUrn": "urn:li:fs_position:(ACoAABuLazQByR0cOVlSLOC62gyVYvqXYhievAc,1587726485)",
+                "geoLocationName": "Guwahati Area, India",
+                "geoUrn": "urn:li:fs_geo:104535556",
+                "companyName": "Assam Engineering College, (A.E.C)",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 8,
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "month": 3,
+                        "year": 2020
+                    }
+                },
+                "description": "Dept: Department of Instrumentation Engineering\n\nDelivered working solution to Assistant Prof. Rhitwick Mougdolya on \"Creating a framework for moving object detection\". The final work required me to implement a Multi Object Tracker system build based on Recurrent Bonding Box regression for faster tracking and Simanese Re-Identification for handling occlusion and bad tracks.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 1001,
+                        "end": 5000
+                    },
+                    "industries": [
+                        "Government Administration"
+                    ]
+                },
+                "title": "Research Assistant (Dept of Instrumentation Engineering)",
+                "region": "urn:li:fs_region:(in,7248)",
+                "companyUrn": "urn:li:fs_miniCompany:13362147",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQF2c8H0frv_Dw/company-logo_"
+            },
+            {
+                "locationName": "Guwahati Area, India",
+                "projects": [
+                    "urn:li:fs_project:(ACoAABuLazQByR0cOVlSLOC62gyVYvqXYhievAc,1547600725)"
+                ],
+                "entityUrn": "urn:li:fs_position:(ACoAABuLazQByR0cOVlSLOC62gyVYvqXYhievAc,1495470437)",
+                "geoLocationName": "Guwahati Area, India",
+                "companyName": "Zaloni",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 1,
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2019
+                    }
+                },
+                "description": "Role: Working in the space of product based on Hadoop ecosystem. Aiding support team with automation and data wrangling task. During my short stint of stay in the organization I was responsible for delivery of few Data wrangling scripts in Python, Automation using Google App Script. Also learned and aided in installation and testing of the product.\nStack: Hadoop, Linux , Spark, Zaloni Arena, AWS cloud",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 51,
+                        "end": 200
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Software Engineer",
+                "companyUrn": "urn:li:fs_miniCompany:859448",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C560BAQG24b_9aFPlDg/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "projects": [
+                    "urn:li:fs_project:(ACoAABuLazQByR0cOVlSLOC62gyVYvqXYhievAc,1684824641)",
+                    "urn:li:fs_project:(ACoAABuLazQByR0cOVlSLOC62gyVYvqXYhievAc,1191983500)"
+                ],
+                "description": "Graduated in the Discipline of Computer Science & Engineering with 82% University Aggregate score and 1st rank holder in Department.",
+                "degreeName": "Bachelor's degree",
+                "honors": [
+                    "urn:li:fs_honor:(ACoAABuLazQByR0cOVlSLOC62gyVYvqXYhievAc,252367617)",
+                    "urn:li:fs_honor:(ACoAABuLazQByR0cOVlSLOC62gyVYvqXYhievAc,64526443)",
+                    "urn:li:fs_honor:(ACoAABuLazQByR0cOVlSLOC62gyVYvqXYhievAc,64591263)",
+                    "urn:li:fs_honor:(ACoAABuLazQByR0cOVlSLOC62gyVYvqXYhievAc,82070665)"
+                ],
+                "schoolUrn": "urn:li:fs_miniSchool:3241817",
+                "entityUrn": "urn:li:fs_education:(ACoAABuLazQByR0cOVlSLOC62gyVYvqXYhievAc,573311584)",
+                "school": {
+                    "objectUrn": "urn:li:school:3241817",
+                    "entityUrn": "urn:li:fs_miniSchool:3241817",
+                    "active": true,
+                    "schoolName": "Assam Engineering College, (A.E.C)",
+                    "trackingId": "bEppYqVWTeCC03UhgzFNiQ==",
+                    "logoUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQF2c8H0frv_Dw/company-logo_"
+                },
+                "activities": "- Coding Club, Secretary- Robotics Club, Asst. Secretary- Quiz Club, Member- Entrepreneurship and Development cell, P.R and Tech Lead",
+                "grade": "82% , 1st Rank in CSE, AEC",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "year": 2015
+                    }
+                },
+                "testScores": [
+                    "urn:li:fs_testScore:(ACoAABuLazQByR0cOVlSLOC62gyVYvqXYhievAc,1744835626)"
+                ],
+                "schoolName": "Assam Engineering College, (A.E.C)",
+                "fieldOfStudy": "Computer Science & Engineering"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAABuLazQByR0cOVlSLOC62gyVYvqXYhievAc,572984794)",
+                "school": {
+                    "objectUrn": "urn:li:school:164070",
+                    "entityUrn": "urn:li:fs_miniSchool:164070",
+                    "active": true,
+                    "schoolName": "Udacity",
+                    "trackingId": "/7SsoukYTJOuo8FH4ml7SA==",
+                    "logoUrl": "https://media-exp1.licdn.com/dms/image/C560BAQGAbiASb657Fg/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "year": 2019
+                    }
+                },
+                "description": "Completed Udacity Nanodegree for Deep Learning , achieved through the Facebook Pytorch scholarship.",
+                "degreeName": "Deep Learning Nanodegree",
+                "schoolName": "Udacity",
+                "fieldOfStudy": "Deep Learning",
+                "schoolUrn": "urn:li:fs_miniSchool:164070"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAABuLazQByR0cOVlSLOC62gyVYvqXYhievAc,352744608)",
+                "school": {
+                    "objectUrn": "urn:li:school:166029",
+                    "entityUrn": "urn:li:fs_miniSchool:166029",
+                    "active": true,
+                    "schoolName": "freeCodeCamp",
+                    "trackingId": "vIVoB5BjQaqAnjqGRsw/9w==",
+                    "logoUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQGLKj3JHcof0w/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2017
+                    },
+                    "startDate": {
+                        "year": 2016
+                    }
+                },
+                "description": "Learning front-end web development , back-end development and data visualization , and finally applying those skill for building products for Non-profits.",
+                "degreeName": "Full Stack Web development Certification",
+                "schoolName": "Free Code Camp",
+                "fieldOfStudy": "Computer Software Engineering",
+                "schoolUrn": "urn:li:fs_miniSchool:166029"
+            }
+        ],
+        "languages": [
+            {
+                "name": "Assamese",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "Bengali",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "English",
+                "proficiency": "LIMITED_WORKING"
+            },
+            {
+                "name": "Hindi",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ],
+        "publications": [
+            {
+                "date": {
+                    "month": 5,
+                    "year": 2020,
+                    "day": 1
+                },
+                "name": "Handloom Design Generation Using Generative Networks",
+                "publisher": "International Conference of Image Processing 2020 (ICIP IEEE)",
+                "description": "This paper proposes deep learning techniques of generating designs for clothing, focused on handloom fabric and\n discuses the problem and its application. The capability of\ngenerative neural network models in understanding artistic\n designs and synthesizing those is yet to be explored well. In\nthis work, multiple methods are employed incorporating the\ncurrent state of the art generative models and style transfer al\ufffegorithms to study and observe their performance for the task.\nThe results are then evaluated through user score. This work\nalso provides a new dataset \u201dNeural-Loom\u201d for the task of the\ndesign generation.",
+                "url": "https://ieeexplore.ieee.org/document/9190925",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Rajat Kanti",
+                            "lastName": "Bhattacharjee",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABuLazQByR0cOVlSLOC62gyVYvqXYhievAc",
+                            "occupation": "Engineer @ Gojek || Interested in Research collaborations",
+                            "objectUrn": "urn:li:member:462121780",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABuLazQByR0cOVlSLOC62gyVYvqXYhievAc",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1593021462938?e=1657756800&v=beta&t=D7qXzO00Ep-laNzDIvmvYcOWoISC22brbqcDuZkWt7Q",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1593021462938?e=1657756800&v=beta&t=UvC7lYBjSqgu7pUZ7-TD8LTSA3nKjeh93-FpDx0xFSw",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E16AQHoLI3FMC6Irg/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "rajatkb",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1614707285486?e=1657756800&v=beta&t=RbAgry1iPYednJkhcAPU-4Ghpy272vdx6LXLwbA4vzE",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1614707285486?e=1657756800&v=beta&t=_ruKzF_JVsVCt2DOaLynUS3xe49goeo00hYYKsGmZ64",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1614707285486?e=1657756800&v=beta&t=daa2L7W6GcTr-TRlDvdxgF9N37WvXSn-BC-mMyz6xss",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1614707285486?e=1657756800&v=beta&t=3cV2j9cFEuvGrPYJ-14SGxaq0zra3i9jx6qwjanGrG8",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E03AQHYpvISXhDWFw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "Jt8z3NmtRIuQwomgpyZRYg=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABuLazQByR0cOVlSLOC62gyVYvqXYhievAc"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Meghali",
+                            "lastName": "Nandi",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAB0xm6cBFLe4DKL6GDNXVcoFOz05oX29PuA",
+                            "occupation": "Software Engineer at Alation | Ex-Zalonian | MEAN Stack | Deep Learning | Hadoop",
+                            "objectUrn": "urn:li:member:489790375",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAB0xm6cBFLe4DKL6GDNXVcoFOz05oX29PuA",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1607915764628?e=1657756800&v=beta&t=I-fGrJwfZv4hgPDXWdWKqAwJwQ8OIQxs7ERjPlPPmqQ",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1607915764628?e=1657756800&v=beta&t=LW91SWJwwBAT28WcnXWEID5dPzp-GP9NxHDSQ3CPXr8",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E16AQHGJtH88m_7jw/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "meghali-nandi",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1538327112099?e=1657756800&v=beta&t=grZ7mFsON2iEAtREkaJC-lVtx_dWedSWx6ODADw9UWs",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1538327112099?e=1657756800&v=beta&t=jSj-xco0CPm1PKnpWcZNncgVU8xMJ2fANZzyrzQ8VhE",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1538327112099?e=1657756800&v=beta&t=9H8ydj5YfJLKO2jj0WLFb32mQheLArT_AJhzrnn6kFU",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1538327112099?e=1657756800&v=beta&t=PbuTmcaXcg66nR07T7p5Fn_WkP8IUAmFVFWIlHOgp3s",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5103AQH9LqwuyxVU9Q/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "5+ksP+SdRrWxpyRqxuKk0g=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAB0xm6cBFLe4DKL6GDNXVcoFOz05oX29PuA"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Amrit",
+                            "lastName": "Jha",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABs26KEBs55FpTlP7_ULhzxAzUKlTRQFeOk",
+                            "occupation": "Software Engineer at Gainsight",
+                            "objectUrn": "urn:li:member:456583329",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABs26KEBs55FpTlP7_ULhzxAzUKlTRQFeOk",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1649660703303?e=1657756800&v=beta&t=-fyGhB9pqpa1LTiGamGQfbKQFncGfh9geJD55ePAQyk",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1649660703303?e=1657756800&v=beta&t=oSFuVS11QUcEmmjA1gzBd9-F_RJr2Tk3VI_AG8N_-_k",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5616AQGtu_GDfNoudA/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "amrit-jha-569aaa108",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1651857225514?e=1657756800&v=beta&t=r3Q4Zdwf0lkUBAfetFoR4IPHptsVuy9q780BbcXkJ60",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1651857225514?e=1657756800&v=beta&t=n2fqD3gJ9Oyc49qpMLGpIjxPIEM1A0JkqHw8DQuBbyk",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1651857225514?e=1657756800&v=beta&t=ZpvzgNv09tUKmlgoGbBmOvx8H569dDhKs2jUlXws7cs",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1651857225514?e=1657756800&v=beta&t=tg8pyF-rqnLwWwPpM5UKPFoG9lwe9VARqBvoMwISWts",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQHaQ9A79ulNiA/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "W9iKWzXpQyK7RlwkbQN46w=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABs26KEBs55FpTlP7_ULhzxAzUKlTRQFeOk"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Dr. Ferdous Ahmed",
+                            "lastName": "Barbhuiya",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAEhXfsBB-OED9QtzDaNbdLC2zGj022Dzcg",
+                            "occupation": "Associate Professor at Indian Institute of Information Technology Guwahati",
+                            "objectUrn": "urn:li:member:18963963",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAEhXfsBB-OED9QtzDaNbdLC2zGj022Dzcg",
+                            "publicIdentifier": "ferdous80",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1526461030910?e=1657756800&v=beta&t=KgRYW0mTsrXi1MYRM9MgBlLkZpKXrwVegErQ6lR6qqU",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1526461030910?e=1657756800&v=beta&t=Y1qowgupMywyINu2ZvtgDj6QaFaRxQmlS8rgrp5ghWs",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1526461030910?e=1657756800&v=beta&t=L1rTe49jYxWEsWf6Vw1DW8pJoPV2ABZhpPqOX7Sx57E",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1526461030910?e=1657756800&v=beta&t=WtkAib4jrporhIi1b6xtFVvh05TKdBITRG6UYJEiOXI",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5103AQFZYPGLE6zZVg/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "i3hErPvoTQijXJWiFlfvbA=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAEhXfsBB-OED9QtzDaNbdLC2zGj022Dzcg"
+                    }
+                ]
+            },
+            {
+                "date": {
+                    "month": 2,
+                    "year": 2020,
+                    "day": 1
+                },
+                "name": "A Secured Land Registration Framework on Blockchain",
+                "publisher": "2020 Third ISEA Conference on Security and Privacy (ISEA-ISAP) IEEE",
+                "description": "Land is an immovable and non-liquid asset having high value. The integrity and proper track of ownership/transfer records of land is a highly challenging task. As the ownership of land can constantly change over time and that too sometimes very frequently, it poses a daunting task of keeping elaborate and long ownership transfer records. The problem further escalates due to presence of fraudulent or incomplete registries which are very difficult to trace back through time. Thus ownership disputes in the system, lead to litigation running for years, leading to wastage of valuable time, energy and resource for solving these disputes. Most of the issues root from the problem of the current land registration systems being either having legacy paper document trails or from poorly kept non-transparent centralized systems. Fraudulent users may try to forge paper documents or modify electronic records to change the land ownership record. This paper proposes a secure record keeping mechanism that addresses these issues using a Blockchain based system which can create record for the physical assets into an immutable liquid Blockchain based token asset. This new block chain token asset can now be used to keep a digitally secured and selectively visible record of ownership, solving the mentioned issues. An implementation of this system has been done using Etherium and the benchmark data shows that the transaction processing time of such a system is reasonably low thereby making it suitable for practical implementation.",
+                "url": "https://ieeexplore.ieee.org/document/9079271",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Rajat Kanti",
+                            "lastName": "Bhattacharjee",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABuLazQByR0cOVlSLOC62gyVYvqXYhievAc",
+                            "occupation": "Engineer @ Gojek || Interested in Research collaborations",
+                            "objectUrn": "urn:li:member:462121780",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABuLazQByR0cOVlSLOC62gyVYvqXYhievAc",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1593021462938?e=1657756800&v=beta&t=D7qXzO00Ep-laNzDIvmvYcOWoISC22brbqcDuZkWt7Q",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1593021462938?e=1657756800&v=beta&t=UvC7lYBjSqgu7pUZ7-TD8LTSA3nKjeh93-FpDx0xFSw",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E16AQHoLI3FMC6Irg/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "rajatkb",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1614707285486?e=1657756800&v=beta&t=RbAgry1iPYednJkhcAPU-4Ghpy272vdx6LXLwbA4vzE",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1614707285486?e=1657756800&v=beta&t=_ruKzF_JVsVCt2DOaLynUS3xe49goeo00hYYKsGmZ64",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1614707285486?e=1657756800&v=beta&t=daa2L7W6GcTr-TRlDvdxgF9N37WvXSn-BC-mMyz6xss",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1614707285486?e=1657756800&v=beta&t=3cV2j9cFEuvGrPYJ-14SGxaq0zra3i9jx6qwjanGrG8",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E03AQHYpvISXhDWFw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "Jt8z3NmtRIuQwomgpyZRYg=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABuLazQByR0cOVlSLOC62gyVYvqXYhievAc"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Meghali",
+                            "lastName": "Nandi",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAB0xm6cBFLe4DKL6GDNXVcoFOz05oX29PuA",
+                            "occupation": "Software Engineer at Alation | Ex-Zalonian | MEAN Stack | Deep Learning | Hadoop",
+                            "objectUrn": "urn:li:member:489790375",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAB0xm6cBFLe4DKL6GDNXVcoFOz05oX29PuA",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1607915764628?e=1657756800&v=beta&t=I-fGrJwfZv4hgPDXWdWKqAwJwQ8OIQxs7ERjPlPPmqQ",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1607915764628?e=1657756800&v=beta&t=LW91SWJwwBAT28WcnXWEID5dPzp-GP9NxHDSQ3CPXr8",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E16AQHGJtH88m_7jw/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "meghali-nandi",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1538327112099?e=1657756800&v=beta&t=grZ7mFsON2iEAtREkaJC-lVtx_dWedSWx6ODADw9UWs",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1538327112099?e=1657756800&v=beta&t=jSj-xco0CPm1PKnpWcZNncgVU8xMJ2fANZzyrzQ8VhE",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1538327112099?e=1657756800&v=beta&t=9H8ydj5YfJLKO2jj0WLFb32mQheLArT_AJhzrnn6kFU",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1538327112099?e=1657756800&v=beta&t=PbuTmcaXcg66nR07T7p5Fn_WkP8IUAmFVFWIlHOgp3s",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5103AQH9LqwuyxVU9Q/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "5+ksP+SdRrWxpyRqxuKk0g=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAB0xm6cBFLe4DKL6GDNXVcoFOz05oX29PuA"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Amrit",
+                            "lastName": "Jha",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABs26KEBs55FpTlP7_ULhzxAzUKlTRQFeOk",
+                            "occupation": "Software Engineer at Gainsight",
+                            "objectUrn": "urn:li:member:456583329",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABs26KEBs55FpTlP7_ULhzxAzUKlTRQFeOk",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1649660703303?e=1657756800&v=beta&t=-fyGhB9pqpa1LTiGamGQfbKQFncGfh9geJD55ePAQyk",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1649660703303?e=1657756800&v=beta&t=oSFuVS11QUcEmmjA1gzBd9-F_RJr2Tk3VI_AG8N_-_k",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5616AQGtu_GDfNoudA/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "amrit-jha-569aaa108",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1651857225514?e=1657756800&v=beta&t=r3Q4Zdwf0lkUBAfetFoR4IPHptsVuy9q780BbcXkJ60",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1651857225514?e=1657756800&v=beta&t=n2fqD3gJ9Oyc49qpMLGpIjxPIEM1A0JkqHw8DQuBbyk",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1651857225514?e=1657756800&v=beta&t=ZpvzgNv09tUKmlgoGbBmOvx8H569dDhKs2jUlXws7cs",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1651857225514?e=1657756800&v=beta&t=tg8pyF-rqnLwWwPpM5UKPFoG9lwe9VARqBvoMwISWts",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQHaQ9A79ulNiA/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "W9iKWzXpQyK7RlwkbQN46w=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABs26KEBs55FpTlP7_ULhzxAzUKlTRQFeOk"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Dr. Ferdous Ahmed",
+                            "lastName": "Barbhuiya",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAEhXfsBB-OED9QtzDaNbdLC2zGj022Dzcg",
+                            "occupation": "Associate Professor at Indian Institute of Information Technology Guwahati",
+                            "objectUrn": "urn:li:member:18963963",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAEhXfsBB-OED9QtzDaNbdLC2zGj022Dzcg",
+                            "publicIdentifier": "ferdous80",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1526461030910?e=1657756800&v=beta&t=KgRYW0mTsrXi1MYRM9MgBlLkZpKXrwVegErQ6lR6qqU",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1526461030910?e=1657756800&v=beta&t=Y1qowgupMywyINu2ZvtgDj6QaFaRxQmlS8rgrp5ghWs",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1526461030910?e=1657756800&v=beta&t=L1rTe49jYxWEsWf6Vw1DW8pJoPV2ABZhpPqOX7Sx57E",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1526461030910?e=1657756800&v=beta&t=WtkAib4jrporhIi1b6xtFVvh05TKdBITRG6UYJEiOXI",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5103AQFZYPGLE6zZVg/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "i3hErPvoTQijXJWiFlfvbA=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAEhXfsBB-OED9QtzDaNbdLC2zGj022Dzcg"
+                    }
+                ]
+            },
+            {
+                "date": {
+                    "month": 7,
+                    "year": 2019,
+                    "day": 1
+                },
+                "name": "A Framework for Maintaining Citizenship Record on Blockchain",
+                "publisher": "ACM , 2019 ACM International Symposium on Blockchain and\nSecure Critical Infrastructure (BSCI 2019)\n\n",
+                "description": "Abstract: The absence of a unified repository of citizens\u2019 records hinders\rstrategic planning of government for implementing welfare schemes\rand service delivery. Keeping a central repository of such records in\r\ntraditional databases is a security concern as any data breach from\rthe system can compromise the privacy of the citizen. Besides such\ra system can be misused. In this work, these problems are addressed\rby developing a secure and robust system for holding the identity\rrecords of all the citizens of a nation. In this paper, the capability of\r\nBlockchain for acting as a solution to the concerned problem is examined. Blockchain applications inherently possess characteristics\rof being robust to break down, secured using cryptography and\r\nautonomous as they are capable of functioning without the need\rfor manual intervention based on defined business logic. This paper\ruses the strengths of Blockchain to build a Blockchain-based system that acts as an integrated decentralised database for citizenship\r\nrecords of a nation.",
+                "url": "https://dl.acm.org/citation.cfm?id=3332389",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Rajat Kanti",
+                            "lastName": "Bhattacharjee",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABuLazQByR0cOVlSLOC62gyVYvqXYhievAc",
+                            "occupation": "Engineer @ Gojek || Interested in Research collaborations",
+                            "objectUrn": "urn:li:member:462121780",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABuLazQByR0cOVlSLOC62gyVYvqXYhievAc",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1593021462938?e=1657756800&v=beta&t=D7qXzO00Ep-laNzDIvmvYcOWoISC22brbqcDuZkWt7Q",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1593021462938?e=1657756800&v=beta&t=UvC7lYBjSqgu7pUZ7-TD8LTSA3nKjeh93-FpDx0xFSw",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E16AQHoLI3FMC6Irg/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "rajatkb",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1614707285486?e=1657756800&v=beta&t=RbAgry1iPYednJkhcAPU-4Ghpy272vdx6LXLwbA4vzE",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1614707285486?e=1657756800&v=beta&t=_ruKzF_JVsVCt2DOaLynUS3xe49goeo00hYYKsGmZ64",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1614707285486?e=1657756800&v=beta&t=daa2L7W6GcTr-TRlDvdxgF9N37WvXSn-BC-mMyz6xss",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1614707285486?e=1657756800&v=beta&t=3cV2j9cFEuvGrPYJ-14SGxaq0zra3i9jx6qwjanGrG8",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E03AQHYpvISXhDWFw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "Jt8z3NmtRIuQwomgpyZRYg=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABuLazQByR0cOVlSLOC62gyVYvqXYhievAc"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Amrit",
+                            "lastName": "Jha",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABs26KEBs55FpTlP7_ULhzxAzUKlTRQFeOk",
+                            "occupation": "Software Engineer at Gainsight",
+                            "objectUrn": "urn:li:member:456583329",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABs26KEBs55FpTlP7_ULhzxAzUKlTRQFeOk",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1649660703303?e=1657756800&v=beta&t=-fyGhB9pqpa1LTiGamGQfbKQFncGfh9geJD55ePAQyk",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1649660703303?e=1657756800&v=beta&t=oSFuVS11QUcEmmjA1gzBd9-F_RJr2Tk3VI_AG8N_-_k",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5616AQGtu_GDfNoudA/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "amrit-jha-569aaa108",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1651857225514?e=1657756800&v=beta&t=r3Q4Zdwf0lkUBAfetFoR4IPHptsVuy9q780BbcXkJ60",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1651857225514?e=1657756800&v=beta&t=n2fqD3gJ9Oyc49qpMLGpIjxPIEM1A0JkqHw8DQuBbyk",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1651857225514?e=1657756800&v=beta&t=ZpvzgNv09tUKmlgoGbBmOvx8H569dDhKs2jUlXws7cs",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1651857225514?e=1657756800&v=beta&t=tg8pyF-rqnLwWwPpM5UKPFoG9lwe9VARqBvoMwISWts",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQHaQ9A79ulNiA/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "W9iKWzXpQyK7RlwkbQN46w=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABs26KEBs55FpTlP7_ULhzxAzUKlTRQFeOk"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Meghali",
+                            "lastName": "Nandi",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAB0xm6cBFLe4DKL6GDNXVcoFOz05oX29PuA",
+                            "occupation": "Software Engineer at Alation | Ex-Zalonian | MEAN Stack | Deep Learning | Hadoop",
+                            "objectUrn": "urn:li:member:489790375",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAB0xm6cBFLe4DKL6GDNXVcoFOz05oX29PuA",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1607915764628?e=1657756800&v=beta&t=I-fGrJwfZv4hgPDXWdWKqAwJwQ8OIQxs7ERjPlPPmqQ",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1607915764628?e=1657756800&v=beta&t=LW91SWJwwBAT28WcnXWEID5dPzp-GP9NxHDSQ3CPXr8",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E16AQHGJtH88m_7jw/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "meghali-nandi",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1538327112099?e=1657756800&v=beta&t=grZ7mFsON2iEAtREkaJC-lVtx_dWedSWx6ODADw9UWs",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1538327112099?e=1657756800&v=beta&t=jSj-xco0CPm1PKnpWcZNncgVU8xMJ2fANZzyrzQ8VhE",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1538327112099?e=1657756800&v=beta&t=9H8ydj5YfJLKO2jj0WLFb32mQheLArT_AJhzrnn6kFU",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1538327112099?e=1657756800&v=beta&t=PbuTmcaXcg66nR07T7p5Fn_WkP8IUAmFVFWIlHOgp3s",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5103AQH9LqwuyxVU9Q/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "5+ksP+SdRrWxpyRqxuKk0g=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAB0xm6cBFLe4DKL6GDNXVcoFOz05oX29PuA"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Dr. Ferdous Ahmed",
+                            "lastName": "Barbhuiya",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAEhXfsBB-OED9QtzDaNbdLC2zGj022Dzcg",
+                            "occupation": "Associate Professor at Indian Institute of Information Technology Guwahati",
+                            "objectUrn": "urn:li:member:18963963",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAEhXfsBB-OED9QtzDaNbdLC2zGj022Dzcg",
+                            "publicIdentifier": "ferdous80",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1526461030910?e=1657756800&v=beta&t=KgRYW0mTsrXi1MYRM9MgBlLkZpKXrwVegErQ6lR6qqU",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1526461030910?e=1657756800&v=beta&t=Y1qowgupMywyINu2ZvtgDj6QaFaRxQmlS8rgrp5ghWs",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1526461030910?e=1657756800&v=beta&t=L1rTe49jYxWEsWf6Vw1DW8pJoPV2ABZhpPqOX7Sx57E",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1526461030910?e=1657756800&v=beta&t=WtkAib4jrporhIi1b6xtFVvh05TKdBITRG6UYJEiOXI",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5103AQFZYPGLE6zZVg/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "i3hErPvoTQijXJWiFlfvbA=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAEhXfsBB-OED9QtzDaNbdLC2zGj022Dzcg"
+                    }
+                ]
+            }
+        ],
+        "certifications": [
+            {
+                "authority": "Bharat Sanchar Nigam Limited",
+                "name": "VT IN BASIC TELECOM FOR CSE/IT",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 7,
+                        "year": 2016
+                    }
+                },
+                "licenseNumber": "RGWMGNB288-2016-991022",
+                "company": {
+                    "objectUrn": "urn:li:company:10320",
+                    "entityUrn": "urn:li:fs_miniCompany:10320",
+                    "name": "Bharat Sanchar Nigam Limited",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1519856158145?e=1660176000&v=beta&t=ePEVqa8CTY_PlxeJyaA3X49KbJzg0uNf74e8JcZA0rI",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1519856158145?e=1660176000&v=beta&t=O41qaFzdqALqAN84ymsCk8s4b7eChsTOJvO_Kz524PU",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1519856158145?e=1660176000&v=beta&t=prYlip_7mhsShmfI8PCc9lgeAMjkH1cPdbXhkSyc4xA",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQFeqSn-BIRwcg/company-logo_"
+                        }
+                    },
+                    "universalName": "bsnl",
+                    "dashCompanyUrn": "urn:li:fsd_company:10320",
+                    "trackingId": "WdMT6b+SQUWs4aShqeQ4Tw=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:10320"
+            },
+            {
+                "authority": "Azure Skynet Solutions Pvt. Ltd",
+                "name": "Ethical Hacking with Cyber Security",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 12,
+                        "year": 2016
+                    }
+                },
+                "licenseNumber": "AS/WTP17/2016170073",
+                "company": {
+                    "objectUrn": "urn:li:company:3835282",
+                    "entityUrn": "urn:li:fs_miniCompany:3835282",
+                    "name": "Azure Skynet Solutions Pvt. Ltd",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1519921972912?e=1660176000&v=beta&t=pjgSrhVoxpdwKK8jrIINyBxgSbZ8Vqsx74l8Aw6soUY",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1519921972912?e=1660176000&v=beta&t=InvoOOu-YWyaZ3MlJaj35TfQYDLIC-wxQ0dKjY6XZuQ",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1519921972912?e=1660176000&v=beta&t=5YzqNdFOcod9DEgVuwrqqktr751bU4k-8Rkg6HIzs0I",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C510BAQHN0d0dUkGw5w/company-logo_"
+                        }
+                    },
+                    "universalName": "azure-skynet",
+                    "dashCompanyUrn": "urn:li:fsd_company:3835282",
+                    "trackingId": "EMQqYj17Qy2bs2WsWP6FaA=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:3835282"
+            },
+            {
+                "authority": "edX",
+                "name": "PH526x: Using Python for Research",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2018
+                    },
+                    "startDate": {
+                        "month": 11,
+                        "year": 2017
+                    }
+                },
+                "licenseNumber": "9c44aaee30ff4f2cb19a64589dcf45cc",
+                "company": {
+                    "objectUrn": "urn:li:company:2746406",
+                    "entityUrn": "urn:li:fs_miniCompany:2746406",
+                    "name": "edX",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1608046236488?e=1660176000&v=beta&t=r1QFPhIqY5bqlzgSafJ0sTmbka74-y58e5AQfeBD-i0",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1608046236488?e=1660176000&v=beta&t=ILSpOlJ05TvIWOWvyGXMy6mOg6_3fH3a1LEK87L6zlU",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1608046236488?e=1660176000&v=beta&t=pZCZqr8W6QW-W5No_RjCkxBOyq7XSFzb45LwMOaxjh8",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQH_xbnvm8hevg/company-logo_"
+                        }
+                    },
+                    "universalName": "edx",
+                    "dashCompanyUrn": "urn:li:fsd_company:2746406",
+                    "trackingId": "z7MjQVL3R/OsB3rDjUNXBg=="
+                },
+                "displaySource": "edx.org",
+                "companyUrn": "urn:li:fs_miniCompany:2746406",
+                "url": "https://courses.edx.org/certificates/9c44aaee30ff4f2cb19a64589dcf45cc"
+            },
+            {
+                "authority": "Udemy",
+                "name": "The Web Developer Bootcamp",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 12,
+                        "year": 2017
+                    }
+                },
+                "licenseNumber": "UC-52MR6AJ4",
+                "company": {
+                    "objectUrn": "urn:li:company:822535",
+                    "entityUrn": "urn:li:fs_miniCompany:822535",
+                    "name": "Udemy",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1626275253364?e=1660176000&v=beta&t=hNmtDdN4pnwTuJsDQsvaI2SOIkRq2BCrfWF7YKlNaM4",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1626275253364?e=1660176000&v=beta&t=bZ9FL43L79ghc74x71A2lY51dAogHCVQKWAZH1-YcuM",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1626275253364?e=1660176000&v=beta&t=7EyDsPVIShmG1t96OAsrJK6AWUi0vObIpIVqPL4hc6E",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQFQr9e68bBOPQ/company-logo_"
+                        }
+                    },
+                    "universalName": "udemy",
+                    "dashCompanyUrn": "urn:li:fsd_company:822535",
+                    "trackingId": "SXtSETOmRl66WqBPV2XSLw=="
+                },
+                "displaySource": "udemy.com",
+                "companyUrn": "urn:li:fs_miniCompany:822535",
+                "url": "https://www.udemy.com/certificate/UC-52MR6AJ4/"
+            },
+            {
+                "authority": "Udemy",
+                "name": "Deep Learning A-Z\u2122: Hands-On Artificial Neural Networks",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 1,
+                        "year": 2018
+                    }
+                },
+                "licenseNumber": "UC-B3L05NLO",
+                "company": {
+                    "objectUrn": "urn:li:company:822535",
+                    "entityUrn": "urn:li:fs_miniCompany:822535",
+                    "name": "Udemy",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1626275253364?e=1660176000&v=beta&t=hNmtDdN4pnwTuJsDQsvaI2SOIkRq2BCrfWF7YKlNaM4",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1626275253364?e=1660176000&v=beta&t=bZ9FL43L79ghc74x71A2lY51dAogHCVQKWAZH1-YcuM",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1626275253364?e=1660176000&v=beta&t=7EyDsPVIShmG1t96OAsrJK6AWUi0vObIpIVqPL4hc6E",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQFQr9e68bBOPQ/company-logo_"
+                        }
+                    },
+                    "universalName": "udemy",
+                    "dashCompanyUrn": "urn:li:fsd_company:822535",
+                    "trackingId": "Qe3SLRwQQhG7kGNXRtdIow=="
+                },
+                "displaySource": "udemy.com",
+                "companyUrn": "urn:li:fs_miniCompany:822535",
+                "url": "https://www.udemy.com/certificate/UC-B3L05NLO/"
+            },
+            {
+                "authority": "Udemy",
+                "name": "Angular 2  Front To Back",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 4,
+                        "year": 2018
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:822535",
+                    "entityUrn": "urn:li:fs_miniCompany:822535",
+                    "name": "Udemy",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1626275253364?e=1660176000&v=beta&t=hNmtDdN4pnwTuJsDQsvaI2SOIkRq2BCrfWF7YKlNaM4",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1626275253364?e=1660176000&v=beta&t=bZ9FL43L79ghc74x71A2lY51dAogHCVQKWAZH1-YcuM",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1626275253364?e=1660176000&v=beta&t=7EyDsPVIShmG1t96OAsrJK6AWUi0vObIpIVqPL4hc6E",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQFQr9e68bBOPQ/company-logo_"
+                        }
+                    },
+                    "universalName": "udemy",
+                    "dashCompanyUrn": "urn:li:fsd_company:822535",
+                    "trackingId": "h86JB7D8SWajYTp6MJr59g=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:822535"
+            },
+            {
+                "authority": "Coursera",
+                "name": "Deep Learning Specialization",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 10,
+                        "year": 2018
+                    }
+                },
+                "licenseNumber": "454NB8VGD9TU",
+                "company": {
+                    "objectUrn": "urn:li:company:2453129",
+                    "entityUrn": "urn:li:fs_miniCompany:2453129",
+                    "name": "Coursera",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1608039227697?e=1660176000&v=beta&t=24dSeYZFSUztRaUy6-QqI0GSTK5-7tfyOci9sanIOTE",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1608039227697?e=1660176000&v=beta&t=8mJvTc5z6PI8olmLRWSi-xaA6ZOeYWkWcZiqxFWbrhE",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1608039227697?e=1660176000&v=beta&t=o8C5zQF49vmVYRAgj4K1Q2W5kUw9P0IZwKQoBFhnmDc",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQGexnfBxeEG-g/company-logo_"
+                        }
+                    },
+                    "universalName": "coursera",
+                    "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                    "trackingId": "XPB4BJ53SICxVySGdEWyZg=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:2453129",
+                "url": "https://www.coursera.org/account/accomplishments/specialization/certificate/454NB8VGD9TU"
+            },
+            {
+                "authority": "Coursera",
+                "name": "Mathematics for Machine Learning Specialization",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 10,
+                        "year": 2018
+                    }
+                },
+                "licenseNumber": "NNMG3RJMG624",
+                "company": {
+                    "objectUrn": "urn:li:company:2453129",
+                    "entityUrn": "urn:li:fs_miniCompany:2453129",
+                    "name": "Coursera",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1608039227697?e=1660176000&v=beta&t=24dSeYZFSUztRaUy6-QqI0GSTK5-7tfyOci9sanIOTE",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1608039227697?e=1660176000&v=beta&t=8mJvTc5z6PI8olmLRWSi-xaA6ZOeYWkWcZiqxFWbrhE",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1608039227697?e=1660176000&v=beta&t=o8C5zQF49vmVYRAgj4K1Q2W5kUw9P0IZwKQoBFhnmDc",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQGexnfBxeEG-g/company-logo_"
+                        }
+                    },
+                    "universalName": "coursera",
+                    "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                    "trackingId": "PjIG6YWoQ0yfw2AufrB9Cw=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:2453129",
+                "url": "https://www.coursera.org/account/accomplishments/specialization/NNMG3RJMG624"
+            },
+            {
+                "authority": "Udacity",
+                "name": "Pytorch Scholarship Challenge",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 1,
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "month": 11,
+                        "year": 2018
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:2475568",
+                    "entityUrn": "urn:li:fs_miniCompany:2475568",
+                    "name": "Udacity",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1639683820896?e=1660176000&v=beta&t=74cQMm77p4BBAPGYuq-CHlULMbg0RqzyMo4k4UAo4OE",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1639683820896?e=1660176000&v=beta&t=GKBw_DWEZSiCyL0NV6o2BmJs_v2VPifcRTTj38SKyzU",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1639683820896?e=1660176000&v=beta&t=AyZvDarDpkylXNxcnQpJY8f5p5kj6tNV3mzYu91eDFA",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQGAbiASb657Fg/company-logo_"
+                        }
+                    },
+                    "universalName": "udacity",
+                    "dashCompanyUrn": "urn:li:fsd_company:2475568",
+                    "trackingId": "24aDSNdXT36z9C8N3RCuFQ=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:2475568"
+            },
+            {
+                "authority": "Coursera",
+                "name": "Principles of functional Programming With Scala",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 11,
+                        "year": 2019
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:2453129",
+                    "entityUrn": "urn:li:fs_miniCompany:2453129",
+                    "name": "Coursera",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1608039227697?e=1660176000&v=beta&t=24dSeYZFSUztRaUy6-QqI0GSTK5-7tfyOci9sanIOTE",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1608039227697?e=1660176000&v=beta&t=8mJvTc5z6PI8olmLRWSi-xaA6ZOeYWkWcZiqxFWbrhE",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1608039227697?e=1660176000&v=beta&t=o8C5zQF49vmVYRAgj4K1Q2W5kUw9P0IZwKQoBFhnmDc",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQGexnfBxeEG-g/company-logo_"
+                        }
+                    },
+                    "universalName": "coursera",
+                    "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                    "trackingId": "rSIOnpqMSRehSuSsIBVRpA=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:2453129"
+            }
+        ],
+        "volunteer": [
+            {
+                "role": "Workshop Instructor",
+                "companyName": "Developer Student Club (AEC)",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 11,
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "month": 11,
+                        "year": 2020
+                    }
+                },
+                "cause": "SCIENCE_AND_TECHNOLOGY",
+                "description": "Hosted a session on Spark and Tensorflow. Demonstrated how utilising distributed workload is easy and one can get lots of benefits from the combination of two. Demonstrated how once create efficient data pipeline using Tensorflow with tfrecords.\nlink: https://github.com/rajatkb/Machine-Learning-Pipelining-With-Spark-Tensorflow\n\nYouTube: https://youtu.be/4JmPlgsJX-o",
+                "company": {
+                    "miniCompany": {
+                        "objectUrn": "urn:li:company:69373915",
+                        "entityUrn": "urn:li:fs_miniCompany:69373915",
+                        "name": "Google Developer Student Club (AEC)",
+                        "showcase": false,
+                        "active": true,
+                        "logo": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1598646408086?e=1660176000&v=beta&t=Hb_dKpsPTlhd8YFrKETsIWzoyeO0cQR82s_c5AWR0d4",
+                                        "expiresAt": 1660176000000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1598646408086?e=1660176000&v=beta&t=QMDbzxB_b8ZhGI4PJ5hjCo_x04zdHVREE3w9dY1rgK0",
+                                        "expiresAt": 1660176000000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1598646408086?e=1660176000&v=beta&t=y1VTOS8vu-jPqVV0cK9G8Xg_F0O8NFpls8-OQERHqQQ",
+                                        "expiresAt": 1660176000000,
+                                        "height": 400
+                                    }
+                                ],
+                                "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQGe8zXlDZRhzw/company-logo_"
+                            }
+                        },
+                        "universalName": "developer-student-club-aec",
+                        "dashCompanyUrn": "urn:li:fsd_company:69373915",
+                        "trackingId": "aBrhaw9aQeKPZ0TTWi8Sfw=="
+                    }
+                },
+                "companyUrn": "urn:li:fs_miniCompany:69373915"
+            },
+            {
+                "role": "Project Admin & Mentor",
+                "companyName": "GirlScript Summer of Code",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "month": 2,
+                        "year": 2020
+                    }
+                },
+                "cause": "SCIENCE_AND_TECHNOLOGY",
+                "description": "Acting in GSSOC as Project mentor and Admin for Conference-Notify.\nCurrently responsible for maintaining building the project's high level design. link: https://github.com/rajatkb/Conference-Notify\n\nCertificate : https://drive.google.com/file/d/1Y43qyN6bO3LcYClRxByzPcHovNJT6Pzf/view?usp=drivesdk",
+                "company": {
+                    "miniCompany": {
+                        "objectUrn": "urn:li:company:14488336",
+                        "entityUrn": "urn:li:fs_miniCompany:14488336",
+                        "name": "GirlScript Summer of Code",
+                        "showcase": false,
+                        "active": true,
+                        "logo": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1555704980721?e=1660176000&v=beta&t=vzHtn3eFTnsme2RmtoI_FcsnA2WQ3GnXV2C12mpeYU4",
+                                        "expiresAt": 1660176000000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1555704980721?e=1660176000&v=beta&t=RZBvC0ni35v7Lh2SxjGnhd3wDd3CQRbwG4ZS3jhSM08",
+                                        "expiresAt": 1660176000000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1555704980721?e=1660176000&v=beta&t=xGMm7RRqBCrysFiuiAojD7juQwoLdwTNzGb1HxBjIJY",
+                                        "expiresAt": 1660176000000,
+                                        "height": 400
+                                    }
+                                ],
+                                "rootUrl": "https://media-exp1.licdn.com/dms/image/C510BAQGSObrO0QPlMQ/company-logo_"
+                            }
+                        },
+                        "universalName": "girlscriptsoc",
+                        "dashCompanyUrn": "urn:li:fsd_company:14488336",
+                        "trackingId": "3xw8b0dFQsSh3xpZWUeVwg=="
+                    }
+                },
+                "companyUrn": "urn:li:fs_miniCompany:14488336"
+            },
+            {
+                "role": "Speaker at Tensorflow All Around Guwahati",
+                "companyName": "TensorFlow User Group (TFUG)",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 9,
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2019
+                    }
+                },
+                "cause": "SCIENCE_AND_TECHNOLOGY",
+                "description": "Volunteered for a talk on Introduction to tensorflow at Royal Global University. \nDemo colab: https://github.com/rajatkb/Practical-Deep-Learning",
+                "company": {
+                    "miniCompany": {
+                        "objectUrn": "urn:li:company:29277545",
+                        "entityUrn": "urn:li:fs_miniCompany:29277545",
+                        "name": "TensorFlow User Group (TFUG)",
+                        "showcase": false,
+                        "active": true,
+                        "logo": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1570639251234?e=1660176000&v=beta&t=kSR-ytak-74P_xySTs-AifCUDkIoJvDPAgZnfxmJDts",
+                                        "expiresAt": 1660176000000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1570639251234?e=1660176000&v=beta&t=JuKWW5NIlrDYRhgV6Gz_8XMAjeaGsv13EYcaSZ6DSoU",
+                                        "expiresAt": 1660176000000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1570639251234?e=1660176000&v=beta&t=R6QwSf93Ea9oujBz4VV2k5yQ-0EMN1OOs5H7bm3wR-I",
+                                        "expiresAt": 1660176000000,
+                                        "height": 400
+                                    }
+                                ],
+                                "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQFHT0X1VDWbrw/company-logo_"
+                            }
+                        },
+                        "universalName": "tensorflow",
+                        "dashCompanyUrn": "urn:li:fsd_company:29277545",
+                        "trackingId": "to5t/GQ0RTmkYX0eMve4wQ=="
+                    }
+                },
+                "companyUrn": "urn:li:fs_miniCompany:29277545"
+            }
+        ],
+        "honors": [
+            {
+                "description": "Graduated with 1st rank in Department of Computer Science and Engineering with 82%",
+                "occupation": "urn:li:fs_education:(ACoAABuLazQByR0cOVlSLOC62gyVYvqXYhievAc,573311584)",
+                "title": "Merit Award Department topper (Graduation)",
+                "issueDate": {
+                    "month": 1,
+                    "year": 2020,
+                    "day": 1
+                },
+                "issuer": "Assam Engineering College"
+            },
+            {
+                "description": "Achieved 935/1150 to top the branch of C.S.E",
+                "occupation": "urn:li:fs_education:(ACoAABuLazQByR0cOVlSLOC62gyVYvqXYhievAc,573311584)",
+                "title": "Merit Award for Branch Topper 5th semester",
+                "issueDate": {
+                    "month": 1,
+                    "year": 2019,
+                    "day": 1
+                },
+                "issuer": "Assam Engineering College"
+            },
+            {
+                "description": "Achieved 959/1150 to top the branch of C.S.E",
+                "occupation": "urn:li:fs_education:(ACoAABuLazQByR0cOVlSLOC62gyVYvqXYhievAc,573311584)",
+                "title": "Merit Award for Branch Topper 6th semester",
+                "issueDate": {
+                    "month": 1,
+                    "year": 2019,
+                    "day": 1
+                },
+                "issuer": "Assam Engineering College"
+            },
+            {
+                "description": "Got selected for the 5 month Deep Learning Nanodegree Course of Udacity out of 10,000 participants after the completion of the phase 1 of the Facebook Pytorch Scholarship challenge for Deep Learning Nanodgree.",
+                "title": "Pytorch Scholarship Phase 2 , Deep Learning Nanodegree Scholarship",
+                "issueDate": {
+                    "month": 1,
+                    "year": 2019
+                },
+                "issuer": "Udacity"
+            },
+            {
+                "description": "Won the 3rd position with team in the national level round of Ideathon 2017 , organised by IIT Delhi and NKN India",
+                "occupation": "urn:li:fs_education:(ACoAABuLazQByR0cOVlSLOC62gyVYvqXYhievAc,573311584)",
+                "title": "NKN Ideathon 2017",
+                "issueDate": {
+                    "month": 10,
+                    "year": 2017
+                },
+                "issuer": "IIT Delhi & NKN India"
+            }
+        ],
+        "projects": [
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Rajat Kanti",
+                            "lastName": "Bhattacharjee",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABuLazQByR0cOVlSLOC62gyVYvqXYhievAc",
+                            "occupation": "Engineer @ Gojek || Interested in Research collaborations",
+                            "objectUrn": "urn:li:member:462121780",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABuLazQByR0cOVlSLOC62gyVYvqXYhievAc",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1593021462938?e=1657756800&v=beta&t=D7qXzO00Ep-laNzDIvmvYcOWoISC22brbqcDuZkWt7Q",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1593021462938?e=1657756800&v=beta&t=UvC7lYBjSqgu7pUZ7-TD8LTSA3nKjeh93-FpDx0xFSw",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E16AQHoLI3FMC6Irg/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "rajatkb",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1614707285486?e=1657756800&v=beta&t=RbAgry1iPYednJkhcAPU-4Ghpy272vdx6LXLwbA4vzE",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1614707285486?e=1657756800&v=beta&t=_ruKzF_JVsVCt2DOaLynUS3xe49goeo00hYYKsGmZ64",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1614707285486?e=1657756800&v=beta&t=daa2L7W6GcTr-TRlDvdxgF9N37WvXSn-BC-mMyz6xss",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1614707285486?e=1657756800&v=beta&t=3cV2j9cFEuvGrPYJ-14SGxaq0zra3i9jx6qwjanGrG8",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E03AQHYpvISXhDWFw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "Jt8z3NmtRIuQwomgpyZRYg=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABuLazQByR0cOVlSLOC62gyVYvqXYhievAc,2060029589,256129832)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABuLazQByR0cOVlSLOC62gyVYvqXYhievAc"
+                    }
+                ],
+                "timePeriod": {
+                    "startDate": {
+                        "month": 2,
+                        "year": 2020
+                    }
+                },
+                "description": "An Open Source initiative and project for creating a personalised notification and aggregation platform service for various scientific conferences. ",
+                "title": "Conference-Notify",
+                "url": "https://github.com/rajatkb/Conference-Notify"
+            },
+            {
+                "occupation": "urn:li:fs_position:(ACoAABuLazQByR0cOVlSLOC62gyVYvqXYhievAc,1495470437)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Rajat Kanti",
+                            "lastName": "Bhattacharjee",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABuLazQByR0cOVlSLOC62gyVYvqXYhievAc",
+                            "occupation": "Engineer @ Gojek || Interested in Research collaborations",
+                            "objectUrn": "urn:li:member:462121780",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABuLazQByR0cOVlSLOC62gyVYvqXYhievAc",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1593021462938?e=1657756800&v=beta&t=D7qXzO00Ep-laNzDIvmvYcOWoISC22brbqcDuZkWt7Q",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1593021462938?e=1657756800&v=beta&t=UvC7lYBjSqgu7pUZ7-TD8LTSA3nKjeh93-FpDx0xFSw",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E16AQHoLI3FMC6Irg/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "rajatkb",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1614707285486?e=1657756800&v=beta&t=RbAgry1iPYednJkhcAPU-4Ghpy272vdx6LXLwbA4vzE",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1614707285486?e=1657756800&v=beta&t=_ruKzF_JVsVCt2DOaLynUS3xe49goeo00hYYKsGmZ64",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1614707285486?e=1657756800&v=beta&t=daa2L7W6GcTr-TRlDvdxgF9N37WvXSn-BC-mMyz6xss",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1614707285486?e=1657756800&v=beta&t=3cV2j9cFEuvGrPYJ-14SGxaq0zra3i9jx6qwjanGrG8",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E03AQHYpvISXhDWFw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "Jt8z3NmtRIuQwomgpyZRYg=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABuLazQByR0cOVlSLOC62gyVYvqXYhievAc,1547600725,249293214)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABuLazQByR0cOVlSLOC62gyVYvqXYhievAc"
+                    }
+                ],
+                "timePeriod": {
+                    "startDate": {
+                        "month": 12,
+                        "year": 2019
+                    }
+                },
+                "description": "LL1 parser for JSON in Scala implemented from scratch. With intend to support to access based on dynamic typing during runtime along with stream support. Follow the project to know more.",
+                "title": "JASP : Another Json Scala Parser",
+                "url": "https://github.com/rajatkb/JASP_Another_Json_Scala_Parser"
+            },
+            {
+                "occupation": "urn:li:fs_position:(ACoAABuLazQByR0cOVlSLOC62gyVYvqXYhievAc,1650832199)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Rajat Kanti",
+                            "lastName": "Bhattacharjee",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABuLazQByR0cOVlSLOC62gyVYvqXYhievAc",
+                            "occupation": "Engineer @ Gojek || Interested in Research collaborations",
+                            "objectUrn": "urn:li:member:462121780",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABuLazQByR0cOVlSLOC62gyVYvqXYhievAc",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1593021462938?e=1657756800&v=beta&t=D7qXzO00Ep-laNzDIvmvYcOWoISC22brbqcDuZkWt7Q",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1593021462938?e=1657756800&v=beta&t=UvC7lYBjSqgu7pUZ7-TD8LTSA3nKjeh93-FpDx0xFSw",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E16AQHoLI3FMC6Irg/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "rajatkb",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1614707285486?e=1657756800&v=beta&t=RbAgry1iPYednJkhcAPU-4Ghpy272vdx6LXLwbA4vzE",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1614707285486?e=1657756800&v=beta&t=_ruKzF_JVsVCt2DOaLynUS3xe49goeo00hYYKsGmZ64",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1614707285486?e=1657756800&v=beta&t=daa2L7W6GcTr-TRlDvdxgF9N37WvXSn-BC-mMyz6xss",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1614707285486?e=1657756800&v=beta&t=3cV2j9cFEuvGrPYJ-14SGxaq0zra3i9jx6qwjanGrG8",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E03AQHYpvISXhDWFw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "Jt8z3NmtRIuQwomgpyZRYg=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABuLazQByR0cOVlSLOC62gyVYvqXYhievAc,1596262732,286205532)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABuLazQByR0cOVlSLOC62gyVYvqXYhievAc"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 10,
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "month": 10,
+                        "year": 2020
+                    }
+                },
+                "description": "Go Promise aims to be a Promise/Future alternative of bluebird in golang. It will give all the various functionalities provided by any standard promise library along with something more.",
+                "title": "Go-Promise",
+                "url": "https://github.com/rajatkb/go-promise"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Rajat Kanti",
+                            "lastName": "Bhattacharjee",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABuLazQByR0cOVlSLOC62gyVYvqXYhievAc",
+                            "occupation": "Engineer @ Gojek || Interested in Research collaborations",
+                            "objectUrn": "urn:li:member:462121780",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABuLazQByR0cOVlSLOC62gyVYvqXYhievAc",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1593021462938?e=1657756800&v=beta&t=D7qXzO00Ep-laNzDIvmvYcOWoISC22brbqcDuZkWt7Q",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1593021462938?e=1657756800&v=beta&t=UvC7lYBjSqgu7pUZ7-TD8LTSA3nKjeh93-FpDx0xFSw",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E16AQHoLI3FMC6Irg/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "rajatkb",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1614707285486?e=1657756800&v=beta&t=RbAgry1iPYednJkhcAPU-4Ghpy272vdx6LXLwbA4vzE",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1614707285486?e=1657756800&v=beta&t=_ruKzF_JVsVCt2DOaLynUS3xe49goeo00hYYKsGmZ64",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1614707285486?e=1657756800&v=beta&t=daa2L7W6GcTr-TRlDvdxgF9N37WvXSn-BC-mMyz6xss",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1614707285486?e=1657756800&v=beta&t=3cV2j9cFEuvGrPYJ-14SGxaq0zra3i9jx6qwjanGrG8",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E03AQHYpvISXhDWFw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "Jt8z3NmtRIuQwomgpyZRYg=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABuLazQByR0cOVlSLOC62gyVYvqXYhievAc,1324258344,269966230)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABuLazQByR0cOVlSLOC62gyVYvqXYhievAc"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 5,
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "month": 5,
+                        "year": 2020
+                    }
+                },
+                "description": "It's a stock image service where u can upload images apply description and hashtags to it. Search images based on description and hashtags etc. Check the readme section for Design decisions and deployment strategy.",
+                "title": "Stock-Image Service",
+                "url": "https://github.com/rajatkb/Stock-Image-Service"
+            },
+            {
+                "occupation": "urn:li:fs_education:(ACoAABuLazQByR0cOVlSLOC62gyVYvqXYhievAc,573311584)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Rajat Kanti",
+                            "lastName": "Bhattacharjee",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABuLazQByR0cOVlSLOC62gyVYvqXYhievAc",
+                            "occupation": "Engineer @ Gojek || Interested in Research collaborations",
+                            "objectUrn": "urn:li:member:462121780",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABuLazQByR0cOVlSLOC62gyVYvqXYhievAc",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1593021462938?e=1657756800&v=beta&t=D7qXzO00Ep-laNzDIvmvYcOWoISC22brbqcDuZkWt7Q",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1593021462938?e=1657756800&v=beta&t=UvC7lYBjSqgu7pUZ7-TD8LTSA3nKjeh93-FpDx0xFSw",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E16AQHoLI3FMC6Irg/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "rajatkb",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1614707285486?e=1657756800&v=beta&t=RbAgry1iPYednJkhcAPU-4Ghpy272vdx6LXLwbA4vzE",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1614707285486?e=1657756800&v=beta&t=_ruKzF_JVsVCt2DOaLynUS3xe49goeo00hYYKsGmZ64",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1614707285486?e=1657756800&v=beta&t=daa2L7W6GcTr-TRlDvdxgF9N37WvXSn-BC-mMyz6xss",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1614707285486?e=1657756800&v=beta&t=3cV2j9cFEuvGrPYJ-14SGxaq0zra3i9jx6qwjanGrG8",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E03AQHYpvISXhDWFw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "Jt8z3NmtRIuQwomgpyZRYg=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABuLazQByR0cOVlSLOC62gyVYvqXYhievAc,1191983500,270604629)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABuLazQByR0cOVlSLOC62gyVYvqXYhievAc"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Meghali",
+                            "lastName": "Nandi",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAB0xm6cBFLe4DKL6GDNXVcoFOz05oX29PuA",
+                            "occupation": "Software Engineer at Alation | Ex-Zalonian | MEAN Stack | Deep Learning | Hadoop",
+                            "objectUrn": "urn:li:member:489790375",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAB0xm6cBFLe4DKL6GDNXVcoFOz05oX29PuA",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1607915764628?e=1657756800&v=beta&t=I-fGrJwfZv4hgPDXWdWKqAwJwQ8OIQxs7ERjPlPPmqQ",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1607915764628?e=1657756800&v=beta&t=LW91SWJwwBAT28WcnXWEID5dPzp-GP9NxHDSQ3CPXr8",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E16AQHGJtH88m_7jw/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "meghali-nandi",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1538327112099?e=1657756800&v=beta&t=grZ7mFsON2iEAtREkaJC-lVtx_dWedSWx6ODADw9UWs",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1538327112099?e=1657756800&v=beta&t=jSj-xco0CPm1PKnpWcZNncgVU8xMJ2fANZzyrzQ8VhE",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1538327112099?e=1657756800&v=beta&t=9H8ydj5YfJLKO2jj0WLFb32mQheLArT_AJhzrnn6kFU",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1538327112099?e=1657756800&v=beta&t=PbuTmcaXcg66nR07T7p5Fn_WkP8IUAmFVFWIlHOgp3s",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5103AQH9LqwuyxVU9Q/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "5+ksP+SdRrWxpyRqxuKk0g=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABuLazQByR0cOVlSLOC62gyVYvqXYhievAc,1191983500,270606572)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAB0xm6cBFLe4DKL6GDNXVcoFOz05oX29PuA"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Amrit",
+                            "lastName": "Jha",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABs26KEBs55FpTlP7_ULhzxAzUKlTRQFeOk",
+                            "occupation": "Software Engineer at Gainsight",
+                            "objectUrn": "urn:li:member:456583329",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABs26KEBs55FpTlP7_ULhzxAzUKlTRQFeOk",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1649660703303?e=1657756800&v=beta&t=-fyGhB9pqpa1LTiGamGQfbKQFncGfh9geJD55ePAQyk",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1649660703303?e=1657756800&v=beta&t=oSFuVS11QUcEmmjA1gzBd9-F_RJr2Tk3VI_AG8N_-_k",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5616AQGtu_GDfNoudA/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "amrit-jha-569aaa108",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1651857225514?e=1657756800&v=beta&t=r3Q4Zdwf0lkUBAfetFoR4IPHptsVuy9q780BbcXkJ60",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1651857225514?e=1657756800&v=beta&t=n2fqD3gJ9Oyc49qpMLGpIjxPIEM1A0JkqHw8DQuBbyk",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1651857225514?e=1657756800&v=beta&t=ZpvzgNv09tUKmlgoGbBmOvx8H569dDhKs2jUlXws7cs",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1651857225514?e=1657756800&v=beta&t=tg8pyF-rqnLwWwPpM5UKPFoG9lwe9VARqBvoMwISWts",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQHaQ9A79ulNiA/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "W9iKWzXpQyK7RlwkbQN46w=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABuLazQByR0cOVlSLOC62gyVYvqXYhievAc,1191983500,270605666)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABs26KEBs55FpTlP7_ULhzxAzUKlTRQFeOk"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "month": 2,
+                        "year": 2019
+                    }
+                },
+                "description": "Intuition net is a neural network + experiment which is built upon the idea of Object Permanance in humans which also leads us to understand physics and inertia of objects intuitively. The network in question will be able to predict segmentation mask for vehicles on road which are not part of the visual field from previous time step data. ",
+                "title": "Intuition-Net Segmentation Outpainting using Video Sequence",
+                "url": "https://github.com/rajatkb/Intuition-Net_Segmentation-Outpainting-using-Video-Sequence"
+            },
+            {
+                "occupation": "urn:li:fs_education:(ACoAABuLazQByR0cOVlSLOC62gyVYvqXYhievAc,573311584)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Rajat Kanti",
+                            "lastName": "Bhattacharjee",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABuLazQByR0cOVlSLOC62gyVYvqXYhievAc",
+                            "occupation": "Engineer @ Gojek || Interested in Research collaborations",
+                            "objectUrn": "urn:li:member:462121780",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABuLazQByR0cOVlSLOC62gyVYvqXYhievAc",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1593021462938?e=1657756800&v=beta&t=D7qXzO00Ep-laNzDIvmvYcOWoISC22brbqcDuZkWt7Q",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1593021462938?e=1657756800&v=beta&t=UvC7lYBjSqgu7pUZ7-TD8LTSA3nKjeh93-FpDx0xFSw",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E16AQHoLI3FMC6Irg/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "rajatkb",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1614707285486?e=1657756800&v=beta&t=RbAgry1iPYednJkhcAPU-4Ghpy272vdx6LXLwbA4vzE",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1614707285486?e=1657756800&v=beta&t=_ruKzF_JVsVCt2DOaLynUS3xe49goeo00hYYKsGmZ64",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1614707285486?e=1657756800&v=beta&t=daa2L7W6GcTr-TRlDvdxgF9N37WvXSn-BC-mMyz6xss",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1614707285486?e=1657756800&v=beta&t=3cV2j9cFEuvGrPYJ-14SGxaq0zra3i9jx6qwjanGrG8",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E03AQHYpvISXhDWFw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "Jt8z3NmtRIuQwomgpyZRYg=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABuLazQByR0cOVlSLOC62gyVYvqXYhievAc,1684824641,202045992)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABuLazQByR0cOVlSLOC62gyVYvqXYhievAc"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Amrit",
+                            "lastName": "Jha",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABs26KEBs55FpTlP7_ULhzxAzUKlTRQFeOk",
+                            "occupation": "Software Engineer at Gainsight",
+                            "objectUrn": "urn:li:member:456583329",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABs26KEBs55FpTlP7_ULhzxAzUKlTRQFeOk",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1649660703303?e=1657756800&v=beta&t=-fyGhB9pqpa1LTiGamGQfbKQFncGfh9geJD55ePAQyk",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1649660703303?e=1657756800&v=beta&t=oSFuVS11QUcEmmjA1gzBd9-F_RJr2Tk3VI_AG8N_-_k",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5616AQGtu_GDfNoudA/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "amrit-jha-569aaa108",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1651857225514?e=1657756800&v=beta&t=r3Q4Zdwf0lkUBAfetFoR4IPHptsVuy9q780BbcXkJ60",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1651857225514?e=1657756800&v=beta&t=n2fqD3gJ9Oyc49qpMLGpIjxPIEM1A0JkqHw8DQuBbyk",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1651857225514?e=1657756800&v=beta&t=ZpvzgNv09tUKmlgoGbBmOvx8H569dDhKs2jUlXws7cs",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1651857225514?e=1657756800&v=beta&t=tg8pyF-rqnLwWwPpM5UKPFoG9lwe9VARqBvoMwISWts",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQHaQ9A79ulNiA/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "W9iKWzXpQyK7RlwkbQN46w=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABuLazQByR0cOVlSLOC62gyVYvqXYhievAc,1684824641,202047800)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABs26KEBs55FpTlP7_ULhzxAzUKlTRQFeOk"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Meghali",
+                            "lastName": "Nandi",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAB0xm6cBFLe4DKL6GDNXVcoFOz05oX29PuA",
+                            "occupation": "Software Engineer at Alation | Ex-Zalonian | MEAN Stack | Deep Learning | Hadoop",
+                            "objectUrn": "urn:li:member:489790375",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAB0xm6cBFLe4DKL6GDNXVcoFOz05oX29PuA",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1607915764628?e=1657756800&v=beta&t=I-fGrJwfZv4hgPDXWdWKqAwJwQ8OIQxs7ERjPlPPmqQ",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1607915764628?e=1657756800&v=beta&t=LW91SWJwwBAT28WcnXWEID5dPzp-GP9NxHDSQ3CPXr8",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E16AQHGJtH88m_7jw/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "meghali-nandi",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1538327112099?e=1657756800&v=beta&t=grZ7mFsON2iEAtREkaJC-lVtx_dWedSWx6ODADw9UWs",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1538327112099?e=1657756800&v=beta&t=jSj-xco0CPm1PKnpWcZNncgVU8xMJ2fANZzyrzQ8VhE",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1538327112099?e=1657756800&v=beta&t=9H8ydj5YfJLKO2jj0WLFb32mQheLArT_AJhzrnn6kFU",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1538327112099?e=1657756800&v=beta&t=PbuTmcaXcg66nR07T7p5Fn_WkP8IUAmFVFWIlHOgp3s",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5103AQH9LqwuyxVU9Q/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "5+ksP+SdRrWxpyRqxuKk0g=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABuLazQByR0cOVlSLOC62gyVYvqXYhievAc,1684824641,202045993)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAB0xm6cBFLe4DKL6GDNXVcoFOz05oX29PuA"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2018
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2018
+                    }
+                },
+                "description": "* Built a design application for handloom textile industry using Angular for frontend and Flask as backend for deploying the Deep Learning models. Can be used by giving input of already made designs or hand drawn sample\n* Used Fast Neural Style transfer and DiscoGAN for training on custom Saree dataset to generate new design and textures.\n* Created a dataset of Indian Saree with division based on individuals and traditional/non-traditional. Total no. of saree collected 600+\n ",
+                "title": "Generating Handloom Design using Generative A.I",
+                "url": "https://github.com/rajatkb/Handloom-Design-Generation-using-Deep-Neural-Networks"
+            },
+            {
+                "occupation": "urn:li:fs_position:(ACoAABuLazQByR0cOVlSLOC62gyVYvqXYhievAc,1326683767)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Rajat Kanti",
+                            "lastName": "Bhattacharjee",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABuLazQByR0cOVlSLOC62gyVYvqXYhievAc",
+                            "occupation": "Engineer @ Gojek || Interested in Research collaborations",
+                            "objectUrn": "urn:li:member:462121780",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABuLazQByR0cOVlSLOC62gyVYvqXYhievAc",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1593021462938?e=1657756800&v=beta&t=D7qXzO00Ep-laNzDIvmvYcOWoISC22brbqcDuZkWt7Q",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1593021462938?e=1657756800&v=beta&t=UvC7lYBjSqgu7pUZ7-TD8LTSA3nKjeh93-FpDx0xFSw",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E16AQHoLI3FMC6Irg/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "rajatkb",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1614707285486?e=1657756800&v=beta&t=RbAgry1iPYednJkhcAPU-4Ghpy272vdx6LXLwbA4vzE",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1614707285486?e=1657756800&v=beta&t=_ruKzF_JVsVCt2DOaLynUS3xe49goeo00hYYKsGmZ64",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1614707285486?e=1657756800&v=beta&t=daa2L7W6GcTr-TRlDvdxgF9N37WvXSn-BC-mMyz6xss",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1614707285486?e=1657756800&v=beta&t=3cV2j9cFEuvGrPYJ-14SGxaq0zra3i9jx6qwjanGrG8",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E03AQHYpvISXhDWFw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "Jt8z3NmtRIuQwomgpyZRYg=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABuLazQByR0cOVlSLOC62gyVYvqXYhievAc,1351772288,182909543)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABuLazQByR0cOVlSLOC62gyVYvqXYhievAc"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2018
+                    },
+                    "startDate": {
+                        "month": 6,
+                        "year": 2018
+                    }
+                },
+                "description": "Implementation of a research paper whose proper Keras or readable tensorflow alternative was not found. So during my research work i had to create an implementation and hence this work.",
+                "title": "Residual Dense Network Super Resolution -Keras",
+                "url": "https://github.com/rajatthepagal/RDNSR-Residual-Dense-Network-for-Super-Resolution-Keras"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Rajat Kanti",
+                            "lastName": "Bhattacharjee",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABuLazQByR0cOVlSLOC62gyVYvqXYhievAc",
+                            "occupation": "Engineer @ Gojek || Interested in Research collaborations",
+                            "objectUrn": "urn:li:member:462121780",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABuLazQByR0cOVlSLOC62gyVYvqXYhievAc",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1593021462938?e=1657756800&v=beta&t=D7qXzO00Ep-laNzDIvmvYcOWoISC22brbqcDuZkWt7Q",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1593021462938?e=1657756800&v=beta&t=UvC7lYBjSqgu7pUZ7-TD8LTSA3nKjeh93-FpDx0xFSw",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E16AQHoLI3FMC6Irg/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "rajatkb",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1614707285486?e=1657756800&v=beta&t=RbAgry1iPYednJkhcAPU-4Ghpy272vdx6LXLwbA4vzE",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1614707285486?e=1657756800&v=beta&t=_ruKzF_JVsVCt2DOaLynUS3xe49goeo00hYYKsGmZ64",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1614707285486?e=1657756800&v=beta&t=daa2L7W6GcTr-TRlDvdxgF9N37WvXSn-BC-mMyz6xss",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1614707285486?e=1657756800&v=beta&t=3cV2j9cFEuvGrPYJ-14SGxaq0zra3i9jx6qwjanGrG8",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E03AQHYpvISXhDWFw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "Jt8z3NmtRIuQwomgpyZRYg=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABuLazQByR0cOVlSLOC62gyVYvqXYhievAc,1993549169,180789204)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABuLazQByR0cOVlSLOC62gyVYvqXYhievAc"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Meghali",
+                            "lastName": "Nandi",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAB0xm6cBFLe4DKL6GDNXVcoFOz05oX29PuA",
+                            "occupation": "Software Engineer at Alation | Ex-Zalonian | MEAN Stack | Deep Learning | Hadoop",
+                            "objectUrn": "urn:li:member:489790375",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAB0xm6cBFLe4DKL6GDNXVcoFOz05oX29PuA",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1607915764628?e=1657756800&v=beta&t=I-fGrJwfZv4hgPDXWdWKqAwJwQ8OIQxs7ERjPlPPmqQ",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1607915764628?e=1657756800&v=beta&t=LW91SWJwwBAT28WcnXWEID5dPzp-GP9NxHDSQ3CPXr8",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E16AQHGJtH88m_7jw/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "meghali-nandi",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1538327112099?e=1657756800&v=beta&t=grZ7mFsON2iEAtREkaJC-lVtx_dWedSWx6ODADw9UWs",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1538327112099?e=1657756800&v=beta&t=jSj-xco0CPm1PKnpWcZNncgVU8xMJ2fANZzyrzQ8VhE",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1538327112099?e=1657756800&v=beta&t=9H8ydj5YfJLKO2jj0WLFb32mQheLArT_AJhzrnn6kFU",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1538327112099?e=1657756800&v=beta&t=PbuTmcaXcg66nR07T7p5Fn_WkP8IUAmFVFWIlHOgp3s",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5103AQH9LqwuyxVU9Q/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "5+ksP+SdRrWxpyRqxuKk0g=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABuLazQByR0cOVlSLOC62gyVYvqXYhievAc,1993549169,180789205)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAB0xm6cBFLe4DKL6GDNXVcoFOz05oX29PuA"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Amrit",
+                            "lastName": "Jha",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABs26KEBs55FpTlP7_ULhzxAzUKlTRQFeOk",
+                            "occupation": "Software Engineer at Gainsight",
+                            "objectUrn": "urn:li:member:456583329",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABs26KEBs55FpTlP7_ULhzxAzUKlTRQFeOk",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1649660703303?e=1657756800&v=beta&t=-fyGhB9pqpa1LTiGamGQfbKQFncGfh9geJD55ePAQyk",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1649660703303?e=1657756800&v=beta&t=oSFuVS11QUcEmmjA1gzBd9-F_RJr2Tk3VI_AG8N_-_k",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5616AQGtu_GDfNoudA/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "amrit-jha-569aaa108",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1651857225514?e=1657756800&v=beta&t=r3Q4Zdwf0lkUBAfetFoR4IPHptsVuy9q780BbcXkJ60",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1651857225514?e=1657756800&v=beta&t=n2fqD3gJ9Oyc49qpMLGpIjxPIEM1A0JkqHw8DQuBbyk",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1651857225514?e=1657756800&v=beta&t=ZpvzgNv09tUKmlgoGbBmOvx8H569dDhKs2jUlXws7cs",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1651857225514?e=1657756800&v=beta&t=tg8pyF-rqnLwWwPpM5UKPFoG9lwe9VARqBvoMwISWts",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQHaQ9A79ulNiA/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "W9iKWzXpQyK7RlwkbQN46w=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABuLazQByR0cOVlSLOC62gyVYvqXYhievAc,1993549169,180789206)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABs26KEBs55FpTlP7_ULhzxAzUKlTRQFeOk"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 5,
+                        "year": 2018
+                    },
+                    "startDate": {
+                        "month": 4,
+                        "year": 2018
+                    }
+                },
+                "description": "Its product management software for departmental store with features for notification on activity by employees and low stock of products along with accounting capabilities and visually graph them out.",
+                "title": "SAMS (Stock Analysis and Management System)",
+                "url": "https://github.com/rajatthepagal/SAMS"
+            },
+            {
+                "occupation": "urn:li:fs_position:(ACoAABuLazQByR0cOVlSLOC62gyVYvqXYhievAc,1185336929)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Rajat Kanti",
+                            "lastName": "Bhattacharjee",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABuLazQByR0cOVlSLOC62gyVYvqXYhievAc",
+                            "occupation": "Engineer @ Gojek || Interested in Research collaborations",
+                            "objectUrn": "urn:li:member:462121780",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABuLazQByR0cOVlSLOC62gyVYvqXYhievAc",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1593021462938?e=1657756800&v=beta&t=D7qXzO00Ep-laNzDIvmvYcOWoISC22brbqcDuZkWt7Q",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1593021462938?e=1657756800&v=beta&t=UvC7lYBjSqgu7pUZ7-TD8LTSA3nKjeh93-FpDx0xFSw",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E16AQHoLI3FMC6Irg/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "rajatkb",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1614707285486?e=1657756800&v=beta&t=RbAgry1iPYednJkhcAPU-4Ghpy272vdx6LXLwbA4vzE",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1614707285486?e=1657756800&v=beta&t=_ruKzF_JVsVCt2DOaLynUS3xe49goeo00hYYKsGmZ64",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1614707285486?e=1657756800&v=beta&t=daa2L7W6GcTr-TRlDvdxgF9N37WvXSn-BC-mMyz6xss",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1614707285486?e=1657756800&v=beta&t=3cV2j9cFEuvGrPYJ-14SGxaq0zra3i9jx6qwjanGrG8",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E03AQHYpvISXhDWFw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "Jt8z3NmtRIuQwomgpyZRYg=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABuLazQByR0cOVlSLOC62gyVYvqXYhievAc,768044881,163565552)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABuLazQByR0cOVlSLOC62gyVYvqXYhievAc"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 1,
+                        "year": 2018
+                    },
+                    "startDate": {
+                        "month": 12,
+                        "year": 2017
+                    }
+                },
+                "description": "It is a movie review application that i have written using solidity as the traditional backend which resides on ethereum blockchain now. The basic functionality is adding movies for review request and then adding comments or reviews to it. Its demo application that allowed me to explore the basics of decentralised applications",
+                "title": "Movie Consensus : Movie _Review Decentralised Application ",
+                "url": "https://github.com/rajatthepagal/Movie-_-Review-Solidity-Application"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Rajat Kanti",
+                            "lastName": "Bhattacharjee",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABuLazQByR0cOVlSLOC62gyVYvqXYhievAc",
+                            "occupation": "Engineer @ Gojek || Interested in Research collaborations",
+                            "objectUrn": "urn:li:member:462121780",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABuLazQByR0cOVlSLOC62gyVYvqXYhievAc",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1593021462938?e=1657756800&v=beta&t=D7qXzO00Ep-laNzDIvmvYcOWoISC22brbqcDuZkWt7Q",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1593021462938?e=1657756800&v=beta&t=UvC7lYBjSqgu7pUZ7-TD8LTSA3nKjeh93-FpDx0xFSw",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E16AQHoLI3FMC6Irg/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "rajatkb",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1614707285486?e=1657756800&v=beta&t=RbAgry1iPYednJkhcAPU-4Ghpy272vdx6LXLwbA4vzE",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1614707285486?e=1657756800&v=beta&t=_ruKzF_JVsVCt2DOaLynUS3xe49goeo00hYYKsGmZ64",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1614707285486?e=1657756800&v=beta&t=daa2L7W6GcTr-TRlDvdxgF9N37WvXSn-BC-mMyz6xss",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1614707285486?e=1657756800&v=beta&t=3cV2j9cFEuvGrPYJ-14SGxaq0zra3i9jx6qwjanGrG8",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E03AQHYpvISXhDWFw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "Jt8z3NmtRIuQwomgpyZRYg=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABuLazQByR0cOVlSLOC62gyVYvqXYhievAc,924576122,162992443)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABuLazQByR0cOVlSLOC62gyVYvqXYhievAc"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 1,
+                        "year": 2018
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2018
+                    }
+                },
+                "description": "A self driving A.I for a video game NFS Most wanted. For educational purposes and understanding of CNN , Recurrent CNN and Reinforced Learning",
+                "title": "STUNET : Self driving A.I for video game",
+                "url": "https://github.com/rajatthepagal/STU-NET-Stupid-Neural-Net/blob/master/README.md"
+            }
+        ]
+    },
+    "contact_info": {
+        "email_address": null,
+        "websites": [
+            {
+                "url": "https://github.com/rajatkb",
+                "label": "PERSONAL"
+            },
+            {
+                "url": "https://medium.com/csmadeeasy",
+                "label": "BLOG"
+            }
+        ],
+        "twitter": [],
+        "birthdate": null,
+        "ims": null,
+        "phone_numbers": []
+    },
+    "connections": [
+        {
+            "urn_id": "ACoAAAjgx0kBxJoPu_7t3kS1NbDizQekjIIzMbE",
+            "distance": "DISTANCE_1",
+            "public_id": "lakheswar-nath-289a7141",
+            "tracking_id": "148948809"
+        }
+    ],
+    "skills": [
+        {
+            "name": "C++"
+        },
+        {
+            "name": "C"
+        },
+        {
+            "name": "Python"
+        },
+        {
+            "name": "Machine Learning"
+        },
+        {
+            "name": "Research"
+        },
+        {
+            "name": "Deep Learning"
+        },
+        {
+            "name": "Computer Vision"
+        },
+        {
+            "name": "Tensorflow"
+        },
+        {
+            "name": "React.js"
+        },
+        {
+            "name": "Node.js"
+        },
+        {
+            "name": "Redux.js"
+        },
+        {
+            "name": "PyTorch"
+        },
+        {
+            "name": "Java"
+        },
+        {
+            "name": "Angular"
+        },
+        {
+            "name": "JavaScript"
+        },
+        {
+            "name": "MongoDB"
+        },
+        {
+            "name": "MapReduce"
+        },
+        {
+            "name": "Java Database Connectivity (JDBC)"
+        },
+        {
+            "name": "JavaServer Pages (JSP)"
+        },
+        {
+            "name": "HTML5"
+        },
+        {
+            "name": "SQL"
+        },
+        {
+            "name": "Cascading Style Sheets (CSS)"
+        },
+        {
+            "name": "tkinter"
+        },
+        {
+            "name": "Solidity"
+        },
+        {
+            "name": "Arduino"
+        },
+        {
+            "name": "Hadoop"
+        },
+        {
+            "name": "Git"
+        },
+        {
+            "name": "Scala"
+        },
+        {
+            "name": "Docker"
+        },
+        {
+            "name": "Flask"
+        },
+        {
+            "name": "Django"
+        },
+        {
+            "name": "MySQL"
+        },
+        {
+            "name": "RxJS"
+        },
+        {
+            "name": "Team Building"
+        },
+        {
+            "name": "Time Management"
+        },
+        {
+            "name": "Apache Spark"
+        },
+        {
+            "name": "Artificial Neural Networks"
+        },
+        {
+            "name": "Java Swing"
+        },
+        {
+            "name": "JavaServer Pages Standard Tag Library (JSTL)"
+        },
+        {
+            "name": "Tomcat 5"
+        },
+        {
+            "name": "OpenCV"
+        },
+        {
+            "name": "Atmel AVR"
+        },
+        {
+            "name": "Hive"
+        },
+        {
+            "name": "Google Apps Script"
+        }
+    ]
+}

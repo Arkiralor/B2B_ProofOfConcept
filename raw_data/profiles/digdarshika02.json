@@ -1,0 +1,889 @@
+{
+    "profile": {
+        "summary": "I am an MBA graduate of batch 2020 specialized in Marketing and Operations from Tezpur University with experiences as an operations analyst intern in Loadshare Networks Pvt.Ltd responsible for monitoring and analysing OPS KPI performance in 8 regional hubs of India and in Zestapeep as a Digital Marketing Lead responsible for optimum lead generation and reach for their social media.\n\n~Currently, working as a Marketing Analyst in Goodera making sure all the non-profit organisation get their daily dose of marketing that too for free. And I'm loving it.\n\n~Experiences in social-media marketing, Instagram marketing and content marketing. Currently managing Instagram food blog @khana.inc with 9k+ followers, 750k+ views and 490k+ reach.\n\n~Skilled in video production, content creation, Instagram business account management and SEO/SEM. Currently managing Youtube channel for Dance tutorials with 1k+ subs, 90k+ views, 5k+ likes. Also, working as a Creative Editor in a nonprofit organisation Spread Love and Peace (SLAP).\n\nFor any queries, kindly reach me at digdarshika02@gmail.com",
+        "industryName": "Advertising Services",
+        "lastName": "Thakuria",
+        "locationName": "India",
+        "student": false,
+        "geoCountryName": "India",
+        "geoCountryUrn": "urn:li:fs_geo:102713980",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "industryUrn": "urn:li:fs_industry:80",
+        "firstName": "Digdarshika",
+        "entityUrn": "urn:li:fs_profile:ACoAAAzulL8BWOrEguGiA9Por4LkTYnXUHENJZo",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:105607401"
+        },
+        "geoLocationName": "Guwahati, Assam",
+        "location": {
+            "basicLocation": {
+                "countryCode": "in"
+            }
+        },
+        "headline": "Marketing Analyst | Nonprofit Marketing | Goodera",
+        "displayPictureUrl": "https://media-exp1.licdn.com/dms/image/C5103AQGuDLO9LW8Wrw/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/0/1558814089883?e=1657756800&v=beta&t=339fJ55iP1k91UrjV1pogqwHWxKHXA-vR6ohQaCmQWs",
+        "img_200_200": "200_200/0/1558814089883?e=1657756800&v=beta&t=5HkC9IZaMJFJMU5PpiBexq77TL_BxcLcWwcoOfpnjlk",
+        "img_400_400": "400_400/0/1558814089883?e=1657756800&v=beta&t=x5wdLwvlGfSgEG0n2zILxfTut2lZBnbFH5sNam6QfZk",
+        "img_800_800": "800_800/0/1558814089883?e=1657756800&v=beta&t=_VpwXGph0FUhvDVcU6CPMK2iePOXTj5PwG1wYAkJMzQ",
+        "profile_id": "ACoAAAzulL8BWOrEguGiA9Por4LkTYnXUHENJZo",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAAAzulL8BWOrEguGiA9Por4LkTYnXUHENJZo",
+        "member_urn": "urn:li:member:216962239",
+        "experience": [
+            {
+                "locationName": "Bangalore Urban, Karnataka, India",
+                "entityUrn": "urn:li:fs_position:(ACoAAAzulL8BWOrEguGiA9Por4LkTYnXUHENJZo,1908299954)",
+                "geoLocationName": "Bangalore Urban, Karnataka, India",
+                "geoUrn": "urn:li:fs_geo:112376381",
+                "companyName": "Goodera",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 2,
+                        "year": 2022
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 51,
+                        "end": 200
+                    },
+                    "industries": [
+                        "Computer Software"
+                    ]
+                },
+                "title": "Marketing Analyst",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:13312498",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQFp5BJyJjR8pA/company-logo_"
+            },
+            {
+                "locationName": "Guwahati, Assam, India",
+                "entityUrn": "urn:li:fs_position:(ACoAAAzulL8BWOrEguGiA9Por4LkTYnXUHENJZo,1770106082)",
+                "geoLocationName": "Guwahati, Assam, India",
+                "geoUrn": "urn:li:fs_geo:105607401",
+                "companyName": "Instagram",
+                "timePeriod": {
+                    "startDate": {
+                        "year": 2017
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Computer Software"
+                    ]
+                },
+                "title": "Digital Creator & Food Blogger",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:2289109",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C510BAQEBW-TswoZ0CA/company-logo_"
+            },
+            {
+                "locationName": "Pune, Maharashtra, India",
+                "entityUrn": "urn:li:fs_position:(ACoAAAzulL8BWOrEguGiA9Por4LkTYnXUHENJZo,1730810287)",
+                "geoLocationName": "Pune, Maharashtra, India",
+                "geoUrn": "urn:li:fs_geo:103671728",
+                "companyName": "Zestapeep",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 1,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2021
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 2,
+                        "end": 10
+                    },
+                    "industries": [
+                        "Health, Wellness and Fitness"
+                    ]
+                },
+                "title": "Digital Marketing Lead",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:31443926",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQHgWzAd4W4vqw/company-logo_"
+            },
+            {
+                "locationName": "Guwahati, Assam, India",
+                "entityUrn": "urn:li:fs_position:(ACoAAAzulL8BWOrEguGiA9Por4LkTYnXUHENJZo,1830940697)",
+                "geoLocationName": "Guwahati, Assam, India",
+                "geoUrn": "urn:li:fs_geo:105607401",
+                "companyName": "TechVariable",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 10,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2021
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Corporate Communications Specialist",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:10632640",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQE6IzKHUZQmAA/company-logo_"
+            },
+            {
+                "locationName": "Bengaluru, Karnataka, India",
+                "entityUrn": "urn:li:fs_position:(ACoAAAzulL8BWOrEguGiA9Por4LkTYnXUHENJZo,1668931766)",
+                "geoLocationName": "Bengaluru, Karnataka, India",
+                "geoUrn": "urn:li:fs_geo:109710172",
+                "companyName": "LoadShare Networks Pvt Ltd",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2020
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 201,
+                        "end": 500
+                    },
+                    "industries": [
+                        "Transportation/Trucking/Railroad"
+                    ]
+                },
+                "title": "Business Operations Analyst",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:13276107",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C560BAQFVbSWn6DGrBw/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAAzulL8BWOrEguGiA9Por4LkTYnXUHENJZo,548944784)",
+                "school": {
+                    "objectUrn": "urn:li:school:13644",
+                    "entityUrn": "urn:li:fs_miniSchool:13644",
+                    "active": true,
+                    "schoolName": "Tezpur University",
+                    "trackingId": "E711dt12RlGlkyre1fPUOQ==",
+                    "logoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQGdv3IR3tOUdw/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "year": 2018
+                    }
+                },
+                "degreeName": "Master of Business Administration - MBA",
+                "schoolName": "Tezpur University",
+                "fieldOfStudy": "Operations and Marketing",
+                "honors": [
+                    "urn:li:fs_honor:(ACoAAAzulL8BWOrEguGiA9Por4LkTYnXUHENJZo,1925066823)"
+                ],
+                "degreeUrn": "urn:li:fs_degree:700",
+                "schoolUrn": "urn:li:fs_miniSchool:13644"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAAzulL8BWOrEguGiA9Por4LkTYnXUHENJZo,548946793)",
+                "school": {
+                    "objectUrn": "urn:li:school:13476",
+                    "entityUrn": "urn:li:fs_miniSchool:13476",
+                    "active": true,
+                    "schoolName": "Gauhati University",
+                    "trackingId": "Sjm2V7eTT9WbRbWgUp4irg==",
+                    "logoUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQE_SHDG7RHWLg/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2017
+                    },
+                    "startDate": {
+                        "year": 2013
+                    }
+                },
+                "degreeName": "Bachelor of Technology - BTech",
+                "schoolName": "Gauhati University",
+                "fieldOfStudy": "Electronics and Communications Engineering",
+                "degreeUrn": "urn:li:fs_degree:250",
+                "schoolUrn": "urn:li:fs_miniSchool:13476"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAAzulL8BWOrEguGiA9Por4LkTYnXUHENJZo,143416873)",
+                "activities": "Eco-Club",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2013
+                    },
+                    "startDate": {
+                        "year": 2011
+                    }
+                },
+                "degreeName": "Class-11 to 12",
+                "schoolName": "Faculty Higher Secondary School",
+                "fieldOfStudy": "Science"
+            }
+        ],
+        "languages": [
+            {
+                "name": "Assamese",
+                "proficiency": "LIMITED_WORKING"
+            },
+            {
+                "name": "Bengali"
+            },
+            {
+                "name": "English",
+                "proficiency": "PROFESSIONAL_WORKING"
+            },
+            {
+                "name": "Hindi",
+                "proficiency": "LIMITED_WORKING"
+            }
+        ],
+        "publications": [],
+        "certifications": [
+            {
+                "authority": "Power BI Fox",
+                "name": "MS Excel Advanced\n",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 12,
+                        "year": 2018
+                    }
+                },
+                "licenseNumber": "MS Office Expert Chief Excel Officer"
+            },
+            {
+                "authority": "NPTEL",
+                "name": "Programming with Python",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 12,
+                        "year": 2019
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:13229455",
+                    "entityUrn": "urn:li:fs_miniCompany:13229455",
+                    "name": "NPTEL",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1519898420366?e=1660176000&v=beta&t=m3X6knrr9uNvqJVLXYKGliiKbUHhj0GYI9EUgF_qhbs",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1519898420366?e=1660176000&v=beta&t=TKl9Dd_QwHSlP_U0JTEwhp7Lonp8hw--Cbs915-0kug",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1519898420366?e=1660176000&v=beta&t=QT_o0su2LZcqRcym9MYUo2k1b3kSWns7TvEY4vzALIs",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQHJZGa_G2gwUg/company-logo_"
+                        }
+                    },
+                    "universalName": "nptel",
+                    "dashCompanyUrn": "urn:li:fsd_company:13229455",
+                    "trackingId": "B2/64xqqSl6hWqwtJaP/yg=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:13229455"
+            },
+            {
+                "authority": "Google",
+                "name": "Digital Marketing",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 4,
+                        "year": 2020
+                    }
+                },
+                "licenseNumber": "T9AWW4PPW",
+                "company": {
+                    "objectUrn": "urn:li:company:1441",
+                    "entityUrn": "urn:li:fs_miniCompany:1441",
+                    "name": "Google",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1519856215226?e=1660176000&v=beta&t=ZVrwoNadcff_4XjzeFekRT8yzOSwiANTM1Sv8DNovHQ",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1519856215226?e=1660176000&v=beta&t=Hh-D_ufzQ52ob-X9GOKvxTPzYdtYXLpRv5Y9DeaLisc",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1519856215226?e=1660176000&v=beta&t=9YSWq4M7_f1Mey-FBKuN3BJ-0u2kYfJgrMLhgXNDrik",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQHiNSL4Or29cg/company-logo_"
+                        }
+                    },
+                    "universalName": "google",
+                    "dashCompanyUrn": "urn:li:fsd_company:1441",
+                    "trackingId": "43hBtCtzSbmYMgSCIlk2CA=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:1441"
+            },
+            {
+                "authority": "SoloLearn",
+                "name": "HTML",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 4,
+                        "year": 2020
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:9435690",
+                    "entityUrn": "urn:li:fs_miniCompany:9435690",
+                    "name": "Sololearn",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1625174152948?e=1660176000&v=beta&t=aeQN2AOu5FqBFmGRr86EUshjBgPVbgxCEHbgKOQWhmE",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1625174152948?e=1660176000&v=beta&t=07Hyo5j1HJ4Gr1KHv3fECco4hkJAWwJCaltOzrHzcFE",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1625174152948?e=1660176000&v=beta&t=Tb7QMFyVCI0sFR9pp6feZ26_ufUlQeLiqln9k5CcANE",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQHER-dvTqh2tA/company-logo_"
+                        }
+                    },
+                    "universalName": "sololearn-inc-",
+                    "dashCompanyUrn": "urn:li:fsd_company:9435690",
+                    "trackingId": "PDbJ6tG7To6BmhbWe1C8EQ=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:9435690"
+            },
+            {
+                "authority": "Coursera",
+                "name": "SEO",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 4,
+                        "year": 2020
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:2453129",
+                    "entityUrn": "urn:li:fs_miniCompany:2453129",
+                    "name": "Coursera",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1608039227697?e=1660176000&v=beta&t=24dSeYZFSUztRaUy6-QqI0GSTK5-7tfyOci9sanIOTE",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1608039227697?e=1660176000&v=beta&t=8mJvTc5z6PI8olmLRWSi-xaA6ZOeYWkWcZiqxFWbrhE",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1608039227697?e=1660176000&v=beta&t=o8C5zQF49vmVYRAgj4K1Q2W5kUw9P0IZwKQoBFhnmDc",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQGexnfBxeEG-g/company-logo_"
+                        }
+                    },
+                    "universalName": "coursera",
+                    "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                    "trackingId": "a12eWmGkTLOpPf6VYRKcrQ=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:2453129"
+            }
+        ],
+        "volunteer": [
+            {
+                "role": "Junior Dance Teacher",
+                "companyName": "Pushpanjali Cultural Academy",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 8,
+                        "year": 2010
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2007
+                    }
+                },
+                "cause": "EDUCATION"
+            },
+            {
+                "role": "Member",
+                "companyName": "Junior Red Cross",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 5,
+                        "year": 2010
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2006
+                    }
+                },
+                "cause": "CHILDREN"
+            },
+            {
+                "role": "Creative Editor",
+                "companyName": "Spread Love and Peace",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 9,
+                        "year": 2020
+                    }
+                },
+                "cause": "HUMAN_RIGHTS"
+            }
+        ],
+        "honors": [
+            {
+                "description": "Reading Room Coordinator for student body of department of Business Administration, Tezpur University, Formex for the year 2019.",
+                "occupation": "urn:li:fs_education:(ACoAAAzulL8BWOrEguGiA9Por4LkTYnXUHENJZo,548944784)",
+                "title": "Reading Room Coordinator",
+                "issueDate": {
+                    "month": 1,
+                    "year": 2019,
+                    "day": 1
+                },
+                "issuer": "Department of Business Administration, Tezpur University"
+            },
+            {
+                "title": "TechRep",
+                "issueDate": {
+                    "month": 8,
+                    "year": 2018,
+                    "day": 1
+                },
+                "issuer": "Indian Institute of Technology, Guwahati"
+            }
+        ],
+        "projects": [
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Digdarshika",
+                            "lastName": "Thakuria",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAzulL8BWOrEguGiA9Por4LkTYnXUHENJZo",
+                            "occupation": "Marketing Analyst | Nonprofit Marketing | Goodera",
+                            "objectUrn": "urn:li:member:216962239",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAzulL8BWOrEguGiA9Por4LkTYnXUHENJZo",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1646632630357?e=1657756800&v=beta&t=XTOLbrXos2JPR61HRodbqW419CDB2-WwLHg8whmdxTw",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1646632630357?e=1657756800&v=beta&t=thwQm1xqu6NZA_VERSqHJkF7Rq2KUjBxuXWnOIY38EE",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D16AQGX9wXL7sF8og/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "digdarshika02",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1558814089883?e=1657756800&v=beta&t=339fJ55iP1k91UrjV1pogqwHWxKHXA-vR6ohQaCmQWs",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1558814089883?e=1657756800&v=beta&t=5HkC9IZaMJFJMU5PpiBexq77TL_BxcLcWwcoOfpnjlk",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1558814089883?e=1657756800&v=beta&t=x5wdLwvlGfSgEG0n2zILxfTut2lZBnbFH5sNam6QfZk",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1558814089883?e=1657756800&v=beta&t=_VpwXGph0FUhvDVcU6CPMK2iePOXTj5PwG1wYAkJMzQ",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5103AQGuDLO9LW8Wrw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "u3C34FxERlqxer+DlFAYjQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAAzulL8BWOrEguGiA9Por4LkTYnXUHENJZo,1371708120,212797234)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAzulL8BWOrEguGiA9Por4LkTYnXUHENJZo"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Ashalakshmi",
+                            "lastName": "Sarma",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACEyMNQBRAejI3yejV1E6icqLPMfOS-b-pM",
+                            "occupation": "MBA in Marketing & Finance | Former Intern at Asomi Finance Pvt. Ltd.",
+                            "objectUrn": "urn:li:member:556937428",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACEyMNQBRAejI3yejV1E6icqLPMfOS-b-pM",
+                            "publicIdentifier": "ashalakshmi-sarma-904625136",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1552663067597?e=1657756800&v=beta&t=9AxFkMg30vSdeNoZL-0hAGy0n4fBsivPm0uVdaAn9io",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1552663067597?e=1657756800&v=beta&t=Yx1-D6c97ZrIx2U_FJkhmi9IgQccccchZf06Y3fmx5o",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1552663067597?e=1657756800&v=beta&t=6218L1iYg-AAaqd3U8zM-WnhBIxVOlheu34YCfYpVv0",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1552663067597?e=1657756800&v=beta&t=RXeqJBrpsQ0ISATUGd3N39V2zXwDCuaEQAajUwlc0-4",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5103AQE8Dq1NZkBLXg/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "zvmQQkKKQ+O5OyMemf/pMw=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAAzulL8BWOrEguGiA9Por4LkTYnXUHENJZo,1371708120,212794842)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACEyMNQBRAejI3yejV1E6icqLPMfOS-b-pM"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Aunkus",
+                            "lastName": "Dutta",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAlgfhABtFNGncYpboG7MUnVbA2fvuzfG4c",
+                            "occupation": "Network Engineer at ENRICH DATA SERVICES PRIVATE LIMITED",
+                            "objectUrn": "urn:li:member:157318672",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAlgfhABtFNGncYpboG7MUnVbA2fvuzfG4c",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1618456399805?e=1657756800&v=beta&t=5GqyVz4bCt-JEfFb6qL0tmCO63JSKqtbTAkxBxMxB0A",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1618456399805?e=1657756800&v=beta&t=3qIHXrE37r5zeRbPegP7K9AIMklZA4uxQSLThEI50JI",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D16AQE8BJRGKj-Hqw/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "aunkus-dutta-a9482844",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1638632058736?e=1652400000&v=beta&t=Sv9p5TYLSjaCn_54K0a2Zj-JNuKSgz5pNdDGgJ0BzKA",
+                                            "expiresAt": 1652400000000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1638632058736?e=1652400000&v=beta&t=er5LtE6HEax_zsFs1nJ7gkgxlse2SBCjPGQed0LmDT0",
+                                            "expiresAt": 1652400000000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1638632058736?e=1652400000&v=beta&t=POEPH_KeOV1lUvFtTrjSvffYd1FHc2Z8j3lcHZH7az0",
+                                            "expiresAt": 1652400000000,
+                                            "height": 800
+                                        },
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1638632058736?e=1652400000&v=beta&t=AVduMeVgCIyTG5YWtUQF7c-rc2fKQwXMa8O-OsedWxw",
+                                            "expiresAt": 1652400000000,
+                                            "height": 100
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/D4D35AQE7dfpHFjRDTw/profile-framedphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "c+rVObKgQb214LFGBHwfcw=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAAzulL8BWOrEguGiA9Por4LkTYnXUHENJZo,1371708120,212797235)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAlgfhABtFNGncYpboG7MUnVbA2fvuzfG4c"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2017
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2016
+                    }
+                },
+                "title": "Design of a prototype of digital multilevel parking system"
+            }
+        ]
+    },
+    "contact_info": {
+        "email_address": "digdarshika.thakuria@gmail.com",
+        "websites": [],
+        "twitter": [],
+        "birthdate": null,
+        "ims": null,
+        "phone_numbers": []
+    },
+    "connections": [
+        {
+            "urn_id": "ACoAABr4jt0BoOUmisITdRo1gR4CumG5I4jjZIw",
+            "distance": "DISTANCE_1",
+            "public_id": "samudra-deka-911659107",
+            "tracking_id": "452497117"
+        },
+        {
+            "urn_id": "ACoAACT67ZEBgw1Aprl8Aqy8zWMavdTyaWs7J3w",
+            "distance": "DISTANCE_1",
+            "public_id": "titikshya-das-015942153",
+            "tracking_id": "620424593"
+        },
+        {
+            "urn_id": "ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8",
+            "distance": "DISTANCE_1",
+            "public_id": "sivaranjan-goswami-790b4523",
+            "tracking_id": "83451420"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Microsoft Excel"
+        },
+        {
+            "name": "Social Media Marketing"
+        },
+        {
+            "name": "Search Engine Optimization (SEO)"
+        },
+        {
+            "name": "Digital Marketing"
+        },
+        {
+            "name": "Content Marketing"
+        },
+        {
+            "name": "Marketing"
+        },
+        {
+            "name": "Photography"
+        },
+        {
+            "name": "Web Design"
+        },
+        {
+            "name": "Choreography"
+        },
+        {
+            "name": "Microcontrollers"
+        },
+        {
+            "name": "Social Media"
+        },
+        {
+            "name": "Operations Management"
+        },
+        {
+            "name": "Dance"
+        },
+        {
+            "name": "Analytical Skills"
+        },
+        {
+            "name": "Blogging"
+        },
+        {
+            "name": "Lead Generation"
+        },
+        {
+            "name": "Branding"
+        },
+        {
+            "name": "Marketing Strategy"
+        },
+        {
+            "name": "Business Analysis"
+        },
+        {
+            "name": "Video Production"
+        },
+        {
+            "name": "Python (Programming Language)"
+        },
+        {
+            "name": "Adobe Photoshop"
+        },
+        {
+            "name": "C (Programming Language)"
+        },
+        {
+            "name": "Adobe Illustrator"
+        },
+        {
+            "name": "Lightroom"
+        },
+        {
+            "name": "Microsoft PowerPoint"
+        },
+        {
+            "name": "Microsoft Word"
+        },
+        {
+            "name": "Matlab"
+        },
+        {
+            "name": "LabVIEW"
+        },
+        {
+            "name": "YouTube"
+        },
+        {
+            "name": "Google Ads"
+        },
+        {
+            "name": "Google Analytics"
+        },
+        {
+            "name": "Instagram"
+        },
+        {
+            "name": "Microsoft Office"
+        },
+        {
+            "name": "Teaching"
+        },
+        {
+            "name": "Negotiation"
+        },
+        {
+            "name": "Management"
+        },
+        {
+            "name": "Leadership"
+        },
+        {
+            "name": "Team Management"
+        },
+        {
+            "name": "Presentations"
+        },
+        {
+            "name": "Teamwork"
+        },
+        {
+            "name": "Dance Education"
+        },
+        {
+            "name": "Microprocessors"
+        },
+        {
+            "name": "Marketing Campaigns"
+        },
+        {
+            "name": "Instagram Marketing"
+        },
+        {
+            "name": "Web Content Creation"
+        },
+        {
+            "name": "Editing"
+        },
+        {
+            "name": "Google Data Studio"
+        }
+    ]
+}

@@ -1,0 +1,435 @@
+{
+    "profile": {
+        "summary": "Experienced Marketing Associate with a demonstrated history of working in the online media industry. Skilled in Analytical Skills, Communication, English,  and Problem Solving. Strong marketing.  Studying from Delhi University",
+        "industryName": "IT Services and IT Consulting",
+        "lastName": "Srivastava",
+        "locationName": "India",
+        "student": false,
+        "geoCountryName": "India",
+        "geoCountryUrn": "urn:li:fs_geo:102713980",
+        "geoLocationBackfilled": false,
+        "elt": true,
+        "industryUrn": "urn:li:fs_industry:96",
+        "firstName": "Aryan",
+        "entityUrn": "urn:li:fs_profile:ACoAADRQyaoBmpMG0Z8UjA2fRdgMV4gdf4pvHzw",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:105953070"
+        },
+        "geoLocationName": "New Delhi, Delhi",
+        "location": {
+            "basicLocation": {
+                "countryCode": "in"
+            }
+        },
+        "headline": "Marketing Associate at TechVariable",
+        "displayPictureUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQG0YPjp4235UA/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/0/1650540826726?e=1657756800&v=beta&t=ho1lLCUcI7zE5VYZgzqDPWoTiqrXsRIZlMztCgZ9-h8",
+        "img_200_200": "200_200/0/1650540826726?e=1657756800&v=beta&t=wv-FLJdbqD8teEP67AakkCNsQ72VbjANXsR1lgbyLk8",
+        "img_400_400": "400_400/0/1650540826726?e=1657756800&v=beta&t=Ob6zeYxultTUHT0x4ng_LUbctygVnZAgLMQau1RSPcU",
+        "img_800_800": "800_800/0/1650540826726?e=1657756800&v=beta&t=sf1vi63t9P5kzkzKMsT9f5RUhqyaNu6ZHCWYDmzJtcY",
+        "profile_id": "ACoAADRQyaoBmpMG0Z8UjA2fRdgMV4gdf4pvHzw",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAADRQyaoBmpMG0Z8UjA2fRdgMV4gdf4pvHzw",
+        "member_urn": "urn:li:member:877709738",
+        "experience": [
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAADRQyaoBmpMG0Z8UjA2fRdgMV4gdf4pvHzw,1951859993)",
+                "companyName": "TechVariable",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 4,
+                        "year": 2022
+                    }
+                },
+                "description": "TechVariable is an end-to-end Product Development Company that helps startup founders and innovators get their MVP/POC or complete tech product developed through its rapid development services in Product Planning (PRD development), Interaction Design & Architecture (UI-UX), Product Engineering (Custom Software Development) & Deployment. \n\nA team of 40+ people, comprising of designers, developers, and product managers, that has garnered experience over its 5+ years of journey in developing end-to-end products for our clients in multiple domains. Specialised in converging conventional tech and effective use of disruptive technologies to ensure customers become an innovative disruptor to lead their competition\nMVP Development || Product Engineering ||\n|| Digital Transformation || Software Consulting ||",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Marketing Associate at TechVariable",
+                "companyUrn": "urn:li:fs_miniCompany:10632640",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQE6IzKHUZQmAA/company-logo_"
+            },
+            {
+                "locationName": "Delhi, India",
+                "entityUrn": "urn:li:fs_position:(ACoAADRQyaoBmpMG0Z8UjA2fRdgMV4gdf4pvHzw,1847469141)",
+                "geoLocationName": "Delhi, India",
+                "geoUrn": "urn:li:fs_geo:106187582",
+                "companyName": "The Placement Cell, Motilal Nehru College, Delhi University",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 10,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 12,
+                        "year": 2020
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Human Resources"
+                    ]
+                },
+                "title": "Student Intern",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:14430947",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQE_-sgl-h8bOA/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAADRQyaoBmpMG0Z8UjA2fRdgMV4gdf4pvHzw,750736803)",
+                "school": {
+                    "objectUrn": "urn:li:school:20321",
+                    "entityUrn": "urn:li:fs_miniSchool:20321",
+                    "active": true,
+                    "schoolName": "Delhi University",
+                    "trackingId": "uZ/0IMtCR/aNTE5Ag/L/Tg==",
+                    "logoUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQEKpQuxtygnAw/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "month": 11,
+                        "year": 2023
+                    },
+                    "startDate": {
+                        "month": 11,
+                        "year": 2020
+                    }
+                },
+                "degreeName": "Bachelor's degree",
+                "schoolName": "Delhi University",
+                "fieldOfStudy": "Economics",
+                "degreeUrn": "urn:li:fs_degree:200",
+                "schoolUrn": "urn:li:fs_miniSchool:20321"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAADRQyaoBmpMG0Z8UjA2fRdgMV4gdf4pvHzw,750739154)",
+                "school": {
+                    "objectUrn": "urn:li:school:3237145",
+                    "entityUrn": "urn:li:fs_miniSchool:3237145",
+                    "active": true,
+                    "schoolName": "Lt Col Mehar Little Angels Sr Secondary School",
+                    "trackingId": "dLP+VwtARBOocObNi951Ww=="
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "month": 7,
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "month": 4,
+                        "year": 2007
+                    }
+                },
+                "schoolName": "Lt Col Mehar Little Angels Sr Secondary School",
+                "fieldOfStudy": "Commerce with Maths",
+                "schoolUrn": "urn:li:fs_miniSchool:3237145"
+            }
+        ],
+        "languages": [],
+        "publications": [],
+        "certifications": [
+            {
+                "authority": "Macquarie University",
+                "name": "Excel Skills For Business: Essentials",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 1,
+                        "year": 2022
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:7763",
+                    "entityUrn": "urn:li:fs_miniCompany:7763",
+                    "name": "Macquarie University",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1519856226278?e=1660176000&v=beta&t=s-VxoXR7EMoDe6HgN4ZwzOndeG_9Zk4EpeS3nWlj5m4",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1519856226278?e=1660176000&v=beta&t=RHlfFafcMhjIr6esCRKLkBk_hTZPxTl2dQOlh3pKyus",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1519856226278?e=1660176000&v=beta&t=bgk1rviyHBbk02ERJLRKHxcIeGOFQMnvcWClsd38EPc",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQGlRNifu6SCPQ/company-logo_"
+                        }
+                    },
+                    "universalName": "macquarie-university",
+                    "dashCompanyUrn": "urn:li:fsd_company:7763",
+                    "trackingId": "c2QxlI/DQC6ITXnwyz4Mcg=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:7763",
+                "url": "http://coursera.org/share/3926bcad18b2e461c902798da578ce8a"
+            }
+        ],
+        "volunteer": [],
+        "honors": [],
+        "projects": []
+    },
+    "contact_info": {
+        "email_address": null,
+        "websites": [],
+        "twitter": [],
+        "birthdate": null,
+        "ims": null,
+        "phone_numbers": []
+    },
+    "connections": [
+        {
+            "urn_id": "ACoAAC24GToBKzC8vS7jZaCEqoq3Jse_M2Tson8",
+            "distance": "DISTANCE_1",
+            "public_id": "abhijit-paul-936a68194",
+            "tracking_id": "767039802"
+        },
+        {
+            "urn_id": "ACoAAByhqogBLFVDJbqojrVMhtKfC3o3hRfEcjg",
+            "distance": "DISTANCE_1",
+            "public_id": "biki-talukdar-460a54114",
+            "tracking_id": "480357000"
+        },
+        {
+            "urn_id": "ACoAABr4jt0BoOUmisITdRo1gR4CumG5I4jjZIw",
+            "distance": "DISTANCE_1",
+            "public_id": "samudra-deka-911659107",
+            "tracking_id": "452497117"
+        },
+        {
+            "urn_id": "ACoAADZmR9QB1zOH_PmrzQQw2wQmTJRTcNGU7CE",
+            "distance": "DISTANCE_1",
+            "public_id": "bkalita",
+            "tracking_id": "912672724"
+        },
+        {
+            "urn_id": "ACoAADLJzxsBizdB0nN5NZBCM41Q-z6-7ef5gyI",
+            "distance": "DISTANCE_1",
+            "public_id": "deepjyoti-kalita-78b4411b9",
+            "tracking_id": "852086555"
+        },
+        {
+            "urn_id": "ACoAADe3CFYBsoFdtSEajXbg51HDagdpBEb3kx4",
+            "distance": "DISTANCE_1",
+            "public_id": "binud-panging-872062221",
+            "tracking_id": "934742102"
+        },
+        {
+            "urn_id": "ACoAAC2aUPYBGPB-T9xDu2Hjrq7OgzRPu5nTvyE",
+            "distance": "DISTANCE_1",
+            "public_id": "jintudas",
+            "tracking_id": "765087990"
+        },
+        {
+            "urn_id": "ACoAACT67ZEBgw1Aprl8Aqy8zWMavdTyaWs7J3w",
+            "distance": "DISTANCE_1",
+            "public_id": "titikshya-das-015942153",
+            "tracking_id": "620424593"
+        },
+        {
+            "urn_id": "ACoAAAjgx0kBxJoPu_7t3kS1NbDizQekjIIzMbE",
+            "distance": "DISTANCE_1",
+            "public_id": "lakheswar-nath-289a7141",
+            "tracking_id": "148948809"
+        },
+        {
+            "urn_id": "ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE",
+            "distance": "DISTANCE_1",
+            "public_id": "prithoo11335",
+            "tracking_id": "231212168"
+        },
+        {
+            "urn_id": "ACoAACr0GSwBcmPDh22HqivG9h0JwG-eahXSYW8",
+            "distance": "DISTANCE_1",
+            "public_id": "nihar-kashyap98",
+            "tracking_id": "720640300"
+        },
+        {
+            "urn_id": "ACoAACeXhGEBEVCUXmKi5rowUSeFZNerPjvzQsc",
+            "distance": "DISTANCE_1",
+            "public_id": "mahbubul-haque-a55552166",
+            "tracking_id": "664241249"
+        },
+        {
+            "urn_id": "ACoAACzP6KMBcLKqKnFRpIudaukkoW4NoqstgrM",
+            "distance": "DISTANCE_1",
+            "public_id": "pranit-prakash-sahu",
+            "tracking_id": "751823011"
+        },
+        {
+            "urn_id": "ACoAACbTg-gBtT_YqZc-FG2lIVBv13QTx8UUB8E",
+            "distance": "DISTANCE_1",
+            "public_id": "mridul24",
+            "tracking_id": "651396072"
+        },
+        {
+            "urn_id": "ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY",
+            "distance": "DISTANCE_1",
+            "public_id": "tridip-das-b5837911b",
+            "tracking_id": "499568180"
+        },
+        {
+            "urn_id": "ACoAAAI9wXoBijRhLoxf7BO8UTK0DX-7KexJV30",
+            "distance": "DISTANCE_1",
+            "public_id": "boren-ghosh-27671410",
+            "tracking_id": "37601658"
+        },
+        {
+            "urn_id": "ACoAACZxhUQBl1V8kpLj4ACrE2LzpatGvVzEgSA",
+            "distance": "DISTANCE_1",
+            "public_id": "nabajyoti-borah-944000160",
+            "tracking_id": "644973892"
+        },
+        {
+            "urn_id": "ACoAABYq8T8ByHFGBUFRrHT5iKBI2u4YZjTLHFc",
+            "distance": "DISTANCE_1",
+            "public_id": "netranjit-borgohain-53b677a4",
+            "tracking_id": "371913023"
+        },
+        {
+            "urn_id": "ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8",
+            "distance": "DISTANCE_1",
+            "public_id": "sivaranjan-goswami-790b4523",
+            "tracking_id": "83451420"
+        },
+        {
+            "urn_id": "ACoAACTFIIYB1cK_syRcCXEc0o8RTm4JMlhYcHA",
+            "distance": "DISTANCE_1",
+            "public_id": "arun-kumar-nath-686721152",
+            "tracking_id": "616898694"
+        },
+        {
+            "urn_id": "ACoAAC4efLABFBv0f30-SDGDgLSf1gXTlkpJTfc",
+            "distance": "DISTANCE_1",
+            "public_id": "shawan-mandal",
+            "tracking_id": "773749936"
+        },
+        {
+            "urn_id": "ACoAACDVs-sB_IgxPBMHMRBfR6is3jmwwV_OvTE",
+            "distance": "DISTANCE_1",
+            "public_id": "swapnil-bhattacharjee-ghy",
+            "tracking_id": "550876139"
+        },
+        {
+            "urn_id": "ACoAACUEZ3QB2Xm0OWR0cqoc_u-o4KW_OENO1_8",
+            "distance": "DISTANCE_1",
+            "public_id": "rajan-sahu",
+            "tracking_id": "621045620"
+        },
+        {
+            "urn_id": "ACoAAC12ZqEBCx9JN_YIi1eF1FPPDif3mXI3fyc",
+            "distance": "DISTANCE_1",
+            "public_id": "abinash-panigrahi-169531193",
+            "tracking_id": "762734241"
+        },
+        {
+            "urn_id": "ACoAACYmrvgBRdvWxItbY_KP_fyrEgZ9U-QKJqk",
+            "distance": "DISTANCE_1",
+            "public_id": "rtsu",
+            "tracking_id": "640069368"
+        },
+        {
+            "urn_id": "ACoAADRMKTMBj76XTPRfB9R5rvfwNOXP2n93n4c",
+            "distance": "DISTANCE_1",
+            "public_id": "manash-deka-497a12205",
+            "tracking_id": "877406515"
+        },
+        {
+            "urn_id": "ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc",
+            "distance": "DISTANCE_1",
+            "public_id": "ratnadeep-bhattacharjee",
+            "tracking_id": "135079003"
+        },
+        {
+            "urn_id": "ACoAAAR5v8MBjPwCvp8TP9RWZyGSeNYNiJ1wKJE",
+            "distance": "DISTANCE_1",
+            "public_id": "nilotpal-boruah",
+            "tracking_id": "75087811"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Leadership"
+        },
+        {
+            "name": "Problem Solving"
+        },
+        {
+            "name": "Macroeconomics"
+        },
+        {
+            "name": "Statistics"
+        },
+        {
+            "name": "Social Media Marketing"
+        },
+        {
+            "name": "Microsoft Excel"
+        },
+        {
+            "name": "Microsoft PowerPoint"
+        },
+        {
+            "name": "Communication"
+        },
+        {
+            "name": "Teamwork"
+        },
+        {
+            "name": "Training"
+        },
+        {
+            "name": "Customer Service"
+        },
+        {
+            "name": "Team Leadership"
+        },
+        {
+            "name": "Team Building"
+        },
+        {
+            "name": "English"
+        },
+        {
+            "name": "Microeconomics"
+        },
+        {
+            "name": "Media Marketing"
+        },
+        {
+            "name": "Marketing Campaigns"
+        },
+        {
+            "name": "Association Marketing"
+        },
+        {
+            "name": "Marketing Consulting"
+        },
+        {
+            "name": "HubSpot Sales Hub"
+        }
+    ]
+}

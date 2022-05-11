@@ -1,7 +1,7 @@
 {
     "profile": {
         "summary": "Software Developer with 1.5+ years of experience in Backend development using Python.Experienced in developing scalable applications.Have also worked with projects related to Data Engineering and Natural Language Processing.\n\nSkills & Core Competencies::\n\n\u2022 Language(s) : Python, Javascript(Basics)\n\u2022 Frameworks: Django, Django Rest Framework, FastAPI\n\u2022 Databases: MySQL, PostgreSQL, MongoDB\n\u2022 Data Preprocessing:: Pandas, Pyspark, Koalas\n\u2022 NLP Library(s): NLTK, Spacy\n\u2022 Search Engine: Elasticsearch\n\u2022 Operating System: Windows, Linux (Ubuntu)\n\u2022 Containerization : Docker\n\u2022 Cloud: AWS (S3, EC2, ELB)\n\u2022 Source Control: Git",
-        "industryName": "Information Technology & Services",
+        "industryName": "IT Services and IT Consulting",
         "lastName": "Das",
         "locationName": "India",
         "student": false,
@@ -23,10 +23,10 @@
         },
         "headline": "Django | FastAPI | Data Engineering(Python) | AWS",
         "displayPictureUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQF99fv8v6MGgQ/profile-displayphoto-shrink_",
-        "img_100_100": "100_100/0/1646553243077?e=1657152000&v=beta&t=XjaQJ47BOr_r58vVMqLRcajD9G-1Pb8RjBa8T6FYp_8",
-        "img_200_200": "200_200/0/1646553243077?e=1657152000&v=beta&t=E6DeQ3hlzmWoqwVbuW6pik_rOwynU9jU8NiSnBj3C7Q",
-        "img_400_400": "400_400/0/1646553243077?e=1657152000&v=beta&t=1FxucmSzuF4PybG3qfEFPH1k46RyZlBoGlHobZG_uFQ",
-        "img_800_800": "800_800/0/1646553243077?e=1657152000&v=beta&t=KyRUWz_NxtTNqoZ0zhX5Zilvu6AI-x2ru6TNgFe7lKE",
+        "img_100_100": "100_100/0/1646553243077?e=1657756800&v=beta&t=MwU-5eZaBj2DbMktL9OOtLNDzHAs_z_QEQ1Wn8uqCEY",
+        "img_200_200": "200_200/0/1646553243077?e=1657756800&v=beta&t=pd8vf2Spr0DXTMAuUxT6D39z0rPb0CJ7eFH4J3FlYyc",
+        "img_400_400": "400_400/0/1646553243077?e=1657756800&v=beta&t=5wrhT6NNkeEbZgTu17n3Cqp6sZhu9bz1QgbXSya2aA4",
+        "img_800_800": "800_800/0/1646553243077?e=1657756800&v=beta&t=gTgsrFZRidLvfO2AVBLiBQh_g2k42TK7MiCd9VBr35o",
         "profile_id": "ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY",
         "profile_urn": "urn:li:fs_miniProfile:ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY",
         "member_urn": "urn:li:member:499568180",
@@ -43,6 +43,7 @@
                         "year": 2020
                     }
                 },
+                "description": "\u2022 Responsible for development of modules, web applications and data engineering pipelines using Python. \n\n\u2022 Designed new modules and optimised the existing codebase of an early-stage B2B SaaS startup. Created a Slack app containing the entire functionality of their system including Oauth/OpenID implementation, loggers and relevant database models with low latency and maximum efficiency.\n\n\u2022 Responsible for building a real-time aggregation platform for the Russell 3000 Index, an equity index of 3,000 of the most extensive US-traded stocks.\n\n\u2022 Responsible for the data ingestion,preprocessing and writing efficient queries of a Cloud Data Management Platform using PySpark,FastAPI ,Koalas and MongoDB .\n\n\u2022 Designed various modules and NLP parsers for a recruitment automation platform.\n\n\u2022 Scaled a parser that can scrap upto 1 million data points improving its processing speed by upto 10x using multithreading and RQ(Redis-Queue).",
                 "company": {
                     "employeeCountRange": {
                         "start": 11,
@@ -103,7 +104,7 @@
                     "entityUrn": "urn:li:fs_miniSchool:221732",
                     "active": true,
                     "schoolName": "Tezpur University, Tezpur",
-                    "trackingId": "eQVxlF3nS5idfS0oclqayA=="
+                    "trackingId": "8cH53R8ZRtiOMmhouVu6nA=="
                 },
                 "timePeriod": {
                     "endDate": {
@@ -176,7 +177,7 @@
                     },
                     "universalName": "edurade",
                     "dashCompanyUrn": "urn:li:fsd_company:7798305",
-                    "trackingId": "ntzYEFWuRNqRtRdlzjRciA=="
+                    "trackingId": "Rc2JRCsmTuu3kH3BKhKtdQ=="
                 },
                 "companyUrn": "urn:li:fs_miniCompany:7798305"
             },
@@ -216,7 +217,7 @@
                     },
                     "universalName": "nptel",
                     "dashCompanyUrn": "urn:li:fsd_company:13229455",
-                    "trackingId": "MacXc1KhTZiscP1GAGDang=="
+                    "trackingId": "HivwOwo2T/+AwAvvrC0dJA=="
                 },
                 "companyUrn": "urn:li:fs_miniCompany:13229455"
             },
@@ -263,7 +264,7 @@
                     },
                     "universalName": "coursera",
                     "dashCompanyUrn": "urn:li:fsd_company:2453129",
-                    "trackingId": "S4hxUvGTRoaNQU7uGSSt5A=="
+                    "trackingId": "/0N5A6WnQUeLjlFcoFDudA=="
                 },
                 "displaySource": "coursera.org",
                 "companyUrn": "urn:li:fs_miniCompany:2453129",
@@ -305,7 +306,7 @@
                     },
                     "universalName": "nptel",
                     "dashCompanyUrn": "urn:li:fsd_company:13229455",
-                    "trackingId": "/sQzhZMNSPyIqMfamMk3aw=="
+                    "trackingId": "nmtoBlVTQs2yhsfmUxRE3A=="
                 },
                 "companyUrn": "urn:li:fs_miniCompany:13229455"
             },
@@ -352,7 +353,7 @@
                     },
                     "universalName": "coursera",
                     "dashCompanyUrn": "urn:li:fsd_company:2453129",
-                    "trackingId": "b1xMF5R0R3GMwvLFKbSfTw=="
+                    "trackingId": "UtAw2P+8SqamXHbGsVw8+Q=="
                 },
                 "displaySource": "coursera.org",
                 "companyUrn": "urn:li:fs_miniCompany:2453129",
@@ -401,7 +402,7 @@
                     },
                     "universalName": "coursera",
                     "dashCompanyUrn": "urn:li:fsd_company:2453129",
-                    "trackingId": "nDAkK3WLSJ+s/k9cN41+Eg=="
+                    "trackingId": "ACHvGSBaQAOvI45xwYu3AQ=="
                 },
                 "displaySource": "coursera.org",
                 "companyUrn": "urn:li:fs_miniCompany:2453129",
@@ -450,7 +451,7 @@
                     },
                     "universalName": "coursera",
                     "dashCompanyUrn": "urn:li:fsd_company:2453129",
-                    "trackingId": "ewVQTkypSi+jvuq1ZT9moQ=="
+                    "trackingId": "XpDQoeWBQn+aU0xkLsgQiA=="
                 },
                 "displaySource": "coursera.org",
                 "companyUrn": "urn:li:fs_miniCompany:2453129",
@@ -498,7 +499,7 @@
                     },
                     "universalName": "coursera",
                     "dashCompanyUrn": "urn:li:fsd_company:2453129",
-                    "trackingId": "oI27s83GTzGh9dxEs11PLg=="
+                    "trackingId": "iCH9HFxlSU6cf9BQc8OJFg=="
                 },
                 "displaySource": "youracclaim.com",
                 "companyUrn": "urn:li:fs_miniCompany:2453129",
@@ -547,7 +548,7 @@
                     },
                     "universalName": "coursera",
                     "dashCompanyUrn": "urn:li:fsd_company:2453129",
-                    "trackingId": "tIJZlkoSQsmZbJj9TAsGTg=="
+                    "trackingId": "83CHliAFRf2ewg+F55UkHw=="
                 },
                 "displaySource": "coursera.org",
                 "companyUrn": "urn:li:fs_miniCompany:2453129",
@@ -596,7 +597,7 @@
                     },
                     "universalName": "coursera",
                     "dashCompanyUrn": "urn:li:fsd_company:2453129",
-                    "trackingId": "m5aHoj56RtKwKbnsxzF8vw=="
+                    "trackingId": "FnKFVNUyRzm6V4jqVp9X0w=="
                 },
                 "displaySource": "coursera.org",
                 "companyUrn": "urn:li:fs_miniCompany:2453129",
@@ -621,14 +622,14 @@
                                     "artifacts": [
                                         {
                                             "width": 800,
-                                            "fileIdentifyingUrlPathSegment": "200_800/0/1610218866442?e=1657152000&v=beta&t=CTxOYkaivu3RDFXpwAlYQw9OWFyLKVotVldrqMwQIK0",
-                                            "expiresAt": 1657152000000,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1610218866442?e=1657756800&v=beta&t=scdiPdTBUjW-_sXihHHP0At7pBUgteCPS_qGz-l1fmg",
+                                            "expiresAt": 1657756800000,
                                             "height": 200
                                         },
                                         {
                                             "width": 1400,
-                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1610218866442?e=1657152000&v=beta&t=DLn4trJ5Gx9yoJiyZgNCVjUcqsJ9A2DhdEReKJPsN6I",
-                                            "expiresAt": 1657152000000,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1610218866442?e=1657756800&v=beta&t=2XAcu-SJYzzJzc-4zj4zvd8ov23DgipFarCgQ6QdakM",
+                                            "expiresAt": 1657756800000,
                                             "height": 350
                                         }
                                     ],
@@ -641,33 +642,33 @@
                                     "artifacts": [
                                         {
                                             "width": 100,
-                                            "fileIdentifyingUrlPathSegment": "100_100/0/1646553243077?e=1657152000&v=beta&t=XjaQJ47BOr_r58vVMqLRcajD9G-1Pb8RjBa8T6FYp_8",
-                                            "expiresAt": 1657152000000,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1646553243077?e=1657756800&v=beta&t=MwU-5eZaBj2DbMktL9OOtLNDzHAs_z_QEQ1Wn8uqCEY",
+                                            "expiresAt": 1657756800000,
                                             "height": 100
                                         },
                                         {
                                             "width": 200,
-                                            "fileIdentifyingUrlPathSegment": "200_200/0/1646553243077?e=1657152000&v=beta&t=E6DeQ3hlzmWoqwVbuW6pik_rOwynU9jU8NiSnBj3C7Q",
-                                            "expiresAt": 1657152000000,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1646553243077?e=1657756800&v=beta&t=pd8vf2Spr0DXTMAuUxT6D39z0rPb0CJ7eFH4J3FlYyc",
+                                            "expiresAt": 1657756800000,
                                             "height": 200
                                         },
                                         {
                                             "width": 400,
-                                            "fileIdentifyingUrlPathSegment": "400_400/0/1646553243077?e=1657152000&v=beta&t=1FxucmSzuF4PybG3qfEFPH1k46RyZlBoGlHobZG_uFQ",
-                                            "expiresAt": 1657152000000,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1646553243077?e=1657756800&v=beta&t=5wrhT6NNkeEbZgTu17n3Cqp6sZhu9bz1QgbXSya2aA4",
+                                            "expiresAt": 1657756800000,
                                             "height": 400
                                         },
                                         {
                                             "width": 800,
-                                            "fileIdentifyingUrlPathSegment": "800_800/0/1646553243077?e=1657152000&v=beta&t=KyRUWz_NxtTNqoZ0zhX5Zilvu6AI-x2ru6TNgFe7lKE",
-                                            "expiresAt": 1657152000000,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1646553243077?e=1657756800&v=beta&t=gTgsrFZRidLvfO2AVBLiBQh_g2k42TK7MiCd9VBr35o",
+                                            "expiresAt": 1657756800000,
                                             "height": 800
                                         }
                                     ],
                                     "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQF99fv8v6MGgQ/profile-displayphoto-shrink_"
                                 }
                             },
-                            "trackingId": "tjlYu2UtRPKf2mlDk6Zl5g=="
+                            "trackingId": "bkvmcStsTJyddQzy8kW0QA=="
                         },
                         "entityUrn": "urn:li:fs_contributor:(ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY,1652455073,277025951)",
                         "profileUrn": "urn:li:fs_miniProfile:ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY"
@@ -698,14 +699,14 @@
                                     "artifacts": [
                                         {
                                             "width": 800,
-                                            "fileIdentifyingUrlPathSegment": "200_800/0/1610218866442?e=1657152000&v=beta&t=CTxOYkaivu3RDFXpwAlYQw9OWFyLKVotVldrqMwQIK0",
-                                            "expiresAt": 1657152000000,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1610218866442?e=1657756800&v=beta&t=scdiPdTBUjW-_sXihHHP0At7pBUgteCPS_qGz-l1fmg",
+                                            "expiresAt": 1657756800000,
                                             "height": 200
                                         },
                                         {
                                             "width": 1400,
-                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1610218866442?e=1657152000&v=beta&t=DLn4trJ5Gx9yoJiyZgNCVjUcqsJ9A2DhdEReKJPsN6I",
-                                            "expiresAt": 1657152000000,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1610218866442?e=1657756800&v=beta&t=2XAcu-SJYzzJzc-4zj4zvd8ov23DgipFarCgQ6QdakM",
+                                            "expiresAt": 1657756800000,
                                             "height": 350
                                         }
                                     ],
@@ -718,33 +719,33 @@
                                     "artifacts": [
                                         {
                                             "width": 100,
-                                            "fileIdentifyingUrlPathSegment": "100_100/0/1646553243077?e=1657152000&v=beta&t=XjaQJ47BOr_r58vVMqLRcajD9G-1Pb8RjBa8T6FYp_8",
-                                            "expiresAt": 1657152000000,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1646553243077?e=1657756800&v=beta&t=MwU-5eZaBj2DbMktL9OOtLNDzHAs_z_QEQ1Wn8uqCEY",
+                                            "expiresAt": 1657756800000,
                                             "height": 100
                                         },
                                         {
                                             "width": 200,
-                                            "fileIdentifyingUrlPathSegment": "200_200/0/1646553243077?e=1657152000&v=beta&t=E6DeQ3hlzmWoqwVbuW6pik_rOwynU9jU8NiSnBj3C7Q",
-                                            "expiresAt": 1657152000000,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1646553243077?e=1657756800&v=beta&t=pd8vf2Spr0DXTMAuUxT6D39z0rPb0CJ7eFH4J3FlYyc",
+                                            "expiresAt": 1657756800000,
                                             "height": 200
                                         },
                                         {
                                             "width": 400,
-                                            "fileIdentifyingUrlPathSegment": "400_400/0/1646553243077?e=1657152000&v=beta&t=1FxucmSzuF4PybG3qfEFPH1k46RyZlBoGlHobZG_uFQ",
-                                            "expiresAt": 1657152000000,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1646553243077?e=1657756800&v=beta&t=5wrhT6NNkeEbZgTu17n3Cqp6sZhu9bz1QgbXSya2aA4",
+                                            "expiresAt": 1657756800000,
                                             "height": 400
                                         },
                                         {
                                             "width": 800,
-                                            "fileIdentifyingUrlPathSegment": "800_800/0/1646553243077?e=1657152000&v=beta&t=KyRUWz_NxtTNqoZ0zhX5Zilvu6AI-x2ru6TNgFe7lKE",
-                                            "expiresAt": 1657152000000,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1646553243077?e=1657756800&v=beta&t=gTgsrFZRidLvfO2AVBLiBQh_g2k42TK7MiCd9VBr35o",
+                                            "expiresAt": 1657756800000,
                                             "height": 800
                                         }
                                     ],
                                     "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQF99fv8v6MGgQ/profile-displayphoto-shrink_"
                                 }
                             },
-                            "trackingId": "tjlYu2UtRPKf2mlDk6Zl5g=="
+                            "trackingId": "bkvmcStsTJyddQzy8kW0QA=="
                         },
                         "entityUrn": "urn:li:fs_contributor:(ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY,732329772,276129672)",
                         "profileUrn": "urn:li:fs_miniProfile:ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY"
@@ -775,14 +776,14 @@
                                     "artifacts": [
                                         {
                                             "width": 800,
-                                            "fileIdentifyingUrlPathSegment": "200_800/0/1610218866442?e=1657152000&v=beta&t=CTxOYkaivu3RDFXpwAlYQw9OWFyLKVotVldrqMwQIK0",
-                                            "expiresAt": 1657152000000,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1610218866442?e=1657756800&v=beta&t=scdiPdTBUjW-_sXihHHP0At7pBUgteCPS_qGz-l1fmg",
+                                            "expiresAt": 1657756800000,
                                             "height": 200
                                         },
                                         {
                                             "width": 1400,
-                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1610218866442?e=1657152000&v=beta&t=DLn4trJ5Gx9yoJiyZgNCVjUcqsJ9A2DhdEReKJPsN6I",
-                                            "expiresAt": 1657152000000,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1610218866442?e=1657756800&v=beta&t=2XAcu-SJYzzJzc-4zj4zvd8ov23DgipFarCgQ6QdakM",
+                                            "expiresAt": 1657756800000,
                                             "height": 350
                                         }
                                     ],
@@ -795,33 +796,33 @@
                                     "artifacts": [
                                         {
                                             "width": 100,
-                                            "fileIdentifyingUrlPathSegment": "100_100/0/1646553243077?e=1657152000&v=beta&t=XjaQJ47BOr_r58vVMqLRcajD9G-1Pb8RjBa8T6FYp_8",
-                                            "expiresAt": 1657152000000,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1646553243077?e=1657756800&v=beta&t=MwU-5eZaBj2DbMktL9OOtLNDzHAs_z_QEQ1Wn8uqCEY",
+                                            "expiresAt": 1657756800000,
                                             "height": 100
                                         },
                                         {
                                             "width": 200,
-                                            "fileIdentifyingUrlPathSegment": "200_200/0/1646553243077?e=1657152000&v=beta&t=E6DeQ3hlzmWoqwVbuW6pik_rOwynU9jU8NiSnBj3C7Q",
-                                            "expiresAt": 1657152000000,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1646553243077?e=1657756800&v=beta&t=pd8vf2Spr0DXTMAuUxT6D39z0rPb0CJ7eFH4J3FlYyc",
+                                            "expiresAt": 1657756800000,
                                             "height": 200
                                         },
                                         {
                                             "width": 400,
-                                            "fileIdentifyingUrlPathSegment": "400_400/0/1646553243077?e=1657152000&v=beta&t=1FxucmSzuF4PybG3qfEFPH1k46RyZlBoGlHobZG_uFQ",
-                                            "expiresAt": 1657152000000,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1646553243077?e=1657756800&v=beta&t=5wrhT6NNkeEbZgTu17n3Cqp6sZhu9bz1QgbXSya2aA4",
+                                            "expiresAt": 1657756800000,
                                             "height": 400
                                         },
                                         {
                                             "width": 800,
-                                            "fileIdentifyingUrlPathSegment": "800_800/0/1646553243077?e=1657152000&v=beta&t=KyRUWz_NxtTNqoZ0zhX5Zilvu6AI-x2ru6TNgFe7lKE",
-                                            "expiresAt": 1657152000000,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1646553243077?e=1657756800&v=beta&t=gTgsrFZRidLvfO2AVBLiBQh_g2k42TK7MiCd9VBr35o",
+                                            "expiresAt": 1657756800000,
                                             "height": 800
                                         }
                                     ],
                                     "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQF99fv8v6MGgQ/profile-displayphoto-shrink_"
                                 }
                             },
-                            "trackingId": "tjlYu2UtRPKf2mlDk6Zl5g=="
+                            "trackingId": "bkvmcStsTJyddQzy8kW0QA=="
                         },
                         "entityUrn": "urn:li:fs_contributor:(ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY,1070301108,276994968)",
                         "profileUrn": "urn:li:fs_miniProfile:ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY"
@@ -852,14 +853,14 @@
                                     "artifacts": [
                                         {
                                             "width": 800,
-                                            "fileIdentifyingUrlPathSegment": "200_800/0/1610218866442?e=1657152000&v=beta&t=CTxOYkaivu3RDFXpwAlYQw9OWFyLKVotVldrqMwQIK0",
-                                            "expiresAt": 1657152000000,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1610218866442?e=1657756800&v=beta&t=scdiPdTBUjW-_sXihHHP0At7pBUgteCPS_qGz-l1fmg",
+                                            "expiresAt": 1657756800000,
                                             "height": 200
                                         },
                                         {
                                             "width": 1400,
-                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1610218866442?e=1657152000&v=beta&t=DLn4trJ5Gx9yoJiyZgNCVjUcqsJ9A2DhdEReKJPsN6I",
-                                            "expiresAt": 1657152000000,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1610218866442?e=1657756800&v=beta&t=2XAcu-SJYzzJzc-4zj4zvd8ov23DgipFarCgQ6QdakM",
+                                            "expiresAt": 1657756800000,
                                             "height": 350
                                         }
                                     ],
@@ -872,33 +873,33 @@
                                     "artifacts": [
                                         {
                                             "width": 100,
-                                            "fileIdentifyingUrlPathSegment": "100_100/0/1646553243077?e=1657152000&v=beta&t=XjaQJ47BOr_r58vVMqLRcajD9G-1Pb8RjBa8T6FYp_8",
-                                            "expiresAt": 1657152000000,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1646553243077?e=1657756800&v=beta&t=MwU-5eZaBj2DbMktL9OOtLNDzHAs_z_QEQ1Wn8uqCEY",
+                                            "expiresAt": 1657756800000,
                                             "height": 100
                                         },
                                         {
                                             "width": 200,
-                                            "fileIdentifyingUrlPathSegment": "200_200/0/1646553243077?e=1657152000&v=beta&t=E6DeQ3hlzmWoqwVbuW6pik_rOwynU9jU8NiSnBj3C7Q",
-                                            "expiresAt": 1657152000000,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1646553243077?e=1657756800&v=beta&t=pd8vf2Spr0DXTMAuUxT6D39z0rPb0CJ7eFH4J3FlYyc",
+                                            "expiresAt": 1657756800000,
                                             "height": 200
                                         },
                                         {
                                             "width": 400,
-                                            "fileIdentifyingUrlPathSegment": "400_400/0/1646553243077?e=1657152000&v=beta&t=1FxucmSzuF4PybG3qfEFPH1k46RyZlBoGlHobZG_uFQ",
-                                            "expiresAt": 1657152000000,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1646553243077?e=1657756800&v=beta&t=5wrhT6NNkeEbZgTu17n3Cqp6sZhu9bz1QgbXSya2aA4",
+                                            "expiresAt": 1657756800000,
                                             "height": 400
                                         },
                                         {
                                             "width": 800,
-                                            "fileIdentifyingUrlPathSegment": "800_800/0/1646553243077?e=1657152000&v=beta&t=KyRUWz_NxtTNqoZ0zhX5Zilvu6AI-x2ru6TNgFe7lKE",
-                                            "expiresAt": 1657152000000,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1646553243077?e=1657756800&v=beta&t=gTgsrFZRidLvfO2AVBLiBQh_g2k42TK7MiCd9VBr35o",
+                                            "expiresAt": 1657756800000,
                                             "height": 800
                                         }
                                     ],
                                     "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQF99fv8v6MGgQ/profile-displayphoto-shrink_"
                                 }
                             },
-                            "trackingId": "tjlYu2UtRPKf2mlDk6Zl5g=="
+                            "trackingId": "bkvmcStsTJyddQzy8kW0QA=="
                         },
                         "entityUrn": "urn:li:fs_contributor:(ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY,556259585,276608631)",
                         "profileUrn": "urn:li:fs_miniProfile:ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY"
@@ -929,14 +930,14 @@
                                     "artifacts": [
                                         {
                                             "width": 800,
-                                            "fileIdentifyingUrlPathSegment": "200_800/0/1610218866442?e=1657152000&v=beta&t=CTxOYkaivu3RDFXpwAlYQw9OWFyLKVotVldrqMwQIK0",
-                                            "expiresAt": 1657152000000,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1610218866442?e=1657756800&v=beta&t=scdiPdTBUjW-_sXihHHP0At7pBUgteCPS_qGz-l1fmg",
+                                            "expiresAt": 1657756800000,
                                             "height": 200
                                         },
                                         {
                                             "width": 1400,
-                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1610218866442?e=1657152000&v=beta&t=DLn4trJ5Gx9yoJiyZgNCVjUcqsJ9A2DhdEReKJPsN6I",
-                                            "expiresAt": 1657152000000,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1610218866442?e=1657756800&v=beta&t=2XAcu-SJYzzJzc-4zj4zvd8ov23DgipFarCgQ6QdakM",
+                                            "expiresAt": 1657756800000,
                                             "height": 350
                                         }
                                     ],
@@ -949,33 +950,33 @@
                                     "artifacts": [
                                         {
                                             "width": 100,
-                                            "fileIdentifyingUrlPathSegment": "100_100/0/1646553243077?e=1657152000&v=beta&t=XjaQJ47BOr_r58vVMqLRcajD9G-1Pb8RjBa8T6FYp_8",
-                                            "expiresAt": 1657152000000,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1646553243077?e=1657756800&v=beta&t=MwU-5eZaBj2DbMktL9OOtLNDzHAs_z_QEQ1Wn8uqCEY",
+                                            "expiresAt": 1657756800000,
                                             "height": 100
                                         },
                                         {
                                             "width": 200,
-                                            "fileIdentifyingUrlPathSegment": "200_200/0/1646553243077?e=1657152000&v=beta&t=E6DeQ3hlzmWoqwVbuW6pik_rOwynU9jU8NiSnBj3C7Q",
-                                            "expiresAt": 1657152000000,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1646553243077?e=1657756800&v=beta&t=pd8vf2Spr0DXTMAuUxT6D39z0rPb0CJ7eFH4J3FlYyc",
+                                            "expiresAt": 1657756800000,
                                             "height": 200
                                         },
                                         {
                                             "width": 400,
-                                            "fileIdentifyingUrlPathSegment": "400_400/0/1646553243077?e=1657152000&v=beta&t=1FxucmSzuF4PybG3qfEFPH1k46RyZlBoGlHobZG_uFQ",
-                                            "expiresAt": 1657152000000,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1646553243077?e=1657756800&v=beta&t=5wrhT6NNkeEbZgTu17n3Cqp6sZhu9bz1QgbXSya2aA4",
+                                            "expiresAt": 1657756800000,
                                             "height": 400
                                         },
                                         {
                                             "width": 800,
-                                            "fileIdentifyingUrlPathSegment": "800_800/0/1646553243077?e=1657152000&v=beta&t=KyRUWz_NxtTNqoZ0zhX5Zilvu6AI-x2ru6TNgFe7lKE",
-                                            "expiresAt": 1657152000000,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1646553243077?e=1657756800&v=beta&t=gTgsrFZRidLvfO2AVBLiBQh_g2k42TK7MiCd9VBr35o",
+                                            "expiresAt": 1657756800000,
                                             "height": 800
                                         }
                                     ],
                                     "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQF99fv8v6MGgQ/profile-displayphoto-shrink_"
                                 }
                             },
-                            "trackingId": "tjlYu2UtRPKf2mlDk6Zl5g=="
+                            "trackingId": "bkvmcStsTJyddQzy8kW0QA=="
                         },
                         "entityUrn": "urn:li:fs_contributor:(ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY,2067971245,270689342)",
                         "profileUrn": "urn:li:fs_miniProfile:ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY"
@@ -1006,14 +1007,14 @@
                                     "artifacts": [
                                         {
                                             "width": 800,
-                                            "fileIdentifyingUrlPathSegment": "200_800/0/1610218866442?e=1657152000&v=beta&t=CTxOYkaivu3RDFXpwAlYQw9OWFyLKVotVldrqMwQIK0",
-                                            "expiresAt": 1657152000000,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1610218866442?e=1657756800&v=beta&t=scdiPdTBUjW-_sXihHHP0At7pBUgteCPS_qGz-l1fmg",
+                                            "expiresAt": 1657756800000,
                                             "height": 200
                                         },
                                         {
                                             "width": 1400,
-                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1610218866442?e=1657152000&v=beta&t=DLn4trJ5Gx9yoJiyZgNCVjUcqsJ9A2DhdEReKJPsN6I",
-                                            "expiresAt": 1657152000000,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1610218866442?e=1657756800&v=beta&t=2XAcu-SJYzzJzc-4zj4zvd8ov23DgipFarCgQ6QdakM",
+                                            "expiresAt": 1657756800000,
                                             "height": 350
                                         }
                                     ],
@@ -1026,33 +1027,33 @@
                                     "artifacts": [
                                         {
                                             "width": 100,
-                                            "fileIdentifyingUrlPathSegment": "100_100/0/1646553243077?e=1657152000&v=beta&t=XjaQJ47BOr_r58vVMqLRcajD9G-1Pb8RjBa8T6FYp_8",
-                                            "expiresAt": 1657152000000,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1646553243077?e=1657756800&v=beta&t=MwU-5eZaBj2DbMktL9OOtLNDzHAs_z_QEQ1Wn8uqCEY",
+                                            "expiresAt": 1657756800000,
                                             "height": 100
                                         },
                                         {
                                             "width": 200,
-                                            "fileIdentifyingUrlPathSegment": "200_200/0/1646553243077?e=1657152000&v=beta&t=E6DeQ3hlzmWoqwVbuW6pik_rOwynU9jU8NiSnBj3C7Q",
-                                            "expiresAt": 1657152000000,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1646553243077?e=1657756800&v=beta&t=pd8vf2Spr0DXTMAuUxT6D39z0rPb0CJ7eFH4J3FlYyc",
+                                            "expiresAt": 1657756800000,
                                             "height": 200
                                         },
                                         {
                                             "width": 400,
-                                            "fileIdentifyingUrlPathSegment": "400_400/0/1646553243077?e=1657152000&v=beta&t=1FxucmSzuF4PybG3qfEFPH1k46RyZlBoGlHobZG_uFQ",
-                                            "expiresAt": 1657152000000,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1646553243077?e=1657756800&v=beta&t=5wrhT6NNkeEbZgTu17n3Cqp6sZhu9bz1QgbXSya2aA4",
+                                            "expiresAt": 1657756800000,
                                             "height": 400
                                         },
                                         {
                                             "width": 800,
-                                            "fileIdentifyingUrlPathSegment": "800_800/0/1646553243077?e=1657152000&v=beta&t=KyRUWz_NxtTNqoZ0zhX5Zilvu6AI-x2ru6TNgFe7lKE",
-                                            "expiresAt": 1657152000000,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1646553243077?e=1657756800&v=beta&t=gTgsrFZRidLvfO2AVBLiBQh_g2k42TK7MiCd9VBr35o",
+                                            "expiresAt": 1657756800000,
                                             "height": 800
                                         }
                                     ],
                                     "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQF99fv8v6MGgQ/profile-displayphoto-shrink_"
                                 }
                             },
-                            "trackingId": "tjlYu2UtRPKf2mlDk6Zl5g=="
+                            "trackingId": "bkvmcStsTJyddQzy8kW0QA=="
                         },
                         "entityUrn": "urn:li:fs_contributor:(ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY,556161604,276606735)",
                         "profileUrn": "urn:li:fs_miniProfile:ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY"
@@ -1084,14 +1085,14 @@
                                     "artifacts": [
                                         {
                                             "width": 800,
-                                            "fileIdentifyingUrlPathSegment": "200_800/0/1610218866442?e=1657152000&v=beta&t=CTxOYkaivu3RDFXpwAlYQw9OWFyLKVotVldrqMwQIK0",
-                                            "expiresAt": 1657152000000,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1610218866442?e=1657756800&v=beta&t=scdiPdTBUjW-_sXihHHP0At7pBUgteCPS_qGz-l1fmg",
+                                            "expiresAt": 1657756800000,
                                             "height": 200
                                         },
                                         {
                                             "width": 1400,
-                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1610218866442?e=1657152000&v=beta&t=DLn4trJ5Gx9yoJiyZgNCVjUcqsJ9A2DhdEReKJPsN6I",
-                                            "expiresAt": 1657152000000,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1610218866442?e=1657756800&v=beta&t=2XAcu-SJYzzJzc-4zj4zvd8ov23DgipFarCgQ6QdakM",
+                                            "expiresAt": 1657756800000,
                                             "height": 350
                                         }
                                     ],
@@ -1104,33 +1105,33 @@
                                     "artifacts": [
                                         {
                                             "width": 100,
-                                            "fileIdentifyingUrlPathSegment": "100_100/0/1646553243077?e=1657152000&v=beta&t=XjaQJ47BOr_r58vVMqLRcajD9G-1Pb8RjBa8T6FYp_8",
-                                            "expiresAt": 1657152000000,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1646553243077?e=1657756800&v=beta&t=MwU-5eZaBj2DbMktL9OOtLNDzHAs_z_QEQ1Wn8uqCEY",
+                                            "expiresAt": 1657756800000,
                                             "height": 100
                                         },
                                         {
                                             "width": 200,
-                                            "fileIdentifyingUrlPathSegment": "200_200/0/1646553243077?e=1657152000&v=beta&t=E6DeQ3hlzmWoqwVbuW6pik_rOwynU9jU8NiSnBj3C7Q",
-                                            "expiresAt": 1657152000000,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1646553243077?e=1657756800&v=beta&t=pd8vf2Spr0DXTMAuUxT6D39z0rPb0CJ7eFH4J3FlYyc",
+                                            "expiresAt": 1657756800000,
                                             "height": 200
                                         },
                                         {
                                             "width": 400,
-                                            "fileIdentifyingUrlPathSegment": "400_400/0/1646553243077?e=1657152000&v=beta&t=1FxucmSzuF4PybG3qfEFPH1k46RyZlBoGlHobZG_uFQ",
-                                            "expiresAt": 1657152000000,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1646553243077?e=1657756800&v=beta&t=5wrhT6NNkeEbZgTu17n3Cqp6sZhu9bz1QgbXSya2aA4",
+                                            "expiresAt": 1657756800000,
                                             "height": 400
                                         },
                                         {
                                             "width": 800,
-                                            "fileIdentifyingUrlPathSegment": "800_800/0/1646553243077?e=1657152000&v=beta&t=KyRUWz_NxtTNqoZ0zhX5Zilvu6AI-x2ru6TNgFe7lKE",
-                                            "expiresAt": 1657152000000,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1646553243077?e=1657756800&v=beta&t=gTgsrFZRidLvfO2AVBLiBQh_g2k42TK7MiCd9VBr35o",
+                                            "expiresAt": 1657756800000,
                                             "height": 800
                                         }
                                     ],
                                     "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQF99fv8v6MGgQ/profile-displayphoto-shrink_"
                                 }
                             },
-                            "trackingId": "tjlYu2UtRPKf2mlDk6Zl5g=="
+                            "trackingId": "bkvmcStsTJyddQzy8kW0QA=="
                         },
                         "entityUrn": "urn:li:fs_contributor:(ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY,1762628705,266727613)",
                         "profileUrn": "urn:li:fs_miniProfile:ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY"
@@ -1149,33 +1150,33 @@
                                     "artifacts": [
                                         {
                                             "width": 100,
-                                            "fileIdentifyingUrlPathSegment": "100_100/0/1548580494369?e=1657152000&v=beta&t=HX-C064O_CWUmcjFPyXPYbxGfS7d0mD1DlRS05C2_UE",
-                                            "expiresAt": 1657152000000,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1548580494369?e=1657756800&v=beta&t=sKKglml1oOnI2yC0PF4DQ384SEVWeTnOo8mobaxQTCc",
+                                            "expiresAt": 1657756800000,
                                             "height": 100
                                         },
                                         {
                                             "width": 200,
-                                            "fileIdentifyingUrlPathSegment": "200_200/0/1548580494369?e=1657152000&v=beta&t=5-U5mUh26kt4PYp2KVLIY2R6hOa5UD9qk89vbC4exmM",
-                                            "expiresAt": 1657152000000,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1548580494369?e=1657756800&v=beta&t=R6GsJfqRmiVWhIl6vcajYUuioTg0-yL2QyAz2sW1ObI",
+                                            "expiresAt": 1657756800000,
                                             "height": 200
                                         },
                                         {
                                             "width": 400,
-                                            "fileIdentifyingUrlPathSegment": "400_400/0/1548580494369?e=1657152000&v=beta&t=OPPSXwTxdkYM4EuTZ-1HWjir5GWaUbuLnk0UcvakFdg",
-                                            "expiresAt": 1657152000000,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1548580494369?e=1657756800&v=beta&t=qRbPPJ8IifmVrASwyYwS1CegIFeq7zP29jURBMD_B3g",
+                                            "expiresAt": 1657756800000,
                                             "height": 400
                                         },
                                         {
                                             "width": 800,
-                                            "fileIdentifyingUrlPathSegment": "800_800/0/1548580494369?e=1657152000&v=beta&t=SI-ChKSMYXConY49Y8Fh3pNhYFBrWKRQ2e92yur0-mA",
-                                            "expiresAt": 1657152000000,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1548580494369?e=1657756800&v=beta&t=WbTYdyINQxIKz4OYlBOV5kdIErLRGFETLnK4yLXYVJE",
+                                            "expiresAt": 1657756800000,
                                             "height": 800
                                         }
                                     ],
                                     "rootUrl": "https://media-exp1.licdn.com/dms/image/C5103AQGOrOszI66fnA/profile-displayphoto-shrink_"
                                 }
                             },
-                            "trackingId": "PCr6VKXvT9iqNvKlE5O0Iw=="
+                            "trackingId": "XgEycaSWSgKalr/ncLBVFg=="
                         },
                         "entityUrn": "urn:li:fs_contributor:(ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY,1762628705,266728305)",
                         "profileUrn": "urn:li:fs_miniProfile:ACoAACpz0nMBeidhBNHUtXjTFGRmsQ33ExKj2pg"
@@ -1205,14 +1206,14 @@
                                     "artifacts": [
                                         {
                                             "width": 800,
-                                            "fileIdentifyingUrlPathSegment": "200_800/0/1610218866442?e=1657152000&v=beta&t=CTxOYkaivu3RDFXpwAlYQw9OWFyLKVotVldrqMwQIK0",
-                                            "expiresAt": 1657152000000,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1610218866442?e=1657756800&v=beta&t=scdiPdTBUjW-_sXihHHP0At7pBUgteCPS_qGz-l1fmg",
+                                            "expiresAt": 1657756800000,
                                             "height": 200
                                         },
                                         {
                                             "width": 1400,
-                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1610218866442?e=1657152000&v=beta&t=DLn4trJ5Gx9yoJiyZgNCVjUcqsJ9A2DhdEReKJPsN6I",
-                                            "expiresAt": 1657152000000,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1610218866442?e=1657756800&v=beta&t=2XAcu-SJYzzJzc-4zj4zvd8ov23DgipFarCgQ6QdakM",
+                                            "expiresAt": 1657756800000,
                                             "height": 350
                                         }
                                     ],
@@ -1225,33 +1226,33 @@
                                     "artifacts": [
                                         {
                                             "width": 100,
-                                            "fileIdentifyingUrlPathSegment": "100_100/0/1646553243077?e=1657152000&v=beta&t=XjaQJ47BOr_r58vVMqLRcajD9G-1Pb8RjBa8T6FYp_8",
-                                            "expiresAt": 1657152000000,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1646553243077?e=1657756800&v=beta&t=MwU-5eZaBj2DbMktL9OOtLNDzHAs_z_QEQ1Wn8uqCEY",
+                                            "expiresAt": 1657756800000,
                                             "height": 100
                                         },
                                         {
                                             "width": 200,
-                                            "fileIdentifyingUrlPathSegment": "200_200/0/1646553243077?e=1657152000&v=beta&t=E6DeQ3hlzmWoqwVbuW6pik_rOwynU9jU8NiSnBj3C7Q",
-                                            "expiresAt": 1657152000000,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1646553243077?e=1657756800&v=beta&t=pd8vf2Spr0DXTMAuUxT6D39z0rPb0CJ7eFH4J3FlYyc",
+                                            "expiresAt": 1657756800000,
                                             "height": 200
                                         },
                                         {
                                             "width": 400,
-                                            "fileIdentifyingUrlPathSegment": "400_400/0/1646553243077?e=1657152000&v=beta&t=1FxucmSzuF4PybG3qfEFPH1k46RyZlBoGlHobZG_uFQ",
-                                            "expiresAt": 1657152000000,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1646553243077?e=1657756800&v=beta&t=5wrhT6NNkeEbZgTu17n3Cqp6sZhu9bz1QgbXSya2aA4",
+                                            "expiresAt": 1657756800000,
                                             "height": 400
                                         },
                                         {
                                             "width": 800,
-                                            "fileIdentifyingUrlPathSegment": "800_800/0/1646553243077?e=1657152000&v=beta&t=KyRUWz_NxtTNqoZ0zhX5Zilvu6AI-x2ru6TNgFe7lKE",
-                                            "expiresAt": 1657152000000,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1646553243077?e=1657756800&v=beta&t=gTgsrFZRidLvfO2AVBLiBQh_g2k42TK7MiCd9VBr35o",
+                                            "expiresAt": 1657756800000,
                                             "height": 800
                                         }
                                     ],
                                     "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQF99fv8v6MGgQ/profile-displayphoto-shrink_"
                                 }
                             },
-                            "trackingId": "tjlYu2UtRPKf2mlDk6Zl5g=="
+                            "trackingId": "bkvmcStsTJyddQzy8kW0QA=="
                         },
                         "entityUrn": "urn:li:fs_contributor:(ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY,1960729169,221291064)",
                         "profileUrn": "urn:li:fs_miniProfile:ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY"
@@ -1282,14 +1283,14 @@
                                     "artifacts": [
                                         {
                                             "width": 800,
-                                            "fileIdentifyingUrlPathSegment": "200_800/0/1610218866442?e=1657152000&v=beta&t=CTxOYkaivu3RDFXpwAlYQw9OWFyLKVotVldrqMwQIK0",
-                                            "expiresAt": 1657152000000,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1610218866442?e=1657756800&v=beta&t=scdiPdTBUjW-_sXihHHP0At7pBUgteCPS_qGz-l1fmg",
+                                            "expiresAt": 1657756800000,
                                             "height": 200
                                         },
                                         {
                                             "width": 1400,
-                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1610218866442?e=1657152000&v=beta&t=DLn4trJ5Gx9yoJiyZgNCVjUcqsJ9A2DhdEReKJPsN6I",
-                                            "expiresAt": 1657152000000,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1610218866442?e=1657756800&v=beta&t=2XAcu-SJYzzJzc-4zj4zvd8ov23DgipFarCgQ6QdakM",
+                                            "expiresAt": 1657756800000,
                                             "height": 350
                                         }
                                     ],
@@ -1302,33 +1303,33 @@
                                     "artifacts": [
                                         {
                                             "width": 100,
-                                            "fileIdentifyingUrlPathSegment": "100_100/0/1646553243077?e=1657152000&v=beta&t=XjaQJ47BOr_r58vVMqLRcajD9G-1Pb8RjBa8T6FYp_8",
-                                            "expiresAt": 1657152000000,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1646553243077?e=1657756800&v=beta&t=MwU-5eZaBj2DbMktL9OOtLNDzHAs_z_QEQ1Wn8uqCEY",
+                                            "expiresAt": 1657756800000,
                                             "height": 100
                                         },
                                         {
                                             "width": 200,
-                                            "fileIdentifyingUrlPathSegment": "200_200/0/1646553243077?e=1657152000&v=beta&t=E6DeQ3hlzmWoqwVbuW6pik_rOwynU9jU8NiSnBj3C7Q",
-                                            "expiresAt": 1657152000000,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1646553243077?e=1657756800&v=beta&t=pd8vf2Spr0DXTMAuUxT6D39z0rPb0CJ7eFH4J3FlYyc",
+                                            "expiresAt": 1657756800000,
                                             "height": 200
                                         },
                                         {
                                             "width": 400,
-                                            "fileIdentifyingUrlPathSegment": "400_400/0/1646553243077?e=1657152000&v=beta&t=1FxucmSzuF4PybG3qfEFPH1k46RyZlBoGlHobZG_uFQ",
-                                            "expiresAt": 1657152000000,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1646553243077?e=1657756800&v=beta&t=5wrhT6NNkeEbZgTu17n3Cqp6sZhu9bz1QgbXSya2aA4",
+                                            "expiresAt": 1657756800000,
                                             "height": 400
                                         },
                                         {
                                             "width": 800,
-                                            "fileIdentifyingUrlPathSegment": "800_800/0/1646553243077?e=1657152000&v=beta&t=KyRUWz_NxtTNqoZ0zhX5Zilvu6AI-x2ru6TNgFe7lKE",
-                                            "expiresAt": 1657152000000,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1646553243077?e=1657756800&v=beta&t=gTgsrFZRidLvfO2AVBLiBQh_g2k42TK7MiCd9VBr35o",
+                                            "expiresAt": 1657756800000,
                                             "height": 800
                                         }
                                     ],
                                     "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQF99fv8v6MGgQ/profile-displayphoto-shrink_"
                                 }
                             },
-                            "trackingId": "tjlYu2UtRPKf2mlDk6Zl5g=="
+                            "trackingId": "bkvmcStsTJyddQzy8kW0QA=="
                         },
                         "entityUrn": "urn:li:fs_contributor:(ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY,1762532242,266728276)",
                         "profileUrn": "urn:li:fs_miniProfile:ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY"
@@ -1364,14 +1365,14 @@
                                     "artifacts": [
                                         {
                                             "width": 800,
-                                            "fileIdentifyingUrlPathSegment": "200_800/0/1610218866442?e=1657152000&v=beta&t=CTxOYkaivu3RDFXpwAlYQw9OWFyLKVotVldrqMwQIK0",
-                                            "expiresAt": 1657152000000,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1610218866442?e=1657756800&v=beta&t=scdiPdTBUjW-_sXihHHP0At7pBUgteCPS_qGz-l1fmg",
+                                            "expiresAt": 1657756800000,
                                             "height": 200
                                         },
                                         {
                                             "width": 1400,
-                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1610218866442?e=1657152000&v=beta&t=DLn4trJ5Gx9yoJiyZgNCVjUcqsJ9A2DhdEReKJPsN6I",
-                                            "expiresAt": 1657152000000,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1610218866442?e=1657756800&v=beta&t=2XAcu-SJYzzJzc-4zj4zvd8ov23DgipFarCgQ6QdakM",
+                                            "expiresAt": 1657756800000,
                                             "height": 350
                                         }
                                     ],
@@ -1384,33 +1385,33 @@
                                     "artifacts": [
                                         {
                                             "width": 100,
-                                            "fileIdentifyingUrlPathSegment": "100_100/0/1646553243077?e=1657152000&v=beta&t=XjaQJ47BOr_r58vVMqLRcajD9G-1Pb8RjBa8T6FYp_8",
-                                            "expiresAt": 1657152000000,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1646553243077?e=1657756800&v=beta&t=MwU-5eZaBj2DbMktL9OOtLNDzHAs_z_QEQ1Wn8uqCEY",
+                                            "expiresAt": 1657756800000,
                                             "height": 100
                                         },
                                         {
                                             "width": 200,
-                                            "fileIdentifyingUrlPathSegment": "200_200/0/1646553243077?e=1657152000&v=beta&t=E6DeQ3hlzmWoqwVbuW6pik_rOwynU9jU8NiSnBj3C7Q",
-                                            "expiresAt": 1657152000000,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1646553243077?e=1657756800&v=beta&t=pd8vf2Spr0DXTMAuUxT6D39z0rPb0CJ7eFH4J3FlYyc",
+                                            "expiresAt": 1657756800000,
                                             "height": 200
                                         },
                                         {
                                             "width": 400,
-                                            "fileIdentifyingUrlPathSegment": "400_400/0/1646553243077?e=1657152000&v=beta&t=1FxucmSzuF4PybG3qfEFPH1k46RyZlBoGlHobZG_uFQ",
-                                            "expiresAt": 1657152000000,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1646553243077?e=1657756800&v=beta&t=5wrhT6NNkeEbZgTu17n3Cqp6sZhu9bz1QgbXSya2aA4",
+                                            "expiresAt": 1657756800000,
                                             "height": 400
                                         },
                                         {
                                             "width": 800,
-                                            "fileIdentifyingUrlPathSegment": "800_800/0/1646553243077?e=1657152000&v=beta&t=KyRUWz_NxtTNqoZ0zhX5Zilvu6AI-x2ru6TNgFe7lKE",
-                                            "expiresAt": 1657152000000,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1646553243077?e=1657756800&v=beta&t=gTgsrFZRidLvfO2AVBLiBQh_g2k42TK7MiCd9VBr35o",
+                                            "expiresAt": 1657756800000,
                                             "height": 800
                                         }
                                     ],
                                     "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQF99fv8v6MGgQ/profile-displayphoto-shrink_"
                                 }
                             },
-                            "trackingId": "tjlYu2UtRPKf2mlDk6Zl5g=="
+                            "trackingId": "bkvmcStsTJyddQzy8kW0QA=="
                         },
                         "entityUrn": "urn:li:fs_contributor:(ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY,1670983609,236167875)",
                         "profileUrn": "urn:li:fs_miniProfile:ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY"
@@ -1444,6 +1445,98 @@
             }
         ]
     },
+    "connections": [
+        {
+            "urn_id": "ACoAABr4jt0BoOUmisITdRo1gR4CumG5I4jjZIw",
+            "distance": "DISTANCE_1",
+            "public_id": "samudra-deka-911659107",
+            "tracking_id": "452497117"
+        },
+        {
+            "urn_id": "ACoAADZmR9QB1zOH_PmrzQQw2wQmTJRTcNGU7CE",
+            "distance": "DISTANCE_1",
+            "public_id": "bkalita",
+            "tracking_id": "912672724"
+        },
+        {
+            "urn_id": "ACoAADLJzxsBizdB0nN5NZBCM41Q-z6-7ef5gyI",
+            "distance": "DISTANCE_1",
+            "public_id": "deepjyoti-kalita-78b4411b9",
+            "tracking_id": "852086555"
+        },
+        {
+            "urn_id": "ACoAACT67ZEBgw1Aprl8Aqy8zWMavdTyaWs7J3w",
+            "distance": "DISTANCE_1",
+            "public_id": "titikshya-das-015942153",
+            "tracking_id": "620424593"
+        },
+        {
+            "urn_id": "ACoAAAjgx0kBxJoPu_7t3kS1NbDizQekjIIzMbE",
+            "distance": "DISTANCE_1",
+            "public_id": "lakheswar-nath-289a7141",
+            "tracking_id": "148948809"
+        },
+        {
+            "urn_id": "ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE",
+            "distance": "DISTANCE_1",
+            "public_id": "prithoo11335",
+            "tracking_id": "231212168"
+        },
+        {
+            "urn_id": "ACoAACr0GSwBcmPDh22HqivG9h0JwG-eahXSYW8",
+            "distance": "DISTANCE_1",
+            "public_id": "nihar-kashyap98",
+            "tracking_id": "720640300"
+        },
+        {
+            "urn_id": "ACoAACeXhGEBEVCUXmKi5rowUSeFZNerPjvzQsc",
+            "distance": "DISTANCE_1",
+            "public_id": "mahbubul-haque-a55552166",
+            "tracking_id": "664241249"
+        },
+        {
+            "urn_id": "ACoAACzP6KMBcLKqKnFRpIudaukkoW4NoqstgrM",
+            "distance": "DISTANCE_1",
+            "public_id": "pranit-prakash-sahu",
+            "tracking_id": "751823011"
+        },
+        {
+            "urn_id": "ACoAAAI9wXoBijRhLoxf7BO8UTK0DX-7KexJV30",
+            "distance": "DISTANCE_1",
+            "public_id": "boren-ghosh-27671410",
+            "tracking_id": "37601658"
+        },
+        {
+            "urn_id": "ACoAACZxhUQBl1V8kpLj4ACrE2LzpatGvVzEgSA",
+            "distance": "DISTANCE_1",
+            "public_id": "nabajyoti-borah-944000160",
+            "tracking_id": "644973892"
+        },
+        {
+            "urn_id": "ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8",
+            "distance": "DISTANCE_1",
+            "public_id": "sivaranjan-goswami-790b4523",
+            "tracking_id": "83451420"
+        },
+        {
+            "urn_id": "ACoAACDVs-sB_IgxPBMHMRBfR6is3jmwwV_OvTE",
+            "distance": "DISTANCE_1",
+            "public_id": "swapnil-bhattacharjee-ghy",
+            "tracking_id": "550876139"
+        },
+        {
+            "urn_id": "ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc",
+            "distance": "DISTANCE_1",
+            "public_id": "ratnadeep-bhattacharjee",
+            "tracking_id": "135079003"
+        },
+        {
+            "urn_id": "ACoAAAR5v8MBjPwCvp8TP9RWZyGSeNYNiJ1wKJE",
+            "distance": "DISTANCE_1",
+            "public_id": "nilotpal-boruah",
+            "tracking_id": "75087811"
+        }
+    ],
     "skills": [
         {
             "name": "Python",

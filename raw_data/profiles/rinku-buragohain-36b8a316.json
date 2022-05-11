@@ -1,0 +1,564 @@
+{
+    "profile": {
+        "summary": "More than 5 years of experience in the field of R&D and 2 years of experience in Big Data.\nAreas of expertise: Bigdata,Cloudera Hadoop Distribution, HortonWorks, Hue,Hadoop,HDFS,Map Reduce ,Sqoop, SparkSQL,Hive,Pig,Flume,Oozie,R,C, C++, Socket Programming, Linux.",
+        "industryName": "IT Services and IT Consulting",
+        "lastName": "buragohain",
+        "locationName": "India",
+        "student": false,
+        "geoCountryName": "India",
+        "geoCountryUrn": "urn:li:fs_geo:102713980",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "industryUrn": "urn:li:fs_industry:96",
+        "firstName": "rinku",
+        "entityUrn": "urn:li:fs_profile:ACoAAANVwEMB93cnWTlWgtPNoI06HJWPb9gXKeE",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:105292557"
+        },
+        "geoLocationName": "Jorhat, Assam",
+        "location": {
+            "basicLocation": {
+                "countryCode": "in"
+            }
+        },
+        "headline": "Head Of Data Management at TechVariable",
+        "displayPictureUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQEKwsFSJFe4UQ/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/0/1516610135465?e=1657756800&v=beta&t=gCJA_-KH3d2SCW0AFkz3DySeilvATGxhDD0k9S00xXU",
+        "img_200_200": "200_200/0/1516610135465?e=1657756800&v=beta&t=ZwBx93ZZAEiXuidXVRFu9Cpk327n6-HYNEOTrzX1pXg",
+        "img_400_400": "400_400/0/1516610135465?e=1657756800&v=beta&t=nTLjjTt7WPVfhTvv9-UngOUlYbTyqYvCWOMD4TZdpYc",
+        "img_800_800": "800_800/0/1516610135465?e=1657756800&v=beta&t=NLqYdpF_GavtQo0Ny7EubLhYh3Xvyohpoi4TDDpSg20",
+        "profile_id": "ACoAAANVwEMB93cnWTlWgtPNoI06HJWPb9gXKeE",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAAANVwEMB93cnWTlWgtPNoI06HJWPb9gXKeE",
+        "member_urn": "urn:li:member:55951427",
+        "experience": [
+            {
+                "locationName": "Guwahati Area, India",
+                "entityUrn": "urn:li:fs_position:(ACoAAANVwEMB93cnWTlWgtPNoI06HJWPb9gXKeE,1059282679)",
+                "geoLocationName": "Guwahati Area, India",
+                "geoUrn": "urn:li:fs_geo:104535556",
+                "companyName": "TechVariable",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 3,
+                        "year": 2017
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Head Of Data Management",
+                "region": "urn:li:fs_region:(in,7248)",
+                "companyUrn": "urn:li:fs_miniCompany:10632640",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQE6IzKHUZQmAA/company-logo_"
+            },
+            {
+                "locationName": "Noida",
+                "entityUrn": "urn:li:fs_position:(ACoAAANVwEMB93cnWTlWgtPNoI06HJWPb9gXKeE,656756770)",
+                "$anti_abuse_metadata": {
+                    "/geoUrn": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:55951427"
+                        }
+                    },
+                    "/companyName": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:55951427"
+                        }
+                    },
+                    "/companyUrn": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:55951427"
+                        }
+                    },
+                    "/entityUrn": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:55951427"
+                        }
+                    },
+                    "/geoLocationName": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:55951427"
+                        }
+                    },
+                    "/promotion": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:55951427"
+                        }
+                    },
+                    "/title": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:55951427"
+                        }
+                    },
+                    "/region": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:55951427"
+                        }
+                    },
+                    "/locationName": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:55951427"
+                        }
+                    },
+                    "/description": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:55951427"
+                        }
+                    }
+                },
+                "geoLocationName": "Noida",
+                "companyName": "Snap-on Business solution",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 11,
+                        "year": 2014
+                    }
+                },
+                "description": "BigData,Hadoop,Hive,Sqoop,Map-Reduce",
+                "title": "Consultant"
+            },
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAAANVwEMB93cnWTlWgtPNoI06HJWPb9gXKeE,671423751)",
+                "companyName": "Snap-on Business Solutions",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 11,
+                        "year": 2014
+                    }
+                },
+                "description": "BigData,Hadoop,Hive,Pig,Sqoop,Map-Reduce",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 501,
+                        "end": 1000
+                    },
+                    "industries": [
+                        "Computer Software"
+                    ]
+                },
+                "title": "Consultant",
+                "companyUrn": "urn:li:fs_miniCompany:4444",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQGhsPdiCTcYAQ/company-logo_"
+            },
+            {
+                "locationName": "Gurgaon, India",
+                "entityUrn": "urn:li:fs_position:(ACoAAANVwEMB93cnWTlWgtPNoI06HJWPb9gXKeE,773191601)",
+                "geoLocationName": "Gurgaon, India",
+                "geoUrn": "urn:li:fs_geo:100899423",
+                "companyName": "Comtech LLC",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2016
+                    },
+                    "startDate": {
+                        "month": 7,
+                        "year": 2015
+                    }
+                },
+                "description": "Senior technologist with solution architecture and solution experience across multiple architecture domains such as business, data, integration, and application in Big Data space.Experience in driving the enterprise data architecture strategy, methodology and standards that delivers enterprise data model, associated meta model, common business vocabulary and taxonomies.Hands on in applying future state data architecture/design concepts such as Data Lake and Big Data.\n Hands-on experience on BigData platform; comprehensive experience in Big Data processing using Apache Hadoop and its ecosystem (MapReduce, Pig, Hive, Sqoop, Flume,Spark and HBase)\n",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 51,
+                        "end": 200
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Big Data Consultant",
+                "region": "urn:li:fs_region:(in,7391)",
+                "companyUrn": "urn:li:fs_miniCompany:289927",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQEBXfUqGGahbw/company-logo_"
+            },
+            {
+                "locationName": "New Delhi",
+                "entityUrn": "urn:li:fs_position:(ACoAAANVwEMB93cnWTlWgtPNoI06HJWPb9gXKeE,656755937)",
+                "$anti_abuse_metadata": {
+                    "/geoUrn": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:55951427"
+                        }
+                    },
+                    "/companyName": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:55951427"
+                        }
+                    },
+                    "/companyUrn": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:55951427"
+                        }
+                    },
+                    "/entityUrn": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:55951427"
+                        }
+                    },
+                    "/geoLocationName": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:55951427"
+                        }
+                    },
+                    "/promotion": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:55951427"
+                        }
+                    },
+                    "/title": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:55951427"
+                        }
+                    },
+                    "/region": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:55951427"
+                        }
+                    },
+                    "/locationName": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:55951427"
+                        }
+                    },
+                    "/description": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:55951427"
+                        }
+                    }
+                },
+                "geoLocationName": "New Delhi",
+                "companyName": "WESEE(Indian Navy)",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 11,
+                        "year": 2014
+                    },
+                    "startDate": {
+                        "month": 6,
+                        "year": 2011
+                    }
+                },
+                "description": "Big Data,Hadoop,Map-reduce,Pig",
+                "title": "Software Engineer"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAANVwEMB93cnWTlWgtPNoI06HJWPb9gXKeE,38900481)",
+                "school": {
+                    "objectUrn": "urn:li:school:13644",
+                    "entityUrn": "urn:li:fs_miniSchool:13644",
+                    "active": true,
+                    "schoolName": "Tezpur University",
+                    "trackingId": "+uYdMq0OQbOOJkKkXI0uwA==",
+                    "logoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQGdv3IR3tOUdw/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2009
+                    },
+                    "startDate": {
+                        "year": 2007
+                    }
+                },
+                "degreeName": "Master\u2019s Degree",
+                "schoolName": "Tezpur University",
+                "fieldOfStudy": "IT",
+                "schoolUrn": "urn:li:fs_miniSchool:13644"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "Hindi",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ],
+        "publications": [],
+        "certifications": [],
+        "volunteer": [],
+        "honors": [],
+        "projects": []
+    },
+    "contact_info": {
+        "email_address": null,
+        "websites": [],
+        "twitter": [],
+        "birthdate": null,
+        "ims": null,
+        "phone_numbers": []
+    },
+    "connections": [
+        {
+            "urn_id": "ACoAAC24GToBKzC8vS7jZaCEqoq3Jse_M2Tson8",
+            "distance": "DISTANCE_1",
+            "public_id": "abhijit-paul-936a68194",
+            "tracking_id": "767039802"
+        },
+        {
+            "urn_id": "ACoAAByhqogBLFVDJbqojrVMhtKfC3o3hRfEcjg",
+            "distance": "DISTANCE_1",
+            "public_id": "biki-talukdar-460a54114",
+            "tracking_id": "480357000"
+        },
+        {
+            "urn_id": "ACoAABr4jt0BoOUmisITdRo1gR4CumG5I4jjZIw",
+            "distance": "DISTANCE_1",
+            "public_id": "samudra-deka-911659107",
+            "tracking_id": "452497117"
+        },
+        {
+            "urn_id": "ACoAADZmR9QB1zOH_PmrzQQw2wQmTJRTcNGU7CE",
+            "distance": "DISTANCE_1",
+            "public_id": "bkalita",
+            "tracking_id": "912672724"
+        },
+        {
+            "urn_id": "ACoAADLJzxsBizdB0nN5NZBCM41Q-z6-7ef5gyI",
+            "distance": "DISTANCE_1",
+            "public_id": "deepjyoti-kalita-78b4411b9",
+            "tracking_id": "852086555"
+        },
+        {
+            "urn_id": "ACoAADe3CFYBsoFdtSEajXbg51HDagdpBEb3kx4",
+            "distance": "DISTANCE_1",
+            "public_id": "binud-panging-872062221",
+            "tracking_id": "934742102"
+        },
+        {
+            "urn_id": "ACoAAC2aUPYBGPB-T9xDu2Hjrq7OgzRPu5nTvyE",
+            "distance": "DISTANCE_1",
+            "public_id": "jintudas",
+            "tracking_id": "765087990"
+        },
+        {
+            "urn_id": "ACoAACT67ZEBgw1Aprl8Aqy8zWMavdTyaWs7J3w",
+            "distance": "DISTANCE_1",
+            "public_id": "titikshya-das-015942153",
+            "tracking_id": "620424593"
+        },
+        {
+            "urn_id": "ACoAAAjgx0kBxJoPu_7t3kS1NbDizQekjIIzMbE",
+            "distance": "DISTANCE_1",
+            "public_id": "lakheswar-nath-289a7141",
+            "tracking_id": "148948809"
+        },
+        {
+            "urn_id": "ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE",
+            "distance": "DISTANCE_1",
+            "public_id": "prithoo11335",
+            "tracking_id": "231212168"
+        },
+        {
+            "urn_id": "ACoAACr0GSwBcmPDh22HqivG9h0JwG-eahXSYW8",
+            "distance": "DISTANCE_1",
+            "public_id": "nihar-kashyap98",
+            "tracking_id": "720640300"
+        },
+        {
+            "urn_id": "ACoAACeXhGEBEVCUXmKi5rowUSeFZNerPjvzQsc",
+            "distance": "DISTANCE_1",
+            "public_id": "mahbubul-haque-a55552166",
+            "tracking_id": "664241249"
+        },
+        {
+            "urn_id": "ACoAACzP6KMBcLKqKnFRpIudaukkoW4NoqstgrM",
+            "distance": "DISTANCE_1",
+            "public_id": "pranit-prakash-sahu",
+            "tracking_id": "751823011"
+        },
+        {
+            "urn_id": "ACoAACbTg-gBtT_YqZc-FG2lIVBv13QTx8UUB8E",
+            "distance": "DISTANCE_1",
+            "public_id": "mridul24",
+            "tracking_id": "651396072"
+        },
+        {
+            "urn_id": "ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY",
+            "distance": "DISTANCE_1",
+            "public_id": "tridip-das-b5837911b",
+            "tracking_id": "499568180"
+        },
+        {
+            "urn_id": "ACoAAAI9wXoBijRhLoxf7BO8UTK0DX-7KexJV30",
+            "distance": "DISTANCE_1",
+            "public_id": "boren-ghosh-27671410",
+            "tracking_id": "37601658"
+        },
+        {
+            "urn_id": "ACoAACZxhUQBl1V8kpLj4ACrE2LzpatGvVzEgSA",
+            "distance": "DISTANCE_1",
+            "public_id": "nabajyoti-borah-944000160",
+            "tracking_id": "644973892"
+        },
+        {
+            "urn_id": "ACoAABYq8T8ByHFGBUFRrHT5iKBI2u4YZjTLHFc",
+            "distance": "DISTANCE_1",
+            "public_id": "netranjit-borgohain-53b677a4",
+            "tracking_id": "371913023"
+        },
+        {
+            "urn_id": "ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8",
+            "distance": "DISTANCE_1",
+            "public_id": "sivaranjan-goswami-790b4523",
+            "tracking_id": "83451420"
+        },
+        {
+            "urn_id": "ACoAACTFIIYB1cK_syRcCXEc0o8RTm4JMlhYcHA",
+            "distance": "DISTANCE_1",
+            "public_id": "arun-kumar-nath-686721152",
+            "tracking_id": "616898694"
+        },
+        {
+            "urn_id": "ACoAAC4efLABFBv0f30-SDGDgLSf1gXTlkpJTfc",
+            "distance": "DISTANCE_1",
+            "public_id": "shawan-mandal",
+            "tracking_id": "773749936"
+        },
+        {
+            "urn_id": "ACoAACDVs-sB_IgxPBMHMRBfR6is3jmwwV_OvTE",
+            "distance": "DISTANCE_1",
+            "public_id": "swapnil-bhattacharjee-ghy",
+            "tracking_id": "550876139"
+        },
+        {
+            "urn_id": "ACoAACUEZ3QB2Xm0OWR0cqoc_u-o4KW_OENO1_8",
+            "distance": "DISTANCE_1",
+            "public_id": "rajan-sahu",
+            "tracking_id": "621045620"
+        },
+        {
+            "urn_id": "ACoAAC12ZqEBCx9JN_YIi1eF1FPPDif3mXI3fyc",
+            "distance": "DISTANCE_1",
+            "public_id": "abinash-panigrahi-169531193",
+            "tracking_id": "762734241"
+        },
+        {
+            "urn_id": "ACoAACYmrvgBRdvWxItbY_KP_fyrEgZ9U-QKJqk",
+            "distance": "DISTANCE_1",
+            "public_id": "rtsu",
+            "tracking_id": "640069368"
+        },
+        {
+            "urn_id": "ACoAADRMKTMBj76XTPRfB9R5rvfwNOXP2n93n4c",
+            "distance": "DISTANCE_1",
+            "public_id": "manash-deka-497a12205",
+            "tracking_id": "877406515"
+        },
+        {
+            "urn_id": "ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc",
+            "distance": "DISTANCE_1",
+            "public_id": "ratnadeep-bhattacharjee",
+            "tracking_id": "135079003"
+        },
+        {
+            "urn_id": "ACoAAAR5v8MBjPwCvp8TP9RWZyGSeNYNiJ1wKJE",
+            "distance": "DISTANCE_1",
+            "public_id": "nilotpal-boruah",
+            "tracking_id": "75087811"
+        }
+    ],
+    "skills": [
+        {
+            "name": "BigData,Hadoop,Hive,Sqoop,Map-Reduce,Pig"
+        },
+        {
+            "name": "C"
+        },
+        {
+            "name": "Java"
+        },
+        {
+            "name": "Big Data"
+        },
+        {
+            "name": "Linux",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:301",
+            "standardizedSkill": {
+                "name": "Linux",
+                "entityUrn": "urn:li:fs_miniSkill:301"
+            }
+        },
+        {
+            "name": "Hadoop",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:8280",
+            "standardizedSkill": {
+                "name": "Hadoop",
+                "entityUrn": "urn:li:fs_miniSkill:8280"
+            }
+        },
+        {
+            "name": "C++",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:198",
+            "standardizedSkill": {
+                "name": "C++",
+                "entityUrn": "urn:li:fs_miniSkill:198"
+            }
+        },
+        {
+            "name": "Hive",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:18321",
+            "standardizedSkill": {
+                "name": "Hive",
+                "entityUrn": "urn:li:fs_miniSkill:18321"
+            }
+        },
+        {
+            "name": "Apache Pig",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:26331",
+            "standardizedSkill": {
+                "name": "Apache Pig",
+                "entityUrn": "urn:li:fs_miniSkill:26331"
+            }
+        },
+        {
+            "name": "SQL",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:483",
+            "standardizedSkill": {
+                "name": "SQL",
+                "entityUrn": "urn:li:fs_miniSkill:483"
+            }
+        },
+        {
+            "name": "HBase",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:15384",
+            "standardizedSkill": {
+                "name": "HBase",
+                "entityUrn": "urn:li:fs_miniSkill:15384"
+            }
+        },
+        {
+            "name": "MapReduce",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:13993",
+            "standardizedSkill": {
+                "name": "MapReduce",
+                "entityUrn": "urn:li:fs_miniSkill:13993"
+            }
+        },
+        {
+            "name": "Solution Architecture",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:3130",
+            "standardizedSkill": {
+                "name": "Solution Architecture",
+                "entityUrn": "urn:li:fs_miniSkill:3130"
+            }
+        },
+        {
+            "name": "JavaScript",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:218",
+            "standardizedSkill": {
+                "name": "JavaScript",
+                "entityUrn": "urn:li:fs_miniSkill:218"
+            }
+        }
+    ]
+}

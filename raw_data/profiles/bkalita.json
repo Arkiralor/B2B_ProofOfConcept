@@ -1,0 +1,1202 @@
+{
+    "profile": {
+        "summary": "Mostly doing Python and Golang. Transforming  client's requirements to software Product is not a big deal to me. \ncan program for  ML project.\ncan program for Datascience project.\ncan program for backend service. \ncan program for anything with a little more  research which I do best I think. \nAlso doing blockchain.",
+        "industryName": "Software Development",
+        "lastName": "kalita",
+        "locationName": "India",
+        "student": false,
+        "geoCountryName": "India",
+        "geoCountryUrn": "urn:li:fs_geo:102713980",
+        "geoLocationBackfilled": false,
+        "elt": true,
+        "industryUrn": "urn:li:fs_industry:4",
+        "firstName": "bipul",
+        "entityUrn": "urn:li:fs_profile:ACoAADZmR9QB1zOH_PmrzQQw2wQmTJRTcNGU7CE",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:105861522"
+        },
+        "geoLocationName": "Bajali, Assam",
+        "location": {
+            "basicLocation": {
+                "countryCode": "in"
+            }
+        },
+        "headline": "Programmer Analyst Trainee at TechVariable",
+        "displayPictureUrl": "https://media-exp1.licdn.com/dms/image/C5603AQGXxSg6tDecXQ/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/0/1639834155637?e=1657756800&v=beta&t=7jNmbhklN6xsNgICHlGVfz49XDpPLmQYbzlVbxKL1jM",
+        "img_200_200": "200_200/0/1639834155637?e=1657756800&v=beta&t=SEbra1WNGuIoc4kvxrl-dpkGpJlIpts90AoOqlEqzLM",
+        "img_400_400": "400_400/0/1639834155637?e=1657756800&v=beta&t=wW_1qm4kgA-bGQOikNIpHUt7qouBQvOuKJsxtTinkE8",
+        "img_800_800": "800_800/0/1639834155637?e=1657756800&v=beta&t=NQReu_FJCf1fvbM1dZqERFHZYHWfnZluaC3whUaS9Po",
+        "profile_id": "ACoAADZmR9QB1zOH_PmrzQQw2wQmTJRTcNGU7CE",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAADZmR9QB1zOH_PmrzQQw2wQmTJRTcNGU7CE",
+        "member_urn": "urn:li:member:912672724",
+        "experience": [
+            {
+                "locationName": "Guwahati, Assam, India",
+                "entityUrn": "urn:li:fs_position:(ACoAADZmR9QB1zOH_PmrzQQw2wQmTJRTcNGU7CE,1886132111)",
+                "geoLocationName": "Guwahati, Assam, India",
+                "geoUrn": "urn:li:fs_geo:105607401",
+                "companyName": "TechVariable",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 12,
+                        "year": 2021
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Programmer Analyst Trainee",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:10632640",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQE6IzKHUZQmAA/company-logo_"
+            },
+            {
+                "locationName": "Guwahati, Assam, India",
+                "entityUrn": "urn:li:fs_position:(ACoAADZmR9QB1zOH_PmrzQQw2wQmTJRTcNGU7CE,1799877606)",
+                "geoLocationName": "Guwahati, Assam, India",
+                "geoUrn": "urn:li:fs_geo:105607401",
+                "companyName": "Lalit Chandra Bharali College - India",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 4,
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "month": 2,
+                        "year": 2020
+                    }
+                },
+                "description": "I was invited for 3 months contract as a guest lecturer in Computer Sc. Dept. My experience was good, specially with the members and HOD of the dept. But due to Covid-19 I did not renew my appointment and also because I worked as a software developer at BJP Assam Pradesh.",
+                "company": {},
+                "title": "Guest Lecturer",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:7897316"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAADZmR9QB1zOH_PmrzQQw2wQmTJRTcNGU7CE,731844833)",
+                "school": {
+                    "objectUrn": "urn:li:school:13476",
+                    "entityUrn": "urn:li:fs_miniSchool:13476",
+                    "active": true,
+                    "schoolName": "Gauhati University",
+                    "trackingId": "lPL58U0dQGKm6yyoRm+lpA==",
+                    "logoUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQE_SHDG7RHWLg/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2018
+                    },
+                    "startDate": {
+                        "year": 2016
+                    }
+                },
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100189",
+                "degreeName": "Master's degree",
+                "schoolName": "Gauhati University",
+                "fieldOfStudy": "Computer Science",
+                "degreeUrn": "urn:li:fs_degree:500",
+                "schoolUrn": "urn:li:fs_miniSchool:13476"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAADZmR9QB1zOH_PmrzQQw2wQmTJRTcNGU7CE,731850191)",
+                "school": {
+                    "objectUrn": "urn:li:school:3240881",
+                    "entityUrn": "urn:li:fs_miniSchool:3240881",
+                    "active": true,
+                    "schoolName": "Lalit Chandra Bharali College - India",
+                    "trackingId": "e9+Js0fUSiCePPZ/WOEA5Q=="
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2016
+                    },
+                    "startDate": {
+                        "year": 2013
+                    }
+                },
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100189",
+                "degreeName": "Bachelor's degree",
+                "schoolName": "Lalit Chandra Bharali College - India",
+                "fieldOfStudy": "Computer Science",
+                "degreeUrn": "urn:li:fs_degree:200",
+                "schoolUrn": "urn:li:fs_miniSchool:3240881"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAADZmR9QB1zOH_PmrzQQw2wQmTJRTcNGU7CE,731847424)",
+                "school": {
+                    "objectUrn": "urn:li:school:206686",
+                    "entityUrn": "urn:li:fs_miniSchool:206686",
+                    "active": true,
+                    "schoolName": "Bajali College",
+                    "trackingId": "mJDi+y/bQoiOvhMLdI9iRQ=="
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2013
+                    },
+                    "startDate": {
+                        "year": 2011
+                    }
+                },
+                "degreeName": " higher secondary",
+                "schoolName": "Bajali College",
+                "fieldOfStudy": "Science",
+                "schoolUrn": "urn:li:fs_miniSchool:206686"
+            }
+        ],
+        "languages": [],
+        "publications": [],
+        "certifications": [
+            {
+                "authority": "Coursera",
+                "name": "Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 9,
+                        "year": 2021
+                    }
+                },
+                "licenseNumber": "ZSL7FVDYBQST",
+                "company": {
+                    "objectUrn": "urn:li:company:2453129",
+                    "entityUrn": "urn:li:fs_miniCompany:2453129",
+                    "name": "Coursera",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1608039227697?e=1660176000&v=beta&t=24dSeYZFSUztRaUy6-QqI0GSTK5-7tfyOci9sanIOTE",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1608039227697?e=1660176000&v=beta&t=8mJvTc5z6PI8olmLRWSi-xaA6ZOeYWkWcZiqxFWbrhE",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1608039227697?e=1660176000&v=beta&t=o8C5zQF49vmVYRAgj4K1Q2W5kUw9P0IZwKQoBFhnmDc",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQGexnfBxeEG-g/company-logo_"
+                        }
+                    },
+                    "universalName": "coursera",
+                    "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                    "trackingId": "MX2H1Q5wSOi2fE9+gDh0Wg=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:2453129",
+                "url": "https://www.coursera.org/account/accomplishments/certificate/ZSL7FVDYBQST"
+            },
+            {
+                "authority": "Coursera",
+                "name": "Convolutional Neural Networks in TensorFlow",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 9,
+                        "year": 2021
+                    }
+                },
+                "licenseNumber": "JBKWDAGJ5KER",
+                "company": {
+                    "objectUrn": "urn:li:company:2453129",
+                    "entityUrn": "urn:li:fs_miniCompany:2453129",
+                    "name": "Coursera",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1608039227697?e=1660176000&v=beta&t=24dSeYZFSUztRaUy6-QqI0GSTK5-7tfyOci9sanIOTE",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1608039227697?e=1660176000&v=beta&t=8mJvTc5z6PI8olmLRWSi-xaA6ZOeYWkWcZiqxFWbrhE",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1608039227697?e=1660176000&v=beta&t=o8C5zQF49vmVYRAgj4K1Q2W5kUw9P0IZwKQoBFhnmDc",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQGexnfBxeEG-g/company-logo_"
+                        }
+                    },
+                    "universalName": "coursera",
+                    "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                    "trackingId": "9f5YFaJFRsK4SIt1s6zNWA=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:2453129",
+                "url": "https://www.coursera.org/account/accomplishments/certificate/JBKWDAGJ5KER"
+            },
+            {
+                "authority": "Coursera",
+                "name": "Natural Language Processing in TensorFlow",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 9,
+                        "year": 2021
+                    }
+                },
+                "licenseNumber": "R4APJ8QYRH7H",
+                "company": {
+                    "objectUrn": "urn:li:company:2453129",
+                    "entityUrn": "urn:li:fs_miniCompany:2453129",
+                    "name": "Coursera",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1608039227697?e=1660176000&v=beta&t=24dSeYZFSUztRaUy6-QqI0GSTK5-7tfyOci9sanIOTE",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1608039227697?e=1660176000&v=beta&t=8mJvTc5z6PI8olmLRWSi-xaA6ZOeYWkWcZiqxFWbrhE",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1608039227697?e=1660176000&v=beta&t=o8C5zQF49vmVYRAgj4K1Q2W5kUw9P0IZwKQoBFhnmDc",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQGexnfBxeEG-g/company-logo_"
+                        }
+                    },
+                    "universalName": "coursera",
+                    "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                    "trackingId": "m2GGWobnTC2KDmzwCJDxTQ=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:2453129",
+                "url": "https://www.coursera.org/account/accomplishments/certificate/R4APJ8QYRH7H"
+            },
+            {
+                "authority": "Coursera",
+                "name": "DeepLearning.AI TensorFlow Developer Specialization",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 9,
+                        "year": 2021
+                    }
+                },
+                "licenseNumber": "ZN6NV8BTBXFV",
+                "company": {
+                    "objectUrn": "urn:li:company:2453129",
+                    "entityUrn": "urn:li:fs_miniCompany:2453129",
+                    "name": "Coursera",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1608039227697?e=1660176000&v=beta&t=24dSeYZFSUztRaUy6-QqI0GSTK5-7tfyOci9sanIOTE",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1608039227697?e=1660176000&v=beta&t=8mJvTc5z6PI8olmLRWSi-xaA6ZOeYWkWcZiqxFWbrhE",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1608039227697?e=1660176000&v=beta&t=o8C5zQF49vmVYRAgj4K1Q2W5kUw9P0IZwKQoBFhnmDc",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQGexnfBxeEG-g/company-logo_"
+                        }
+                    },
+                    "universalName": "coursera",
+                    "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                    "trackingId": "MyltYp50SBmuXNrCaYi91A=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:2453129",
+                "url": "https://www.coursera.org/account/accomplishments/specialization/certificate/ZN6NV8BTBXFV"
+            },
+            {
+                "authority": "Coursera",
+                "name": "Sequences, Time Series and Prediction",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 9,
+                        "year": 2021
+                    }
+                },
+                "licenseNumber": "2QVTXWM73ED5",
+                "company": {
+                    "objectUrn": "urn:li:company:2453129",
+                    "entityUrn": "urn:li:fs_miniCompany:2453129",
+                    "name": "Coursera",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1608039227697?e=1660176000&v=beta&t=24dSeYZFSUztRaUy6-QqI0GSTK5-7tfyOci9sanIOTE",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1608039227697?e=1660176000&v=beta&t=8mJvTc5z6PI8olmLRWSi-xaA6ZOeYWkWcZiqxFWbrhE",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1608039227697?e=1660176000&v=beta&t=o8C5zQF49vmVYRAgj4K1Q2W5kUw9P0IZwKQoBFhnmDc",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQGexnfBxeEG-g/company-logo_"
+                        }
+                    },
+                    "universalName": "coursera",
+                    "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                    "trackingId": "pP0EtSeoT3+BFWykSt+Nhg=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:2453129",
+                "url": "https://www.coursera.org/account/accomplishments/certificate/2QVTXWM73ED5"
+            }
+        ],
+        "volunteer": [],
+        "honors": [],
+        "projects": [
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "bipul",
+                            "lastName": "kalita",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAADZmR9QB1zOH_PmrzQQw2wQmTJRTcNGU7CE",
+                            "occupation": "Programmer Analyst Trainee at TechVariable",
+                            "objectUrn": "urn:li:member:912672724",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAADZmR9QB1zOH_PmrzQQw2wQmTJRTcNGU7CE",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1631657923926?e=1657756800&v=beta&t=I9b45KLG53oBMOvyMrwpIhLq5TZhvPq06SxJvvuy_6E",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1631657923926?e=1657756800&v=beta&t=mZSnyEfXKm4ir-YYg_cj_c52DsS6f5WhcfipQJwMm-o",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E16AQHyhf_qrpLoLg/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "bkalita",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1639834155637?e=1657756800&v=beta&t=7jNmbhklN6xsNgICHlGVfz49XDpPLmQYbzlVbxKL1jM",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1639834155637?e=1657756800&v=beta&t=SEbra1WNGuIoc4kvxrl-dpkGpJlIpts90AoOqlEqzLM",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1639834155637?e=1657756800&v=beta&t=wW_1qm4kgA-bGQOikNIpHUt7qouBQvOuKJsxtTinkE8",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1639834155637?e=1657756800&v=beta&t=NQReu_FJCf1fvbM1dZqERFHZYHWfnZluaC3whUaS9Po",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5603AQGXxSg6tDecXQ/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "xigAbmiCQe+ht5CuRz1YQA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAADZmR9QB1zOH_PmrzQQw2wQmTJRTcNGU7CE,1646477798,323256435)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAADZmR9QB1zOH_PmrzQQw2wQmTJRTcNGU7CE"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 4,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 3,
+                        "year": 2021
+                    }
+                },
+                "description": "Made with Flutter",
+                "title": "MY BJP App",
+                "url": "https://github.com/bkalita-git/MYBJP_APP"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "bipul",
+                            "lastName": "kalita",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAADZmR9QB1zOH_PmrzQQw2wQmTJRTcNGU7CE",
+                            "occupation": "Programmer Analyst Trainee at TechVariable",
+                            "objectUrn": "urn:li:member:912672724",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAADZmR9QB1zOH_PmrzQQw2wQmTJRTcNGU7CE",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1631657923926?e=1657756800&v=beta&t=I9b45KLG53oBMOvyMrwpIhLq5TZhvPq06SxJvvuy_6E",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1631657923926?e=1657756800&v=beta&t=mZSnyEfXKm4ir-YYg_cj_c52DsS6f5WhcfipQJwMm-o",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E16AQHyhf_qrpLoLg/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "bkalita",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1639834155637?e=1657756800&v=beta&t=7jNmbhklN6xsNgICHlGVfz49XDpPLmQYbzlVbxKL1jM",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1639834155637?e=1657756800&v=beta&t=SEbra1WNGuIoc4kvxrl-dpkGpJlIpts90AoOqlEqzLM",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1639834155637?e=1657756800&v=beta&t=wW_1qm4kgA-bGQOikNIpHUt7qouBQvOuKJsxtTinkE8",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1639834155637?e=1657756800&v=beta&t=NQReu_FJCf1fvbM1dZqERFHZYHWfnZluaC3whUaS9Po",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5603AQGXxSg6tDecXQ/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "xigAbmiCQe+ht5CuRz1YQA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAADZmR9QB1zOH_PmrzQQw2wQmTJRTcNGU7CE,1646419409,323259163)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAADZmR9QB1zOH_PmrzQQw2wQmTJRTcNGU7CE"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 2,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 2,
+                        "year": 2021
+                    }
+                },
+                "title": "Visitor Registration System",
+                "url": "https://github.com/bkalita-git/Visitor_Registration"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "bipul",
+                            "lastName": "kalita",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAADZmR9QB1zOH_PmrzQQw2wQmTJRTcNGU7CE",
+                            "occupation": "Programmer Analyst Trainee at TechVariable",
+                            "objectUrn": "urn:li:member:912672724",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAADZmR9QB1zOH_PmrzQQw2wQmTJRTcNGU7CE",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1631657923926?e=1657756800&v=beta&t=I9b45KLG53oBMOvyMrwpIhLq5TZhvPq06SxJvvuy_6E",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1631657923926?e=1657756800&v=beta&t=mZSnyEfXKm4ir-YYg_cj_c52DsS6f5WhcfipQJwMm-o",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E16AQHyhf_qrpLoLg/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "bkalita",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1639834155637?e=1657756800&v=beta&t=7jNmbhklN6xsNgICHlGVfz49XDpPLmQYbzlVbxKL1jM",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1639834155637?e=1657756800&v=beta&t=SEbra1WNGuIoc4kvxrl-dpkGpJlIpts90AoOqlEqzLM",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1639834155637?e=1657756800&v=beta&t=wW_1qm4kgA-bGQOikNIpHUt7qouBQvOuKJsxtTinkE8",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1639834155637?e=1657756800&v=beta&t=NQReu_FJCf1fvbM1dZqERFHZYHWfnZluaC3whUaS9Po",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5603AQGXxSg6tDecXQ/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "xigAbmiCQe+ht5CuRz1YQA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAADZmR9QB1zOH_PmrzQQw2wQmTJRTcNGU7CE,1646369440,323253829)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAADZmR9QB1zOH_PmrzQQw2wQmTJRTcNGU7CE"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 5,
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "month": 5,
+                        "year": 2019
+                    }
+                },
+                "title": "Image File Reduce By Exact Memory Size",
+                "url": "https://github.com/bkalita-git/IMG_Reduce"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "bipul",
+                            "lastName": "kalita",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAADZmR9QB1zOH_PmrzQQw2wQmTJRTcNGU7CE",
+                            "occupation": "Programmer Analyst Trainee at TechVariable",
+                            "objectUrn": "urn:li:member:912672724",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAADZmR9QB1zOH_PmrzQQw2wQmTJRTcNGU7CE",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1631657923926?e=1657756800&v=beta&t=I9b45KLG53oBMOvyMrwpIhLq5TZhvPq06SxJvvuy_6E",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1631657923926?e=1657756800&v=beta&t=mZSnyEfXKm4ir-YYg_cj_c52DsS6f5WhcfipQJwMm-o",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E16AQHyhf_qrpLoLg/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "bkalita",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1639834155637?e=1657756800&v=beta&t=7jNmbhklN6xsNgICHlGVfz49XDpPLmQYbzlVbxKL1jM",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1639834155637?e=1657756800&v=beta&t=SEbra1WNGuIoc4kvxrl-dpkGpJlIpts90AoOqlEqzLM",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1639834155637?e=1657756800&v=beta&t=wW_1qm4kgA-bGQOikNIpHUt7qouBQvOuKJsxtTinkE8",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1639834155637?e=1657756800&v=beta&t=NQReu_FJCf1fvbM1dZqERFHZYHWfnZluaC3whUaS9Po",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5603AQGXxSg6tDecXQ/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "xigAbmiCQe+ht5CuRz1YQA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAADZmR9QB1zOH_PmrzQQw2wQmTJRTcNGU7CE,1646322746,323258179)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAADZmR9QB1zOH_PmrzQQw2wQmTJRTcNGU7CE"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 4,
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "month": 4,
+                        "year": 2019
+                    }
+                },
+                "title": "A daw controller using Ultrasonic sensor",
+                "url": "https://github.com/bkalita-git/arduino_ultrasonic_daw"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "bipul",
+                            "lastName": "kalita",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAADZmR9QB1zOH_PmrzQQw2wQmTJRTcNGU7CE",
+                            "occupation": "Programmer Analyst Trainee at TechVariable",
+                            "objectUrn": "urn:li:member:912672724",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAADZmR9QB1zOH_PmrzQQw2wQmTJRTcNGU7CE",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1631657923926?e=1657756800&v=beta&t=I9b45KLG53oBMOvyMrwpIhLq5TZhvPq06SxJvvuy_6E",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1631657923926?e=1657756800&v=beta&t=mZSnyEfXKm4ir-YYg_cj_c52DsS6f5WhcfipQJwMm-o",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E16AQHyhf_qrpLoLg/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "bkalita",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1639834155637?e=1657756800&v=beta&t=7jNmbhklN6xsNgICHlGVfz49XDpPLmQYbzlVbxKL1jM",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1639834155637?e=1657756800&v=beta&t=SEbra1WNGuIoc4kvxrl-dpkGpJlIpts90AoOqlEqzLM",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1639834155637?e=1657756800&v=beta&t=wW_1qm4kgA-bGQOikNIpHUt7qouBQvOuKJsxtTinkE8",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1639834155637?e=1657756800&v=beta&t=NQReu_FJCf1fvbM1dZqERFHZYHWfnZluaC3whUaS9Po",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5603AQGXxSg6tDecXQ/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "xigAbmiCQe+ht5CuRz1YQA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAADZmR9QB1zOH_PmrzQQw2wQmTJRTcNGU7CE,1646267676,323256419)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAADZmR9QB1zOH_PmrzQQw2wQmTJRTcNGU7CE"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 3,
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2019
+                    }
+                },
+                "title": "sithighar.com a business website",
+                "url": "https://github.com/bkalita-git/sithighar.com"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "bipul",
+                            "lastName": "kalita",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAADZmR9QB1zOH_PmrzQQw2wQmTJRTcNGU7CE",
+                            "occupation": "Programmer Analyst Trainee at TechVariable",
+                            "objectUrn": "urn:li:member:912672724",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAADZmR9QB1zOH_PmrzQQw2wQmTJRTcNGU7CE",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1631657923926?e=1657756800&v=beta&t=I9b45KLG53oBMOvyMrwpIhLq5TZhvPq06SxJvvuy_6E",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1631657923926?e=1657756800&v=beta&t=mZSnyEfXKm4ir-YYg_cj_c52DsS6f5WhcfipQJwMm-o",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E16AQHyhf_qrpLoLg/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "bkalita",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1639834155637?e=1657756800&v=beta&t=7jNmbhklN6xsNgICHlGVfz49XDpPLmQYbzlVbxKL1jM",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1639834155637?e=1657756800&v=beta&t=SEbra1WNGuIoc4kvxrl-dpkGpJlIpts90AoOqlEqzLM",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1639834155637?e=1657756800&v=beta&t=wW_1qm4kgA-bGQOikNIpHUt7qouBQvOuKJsxtTinkE8",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1639834155637?e=1657756800&v=beta&t=NQReu_FJCf1fvbM1dZqERFHZYHWfnZluaC3whUaS9Po",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5603AQGXxSg6tDecXQ/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "xigAbmiCQe+ht5CuRz1YQA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAADZmR9QB1zOH_PmrzQQw2wQmTJRTcNGU7CE,1646210538,323255501)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAADZmR9QB1zOH_PmrzQQw2wQmTJRTcNGU7CE"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2018
+                    },
+                    "startDate": {
+                        "month": 12,
+                        "year": 2018
+                    }
+                },
+                "description": "After M.Sc. while home, I was Learning about Neural Networks from the Internet. It took me about 3 months. This project reminds me that how well I understood Neural Networks and I have a confidence now to do various task using neural nets.",
+                "title": "Sequence to Sequence Model for Language Translation",
+                "url": "https://github.com/bkalita-git/nn_seq2seq_transformer"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "bipul",
+                            "lastName": "kalita",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAADZmR9QB1zOH_PmrzQQw2wQmTJRTcNGU7CE",
+                            "occupation": "Programmer Analyst Trainee at TechVariable",
+                            "objectUrn": "urn:li:member:912672724",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAADZmR9QB1zOH_PmrzQQw2wQmTJRTcNGU7CE",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1631657923926?e=1657756800&v=beta&t=I9b45KLG53oBMOvyMrwpIhLq5TZhvPq06SxJvvuy_6E",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1631657923926?e=1657756800&v=beta&t=mZSnyEfXKm4ir-YYg_cj_c52DsS6f5WhcfipQJwMm-o",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E16AQHyhf_qrpLoLg/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "bkalita",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1639834155637?e=1657756800&v=beta&t=7jNmbhklN6xsNgICHlGVfz49XDpPLmQYbzlVbxKL1jM",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1639834155637?e=1657756800&v=beta&t=SEbra1WNGuIoc4kvxrl-dpkGpJlIpts90AoOqlEqzLM",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1639834155637?e=1657756800&v=beta&t=wW_1qm4kgA-bGQOikNIpHUt7qouBQvOuKJsxtTinkE8",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1639834155637?e=1657756800&v=beta&t=NQReu_FJCf1fvbM1dZqERFHZYHWfnZluaC3whUaS9Po",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5603AQGXxSg6tDecXQ/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "xigAbmiCQe+ht5CuRz1YQA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAADZmR9QB1zOH_PmrzQQw2wQmTJRTcNGU7CE,1646158230,323256415)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAADZmR9QB1zOH_PmrzQQw2wQmTJRTcNGU7CE"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 7,
+                        "year": 2018
+                    },
+                    "startDate": {
+                        "month": 5,
+                        "year": 2018
+                    }
+                },
+                "description": "This was my academic Project",
+                "title": "Face Recognition based on One Sample Per Person Problem",
+                "url": "https://github.com/bkalita-git/LBP_Face_Recognition"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "bipul",
+                            "lastName": "kalita",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAADZmR9QB1zOH_PmrzQQw2wQmTJRTcNGU7CE",
+                            "occupation": "Programmer Analyst Trainee at TechVariable",
+                            "objectUrn": "urn:li:member:912672724",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAADZmR9QB1zOH_PmrzQQw2wQmTJRTcNGU7CE",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1631657923926?e=1657756800&v=beta&t=I9b45KLG53oBMOvyMrwpIhLq5TZhvPq06SxJvvuy_6E",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1631657923926?e=1657756800&v=beta&t=mZSnyEfXKm4ir-YYg_cj_c52DsS6f5WhcfipQJwMm-o",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E16AQHyhf_qrpLoLg/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "bkalita",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1639834155637?e=1657756800&v=beta&t=7jNmbhklN6xsNgICHlGVfz49XDpPLmQYbzlVbxKL1jM",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1639834155637?e=1657756800&v=beta&t=SEbra1WNGuIoc4kvxrl-dpkGpJlIpts90AoOqlEqzLM",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1639834155637?e=1657756800&v=beta&t=wW_1qm4kgA-bGQOikNIpHUt7qouBQvOuKJsxtTinkE8",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1639834155637?e=1657756800&v=beta&t=NQReu_FJCf1fvbM1dZqERFHZYHWfnZluaC3whUaS9Po",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5603AQGXxSg6tDecXQ/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "xigAbmiCQe+ht5CuRz1YQA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAADZmR9QB1zOH_PmrzQQw2wQmTJRTcNGU7CE,1646084107,323257331)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAADZmR9QB1zOH_PmrzQQw2wQmTJRTcNGU7CE"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 10,
+                        "year": 2017
+                    },
+                    "startDate": {
+                        "month": 10,
+                        "year": 2017
+                    }
+                },
+                "description": "I did it while we were learning about compiler design. It was fun.",
+                "title": "LR1 Parser",
+                "url": "https://github.com/bkalita-git/LR1_PARSER"
+            }
+        ]
+    },
+    "contact_info": {
+        "email_address": "bkalita.mail@gmail.com",
+        "websites": [
+            {
+                "url": "https://github.com/bkalita-git"
+            }
+        ],
+        "twitter": [],
+        "birthdate": null,
+        "ims": null,
+        "phone_numbers": []
+    },
+    "connections": [
+        {
+            "urn_id": "ACoAABr4jt0BoOUmisITdRo1gR4CumG5I4jjZIw",
+            "distance": "DISTANCE_1",
+            "public_id": "samudra-deka-911659107",
+            "tracking_id": "452497117"
+        },
+        {
+            "urn_id": "ACoAADLJzxsBizdB0nN5NZBCM41Q-z6-7ef5gyI",
+            "distance": "DISTANCE_1",
+            "public_id": "deepjyoti-kalita-78b4411b9",
+            "tracking_id": "852086555"
+        },
+        {
+            "urn_id": "ACoAAC2aUPYBGPB-T9xDu2Hjrq7OgzRPu5nTvyE",
+            "distance": "DISTANCE_1",
+            "public_id": "jintudas",
+            "tracking_id": "765087990"
+        },
+        {
+            "urn_id": "ACoAACT67ZEBgw1Aprl8Aqy8zWMavdTyaWs7J3w",
+            "distance": "DISTANCE_1",
+            "public_id": "titikshya-das-015942153",
+            "tracking_id": "620424593"
+        },
+        {
+            "urn_id": "ACoAAAjgx0kBxJoPu_7t3kS1NbDizQekjIIzMbE",
+            "distance": "DISTANCE_1",
+            "public_id": "lakheswar-nath-289a7141",
+            "tracking_id": "148948809"
+        },
+        {
+            "urn_id": "ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE",
+            "distance": "DISTANCE_1",
+            "public_id": "prithoo11335",
+            "tracking_id": "231212168"
+        },
+        {
+            "urn_id": "ACoAACr0GSwBcmPDh22HqivG9h0JwG-eahXSYW8",
+            "distance": "DISTANCE_1",
+            "public_id": "nihar-kashyap98",
+            "tracking_id": "720640300"
+        },
+        {
+            "urn_id": "ACoAACeXhGEBEVCUXmKi5rowUSeFZNerPjvzQsc",
+            "distance": "DISTANCE_1",
+            "public_id": "mahbubul-haque-a55552166",
+            "tracking_id": "664241249"
+        },
+        {
+            "urn_id": "ACoAACzP6KMBcLKqKnFRpIudaukkoW4NoqstgrM",
+            "distance": "DISTANCE_1",
+            "public_id": "pranit-prakash-sahu",
+            "tracking_id": "751823011"
+        },
+        {
+            "urn_id": "ACoAACbTg-gBtT_YqZc-FG2lIVBv13QTx8UUB8E",
+            "distance": "DISTANCE_1",
+            "public_id": "mridul24",
+            "tracking_id": "651396072"
+        },
+        {
+            "urn_id": "ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY",
+            "distance": "DISTANCE_1",
+            "public_id": "tridip-das-b5837911b",
+            "tracking_id": "499568180"
+        },
+        {
+            "urn_id": "ACoAAAI9wXoBijRhLoxf7BO8UTK0DX-7KexJV30",
+            "distance": "DISTANCE_1",
+            "public_id": "boren-ghosh-27671410",
+            "tracking_id": "37601658"
+        },
+        {
+            "urn_id": "ACoAACZxhUQBl1V8kpLj4ACrE2LzpatGvVzEgSA",
+            "distance": "DISTANCE_1",
+            "public_id": "nabajyoti-borah-944000160",
+            "tracking_id": "644973892"
+        },
+        {
+            "urn_id": "ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8",
+            "distance": "DISTANCE_1",
+            "public_id": "sivaranjan-goswami-790b4523",
+            "tracking_id": "83451420"
+        },
+        {
+            "urn_id": "ACoAACTFIIYB1cK_syRcCXEc0o8RTm4JMlhYcHA",
+            "distance": "DISTANCE_1",
+            "public_id": "arun-kumar-nath-686721152",
+            "tracking_id": "616898694"
+        },
+        {
+            "urn_id": "ACoAACDVs-sB_IgxPBMHMRBfR6is3jmwwV_OvTE",
+            "distance": "DISTANCE_1",
+            "public_id": "swapnil-bhattacharjee-ghy",
+            "tracking_id": "550876139"
+        },
+        {
+            "urn_id": "ACoAACUEZ3QB2Xm0OWR0cqoc_u-o4KW_OENO1_8",
+            "distance": "DISTANCE_1",
+            "public_id": "rajan-sahu",
+            "tracking_id": "621045620"
+        },
+        {
+            "urn_id": "ACoAAC12ZqEBCx9JN_YIi1eF1FPPDif3mXI3fyc",
+            "distance": "DISTANCE_1",
+            "public_id": "abinash-panigrahi-169531193",
+            "tracking_id": "762734241"
+        },
+        {
+            "urn_id": "ACoAACYmrvgBRdvWxItbY_KP_fyrEgZ9U-QKJqk",
+            "distance": "DISTANCE_1",
+            "public_id": "rtsu",
+            "tracking_id": "640069368"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Machine Learning"
+        },
+        {
+            "name": "Python (Programming Language)"
+        },
+        {
+            "name": "JavaScript"
+        },
+        {
+            "name": "C (Programming Language)"
+        },
+        {
+            "name": "JSON"
+        },
+        {
+            "name": "REST APIs"
+        }
+    ]
+}

@@ -1,0 +1,1316 @@
+{
+    "profile": {
+        "summary": "Computer Science graduate looking for job opportunities in the IT/Software Industry. Skilled in Python, PHP, C++, JavaScript, and Java. Strong professional with a Master of Science - MSc focused in Computer Science from National Institute of Technology, Tiruchirappalli. ",
+        "industryName": "Software Development",
+        "lastName": "Bhattacharjee",
+        "address": "E-3, Swastik Greens, Udayan Path, Patorkuchi Road, Basistha Chariali, Guwahati, Assam",
+        "locationName": "India",
+        "student": false,
+        "geoCountryName": "India",
+        "geoCountryUrn": "urn:li:fs_geo:102713980",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "birthDate": {
+            "month": 5,
+            "day": 31
+        },
+        "industryUrn": "urn:li:fs_industry:4",
+        "firstName": "Swapnil",
+        "entityUrn": "urn:li:fs_profile:ACoAACDVs-sB_IgxPBMHMRBfR6is3jmwwV_OvTE",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:105607401"
+        },
+        "geoLocationName": "Guwahati, Assam",
+        "location": {
+            "basicLocation": {
+                "countryCode": "in"
+            }
+        },
+        "headline": "Programmer Analyst at TechVariable\u00ae | ME(AR)N | GraphQL | AWS",
+        "displayPictureUrl": "https://media-exp1.licdn.com/dms/image/C5103AQEsAPhpRHeq_w/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/0/1568283041722?e=1657756800&v=beta&t=RNtsJ6zMvOMmdtYpotl08_2mBB_yR5qlTkFc2uV7TF0",
+        "img_200_200": "200_200/0/1568283041722?e=1657756800&v=beta&t=xCHR6MRCbYzX7uSFG1Yd9Yi2Cpq5WUfWyQF8ZqhEm-k",
+        "img_400_400": "400_400/0/1568283041722?e=1657756800&v=beta&t=AsUV2LyCXniwd2Qnh8Pv8HGydbCjVJputw4dabZ7JAY",
+        "img_800_800": "800_800/0/1568283041722?e=1657756800&v=beta&t=OsOYsvnV28xgK9ZUnwnOdu4h0tsPe2_Cw9aEl65dUDk",
+        "profile_id": "ACoAACDVs-sB_IgxPBMHMRBfR6is3jmwwV_OvTE",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAACDVs-sB_IgxPBMHMRBfR6is3jmwwV_OvTE",
+        "member_urn": "urn:li:member:550876139",
+        "experience": [
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAACDVs-sB_IgxPBMHMRBfR6is3jmwwV_OvTE,1870809898)",
+                "companyName": "TechVariable",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 11,
+                        "year": 2021
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Programmer Analyst",
+                "companyUrn": "urn:li:fs_miniCompany:10632640",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQE6IzKHUZQmAA/company-logo_"
+            },
+            {
+                "locationName": "Tiruchchirappalli Area, India",
+                "entityUrn": "urn:li:fs_position:(ACoAACDVs-sB_IgxPBMHMRBfR6is3jmwwV_OvTE,1514606003)",
+                "geoLocationName": "Tiruchchirappalli Area, India",
+                "geoUrn": "urn:li:fs_geo:102713980",
+                "companyName": "Chegg India Private Ltd",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 11,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2019
+                    }
+                },
+                "company": {
+                    "industries": [
+                        "Hospital & Health Care"
+                    ]
+                },
+                "title": "Subject Matter Expert",
+                "region": "urn:li:fs_region:(in,7364)",
+                "companyUrn": "urn:li:fs_miniCompany:38034764"
+            },
+            {
+                "locationName": "Guwahati, Assam, India",
+                "entityUrn": "urn:li:fs_position:(ACoAACDVs-sB_IgxPBMHMRBfR6is3jmwwV_OvTE,1810939775)",
+                "geoLocationName": "Guwahati, Assam, India",
+                "geoUrn": "urn:li:fs_geo:105607401",
+                "companyName": "TechVariable\u00ae",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 10,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 7,
+                        "year": 2021
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Programmer Analyst Trainee",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:10632640",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQE6IzKHUZQmAA/company-logo_"
+            },
+            {
+                "locationName": "Tiruchchirappalli Area, India",
+                "entityUrn": "urn:li:fs_position:(ACoAACDVs-sB_IgxPBMHMRBfR6is3jmwwV_OvTE,1513531342)",
+                "geoLocationName": "Tiruchchirappalli Area, India",
+                "geoUrn": "urn:li:fs_geo:102713980",
+                "companyName": "Pi Club, NIT Trichy",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 5,
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "month": 5,
+                        "year": 2018
+                    }
+                },
+                "description": "Coordinating the every day functioning of the Club and the ongoing projects and ensuring that the timeline for delivery of the projects is followed strictly.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Computer Software"
+                    ]
+                },
+                "title": "Technical Head",
+                "region": "urn:li:fs_region:(in,7364)",
+                "companyUrn": "urn:li:fs_miniCompany:20417286",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C510BAQFh-ztoFVyukw/company-logo_"
+            },
+            {
+                "locationName": "Tiruchchirappalli Area, India",
+                "entityUrn": "urn:li:fs_position:(ACoAACDVs-sB_IgxPBMHMRBfR6is3jmwwV_OvTE,1513531314)",
+                "geoLocationName": "Tiruchchirappalli Area, India",
+                "geoUrn": "urn:li:fs_geo:102713980",
+                "companyName": "Optima, NIT Trichy",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 11,
+                        "year": 2018
+                    },
+                    "startDate": {
+                        "month": 7,
+                        "year": 2018
+                    }
+                },
+                "description": "Lead the Web Development Team for Optima, an annual national level Techno-Management Symposium conducted by the Department of Computer Applications, NIT Trichy.\nhttp://optima.nitt.edu/18/",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 2,
+                        "end": 10
+                    },
+                    "industries": [
+                        "Nonprofit Organization Management"
+                    ]
+                },
+                "title": "Head Of Web Development",
+                "region": "urn:li:fs_region:(in,7364)",
+                "companyUrn": "urn:li:fs_miniCompany:20421670",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C510BAQHb5vUCn1amNw/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "projects": [
+                    "urn:li:fs_project:(ACoAACDVs-sB_IgxPBMHMRBfR6is3jmwwV_OvTE,621936778)"
+                ],
+                "degreeName": "Master of Science - MSc",
+                "honors": [
+                    "urn:li:fs_honor:(ACoAACDVs-sB_IgxPBMHMRBfR6is3jmwwV_OvTE,622530071)",
+                    "urn:li:fs_honor:(ACoAACDVs-sB_IgxPBMHMRBfR6is3jmwwV_OvTE,622689302)",
+                    "urn:li:fs_honor:(ACoAACDVs-sB_IgxPBMHMRBfR6is3jmwwV_OvTE,623535172)"
+                ],
+                "schoolUrn": "urn:li:fs_miniSchool:20403",
+                "entityUrn": "urn:li:fs_education:(ACoAACDVs-sB_IgxPBMHMRBfR6is3jmwwV_OvTE,612707913)",
+                "school": {
+                    "objectUrn": "urn:li:school:20403",
+                    "entityUrn": "urn:li:fs_miniSchool:20403",
+                    "active": true,
+                    "schoolName": "National Institute of Technology, Tiruchirappalli",
+                    "trackingId": "GrfMIRuiRg2lW7B+1MF9og==",
+                    "logoUrl": "https://media-exp1.licdn.com/dms/image/C560BAQG_ucXVUxFz0Q/company-logo_"
+                },
+                "activities": "Pi Club NITT, General Secretary (2018-19),\nOptima, NIT Trichy, Web Developer (2018)\nOptima NIT Trichy, WebCetra, Event Head (2017,2018)",
+                "grade": "A+",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "year": 2017
+                    }
+                },
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100189",
+                "schoolName": "National Institute of Technology, Tiruchirappalli",
+                "fieldOfStudy": "Computer Science"
+            },
+            {
+                "projects": [
+                    "urn:li:fs_project:(ACoAACDVs-sB_IgxPBMHMRBfR6is3jmwwV_OvTE,1065094740)"
+                ],
+                "entityUrn": "urn:li:fs_education:(ACoAACDVs-sB_IgxPBMHMRBfR6is3jmwwV_OvTE,382632173)",
+                "school": {
+                    "objectUrn": "urn:li:school:5097230",
+                    "entityUrn": "urn:li:fs_miniSchool:5097230",
+                    "active": true,
+                    "schoolName": "Cotton University",
+                    "trackingId": "Sv7n6/ciQZ2TFuXIw4jqiQ==",
+                    "logoUrl": "https://media-exp1.licdn.com/dms/image/C510BAQGRd0nj9XsJww/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2017
+                    },
+                    "startDate": {
+                        "year": 2014
+                    }
+                },
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100189",
+                "degreeName": "Bachelor of Science - BSc",
+                "schoolName": "Cotton University",
+                "fieldOfStudy": "Computer Science",
+                "schoolUrn": "urn:li:fs_miniSchool:5097230"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAACDVs-sB_IgxPBMHMRBfR6is3jmwwV_OvTE,612711375)",
+                "school": {
+                    "objectUrn": "urn:li:school:20331",
+                    "entityUrn": "urn:li:fs_miniSchool:20331",
+                    "active": true,
+                    "schoolName": "Kendriya Vidyalaya",
+                    "trackingId": "NH0Bx5D0Q565dJFTi5o2bA==",
+                    "logoUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQFiB3Otc6s1Mw/company-logo_"
+                },
+                "grade": "A-",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2014
+                    },
+                    "startDate": {
+                        "year": 2012
+                    }
+                },
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100865",
+                "degreeName": "High School Diploma",
+                "schoolName": "Kendriya Vidyalaya",
+                "fieldOfStudy": "Physical Sciences",
+                "degreeUrn": "urn:li:fs_degree:10",
+                "schoolUrn": "urn:li:fs_miniSchool:20331"
+            }
+        ],
+        "languages": [
+            {
+                "name": "Assamese",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "Bengali",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "English",
+                "proficiency": "PROFESSIONAL_WORKING"
+            },
+            {
+                "name": "Hindi",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ],
+        "publications": [],
+        "certifications": [
+            {
+                "authority": "Intel Corporation",
+                "name": "AI From the Data Center to the Edge \u2013 An Optimized Path Using Intel\u00ae Architecture",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 8,
+                        "year": 2019
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:1053",
+                    "entityUrn": "urn:li:fs_miniCompany:1053",
+                    "name": "Intel Corporation",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1625151708870?e=1660176000&v=beta&t=A8RbCNuVUmy0oPuZgZj0msVwr6PwSkuyPVL1-JRrers",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1625151708870?e=1660176000&v=beta&t=LX7R2_Uny1wtVDZ3CdWeeKftJsQw_FLUoDF5r3C_h7w",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1625151708870?e=1660176000&v=beta&t=dA4eFidScSgBYZSyh99nWnq6KUUFjp_aQ023hrVR-Ys",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQGpvWtEtj9oTQ/company-logo_"
+                        }
+                    },
+                    "universalName": "intel-corporation",
+                    "dashCompanyUrn": "urn:li:fsd_company:1053",
+                    "trackingId": "u1EBdTdDQRqT7aP6p/5GKA=="
+                },
+                "displaySource": "credential.net",
+                "companyUrn": "urn:li:fs_miniCompany:1053",
+                "url": "https://www.credential.net/vxstea9h"
+            },
+            {
+                "authority": "Google Developers",
+                "name": "Machine Learning Crash Course",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 10,
+                        "year": 2018
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:25013385",
+                    "entityUrn": "urn:li:fs_miniCompany:25013385",
+                    "name": "Google Developers",
+                    "showcase": true,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1615318650285?e=1660176000&v=beta&t=OTBGapDZVrnTp9T56Cpe6CM8uq5hKp-gzIlS6b9ZYUk",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1615318650285?e=1660176000&v=beta&t=vB43IqAZUq2CpdFECZSxL0sZRFi9IEp3vZ095AG60OI",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1615318650285?e=1660176000&v=beta&t=RuRKpcV28N_64J4EeCoZSl2Bu-HQSzSDIGNWBDdwIIA",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQEx8fTz8QFKvw/company-logo_"
+                        }
+                    },
+                    "universalName": "googledevelopers",
+                    "dashCompanyUrn": "urn:li:fsd_company:25013385",
+                    "trackingId": "OUYp9e5hQYCYus+DgS+JfQ=="
+                },
+                "displaySource": "google.com",
+                "companyUrn": "urn:li:fs_miniCompany:25013385",
+                "url": "https://drive.google.com/open?id=0B55scKjdY63IOHNaaGV2WDZWWnc0WExJZmtVVDU2VHdpYVlJ"
+            },
+            {
+                "authority": "Coursera",
+                "name": "Machine Learning by Stanford University on Coursera",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 9,
+                        "year": 2019
+                    }
+                },
+                "licenseNumber": "8CC5QTFVXLFS",
+                "company": {
+                    "objectUrn": "urn:li:company:2453129",
+                    "entityUrn": "urn:li:fs_miniCompany:2453129",
+                    "name": "Coursera",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1608039227697?e=1660176000&v=beta&t=24dSeYZFSUztRaUy6-QqI0GSTK5-7tfyOci9sanIOTE",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1608039227697?e=1660176000&v=beta&t=8mJvTc5z6PI8olmLRWSi-xaA6ZOeYWkWcZiqxFWbrhE",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1608039227697?e=1660176000&v=beta&t=o8C5zQF49vmVYRAgj4K1Q2W5kUw9P0IZwKQoBFhnmDc",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQGexnfBxeEG-g/company-logo_"
+                        }
+                    },
+                    "universalName": "coursera",
+                    "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                    "trackingId": "fkUsemtTRmua2un5jDkmCw=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:2453129",
+                "url": "https://www.coursera.org/account/accomplishments/verify/8CC5QTFVXLFS"
+            },
+            {
+                "authority": "freeCodeCamp",
+                "name": "Front End Libraries",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 4,
+                        "year": 2021
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:4831032",
+                    "entityUrn": "urn:li:fs_miniCompany:4831032",
+                    "name": "freeCodeCamp",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1589990867649?e=1660176000&v=beta&t=O28l-c8WkjnpkL7Jd_lci4U2-7R_E6XS0OiIl75oYo0",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1589990867649?e=1660176000&v=beta&t=xfW4p5dbX2HvOz84qMCBKO8h1LTGLA4D_KXkz2D6spU",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1589990867649?e=1660176000&v=beta&t=ptWZ47imj94d51Gx-7QNcm9VJM4fgKRUusHHu3JMqdM",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQGLKj3JHcof0w/company-logo_"
+                        }
+                    },
+                    "universalName": "free-code-camp",
+                    "dashCompanyUrn": "urn:li:fsd_company:4831032",
+                    "trackingId": "HC/2VNWGS2ycdjkeLm/TBg=="
+                },
+                "displaySource": "freecodecamp.org",
+                "companyUrn": "urn:li:fs_miniCompany:4831032",
+                "url": "https://freecodecamp.org/certification/swapnilb31/front-end-libraries"
+            },
+            {
+                "authority": "freeCodeCamp",
+                "name": "JavaScript Algorithms and Data Structures",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 4,
+                        "year": 2021
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:4831032",
+                    "entityUrn": "urn:li:fs_miniCompany:4831032",
+                    "name": "freeCodeCamp",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1589990867649?e=1660176000&v=beta&t=O28l-c8WkjnpkL7Jd_lci4U2-7R_E6XS0OiIl75oYo0",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1589990867649?e=1660176000&v=beta&t=xfW4p5dbX2HvOz84qMCBKO8h1LTGLA4D_KXkz2D6spU",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1589990867649?e=1660176000&v=beta&t=ptWZ47imj94d51Gx-7QNcm9VJM4fgKRUusHHu3JMqdM",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQGLKj3JHcof0w/company-logo_"
+                        }
+                    },
+                    "universalName": "free-code-camp",
+                    "dashCompanyUrn": "urn:li:fsd_company:4831032",
+                    "trackingId": "LsdmTABjQDCP0cFdB3Y+wA=="
+                },
+                "displaySource": "freecodecamp.org",
+                "companyUrn": "urn:li:fs_miniCompany:4831032",
+                "url": "https://freecodecamp.org/certification/swapnilb31/javascript-algorithms-and-data-structures"
+            },
+            {
+                "authority": "freeCodeCamp",
+                "name": "APIs and Microservices",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 5,
+                        "year": 2021
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:4831032",
+                    "entityUrn": "urn:li:fs_miniCompany:4831032",
+                    "name": "freeCodeCamp",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1589990867649?e=1660176000&v=beta&t=O28l-c8WkjnpkL7Jd_lci4U2-7R_E6XS0OiIl75oYo0",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1589990867649?e=1660176000&v=beta&t=xfW4p5dbX2HvOz84qMCBKO8h1LTGLA4D_KXkz2D6spU",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1589990867649?e=1660176000&v=beta&t=ptWZ47imj94d51Gx-7QNcm9VJM4fgKRUusHHu3JMqdM",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQGLKj3JHcof0w/company-logo_"
+                        }
+                    },
+                    "universalName": "free-code-camp",
+                    "dashCompanyUrn": "urn:li:fsd_company:4831032",
+                    "trackingId": "DF2ak4oCQ1GvLzNEYu4iMQ=="
+                },
+                "displaySource": "freecodecamp.org",
+                "companyUrn": "urn:li:fs_miniCompany:4831032",
+                "url": "https://freecodecamp.org/certification/swapnilb31/apis-and-microservices"
+            }
+        ],
+        "volunteer": [],
+        "honors": [
+            {
+                "description": "For securing the Highest CGPA in the Academic Session 2017-18",
+                "occupation": "urn:li:fs_education:(ACoAACDVs-sB_IgxPBMHMRBfR6is3jmwwV_OvTE,612707913)",
+                "title": "Academic Proficiency Prize",
+                "issueDate": {
+                    "month": 4,
+                    "year": 2019
+                },
+                "issuer": "National Institute of Technology Tiruchirappalli"
+            },
+            {
+                "description": "Outstanding Student in M.Sc. Computer Science for the Year 2018-19",
+                "occupation": "urn:li:fs_education:(ACoAACDVs-sB_IgxPBMHMRBfR6is3jmwwV_OvTE,612707913)",
+                "title": "Outstanding Student in M.Sc. Computer Science",
+                "issueDate": {
+                    "month": 4,
+                    "year": 2019
+                },
+                "issuer": "RECAL, The Alumni Association of National Institute of Technology, Tiruchirappalli"
+            },
+            {
+                "occupation": "urn:li:fs_education:(ACoAACDVs-sB_IgxPBMHMRBfR6is3jmwwV_OvTE,612707913)",
+                "title": "First Prize, Ideatum - Entrepreneurship Event, Infotrek",
+                "issueDate": {
+                    "month": 3,
+                    "year": 2018
+                },
+                "issuer": "ACM Student Chapter, NIT Trichy"
+            }
+        ],
+        "projects": [
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Swapnil",
+                            "lastName": "Bhattacharjee",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACDVs-sB_IgxPBMHMRBfR6is3jmwwV_OvTE",
+                            "occupation": "Programmer Analyst at TechVariable\u00ae | ME(AR)N | GraphQL | AWS",
+                            "objectUrn": "urn:li:member:550876139",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACDVs-sB_IgxPBMHMRBfR6is3jmwwV_OvTE",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1626758570128?e=1657756800&v=beta&t=ZfWzmwA5fm8MV9CdIr67DrAv912s2FURNBpQXXcZBIY",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1626758570128?e=1657756800&v=beta&t=3BgkISPniBEFedux7DTjCzYURExKF6X4j00lKiDk9OM",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D16AQHZPzLsFE0_Wg/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "swapnil-bhattacharjee-ghy",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1568283041722?e=1657756800&v=beta&t=RNtsJ6zMvOMmdtYpotl08_2mBB_yR5qlTkFc2uV7TF0",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1568283041722?e=1657756800&v=beta&t=xCHR6MRCbYzX7uSFG1Yd9Yi2Cpq5WUfWyQF8ZqhEm-k",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1568283041722?e=1657756800&v=beta&t=AsUV2LyCXniwd2Qnh8Pv8HGydbCjVJputw4dabZ7JAY",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1568283041722?e=1657756800&v=beta&t=OsOYsvnV28xgK9ZUnwnOdu4h0tsPe2_Cw9aEl65dUDk",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5103AQEsAPhpRHeq_w/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "RU49updVSj+h3aMIzpaRZA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAACDVs-sB_IgxPBMHMRBfR6is3jmwwV_OvTE,1373529629,307806153)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACDVs-sB_IgxPBMHMRBfR6is3jmwwV_OvTE"
+                    }
+                ],
+                "timePeriod": {
+                    "startDate": {
+                        "month": 5,
+                        "year": 2021
+                    }
+                },
+                "description": "Covid-19 vaccine appointments in India have become scarce and difficult to make. With the rush of people trying to get a slot, getting it manually using CoWin or Arogya Setu has become and ardous task. This node.js app intends to remedy that. Using puppeteer it commands a headless Chromium instance and polls the cowin-api as much as 50 times in a minute (bypasing the rate limit of 100 calls/ 5 min for the public API) by calling a private API endpoint and simulating real user interaction. It looks for available vaccination sessions in the district you supply in the config file in the next six days and sends you an email notifying you available slots as and when they become available.",
+                "title": "covid-vaccine-appointment-finder",
+                "url": "https://github.com/SwapnilB31/covid-vaccine-appointment-notifier"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Swapnil",
+                            "lastName": "Bhattacharjee",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACDVs-sB_IgxPBMHMRBfR6is3jmwwV_OvTE",
+                            "occupation": "Programmer Analyst at TechVariable\u00ae | ME(AR)N | GraphQL | AWS",
+                            "objectUrn": "urn:li:member:550876139",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACDVs-sB_IgxPBMHMRBfR6is3jmwwV_OvTE",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1626758570128?e=1657756800&v=beta&t=ZfWzmwA5fm8MV9CdIr67DrAv912s2FURNBpQXXcZBIY",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1626758570128?e=1657756800&v=beta&t=3BgkISPniBEFedux7DTjCzYURExKF6X4j00lKiDk9OM",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D16AQHZPzLsFE0_Wg/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "swapnil-bhattacharjee-ghy",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1568283041722?e=1657756800&v=beta&t=RNtsJ6zMvOMmdtYpotl08_2mBB_yR5qlTkFc2uV7TF0",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1568283041722?e=1657756800&v=beta&t=xCHR6MRCbYzX7uSFG1Yd9Yi2Cpq5WUfWyQF8ZqhEm-k",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1568283041722?e=1657756800&v=beta&t=AsUV2LyCXniwd2Qnh8Pv8HGydbCjVJputw4dabZ7JAY",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1568283041722?e=1657756800&v=beta&t=OsOYsvnV28xgK9ZUnwnOdu4h0tsPe2_Cw9aEl65dUDk",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5103AQEsAPhpRHeq_w/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "RU49updVSj+h3aMIzpaRZA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAACDVs-sB_IgxPBMHMRBfR6is3jmwwV_OvTE,367496187,301247353)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACDVs-sB_IgxPBMHMRBfR6is3jmwwV_OvTE"
+                    }
+                ],
+                "timePeriod": {
+                    "startDate": {
+                        "month": 3,
+                        "year": 2021
+                    }
+                },
+                "description": "Simple file picker that lets users pick files from a directory tree. Supports navigation inside a nested file structure and allows for customizations such as filtering files based on extension and custom icons for different file types. Can be used as the UI for accessing the file system of a file server that has the navigation logic built into it, you just need to pass into it a function that will return the directory entries for a given path. Compatible with the directory-tree generated by node-file-tree-explorer on the server side.\n\ndocumentation : https://github.com/SwapnilB31/react-file-picker",
+                "title": "react-file-picker",
+                "url": "https://www.npmjs.com/package/react-file-picker-ui"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Swapnil",
+                            "lastName": "Bhattacharjee",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACDVs-sB_IgxPBMHMRBfR6is3jmwwV_OvTE",
+                            "occupation": "Programmer Analyst at TechVariable\u00ae | ME(AR)N | GraphQL | AWS",
+                            "objectUrn": "urn:li:member:550876139",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACDVs-sB_IgxPBMHMRBfR6is3jmwwV_OvTE",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1626758570128?e=1657756800&v=beta&t=ZfWzmwA5fm8MV9CdIr67DrAv912s2FURNBpQXXcZBIY",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1626758570128?e=1657756800&v=beta&t=3BgkISPniBEFedux7DTjCzYURExKF6X4j00lKiDk9OM",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D16AQHZPzLsFE0_Wg/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "swapnil-bhattacharjee-ghy",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1568283041722?e=1657756800&v=beta&t=RNtsJ6zMvOMmdtYpotl08_2mBB_yR5qlTkFc2uV7TF0",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1568283041722?e=1657756800&v=beta&t=xCHR6MRCbYzX7uSFG1Yd9Yi2Cpq5WUfWyQF8ZqhEm-k",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1568283041722?e=1657756800&v=beta&t=AsUV2LyCXniwd2Qnh8Pv8HGydbCjVJputw4dabZ7JAY",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1568283041722?e=1657756800&v=beta&t=OsOYsvnV28xgK9ZUnwnOdu4h0tsPe2_Cw9aEl65dUDk",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5103AQEsAPhpRHeq_w/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "RU49updVSj+h3aMIzpaRZA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAACDVs-sB_IgxPBMHMRBfR6is3jmwwV_OvTE,367286791,301245952)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACDVs-sB_IgxPBMHMRBfR6is3jmwwV_OvTE"
+                    }
+                ],
+                "timePeriod": {
+                    "startDate": {
+                        "month": 2,
+                        "year": 2021
+                    }
+                },
+                "description": "node-file-tree-explorer is a package for Node.js that converts file/directory structure into JavaScript objects. It also features additional methods that aid in customizing the output. It works on both windows and linux machines. \n\ndocumentation : https://github.com/SwapnilB31/node-file-tree",
+                "title": "node-file-tree-explorer",
+                "url": "https://www.npmjs.com/package/node-file-tree-explorer"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Swapnil",
+                            "lastName": "Bhattacharjee",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACDVs-sB_IgxPBMHMRBfR6is3jmwwV_OvTE",
+                            "occupation": "Programmer Analyst at TechVariable\u00ae | ME(AR)N | GraphQL | AWS",
+                            "objectUrn": "urn:li:member:550876139",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACDVs-sB_IgxPBMHMRBfR6is3jmwwV_OvTE",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1626758570128?e=1657756800&v=beta&t=ZfWzmwA5fm8MV9CdIr67DrAv912s2FURNBpQXXcZBIY",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1626758570128?e=1657756800&v=beta&t=3BgkISPniBEFedux7DTjCzYURExKF6X4j00lKiDk9OM",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D16AQHZPzLsFE0_Wg/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "swapnil-bhattacharjee-ghy",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1568283041722?e=1657756800&v=beta&t=RNtsJ6zMvOMmdtYpotl08_2mBB_yR5qlTkFc2uV7TF0",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1568283041722?e=1657756800&v=beta&t=xCHR6MRCbYzX7uSFG1Yd9Yi2Cpq5WUfWyQF8ZqhEm-k",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1568283041722?e=1657756800&v=beta&t=AsUV2LyCXniwd2Qnh8Pv8HGydbCjVJputw4dabZ7JAY",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1568283041722?e=1657756800&v=beta&t=OsOYsvnV28xgK9ZUnwnOdu4h0tsPe2_Cw9aEl65dUDk",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5103AQEsAPhpRHeq_w/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "RU49updVSj+h3aMIzpaRZA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAACDVs-sB_IgxPBMHMRBfR6is3jmwwV_OvTE,1961218212,313035030)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACDVs-sB_IgxPBMHMRBfR6is3jmwwV_OvTE"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 5,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 5,
+                        "year": 2021
+                    }
+                },
+                "description": "Book My Vaccine is an android app created with React-Native that helps you find and book available covi19-vaccine slots in your area. It has an alert feature that lets users run a background service that queries the CoWIN Public API periodically for a user selected district/postal area and pushes a local notification as and when slots become available. It also supports Auto Sign In (App reads SMS OTP and signs you in), Beneficiary Management and In-App Appointment Scheduling.",
+                "title": "BookMyVaccine",
+                "url": "https://github.com/SwapnilB31/BookMyVaccine"
+            },
+            {
+                "occupation": "urn:li:fs_education:(ACoAACDVs-sB_IgxPBMHMRBfR6is3jmwwV_OvTE,612707913)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Swapnil",
+                            "lastName": "Bhattacharjee",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACDVs-sB_IgxPBMHMRBfR6is3jmwwV_OvTE",
+                            "occupation": "Programmer Analyst at TechVariable\u00ae | ME(AR)N | GraphQL | AWS",
+                            "objectUrn": "urn:li:member:550876139",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACDVs-sB_IgxPBMHMRBfR6is3jmwwV_OvTE",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1626758570128?e=1657756800&v=beta&t=ZfWzmwA5fm8MV9CdIr67DrAv912s2FURNBpQXXcZBIY",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1626758570128?e=1657756800&v=beta&t=3BgkISPniBEFedux7DTjCzYURExKF6X4j00lKiDk9OM",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D16AQHZPzLsFE0_Wg/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "swapnil-bhattacharjee-ghy",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1568283041722?e=1657756800&v=beta&t=RNtsJ6zMvOMmdtYpotl08_2mBB_yR5qlTkFc2uV7TF0",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1568283041722?e=1657756800&v=beta&t=xCHR6MRCbYzX7uSFG1Yd9Yi2Cpq5WUfWyQF8ZqhEm-k",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1568283041722?e=1657756800&v=beta&t=AsUV2LyCXniwd2Qnh8Pv8HGydbCjVJputw4dabZ7JAY",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1568283041722?e=1657756800&v=beta&t=OsOYsvnV28xgK9ZUnwnOdu4h0tsPe2_Cw9aEl65dUDk",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5103AQEsAPhpRHeq_w/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "RU49updVSj+h3aMIzpaRZA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAACDVs-sB_IgxPBMHMRBfR6is3jmwwV_OvTE,621936778,237569821)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACDVs-sB_IgxPBMHMRBfR6is3jmwwV_OvTE"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2019
+                    }
+                },
+                "description": "SmallWorks is a Services Aggregator that provides various household services like cleaning, painting, refurbishing, upholstery. electrical and electronics repairs to its users. Besides the service offerings the platform also offers Maintenance Packages that provide, weekly, monthly, quarterly maintenance of their furniture, household items, gadgets and or vehicles. We provide real time geographical tracking of goods and services that lets users follow their order all the way through. Once the user places and order, an estimated cost is presented to the user for the said service/repair, which is processed further if the user accepts the estimate. After which the order is sent to the workers, and is picked up and completed by one of the workers registered on our platform. Workers get turn by turn navigation to the  work site (Google Maps API) on the SmallWorks Partner App. Where they can track their progress, payments, goals and milestones. The Administration module provides functions such as inventory, asset, stock, area, location, catalogue, employee, payment management etc.\n\nTechnology Stack Used: MongoDB, MySQL, Node.js, Express.js, Bootstrap4, Apache Cordova, Google Maps API, Google Speech API, AWS EC2 ",
+                "title": "SmallWorks - Home Services Aggregator",
+                "url": "http://smallworks.in"
+            },
+            {
+                "occupation": "urn:li:fs_education:(ACoAACDVs-sB_IgxPBMHMRBfR6is3jmwwV_OvTE,382632173)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Swapnil",
+                            "lastName": "Bhattacharjee",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACDVs-sB_IgxPBMHMRBfR6is3jmwwV_OvTE",
+                            "occupation": "Programmer Analyst at TechVariable\u00ae | ME(AR)N | GraphQL | AWS",
+                            "objectUrn": "urn:li:member:550876139",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACDVs-sB_IgxPBMHMRBfR6is3jmwwV_OvTE",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1626758570128?e=1657756800&v=beta&t=ZfWzmwA5fm8MV9CdIr67DrAv912s2FURNBpQXXcZBIY",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1626758570128?e=1657756800&v=beta&t=3BgkISPniBEFedux7DTjCzYURExKF6X4j00lKiDk9OM",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D16AQHZPzLsFE0_Wg/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "swapnil-bhattacharjee-ghy",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1568283041722?e=1657756800&v=beta&t=RNtsJ6zMvOMmdtYpotl08_2mBB_yR5qlTkFc2uV7TF0",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1568283041722?e=1657756800&v=beta&t=xCHR6MRCbYzX7uSFG1Yd9Yi2Cpq5WUfWyQF8ZqhEm-k",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1568283041722?e=1657756800&v=beta&t=AsUV2LyCXniwd2Qnh8Pv8HGydbCjVJputw4dabZ7JAY",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1568283041722?e=1657756800&v=beta&t=OsOYsvnV28xgK9ZUnwnOdu4h0tsPe2_Cw9aEl65dUDk",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5103AQEsAPhpRHeq_w/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "RU49updVSj+h3aMIzpaRZA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAACDVs-sB_IgxPBMHMRBfR6is3jmwwV_OvTE,1065094740,238405274)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACDVs-sB_IgxPBMHMRBfR6is3jmwwV_OvTE"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2017
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2017
+                    }
+                },
+                "description": "SQLNavigator is a Database Administration Utility written in Java, and it supports three popular Database Applications, namely - MySQL, Microsoft SQL Server Express and Oracle XE.\nIt is serves as a GUI Front-end for the DBA, and essentially lets the user perform various operations on the Database such as Create Databases and Tables, Insert into tables, update the tables, alter the tables, drop tables and delete databases, create backups etc. without having to learn SQL.",
+                "title": "SQLNavigator",
+                "url": "https://github.com/SwapnilB31/SQLNavigator"
+            }
+        ]
+    },
+    "contact_info": {
+        "email_address": "swapnilbhattacharjee187@gmail.com",
+        "websites": [
+            {
+                "url": "https://github.com/SwapnilB31"
+            }
+        ],
+        "twitter": [],
+        "birthdate": {
+            "month": 5,
+            "day": 31
+        },
+        "ims": null,
+        "phone_numbers": [
+            {
+                "type": "HOME",
+                "number": "8638308097"
+            }
+        ]
+    },
+    "connections": [
+        {
+            "urn_id": "ACoAAC24GToBKzC8vS7jZaCEqoq3Jse_M2Tson8",
+            "distance": "DISTANCE_1",
+            "public_id": "abhijit-paul-936a68194",
+            "tracking_id": "767039802"
+        },
+        {
+            "urn_id": "ACoAAByhqogBLFVDJbqojrVMhtKfC3o3hRfEcjg",
+            "distance": "DISTANCE_1",
+            "public_id": "biki-talukdar-460a54114",
+            "tracking_id": "480357000"
+        },
+        {
+            "urn_id": "ACoAABr4jt0BoOUmisITdRo1gR4CumG5I4jjZIw",
+            "distance": "DISTANCE_1",
+            "public_id": "samudra-deka-911659107",
+            "tracking_id": "452497117"
+        },
+        {
+            "urn_id": "ACoAADZmR9QB1zOH_PmrzQQw2wQmTJRTcNGU7CE",
+            "distance": "DISTANCE_1",
+            "public_id": "bkalita",
+            "tracking_id": "912672724"
+        },
+        {
+            "urn_id": "ACoAADLJzxsBizdB0nN5NZBCM41Q-z6-7ef5gyI",
+            "distance": "DISTANCE_1",
+            "public_id": "deepjyoti-kalita-78b4411b9",
+            "tracking_id": "852086555"
+        },
+        {
+            "urn_id": "ACoAADe3CFYBsoFdtSEajXbg51HDagdpBEb3kx4",
+            "distance": "DISTANCE_1",
+            "public_id": "binud-panging-872062221",
+            "tracking_id": "934742102"
+        },
+        {
+            "urn_id": "ACoAAC2aUPYBGPB-T9xDu2Hjrq7OgzRPu5nTvyE",
+            "distance": "DISTANCE_1",
+            "public_id": "jintudas",
+            "tracking_id": "765087990"
+        },
+        {
+            "urn_id": "ACoAACT67ZEBgw1Aprl8Aqy8zWMavdTyaWs7J3w",
+            "distance": "DISTANCE_1",
+            "public_id": "titikshya-das-015942153",
+            "tracking_id": "620424593"
+        },
+        {
+            "urn_id": "ACoAAAjgx0kBxJoPu_7t3kS1NbDizQekjIIzMbE",
+            "distance": "DISTANCE_1",
+            "public_id": "lakheswar-nath-289a7141",
+            "tracking_id": "148948809"
+        },
+        {
+            "urn_id": "ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE",
+            "distance": "DISTANCE_1",
+            "public_id": "prithoo11335",
+            "tracking_id": "231212168"
+        },
+        {
+            "urn_id": "ACoAACr0GSwBcmPDh22HqivG9h0JwG-eahXSYW8",
+            "distance": "DISTANCE_1",
+            "public_id": "nihar-kashyap98",
+            "tracking_id": "720640300"
+        },
+        {
+            "urn_id": "ACoAACzP6KMBcLKqKnFRpIudaukkoW4NoqstgrM",
+            "distance": "DISTANCE_1",
+            "public_id": "pranit-prakash-sahu",
+            "tracking_id": "751823011"
+        },
+        {
+            "urn_id": "ACoAACbTg-gBtT_YqZc-FG2lIVBv13QTx8UUB8E",
+            "distance": "DISTANCE_1",
+            "public_id": "mridul24",
+            "tracking_id": "651396072"
+        },
+        {
+            "urn_id": "ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY",
+            "distance": "DISTANCE_1",
+            "public_id": "tridip-das-b5837911b",
+            "tracking_id": "499568180"
+        },
+        {
+            "urn_id": "ACoAACZxhUQBl1V8kpLj4ACrE2LzpatGvVzEgSA",
+            "distance": "DISTANCE_1",
+            "public_id": "nabajyoti-borah-944000160",
+            "tracking_id": "644973892"
+        },
+        {
+            "urn_id": "ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8",
+            "distance": "DISTANCE_1",
+            "public_id": "sivaranjan-goswami-790b4523",
+            "tracking_id": "83451420"
+        },
+        {
+            "urn_id": "ACoAACTFIIYB1cK_syRcCXEc0o8RTm4JMlhYcHA",
+            "distance": "DISTANCE_1",
+            "public_id": "arun-kumar-nath-686721152",
+            "tracking_id": "616898694"
+        },
+        {
+            "urn_id": "ACoAACYmrvgBRdvWxItbY_KP_fyrEgZ9U-QKJqk",
+            "distance": "DISTANCE_1",
+            "public_id": "rtsu",
+            "tracking_id": "640069368"
+        },
+        {
+            "urn_id": "ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc",
+            "distance": "DISTANCE_1",
+            "public_id": "ratnadeep-bhattacharjee",
+            "tracking_id": "135079003"
+        },
+        {
+            "urn_id": "ACoAAAR5v8MBjPwCvp8TP9RWZyGSeNYNiJ1wKJE",
+            "distance": "DISTANCE_1",
+            "public_id": "nilotpal-boruah",
+            "tracking_id": "75087811"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Python (Programming Language)",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:1346",
+            "standardizedSkill": {
+                "name": "Python (Programming Language)",
+                "entityUrn": "urn:li:fs_miniSkill:1346"
+            }
+        },
+        {
+            "name": "React.js"
+        },
+        {
+            "name": "Node.js",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:18276",
+            "standardizedSkill": {
+                "name": "Node.js",
+                "entityUrn": "urn:li:fs_miniSkill:18276"
+            }
+        },
+        {
+            "name": "Java"
+        },
+        {
+            "name": "C++"
+        },
+        {
+            "name": "C"
+        },
+        {
+            "name": "JavaScript",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:218",
+            "standardizedSkill": {
+                "name": "JavaScript",
+                "entityUrn": "urn:li:fs_miniSkill:218"
+            }
+        },
+        {
+            "name": "PHP"
+        },
+        {
+            "name": "SQL"
+        },
+        {
+            "name": "MongoDB"
+        },
+        {
+            "name": "JSON"
+        },
+        {
+            "name": "SASS"
+        },
+        {
+            "name": "React Native"
+        },
+        {
+            "name": "Hindi",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:2851",
+            "standardizedSkill": {
+                "name": "Hindi",
+                "entityUrn": "urn:li:fs_miniSkill:2851"
+            }
+        },
+        {
+            "name": "English"
+        },
+        {
+            "name": "Bengali"
+        },
+        {
+            "name": "Assamese"
+        },
+        {
+            "name": "Apache Cordova"
+        },
+        {
+            "name": "Redux.js"
+        },
+        {
+            "name": "GraphQL"
+        },
+        {
+            "name": "TypeScript"
+        }
+    ]
+}

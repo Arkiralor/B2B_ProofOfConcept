@@ -1,0 +1,265 @@
+{
+    "profile": {
+        "industryName": "Software Development",
+        "lastName": "Kalita",
+        "locationName": "India",
+        "student": false,
+        "geoCountryName": "India",
+        "geoCountryUrn": "urn:li:fs_geo:102713980",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "industryUrn": "urn:li:fs_industry:4",
+        "firstName": "Kalyan Jyoti",
+        "entityUrn": "urn:li:fs_profile:ACoAAAQaYrkBUycz7cbE9xgPUzDVSU1MQUJoMrA",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:101944557"
+        },
+        "geoLocationName": "Hajo, Assam",
+        "location": {
+            "basicLocation": {
+                "countryCode": "in"
+            }
+        },
+        "headline": "Senior UI Developer at NURD TechVariable Pvt. Ltd.",
+        "displayPictureUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQGm03YZM837nA/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/0/1625830423812?e=1657756800&v=beta&t=JG-EjtBL5WnQFux19Qml6VK2o4XlPHxmFBmMRz00gZg",
+        "img_200_200": "200_200/0/1625830423812?e=1657756800&v=beta&t=n8-dD9lhe50Xoh2NJAqtqyXvbrCMPv6v9r25IVM5Qnk",
+        "img_400_400": "400_400/0/1625830423812?e=1657756800&v=beta&t=v-q97kA9rmciy3fqEZ7mQaLC5GVZ2jxfP84b6jFiRCo",
+        "img_800_800": "800_800/0/1625830423812?e=1657756800&v=beta&t=ZAhvY_Wb37vzhXCkC3H8H6PpM_dq34TE3ApP14xpI_U",
+        "profile_id": "ACoAAAQaYrkBUycz7cbE9xgPUzDVSU1MQUJoMrA",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAAAQaYrkBUycz7cbE9xgPUzDVSU1MQUJoMrA",
+        "member_urn": "urn:li:member:68838073",
+        "experience": [
+            {
+                "locationName": "Guwahati Area, India",
+                "entityUrn": "urn:li:fs_position:(ACoAAAQaYrkBUycz7cbE9xgPUzDVSU1MQUJoMrA,1135632515)",
+                "geoLocationName": "Guwahati Area, India",
+                "geoUrn": "urn:li:fs_geo:104535556",
+                "companyName": "TechVariable",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 8,
+                        "year": 2017
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Senior UI Developer",
+                "region": "urn:li:fs_region:(in,7248)",
+                "companyUrn": "urn:li:fs_miniCompany:10632640",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQE6IzKHUZQmAA/company-logo_"
+            },
+            {
+                "locationName": "Guwahati Area, India",
+                "entityUrn": "urn:li:fs_position:(ACoAAAQaYrkBUycz7cbE9xgPUzDVSU1MQUJoMrA,1135631863)",
+                "geoLocationName": "Guwahati Area, India",
+                "geoUrn": "urn:li:fs_geo:104535556",
+                "companyName": "Able Translations Ltd.",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 7,
+                        "year": 2017
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2016
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 2,
+                        "end": 10
+                    },
+                    "industries": [
+                        "Translation and Localization"
+                    ]
+                },
+                "title": "UI Developer",
+                "region": "urn:li:fs_region:(in,7248)",
+                "companyUrn": "urn:li:fs_miniCompany:209862",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQG0eUAIBdfw9Q/company-logo_"
+            },
+            {
+                "locationName": "Guwahati Area, India",
+                "entityUrn": "urn:li:fs_position:(ACoAAAQaYrkBUycz7cbE9xgPUzDVSU1MQUJoMrA,1135649459)",
+                "geoLocationName": "Guwahati Area, India",
+                "geoUrn": "urn:li:fs_geo:104535556",
+                "companyName": "Senso Comum SIT Lda",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 7,
+                        "year": 2017
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2015
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 2,
+                        "end": 10
+                    },
+                    "industries": [
+                        "Internet"
+                    ]
+                },
+                "title": "UI Developer",
+                "region": "urn:li:fs_region:(in,7248)",
+                "companyUrn": "urn:li:fs_miniCompany:271162",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHI7Qob-uEDCw/company-logo_"
+            },
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAAAQaYrkBUycz7cbE9xgPUzDVSU1MQUJoMrA,112144408)",
+                "companyName": "Flugelsoft",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 7,
+                        "year": 2016
+                    },
+                    "startDate": {
+                        "month": 6,
+                        "year": 2015
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Management Consulting"
+                    ]
+                },
+                "title": "Web Developer",
+                "companyUrn": "urn:li:fs_miniCompany:1928571",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQFRyk30av4zQg/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAAQaYrkBUycz7cbE9xgPUzDVSU1MQUJoMrA,468428824)",
+                "school": {
+                    "objectUrn": "urn:li:school:208185",
+                    "entityUrn": "urn:li:fs_miniSchool:208185",
+                    "active": true,
+                    "schoolName": "Gauhati University, Guwahati",
+                    "trackingId": "JeUNVYpuQiWpW3gPkR9A1A=="
+                },
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100189",
+                "degreeName": "Bachelor's degree",
+                "schoolName": "Gauhati University, Guwahati",
+                "fieldOfStudy": "Computer Science",
+                "degreeUrn": "urn:li:fs_degree:200",
+                "schoolUrn": "urn:li:fs_miniSchool:208185"
+            }
+        ],
+        "languages": [],
+        "publications": [],
+        "certifications": [],
+        "volunteer": [],
+        "honors": [],
+        "projects": []
+    },
+    "contact_info": {
+        "email_address": null,
+        "websites": [
+            {
+                "url": "http://flugelsoft.com",
+                "label": "COMPANY"
+            },
+            {
+                "url": "https://www.techvariable.com/",
+                "label": "COMPANY"
+            }
+        ],
+        "twitter": [],
+        "birthdate": null,
+        "ims": null,
+        "phone_numbers": []
+    },
+    "connections": [
+        {
+            "urn_id": "ACoAADZmR9QB1zOH_PmrzQQw2wQmTJRTcNGU7CE",
+            "distance": "DISTANCE_1",
+            "public_id": "bkalita",
+            "tracking_id": "912672724"
+        },
+        {
+            "urn_id": "ACoAADLJzxsBizdB0nN5NZBCM41Q-z6-7ef5gyI",
+            "distance": "DISTANCE_1",
+            "public_id": "deepjyoti-kalita-78b4411b9",
+            "tracking_id": "852086555"
+        },
+        {
+            "urn_id": "ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY",
+            "distance": "DISTANCE_1",
+            "public_id": "tridip-das-b5837911b",
+            "tracking_id": "499568180"
+        },
+        {
+            "urn_id": "ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8",
+            "distance": "DISTANCE_1",
+            "public_id": "sivaranjan-goswami-790b4523",
+            "tracking_id": "83451420"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Web Development",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:764",
+            "standardizedSkill": {
+                "name": "Web Development",
+                "entityUrn": "urn:li:fs_miniSkill:764"
+            }
+        },
+        {
+            "name": "Cascading Style Sheets (CSS)",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:307",
+            "standardizedSkill": {
+                "name": "Cascading Style Sheets (CSS)",
+                "entityUrn": "urn:li:fs_miniSkill:307"
+            }
+        },
+        {
+            "name": "JavaScript",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:218",
+            "standardizedSkill": {
+                "name": "JavaScript",
+                "entityUrn": "urn:li:fs_miniSkill:218"
+            }
+        },
+        {
+            "name": "HTML",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:280",
+            "standardizedSkill": {
+                "name": "HTML",
+                "entityUrn": "urn:li:fs_miniSkill:280"
+            }
+        },
+        {
+            "name": "PHP",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:261",
+            "standardizedSkill": {
+                "name": "PHP",
+                "entityUrn": "urn:li:fs_miniSkill:261"
+            }
+        },
+        {
+            "name": "User Interface Design"
+        },
+        {
+            "name": "HTML5"
+        },
+        {
+            "name": "Angular7"
+        }
+    ]
+}

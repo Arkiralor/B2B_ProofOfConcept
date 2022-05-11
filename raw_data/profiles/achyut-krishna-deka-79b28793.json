@@ -1,0 +1,374 @@
+{
+    "profile": {
+        "summary": "Full stack Freelance Fullstack Developer with experience in design and development of full web applications using latest technologies. Skilled in JavaScript, ReactJs & Vuejs\nStrong knowledge of building single page applications using HTML5, CSS3, Bootstrap, React. js\nWell versed with modern frameworks like Node. js, HTML and NodeJS",
+        "industryName": "IT Services and IT Consulting",
+        "lastName": "Deka",
+        "locationName": "India",
+        "student": false,
+        "geoCountryName": "India",
+        "geoCountryUrn": "urn:li:fs_geo:102713980",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "industryUrn": "urn:li:fs_industry:96",
+        "firstName": "Achyut Krishna",
+        "entityUrn": "urn:li:fs_profile:ACoAABPLw6cBVfMNlr00vvnJiY5ntt7Ycd2uiP4",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:105607401"
+        },
+        "geoLocationName": "Guwahati, Assam",
+        "location": {
+            "basicLocation": {
+                "countryCode": "in"
+            }
+        },
+        "headline": "Freelance Fullstack Developer | Javascript (Node.js) | React.js Developer",
+        "displayPictureUrl": "https://media-exp1.licdn.com/dms/image/C5603AQHiONBXAHkyow/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/0/1587810428057?e=1657756800&v=beta&t=qQ09xT5MLyImpC43I-gqks6ZDVIfohAofGKEVUlhpmk",
+        "img_200_200": "200_200/0/1587810428057?e=1657756800&v=beta&t=jElL_iJlJPIVu9UP9z1DmP5u_i4ajdNfd3x_Y6PKffs",
+        "img_400_400": "400_400/0/1587810428057?e=1657756800&v=beta&t=rqd7sVOgZ2Qb4bHgeQY9H8Z6Xav-bj63qGYBPBXbhWU",
+        "img_800_800": "800_800/0/1587810428057?e=1657756800&v=beta&t=YxrWB_UVhAA74Dd2hu8EirAImn3BxWOOmRpdICszkAU",
+        "profile_id": "ACoAABPLw6cBVfMNlr00vvnJiY5ntt7Ycd2uiP4",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAABPLw6cBVfMNlr00vvnJiY5ntt7Ycd2uiP4",
+        "member_urn": "urn:li:member:332120999",
+        "experience": [
+            {
+                "locationName": "Guwahati, Assam, India",
+                "entityUrn": "urn:li:fs_position:(ACoAABPLw6cBVfMNlr00vvnJiY5ntt7Ycd2uiP4,1682631316)",
+                "$anti_abuse_metadata": {
+                    "/geoUrn": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:332120999"
+                        }
+                    },
+                    "/companyName": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:332120999"
+                        }
+                    },
+                    "/companyUrn": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:332120999"
+                        }
+                    },
+                    "/entityUrn": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:332120999"
+                        }
+                    },
+                    "/geoLocationName": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:332120999"
+                        }
+                    },
+                    "/promotion": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:332120999"
+                        }
+                    },
+                    "/title": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:332120999"
+                        }
+                    },
+                    "/region": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:332120999"
+                        }
+                    },
+                    "/locationName": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:332120999"
+                        }
+                    },
+                    "/description": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:332120999"
+                        }
+                    }
+                },
+                "geoLocationName": "Guwahati, Assam, India",
+                "geoUrn": "urn:li:fs_geo:105607401",
+                "companyName": "Freelance",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 10,
+                        "year": 2020
+                    }
+                },
+                "title": "Freelance Fullstack Developer",
+                "region": "urn:li:fs_region:(in,0)"
+            },
+            {
+                "locationName": "Ahmedabad, Gujarat, India",
+                "entityUrn": "urn:li:fs_position:(ACoAABPLw6cBVfMNlr00vvnJiY5ntt7Ycd2uiP4,1645955130)",
+                "geoLocationName": "Ahmedabad, Gujarat, India",
+                "geoUrn": "urn:li:fs_geo:106121810",
+                "companyName": "SoluLab Inc",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 10,
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2018
+                    }
+                },
+                "description": "System Architecture, Development Team Lead",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 51,
+                        "end": 200
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "System Architect,  Senior Full Stack Developer",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:9440395",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C510BAQGbJciAIl3Mhg/company-logo_"
+            },
+            {
+                "locationName": "Guwahati Area, India",
+                "entityUrn": "urn:li:fs_position:(ACoAABPLw6cBVfMNlr00vvnJiY5ntt7Ycd2uiP4,1215746803)",
+                "geoLocationName": "Guwahati Area, India",
+                "geoUrn": "urn:li:fs_geo:104535556",
+                "companyName": "TechVariable",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2017
+                    },
+                    "startDate": {
+                        "month": 6,
+                        "year": 2016
+                    }
+                },
+                "description": "TechVariable is a startup focusing on delivering quality solutions to IT and software related predicaments with innovation in technology. TechVariable comprises of engineers, developers and various IT professionals capable of handling projects which specializes in web and mobile technologies.\n\nKey Responsibilities -\n\u2013 Develop clean, readable, automate tested software that can run in the cloud.\n\u2013 Build backend applications with Node.js / Cloud functions \n\u2013 Blockchain Development using Ethereum, Hyperladger \n\u2013 Build UI with React.js with Redux\n\u2013 Mobile App development using Ionic and React-Native \n\u2013 Watch and listen to users to improve the user experience\n\nTech Stack Used --\n Javascript, Node.js, React.js, Angular.js, Blockchain, Bootstrap, Git, AWS\n",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Programmer Analyst",
+                "region": "urn:li:fs_region:(in,7248)",
+                "companyUrn": "urn:li:fs_miniCompany:10632640",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQE6IzKHUZQmAA/company-logo_"
+            },
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAABPLw6cBVfMNlr00vvnJiY5ntt7Ycd2uiP4,800661178)",
+                "companyName": "Real Internet Sales",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 5,
+                        "year": 2016
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2013
+                    }
+                },
+                "description": "Was Responsible For --\n- Preparing layout and planning the primary designs of the web site.\n- Designing web sites using HTML, XML and java scripts and also take care about SEO specific        tags at the same time.\n- Mobile Apps Development using  Ionic and React Native \n- PHP, MySQL coding in MVC framework or Wordpress framework.\n- Different API integration as per sites requirement.\n- Checking the web sites for optimizing the code if required and fixing defects in the web sites, if any.\n- Server administration.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Marketing and Advertising"
+                    ]
+                },
+                "title": "Remote PHP Web Developer at Real Internet Sales",
+                "companyUrn": "urn:li:fs_miniCompany:5172564",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQFZqtai1ZRr0g/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAABPLw6cBVfMNlr00vvnJiY5ntt7Ycd2uiP4,746148053)",
+                "school": {
+                    "objectUrn": "urn:li:school:13476",
+                    "entityUrn": "urn:li:fs_miniSchool:13476",
+                    "active": true,
+                    "schoolName": "Gauhati University",
+                    "trackingId": "RYLXflq4RbmOyczaLt3NXA==",
+                    "logoUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQE_SHDG7RHWLg/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "month": 7,
+                        "year": 2014
+                    },
+                    "startDate": {
+                        "month": 4,
+                        "year": 2010
+                    }
+                },
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100189",
+                "degreeName": "Bachelor of Technology - BTech",
+                "schoolName": "Gauhati University",
+                "fieldOfStudy": "Computer Science",
+                "degreeUrn": "urn:li:fs_degree:250",
+                "schoolUrn": "urn:li:fs_miniSchool:13476"
+            }
+        ],
+        "languages": [
+            {
+                "name": "Assamese",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "English",
+                "proficiency": "PROFESSIONAL_WORKING"
+            },
+            {
+                "name": "Hindi",
+                "proficiency": "PROFESSIONAL_WORKING"
+            }
+        ],
+        "publications": [],
+        "certifications": [],
+        "volunteer": [],
+        "honors": [],
+        "projects": []
+    },
+    "contact_info": {
+        "email_address": null,
+        "websites": [
+            {
+                "url": "https://gitachyut.github.io",
+                "label": "PERSONAL"
+            }
+        ],
+        "twitter": [],
+        "birthdate": null,
+        "ims": null,
+        "phone_numbers": []
+    },
+    "connections": [
+        {
+            "urn_id": "ACoAAC24GToBKzC8vS7jZaCEqoq3Jse_M2Tson8",
+            "distance": "DISTANCE_1",
+            "public_id": "abhijit-paul-936a68194",
+            "tracking_id": "767039802"
+        },
+        {
+            "urn_id": "ACoAADLJzxsBizdB0nN5NZBCM41Q-z6-7ef5gyI",
+            "distance": "DISTANCE_1",
+            "public_id": "deepjyoti-kalita-78b4411b9",
+            "tracking_id": "852086555"
+        },
+        {
+            "urn_id": "ACoAADe3CFYBsoFdtSEajXbg51HDagdpBEb3kx4",
+            "distance": "DISTANCE_1",
+            "public_id": "binud-panging-872062221",
+            "tracking_id": "934742102"
+        },
+        {
+            "urn_id": "ACoAABYq8T8ByHFGBUFRrHT5iKBI2u4YZjTLHFc",
+            "distance": "DISTANCE_1",
+            "public_id": "netranjit-borgohain-53b677a4",
+            "tracking_id": "371913023"
+        },
+        {
+            "urn_id": "ACoAAC4efLABFBv0f30-SDGDgLSf1gXTlkpJTfc",
+            "distance": "DISTANCE_1",
+            "public_id": "shawan-mandal",
+            "tracking_id": "773749936"
+        },
+        {
+            "urn_id": "ACoAACYmrvgBRdvWxItbY_KP_fyrEgZ9U-QKJqk",
+            "distance": "DISTANCE_1",
+            "public_id": "rtsu",
+            "tracking_id": "640069368"
+        }
+    ],
+    "skills": [
+        {
+            "name": "PHP"
+        },
+        {
+            "name": "JavaScript"
+        },
+        {
+            "name": "MySQL"
+        },
+        {
+            "name": "WordPress"
+        },
+        {
+            "name": "Web Design"
+        },
+        {
+            "name": "Node.js"
+        },
+        {
+            "name": "MongoDB"
+        },
+        {
+            "name": "User Interface Design"
+        },
+        {
+            "name": "Python"
+        },
+        {
+            "name": "Express.js"
+        },
+        {
+            "name": "ElasticSearch"
+        },
+        {
+            "name": "React.js"
+        },
+        {
+            "name": "HTML"
+        },
+        {
+            "name": "Amazon Web Services (AWS)"
+        },
+        {
+            "name": "css"
+        },
+        {
+            "name": "Redux"
+        },
+        {
+            "name": "Agile Methodologies"
+        },
+        {
+            "name": "Bitbucket"
+        },
+        {
+            "name": "Git"
+        },
+        {
+            "name": "Github"
+        },
+        {
+            "name": "Heroku"
+        },
+        {
+            "name": "Adobe Photoshop"
+        },
+        {
+            "name": "less"
+        },
+        {
+            "name": "Bootstrap"
+        },
+        {
+            "name": "Ionic Framework"
+        },
+        {
+            "name": "React Native"
+        },
+        {
+            "name": "node.js"
+        }
+    ]
+}

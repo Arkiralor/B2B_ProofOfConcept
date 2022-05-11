@@ -1,0 +1,734 @@
+{
+    "profile": {
+        "industryName": "IT Services and IT Consulting",
+        "lastName": "saikia",
+        "locationName": "India",
+        "student": false,
+        "geoCountryName": "India",
+        "geoCountryUrn": "urn:li:fs_geo:102713980",
+        "geoLocationBackfilled": false,
+        "elt": true,
+        "industryUrn": "urn:li:fs_industry:96",
+        "firstName": "Leeja",
+        "entityUrn": "urn:li:fs_profile:ACoAADQQMPABDF1UFTgkYbVxonBWam6wTDPR09E",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:105607401"
+        },
+        "geoLocationName": "Guwahati, Assam",
+        "location": {
+            "basicLocation": {
+                "countryCode": "in"
+            }
+        },
+        "headline": "Student at Assam Engineering College",
+        "displayPictureUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQGL0mh192HGGw/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/0/1650862340618?e=1657756800&v=beta&t=a3Ta9zA2V1E7xzASaJBQX6ajw7XyLrCa3R7k6mhJzrA",
+        "img_200_200": "200_200/0/1650862340618?e=1657756800&v=beta&t=zh0M8EIQHBNa7be5dNc35wr__8X0Mnop0fC5tdKS6Vc",
+        "img_400_400": "400_400/0/1650862340618?e=1657756800&v=beta&t=8ylCiq1mQJRCMRBreZYvrGZZfTz67kxHGCMceksGs2o",
+        "img_800_800": "800_800/0/1650862340618?e=1657756800&v=beta&t=4w1t3G_xagQfpdCOZVPH2z8QU0jAdJ0X80mu2Ke2kLo",
+        "profile_id": "ACoAADQQMPABDF1UFTgkYbVxonBWam6wTDPR09E",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAADQQMPABDF1UFTgkYbVxonBWam6wTDPR09E",
+        "member_urn": "urn:li:member:873476336",
+        "experience": [
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAADQQMPABDF1UFTgkYbVxonBWam6wTDPR09E,1909394572)",
+                "companyName": "TechVariable",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 9,
+                        "year": 2021
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Campus Ambassador",
+                "companyUrn": "urn:li:fs_miniCompany:10632640",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQE6IzKHUZQmAA/company-logo_"
+            },
+            {
+                "locationName": "Namrup, Assam, India",
+                "entityUrn": "urn:li:fs_position:(ACoAADQQMPABDF1UFTgkYbVxonBWam6wTDPR09E,1946159984)",
+                "geoLocationName": "Namrup, Assam, India",
+                "geoUrn": "urn:li:fs_geo:107119718",
+                "companyName": "Assam Petrochemicals Ltd",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 4,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 3,
+                        "year": 2022
+                    }
+                },
+                "company": {},
+                "title": "Summer Internship",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:27080916"
+            },
+            {
+                "locationName": "Assam, India",
+                "entityUrn": "urn:li:fs_position:(ACoAADQQMPABDF1UFTgkYbVxonBWam6wTDPR09E,1902423102)",
+                "geoLocationName": "Assam, India",
+                "geoUrn": "urn:li:fs_geo:104436408",
+                "companyName": "Indian Institute of Technology, Guwahati",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 10,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2021
+                    }
+                },
+                "description": "Metaheuristic techniques for optimization",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 501,
+                        "end": 1000
+                    },
+                    "industries": [
+                        "Higher Education"
+                    ]
+                },
+                "title": "Academic Internship",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:157270",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQFsVma02aZ5dg/company-logo_"
+            },
+            {
+                "locationName": "Guwahati, Assam, India",
+                "entityUrn": "urn:li:fs_position:(ACoAADQQMPABDF1UFTgkYbVxonBWam6wTDPR09E,1794084557)",
+                "geoLocationName": "Guwahati, Assam, India",
+                "geoUrn": "urn:li:fs_geo:105607401",
+                "companyName": "Pollution Control Board Assam",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 2,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 2,
+                        "year": 2021
+                    }
+                },
+                "description": "Analysis of Water & Bacteriological parameters and Ambient Air Quality & Noise Pollution",
+                "company": {
+                    "industries": [
+                        "Government Administration"
+                    ]
+                },
+                "title": "Winter Internship",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:79208280"
+            },
+            {
+                "locationName": "Lakhimpur, Assam, India",
+                "entityUrn": "urn:li:fs_position:(ACoAADQQMPABDF1UFTgkYbVxonBWam6wTDPR09E,1834593522)",
+                "geoLocationName": "Lakhimpur, Assam, India",
+                "geoUrn": "urn:li:fs_geo:110258591",
+                "companyName": "Jawahar Navodaya Vidyalaya (JNV)",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 7,
+                        "year": 2018
+                    },
+                    "startDate": {
+                        "month": 7,
+                        "year": 2017
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Education Management"
+                    ]
+                },
+                "title": "Hostel captain",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:14515894",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C510BAQGK87VYL7oZLw/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAADQQMPABDF1UFTgkYbVxonBWam6wTDPR09E,702330823)",
+                "school": {
+                    "objectUrn": "urn:li:school:199762",
+                    "entityUrn": "urn:li:fs_miniSchool:199762",
+                    "active": true,
+                    "schoolName": "Assam Engineering College",
+                    "trackingId": "YJyhLfZCSceCUZeRM1+ZNw=="
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2023
+                    },
+                    "startDate": {
+                        "year": 2019
+                    }
+                },
+                "degreeName": "Bachelor of Technology - BTech",
+                "schoolName": "Assam Engineering College",
+                "fieldOfStudy": "Chemical Engineering",
+                "schoolUrn": "urn:li:fs_miniSchool:199762"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAADQQMPABDF1UFTgkYbVxonBWam6wTDPR09E,743750238)",
+                "school": {
+                    "objectUrn": "urn:li:school:531019",
+                    "entityUrn": "urn:li:fs_miniSchool:531019",
+                    "active": true,
+                    "schoolName": "CSRL Super 30",
+                    "trackingId": "+bmDwVmrQMWKjyvSAFetwg==",
+                    "logoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQGSJt6UU-WAUA/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "month": 8,
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2018
+                    }
+                },
+                "schoolName": "CSRL Super 30",
+                "schoolUrn": "urn:li:fs_miniSchool:531019"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAADQQMPABDF1UFTgkYbVxonBWam6wTDPR09E,729379096)",
+                "school": {
+                    "objectUrn": "urn:li:school:3209814",
+                    "entityUrn": "urn:li:fs_miniSchool:3209814",
+                    "active": true,
+                    "schoolName": "Jawahar Navodaya Vidyalaya (JNV)",
+                    "trackingId": "1Q6Bfbr4QX+NFkKk2ubhJw==",
+                    "logoUrl": "https://media-exp1.licdn.com/dms/image/C510BAQGK87VYL7oZLw/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "month": 3,
+                        "year": 2018
+                    },
+                    "startDate": {
+                        "month": 12,
+                        "year": 2011
+                    }
+                },
+                "schoolName": "Jawahar Navodaya Vidyalaya (JNV)",
+                "schoolUrn": "urn:li:fs_miniSchool:3209814"
+            }
+        ],
+        "languages": [],
+        "publications": [],
+        "certifications": [
+            {
+                "authority": "Udemy",
+                "name": "Python programming with data science",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 5,
+                        "year": 2021
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:822535",
+                    "entityUrn": "urn:li:fs_miniCompany:822535",
+                    "name": "Udemy",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1626275253364?e=1660176000&v=beta&t=hNmtDdN4pnwTuJsDQsvaI2SOIkRq2BCrfWF7YKlNaM4",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1626275253364?e=1660176000&v=beta&t=bZ9FL43L79ghc74x71A2lY51dAogHCVQKWAZH1-YcuM",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1626275253364?e=1660176000&v=beta&t=7EyDsPVIShmG1t96OAsrJK6AWUi0vObIpIVqPL4hc6E",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQFQr9e68bBOPQ/company-logo_"
+                        }
+                    },
+                    "universalName": "udemy",
+                    "dashCompanyUrn": "urn:li:fsd_company:822535",
+                    "trackingId": "oUbc0j9MQHeBkZj/GFoHfg=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:822535"
+            },
+            {
+                "authority": "University of California, Santa Cruz",
+                "name": "C for everyone: programming fundamentals ",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 8,
+                        "year": 2021
+                    }
+                },
+                "licenseNumber": "EWWX6DYRSBQX",
+                "company": {
+                    "objectUrn": "urn:li:company:2841",
+                    "entityUrn": "urn:li:fs_miniCompany:2841",
+                    "name": "University of California, Santa Cruz",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1565726655033?e=1660176000&v=beta&t=wk3gKOn5iKO0J-0uuIqWA2dtKh6MWruFlz9RAOyAde4",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1565726655033?e=1660176000&v=beta&t=iRl0oTVO6vez0T-ZWrm0SiAz4qE0Dbb8XfpKSzyhhGw",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1565726655033?e=1660176000&v=beta&t=MewUxBUBEXs7m4POKTphZJsUxfFNcLG-XzTA5BEqDUE",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQFsjvxBDYgQMA/company-logo_"
+                        }
+                    },
+                    "universalName": "ucsc",
+                    "dashCompanyUrn": "urn:li:fsd_company:2841",
+                    "trackingId": "OwGWJpbbRHePVPvV/e39UQ=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:2841"
+            },
+            {
+                "authority": "Duke University",
+                "name": "C Programming Fundamentals",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 8,
+                        "year": 2021
+                    }
+                },
+                "licenseNumber": "YMHYXYN3B723",
+                "company": {
+                    "objectUrn": "urn:li:company:3356",
+                    "entityUrn": "urn:li:fs_miniCompany:3356",
+                    "name": "Duke University",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1547069414882?e=1660176000&v=beta&t=QH8xPFUysN5pVF_DRFgf0QfPEmwV-W6rMwqSdldnSJg",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1547069414882?e=1660176000&v=beta&t=aekP39WAkRKNYBblEHu4PL1p6HP3n9iFDQRRh1necM8",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1547069414882?e=1660176000&v=beta&t=cm3xywl6j3niGkPsRX17MBCZafPtTLEfktNZ186l_9U",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQGXW0yOhYBbCg/company-logo_"
+                        }
+                    },
+                    "universalName": "duke-university",
+                    "dashCompanyUrn": "urn:li:fsd_company:3356",
+                    "trackingId": "XyE4ecKdToGQ2QrqDObGoA=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:3356"
+            },
+            {
+                "authority": "University of California, Santa Cruz",
+                "name": "C++ for c programmers part b",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 8,
+                        "year": 2021
+                    }
+                },
+                "licenseNumber": "FQHM3JFDCGLV",
+                "company": {
+                    "objectUrn": "urn:li:company:2841",
+                    "entityUrn": "urn:li:fs_miniCompany:2841",
+                    "name": "University of California, Santa Cruz",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1565726655033?e=1660176000&v=beta&t=wk3gKOn5iKO0J-0uuIqWA2dtKh6MWruFlz9RAOyAde4",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1565726655033?e=1660176000&v=beta&t=iRl0oTVO6vez0T-ZWrm0SiAz4qE0Dbb8XfpKSzyhhGw",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1565726655033?e=1660176000&v=beta&t=MewUxBUBEXs7m4POKTphZJsUxfFNcLG-XzTA5BEqDUE",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQFsjvxBDYgQMA/company-logo_"
+                        }
+                    },
+                    "universalName": "ucsc",
+                    "dashCompanyUrn": "urn:li:fsd_company:2841",
+                    "trackingId": "RTK9lzKZSZqZe1mjoRzdnQ=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:2841"
+            },
+            {
+                "authority": "University of California, Santa Cruz",
+                "name": "C++ for c programmers part A",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 8,
+                        "year": 2021
+                    }
+                },
+                "licenseNumber": "KCDAAVMYEVBA",
+                "company": {
+                    "objectUrn": "urn:li:company:2841",
+                    "entityUrn": "urn:li:fs_miniCompany:2841",
+                    "name": "University of California, Santa Cruz",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1565726655033?e=1660176000&v=beta&t=wk3gKOn5iKO0J-0uuIqWA2dtKh6MWruFlz9RAOyAde4",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1565726655033?e=1660176000&v=beta&t=iRl0oTVO6vez0T-ZWrm0SiAz4qE0Dbb8XfpKSzyhhGw",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1565726655033?e=1660176000&v=beta&t=MewUxBUBEXs7m4POKTphZJsUxfFNcLG-XzTA5BEqDUE",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQFsjvxBDYgQMA/company-logo_"
+                        }
+                    },
+                    "universalName": "ucsc",
+                    "dashCompanyUrn": "urn:li:fsd_company:2841",
+                    "trackingId": "CsLTHP8QTFKgFdyrZoIKwA=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:2841"
+            },
+            {
+                "authority": "University of Michigan",
+                "name": "Programming for everybody (Getting started with python)",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 9,
+                        "year": 2021
+                    }
+                },
+                "licenseNumber": "3AW79H7T2RFW",
+                "company": {
+                    "objectUrn": "urn:li:company:2516",
+                    "entityUrn": "urn:li:fs_miniCompany:2516",
+                    "name": "University of Michigan",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1519856309184?e=1660176000&v=beta&t=SadBhojjbY_v2YYoYrsUrRlLlA_Ns7m5hPbV19eFuVE",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1519856309184?e=1660176000&v=beta&t=QMXR0hDcf1mOnGadO8DZ1MdxKBBSaIdIf9Zaa4L-csY",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1519856309184?e=1660176000&v=beta&t=5jRlv-waemiCTk0DS27xhtrowy-loNabYzkTcUgyj4s",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQFGfERBPGurCg/company-logo_"
+                        }
+                    },
+                    "universalName": "university-of-michigan",
+                    "dashCompanyUrn": "urn:li:fsd_company:2516",
+                    "trackingId": "KvZtQ5E7RcWx8eVD+LsviQ=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:2516"
+            },
+            {
+                "authority": "Vanderbilt University",
+                "name": "Introduction to Programming with Matlab",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 10,
+                        "year": 2021
+                    }
+                },
+                "licenseNumber": "K8C3JAFKKGTF",
+                "company": {
+                    "objectUrn": "urn:li:company:4565",
+                    "entityUrn": "urn:li:fs_miniCompany:4565",
+                    "name": "Vanderbilt University",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1648406543052?e=1660176000&v=beta&t=mjHTamccTkccn1ZQeGeyQCDYWrg9b4C37fqxj2gTb68",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1648406543052?e=1660176000&v=beta&t=DaFnxdC9TjW4HzbG516VwKjwnEOWY_1ltuEQHPdbVBE",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1648406543052?e=1660176000&v=beta&t=n71awh1VBtM_k4e8dqeBcvyv0C787-WwBnd4rhNlCrk",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQEhR74nz4kJ6g/company-logo_"
+                        }
+                    },
+                    "universalName": "vanderbilt-university",
+                    "dashCompanyUrn": "urn:li:fsd_company:4565",
+                    "trackingId": "R4aOzEt6SM6Qn2/+jZVM/A=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:4565"
+            }
+        ],
+        "volunteer": [
+            {
+                "role": "member",
+                "companyName": "NSS DCAC",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 5,
+                        "year": 2020
+                    }
+                },
+                "cause": "SOCIAL_SERVICES",
+                "company": {
+                    "miniCompany": {
+                        "objectUrn": "urn:li:company:68193730",
+                        "entityUrn": "urn:li:fs_miniCompany:68193730",
+                        "name": "NSS DCAC",
+                        "showcase": false,
+                        "active": true,
+                        "logo": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1593410250242?e=1660176000&v=beta&t=FpwgYgLXiyaQPzXDNLc1mz_G0gmqjcSK7zf5pPHuYUk",
+                                        "expiresAt": 1660176000000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1593410250242?e=1660176000&v=beta&t=QCopbQPogsCDWQDIxXTLp0lC8RPJmGRTVkPg1qFLJoA",
+                                        "expiresAt": 1660176000000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1593410250242?e=1660176000&v=beta&t=en6kypuCDxN0FUA3sGyzTAvCsMe_rXPbXfdL4GdDAv8",
+                                        "expiresAt": 1660176000000,
+                                        "height": 400
+                                    }
+                                ],
+                                "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQHmteZ5j46Viw/company-logo_"
+                            }
+                        },
+                        "universalName": "nss-dcac",
+                        "dashCompanyUrn": "urn:li:fsd_company:68193730",
+                        "trackingId": "iQwTBEsEQm29Koh485zGdA=="
+                    }
+                },
+                "companyUrn": "urn:li:fs_miniCompany:68193730"
+            },
+            {
+                "role": "covid volunteer",
+                "companyName": "NATIONAL CADET CORPS - India",
+                "cause": "SOCIAL_SERVICES",
+                "company": {
+                    "miniCompany": {
+                        "objectUrn": "urn:li:company:7839809",
+                        "entityUrn": "urn:li:fs_miniCompany:7839809",
+                        "name": "NATIONAL CADET CORPS - India",
+                        "showcase": false,
+                        "active": true,
+                        "logo": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1583936883791?e=1660176000&v=beta&t=JXXHVdfWh5sLREo4WAnn189ajpQYGTQmKEj_iKR7zYI",
+                                        "expiresAt": 1660176000000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1583936883791?e=1660176000&v=beta&t=5CFAv_7NsxUA6Uiapy3uQHLhv_wFtn1uopckC31lA6A",
+                                        "expiresAt": 1660176000000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1583936883791?e=1660176000&v=beta&t=LCSsbnigPD7MJ2hpVvczXij45tGHME0I_zvOQNotous",
+                                        "expiresAt": 1660176000000,
+                                        "height": 400
+                                    }
+                                ],
+                                "rootUrl": "https://media-exp1.licdn.com/dms/image/C510BAQG2D3W97JQRpA/company-logo_"
+                            }
+                        },
+                        "universalName": "national-cadet-corps---india",
+                        "dashCompanyUrn": "urn:li:fsd_company:7839809",
+                        "trackingId": "MWjYXEftQpOVxK1qUutl0Q=="
+                    }
+                },
+                "companyUrn": "urn:li:fs_miniCompany:7839809"
+            },
+            {
+                "role": "Cadet",
+                "companyName": "NATIONAL CADET CORPS - India",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 10,
+                        "year": 2019
+                    }
+                },
+                "cause": "SOCIAL_SERVICES",
+                "company": {
+                    "miniCompany": {
+                        "objectUrn": "urn:li:company:7839809",
+                        "entityUrn": "urn:li:fs_miniCompany:7839809",
+                        "name": "NATIONAL CADET CORPS - India",
+                        "showcase": false,
+                        "active": true,
+                        "logo": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1583936883791?e=1660176000&v=beta&t=JXXHVdfWh5sLREo4WAnn189ajpQYGTQmKEj_iKR7zYI",
+                                        "expiresAt": 1660176000000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1583936883791?e=1660176000&v=beta&t=5CFAv_7NsxUA6Uiapy3uQHLhv_wFtn1uopckC31lA6A",
+                                        "expiresAt": 1660176000000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1583936883791?e=1660176000&v=beta&t=LCSsbnigPD7MJ2hpVvczXij45tGHME0I_zvOQNotous",
+                                        "expiresAt": 1660176000000,
+                                        "height": 400
+                                    }
+                                ],
+                                "rootUrl": "https://media-exp1.licdn.com/dms/image/C510BAQG2D3W97JQRpA/company-logo_"
+                            }
+                        },
+                        "universalName": "national-cadet-corps---india",
+                        "dashCompanyUrn": "urn:li:fsd_company:7839809",
+                        "trackingId": "MPwwPg6OQz2FESFpyA6Cpg=="
+                    }
+                },
+                "companyUrn": "urn:li:fs_miniCompany:7839809"
+            }
+        ],
+        "honors": [],
+        "projects": []
+    },
+    "contact_info": {
+        "email_address": null,
+        "websites": [],
+        "twitter": [],
+        "birthdate": null,
+        "ims": null,
+        "phone_numbers": []
+    },
+    "connections": [
+        {
+            "urn_id": "ACoAABr4jt0BoOUmisITdRo1gR4CumG5I4jjZIw",
+            "distance": "DISTANCE_1",
+            "public_id": "samudra-deka-911659107",
+            "tracking_id": "452497117"
+        },
+        {
+            "urn_id": "ACoAACYmrvgBRdvWxItbY_KP_fyrEgZ9U-QKJqk",
+            "distance": "DISTANCE_1",
+            "public_id": "rtsu",
+            "tracking_id": "640069368"
+        }
+    ],
+    "skills": []
+}

@@ -1,0 +1,672 @@
+{
+    "profile": {
+        "summary": "Hard working and strong determination to prove my worth and excel in my respective fields to get in a position that utilizes my caliber and attitude to enhance my professional capacity and that aids me in exploiting my full potential, professionally to deliver the best at what I am the best.\n",
+        "industryName": "IT Services and IT Consulting",
+        "lastName": "Goswami",
+        "locationName": "India",
+        "student": false,
+        "geoCountryName": "India",
+        "geoCountryUrn": "urn:li:fs_geo:102713980",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "birthDate": {
+            "month": 12,
+            "day": 4
+        },
+        "industryUrn": "urn:li:fs_industry:96",
+        "firstName": "Pranjit",
+        "entityUrn": "urn:li:fs_profile:ACoAACT63owBro4BoRf7dLBWcEwkuC5TLc0ZR_Y",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:105607401"
+        },
+        "geoLocationName": "Guwahati, Assam",
+        "location": {
+            "basicLocation": {
+                "countryCode": "in"
+            }
+        },
+        "headline": "Associate Consultant at Infosys || Java || Spring boot || microservices || MongoDb || GCP || Angular 8",
+        "displayPictureUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQG5q2N0ZoAKKA/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/0/1647283794831?e=1657756800&v=beta&t=Qj17n8tTD1AiYl_EHtjFLeYUpfaAGVJSbe_py1PThaY",
+        "img_200_200": "200_200/0/1647283794831?e=1657756800&v=beta&t=fQK01waSRFIwjGLBuuz1uHBWcM3b_GUaLBGkYrItIM8",
+        "img_400_400": "400_400/0/1647283794831?e=1657756800&v=beta&t=crU-dSw3a8xtlX_eLra1kVcK4wUbnl_K6RFkaQQOLxs",
+        "img_800_800": "800_800/0/1647283794831?e=1657756800&v=beta&t=3wdjK9bwOYEKg7CuJ-NCdvZMSCNK_pim3t_1tjxABNg",
+        "profile_id": "ACoAACT63owBro4BoRf7dLBWcEwkuC5TLc0ZR_Y",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAACT63owBro4BoRf7dLBWcEwkuC5TLc0ZR_Y",
+        "member_urn": "urn:li:member:620420748",
+        "experience": [
+            {
+                "locationName": "Bengaluru, Karnataka, India",
+                "entityUrn": "urn:li:fs_position:(ACoAACT63owBro4BoRf7dLBWcEwkuC5TLc0ZR_Y,1932382869)",
+                "geoLocationName": "Bengaluru, Karnataka, India",
+                "geoUrn": "urn:li:fs_geo:105214831",
+                "companyName": "Infosys",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 3,
+                        "year": 2022
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Associate Consultant",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:1283",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQHS0k_nLjbnKA/company-logo_"
+            },
+            {
+                "locationName": "Guwahati, Assam, India",
+                "entityUrn": "urn:li:fs_position:(ACoAACT63owBro4BoRf7dLBWcEwkuC5TLc0ZR_Y,1761227600)",
+                "geoLocationName": "Guwahati, Assam, India",
+                "geoUrn": "urn:li:fs_geo:105607401",
+                "companyName": "Jiyyo",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 3,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 4,
+                        "year": 2021
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 51,
+                        "end": 200
+                    },
+                    "industries": [
+                        "Hospital & Health Care"
+                    ]
+                },
+                "title": "Full-stack Developer at Jiyyo",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:13353578",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C510BAQH2thjOER31rw/company-logo_"
+            },
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAACT63owBro4BoRf7dLBWcEwkuC5TLc0ZR_Y,1643034729)",
+                "companyName": "TechVariable",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 4,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 4,
+                        "year": 2020
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Full stack developer at TechVariable",
+                "companyUrn": "urn:li:fs_miniCompany:10632640",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQE6IzKHUZQmAA/company-logo_"
+            },
+            {
+                "locationName": "Pune, Maharashtra, India",
+                "entityUrn": "urn:li:fs_position:(ACoAACT63owBro4BoRf7dLBWcEwkuC5TLc0ZR_Y,1638776927)",
+                "geoLocationName": "Pune, Maharashtra, India",
+                "geoUrn": "urn:li:fs_geo:102510332",
+                "companyName": "Zensar Technologies",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 8,
+                        "year": 2018
+                    },
+                    "startDate": {
+                        "month": 6,
+                        "year": 2018
+                    }
+                },
+                "description": "Zensar ESD program on soft skills, aptitude and software testing(manual and automation ) ",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 5001,
+                        "end": 10000
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Engineer Intern",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:4897",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C560BAQFRgS4t4qZEZA/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAACT63owBro4BoRf7dLBWcEwkuC5TLc0ZR_Y,734852412)",
+                "school": {
+                    "objectUrn": "urn:li:school:13440",
+                    "entityUrn": "urn:li:fs_miniSchool:13440",
+                    "active": true,
+                    "schoolName": "Birla Institute of Technology and Science, Pilani",
+                    "trackingId": "TDZrEZOUQYuZ4Z7F0Epc1Q==",
+                    "logoUrl": "https://media-exp1.licdn.com/dms/image/C510BAQFYyp6NIc6n2A/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2023
+                    },
+                    "startDate": {
+                        "year": 2021
+                    }
+                },
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100349",
+                "degreeName": "Master of Technology - MTech",
+                "schoolName": "Birla Institute of Technology and Science, Pilani",
+                "fieldOfStudy": "Computer Software Engineering",
+                "degreeUrn": "urn:li:fs_degree:584",
+                "schoolUrn": "urn:li:fs_miniSchool:13440"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAACT63owBro4BoRf7dLBWcEwkuC5TLc0ZR_Y,618943123)",
+                "school": {
+                    "objectUrn": "urn:li:school:13433",
+                    "entityUrn": "urn:li:fs_miniSchool:13433",
+                    "active": true,
+                    "schoolName": "Bharati Vidyapeeth",
+                    "trackingId": "BC0+UlJWSkGcV+RGBtH+tA==",
+                    "logoUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQH2G5aj0-1XFg/company-logo_"
+                },
+                "activities": "Marketing head ",
+                "grade": "9.1 CGPA",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "year": 2015
+                    }
+                },
+                "degreeName": "Bachelor of Technology - BTech",
+                "schoolName": "Bharati Vidyapeeth",
+                "fieldOfStudy": "electronics and telecommunication engineering ",
+                "degreeUrn": "urn:li:fs_degree:250",
+                "schoolUrn": "urn:li:fs_miniSchool:13433"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAACT63owBro4BoRf7dLBWcEwkuC5TLc0ZR_Y,665626469)",
+                "school": {
+                    "objectUrn": "urn:li:school:13433",
+                    "entityUrn": "urn:li:fs_miniSchool:13433",
+                    "active": true,
+                    "schoolName": "Bharati Vidyapeeth",
+                    "trackingId": "t1PZOgbJSG6qcWdwQOUc/A==",
+                    "logoUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQH2G5aj0-1XFg/company-logo_"
+                },
+                "grade": "63%",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2018
+                    },
+                    "startDate": {
+                        "year": 2015
+                    }
+                },
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100198",
+                "degreeName": "Diploma in Network Security ",
+                "schoolName": "Bharati Vidyapeeth",
+                "fieldOfStudy": "System, Networking, and LAN/WAN Management/Manager",
+                "schoolUrn": "urn:li:fs_miniSchool:13433"
+            }
+        ],
+        "languages": [
+            {
+                "name": "Assamese ",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "Bengali",
+                "proficiency": "ELEMENTARY"
+            },
+            {
+                "name": "English",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "Hindi",
+                "proficiency": "PROFESSIONAL_WORKING"
+            }
+        ],
+        "publications": [],
+        "certifications": [
+            {
+                "authority": "Udemy",
+                "name": "Practical Data Structures and algorithm in Java",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 1,
+                        "year": 2019
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:822535",
+                    "entityUrn": "urn:li:fs_miniCompany:822535",
+                    "name": "Udemy",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1626275253364?e=1660176000&v=beta&t=hNmtDdN4pnwTuJsDQsvaI2SOIkRq2BCrfWF7YKlNaM4",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1626275253364?e=1660176000&v=beta&t=bZ9FL43L79ghc74x71A2lY51dAogHCVQKWAZH1-YcuM",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1626275253364?e=1660176000&v=beta&t=7EyDsPVIShmG1t96OAsrJK6AWUi0vObIpIVqPL4hc6E",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQFQr9e68bBOPQ/company-logo_"
+                        }
+                    },
+                    "universalName": "udemy",
+                    "dashCompanyUrn": "urn:li:fsd_company:822535",
+                    "trackingId": "lAJ4SWAsTnaPAaBbpvB22w=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:822535"
+            },
+            {
+                "authority": "Udemy",
+                "name": " Java Tutorial for Complete Beginners",
+                "timePeriod": {
+                    "startDate": {
+                        "year": 2019
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:822535",
+                    "entityUrn": "urn:li:fs_miniCompany:822535",
+                    "name": "Udemy",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1626275253364?e=1660176000&v=beta&t=hNmtDdN4pnwTuJsDQsvaI2SOIkRq2BCrfWF7YKlNaM4",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1626275253364?e=1660176000&v=beta&t=bZ9FL43L79ghc74x71A2lY51dAogHCVQKWAZH1-YcuM",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1626275253364?e=1660176000&v=beta&t=7EyDsPVIShmG1t96OAsrJK6AWUi0vObIpIVqPL4hc6E",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQFQr9e68bBOPQ/company-logo_"
+                        }
+                    },
+                    "universalName": "udemy",
+                    "dashCompanyUrn": "urn:li:fsd_company:822535",
+                    "trackingId": "GOrrSanfTXKjFDglLz+DHw=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:822535"
+            },
+            {
+                "authority": "Udemy",
+                "name": "Java Multithreading",
+                "timePeriod": {
+                    "startDate": {
+                        "year": 2019
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:822535",
+                    "entityUrn": "urn:li:fs_miniCompany:822535",
+                    "name": "Udemy",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1626275253364?e=1660176000&v=beta&t=hNmtDdN4pnwTuJsDQsvaI2SOIkRq2BCrfWF7YKlNaM4",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1626275253364?e=1660176000&v=beta&t=bZ9FL43L79ghc74x71A2lY51dAogHCVQKWAZH1-YcuM",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1626275253364?e=1660176000&v=beta&t=7EyDsPVIShmG1t96OAsrJK6AWUi0vObIpIVqPL4hc6E",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQFQr9e68bBOPQ/company-logo_"
+                        }
+                    },
+                    "universalName": "udemy",
+                    "dashCompanyUrn": "urn:li:fsd_company:822535",
+                    "trackingId": "wxo1JIKMQuGQfKwfmWV8Aw=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:822535"
+            },
+            {
+                "authority": "Udemy",
+                "name": "Oracle Database 11g: Program with PL/SQL",
+                "timePeriod": {
+                    "startDate": {
+                        "year": 2019
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:822535",
+                    "entityUrn": "urn:li:fs_miniCompany:822535",
+                    "name": "Udemy",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1626275253364?e=1660176000&v=beta&t=hNmtDdN4pnwTuJsDQsvaI2SOIkRq2BCrfWF7YKlNaM4",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1626275253364?e=1660176000&v=beta&t=bZ9FL43L79ghc74x71A2lY51dAogHCVQKWAZH1-YcuM",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1626275253364?e=1660176000&v=beta&t=7EyDsPVIShmG1t96OAsrJK6AWUi0vObIpIVqPL4hc6E",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQFQr9e68bBOPQ/company-logo_"
+                        }
+                    },
+                    "universalName": "udemy",
+                    "dashCompanyUrn": "urn:li:fsd_company:822535",
+                    "trackingId": "ttBJPEueTBybCAHYvZugKw=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:822535"
+            },
+            {
+                "authority": "Udemy",
+                "name": "Java 8  New Features in Simple Way",
+                "timePeriod": {
+                    "startDate": {
+                        "year": 2019
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:822535",
+                    "entityUrn": "urn:li:fs_miniCompany:822535",
+                    "name": "Udemy",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1626275253364?e=1660176000&v=beta&t=hNmtDdN4pnwTuJsDQsvaI2SOIkRq2BCrfWF7YKlNaM4",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1626275253364?e=1660176000&v=beta&t=bZ9FL43L79ghc74x71A2lY51dAogHCVQKWAZH1-YcuM",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1626275253364?e=1660176000&v=beta&t=7EyDsPVIShmG1t96OAsrJK6AWUi0vObIpIVqPL4hc6E",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQFQr9e68bBOPQ/company-logo_"
+                        }
+                    },
+                    "universalName": "udemy",
+                    "dashCompanyUrn": "urn:li:fsd_company:822535",
+                    "trackingId": "+qMr6aqBSISjOiDaiF0pAg=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:822535"
+            }
+        ],
+        "volunteer": [
+            {
+                "role": "Head Of Marketing",
+                "companyName": "ETSA Bharati Vidyapeeth",
+                "cause": "EDUCATION"
+            }
+        ],
+        "honors": [],
+        "projects": []
+    },
+    "contact_info": {
+        "email_address": null,
+        "websites": [],
+        "twitter": [],
+        "birthdate": {
+            "month": 12,
+            "day": 4
+        },
+        "ims": null,
+        "phone_numbers": []
+    },
+    "connections": [
+        {
+            "urn_id": "ACoAAByhqogBLFVDJbqojrVMhtKfC3o3hRfEcjg",
+            "distance": "DISTANCE_1",
+            "public_id": "biki-talukdar-460a54114",
+            "tracking_id": "480357000"
+        },
+        {
+            "urn_id": "ACoAABr4jt0BoOUmisITdRo1gR4CumG5I4jjZIw",
+            "distance": "DISTANCE_1",
+            "public_id": "samudra-deka-911659107",
+            "tracking_id": "452497117"
+        },
+        {
+            "urn_id": "ACoAADLJzxsBizdB0nN5NZBCM41Q-z6-7ef5gyI",
+            "distance": "DISTANCE_1",
+            "public_id": "deepjyoti-kalita-78b4411b9",
+            "tracking_id": "852086555"
+        },
+        {
+            "urn_id": "ACoAAAjgx0kBxJoPu_7t3kS1NbDizQekjIIzMbE",
+            "distance": "DISTANCE_1",
+            "public_id": "lakheswar-nath-289a7141",
+            "tracking_id": "148948809"
+        },
+        {
+            "urn_id": "ACoAACeXhGEBEVCUXmKi5rowUSeFZNerPjvzQsc",
+            "distance": "DISTANCE_1",
+            "public_id": "mahbubul-haque-a55552166",
+            "tracking_id": "664241249"
+        },
+        {
+            "urn_id": "ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY",
+            "distance": "DISTANCE_1",
+            "public_id": "tridip-das-b5837911b",
+            "tracking_id": "499568180"
+        },
+        {
+            "urn_id": "ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8",
+            "distance": "DISTANCE_1",
+            "public_id": "sivaranjan-goswami-790b4523",
+            "tracking_id": "83451420"
+        },
+        {
+            "urn_id": "ACoAACYmrvgBRdvWxItbY_KP_fyrEgZ9U-QKJqk",
+            "distance": "DISTANCE_1",
+            "public_id": "rtsu",
+            "tracking_id": "640069368"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Java"
+        },
+        {
+            "name": "Spring Boot"
+        },
+        {
+            "name": "Angular 8"
+        },
+        {
+            "name": "Data Structures"
+        },
+        {
+            "name": "Web Development"
+        },
+        {
+            "name": "Software Testing"
+        },
+        {
+            "name": "Network Security"
+        },
+        {
+            "name": "Marketing",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:2461",
+            "standardizedSkill": {
+                "name": "Marketing",
+                "entityUrn": "urn:li:fs_miniSkill:2461"
+            }
+        },
+        {
+            "name": "Telecommunications"
+        },
+        {
+            "name": "Microcontrollers"
+        },
+        {
+            "name": "Digital Electronics"
+        },
+        {
+            "name": "Software Development"
+        },
+        {
+            "name": "C++",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:198",
+            "standardizedSkill": {
+                "name": "C++",
+                "entityUrn": "urn:li:fs_miniSkill:198"
+            }
+        },
+        {
+            "name": "spring"
+        },
+        {
+            "name": "Hibernate"
+        },
+        {
+            "name": "Java Database Connectivity (JDBC)"
+        },
+        {
+            "name": "MySQL"
+        },
+        {
+            "name": "HTML"
+        },
+        {
+            "name": "JavaScript"
+        },
+        {
+            "name": "Cascading Style Sheets (CSS)"
+        },
+        {
+            "name": "C",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:438",
+            "standardizedSkill": {
+                "name": "C (Programming Language)",
+                "entityUrn": "urn:li:fs_miniSkill:438"
+            }
+        },
+        {
+            "name": "Microsoft Office",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:366",
+            "standardizedSkill": {
+                "name": "Microsoft Office",
+                "entityUrn": "urn:li:fs_miniSkill:366"
+            }
+        },
+        {
+            "name": "Git"
+        },
+        {
+            "name": "Microsoft Excel"
+        },
+        {
+            "name": "Core Java"
+        },
+        {
+            "name": "Spring MVC"
+        },
+        {
+            "name": "Leadership",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:154",
+            "standardizedSkill": {
+                "name": "Leadership",
+                "entityUrn": "urn:li:fs_miniSkill:154"
+            }
+        },
+        {
+            "name": "Public Speaking",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:1101",
+            "standardizedSkill": {
+                "name": "Public Speaking",
+                "entityUrn": "urn:li:fs_miniSkill:1101"
+            }
+        },
+        {
+            "name": "Back-End Web Development"
+        },
+        {
+            "name": "Full-Stack Development"
+        },
+        {
+            "name": "Google Cloud Platform (GCP)"
+        }
+    ]
+}

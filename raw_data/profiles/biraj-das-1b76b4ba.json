@@ -1,0 +1,447 @@
+{
+    "profile": {
+        "summary": "I am Biraj, a Mechanical Engineer turned UI/UX and Product Designer. I am passionate about all design things. I am an intersection of an engineer and a designer which helps me analyze and solve design problems in an efficient way.",
+        "industryName": "Design Services",
+        "lastName": "Das",
+        "locationName": "India",
+        "student": false,
+        "geoCountryName": "India",
+        "geoCountryUrn": "urn:li:fs_geo:102713980",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "birthDate": {
+            "month": 10,
+            "day": 27
+        },
+        "industryUrn": "urn:li:fs_industry:99",
+        "firstName": "Biraj",
+        "entityUrn": "urn:li:fs_profile:ACoAABlgPxsBN_TuPsno84LiwT35FxylJ83tcBw",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:105607401"
+        },
+        "geoLocationName": "Guwahati, Assam",
+        "location": {
+            "basicLocation": {
+                "countryCode": "in"
+            }
+        },
+        "headline": "Product Designer | Design Strategist at TechVariable",
+        "displayPictureUrl": "https://media-exp1.licdn.com/dms/image/C4E03AQHEWBgjRiNN-Q/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/0/1599824395171?e=1657756800&v=beta&t=71kptXYmCFNp99Wrn4hQtUj1JnXpYJIYTDlxwBWWfok",
+        "img_200_200": "200_200/0/1599824395171?e=1657756800&v=beta&t=vIqvqcrd-aCksJgkZmbAog_Sa8Y7GX15LbDLYZ46w6E",
+        "img_400_400": "400_400/0/1599824395171?e=1657756800&v=beta&t=9eFTP4l7vZVksThy992xTFukKfgGcr6ENsJVQMa6qTg",
+        "img_800_800": "800_800/0/1599824395171?e=1657756800&v=beta&t=SkZi0SCMDJixwWEH4c-1ggWF0a3tdC88ml2k_N03zdk",
+        "profile_id": "ACoAABlgPxsBN_TuPsno84LiwT35FxylJ83tcBw",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAABlgPxsBN_TuPsno84LiwT35FxylJ83tcBw",
+        "member_urn": "urn:li:member:425738011",
+        "experience": [
+            {
+                "locationName": "Guwahati, Assam, India",
+                "entityUrn": "urn:li:fs_position:(ACoAABlgPxsBN_TuPsno84LiwT35FxylJ83tcBw,1771677309)",
+                "geoLocationName": "Guwahati, Assam, India",
+                "geoUrn": "urn:li:fs_geo:105607401",
+                "companyName": "TechVariable",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 4,
+                        "year": 2021
+                    }
+                },
+                "description": "Design and lead various B2B and B2C projects at TechVariable. Current responsibilities include - \n\u2022 UX Strategy and Research\n\u2022 Creative Direction and Brand Guidelines\n\u2022 Perform Various Usability Test and Feedbacks\n\u2022 Work in Collaboration with Developers and Maintain the Quality of Projects over at TechVariable",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Design Strategist",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:10632640",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQE6IzKHUZQmAA/company-logo_"
+            },
+            {
+                "locationName": "England, United Kingdom",
+                "entityUrn": "urn:li:fs_position:(ACoAABlgPxsBN_TuPsno84LiwT35FxylJ83tcBw,1686621695)",
+                "geoLocationName": "England, United Kingdom",
+                "geoUrn": "urn:li:fs_geo:102299470",
+                "companyName": "BridgeConnectBiz Ltd",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 8,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 10,
+                        "year": 2020
+                    }
+                },
+                "description": "\u2022 User research\n\u2022 User experience\n\u2022 3D Design/models\n\u2022 Augmented reality research & development",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 0,
+                        "end": 1
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Product Designer",
+                "region": "urn:li:fs_region:(gb,0)",
+                "companyUrn": "urn:li:fs_miniCompany:20751588",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQH4FKpjpKup8A/company-logo_"
+            },
+            {
+                "locationName": "Bengaluru, Karnataka, India",
+                "entityUrn": "urn:li:fs_position:(ACoAABlgPxsBN_TuPsno84LiwT35FxylJ83tcBw,1695786763)",
+                "geoLocationName": "Bengaluru, Karnataka, India",
+                "geoUrn": "urn:li:fs_geo:109710172",
+                "companyName": "TedrooX Technologies",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 5,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 11,
+                        "year": 2020
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 51,
+                        "end": 200
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "UI/UX Designer",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:13596267",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C560BAQH7-naUeb7rTQ/company-logo_"
+            },
+            {
+                "locationName": "Pune, Maharashtra, India",
+                "entityUrn": "urn:li:fs_position:(ACoAABlgPxsBN_TuPsno84LiwT35FxylJ83tcBw,1438973851)",
+                "geoLocationName": "Pune, Maharashtra, India",
+                "geoUrn": "urn:li:fs_geo:103671728",
+                "companyName": "Cognizant",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 11,
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "month": 11,
+                        "year": 2019
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "InfraSupport Engineer",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:1680",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQHrXDuCudeq6g/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAABlgPxsBN_TuPsno84LiwT35FxylJ83tcBw,583971980)",
+                "school": {
+                    "objectUrn": "urn:li:school:211781",
+                    "entityUrn": "urn:li:fs_miniSchool:211781",
+                    "active": true,
+                    "schoolName": "Royal School of Business / Royal School of engineering & Technology",
+                    "trackingId": "vHtC66mjSv2Y0mwmF4tWhQ=="
+                },
+                "activities": "teamwork, designing, 3D modeling, graphic designer",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "year": 2015
+                    }
+                },
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100360",
+                "degreeName": "Bachelor of Technology - BTech",
+                "schoolName": "Royal School of Business / Royal School of engineering & Technology",
+                "fieldOfStudy": "Mechanical Engineering",
+                "degreeUrn": "urn:li:fs_degree:250",
+                "schoolUrn": "urn:li:fs_miniSchool:211781"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAABlgPxsBN_TuPsno84LiwT35FxylJ83tcBw,583973298)",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2015
+                    },
+                    "startDate": {
+                        "year": 2013
+                    }
+                },
+                "degreeName": "AHSEC",
+                "schoolName": "Swadeshi Academy",
+                "fieldOfStudy": "science"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAABlgPxsBN_TuPsno84LiwT35FxylJ83tcBw,681341864)",
+                "school": {
+                    "objectUrn": "urn:li:school:483040",
+                    "entityUrn": "urn:li:fs_miniSchool:483040",
+                    "active": true,
+                    "schoolName": "St. Stephen's School",
+                    "trackingId": "SMLAy0XaRp2dUHhpJjmNlA==",
+                    "logoUrl": "https://media-exp1.licdn.com/dms/image/C510BAQG5rSYJhqBpJQ/company-logo_"
+                },
+                "activities": "Sports secretary",
+                "grade": "81 %",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2013
+                    },
+                    "startDate": {
+                        "year": 1999
+                    }
+                },
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100598",
+                "degreeName": "Hslc",
+                "schoolName": "St. Stephen's School",
+                "fieldOfStudy": "General Studies",
+                "schoolUrn": "urn:li:fs_miniSchool:483040"
+            }
+        ],
+        "languages": [],
+        "publications": [],
+        "certifications": [],
+        "volunteer": [],
+        "honors": [],
+        "projects": []
+    },
+    "contact_info": {
+        "email_address": null,
+        "websites": [
+            {
+                "url": "https://dribbble.com/Birajdas",
+                "label": "PORTFOLIO"
+            }
+        ],
+        "twitter": [],
+        "birthdate": {
+            "month": 10,
+            "day": 27
+        },
+        "ims": null,
+        "phone_numbers": []
+    },
+    "connections": [
+        {
+            "urn_id": "ACoAAByhqogBLFVDJbqojrVMhtKfC3o3hRfEcjg",
+            "distance": "DISTANCE_1",
+            "public_id": "biki-talukdar-460a54114",
+            "tracking_id": "480357000"
+        },
+        {
+            "urn_id": "ACoAABr4jt0BoOUmisITdRo1gR4CumG5I4jjZIw",
+            "distance": "DISTANCE_1",
+            "public_id": "samudra-deka-911659107",
+            "tracking_id": "452497117"
+        },
+        {
+            "urn_id": "ACoAADZmR9QB1zOH_PmrzQQw2wQmTJRTcNGU7CE",
+            "distance": "DISTANCE_1",
+            "public_id": "bkalita",
+            "tracking_id": "912672724"
+        },
+        {
+            "urn_id": "ACoAADLJzxsBizdB0nN5NZBCM41Q-z6-7ef5gyI",
+            "distance": "DISTANCE_1",
+            "public_id": "deepjyoti-kalita-78b4411b9",
+            "tracking_id": "852086555"
+        },
+        {
+            "urn_id": "ACoAAC2aUPYBGPB-T9xDu2Hjrq7OgzRPu5nTvyE",
+            "distance": "DISTANCE_1",
+            "public_id": "jintudas",
+            "tracking_id": "765087990"
+        },
+        {
+            "urn_id": "ACoAACT67ZEBgw1Aprl8Aqy8zWMavdTyaWs7J3w",
+            "distance": "DISTANCE_1",
+            "public_id": "titikshya-das-015942153",
+            "tracking_id": "620424593"
+        },
+        {
+            "urn_id": "ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE",
+            "distance": "DISTANCE_1",
+            "public_id": "prithoo11335",
+            "tracking_id": "231212168"
+        },
+        {
+            "urn_id": "ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY",
+            "distance": "DISTANCE_1",
+            "public_id": "tridip-das-b5837911b",
+            "tracking_id": "499568180"
+        },
+        {
+            "urn_id": "ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8",
+            "distance": "DISTANCE_1",
+            "public_id": "sivaranjan-goswami-790b4523",
+            "tracking_id": "83451420"
+        },
+        {
+            "urn_id": "ACoAACTFIIYB1cK_syRcCXEc0o8RTm4JMlhYcHA",
+            "distance": "DISTANCE_1",
+            "public_id": "arun-kumar-nath-686721152",
+            "tracking_id": "616898694"
+        },
+        {
+            "urn_id": "ACoAACDVs-sB_IgxPBMHMRBfR6is3jmwwV_OvTE",
+            "distance": "DISTANCE_1",
+            "public_id": "swapnil-bhattacharjee-ghy",
+            "tracking_id": "550876139"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Microsoft Office",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:366",
+            "standardizedSkill": {
+                "name": "Microsoft Office",
+                "entityUrn": "urn:li:fs_miniSkill:366"
+            }
+        },
+        {
+            "name": "SolidWorks",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:1801",
+            "standardizedSkill": {
+                "name": "SOLIDWORKS",
+                "entityUrn": "urn:li:fs_miniSkill:1801"
+            }
+        },
+        {
+            "name": "Team Building",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:1165",
+            "standardizedSkill": {
+                "name": "Team Building",
+                "entityUrn": "urn:li:fs_miniSkill:1165"
+            }
+        },
+        {
+            "name": "Graphic Design",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:207",
+            "standardizedSkill": {
+                "name": "Graphic Design",
+                "entityUrn": "urn:li:fs_miniSkill:207"
+            }
+        },
+        {
+            "name": "Computer-Aided Design (CAD)",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:1157",
+            "standardizedSkill": {
+                "name": "Computer-Aided Design (CAD)",
+                "entityUrn": "urn:li:fs_miniSkill:1157"
+            }
+        },
+        {
+            "name": "Sketching",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:2194",
+            "standardizedSkill": {
+                "name": "Sketching",
+                "entityUrn": "urn:li:fs_miniSkill:2194"
+            }
+        },
+        {
+            "name": "Adobe Photoshop"
+        },
+        {
+            "name": "User Interface Design"
+        },
+        {
+            "name": "User Experience (UX)"
+        },
+        {
+            "name": "3D Rendering"
+        },
+        {
+            "name": "Design"
+        },
+        {
+            "name": "User Experience Design (UED)"
+        },
+        {
+            "name": "Graphics"
+        },
+        {
+            "name": "ui/ux"
+        },
+        {
+            "name": "Adobe Illustrator",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:491",
+            "standardizedSkill": {
+                "name": "Adobe Illustrator",
+                "entityUrn": "urn:li:fs_miniSkill:491"
+            }
+        },
+        {
+            "name": "Product Design",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:1955",
+            "standardizedSkill": {
+                "name": "Product Design",
+                "entityUrn": "urn:li:fs_miniSkill:1955"
+            }
+        },
+        {
+            "name": "Packaging Design",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:755",
+            "standardizedSkill": {
+                "name": "Packaging Design",
+                "entityUrn": "urn:li:fs_miniSkill:755"
+            }
+        },
+        {
+            "name": "Web Design",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:272",
+            "standardizedSkill": {
+                "name": "Web Design",
+                "entityUrn": "urn:li:fs_miniSkill:272"
+            }
+        },
+        {
+            "name": "Logo Design",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:964",
+            "standardizedSkill": {
+                "name": "Logo Design",
+                "entityUrn": "urn:li:fs_miniSkill:964"
+            }
+        },
+        {
+            "name": "Blender",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:8927",
+            "standardizedSkill": {
+                "name": "Blender",
+                "entityUrn": "urn:li:fs_miniSkill:8927"
+            }
+        },
+        {
+            "name": "Motion Graphics",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:1778",
+            "standardizedSkill": {
+                "name": "Motion Graphics",
+                "entityUrn": "urn:li:fs_miniSkill:1778"
+            }
+        },
+        {
+            "name": "DashVariable - omni-channel data visualization for decision makers"
+        }
+    ]
+}

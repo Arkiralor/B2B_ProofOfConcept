@@ -1,0 +1,254 @@
+{
+    "profile": {
+        "summary": "You are only one decision away from truly transforming your life.\nMy primary goal is to follow my passion in Software Development  with similar mindset people to come up with products that put a significant impact towards future in Science and Technology. \nwww.angrysantos.netlify.app",
+        "industryName": "IT Services and IT Consulting",
+        "lastName": "Murmu",
+        "locationName": "India",
+        "student": false,
+        "geoCountryName": "India",
+        "geoCountryUrn": "urn:li:fs_geo:102713980",
+        "geoLocationBackfilled": false,
+        "elt": true,
+        "industryUrn": "urn:li:fs_industry:96",
+        "firstName": "Santosh",
+        "entityUrn": "urn:li:fs_profile:ACoAACWG77UB9drIGf1BISkKuhQBuY5cjABsme8",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:105607401"
+        },
+        "geoLocationName": "Guwahati, Assam",
+        "location": {
+            "basicLocation": {
+                "countryCode": "in"
+            }
+        },
+        "headline": "\ud83c\udfadFail more than expectation\ud83d\udc23",
+        "displayPictureUrl": "https://media-exp1.licdn.com/dms/image/D4E03AQFrEW8K6Yrjlg/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/0/1636421684985?e=1657756800&v=beta&t=cUuU8_KEc6iDDi1a2_R9rMeyD9rvRuSjF7n5cT6GbHo",
+        "img_200_200": "200_200/0/1636421684985?e=1657756800&v=beta&t=sN757uKGa_IaLwFBz_MP4CerpdE7g2JO2GJ5dHnGIns",
+        "img_400_400": "400_400/0/1636421684985?e=1657756800&v=beta&t=moc_NmNXuXOKXX5jRqPCI0INQyEfaANyRmd2EjuAcQQ",
+        "img_800_800": "800_800/0/1636421684985?e=1657756800&v=beta&t=iRxvGd2YY62nrXTBsY6TZEn_gYnGsiEBg9j1XxrUFgM",
+        "profile_id": "ACoAACWG77UB9drIGf1BISkKuhQBuY5cjABsme8",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAACWG77UB9drIGf1BISkKuhQBuY5cjABsme8",
+        "member_urn": "urn:li:member:629600181",
+        "experience": [
+            {
+                "locationName": "Guwahati, Assam, India",
+                "entityUrn": "urn:li:fs_position:(ACoAACWG77UB9drIGf1BISkKuhQBuY5cjABsme8,1951409628)",
+                "geoLocationName": "Guwahati, Assam, India",
+                "geoUrn": "urn:li:fs_geo:105607401",
+                "companyName": "TechVariable",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 4,
+                        "year": 2022
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Programmer Analyst",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:10632640",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQE6IzKHUZQmAA/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAACWG77UB9drIGf1BISkKuhQBuY5cjABsme8,637622902)",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "year": 2019
+                    }
+                },
+                "degreeName": "Graduation",
+                "schoolName": "University of Science Technology, Meghalaya India",
+                "fieldOfStudy": "Computer Science and Electronic"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAACWG77UB9drIGf1BISkKuhQBuY5cjABsme8,580065150)",
+                "school": {
+                    "objectUrn": "urn:li:school:207417",
+                    "entityUrn": "urn:li:fs_miniSchool:207417",
+                    "active": true,
+                    "schoolName": "B Borooah College",
+                    "trackingId": "VmVCuzthSfue4/pojmnEaQ=="
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "year": 2018
+                    }
+                },
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100703",
+                "degreeName": "BSc - Bachelor of Science",
+                "schoolName": "B Borooah College",
+                "fieldOfStudy": "Statistics",
+                "degreeUrn": "urn:li:fs_degree:400",
+                "schoolUrn": "urn:li:fs_miniSchool:207417"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAACWG77UB9drIGf1BISkKuhQBuY5cjABsme8,580064415)",
+                "activities": "Self Discovering",
+                "grade": "A",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "year": 2018
+                    }
+                },
+                "description": "Holla",
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:101440",
+                "degreeName": "Entrepreneurship",
+                "schoolName": "Entrepreneurship, India",
+                "fieldOfStudy": "Entrepreneurship/Entrepreneurial Studies"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "proficiency": "PROFESSIONAL_WORKING"
+            },
+            {
+                "name": "Hindi",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ],
+        "publications": [],
+        "certifications": [],
+        "volunteer": [],
+        "honors": [],
+        "projects": []
+    },
+    "contact_info": {
+        "email_address": null,
+        "websites": [
+            {
+                "url": "https://www.youracclaim.com/users/santosh-murmu",
+                "label": "PERSONAL"
+            }
+        ],
+        "twitter": [],
+        "birthdate": null,
+        "ims": null,
+        "phone_numbers": []
+    },
+    "connections": [
+        {
+            "urn_id": "ACoAABr4jt0BoOUmisITdRo1gR4CumG5I4jjZIw",
+            "distance": "DISTANCE_1",
+            "public_id": "samudra-deka-911659107",
+            "tracking_id": "452497117"
+        },
+        {
+            "urn_id": "ACoAADZmR9QB1zOH_PmrzQQw2wQmTJRTcNGU7CE",
+            "distance": "DISTANCE_1",
+            "public_id": "bkalita",
+            "tracking_id": "912672724"
+        },
+        {
+            "urn_id": "ACoAADLJzxsBizdB0nN5NZBCM41Q-z6-7ef5gyI",
+            "distance": "DISTANCE_1",
+            "public_id": "deepjyoti-kalita-78b4411b9",
+            "tracking_id": "852086555"
+        },
+        {
+            "urn_id": "ACoAAC2aUPYBGPB-T9xDu2Hjrq7OgzRPu5nTvyE",
+            "distance": "DISTANCE_1",
+            "public_id": "jintudas",
+            "tracking_id": "765087990"
+        },
+        {
+            "urn_id": "ACoAAAjgx0kBxJoPu_7t3kS1NbDizQekjIIzMbE",
+            "distance": "DISTANCE_1",
+            "public_id": "lakheswar-nath-289a7141",
+            "tracking_id": "148948809"
+        },
+        {
+            "urn_id": "ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE",
+            "distance": "DISTANCE_1",
+            "public_id": "prithoo11335",
+            "tracking_id": "231212168"
+        },
+        {
+            "urn_id": "ACoAACr0GSwBcmPDh22HqivG9h0JwG-eahXSYW8",
+            "distance": "DISTANCE_1",
+            "public_id": "nihar-kashyap98",
+            "tracking_id": "720640300"
+        },
+        {
+            "urn_id": "ACoAACbTg-gBtT_YqZc-FG2lIVBv13QTx8UUB8E",
+            "distance": "DISTANCE_1",
+            "public_id": "mridul24",
+            "tracking_id": "651396072"
+        },
+        {
+            "urn_id": "ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY",
+            "distance": "DISTANCE_1",
+            "public_id": "tridip-das-b5837911b",
+            "tracking_id": "499568180"
+        },
+        {
+            "urn_id": "ACoAACZxhUQBl1V8kpLj4ACrE2LzpatGvVzEgSA",
+            "distance": "DISTANCE_1",
+            "public_id": "nabajyoti-borah-944000160",
+            "tracking_id": "644973892"
+        },
+        {
+            "urn_id": "ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8",
+            "distance": "DISTANCE_1",
+            "public_id": "sivaranjan-goswami-790b4523",
+            "tracking_id": "83451420"
+        },
+        {
+            "urn_id": "ACoAACDVs-sB_IgxPBMHMRBfR6is3jmwwV_OvTE",
+            "distance": "DISTANCE_1",
+            "public_id": "swapnil-bhattacharjee-ghy",
+            "tracking_id": "550876139"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Entrepreneurship"
+        },
+        {
+            "name": "English",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:274",
+            "standardizedSkill": {
+                "name": "English",
+                "entityUrn": "urn:li:fs_miniSkill:274"
+            }
+        },
+        {
+            "name": "Science",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:300",
+            "standardizedSkill": {
+                "name": "Science",
+                "entityUrn": "urn:li:fs_miniSkill:300"
+            }
+        },
+        {
+            "name": "Business Strategy",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:697",
+            "standardizedSkill": {
+                "name": "Business Strategy",
+                "entityUrn": "urn:li:fs_miniSkill:697"
+            }
+        },
+        {
+            "name": "Ideas"
+        }
+    ]
+}

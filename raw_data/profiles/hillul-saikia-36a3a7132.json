@@ -128,7 +128,7 @@
                     "entityUrn": "urn:li:fs_miniSchool:161143",
                     "active": true,
                     "schoolName": "National Institute of Technology Silchar",
-                    "trackingId": "AV6cWVIoS5aUAcSLuJ8ubA==",
+                    "trackingId": "nWtb/1olQ0WSSjjh802ulA==",
                     "logoUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQFtUoITUxojtQ/company-logo_"
                 },
                 "timePeriod": {
@@ -208,7 +208,7 @@
                     },
                     "universalName": "oracle",
                     "dashCompanyUrn": "urn:li:fsd_company:1028",
-                    "trackingId": "6CIVIOX7TfO1r1mJwsIqqA=="
+                    "trackingId": "m2H82kZqR0GYyYx4YGn1xw=="
                 },
                 "companyUrn": "urn:li:fs_miniCompany:1028"
             }
@@ -230,6 +230,44 @@
         "ims": null,
         "phone_numbers": []
     },
+    "connections": [
+        {
+            "urn_id": "ACoAABr4jt0BoOUmisITdRo1gR4CumG5I4jjZIw",
+            "distance": "DISTANCE_1",
+            "public_id": "samudra-deka-911659107",
+            "tracking_id": "452497117"
+        },
+        {
+            "urn_id": "ACoAADLJzxsBizdB0nN5NZBCM41Q-z6-7ef5gyI",
+            "distance": "DISTANCE_1",
+            "public_id": "deepjyoti-kalita-78b4411b9",
+            "tracking_id": "852086555"
+        },
+        {
+            "urn_id": "ACoAAAjgx0kBxJoPu_7t3kS1NbDizQekjIIzMbE",
+            "distance": "DISTANCE_1",
+            "public_id": "lakheswar-nath-289a7141",
+            "tracking_id": "148948809"
+        },
+        {
+            "urn_id": "ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE",
+            "distance": "DISTANCE_1",
+            "public_id": "prithoo11335",
+            "tracking_id": "231212168"
+        },
+        {
+            "urn_id": "ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY",
+            "distance": "DISTANCE_1",
+            "public_id": "tridip-das-b5837911b",
+            "tracking_id": "499568180"
+        },
+        {
+            "urn_id": "ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8",
+            "distance": "DISTANCE_1",
+            "public_id": "sivaranjan-goswami-790b4523",
+            "tracking_id": "83451420"
+        }
+    ],
     "skills": [
         {
             "name": "Microsoft Office"

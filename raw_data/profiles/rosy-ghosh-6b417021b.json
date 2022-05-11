@@ -1,0 +1,192 @@
+{
+    "profile": {
+        "summary": "Applying the acquired knowledge while providing support to Human Resource.\n\nTo obtain position in Human Resource Management where able to expand knowledge, gain expertise, and make an immediate contribution as an integral part of the organization.",
+        "industryName": "IT Services and IT Consulting",
+        "lastName": "Ghosh",
+        "locationName": "India",
+        "student": false,
+        "geoCountryName": "India",
+        "geoCountryUrn": "urn:li:fs_geo:102713980",
+        "geoLocationBackfilled": false,
+        "elt": true,
+        "industryUrn": "urn:li:fs_industry:96",
+        "firstName": "Rosy",
+        "entityUrn": "urn:li:fs_profile:ACoAADdf9ugBA-_eipqyHDhlDP-6PL825JJ94GU",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:106669944"
+        },
+        "geoLocationName": "Guwahati, Assam",
+        "location": {
+            "basicLocation": {
+                "countryCode": "in"
+            }
+        },
+        "headline": "Human Resource Intern",
+        "displayPictureUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQGAwn-TYUagDw/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/0/1630317567408?e=1657756800&v=beta&t=v8Ikl_P4OdcaEPwe-O_s5tNtp8ZDQIIPSdQNqClXUJ4",
+        "img_200_200": "200_200/0/1630317567408?e=1657756800&v=beta&t=nNJgWRCGTkw-YbnyyMzMsqVcESZj8vjpd-d3J9HAh48",
+        "img_400_400": "400_400/0/1630317567408?e=1657756800&v=beta&t=YSTY0LnQZiVliFmsuvY8INumXYFnE1Ee-JdxXd-237Q",
+        "img_800_800": "800_800/0/1630317567408?e=1657756800&v=beta&t=86KwBGKB2qVQMCt2IlVYjz5ruA3eQsfGyqWGIePee_s",
+        "profile_id": "ACoAADdf9ugBA-_eipqyHDhlDP-6PL825JJ94GU",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAADdf9ugBA-_eipqyHDhlDP-6PL825JJ94GU",
+        "member_urn": "urn:li:member:929036008",
+        "experience": [
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAADdf9ugBA-_eipqyHDhlDP-6PL825JJ94GU,1829575894)",
+                "companyName": "TechVariable",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 8,
+                        "year": 2021
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Human Resources Intern",
+                "companyUrn": "urn:li:fs_miniCompany:10632640",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQE6IzKHUZQmAA/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAADdf9ugBA-_eipqyHDhlDP-6PL825JJ94GU,742567294)",
+                "school": {
+                    "objectUrn": "urn:li:school:203875",
+                    "entityUrn": "urn:li:fs_miniSchool:203875",
+                    "active": true,
+                    "schoolName": "Dispur College",
+                    "trackingId": "N7p0S4Z4SKudDUyW2pvWcg=="
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "month": 8,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2018
+                    }
+                },
+                "degreeName": "Bachelor's of Computer Application ",
+                "schoolName": "Dispur College",
+                "schoolUrn": "urn:li:fs_miniSchool:203875"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAADdf9ugBA-_eipqyHDhlDP-6PL825JJ94GU,742558921)",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 5,
+                        "year": 2018
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2004
+                    }
+                },
+                "schoolName": "Saint Francis De Sales school",
+                "fieldOfStudy": "Schooling"
+            }
+        ],
+        "languages": [],
+        "publications": [],
+        "certifications": [],
+        "volunteer": [],
+        "honors": [],
+        "projects": []
+    },
+    "contact_info": {
+        "email_address": null,
+        "websites": [],
+        "twitter": [],
+        "birthdate": null,
+        "ims": null,
+        "phone_numbers": []
+    },
+    "connections": [
+        {
+            "urn_id": "ACoAABr4jt0BoOUmisITdRo1gR4CumG5I4jjZIw",
+            "distance": "DISTANCE_1",
+            "public_id": "samudra-deka-911659107",
+            "tracking_id": "452497117"
+        },
+        {
+            "urn_id": "ACoAADLJzxsBizdB0nN5NZBCM41Q-z6-7ef5gyI",
+            "distance": "DISTANCE_1",
+            "public_id": "deepjyoti-kalita-78b4411b9",
+            "tracking_id": "852086555"
+        },
+        {
+            "urn_id": "ACoAACT67ZEBgw1Aprl8Aqy8zWMavdTyaWs7J3w",
+            "distance": "DISTANCE_1",
+            "public_id": "titikshya-das-015942153",
+            "tracking_id": "620424593"
+        },
+        {
+            "urn_id": "ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY",
+            "distance": "DISTANCE_1",
+            "public_id": "tridip-das-b5837911b",
+            "tracking_id": "499568180"
+        },
+        {
+            "urn_id": "ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8",
+            "distance": "DISTANCE_1",
+            "public_id": "sivaranjan-goswami-790b4523",
+            "tracking_id": "83451420"
+        },
+        {
+            "urn_id": "ACoAACDVs-sB_IgxPBMHMRBfR6is3jmwwV_OvTE",
+            "distance": "DISTANCE_1",
+            "public_id": "swapnil-bhattacharjee-ghy",
+            "tracking_id": "550876139"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Human Resources (HR)",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:49",
+            "standardizedSkill": {
+                "name": "Human Resources (HR)",
+                "entityUrn": "urn:li:fs_miniSkill:49"
+            }
+        },
+        {
+            "name": "Technical Recruiting",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:909",
+            "standardizedSkill": {
+                "name": "Technical Recruiting",
+                "entityUrn": "urn:li:fs_miniSkill:909"
+            }
+        },
+        {
+            "name": "Screening Resumes",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:10367",
+            "standardizedSkill": {
+                "name": "Screening Resumes",
+                "entityUrn": "urn:li:fs_miniSkill:10367"
+            }
+        },
+        {
+            "name": "Interviewing",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:542",
+            "standardizedSkill": {
+                "name": "Interviewing",
+                "entityUrn": "urn:li:fs_miniSkill:542"
+            }
+        },
+        {
+            "name": "Interpersonal Skills",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:8399",
+            "standardizedSkill": {
+                "name": "Interpersonal Skills",
+                "entityUrn": "urn:li:fs_miniSkill:8399"
+            }
+        }
+    ]
+}

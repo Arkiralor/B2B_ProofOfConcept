@@ -1,0 +1,885 @@
+{
+    "profile": {
+        "industryName": "Research Services",
+        "lastName": "Karnawat",
+        "locationName": "India",
+        "student": false,
+        "geoCountryName": "India",
+        "geoCountryUrn": "urn:li:fs_geo:102713980",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "industryUrn": "urn:li:fs_industry:70",
+        "firstName": "Aabhas",
+        "entityUrn": "urn:li:fs_profile:ACoAACDaNTUBuaff2fs967iL9Ci18be81DvChA0",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:105307040"
+        },
+        "geoLocationName": "Bengaluru, Karnataka",
+        "location": {
+            "basicLocation": {
+                "countryCode": "in"
+            }
+        },
+        "headline": "Senior Engineer(Data Science) @ CleverTap",
+        "displayPictureUrl": "https://media-exp1.licdn.com/dms/image/C5103AQFzh45FRZERCA/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/0/1582695819347?e=1657756800&v=beta&t=Elr8CXR-WzTefgLk66Gt6a4bNFCFlHqTSRxrUzBNHmg",
+        "img_200_200": "200_200/0/1582695819347?e=1657756800&v=beta&t=4Lbfba4JpfxvjoUN-_JFML0KkBagwr-ZeNBib_DSHLU",
+        "img_400_400": "400_400/0/1582695819347?e=1657756800&v=beta&t=I8zRcbly4hr6xYUVNHGd4XrHY_Iz2cG9juMblNfSa80",
+        "img_800_800": "800_800/0/1582695819347?e=1657756800&v=beta&t=iF6biiaBJKCXFsGzxg9-U_qTpRyvLNmSQe1ATj2FV7M",
+        "profile_id": "ACoAACDaNTUBuaff2fs967iL9Ci18be81DvChA0",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAACDaNTUBuaff2fs967iL9Ci18be81DvChA0",
+        "member_urn": "urn:li:member:551171381",
+        "experience": [
+            {
+                "locationName": "Mumbai, Maharashtra, India",
+                "entityUrn": "urn:li:fs_position:(ACoAACDaNTUBuaff2fs967iL9Ci18be81DvChA0,1841370838)",
+                "geoLocationName": "Mumbai, Maharashtra, India",
+                "geoUrn": "urn:li:fs_geo:106164952",
+                "companyName": "CleverTap",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 9,
+                        "year": 2021
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 201,
+                        "end": 500
+                    },
+                    "industries": [
+                        "Internet"
+                    ]
+                },
+                "title": "Senior Engineer(Data Science)",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:6611801",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQGmkxtT4Ywv0Q/company-logo_"
+            },
+            {
+                "locationName": "Bangalore",
+                "entityUrn": "urn:li:fs_position:(ACoAACDaNTUBuaff2fs967iL9Ci18be81DvChA0,1492072421)",
+                "geoLocationName": "Bangalore",
+                "companyName": "SAP Labs India",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 9,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 7,
+                        "year": 2019
+                    }
+                },
+                "description": "Part of a team dealing with industrial problems related to Artificial Intelligence and Machine learning. Worked on various projects and proof of concepts that involved the domains of computer vision, natural language processing, optimization, and time series forecasting.\n\nRoles and Responsibilities:\n- Developed artifacts related to Data Science and ML Competency in SAP IBSo APJ (Innovative Business Solutions, Asia-Pacific-Japan) as part of Team Portfolio.\n\n- Designed end-to-end Intelligent invoice processing solution for classification of invoice pages, extraction of required fields, and prediction of relevant information, using State-of-the-art deep learning, NLP, and image processing techniques to automate P2P process in SAP Data Intelligence and SAP Intelligent RPA.\n\n- Devised demand-based inventory management solution, integrated with SAP S/4 HANA, to ensure optimal stock availability and predicting next order date and quantity using mathematical modeling and forecasting demand using time series techniques.\n\n- Developed a custom classification solution for classifying relief requests related to healthcare facilities, food, and travel queries by analyzing raw text from requests received and classify them using Language Models and various techniques in NLP.\n\n- Collaborated with the Government of Karnataka in order to introduce ML capabilities in a solution aimed at providing relief during the COVID-19 pandemic.\n\n- Conducted various organizational activities like interviewing candidates for data science roles, conducting ML/AI workshops in TIER - 1 college, and Diversity and Inclusion workshops within the organisation.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Research"
+                    ]
+                },
+                "title": "Data Scientist",
+                "companyUrn": "urn:li:fs_miniCompany:13316469",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQEaaj4f0MjhAA/company-logo_"
+            },
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAACDaNTUBuaff2fs967iL9Ci18be81DvChA0,1313027201)",
+                "companyName": "TechVariable",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 7,
+                        "year": 2018
+                    },
+                    "startDate": {
+                        "month": 5,
+                        "year": 2018
+                    }
+                },
+                "description": "\u2022 Devised data-driven enterprise solution to optimize subsurface mapping, forecasting oil production, and scheduling maintenance of wells using machine learning algorithms and optimization techniques based on Nodal and Decline curve analysis.\n\u2022 Developed mathematical equations based on the Arps and Power Law Model to predict future oil trends and behavior of unconventional wells with large amounts of customer data from petrochemical industries.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Data Science Intern",
+                "companyUrn": "urn:li:fs_miniCompany:10632640",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQE6IzKHUZQmAA/company-logo_"
+            },
+            {
+                "locationName": "Ahemdabad",
+                "entityUrn": "urn:li:fs_position:(ACoAACDaNTUBuaff2fs967iL9Ci18be81DvChA0,1031791975)",
+                "geoLocationName": "Ahemdabad",
+                "companyName": "Oil and Natural Gas Corporation Ltd",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 8,
+                        "year": 2017
+                    },
+                    "startDate": {
+                        "month": 7,
+                        "year": 2017
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Oil & Energy"
+                    ]
+                },
+                "title": "Summer Trainee",
+                "companyUrn": "urn:li:fs_miniCompany:10219",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C510BAQFEGnMHoXF2BA/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAACDaNTUBuaff2fs967iL9Ci18be81DvChA0,382675256)",
+                "school": {
+                    "objectUrn": "urn:li:school:13498",
+                    "entityUrn": "urn:li:fs_miniSchool:13498",
+                    "active": true,
+                    "schoolName": "Indian Institute of Technology, Guwahati",
+                    "trackingId": "lE22YYLiSTeVDWkw/QE5mQ==",
+                    "logoUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQFsVma02aZ5dg/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "year": 2015
+                    }
+                },
+                "degreeName": "Bachelor\u2019s Degree",
+                "schoolName": "Indian Institute of Technology, Guwahati",
+                "fieldOfStudy": "Chemical Engineering",
+                "schoolUrn": "urn:li:fs_miniSchool:13498"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "proficiency": "PROFESSIONAL_WORKING"
+            },
+            {
+                "name": "German",
+                "proficiency": "ELEMENTARY"
+            },
+            {
+                "name": "Hindi",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ],
+        "publications": [
+            {
+                "date": {
+                    "month": 12,
+                    "year": 2020,
+                    "day": 30
+                },
+                "name": "N-doped carbon dot from cigarette-tobacco: Picric acid sensing in real water sample and synthesis of CD-MWCNT nano-composite for UV-photodetection ",
+                "publisher": "Elsevier",
+                "url": "https://www.sciencedirect.com/science/article/abs/pii/S2213343720313208?via%3Dihub",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Aabhas",
+                            "lastName": "Karnawat",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACDaNTUBuaff2fs967iL9Ci18be81DvChA0",
+                            "occupation": "Senior Engineer(Data Science) @ CleverTap",
+                            "objectUrn": "urn:li:member:551171381",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACDaNTUBuaff2fs967iL9Ci18be81DvChA0",
+                            "publicIdentifier": "ak4403",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1582695819347?e=1657756800&v=beta&t=Elr8CXR-WzTefgLk66Gt6a4bNFCFlHqTSRxrUzBNHmg",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1582695819347?e=1657756800&v=beta&t=4Lbfba4JpfxvjoUN-_JFML0KkBagwr-ZeNBib_DSHLU",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1582695819347?e=1657756800&v=beta&t=I8zRcbly4hr6xYUVNHGd4XrHY_Iz2cG9juMblNfSa80",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1582695819347?e=1657756800&v=beta&t=iF6biiaBJKCXFsGzxg9-U_qTpRyvLNmSQe1ATj2FV7M",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5103AQFzh45FRZERCA/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "PlIEY7HRTCeLcWKqxfCi5w=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACDaNTUBuaff2fs967iL9Ci18be81DvChA0"
+                    }
+                ]
+            }
+        ],
+        "certifications": [
+            {
+                "authority": "Coursera Course Certificates",
+                "name": "HTML, CSS ,JavaScript,bootstrap,php",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 5,
+                        "year": 2016
+                    }
+                },
+                "licenseNumber": "KRPMDUCPBPNY",
+                "company": {
+                    "objectUrn": "urn:li:company:3526187",
+                    "entityUrn": "urn:li:fs_miniCompany:3526187",
+                    "name": "Coursera Course Certificates",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1519872880167?e=1660176000&v=beta&t=xxUOVKdzksz190CjZRgNYcbeVERHFg8llBkY3to16ko",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1519872880167?e=1660176000&v=beta&t=OdnOfRD0Oq9YUqB-bU_tQS7PLOA3K6mA2sO6Jmbjf_U",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1519872880167?e=1660176000&v=beta&t=IFebD1GLTMkq7-kNpgoZ0JoZI2QL9Jy1wcQf3Bx-wy4",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQG24u4DKpQ5dQ/company-logo_"
+                        }
+                    },
+                    "universalName": "coursera-verified",
+                    "dashCompanyUrn": "urn:li:fsd_company:3526187",
+                    "trackingId": "iE//3Ra4Rx6CxDmsx8K3Gw=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:3526187",
+                "url": "https://www.coursera.org/account/accomplishments/verify/KRPMDUCPBPNY"
+            },
+            {
+                "authority": "Coursera",
+                "name": "Convolutional Neural Networks",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 6,
+                        "year": 2019
+                    }
+                },
+                "licenseNumber": "YQ6YVR7RLL3U",
+                "company": {
+                    "objectUrn": "urn:li:company:2453129",
+                    "entityUrn": "urn:li:fs_miniCompany:2453129",
+                    "name": "Coursera",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1608039227697?e=1660176000&v=beta&t=24dSeYZFSUztRaUy6-QqI0GSTK5-7tfyOci9sanIOTE",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1608039227697?e=1660176000&v=beta&t=8mJvTc5z6PI8olmLRWSi-xaA6ZOeYWkWcZiqxFWbrhE",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1608039227697?e=1660176000&v=beta&t=o8C5zQF49vmVYRAgj4K1Q2W5kUw9P0IZwKQoBFhnmDc",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQGexnfBxeEG-g/company-logo_"
+                        }
+                    },
+                    "universalName": "coursera",
+                    "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                    "trackingId": "MtBGp+pyT9mCufwf4IU2Jg=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:2453129",
+                "url": "https://www.coursera.org/account/accomplishments/verify/YQ6YVR7RLL3U"
+            },
+            {
+                "authority": "Coursera",
+                "name": " Structuring Machine Learning Projects",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 3,
+                        "year": 2019
+                    }
+                },
+                "licenseNumber": "6RGS2F36LXM5",
+                "company": {
+                    "objectUrn": "urn:li:company:2453129",
+                    "entityUrn": "urn:li:fs_miniCompany:2453129",
+                    "name": "Coursera",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1608039227697?e=1660176000&v=beta&t=24dSeYZFSUztRaUy6-QqI0GSTK5-7tfyOci9sanIOTE",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1608039227697?e=1660176000&v=beta&t=8mJvTc5z6PI8olmLRWSi-xaA6ZOeYWkWcZiqxFWbrhE",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1608039227697?e=1660176000&v=beta&t=o8C5zQF49vmVYRAgj4K1Q2W5kUw9P0IZwKQoBFhnmDc",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQGexnfBxeEG-g/company-logo_"
+                        }
+                    },
+                    "universalName": "coursera",
+                    "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                    "trackingId": "SJi+PCuHTBeK5lno9aAgCQ=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:2453129",
+                "url": "https://www.coursera.org/account/accomplishments/verify/6RGS2F36LXM5"
+            },
+            {
+                "authority": "Coursera",
+                "name": "Sequence Models",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 7,
+                        "year": 2019
+                    }
+                },
+                "licenseNumber": "MNM34M8HJX9M",
+                "company": {
+                    "objectUrn": "urn:li:company:2453129",
+                    "entityUrn": "urn:li:fs_miniCompany:2453129",
+                    "name": "Coursera",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1608039227697?e=1660176000&v=beta&t=24dSeYZFSUztRaUy6-QqI0GSTK5-7tfyOci9sanIOTE",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1608039227697?e=1660176000&v=beta&t=8mJvTc5z6PI8olmLRWSi-xaA6ZOeYWkWcZiqxFWbrhE",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1608039227697?e=1660176000&v=beta&t=o8C5zQF49vmVYRAgj4K1Q2W5kUw9P0IZwKQoBFhnmDc",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQGexnfBxeEG-g/company-logo_"
+                        }
+                    },
+                    "universalName": "coursera",
+                    "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                    "trackingId": "EtDODXeZTrWU8MHO6BNgcA=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:2453129",
+                "url": "https://www.coursera.org/account/accomplishments/verify/MNM34M8HJX9M"
+            },
+            {
+                "authority": "LinkedIn",
+                "name": "Blockchain Basics",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 1,
+                        "year": 2020
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:1337",
+                    "entityUrn": "urn:li:fs_miniCompany:1337",
+                    "name": "LinkedIn",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1638831589865?e=1660176000&v=beta&t=BLQftLy0Qs0EBVJIuWPMuAUeYUwk2NFkGV64ugXQRGo",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1638831589865?e=1660176000&v=beta&t=x5azEgZkHPR5MQHKe-JAU7OCpzuevGQIN2iQzEXm7FA",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1638831589865?e=1660176000&v=beta&t=4ByckqnOSGF1jY0ieSfxachmGJ0dfUy8ErhiMjGS9p8",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_"
+                        }
+                    },
+                    "universalName": "linkedin",
+                    "dashCompanyUrn": "urn:li:fsd_company:1337",
+                    "trackingId": "WxavcDVDT3m5YgzcVCS5IA=="
+                },
+                "displaySource": "linkedin.com",
+                "companyUrn": "urn:li:fs_miniCompany:1337",
+                "url": "http://www.linkedin.com/learning/blockchain-basics"
+            },
+            {
+                "authority": "LinkedIn",
+                "name": "Introducing Maven",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 6,
+                        "year": 2021
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:1337",
+                    "entityUrn": "urn:li:fs_miniCompany:1337",
+                    "name": "LinkedIn",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1638831589865?e=1660176000&v=beta&t=BLQftLy0Qs0EBVJIuWPMuAUeYUwk2NFkGV64ugXQRGo",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1638831589865?e=1660176000&v=beta&t=x5azEgZkHPR5MQHKe-JAU7OCpzuevGQIN2iQzEXm7FA",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1638831589865?e=1660176000&v=beta&t=4ByckqnOSGF1jY0ieSfxachmGJ0dfUy8ErhiMjGS9p8",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_"
+                        }
+                    },
+                    "universalName": "linkedin",
+                    "dashCompanyUrn": "urn:li:fsd_company:1337",
+                    "trackingId": "Lj9J1Rw7Tt6EUvC+rVDQjg=="
+                },
+                "displaySource": "linkedin.com",
+                "companyUrn": "urn:li:fs_miniCompany:1337",
+                "url": "https://www.linkedin.com/learning/introducing-maven"
+            },
+            {
+                "authority": "LinkedIn",
+                "name": "Learning Spring with Spring Boot",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 6,
+                        "year": 2021
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:1337",
+                    "entityUrn": "urn:li:fs_miniCompany:1337",
+                    "name": "LinkedIn",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1638831589865?e=1660176000&v=beta&t=BLQftLy0Qs0EBVJIuWPMuAUeYUwk2NFkGV64ugXQRGo",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1638831589865?e=1660176000&v=beta&t=x5azEgZkHPR5MQHKe-JAU7OCpzuevGQIN2iQzEXm7FA",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1638831589865?e=1660176000&v=beta&t=4ByckqnOSGF1jY0ieSfxachmGJ0dfUy8ErhiMjGS9p8",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_"
+                        }
+                    },
+                    "universalName": "linkedin",
+                    "dashCompanyUrn": "urn:li:fsd_company:1337",
+                    "trackingId": "YeSmdmqKSz+KMWjT1DS7gQ=="
+                },
+                "displaySource": "linkedin.com",
+                "companyUrn": "urn:li:fs_miniCompany:1337",
+                "url": "https://www.linkedin.com/learning/learning-spring-with-spring-boot-2"
+            },
+            {
+                "authority": "LinkedIn",
+                "name": "Learning Java",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 6,
+                        "year": 2021
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:1337",
+                    "entityUrn": "urn:li:fs_miniCompany:1337",
+                    "name": "LinkedIn",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1638831589865?e=1660176000&v=beta&t=BLQftLy0Qs0EBVJIuWPMuAUeYUwk2NFkGV64ugXQRGo",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1638831589865?e=1660176000&v=beta&t=x5azEgZkHPR5MQHKe-JAU7OCpzuevGQIN2iQzEXm7FA",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1638831589865?e=1660176000&v=beta&t=4ByckqnOSGF1jY0ieSfxachmGJ0dfUy8ErhiMjGS9p8",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_"
+                        }
+                    },
+                    "universalName": "linkedin",
+                    "dashCompanyUrn": "urn:li:fsd_company:1337",
+                    "trackingId": "4+z6NIFATJ2LKph3Qj+5cQ=="
+                },
+                "displaySource": "linkedin.com",
+                "companyUrn": "urn:li:fs_miniCompany:1337",
+                "url": "https://www.linkedin.com/learning/learning-java-4"
+            }
+        ],
+        "volunteer": [],
+        "honors": [],
+        "projects": []
+    },
+    "contact_info": {
+        "email_address": null,
+        "websites": [],
+        "twitter": [],
+        "birthdate": null,
+        "ims": null,
+        "phone_numbers": []
+    },
+    "connections": [
+        {
+            "urn_id": "ACoAAC24GToBKzC8vS7jZaCEqoq3Jse_M2Tson8",
+            "distance": "DISTANCE_1",
+            "public_id": "abhijit-paul-936a68194",
+            "tracking_id": "767039802"
+        },
+        {
+            "urn_id": "ACoAAByhqogBLFVDJbqojrVMhtKfC3o3hRfEcjg",
+            "distance": "DISTANCE_1",
+            "public_id": "biki-talukdar-460a54114",
+            "tracking_id": "480357000"
+        },
+        {
+            "urn_id": "ACoAABr4jt0BoOUmisITdRo1gR4CumG5I4jjZIw",
+            "distance": "DISTANCE_1",
+            "public_id": "samudra-deka-911659107",
+            "tracking_id": "452497117"
+        },
+        {
+            "urn_id": "ACoAADZmR9QB1zOH_PmrzQQw2wQmTJRTcNGU7CE",
+            "distance": "DISTANCE_1",
+            "public_id": "bkalita",
+            "tracking_id": "912672724"
+        },
+        {
+            "urn_id": "ACoAADLJzxsBizdB0nN5NZBCM41Q-z6-7ef5gyI",
+            "distance": "DISTANCE_1",
+            "public_id": "deepjyoti-kalita-78b4411b9",
+            "tracking_id": "852086555"
+        },
+        {
+            "urn_id": "ACoAADe3CFYBsoFdtSEajXbg51HDagdpBEb3kx4",
+            "distance": "DISTANCE_1",
+            "public_id": "binud-panging-872062221",
+            "tracking_id": "934742102"
+        },
+        {
+            "urn_id": "ACoAAC2aUPYBGPB-T9xDu2Hjrq7OgzRPu5nTvyE",
+            "distance": "DISTANCE_1",
+            "public_id": "jintudas",
+            "tracking_id": "765087990"
+        },
+        {
+            "urn_id": "ACoAACT67ZEBgw1Aprl8Aqy8zWMavdTyaWs7J3w",
+            "distance": "DISTANCE_1",
+            "public_id": "titikshya-das-015942153",
+            "tracking_id": "620424593"
+        },
+        {
+            "urn_id": "ACoAAAjgx0kBxJoPu_7t3kS1NbDizQekjIIzMbE",
+            "distance": "DISTANCE_1",
+            "public_id": "lakheswar-nath-289a7141",
+            "tracking_id": "148948809"
+        },
+        {
+            "urn_id": "ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE",
+            "distance": "DISTANCE_1",
+            "public_id": "prithoo11335",
+            "tracking_id": "231212168"
+        },
+        {
+            "urn_id": "ACoAACr0GSwBcmPDh22HqivG9h0JwG-eahXSYW8",
+            "distance": "DISTANCE_1",
+            "public_id": "nihar-kashyap98",
+            "tracking_id": "720640300"
+        },
+        {
+            "urn_id": "ACoAACeXhGEBEVCUXmKi5rowUSeFZNerPjvzQsc",
+            "distance": "DISTANCE_1",
+            "public_id": "mahbubul-haque-a55552166",
+            "tracking_id": "664241249"
+        },
+        {
+            "urn_id": "ACoAACzP6KMBcLKqKnFRpIudaukkoW4NoqstgrM",
+            "distance": "DISTANCE_1",
+            "public_id": "pranit-prakash-sahu",
+            "tracking_id": "751823011"
+        },
+        {
+            "urn_id": "ACoAACbTg-gBtT_YqZc-FG2lIVBv13QTx8UUB8E",
+            "distance": "DISTANCE_1",
+            "public_id": "mridul24",
+            "tracking_id": "651396072"
+        },
+        {
+            "urn_id": "ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY",
+            "distance": "DISTANCE_1",
+            "public_id": "tridip-das-b5837911b",
+            "tracking_id": "499568180"
+        },
+        {
+            "urn_id": "ACoAAAI9wXoBijRhLoxf7BO8UTK0DX-7KexJV30",
+            "distance": "DISTANCE_1",
+            "public_id": "boren-ghosh-27671410",
+            "tracking_id": "37601658"
+        },
+        {
+            "urn_id": "ACoAACZxhUQBl1V8kpLj4ACrE2LzpatGvVzEgSA",
+            "distance": "DISTANCE_1",
+            "public_id": "nabajyoti-borah-944000160",
+            "tracking_id": "644973892"
+        },
+        {
+            "urn_id": "ACoAABYq8T8ByHFGBUFRrHT5iKBI2u4YZjTLHFc",
+            "distance": "DISTANCE_1",
+            "public_id": "netranjit-borgohain-53b677a4",
+            "tracking_id": "371913023"
+        },
+        {
+            "urn_id": "ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8",
+            "distance": "DISTANCE_1",
+            "public_id": "sivaranjan-goswami-790b4523",
+            "tracking_id": "83451420"
+        },
+        {
+            "urn_id": "ACoAACTFIIYB1cK_syRcCXEc0o8RTm4JMlhYcHA",
+            "distance": "DISTANCE_1",
+            "public_id": "arun-kumar-nath-686721152",
+            "tracking_id": "616898694"
+        },
+        {
+            "urn_id": "ACoAAC4efLABFBv0f30-SDGDgLSf1gXTlkpJTfc",
+            "distance": "DISTANCE_1",
+            "public_id": "shawan-mandal",
+            "tracking_id": "773749936"
+        },
+        {
+            "urn_id": "ACoAACDVs-sB_IgxPBMHMRBfR6is3jmwwV_OvTE",
+            "distance": "DISTANCE_1",
+            "public_id": "swapnil-bhattacharjee-ghy",
+            "tracking_id": "550876139"
+        },
+        {
+            "urn_id": "ACoAACUEZ3QB2Xm0OWR0cqoc_u-o4KW_OENO1_8",
+            "distance": "DISTANCE_1",
+            "public_id": "rajan-sahu",
+            "tracking_id": "621045620"
+        },
+        {
+            "urn_id": "ACoAAC12ZqEBCx9JN_YIi1eF1FPPDif3mXI3fyc",
+            "distance": "DISTANCE_1",
+            "public_id": "abinash-panigrahi-169531193",
+            "tracking_id": "762734241"
+        },
+        {
+            "urn_id": "ACoAACYmrvgBRdvWxItbY_KP_fyrEgZ9U-QKJqk",
+            "distance": "DISTANCE_1",
+            "public_id": "rtsu",
+            "tracking_id": "640069368"
+        },
+        {
+            "urn_id": "ACoAADRMKTMBj76XTPRfB9R5rvfwNOXP2n93n4c",
+            "distance": "DISTANCE_1",
+            "public_id": "manash-deka-497a12205",
+            "tracking_id": "877406515"
+        },
+        {
+            "urn_id": "ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc",
+            "distance": "DISTANCE_1",
+            "public_id": "ratnadeep-bhattacharjee",
+            "tracking_id": "135079003"
+        },
+        {
+            "urn_id": "ACoAAAR5v8MBjPwCvp8TP9RWZyGSeNYNiJ1wKJE",
+            "distance": "DISTANCE_1",
+            "public_id": "nilotpal-boruah",
+            "tracking_id": "75087811"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Big Data",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:19754",
+            "standardizedSkill": {
+                "name": "Big Data",
+                "entityUrn": "urn:li:fs_miniSkill:19754"
+            }
+        },
+        {
+            "name": "Blockchain",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:55390",
+            "standardizedSkill": {
+                "name": "Blockchain",
+                "entityUrn": "urn:li:fs_miniSkill:55390"
+            }
+        },
+        {
+            "name": "Databases",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:523",
+            "standardizedSkill": {
+                "name": "Databases",
+                "entityUrn": "urn:li:fs_miniSkill:523"
+            }
+        },
+        {
+            "name": "Maven",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:3140",
+            "standardizedSkill": {
+                "name": "Maven",
+                "entityUrn": "urn:li:fs_miniSkill:3140"
+            }
+        },
+        {
+            "name": "Back-End Web Development",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:42068",
+            "standardizedSkill": {
+                "name": "Back-End Web Development",
+                "entityUrn": "urn:li:fs_miniSkill:42068"
+            }
+        },
+        {
+            "name": "Java",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:147",
+            "standardizedSkill": {
+                "name": "Java",
+                "entityUrn": "urn:li:fs_miniSkill:147"
+            }
+        },
+        {
+            "name": "Spring Boot",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:55044",
+            "standardizedSkill": {
+                "name": "Spring Boot",
+                "entityUrn": "urn:li:fs_miniSkill:55044"
+            }
+        },
+        {
+            "name": "Spring Framework",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:1226",
+            "standardizedSkill": {
+                "name": "Spring Framework",
+                "entityUrn": "urn:li:fs_miniSkill:1226"
+            }
+        },
+        {
+            "name": "Software Development",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:602",
+            "standardizedSkill": {
+                "name": "Software Development",
+                "entityUrn": "urn:li:fs_miniSkill:602"
+            }
+        }
+    ]
+}

@@ -1,0 +1,950 @@
+{
+    "profile": {
+        "summary": "Hi, I am Raju Kumar Singh working as Analyst at Deloitte India I have completed my B.Tech in Computer Science and Engineering from Tezpur University. My area of interests are Cloud Ops, Big Data, Backend WebDev and Problem Solving as well. Thank You for visiting my profile!!",
+        "industryName": "IT Services and IT Consulting",
+        "lastName": "Singh",
+        "locationName": "India",
+        "student": false,
+        "geoCountryName": "India",
+        "geoCountryUrn": "urn:li:fs_geo:102713980",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "birthDate": {
+            "month": 2,
+            "day": 16
+        },
+        "industryUrn": "urn:li:fs_industry:96",
+        "firstName": "Raju Kumar",
+        "entityUrn": "urn:li:fs_profile:ACoAACxyObEBOwJwLq5OZ91SP82_CYYVBBcXDPA",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:105214831"
+        },
+        "geoLocationName": "Bengaluru, Karnataka",
+        "location": {
+            "basicLocation": {
+                "countryCode": "in"
+            }
+        },
+        "headline": "Analyst at Deloitte India (Offices of the US)",
+        "displayPictureUrl": "https://media-exp1.licdn.com/dms/image/C4E03AQF6JD1i4FsAPg/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/0/1598672683356?e=1657756800&v=beta&t=GtkcIzA-vJfXmqtvhAWulePlMU_S07TPkBXKLUOWqlk",
+        "img_200_200": "200_200/0/1598672683356?e=1657756800&v=beta&t=sHv5J-cvg_bxC0HGPoshY-lvroo_GxJlnE47zfHrIi4",
+        "img_400_400": "400_400/0/1598672683356?e=1657756800&v=beta&t=JEMQOP---H5NKqGW0n18gVM_lZKEQsllQQ7GXpHCVWE",
+        "img_800_800": "800_800/0/1598672683356?e=1657756800&v=beta&t=JReiFE7eoKm8enjdlR27XW0LwKURj3hxC5FhV5X9Xz8",
+        "profile_id": "ACoAACxyObEBOwJwLq5OZ91SP82_CYYVBBcXDPA",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAACxyObEBOwJwLq5OZ91SP82_CYYVBBcXDPA",
+        "member_urn": "urn:li:member:745683377",
+        "experience": [
+            {
+                "locationName": "Bengaluru, Karnataka, India",
+                "entityUrn": "urn:li:fs_position:(ACoAACxyObEBOwJwLq5OZ91SP82_CYYVBBcXDPA,1926927493)",
+                "geoLocationName": "Bengaluru, Karnataka, India",
+                "geoUrn": "urn:li:fs_geo:105214831",
+                "companyName": "Deloitte",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 3,
+                        "year": 2022
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Management Consulting"
+                    ]
+                },
+                "title": "Analyst",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:1038",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQHda-o9KT2w5Q/company-logo_"
+            },
+            {
+                "locationName": "Bengaluru, Karnataka, India",
+                "entityUrn": "urn:li:fs_position:(ACoAACxyObEBOwJwLq5OZ91SP82_CYYVBBcXDPA,1824145767)",
+                "geoLocationName": "Bengaluru, Karnataka, India",
+                "geoUrn": "urn:li:fs_geo:109710172",
+                "companyName": "BIAS Corporation",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 3,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 7,
+                        "year": 2021
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 201,
+                        "end": 500
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Graduate Trainee",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:287326",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQE67hTjEzd23A/company-logo_"
+            },
+            {
+                "locationName": "Guwahati, Assam, India",
+                "entityUrn": "urn:li:fs_position:(ACoAACxyObEBOwJwLq5OZ91SP82_CYYVBBcXDPA,1824144803)",
+                "geoLocationName": "Guwahati, Assam, India",
+                "geoUrn": "urn:li:fs_geo:105607401",
+                "companyName": "TechVariable",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2021
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Back End Developer",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:10632640",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQE6IzKHUZQmAA/company-logo_"
+            },
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAACxyObEBOwJwLq5OZ91SP82_CYYVBBcXDPA,1682283509)",
+                "companyName": "Indian Institute of Technology, Guwahati",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "month": 7,
+                        "year": 2020
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 501,
+                        "end": 1000
+                    },
+                    "industries": [
+                        "Higher Education"
+                    ]
+                },
+                "title": "Research Intern",
+                "companyUrn": "urn:li:fs_miniCompany:157270",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQFsVma02aZ5dg/company-logo_"
+            },
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAACxyObEBOwJwLq5OZ91SP82_CYYVBBcXDPA,1682278876)",
+                "$anti_abuse_metadata": {
+                    "/geoUrn": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:745683377"
+                        }
+                    },
+                    "/companyName": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:745683377"
+                        }
+                    },
+                    "/companyUrn": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:745683377"
+                        }
+                    },
+                    "/entityUrn": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:745683377"
+                        }
+                    },
+                    "/geoLocationName": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:745683377"
+                        }
+                    },
+                    "/promotion": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:745683377"
+                        }
+                    },
+                    "/title": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:745683377"
+                        }
+                    },
+                    "/region": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:745683377"
+                        }
+                    },
+                    "/locationName": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:745683377"
+                        }
+                    },
+                    "/description": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:745683377"
+                        }
+                    }
+                },
+                "companyName": "CDAC-Silchar",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 8,
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "month": 6,
+                        "year": 2020
+                    }
+                },
+                "title": "Intern"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAACxyObEBOwJwLq5OZ91SP82_CYYVBBcXDPA,658504480)",
+                "school": {
+                    "objectUrn": "urn:li:school:13644",
+                    "entityUrn": "urn:li:fs_miniSchool:13644",
+                    "active": true,
+                    "schoolName": "Tezpur University",
+                    "trackingId": "9+eBq+d4ShivGrb3JNsbOQ==",
+                    "logoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQGdv3IR3tOUdw/company-logo_"
+                },
+                "grade": "8.08",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 7,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 7,
+                        "year": 2017
+                    }
+                },
+                "degreeName": "Bachelor of Technology - BTech",
+                "schoolName": "Tezpur University",
+                "fieldOfStudy": "Computer Science and Engineering",
+                "degreeUrn": "urn:li:fs_degree:250",
+                "schoolUrn": "urn:li:fs_miniSchool:13644"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAACxyObEBOwJwLq5OZ91SP82_CYYVBBcXDPA,655117519)",
+                "grade": "84.8%",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2016
+                    },
+                    "startDate": {
+                        "year": 2014
+                    }
+                },
+                "degreeName": "Higher Secondary",
+                "schoolName": "GURUKUL GRAMMAR SENIOR SECONDARY SCHOOL",
+                "fieldOfStudy": "Science"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAACxyObEBOwJwLq5OZ91SP82_CYYVBBcXDPA,655115875)",
+                "grade": "87.13\u2105",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2014
+                    },
+                    "startDate": {
+                        "year": 2001
+                    }
+                },
+                "degreeName": "High School",
+                "schoolName": "St. Stephen's School"
+            }
+        ],
+        "languages": [],
+        "publications": [],
+        "certifications": [
+            {
+                "authority": "NPTEL",
+                "name": "Programming in Java",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 11,
+                        "year": 2019
+                    }
+                },
+                "licenseNumber": "NPTEL19CS84S31410009",
+                "company": {
+                    "objectUrn": "urn:li:company:13229455",
+                    "entityUrn": "urn:li:fs_miniCompany:13229455",
+                    "name": "NPTEL",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1519898420366?e=1660176000&v=beta&t=m3X6knrr9uNvqJVLXYKGliiKbUHhj0GYI9EUgF_qhbs",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1519898420366?e=1660176000&v=beta&t=TKl9Dd_QwHSlP_U0JTEwhp7Lonp8hw--Cbs915-0kug",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1519898420366?e=1660176000&v=beta&t=QT_o0su2LZcqRcym9MYUo2k1b3kSWns7TvEY4vzALIs",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQHJZGa_G2gwUg/company-logo_"
+                        }
+                    },
+                    "universalName": "nptel",
+                    "dashCompanyUrn": "urn:li:fsd_company:13229455",
+                    "trackingId": "fSaA9Y4vQjSOYM1/k+DSzQ=="
+                },
+                "displaySource": "nptel.ac.in",
+                "companyUrn": "urn:li:fs_miniCompany:13229455",
+                "url": "https://nptel.ac.in/noc/Ecertificate/?q=NPTEL19CS84S3141000975ce21b11e9aa77c3dd7788e80b"
+            },
+            {
+                "authority": "Google Cloud Platform Certified",
+                "name": "Google Cloud Platform Fundamentals: Core Infrastructure",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 12,
+                        "year": 2019
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:18879797",
+                    "entityUrn": "urn:li:fs_miniCompany:18879797",
+                    "name": "Google Cloud Platform Certified",
+                    "showcase": false,
+                    "active": false,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1540984873957?e=1660176000&v=beta&t=OjRfyqMI5NMzJvRq5GRnMPcvesdF6nwWiRNX-A6vtTE",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1540984873957?e=1660176000&v=beta&t=HTgTCek2ElbJtxdyajwrILGwM6CLtR_qcG9F7CjYio4",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1540984873957?e=1660176000&v=beta&t=xkz-2YIa8H_-2RWKlQ1tSP3Atf21gqWpXtCvp_GZu78",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHvOxEfnJ_fLA/company-logo_"
+                        }
+                    },
+                    "universalName": "google-cloud-platform-certified",
+                    "dashCompanyUrn": "urn:li:fsd_company:18879797",
+                    "trackingId": "sok4MejRTJmSUvg1dIw38w=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:18879797",
+                "url": "https://coursera.org/share/e80922e46f66626105633502eed82bbf"
+            },
+            {
+                "authority": "Intel Corporation",
+                "name": "Intel Network Academy- Network Transformation 101",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 1,
+                        "year": 2020
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:1053",
+                    "entityUrn": "urn:li:fs_miniCompany:1053",
+                    "name": "Intel Corporation",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1625151708870?e=1660176000&v=beta&t=A8RbCNuVUmy0oPuZgZj0msVwr6PwSkuyPVL1-JRrers",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1625151708870?e=1660176000&v=beta&t=LX7R2_Uny1wtVDZ3CdWeeKftJsQw_FLUoDF5r3C_h7w",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1625151708870?e=1660176000&v=beta&t=dA4eFidScSgBYZSyh99nWnq6KUUFjp_aQ023hrVR-Ys",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQGpvWtEtj9oTQ/company-logo_"
+                        }
+                    },
+                    "universalName": "intel-corporation",
+                    "dashCompanyUrn": "urn:li:fsd_company:1053",
+                    "trackingId": "rpJzBrHgRu60bUP1wOVbYA=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:1053",
+                "url": "https://coursera.org/share/cfb616c5f6a8987d8499a5fc1227cd26"
+            },
+            {
+                "authority": "Skyfi Labs",
+                "name": "Bluetooth Robotics",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 11,
+                        "year": 2017
+                    }
+                },
+                "licenseNumber": "39980007",
+                "company": {
+                    "objectUrn": "urn:li:company:2642456",
+                    "entityUrn": "urn:li:fs_miniCompany:2642456",
+                    "name": "Skyfi Labs",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1589830639120?e=1660176000&v=beta&t=gx0bvSH1-kHvvevNzaMcH2pP-HcbqC4Bb3dQFy7FypY",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1589830639120?e=1660176000&v=beta&t=pd7_Ra_IGuRN0_X6RXGC3eINLdnWGXmmHpAW9F85pwY",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1589830639120?e=1660176000&v=beta&t=lZUXdzelqHQs_gNFtZE3l0pnYKyzI4NWMuCJm0eeQ44",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQEIc6SMP8A0hA/company-logo_"
+                        }
+                    },
+                    "universalName": "skyfilabs",
+                    "dashCompanyUrn": "urn:li:fsd_company:2642456",
+                    "trackingId": "mcOcAPQNTj2+3YS28XuXvg=="
+                },
+                "displaySource": "google.com",
+                "companyUrn": "urn:li:fs_miniCompany:2642456",
+                "url": "https://drive.google.com/open?id=10aZ1Yk_CEfU044iy-OLPREPCljp8_vgu"
+            },
+            {
+                "authority": "Coursera",
+                "name": "Introduction to the Internet of Things and Embedded Systems",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 7,
+                        "year": 2020
+                    }
+                },
+                "licenseNumber": "TQ6623SLUU9J",
+                "company": {
+                    "objectUrn": "urn:li:company:2453129",
+                    "entityUrn": "urn:li:fs_miniCompany:2453129",
+                    "name": "Coursera",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1608039227697?e=1660176000&v=beta&t=24dSeYZFSUztRaUy6-QqI0GSTK5-7tfyOci9sanIOTE",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1608039227697?e=1660176000&v=beta&t=8mJvTc5z6PI8olmLRWSi-xaA6ZOeYWkWcZiqxFWbrhE",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1608039227697?e=1660176000&v=beta&t=o8C5zQF49vmVYRAgj4K1Q2W5kUw9P0IZwKQoBFhnmDc",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQGexnfBxeEG-g/company-logo_"
+                        }
+                    },
+                    "universalName": "coursera",
+                    "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                    "trackingId": "xsyIbGfmRTGoWxJ9z25jhw=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:2453129",
+                "url": "https://www.coursera.org/account/accomplishments/certificate/TQ6623SLUU9J"
+            },
+            {
+                "authority": "Coursera",
+                "name": "Unsupervised Machine Learning for Customer Market Segmentation",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 9,
+                        "year": 2020
+                    }
+                },
+                "licenseNumber": "6TEQVYS9SP4K",
+                "company": {
+                    "objectUrn": "urn:li:company:2453129",
+                    "entityUrn": "urn:li:fs_miniCompany:2453129",
+                    "name": "Coursera",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1608039227697?e=1660176000&v=beta&t=24dSeYZFSUztRaUy6-QqI0GSTK5-7tfyOci9sanIOTE",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1608039227697?e=1660176000&v=beta&t=8mJvTc5z6PI8olmLRWSi-xaA6ZOeYWkWcZiqxFWbrhE",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1608039227697?e=1660176000&v=beta&t=o8C5zQF49vmVYRAgj4K1Q2W5kUw9P0IZwKQoBFhnmDc",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQGexnfBxeEG-g/company-logo_"
+                        }
+                    },
+                    "universalName": "coursera",
+                    "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                    "trackingId": "bsYTh0S3SKaJWnGHLvvAUA=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:2453129",
+                "url": "https://www.coursera.org/account/accomplishments/certificate/6TEQVYS9SP4K"
+            },
+            {
+                "authority": "MathWorks",
+                "name": "MATLAB Onramp",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 5,
+                        "year": 2020
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:1194036",
+                    "entityUrn": "urn:li:fs_miniCompany:1194036",
+                    "name": "MathWorks",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1519881426190?e=1660176000&v=beta&t=F5CkfzwQ7-pnklzNW5V4TQSlfWdirw0VYo9QYpZ_GkI",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1519881426190?e=1660176000&v=beta&t=UTYI7UqocgzWqafDAyqJW2p7e0i649bXU5B4xhWUG94",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1519881426190?e=1660176000&v=beta&t=7KqbYp8y95KhSYN0PmqLFWri6zrNHeDS9MpZnQX7lu8",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQFSs_qwxqsJBg/company-logo_"
+                        }
+                    },
+                    "universalName": "the-mathworks_2",
+                    "dashCompanyUrn": "urn:li:fsd_company:1194036",
+                    "trackingId": "JB8XdSelQta7QO0tkzPRNw=="
+                },
+                "displaySource": "mathworks.com",
+                "companyUrn": "urn:li:fs_miniCompany:1194036",
+                "url": "https://matlabacademy.mathworks.com/progress/share/certificate.html?id=e976c28b-5107-47f1-8a41-f30b55432b08"
+            },
+            {
+                "authority": "MathWorks",
+                "name": "Machine Learning Onramp",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 5,
+                        "year": 2020
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:1194036",
+                    "entityUrn": "urn:li:fs_miniCompany:1194036",
+                    "name": "MathWorks",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1519881426190?e=1660176000&v=beta&t=F5CkfzwQ7-pnklzNW5V4TQSlfWdirw0VYo9QYpZ_GkI",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1519881426190?e=1660176000&v=beta&t=UTYI7UqocgzWqafDAyqJW2p7e0i649bXU5B4xhWUG94",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1519881426190?e=1660176000&v=beta&t=7KqbYp8y95KhSYN0PmqLFWri6zrNHeDS9MpZnQX7lu8",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQFSs_qwxqsJBg/company-logo_"
+                        }
+                    },
+                    "universalName": "the-mathworks_2",
+                    "dashCompanyUrn": "urn:li:fsd_company:1194036",
+                    "trackingId": "B6HMaleWRsGF1S100kh3ZA=="
+                },
+                "displaySource": "mathworks.com",
+                "companyUrn": "urn:li:fs_miniCompany:1194036",
+                "url": "https://matlabacademy.mathworks.com/progress/share/certificate.html?id=82884309-83cc-4bca-b78e-157c95967ac6"
+            },
+            {
+                "authority": "MathWorks",
+                "name": "Deep Learning Onramp",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 5,
+                        "year": 2020
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:1194036",
+                    "entityUrn": "urn:li:fs_miniCompany:1194036",
+                    "name": "MathWorks",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1519881426190?e=1660176000&v=beta&t=F5CkfzwQ7-pnklzNW5V4TQSlfWdirw0VYo9QYpZ_GkI",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1519881426190?e=1660176000&v=beta&t=UTYI7UqocgzWqafDAyqJW2p7e0i649bXU5B4xhWUG94",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1519881426190?e=1660176000&v=beta&t=7KqbYp8y95KhSYN0PmqLFWri6zrNHeDS9MpZnQX7lu8",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQFSs_qwxqsJBg/company-logo_"
+                        }
+                    },
+                    "universalName": "the-mathworks_2",
+                    "dashCompanyUrn": "urn:li:fsd_company:1194036",
+                    "trackingId": "/89Lcr6oSWu3vJyr6Rl0lw=="
+                },
+                "displaySource": "mathworks.com",
+                "companyUrn": "urn:li:fs_miniCompany:1194036",
+                "url": "https://matlabacademy.mathworks.com/progress/share/certificate.html?id=d0db3731-8f60-4612-9a06-0d88acd4612c"
+            },
+            {
+                "authority": "HackerRank",
+                "name": "Problem Solving (Basic) Certificate",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 8,
+                        "year": 2020
+                    }
+                },
+                "licenseNumber": "5276F1CE15E2",
+                "company": {
+                    "objectUrn": "urn:li:company:435210",
+                    "entityUrn": "urn:li:fs_miniCompany:435210",
+                    "name": "HackerRank",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1641202397642?e=1660176000&v=beta&t=Ix11l-5N4KcRtRth48ZPACX6rW1IZzJoWzAy9_4bxo4",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1641202397642?e=1660176000&v=beta&t=1wEUWwbPAJE5oClfZksATmGN7fbvC3TkUOx8x6dlOFE",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1641202397642?e=1660176000&v=beta&t=7yI0595xh0aic_daPziBqKaN35HhJqHMSSzx5NCGEwg",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHneWLNCPQgDA/company-logo_"
+                        }
+                    },
+                    "universalName": "hackerrank",
+                    "dashCompanyUrn": "urn:li:fsd_company:435210",
+                    "trackingId": "Kls0SgY+S7+Oasy5eYL/4w=="
+                },
+                "displaySource": "hackerrank.com",
+                "companyUrn": "urn:li:fs_miniCompany:435210",
+                "url": "https://www.hackerrank.com/certificates/5276f1ce15e2"
+            }
+        ],
+        "volunteer": [
+            {
+                "role": "Volunteer",
+                "companyName": "National Service Scheme",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 5,
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "month": 7,
+                        "year": 2017
+                    }
+                },
+                "company": {
+                    "miniCompany": {
+                        "objectUrn": "urn:li:company:10033186",
+                        "entityUrn": "urn:li:fs_miniCompany:10033186",
+                        "name": "National Service Scheme",
+                        "showcase": false,
+                        "active": true,
+                        "logo": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1519905766959?e=1660176000&v=beta&t=hQZWl263eF5yxEI2io_xAlAm0V7PaCRTNw7P7y6YEqQ",
+                                        "expiresAt": 1660176000000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1519905766959?e=1660176000&v=beta&t=n7JnCmQ_QrvqWwLj0bPNfMG0KD5fUJz7gqQ3v2IIwn4",
+                                        "expiresAt": 1660176000000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1519905766959?e=1660176000&v=beta&t=mlHuoNsPZVGrrV1fm1jL1OQiPxfmSasPD6wjAs1goTc",
+                                        "expiresAt": 1660176000000,
+                                        "height": 400
+                                    }
+                                ],
+                                "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQEJ6yAnaG3CtQ/company-logo_"
+                            }
+                        },
+                        "universalName": "national-service-scheme",
+                        "dashCompanyUrn": "urn:li:fsd_company:10033186",
+                        "trackingId": "6d0LHjEbQtqVsicGAx0UyA=="
+                    }
+                },
+                "companyUrn": "urn:li:fs_miniCompany:10033186"
+            }
+        ],
+        "honors": [],
+        "projects": []
+    },
+    "contact_info": {
+        "email_address": null,
+        "websites": [],
+        "twitter": [],
+        "birthdate": {
+            "month": 2,
+            "day": 16
+        },
+        "ims": null,
+        "phone_numbers": []
+    },
+    "connections": [
+        {
+            "urn_id": "ACoAABr4jt0BoOUmisITdRo1gR4CumG5I4jjZIw",
+            "distance": "DISTANCE_1",
+            "public_id": "samudra-deka-911659107",
+            "tracking_id": "452497117"
+        },
+        {
+            "urn_id": "ACoAADLJzxsBizdB0nN5NZBCM41Q-z6-7ef5gyI",
+            "distance": "DISTANCE_1",
+            "public_id": "deepjyoti-kalita-78b4411b9",
+            "tracking_id": "852086555"
+        },
+        {
+            "urn_id": "ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE",
+            "distance": "DISTANCE_1",
+            "public_id": "prithoo11335",
+            "tracking_id": "231212168"
+        },
+        {
+            "urn_id": "ACoAACr0GSwBcmPDh22HqivG9h0JwG-eahXSYW8",
+            "distance": "DISTANCE_1",
+            "public_id": "nihar-kashyap98",
+            "tracking_id": "720640300"
+        },
+        {
+            "urn_id": "ACoAACeXhGEBEVCUXmKi5rowUSeFZNerPjvzQsc",
+            "distance": "DISTANCE_1",
+            "public_id": "mahbubul-haque-a55552166",
+            "tracking_id": "664241249"
+        },
+        {
+            "urn_id": "ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY",
+            "distance": "DISTANCE_1",
+            "public_id": "tridip-das-b5837911b",
+            "tracking_id": "499568180"
+        },
+        {
+            "urn_id": "ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8",
+            "distance": "DISTANCE_1",
+            "public_id": "sivaranjan-goswami-790b4523",
+            "tracking_id": "83451420"
+        },
+        {
+            "urn_id": "ACoAACTFIIYB1cK_syRcCXEc0o8RTm4JMlhYcHA",
+            "distance": "DISTANCE_1",
+            "public_id": "arun-kumar-nath-686721152",
+            "tracking_id": "616898694"
+        },
+        {
+            "urn_id": "ACoAAC4efLABFBv0f30-SDGDgLSf1gXTlkpJTfc",
+            "distance": "DISTANCE_1",
+            "public_id": "shawan-mandal",
+            "tracking_id": "773749936"
+        },
+        {
+            "urn_id": "ACoAACYmrvgBRdvWxItbY_KP_fyrEgZ9U-QKJqk",
+            "distance": "DISTANCE_1",
+            "public_id": "rtsu",
+            "tracking_id": "640069368"
+        }
+    ],
+    "skills": [
+        {
+            "name": "C"
+        },
+        {
+            "name": "C++"
+        },
+        {
+            "name": "Oracle Cloud"
+        },
+        {
+            "name": "MariaDB"
+        },
+        {
+            "name": "Node.js"
+        },
+        {
+            "name": "Oracle Database"
+        },
+        {
+            "name": "HTML"
+        },
+        {
+            "name": "PHP"
+        },
+        {
+            "name": "MySQL"
+        },
+        {
+            "name": "Java"
+        },
+        {
+            "name": "Back-End Web Development"
+        },
+        {
+            "name": "Cascading Style Sheets (CSS)"
+        },
+        {
+            "name": "JavaScript"
+        },
+        {
+            "name": "C (Programming Language)"
+        },
+        {
+            "name": "Programming Languages"
+        },
+        {
+            "name": "SQL"
+        },
+        {
+            "name": "Angular"
+        },
+        {
+            "name": "TypeScript"
+        }
+    ]
+}

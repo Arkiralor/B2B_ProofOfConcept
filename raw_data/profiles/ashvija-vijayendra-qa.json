@@ -1,0 +1,586 @@
+{
+    "profile": {
+        "summary": "- Scrum Master/ Business Analyst/ Agile Project Manager/ QA Lead with almost 11 years\u2019 experience in IT Industry.\n- As an Onshore Coordinator, I have led team of onshore as well as offshore resources and worked with them to adhere to all applicable SDLC Lifecycle.\n- Along with client management, I was also integral part in issue resolution for the offshore team.\n- As part of CoE (Center of Excellence) Team at client site, have introduced new process such as Change Request Management for Testing Team and also improved the existing process such as Test Estimation Templates etc.\n- Also a proud owner of Research and Recognition Award (R&R Award) for creating a reusable VB macro for the Time sheet submission in SharePoint with just click of button\n\nSkills:-\n- Types of testing: End-to-End, System, Functional, Integration, Security, Database, Smoke, Exploratory, Usability and Regression for the Waterfall and Agile model\n- Modules: Supply Chain Management, Finance Payments, HR Payroll and Data Analytics. Also I have experience in CRM and Website testing.\n- Applications & Tools: E- Business Suite -- Odoo ERP, Oracle Apps, Business Intelligence, ETL, IBM Mainframe, JIRA, UFT 11, Quality Center 11.00, Toad, SQL Server 2012, Postgres, Citrix, Microsoft Office, Microsoft Teams less",
+        "industryName": "IT Services and IT Consulting",
+        "lastName": "VIJAYENDRA",
+        "locationName": "India",
+        "student": false,
+        "geoCountryName": "India",
+        "geoCountryUrn": "urn:li:fs_geo:102713980",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "industryUrn": "urn:li:fs_industry:96",
+        "firstName": "ASHVIJA",
+        "entityUrn": "urn:li:fs_profile:ACoAABcWFTcBpAlEX-8hKuq7rwClwOHMVzGCxps",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:112376381"
+        },
+        "geoLocationName": "Bangalore Urban, Karnataka",
+        "location": {
+            "basicLocation": {
+                "countryCode": "in"
+            }
+        },
+        "headline": "Agile Project Manager/ Business Analyst/ QA Lead",
+        "displayPictureUrl": "https://media-exp1.licdn.com/dms/image/C4E03AQHyaGPOF2rHbQ/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/0/1636346716567?e=1657756800&v=beta&t=SZJxDHD_2RLbGwOjfgbu3yNqWAMhvn9M1ZkEm7zrmTw",
+        "img_200_200": "200_200/0/1636346716567?e=1657756800&v=beta&t=ovkifIC5KvKqKo6UdZa_8E_ng1zQaD_ISWQUdwkE4xc",
+        "img_400_400": "400_400/0/1636346716567?e=1657756800&v=beta&t=KlunC6TZtM6VKQEoDUZ7zodu-6qIV-0da9XsO6FoZGM",
+        "img_800_800": "800_800/0/1636346716567?e=1657756800&v=beta&t=L0H32GvZSGFW5aZarixIlzblSZbxgGMSQSnwuQhDXac",
+        "profile_id": "ACoAABcWFTcBpAlEX-8hKuq7rwClwOHMVzGCxps",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAABcWFTcBpAlEX-8hKuq7rwClwOHMVzGCxps",
+        "member_urn": "urn:li:member:387323191",
+        "experience": [
+            {
+                "locationName": "Bengaluru Area, India",
+                "entityUrn": "urn:li:fs_position:(ACoAABcWFTcBpAlEX-8hKuq7rwClwOHMVzGCxps,1528270338)",
+                "geoLocationName": "Bengaluru Area, India",
+                "companyName": "Upwork",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 10,
+                        "year": 2017
+                    }
+                },
+                "description": "- I have completed 11 Projects successfully as a freelancer on Upwork.\n- I have worked as a Project Manager, Business Analyst, Product Owner, Senior Quality Analyst, Test Lead and Beta Tester for different clients on this platform.\n- Worked on Web and Mobile applications on all OS and Browsers. \n- Worked with remote teams across globe and cross-function teams. \n\nPlease navigate to the link below to peek into my accomplishments.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 501,
+                        "end": 1000
+                    },
+                    "industries": [
+                        "Internet"
+                    ]
+                },
+                "title": "Agile Project Manager",
+                "companyUrn": "urn:li:fs_miniCompany:4827017",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQFAvA55uI9RQQ/company-logo_"
+            },
+            {
+                "locationName": "Guwahati, Assam, India",
+                "entityUrn": "urn:li:fs_position:(ACoAABcWFTcBpAlEX-8hKuq7rwClwOHMVzGCxps,1829835672)",
+                "geoLocationName": "Guwahati, Assam, India",
+                "geoUrn": "urn:li:fs_geo:105607401",
+                "companyName": "TechVariable",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 5,
+                        "year": 2021
+                    }
+                },
+                "description": "As a Business Analyst:\n\u2022\tI work with clients for requirement understanding and GAP Analysis.\n\u2022\tAlso record requirements and stories for building bridge between the clients and DevOps\n\u2022\tSupport the Stakeholders and onboard the product idea, functional & business requirement\n\u2022\tConduct Agile meetings \u2013 daily scrum, sprint review, backlog grooming, retrospective.\n\nAs a Client Success Manager:\n\u2022\t I work with clients to help them realize value of our services. \n\u2022\t On boarding the clients\n\u2022\t Draw actionable insights from the data\n\u2022\t Relationship management \n\u2022\t Product Support",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Business Analyst/ Client Success Manager",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:10632640",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQE6IzKHUZQmAA/company-logo_"
+            },
+            {
+                "locationName": "North Guwahati, Assam, India",
+                "entityUrn": "urn:li:fs_position:(ACoAABcWFTcBpAlEX-8hKuq7rwClwOHMVzGCxps,1672884704)",
+                "geoLocationName": "North Guwahati, Assam, India",
+                "geoUrn": "urn:li:fs_geo:107153093",
+                "companyName": "TechVariable",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 4,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2020
+                    }
+                },
+                "description": "As a QA Lead\n- Worked with multiple teams to deliver bug free product\n- Worked with clients assisting in UAT\n- Worked with stakeholders to understand the requirement and design test cases.\n- Reported detailed bug report and test execution reports.\n- Worked on estimations and resource for the projects which required QA assistance. ",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Quality Assurance Manager",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:10632640",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQE6IzKHUZQmAA/company-logo_"
+            },
+            {
+                "locationName": "Chicago, Illinois",
+                "entityUrn": "urn:li:fs_position:(ACoAABcWFTcBpAlEX-8hKuq7rwClwOHMVzGCxps,846521550)",
+                "geoLocationName": "Chicago, Illinois",
+                "companyName": "Capgemini",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 9,
+                        "year": 2017
+                    },
+                    "startDate": {
+                        "month": 4,
+                        "year": 2014
+                    }
+                },
+                "description": "\uf0d8\tRoles and Responsibility: \no\tWorked and adhered to all applicable SDLC Lifecycle utilizing various applications and tools listed below. \no\tActive participation in Scrum Planning, Sprint planning and Backlog refinement. \no\tPrepared Test Plan, Test Estimation, Test Completion, Daily Status Reports & Knowledge Man-agement Documents.\no\tCreated Automation scripts using UFT 11 for the Oracle Payroll module \u2013 Employee Timesheet Entry which is used by various teams in org the currently.  \no\tAs a lead: Reviewed, coordinated and guided the Onshore and Offshore team to success in pro-jects.\n",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Test Lead",
+                "companyUrn": "urn:li:fs_miniCompany:157240",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQFWzOAVgGjUUA/company-logo_"
+            },
+            {
+                "locationName": "Bengaluru, Karnataka, India",
+                "entityUrn": "urn:li:fs_position:(ACoAABcWFTcBpAlEX-8hKuq7rwClwOHMVzGCxps,611033352)",
+                "geoLocationName": "Bengaluru, Karnataka, India",
+                "companyName": "IGATE",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 3,
+                        "year": 2014
+                    },
+                    "startDate": {
+                        "month": 12,
+                        "year": 2011
+                    }
+                },
+                "description": "\n\uf0d8\tRoles and Responsibility: \n\no\tWorked on the Requirement Analysis & Impact Analysis.\no\tCreated the test cases and executed test cases in Quality Center. \no\tDefect creation and tracking.\no\tInvolved in day-to-day interaction with the onshore coordinator and client. \n",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Senior Software Test Engineer",
+                "companyUrn": "urn:li:fs_miniCompany:2229436",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C560BAQGhqirWXYV_lQ/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAABcWFTcBpAlEX-8hKuq7rwClwOHMVzGCxps,648598787)",
+                "school": {
+                    "objectUrn": "urn:li:school:354045",
+                    "entityUrn": "urn:li:fs_miniSchool:354045",
+                    "active": true,
+                    "schoolName": "International Institute of Information Technology Bangalore",
+                    "trackingId": "D5YEJwErTreq4iQFAfIUng==",
+                    "logoUrl": "https://media-exp1.licdn.com/dms/image/C560BAQEfzCLfKH8fSg/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "month": 5,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 5,
+                        "year": 2021
+                    }
+                },
+                "degreeName": "Post Graduation ",
+                "schoolName": "International Institute of Information Technology Bangalore",
+                "fieldOfStudy": "Data Science",
+                "degreeUrn": "urn:li:fs_degree:500",
+                "schoolUrn": "urn:li:fs_miniSchool:354045"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAABcWFTcBpAlEX-8hKuq7rwClwOHMVzGCxps,252423275)",
+                "school": {
+                    "objectUrn": "urn:li:school:13683",
+                    "entityUrn": "urn:li:fs_miniSchool:13683",
+                    "active": true,
+                    "schoolName": "Visvesvaraya Technological University",
+                    "trackingId": "09nXBBdTSm2LWBK41jI5uA==",
+                    "logoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQEXLsH7UX9uMw/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2010
+                    },
+                    "startDate": {
+                        "year": 2006
+                    }
+                },
+                "description": "Passed with first class rank.",
+                "degreeName": "Bachelor of Engineering (B.E.)",
+                "schoolName": "Visvesvaraya Technological University",
+                "fieldOfStudy": "Biomedical/Medical Engineering",
+                "schoolUrn": "urn:li:fs_miniSchool:13683"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAABcWFTcBpAlEX-8hKuq7rwClwOHMVzGCxps,255819414)",
+                "school": {
+                    "objectUrn": "urn:li:school:20331",
+                    "entityUrn": "urn:li:fs_miniSchool:20331",
+                    "active": true,
+                    "schoolName": "Kendriya Vidyalaya",
+                    "trackingId": "MuugrbQYSIiE9T0mSqWoHw==",
+                    "logoUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQFiB3Otc6s1Mw/company-logo_"
+                },
+                "schoolName": "Kendriya Vidyalaya",
+                "schoolUrn": "urn:li:fs_miniSchool:20331"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "Hindi",
+                "proficiency": "PROFESSIONAL_WORKING"
+            },
+            {
+                "name": "Kannada",
+                "proficiency": "LIMITED_WORKING"
+            }
+        ],
+        "publications": [],
+        "certifications": [
+            {
+                "name": "Manual testing-- PACE"
+            },
+            {
+                "authority": "TestDome",
+                "name": "Software Quality Assurance",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 12,
+                        "year": 2019
+                    }
+                },
+                "licenseNumber": "1e32f999c62a4b1cb4b9fbe36f136eff",
+                "company": {
+                    "objectUrn": "urn:li:company:3855379",
+                    "entityUrn": "urn:li:fs_miniCompany:3855379",
+                    "name": "TestDome",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1546945897308?e=1660176000&v=beta&t=8o2_NodJ4TM3ZPpryYRojlKZbIzhihN8Ku_H5Mj0nfY",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1546945897308?e=1660176000&v=beta&t=5v0z1wzqNPyWW1IsIutOBmARCIefh7F3kfuGkOQgBQg",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1546945897308?e=1660176000&v=beta&t=5tglW1iTE-v18OuEki3t-M4InWNtT0U812pZ_xkl7pQ",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQGybnEADjiqUg/company-logo_"
+                        }
+                    },
+                    "universalName": "testdome",
+                    "dashCompanyUrn": "urn:li:fsd_company:3855379",
+                    "trackingId": "K8v9QylRTMWhNHxLY8WHlw=="
+                },
+                "displaySource": "testdome.com",
+                "companyUrn": "urn:li:fs_miniCompany:3855379",
+                "url": "https://www.testdome.com/cert/1e32f999c62a4b1cb4b9fbe36f136eff"
+            },
+            {
+                "authority": "LinkedIn",
+                "name": "Business Analysis Foundations: Business Process Modeling",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 7,
+                        "year": 2020
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:1337",
+                    "entityUrn": "urn:li:fs_miniCompany:1337",
+                    "name": "LinkedIn",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1638831589865?e=1660176000&v=beta&t=BLQftLy0Qs0EBVJIuWPMuAUeYUwk2NFkGV64ugXQRGo",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1638831589865?e=1660176000&v=beta&t=x5azEgZkHPR5MQHKe-JAU7OCpzuevGQIN2iQzEXm7FA",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1638831589865?e=1660176000&v=beta&t=4ByckqnOSGF1jY0ieSfxachmGJ0dfUy8ErhiMjGS9p8",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_"
+                        }
+                    },
+                    "universalName": "linkedin",
+                    "dashCompanyUrn": "urn:li:fsd_company:1337",
+                    "trackingId": "Zre7KtofR7K3eWE9+19Sww=="
+                },
+                "displaySource": "linkedin.com",
+                "companyUrn": "urn:li:fs_miniCompany:1337",
+                "url": "http://www.linkedin.com/learning/business-analysis-foundations-business-process-modeling"
+            }
+        ],
+        "volunteer": [],
+        "honors": [],
+        "projects": []
+    },
+    "contact_info": {
+        "email_address": null,
+        "websites": [
+            {
+                "url": "https://www.upwork.com/o/profiles/users/_~0192fcc9a730cc58f6/",
+                "label": "PORTFOLIO"
+            }
+        ],
+        "twitter": [],
+        "birthdate": null,
+        "ims": null,
+        "phone_numbers": []
+    },
+    "connections": [
+        {
+            "urn_id": "ACoAABr4jt0BoOUmisITdRo1gR4CumG5I4jjZIw",
+            "distance": "DISTANCE_1",
+            "public_id": "samudra-deka-911659107",
+            "tracking_id": "452497117"
+        },
+        {
+            "urn_id": "ACoAADLJzxsBizdB0nN5NZBCM41Q-z6-7ef5gyI",
+            "distance": "DISTANCE_1",
+            "public_id": "deepjyoti-kalita-78b4411b9",
+            "tracking_id": "852086555"
+        },
+        {
+            "urn_id": "ACoAACT67ZEBgw1Aprl8Aqy8zWMavdTyaWs7J3w",
+            "distance": "DISTANCE_1",
+            "public_id": "titikshya-das-015942153",
+            "tracking_id": "620424593"
+        },
+        {
+            "urn_id": "ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE",
+            "distance": "DISTANCE_1",
+            "public_id": "prithoo11335",
+            "tracking_id": "231212168"
+        },
+        {
+            "urn_id": "ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY",
+            "distance": "DISTANCE_1",
+            "public_id": "tridip-das-b5837911b",
+            "tracking_id": "499568180"
+        },
+        {
+            "urn_id": "ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8",
+            "distance": "DISTANCE_1",
+            "public_id": "sivaranjan-goswami-790b4523",
+            "tracking_id": "83451420"
+        },
+        {
+            "urn_id": "ACoAACDVs-sB_IgxPBMHMRBfR6is3jmwwV_OvTE",
+            "distance": "DISTANCE_1",
+            "public_id": "swapnil-bhattacharjee-ghy",
+            "tracking_id": "550876139"
+        },
+        {
+            "urn_id": "ACoAACYmrvgBRdvWxItbY_KP_fyrEgZ9U-QKJqk",
+            "distance": "DISTANCE_1",
+            "public_id": "rtsu",
+            "tracking_id": "640069368"
+        }
+    ],
+    "skills": [
+        {
+            "name": "System Testing"
+        },
+        {
+            "name": "SQL"
+        },
+        {
+            "name": "Agile Methodologies"
+        },
+        {
+            "name": "Test Planning"
+        },
+        {
+            "name": "Requirements Analysis"
+        },
+        {
+            "name": "Manual Testing"
+        },
+        {
+            "name": "SDLC"
+        },
+        {
+            "name": "Functional Testing"
+        },
+        {
+            "name": "Testing"
+        },
+        {
+            "name": "Quality Assurance"
+        },
+        {
+            "name": "Software Project Management"
+        },
+        {
+            "name": "Business Intelligence"
+        },
+        {
+            "name": "Test Cases"
+        },
+        {
+            "name": "Test Automation"
+        },
+        {
+            "name": "Regression Testing"
+        },
+        {
+            "name": "Mainframe"
+        },
+        {
+            "name": "Test Management"
+        },
+        {
+            "name": "Web Applications"
+        },
+        {
+            "name": "Business Analysis",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:1018",
+            "standardizedSkill": {
+                "name": "Business Analysis",
+                "entityUrn": "urn:li:fs_miniSkill:1018"
+            }
+        },
+        {
+            "name": "Software Development Life Cycle (SDLC)"
+        },
+        {
+            "name": "Scrum"
+        },
+        {
+            "name": "Agile & Waterfall Methodologies"
+        },
+        {
+            "name": "Defect Tracking"
+        },
+        {
+            "name": "Software Testing"
+        },
+        {
+            "name": "Oracle"
+        },
+        {
+            "name": "Microsoft SQL Server"
+        },
+        {
+            "name": "HP Quality Center"
+        },
+        {
+            "name": "PL/SQL"
+        },
+        {
+            "name": "Oracle E-Business Suite"
+        },
+        {
+            "name": "Oracle Database"
+        },
+        {
+            "name": "HP QTP"
+        },
+        {
+            "name": "SQL Server Management Studio"
+        },
+        {
+            "name": "Microsoft Excel"
+        },
+        {
+            "name": "Microsoft Word"
+        },
+        {
+            "name": "Linux"
+        },
+        {
+            "name": "Microsoft Power BI"
+        },
+        {
+            "name": "Leadership"
+        },
+        {
+            "name": "Agile Testing"
+        },
+        {
+            "name": "OpenERP"
+        },
+        {
+            "name": "Test Case Generation"
+        },
+        {
+            "name": "OBIEE"
+        },
+        {
+            "name": "Toad"
+        },
+        {
+            "name": "Mainframe Testing"
+        },
+        {
+            "name": "DWH"
+        },
+        {
+            "name": "Macro"
+        },
+        {
+            "name": "Notepad++"
+        },
+        {
+            "name": "Cross-browser Compatibility"
+        },
+        {
+            "name": "Mobile Testing"
+        },
+        {
+            "name": "BPMN",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:7793",
+            "standardizedSkill": {
+                "name": "BPMN",
+                "entityUrn": "urn:li:fs_miniSkill:7793"
+            }
+        }
+    ]
+}

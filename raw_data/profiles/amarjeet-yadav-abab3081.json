@@ -1,0 +1,272 @@
+{
+    "profile": {
+        "industryName": "IT Services and IT Consulting",
+        "lastName": "Yadav",
+        "locationName": "India",
+        "student": false,
+        "geoCountryName": "India",
+        "geoCountryUrn": "urn:li:fs_geo:102713980",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "industryUrn": "urn:li:fs_industry:96",
+        "firstName": "Amarjeet",
+        "entityUrn": "urn:li:fs_profile:ACoAABFuTS4BaVOoLVq65dpYPCtXXZhBohHGK6g",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:105607401"
+        },
+        "geoLocationName": "Guwahati, Assam",
+        "location": {
+            "basicLocation": {
+                "countryCode": "in"
+            }
+        },
+        "headline": "Consultant at Capgemini",
+        "displayPictureUrl": "https://media-exp1.licdn.com/dms/image/C5603AQGHT5U_9HT1oA/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/0/1616512692719?e=1657756800&v=beta&t=UJ-8Ig0NxUUVnM2CEqhqyapWM9Lj3682bbjdYam9xnc",
+        "img_200_200": "200_200/0/1616512692719?e=1657756800&v=beta&t=wQgSxVAGsjr-473KT4gyQhUid_DDVcLGrCIww_KXI4Q",
+        "img_400_400": "400_400/0/1616512692719?e=1657756800&v=beta&t=xUWGSuKsqQobU1nuM7cUo_IzS-JJiYrzMrZXaNGrMlY",
+        "img_800_800": "800_800/0/1616512692719?e=1657756800&v=beta&t=TftHM6FSnZ8W3hjHS8JRiG7L4d_-i6FrZi1AM0SpkIg",
+        "profile_id": "ACoAABFuTS4BaVOoLVq65dpYPCtXXZhBohHGK6g",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAABFuTS4BaVOoLVq65dpYPCtXXZhBohHGK6g",
+        "member_urn": "urn:li:member:292441390",
+        "experience": [
+            {
+                "locationName": "Bengaluru, Karnataka, India",
+                "entityUrn": "urn:li:fs_position:(ACoAABFuTS4BaVOoLVq65dpYPCtXXZhBohHGK6g,1776795177)",
+                "geoLocationName": "Bengaluru, Karnataka, India",
+                "geoUrn": "urn:li:fs_geo:109710172",
+                "companyName": "Capgemini",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 5,
+                        "year": 2021
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Consultant",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:157240",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQFWzOAVgGjUUA/company-logo_"
+            },
+            {
+                "locationName": "Guwahati, Assam, India",
+                "entityUrn": "urn:li:fs_position:(ACoAABFuTS4BaVOoLVq65dpYPCtXXZhBohHGK6g,1745549021)",
+                "geoLocationName": "Guwahati, Assam, India",
+                "geoUrn": "urn:li:fs_geo:105607401",
+                "companyName": "TechVariable",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 4,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2020
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Progammer Analyst",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:10632640",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQE6IzKHUZQmAA/company-logo_"
+            },
+            {
+                "locationName": "Guwahati",
+                "entityUrn": "urn:li:fs_position:(ACoAABFuTS4BaVOoLVq65dpYPCtXXZhBohHGK6g,672877432)",
+                "geoLocationName": "Guwahati",
+                "companyName": "Indian Institute of Technology, Guwahati",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 4,
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "month": 4,
+                        "year": 2014
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 501,
+                        "end": 1000
+                    },
+                    "industries": [
+                        "Higher Education"
+                    ]
+                },
+                "title": "Associate Project Scientist",
+                "companyUrn": "urn:li:fs_miniCompany:157270",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQFsVma02aZ5dg/company-logo_"
+            },
+            {
+                "locationName": "Guwahati, Assam, India",
+                "entityUrn": "urn:li:fs_position:(ACoAABFuTS4BaVOoLVq65dpYPCtXXZhBohHGK6g,1745543885)",
+                "geoLocationName": "Guwahati, Assam, India",
+                "geoUrn": "urn:li:fs_geo:105607401",
+                "companyName": "Bohniman Systems Pvt. Ltd.",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 4,
+                        "year": 2014
+                    },
+                    "startDate": {
+                        "month": 11,
+                        "year": 2013
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 51,
+                        "end": 200
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Trainne Software Developer",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:2094933",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C510BAQFKJVvIyWsELA/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAABFuTS4BaVOoLVq65dpYPCtXXZhBohHGK6g,283421653)",
+                "school": {
+                    "objectUrn": "urn:li:school:208756",
+                    "entityUrn": "urn:li:fs_miniSchool:208756",
+                    "active": true,
+                    "schoolName": "Girijananda Chowdhury Institute of Management & Technology",
+                    "trackingId": "oIvSdWoJSSSrDzoZZiR/og=="
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2013
+                    },
+                    "startDate": {
+                        "year": 2009
+                    }
+                },
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100189",
+                "degreeName": "BE - Bachelor of Engineering",
+                "schoolName": "Girijananda Chowdhury Institute of Management & Technology",
+                "fieldOfStudy": "Computer Science",
+                "degreeUrn": "urn:li:fs_degree:269",
+                "schoolUrn": "urn:li:fs_miniSchool:208756"
+            }
+        ],
+        "languages": [],
+        "publications": [],
+        "certifications": [],
+        "volunteer": [],
+        "honors": [],
+        "projects": []
+    },
+    "contact_info": {
+        "email_address": null,
+        "websites": [],
+        "twitter": [],
+        "birthdate": null,
+        "ims": null,
+        "phone_numbers": []
+    },
+    "connections": [
+        {
+            "urn_id": "ACoAABr4jt0BoOUmisITdRo1gR4CumG5I4jjZIw",
+            "distance": "DISTANCE_1",
+            "public_id": "samudra-deka-911659107",
+            "tracking_id": "452497117"
+        },
+        {
+            "urn_id": "ACoAADLJzxsBizdB0nN5NZBCM41Q-z6-7ef5gyI",
+            "distance": "DISTANCE_1",
+            "public_id": "deepjyoti-kalita-78b4411b9",
+            "tracking_id": "852086555"
+        },
+        {
+            "urn_id": "ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY",
+            "distance": "DISTANCE_1",
+            "public_id": "tridip-das-b5837911b",
+            "tracking_id": "499568180"
+        },
+        {
+            "urn_id": "ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8",
+            "distance": "DISTANCE_1",
+            "public_id": "sivaranjan-goswami-790b4523",
+            "tracking_id": "83451420"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Web Applications",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:549",
+            "standardizedSkill": {
+                "name": "Web Applications",
+                "entityUrn": "urn:li:fs_miniSkill:549"
+            }
+        },
+        {
+            "name": "SQL",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:483",
+            "standardizedSkill": {
+                "name": "SQL",
+                "entityUrn": "urn:li:fs_miniSkill:483"
+            }
+        },
+        {
+            "name": "Java",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:147",
+            "standardizedSkill": {
+                "name": "Java",
+                "entityUrn": "urn:li:fs_miniSkill:147"
+            }
+        },
+        {
+            "name": "JavaScript",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:218",
+            "standardizedSkill": {
+                "name": "JavaScript",
+                "entityUrn": "urn:li:fs_miniSkill:218"
+            }
+        },
+        {
+            "name": "Linux",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:301",
+            "standardizedSkill": {
+                "name": "Linux",
+                "entityUrn": "urn:li:fs_miniSkill:301"
+            }
+        },
+        {
+            "name": "C++",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:198",
+            "standardizedSkill": {
+                "name": "C++",
+                "entityUrn": "urn:li:fs_miniSkill:198"
+            }
+        },
+        {
+            "name": "HTML",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:280",
+            "standardizedSkill": {
+                "name": "HTML",
+                "entityUrn": "urn:li:fs_miniSkill:280"
+            }
+        }
+    ]
+}

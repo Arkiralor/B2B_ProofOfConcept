@@ -1,0 +1,268 @@
+{
+    "profile": {
+        "industryName": "IT Services and IT Consulting",
+        "lastName": "Kalita",
+        "locationName": "India",
+        "student": false,
+        "geoCountryName": "India",
+        "geoCountryUrn": "urn:li:fs_geo:102713980",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "industryUrn": "urn:li:fs_industry:96",
+        "firstName": "Dhruwa Jyoti",
+        "entityUrn": "urn:li:fs_profile:ACoAAAxnDzUByytXftv0z7RedN9asycJnQts0Yw",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:104535556"
+        },
+        "geoLocationName": "Dispur, Assam",
+        "location": {
+            "basicLocation": {
+                "countryCode": "in"
+            }
+        },
+        "headline": "Programmer Analyst  at TechVariable",
+        "displayPictureUrl": "https://media-exp1.licdn.com/dms/image/C5103AQHj0iTcCQTzpw/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/0/1517287265841?e=1657756800&v=beta&t=OPW3d4_aOzfe0z5gYZG_XiZqJPxJ-odlzVTqqtUifsE",
+        "img_200_200": "200_200/0/1517287265841?e=1657756800&v=beta&t=kTpeIxtf1AY5dLYLdDz5MPyD_E_cD5KqGaTchuhgMPs",
+        "img_400_400": "400_400/0/1517287265841?e=1657756800&v=beta&t=NExFO0RMbjg7yQr9ChNNQSvpZ4EFnh8wflIzPef4kpE",
+        "img_800_800": "800_800/0/1517287265841?e=1657756800&v=beta&t=O93R24E5BJJn3QT71OTXmG8CdDFsoNIDww6OIzuy0eU",
+        "profile_id": "ACoAAAxnDzUByytXftv0z7RedN9asycJnQts0Yw",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAAAxnDzUByytXftv0z7RedN9asycJnQts0Yw",
+        "member_urn": "urn:li:member:208080693",
+        "experience": [
+            {
+                "locationName": "Guwahati Area, India",
+                "entityUrn": "urn:li:fs_position:(ACoAAAxnDzUByytXftv0z7RedN9asycJnQts0Yw,1135636283)",
+                "geoLocationName": "Guwahati Area, India",
+                "geoUrn": "urn:li:fs_geo:104535556",
+                "companyName": "TechVariable",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 7,
+                        "year": 2017
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Program Analyst",
+                "region": "urn:li:fs_region:(in,7248)",
+                "companyUrn": "urn:li:fs_miniCompany:10632640",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQE6IzKHUZQmAA/company-logo_"
+            },
+            {
+                "locationName": "Guwahati",
+                "entityUrn": "urn:li:fs_position:(ACoAAAxnDzUByytXftv0z7RedN9asycJnQts0Yw,556933993)",
+                "geoLocationName": "Guwahati",
+                "companyName": "National Informatics Center",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2017
+                    },
+                    "startDate": {
+                        "month": 3,
+                        "year": 2015
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 1001,
+                        "end": 5000
+                    },
+                    "industries": [
+                        "Computer Software"
+                    ]
+                },
+                "title": "Software Applications Support, Level 3",
+                "companyUrn": "urn:li:fs_miniCompany:1367"
+            },
+            {
+                "locationName": "Guwahati Area, India",
+                "entityUrn": "urn:li:fs_position:(ACoAAAxnDzUByytXftv0z7RedN9asycJnQts0Yw,1206459779)",
+                "geoLocationName": "Guwahati Area, India",
+                "geoUrn": "urn:li:fs_geo:104535556",
+                "companyName": "Flugelsoft",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 2,
+                        "year": 2015
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2012
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Management Consulting"
+                    ]
+                },
+                "title": "Web Developer",
+                "region": "urn:li:fs_region:(in,7248)",
+                "companyUrn": "urn:li:fs_miniCompany:1928571",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQFRyk30av4zQg/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAAxnDzUByytXftv0z7RedN9asycJnQts0Yw,228322820)",
+                "school": {
+                    "objectUrn": "urn:li:school:208756",
+                    "entityUrn": "urn:li:fs_miniSchool:208756",
+                    "active": true,
+                    "schoolName": "Girijananda Chowdhury Institute of Management & Technology",
+                    "trackingId": "Te+OHB8DTRWeZzI2n9jPAQ=="
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2012
+                    },
+                    "startDate": {
+                        "year": 2009
+                    }
+                },
+                "degreeName": "Master's Degree",
+                "schoolName": "Girijananda Chowdhury Institute of Management & Technology",
+                "schoolUrn": "urn:li:fs_miniSchool:208756"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAAxnDzUByytXftv0z7RedN9asycJnQts0Yw,228323395)",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2008
+                    },
+                    "startDate": {
+                        "year": 2005
+                    }
+                },
+                "degreeName": "Bachelor's Degree",
+                "schoolName": "North Eastern Regional Institute of Management"
+            }
+        ],
+        "languages": [],
+        "publications": [],
+        "certifications": [],
+        "volunteer": [],
+        "honors": [],
+        "projects": []
+    },
+    "contact_info": {
+        "email_address": null,
+        "websites": [],
+        "twitter": [],
+        "birthdate": null,
+        "ims": null,
+        "phone_numbers": []
+    },
+    "connections": [
+        {
+            "urn_id": "ACoAABr4jt0BoOUmisITdRo1gR4CumG5I4jjZIw",
+            "distance": "DISTANCE_1",
+            "public_id": "samudra-deka-911659107",
+            "tracking_id": "452497117"
+        },
+        {
+            "urn_id": "ACoAADZmR9QB1zOH_PmrzQQw2wQmTJRTcNGU7CE",
+            "distance": "DISTANCE_1",
+            "public_id": "bkalita",
+            "tracking_id": "912672724"
+        },
+        {
+            "urn_id": "ACoAAAjgx0kBxJoPu_7t3kS1NbDizQekjIIzMbE",
+            "distance": "DISTANCE_1",
+            "public_id": "lakheswar-nath-289a7141",
+            "tracking_id": "148948809"
+        },
+        {
+            "urn_id": "ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE",
+            "distance": "DISTANCE_1",
+            "public_id": "prithoo11335",
+            "tracking_id": "231212168"
+        },
+        {
+            "urn_id": "ACoAACeXhGEBEVCUXmKi5rowUSeFZNerPjvzQsc",
+            "distance": "DISTANCE_1",
+            "public_id": "mahbubul-haque-a55552166",
+            "tracking_id": "664241249"
+        },
+        {
+            "urn_id": "ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY",
+            "distance": "DISTANCE_1",
+            "public_id": "tridip-das-b5837911b",
+            "tracking_id": "499568180"
+        },
+        {
+            "urn_id": "ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8",
+            "distance": "DISTANCE_1",
+            "public_id": "sivaranjan-goswami-790b4523",
+            "tracking_id": "83451420"
+        }
+    ],
+    "skills": [
+        {
+            "name": "PHP"
+        },
+        {
+            "name": "JavaScript"
+        },
+        {
+            "name": "MySQL"
+        },
+        {
+            "name": "HTML 5"
+        },
+        {
+            "name": "Angularjs"
+        },
+        {
+            "name": "Sencha"
+        },
+        {
+            "name": "Microsoft SQL Server"
+        },
+        {
+            "name": "AJAX"
+        },
+        {
+            "name": "C"
+        },
+        {
+            "name": "XML"
+        },
+        {
+            "name": "HTML5"
+        },
+        {
+            "name": "SQL"
+        },
+        {
+            "name": "AngularJS"
+        },
+        {
+            "name": "HTML"
+        },
+        {
+            "name": "Java"
+        },
+        {
+            "name": "Laravel"
+        },
+        {
+            "name": "CodeIgniter"
+        },
+        {
+            "name": "Phalcon Framework"
+        }
+    ]
+}

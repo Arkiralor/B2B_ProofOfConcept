@@ -1,0 +1,473 @@
+{
+    "profile": {
+        "summary": "I am a front-end engineer working with ReactJS and React-native to build highly interactive UI. Experienced in working in fast paced environments. Have also worked on backend systems using NodeJs and Express for data analysis and building REST APIs. Always seeking to learn new technologies and expand my knowledge base and skillset.",
+        "industryName": "IT Services and IT Consulting",
+        "lastName": "Kalita",
+        "locationName": "India",
+        "student": false,
+        "geoCountryName": "India",
+        "geoCountryUrn": "urn:li:fs_geo:102713980",
+        "geoLocationBackfilled": false,
+        "elt": true,
+        "industryUrn": "urn:li:fs_industry:96",
+        "firstName": "Deepjyoti",
+        "entityUrn": "urn:li:fs_profile:ACoAADLJzxsBizdB0nN5NZBCM41Q-z6-7ef5gyI",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:105607401"
+        },
+        "geoLocationName": "Guwahati, Assam",
+        "location": {
+            "basicLocation": {
+                "countryCode": "in"
+            }
+        },
+        "headline": "React | React-native | Node.js | Android ",
+        "displayPictureUrl": "https://media-exp1.licdn.com/dms/image/C5603AQH9ucmjV9ozFg/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/0/1602177470524?e=1657756800&v=beta&t=5CBh8bTOriiF2KuK2__JNJirwwHPv7RG6Ybw7ujUurQ",
+        "img_200_200": "200_200/0/1602177470524?e=1657756800&v=beta&t=97Q4lcGux_9RzggD08bCMR6cs8xaWuAtUxSRFM3RM2c",
+        "img_400_400": "400_400/0/1602177470524?e=1657756800&v=beta&t=-7VYqvuWerLCYlPaabDg8KGaFEX9jphkQ-AUVDt0X5s",
+        "img_800_800": "800_800/0/1602177470524?e=1657756800&v=beta&t=FDOshfkaEcJRjlkRwdPJJxXNFv2aSpP8oKrFTSOj2M8",
+        "profile_id": "ACoAADLJzxsBizdB0nN5NZBCM41Q-z6-7ef5gyI",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAADLJzxsBizdB0nN5NZBCM41Q-z6-7ef5gyI",
+        "member_urn": "urn:li:member:852086555",
+        "experience": [
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAADLJzxsBizdB0nN5NZBCM41Q-z6-7ef5gyI,1907360590)",
+                "$anti_abuse_metadata": {
+                    "/geoUrn": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:852086555"
+                        }
+                    },
+                    "/companyName": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:852086555"
+                        }
+                    },
+                    "/companyUrn": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:852086555"
+                        }
+                    },
+                    "/entityUrn": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:852086555"
+                        }
+                    },
+                    "/geoLocationName": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:852086555"
+                        }
+                    },
+                    "/promotion": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:852086555"
+                        }
+                    },
+                    "/title": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:852086555"
+                        }
+                    },
+                    "/region": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:852086555"
+                        }
+                    },
+                    "/locationName": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:852086555"
+                        }
+                    },
+                    "/description": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:852086555"
+                        }
+                    }
+                },
+                "companyName": "Freelance",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 1,
+                        "year": 2022
+                    }
+                },
+                "title": "Freelance Web/App Developer"
+            },
+            {
+                "locationName": "Guwahati, Assam, India",
+                "entityUrn": "urn:li:fs_position:(ACoAADLJzxsBizdB0nN5NZBCM41Q-z6-7ef5gyI,1758317272)",
+                "geoLocationName": "Guwahati, Assam, India",
+                "geoUrn": "urn:li:fs_geo:105607401",
+                "companyName": "TechVariable",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 1,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 3,
+                        "year": 2021
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Programmer Analyst",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:10632640",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQE6IzKHUZQmAA/company-logo_"
+            },
+            {
+                "locationName": "Guwahati, Assam, India",
+                "entityUrn": "urn:li:fs_position:(ACoAADLJzxsBizdB0nN5NZBCM41Q-z6-7ef5gyI,1851475620)",
+                "geoLocationName": "Guwahati, Assam, India",
+                "geoUrn": "urn:li:fs_geo:105607401",
+                "companyName": "QuickGhy",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 2,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2020
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 2,
+                        "end": 10
+                    },
+                    "industries": [
+                        "Facilities Services"
+                    ]
+                },
+                "title": "Frontend Developer",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:40664871",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQHK-QCf7gHKbQ/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAADLJzxsBizdB0nN5NZBCM41Q-z6-7ef5gyI,682956916)",
+                "school": {
+                    "objectUrn": "urn:li:school:3241817",
+                    "entityUrn": "urn:li:fs_miniSchool:3241817",
+                    "active": true,
+                    "schoolName": "Assam Engineering College, (A.E.C)",
+                    "trackingId": "0uAGqMyrS3CpLEbJz19aDA==",
+                    "logoUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQF2c8H0frv_Dw/company-logo_"
+                },
+                "grade": "1st class",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "year": 2015
+                    }
+                },
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100350",
+                "degreeName": "Bachelor of Engineering - BE",
+                "schoolName": "Assam Engineering College, (A.E.C)",
+                "fieldOfStudy": "Electronics and Telecommunications Engineering",
+                "degreeUrn": "urn:li:fs_degree:269",
+                "schoolUrn": "urn:li:fs_miniSchool:3241817"
+            }
+        ],
+        "languages": [],
+        "publications": [],
+        "certifications": [],
+        "volunteer": [],
+        "honors": [],
+        "projects": []
+    },
+    "contact_info": {
+        "email_address": "deepjkalita95@gmail.com",
+        "websites": [],
+        "twitter": [],
+        "birthdate": null,
+        "ims": null,
+        "phone_numbers": []
+    },
+    "connections": [
+        {
+            "urn_id": "ACoAAC24GToBKzC8vS7jZaCEqoq3Jse_M2Tson8",
+            "distance": "DISTANCE_1",
+            "public_id": "abhijit-paul-936a68194",
+            "tracking_id": "767039802"
+        },
+        {
+            "urn_id": "ACoAAByhqogBLFVDJbqojrVMhtKfC3o3hRfEcjg",
+            "distance": "DISTANCE_1",
+            "public_id": "biki-talukdar-460a54114",
+            "tracking_id": "480357000"
+        },
+        {
+            "urn_id": "ACoAABr4jt0BoOUmisITdRo1gR4CumG5I4jjZIw",
+            "distance": "DISTANCE_1",
+            "public_id": "samudra-deka-911659107",
+            "tracking_id": "452497117"
+        },
+        {
+            "urn_id": "ACoAADZmR9QB1zOH_PmrzQQw2wQmTJRTcNGU7CE",
+            "distance": "DISTANCE_1",
+            "public_id": "bkalita",
+            "tracking_id": "912672724"
+        },
+        {
+            "urn_id": "ACoAADe3CFYBsoFdtSEajXbg51HDagdpBEb3kx4",
+            "distance": "DISTANCE_1",
+            "public_id": "binud-panging-872062221",
+            "tracking_id": "934742102"
+        },
+        {
+            "urn_id": "ACoAACT67ZEBgw1Aprl8Aqy8zWMavdTyaWs7J3w",
+            "distance": "DISTANCE_1",
+            "public_id": "titikshya-das-015942153",
+            "tracking_id": "620424593"
+        },
+        {
+            "urn_id": "ACoAAAjgx0kBxJoPu_7t3kS1NbDizQekjIIzMbE",
+            "distance": "DISTANCE_1",
+            "public_id": "lakheswar-nath-289a7141",
+            "tracking_id": "148948809"
+        },
+        {
+            "urn_id": "ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE",
+            "distance": "DISTANCE_1",
+            "public_id": "prithoo11335",
+            "tracking_id": "231212168"
+        },
+        {
+            "urn_id": "ACoAACr0GSwBcmPDh22HqivG9h0JwG-eahXSYW8",
+            "distance": "DISTANCE_1",
+            "public_id": "nihar-kashyap98",
+            "tracking_id": "720640300"
+        },
+        {
+            "urn_id": "ACoAACzP6KMBcLKqKnFRpIudaukkoW4NoqstgrM",
+            "distance": "DISTANCE_1",
+            "public_id": "pranit-prakash-sahu",
+            "tracking_id": "751823011"
+        },
+        {
+            "urn_id": "ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY",
+            "distance": "DISTANCE_1",
+            "public_id": "tridip-das-b5837911b",
+            "tracking_id": "499568180"
+        },
+        {
+            "urn_id": "ACoAAAI9wXoBijRhLoxf7BO8UTK0DX-7KexJV30",
+            "distance": "DISTANCE_1",
+            "public_id": "boren-ghosh-27671410",
+            "tracking_id": "37601658"
+        },
+        {
+            "urn_id": "ACoAACZxhUQBl1V8kpLj4ACrE2LzpatGvVzEgSA",
+            "distance": "DISTANCE_1",
+            "public_id": "nabajyoti-borah-944000160",
+            "tracking_id": "644973892"
+        },
+        {
+            "urn_id": "ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8",
+            "distance": "DISTANCE_1",
+            "public_id": "sivaranjan-goswami-790b4523",
+            "tracking_id": "83451420"
+        },
+        {
+            "urn_id": "ACoAAC4efLABFBv0f30-SDGDgLSf1gXTlkpJTfc",
+            "distance": "DISTANCE_1",
+            "public_id": "shawan-mandal",
+            "tracking_id": "773749936"
+        },
+        {
+            "urn_id": "ACoAACDVs-sB_IgxPBMHMRBfR6is3jmwwV_OvTE",
+            "distance": "DISTANCE_1",
+            "public_id": "swapnil-bhattacharjee-ghy",
+            "tracking_id": "550876139"
+        },
+        {
+            "urn_id": "ACoAACYmrvgBRdvWxItbY_KP_fyrEgZ9U-QKJqk",
+            "distance": "DISTANCE_1",
+            "public_id": "rtsu",
+            "tracking_id": "640069368"
+        },
+        {
+            "urn_id": "ACoAADRMKTMBj76XTPRfB9R5rvfwNOXP2n93n4c",
+            "distance": "DISTANCE_1",
+            "public_id": "manash-deka-497a12205",
+            "tracking_id": "877406515"
+        },
+        {
+            "urn_id": "ACoAAAR5v8MBjPwCvp8TP9RWZyGSeNYNiJ1wKJE",
+            "distance": "DISTANCE_1",
+            "public_id": "nilotpal-boruah",
+            "tracking_id": "75087811"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Engineering",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:166",
+            "standardizedSkill": {
+                "name": "Engineering",
+                "entityUrn": "urn:li:fs_miniSkill:166"
+            }
+        },
+        {
+            "name": "WordPress",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:2438",
+            "standardizedSkill": {
+                "name": "WordPress",
+                "entityUrn": "urn:li:fs_miniSkill:2438"
+            }
+        },
+        {
+            "name": "JavaScript",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:218",
+            "standardizedSkill": {
+                "name": "JavaScript",
+                "entityUrn": "urn:li:fs_miniSkill:218"
+            }
+        },
+        {
+            "name": "HTML",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:280",
+            "standardizedSkill": {
+                "name": "HTML",
+                "entityUrn": "urn:li:fs_miniSkill:280"
+            }
+        },
+        {
+            "name": "Cascading Style Sheets (CSS)",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:307",
+            "standardizedSkill": {
+                "name": "Cascading Style Sheets (CSS)",
+                "entityUrn": "urn:li:fs_miniSkill:307"
+            }
+        },
+        {
+            "name": "Web Development",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:764",
+            "standardizedSkill": {
+                "name": "Web Development",
+                "entityUrn": "urn:li:fs_miniSkill:764"
+            }
+        },
+        {
+            "name": "Front-end Development",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:1578",
+            "standardizedSkill": {
+                "name": "Front-End Development",
+                "entityUrn": "urn:li:fs_miniSkill:1578"
+            }
+        },
+        {
+            "name": "Responsive Web Design",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:50255",
+            "standardizedSkill": {
+                "name": "Responsive Web Design",
+                "entityUrn": "urn:li:fs_miniSkill:50255"
+            }
+        },
+        {
+            "name": "Firebase",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:55041",
+            "standardizedSkill": {
+                "name": "Firebase",
+                "entityUrn": "urn:li:fs_miniSkill:55041"
+            }
+        },
+        {
+            "name": "Node.js",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:18276",
+            "standardizedSkill": {
+                "name": "Node.js",
+                "entityUrn": "urn:li:fs_miniSkill:18276"
+            }
+        },
+        {
+            "name": "React.js",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:55007",
+            "standardizedSkill": {
+                "name": "React.js",
+                "entityUrn": "urn:li:fs_miniSkill:55007"
+            }
+        },
+        {
+            "name": "Android Development",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:26904",
+            "standardizedSkill": {
+                "name": "Android Development",
+                "entityUrn": "urn:li:fs_miniSkill:26904"
+            }
+        },
+        {
+            "name": "MongoDB",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:18235",
+            "standardizedSkill": {
+                "name": "MongoDB",
+                "entityUrn": "urn:li:fs_miniSkill:18235"
+            }
+        },
+        {
+            "name": "Java",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:147",
+            "standardizedSkill": {
+                "name": "Java",
+                "entityUrn": "urn:li:fs_miniSkill:147"
+            }
+        },
+        {
+            "name": "Arduino"
+        },
+        {
+            "name": "electronics and telecommunication"
+        },
+        {
+            "name": "embedded C"
+        },
+        {
+            "name": "C++"
+        },
+        {
+            "name": "C"
+        },
+        {
+            "name": "rasberry pi"
+        },
+        {
+            "name": "TypeScript"
+        },
+        {
+            "name": "React Native"
+        },
+        {
+            "name": "Apollo GraphQL"
+        },
+        {
+            "name": "GraphQL"
+        },
+        {
+            "name": "Full-Stack Development"
+        },
+        {
+            "name": "Python (Programming Language)"
+        },
+        {
+            "name": "Pandas (Software)"
+        },
+        {
+            "name": "numpy"
+        }
+    ]
+}

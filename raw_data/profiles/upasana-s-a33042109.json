@@ -1,0 +1,457 @@
+{
+    "profile": {
+        "summary": "Undergrad Literature Student looking for learning opportunities. Worked in the Human Resource Operational department. Skilled in maintaining records and creating database. ",
+        "industryName": "Human Resources Services",
+        "lastName": "S.",
+        "locationName": "India",
+        "student": false,
+        "geoCountryName": "India",
+        "geoCountryUrn": "urn:li:fs_geo:102713980",
+        "geoLocationBackfilled": false,
+        "elt": true,
+        "industryUrn": "urn:li:fs_industry:137",
+        "firstName": "Upasana ",
+        "entityUrn": "urn:li:fs_profile:ACoAABs8Z0cBp0GcqjfF8QNqskzqsltrrp_nD4g",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:105607401"
+        },
+        "geoLocationName": "Guwahati, Assam",
+        "location": {
+            "basicLocation": {
+                "countryCode": "in"
+            }
+        },
+        "displayPictureUrl": "https://media-exp1.licdn.com/dms/image/C5603AQHUoQIgsNqGfw/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/0/1633330166204?e=1657756800&v=beta&t=B-4F2VzgpGepZOXzyKxYx6D8l-p_0rWwQtHP-yvsZ4k",
+        "img_200_200": "200_200/0/1633330166204?e=1657756800&v=beta&t=M_VhgAMwRkjyjgYrK5y_hsLN_S6o9gc8iBN0EK9eEEE",
+        "img_400_400": "400_400/0/1633330166204?e=1657756800&v=beta&t=KyQy6YVvaCNhjknAclpBES5pU6BVPe72lYIyKGjLlcg",
+        "img_800_800": "800_800/0/1633330166204?e=1657756800&v=beta&t=1cLbL1o2NXWD8L7Mpi7HYP7aZwbyTeVlg9zMRiod4aA",
+        "profile_id": "ACoAABs8Z0cBp0GcqjfF8QNqskzqsltrrp_nD4g",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAABs8Z0cBp0GcqjfF8QNqskzqsltrrp_nD4g",
+        "member_urn": "urn:li:member:456943431",
+        "experience": [
+            {
+                "locationName": "Guwahati, Assam, India",
+                "entityUrn": "urn:li:fs_position:(ACoAABs8Z0cBp0GcqjfF8QNqskzqsltrrp_nD4g,1843984032)",
+                "$anti_abuse_metadata": {
+                    "/geoUrn": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:456943431"
+                        }
+                    },
+                    "/companyName": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:456943431"
+                        }
+                    },
+                    "/companyUrn": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:456943431"
+                        }
+                    },
+                    "/entityUrn": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:456943431"
+                        }
+                    },
+                    "/geoLocationName": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:456943431"
+                        }
+                    },
+                    "/promotion": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:456943431"
+                        }
+                    },
+                    "/title": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:456943431"
+                        }
+                    },
+                    "/region": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:456943431"
+                        }
+                    },
+                    "/locationName": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:456943431"
+                        }
+                    },
+                    "/description": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:456943431"
+                        }
+                    }
+                },
+                "geoLocationName": "Guwahati, Assam, India",
+                "geoUrn": "urn:li:fs_geo:105607401",
+                "companyName": "Social Youthquake",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 2,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 12,
+                        "year": 2020
+                    }
+                },
+                "title": "Secretary General",
+                "region": "urn:li:fs_region:(in,0)"
+            },
+            {
+                "locationName": "Guwahati, Assam, India",
+                "entityUrn": "urn:li:fs_position:(ACoAABs8Z0cBp0GcqjfF8QNqskzqsltrrp_nD4g,1843983520)",
+                "$anti_abuse_metadata": {
+                    "/geoUrn": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:456943431"
+                        }
+                    },
+                    "/companyName": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:456943431"
+                        }
+                    },
+                    "/companyUrn": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:456943431"
+                        }
+                    },
+                    "/entityUrn": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:456943431"
+                        }
+                    },
+                    "/geoLocationName": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:456943431"
+                        }
+                    },
+                    "/promotion": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:456943431"
+                        }
+                    },
+                    "/title": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:456943431"
+                        }
+                    },
+                    "/region": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:456943431"
+                        }
+                    },
+                    "/locationName": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:456943431"
+                        }
+                    },
+                    "/description": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:456943431"
+                        }
+                    }
+                },
+                "geoLocationName": "Guwahati, Assam, India",
+                "geoUrn": "urn:li:fs_geo:105607401",
+                "companyName": "Social Youthquake",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 1,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 12,
+                        "year": 2020
+                    }
+                },
+                "organizations": [
+                    "urn:li:fs_organization:(ACoAABs8Z0cBp0GcqjfF8QNqskzqsltrrp_nD4g,424392146)"
+                ],
+                "title": "Secretary General",
+                "region": "urn:li:fs_region:(in,0)"
+            },
+            {
+                "locationName": "Guwahati, Assam, India",
+                "entityUrn": "urn:li:fs_position:(ACoAABs8Z0cBp0GcqjfF8QNqskzqsltrrp_nD4g,1847382673)",
+                "geoLocationName": "Guwahati, Assam, India",
+                "geoUrn": "urn:li:fs_geo:105607401",
+                "companyName": "TechVariable",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 10,
+                        "year": 2021
+                    }
+                },
+                "organizations": [
+                    "urn:li:fs_organization:(ACoAABs8Z0cBp0GcqjfF8QNqskzqsltrrp_nD4g,1242678277)"
+                ],
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Human Resources Intern",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:10632640",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQE6IzKHUZQmAA/company-logo_"
+            },
+            {
+                "locationName": "Guwahati, Assam, India",
+                "entityUrn": "urn:li:fs_position:(ACoAABs8Z0cBp0GcqjfF8QNqskzqsltrrp_nD4g,1693215538)",
+                "$anti_abuse_metadata": {
+                    "/geoUrn": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:456943431"
+                        }
+                    },
+                    "/companyName": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:456943431"
+                        }
+                    },
+                    "/companyUrn": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:456943431"
+                        }
+                    },
+                    "/entityUrn": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:456943431"
+                        }
+                    },
+                    "/geoLocationName": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:456943431"
+                        }
+                    },
+                    "/promotion": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:456943431"
+                        }
+                    },
+                    "/title": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:456943431"
+                        }
+                    },
+                    "/region": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:456943431"
+                        }
+                    },
+                    "/locationName": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:456943431"
+                        }
+                    },
+                    "/description": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:456943431"
+                        }
+                    }
+                },
+                "geoLocationName": "Guwahati, Assam, India",
+                "geoUrn": "urn:li:fs_geo:105607401",
+                "companyName": "Social Youthquake ",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "month": 11,
+                        "year": 2020
+                    }
+                },
+                "title": "Vice President",
+                "region": "urn:li:fs_region:(in,0)"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAABs8Z0cBp0GcqjfF8QNqskzqsltrrp_nD4g,687725680)",
+                "activities": "Department Rally,\nmember of the department magazine Brahmaputra",
+                "grade": "5th Semester",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "year": 2019
+                    }
+                },
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100583",
+                "degreeName": "Bachelor's degree",
+                "schoolName": "Guwahati College ",
+                "fieldOfStudy": "English Language and Literature, General",
+                "degreeUrn": "urn:li:fs_degree:200"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAABs8Z0cBp0GcqjfF8QNqskzqsltrrp_nD4g,308979721)",
+                "activities": "Scouts and Guides\nMember of blue house basketball team\nwinner of dance competition \nwinner of singing competition",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2017
+                    },
+                    "startDate": {
+                        "year": 2010
+                    }
+                },
+                "degreeName": "High School Diploma",
+                "schoolName": "Kendriya Vidyalaya ioc noonmati",
+                "fieldOfStudy": "4-10",
+                "degreeUrn": "urn:li:fs_degree:10"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAABs8Z0cBp0GcqjfF8QNqskzqsltrrp_nD4g,749499128)",
+                "grade": "A",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2009
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2007
+                    }
+                },
+                "degreeName": "Class 1-3",
+                "schoolName": "Sudarshan Public School",
+                "fieldOfStudy": "Primary School"
+            }
+        ],
+        "languages": [],
+        "publications": [],
+        "certifications": [],
+        "volunteer": [],
+        "honors": [],
+        "projects": []
+    },
+    "contact_info": {
+        "email_address": null,
+        "websites": [],
+        "twitter": [],
+        "birthdate": null,
+        "ims": null,
+        "phone_numbers": []
+    },
+    "connections": [
+        {
+            "urn_id": "ACoAABr4jt0BoOUmisITdRo1gR4CumG5I4jjZIw",
+            "distance": "DISTANCE_1",
+            "public_id": "samudra-deka-911659107",
+            "tracking_id": "452497117"
+        },
+        {
+            "urn_id": "ACoAADZmR9QB1zOH_PmrzQQw2wQmTJRTcNGU7CE",
+            "distance": "DISTANCE_1",
+            "public_id": "bkalita",
+            "tracking_id": "912672724"
+        },
+        {
+            "urn_id": "ACoAADLJzxsBizdB0nN5NZBCM41Q-z6-7ef5gyI",
+            "distance": "DISTANCE_1",
+            "public_id": "deepjyoti-kalita-78b4411b9",
+            "tracking_id": "852086555"
+        },
+        {
+            "urn_id": "ACoAACT67ZEBgw1Aprl8Aqy8zWMavdTyaWs7J3w",
+            "distance": "DISTANCE_1",
+            "public_id": "titikshya-das-015942153",
+            "tracking_id": "620424593"
+        },
+        {
+            "urn_id": "ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE",
+            "distance": "DISTANCE_1",
+            "public_id": "prithoo11335",
+            "tracking_id": "231212168"
+        },
+        {
+            "urn_id": "ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY",
+            "distance": "DISTANCE_1",
+            "public_id": "tridip-das-b5837911b",
+            "tracking_id": "499568180"
+        },
+        {
+            "urn_id": "ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8",
+            "distance": "DISTANCE_1",
+            "public_id": "sivaranjan-goswami-790b4523",
+            "tracking_id": "83451420"
+        },
+        {
+            "urn_id": "ACoAACDVs-sB_IgxPBMHMRBfR6is3jmwwV_OvTE",
+            "distance": "DISTANCE_1",
+            "public_id": "swapnil-bhattacharjee-ghy",
+            "tracking_id": "550876139"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Communication",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:135",
+            "standardizedSkill": {
+                "name": "Communication",
+                "entityUrn": "urn:li:fs_miniSkill:135"
+            }
+        },
+        {
+            "name": "Education",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:124",
+            "standardizedSkill": {
+                "name": "Education",
+                "entityUrn": "urn:li:fs_miniSkill:124"
+            }
+        },
+        {
+            "name": "Problem Solving",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:1017",
+            "standardizedSkill": {
+                "name": "Problem Solving",
+                "entityUrn": "urn:li:fs_miniSkill:1017"
+            }
+        },
+        {
+            "name": "Strategy",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:107",
+            "standardizedSkill": {
+                "name": "Strategy",
+                "entityUrn": "urn:li:fs_miniSkill:107"
+            }
+        },
+        {
+            "name": "Analytical Skills",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:3203",
+            "standardizedSkill": {
+                "name": "Analytical Skills",
+                "entityUrn": "urn:li:fs_miniSkill:3203"
+            }
+        },
+        {
+            "name": "Leadership",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:154",
+            "standardizedSkill": {
+                "name": "Leadership",
+                "entityUrn": "urn:li:fs_miniSkill:154"
+            }
+        },
+        {
+            "name": "English"
+        },
+        {
+            "name": "Tutoring"
+        }
+    ]
+}

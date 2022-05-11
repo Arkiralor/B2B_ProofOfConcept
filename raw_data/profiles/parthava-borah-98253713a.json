@@ -1,7 +1,7 @@
 {
     "profile": {
         "summary": "Expertise in developing web apps using React, NodeJs, and Python Programming Language frameworks along with Rest API development in Node.js. I have a keen interest in learning new technologies and tools for the field. Interested in working on challenging problems with innovative solutions. Strong engineering professional with a Bachelor's degree focused on Computer Science from Girijananda Chowdhury Institute of Management & Technology.",
-        "industryName": "Computer Software",
+        "industryName": "Software Development",
         "lastName": "Borah",
         "locationName": "India",
         "student": false,
@@ -23,10 +23,10 @@
         },
         "headline": "Backend developer | MERN | NestJS",
         "displayPictureUrl": "https://media-exp1.licdn.com/dms/image/C4E03AQGf7I5gIdOmrg/profile-displayphoto-shrink_",
-        "img_100_100": "100_100/0/1625927098421?e=1657152000&v=beta&t=iXG-tLk9c6LWXsIqvT7dv8KaN-NkHgsTt6qXJXVtOQE",
-        "img_200_200": "200_200/0/1625927098421?e=1657152000&v=beta&t=T7hE5Pq72I3FBTuQ_kQjXQ70Tx6Bnee0A7CKhRLzbGM",
-        "img_400_400": "400_400/0/1625927098421?e=1657152000&v=beta&t=_fVbHXBR6TFCQwDY3pb_MYtJXTHMw0QZ90vS1b3Ykm8",
-        "img_800_800": "800_800/0/1625927098421?e=1657152000&v=beta&t=otvzbfDJjgAtwz2tgWCuADR7EiaCwrVY0UxNRj_B3eI",
+        "img_100_100": "100_100/0/1625927098421?e=1657756800&v=beta&t=2jRsXp-vQIhSaw3yvzfWWBlYIFdiiotheCMDWBu4TJU",
+        "img_200_200": "200_200/0/1625927098421?e=1657756800&v=beta&t=_79FzgO_XYxy2MvGWFPTOMWuNW52DgNBuoI8M3h-vEk",
+        "img_400_400": "400_400/0/1625927098421?e=1657756800&v=beta&t=MkGuoJ5nBTHlc_y0879UfkvY9dU0CG-KLmhhb8yAHjI",
+        "img_800_800": "800_800/0/1625927098421?e=1657756800&v=beta&t=_0OoOeGOgi-Pf_gHifQltIA6SqDYQi5Web4eQWMoLQM",
         "profile_id": "ACoAACHlA7IB_d9MYYVP_4JgPjZfqJiP0PpAAk0",
         "profile_urn": "urn:li:fs_miniProfile:ACoAACHlA7IB_d9MYYVP_4JgPjZfqJiP0PpAAk0",
         "member_urn": "urn:li:member:568656818",
@@ -70,7 +70,7 @@
                     "entityUrn": "urn:li:fs_miniSchool:208756",
                     "active": true,
                     "schoolName": "Girijananda Chowdhury Institute of Management & Technology",
-                    "trackingId": "+qznYHaKRn+osTmVQukzvg=="
+                    "trackingId": "6Wo91+4vQJySjZm2aSH+Uw=="
                 },
                 "timePeriod": {
                     "endDate": {
@@ -127,7 +127,7 @@
                     },
                     "universalName": "webtek",
                     "dashCompanyUrn": "urn:li:fsd_company:47903",
-                    "trackingId": "HEQJ4Mh2RhuKHTHtXzSH5A=="
+                    "trackingId": "+TiFmOVYTFaEh+IGopAYYw=="
                 },
                 "companyUrn": "urn:li:fs_miniCompany:47903"
             },
@@ -167,7 +167,7 @@
                     },
                     "universalName": "udemy",
                     "dashCompanyUrn": "urn:li:fsd_company:822535",
-                    "trackingId": "jcl/VH0+Sm279BEGYO1zVw=="
+                    "trackingId": "WPG+ilH9Tg64hv9NfkrPkw=="
                 },
                 "companyUrn": "urn:li:fs_miniCompany:822535"
             }
@@ -177,13 +177,117 @@
         "projects": []
     },
     "contact_info": {
-        "email_address": "parthavaborah@gmail.com",
+        "email_address": null,
         "websites": [],
         "twitter": [],
         "birthdate": null,
         "ims": null,
         "phone_numbers": []
     },
+    "connections": [
+        {
+            "urn_id": "ACoAAByhqogBLFVDJbqojrVMhtKfC3o3hRfEcjg",
+            "distance": "DISTANCE_1",
+            "public_id": "biki-talukdar-460a54114",
+            "tracking_id": "480357000"
+        },
+        {
+            "urn_id": "ACoAABr4jt0BoOUmisITdRo1gR4CumG5I4jjZIw",
+            "distance": "DISTANCE_1",
+            "public_id": "samudra-deka-911659107",
+            "tracking_id": "452497117"
+        },
+        {
+            "urn_id": "ACoAADZmR9QB1zOH_PmrzQQw2wQmTJRTcNGU7CE",
+            "distance": "DISTANCE_1",
+            "public_id": "bkalita",
+            "tracking_id": "912672724"
+        },
+        {
+            "urn_id": "ACoAADLJzxsBizdB0nN5NZBCM41Q-z6-7ef5gyI",
+            "distance": "DISTANCE_1",
+            "public_id": "deepjyoti-kalita-78b4411b9",
+            "tracking_id": "852086555"
+        },
+        {
+            "urn_id": "ACoAADe3CFYBsoFdtSEajXbg51HDagdpBEb3kx4",
+            "distance": "DISTANCE_1",
+            "public_id": "binud-panging-872062221",
+            "tracking_id": "934742102"
+        },
+        {
+            "urn_id": "ACoAAC2aUPYBGPB-T9xDu2Hjrq7OgzRPu5nTvyE",
+            "distance": "DISTANCE_1",
+            "public_id": "jintudas",
+            "tracking_id": "765087990"
+        },
+        {
+            "urn_id": "ACoAACT67ZEBgw1Aprl8Aqy8zWMavdTyaWs7J3w",
+            "distance": "DISTANCE_1",
+            "public_id": "titikshya-das-015942153",
+            "tracking_id": "620424593"
+        },
+        {
+            "urn_id": "ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE",
+            "distance": "DISTANCE_1",
+            "public_id": "prithoo11335",
+            "tracking_id": "231212168"
+        },
+        {
+            "urn_id": "ACoAACr0GSwBcmPDh22HqivG9h0JwG-eahXSYW8",
+            "distance": "DISTANCE_1",
+            "public_id": "nihar-kashyap98",
+            "tracking_id": "720640300"
+        },
+        {
+            "urn_id": "ACoAACeXhGEBEVCUXmKi5rowUSeFZNerPjvzQsc",
+            "distance": "DISTANCE_1",
+            "public_id": "mahbubul-haque-a55552166",
+            "tracking_id": "664241249"
+        },
+        {
+            "urn_id": "ACoAACbTg-gBtT_YqZc-FG2lIVBv13QTx8UUB8E",
+            "distance": "DISTANCE_1",
+            "public_id": "mridul24",
+            "tracking_id": "651396072"
+        },
+        {
+            "urn_id": "ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY",
+            "distance": "DISTANCE_1",
+            "public_id": "tridip-das-b5837911b",
+            "tracking_id": "499568180"
+        },
+        {
+            "urn_id": "ACoAAAI9wXoBijRhLoxf7BO8UTK0DX-7KexJV30",
+            "distance": "DISTANCE_1",
+            "public_id": "boren-ghosh-27671410",
+            "tracking_id": "37601658"
+        },
+        {
+            "urn_id": "ACoAACZxhUQBl1V8kpLj4ACrE2LzpatGvVzEgSA",
+            "distance": "DISTANCE_1",
+            "public_id": "nabajyoti-borah-944000160",
+            "tracking_id": "644973892"
+        },
+        {
+            "urn_id": "ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8",
+            "distance": "DISTANCE_1",
+            "public_id": "sivaranjan-goswami-790b4523",
+            "tracking_id": "83451420"
+        },
+        {
+            "urn_id": "ACoAACTFIIYB1cK_syRcCXEc0o8RTm4JMlhYcHA",
+            "distance": "DISTANCE_1",
+            "public_id": "arun-kumar-nath-686721152",
+            "tracking_id": "616898694"
+        },
+        {
+            "urn_id": "ACoAACDVs-sB_IgxPBMHMRBfR6is3jmwwV_OvTE",
+            "distance": "DISTANCE_1",
+            "public_id": "swapnil-bhattacharjee-ghy",
+            "tracking_id": "550876139"
+        }
+    ],
     "skills": [
         {
             "name": "Node.js"

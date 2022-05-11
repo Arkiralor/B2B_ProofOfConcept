@@ -1,0 +1,234 @@
+{
+    "profile": {
+        "summary": "www.righthemisphere.in",
+        "industryName": "Design Services",
+        "lastName": "Mahanta",
+        "locationName": "India",
+        "student": false,
+        "geoCountryName": "India",
+        "geoCountryUrn": "urn:li:fs_geo:102713980",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "industryUrn": "urn:li:fs_industry:99",
+        "firstName": "Arpan",
+        "entityUrn": "urn:li:fs_profile:ACoAACCf8NEBjy30B3KW7OZcc14dlD-EHFuO3Kk",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:105607401"
+        },
+        "geoLocationName": "Guwahati, Assam",
+        "location": {
+            "basicLocation": {
+                "countryCode": "in"
+            }
+        },
+        "headline": "Graphic Designer at Right Hemisphere",
+        "displayPictureUrl": "https://media-exp1.licdn.com/dms/image/C5603AQGwAKqP7kB8vA/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/0/1589009196663?e=1657756800&v=beta&t=WnDmdYZ8nkO3gTOd0BIMN5NIEAjQPyeHG-VbHXySfKs",
+        "img_200_200": "200_200/0/1589009196663?e=1657756800&v=beta&t=S6wIO5j3z3i78C_3bVfk9ZAFs3MzxPGOgV3ba-kWTAE",
+        "img_400_400": "400_400/0/1589009196663?e=1657756800&v=beta&t=ls5N8nwavfekMJ5v3tQaCWvfpykA_-7BtDpawFcoZgE",
+        "img_800_800": "800_800/0/1589009196663?e=1657756800&v=beta&t=CKhvlfUSOcRfG5p6SXxjp3ejvVKSElGm6NKIYRetC2o",
+        "profile_id": "ACoAACCf8NEBjy30B3KW7OZcc14dlD-EHFuO3Kk",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAACCf8NEBjy30B3KW7OZcc14dlD-EHFuO3Kk",
+        "member_urn": "urn:li:member:547352785",
+        "experience": [
+            {
+                "courses": [
+                    "urn:li:fs_course:(ACoAACCf8NEBjy30B3KW7OZcc14dlD-EHFuO3Kk,1591704679)"
+                ],
+                "locationName": "Guwahati Area, India",
+                "geoUrn": "urn:li:fs_geo:104535556",
+                "companyName": "Right Hemisphere",
+                "description": "www.righthemisphere.in",
+                "title": "Graphic Designer",
+                "companyUrn": "urn:li:fs_miniCompany:54369097",
+                "entityUrn": "urn:li:fs_position:(ACoAACCf8NEBjy30B3KW7OZcc14dlD-EHFuO3Kk,1415248098)",
+                "geoLocationName": "Guwahati Area, India",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 2,
+                        "year": 2018
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 2,
+                        "end": 10
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "region": "urn:li:fs_region:(in,7248)",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQE7-QODVHWeUg/company-logo_"
+            },
+            {
+                "locationName": "Guwahati Area, India",
+                "entityUrn": "urn:li:fs_position:(ACoAACCf8NEBjy30B3KW7OZcc14dlD-EHFuO3Kk,1037819196)",
+                "geoLocationName": "Guwahati Area, India",
+                "geoUrn": "urn:li:fs_geo:104535556",
+                "companyName": "TechVariable",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 1,
+                        "year": 2018
+                    },
+                    "startDate": {
+                        "month": 6,
+                        "year": 2017
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Creative Designer",
+                "region": "urn:li:fs_region:(in,7248)",
+                "companyUrn": "urn:li:fs_miniCompany:10632640",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQE6IzKHUZQmAA/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAACCf8NEBjy30B3KW7OZcc14dlD-EHFuO3Kk,391352827)",
+                "school": {
+                    "objectUrn": "urn:li:school:199762",
+                    "entityUrn": "urn:li:fs_miniSchool:199762",
+                    "active": true,
+                    "schoolName": "Assam Engineering College",
+                    "trackingId": "9q30efmgRSCkQHTRDd9DwA=="
+                },
+                "activities": "1.Chief Technical Coordinator of Pyrokinesis 2015 and Udbhavanam 3.0, the annual cultural and technical festival of Assam Engineering College.\n\n2.Event Organizer and coordinator of the Gaming Competition event Skoar in Pyrokinesis 2014.",
+                "grade": "1ST CLASS",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2015
+                    },
+                    "startDate": {
+                        "year": 2011
+                    }
+                },
+                "degreeName": "Bachelor of Engineering",
+                "schoolName": "Assam Engineering College",
+                "fieldOfStudy": "INSTRUMENTATION",
+                "schoolUrn": "urn:li:fs_miniSchool:199762"
+            }
+        ],
+        "languages": [],
+        "publications": [],
+        "certifications": [],
+        "volunteer": [
+            {
+                "role": "Technical Coordinator",
+                "companyName": "Assam Engineering College",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 3,
+                        "year": 2015
+                    },
+                    "startDate": {
+                        "month": 3,
+                        "year": 2015
+                    }
+                },
+                "cause": "ARTS_AND_CULTURE",
+                "description": "Worked as Technical Coordinator of PYROKINESIS 2015, the National Level Annual Cultural Festival of Assam Engineering College held on 19, 20 & 21 march, 2015",
+                "company": {
+                    "miniCompany": {
+                        "objectUrn": "urn:li:company:15104696",
+                        "entityUrn": "urn:li:fs_miniCompany:15104696",
+                        "name": "Assam Engineering College",
+                        "showcase": false,
+                        "active": true,
+                        "universalName": "assam-engineering-college",
+                        "dashCompanyUrn": "urn:li:fsd_company:15104696",
+                        "trackingId": "CdMyxRhOTDe5odvsJancUg=="
+                    }
+                },
+                "companyUrn": "urn:li:fs_miniCompany:15104696"
+            }
+        ],
+        "honors": [],
+        "projects": []
+    },
+    "contact_info": {
+        "email_address": null,
+        "websites": [],
+        "twitter": [],
+        "birthdate": null,
+        "ims": null,
+        "phone_numbers": []
+    },
+    "connections": [
+        {
+            "urn_id": "ACoAADLJzxsBizdB0nN5NZBCM41Q-z6-7ef5gyI",
+            "distance": "DISTANCE_1",
+            "public_id": "deepjyoti-kalita-78b4411b9",
+            "tracking_id": "852086555"
+        }
+    ],
+    "skills": [
+        {
+            "name": "C"
+        },
+        {
+            "name": "Digital Art"
+        },
+        {
+            "name": "Graphic Design"
+        },
+        {
+            "name": "Branding & Identity"
+        },
+        {
+            "name": "User Experience (UX)"
+        },
+        {
+            "name": "User Interface Design"
+        },
+        {
+            "name": "Graphics"
+        },
+        {
+            "name": "Design"
+        },
+        {
+            "name": "Print Design"
+        },
+        {
+            "name": "Adobe Photoshop"
+        },
+        {
+            "name": "Adobe Illustrator"
+        },
+        {
+            "name": "LabVIEW"
+        },
+        {
+            "name": "Microsoft Office",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:366",
+            "standardizedSkill": {
+                "name": "Microsoft Office",
+                "entityUrn": "urn:li:fs_miniSkill:366"
+            }
+        },
+        {
+            "name": "Figma"
+        },
+        {
+            "name": "Uxpin"
+        },
+        {
+            "name": "English",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:274",
+            "standardizedSkill": {
+                "name": "English",
+                "entityUrn": "urn:li:fs_miniSkill:274"
+            }
+        }
+    ]
+}

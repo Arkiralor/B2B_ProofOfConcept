@@ -1,0 +1,434 @@
+{
+    "profile": {
+        "summary": "Technology Enthusiast , electronics hobbyist and maker",
+        "industryName": "IT Services and IT Consulting",
+        "lastName": "Dey",
+        "locationName": "India",
+        "student": false,
+        "geoCountryName": "India",
+        "geoCountryUrn": "urn:li:fs_geo:102713980",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "industryUrn": "urn:li:fs_industry:96",
+        "firstName": "Samir",
+        "entityUrn": "urn:li:fs_profile:ACoAACijf6EBseXc7mnGhQc-Q2Y8eQtd2Fyri9k",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:105607401"
+        },
+        "geoLocationName": "Guwahati, Assam",
+        "location": {
+            "basicLocation": {
+                "countryCode": "in"
+            }
+        },
+        "headline": "Software Developer",
+        "displayPictureUrl": "https://media-exp1.licdn.com/dms/image/C5103AQEuZ56H-LoleA/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/0/1555248707582?e=1657756800&v=beta&t=ZpN518qrDlDrk6r-EbTplOn3CDirdG48nPpZbndJVfw",
+        "img_200_200": "200_200/0/1555248707582?e=1657756800&v=beta&t=CPhyybLWBPi41L9m7J2WATMfwZy3fJgtbXMCe2jMeDE",
+        "img_400_400": "400_400/0/1555248707582?e=1657756800&v=beta&t=J5mGyh0Nj1u88xBN3UWO0AlBIAE7VbWfJrJVGPavA4s",
+        "img_800_800": "800_800/0/1555248707582?e=1657756800&v=beta&t=qG5StskYKQMXHJ3Hi3e-qtEcgF19_h70EoOHyJ1dVAE",
+        "profile_id": "ACoAACijf6EBseXc7mnGhQc-Q2Y8eQtd2Fyri9k",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAACijf6EBseXc7mnGhQc-Q2Y8eQtd2Fyri9k",
+        "member_urn": "urn:li:member:681803681",
+        "experience": [
+            {
+                "locationName": "Kamrup Metropolitan, Assam, India",
+                "entityUrn": "urn:li:fs_position:(ACoAACijf6EBseXc7mnGhQc-Q2Y8eQtd2Fyri9k,1876854374)",
+                "geoLocationName": "Kamrup Metropolitan, Assam, India",
+                "geoUrn": "urn:li:fs_geo:112036290",
+                "companyName": "National Informatics Centre, MeitY",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 11,
+                        "year": 2021
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 1001,
+                        "end": 5000
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Software Developer",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:13714183",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C510BAQHqD-qe74pf6A/company-logo_"
+            },
+            {
+                "locationName": "Guwahati Area, India",
+                "entityUrn": "urn:li:fs_position:(ACoAACijf6EBseXc7mnGhQc-Q2Y8eQtd2Fyri9k,1498299366)",
+                "$anti_abuse_metadata": {
+                    "/geoUrn": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:681803681"
+                        }
+                    },
+                    "/companyName": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:681803681"
+                        }
+                    },
+                    "/companyUrn": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:681803681"
+                        }
+                    },
+                    "/entityUrn": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:681803681"
+                        }
+                    },
+                    "/geoLocationName": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:681803681"
+                        }
+                    },
+                    "/promotion": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:681803681"
+                        }
+                    },
+                    "/title": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:681803681"
+                        }
+                    },
+                    "/region": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:681803681"
+                        }
+                    },
+                    "/locationName": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:681803681"
+                        }
+                    },
+                    "/description": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:681803681"
+                        }
+                    }
+                },
+                "geoLocationName": "Guwahati Area, India",
+                "geoUrn": "urn:li:fs_geo:104535556",
+                "companyName": "Na",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 8,
+                        "year": 2020
+                    }
+                },
+                "title": "Software Developer(Python ,JavaScript,Android,Web)",
+                "region": "urn:li:fs_region:(in,7248)"
+            },
+            {
+                "locationName": "Guwahati, Assam, India",
+                "entityUrn": "urn:li:fs_position:(ACoAACijf6EBseXc7mnGhQc-Q2Y8eQtd2Fyri9k,1762638720)",
+                "geoLocationName": "Guwahati, Assam, India",
+                "geoUrn": "urn:li:fs_geo:105607401",
+                "companyName": "TechVariable",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 11,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 4,
+                        "year": 2021
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Prgrammer Analyst",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:10632640",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQE6IzKHUZQmAA/company-logo_"
+            },
+            {
+                "locationName": "Guwahati Area, India",
+                "entityUrn": "urn:li:fs_position:(ACoAACijf6EBseXc7mnGhQc-Q2Y8eQtd2Fyri9k,1498701348)",
+                "geoLocationName": "Guwahati Area, India",
+                "geoUrn": "urn:li:fs_geo:104535556",
+                "companyName": "Nanoinformatics",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 7,
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "month": 7,
+                        "year": 2019
+                    }
+                },
+                "company": {},
+                "title": "Software Developer",
+                "region": "urn:li:fs_region:(in,7248)",
+                "companyUrn": "urn:li:fs_miniCompany:9378682"
+            },
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAACijf6EBseXc7mnGhQc-Q2Y8eQtd2Fyri9k,1475856185)",
+                "companyName": "National Informatics Center",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2019
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 1001,
+                        "end": 5000
+                    },
+                    "industries": [
+                        "Computer Software"
+                    ]
+                },
+                "title": "Student Intern",
+                "companyUrn": "urn:li:fs_miniCompany:1367"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAACijf6EBseXc7mnGhQc-Q2Y8eQtd2Fyri9k,551742571)",
+                "school": {
+                    "objectUrn": "urn:li:school:199762",
+                    "entityUrn": "urn:li:fs_miniSchool:199762",
+                    "active": true,
+                    "schoolName": "Assam Engineering College",
+                    "trackingId": "4zQUdmJNRCSUubxvLvspQg=="
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "year": 2016
+                    }
+                },
+                "degreeName": "Master of Computer Applications - MCA",
+                "schoolName": "Assam Engineering College",
+                "fieldOfStudy": "Computers ",
+                "degreeUrn": "urn:li:fs_degree:594",
+                "schoolUrn": "urn:li:fs_miniSchool:199762"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAACijf6EBseXc7mnGhQc-Q2Y8eQtd2Fyri9k,556532017)",
+                "school": {
+                    "objectUrn": "urn:li:school:13476",
+                    "entityUrn": "urn:li:fs_miniSchool:13476",
+                    "active": true,
+                    "schoolName": "Gauhati University",
+                    "trackingId": "dFP39AmARB+f/YajzXcv1A==",
+                    "logoUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQE_SHDG7RHWLg/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2014
+                    },
+                    "startDate": {
+                        "year": 2011
+                    }
+                },
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100173",
+                "degreeName": "BCA",
+                "schoolName": "Gauhati University",
+                "fieldOfStudy": "Computer and Information Sciences and Support Services",
+                "schoolUrn": "urn:li:fs_miniSchool:13476"
+            }
+        ],
+        "languages": [],
+        "publications": [],
+        "certifications": [],
+        "volunteer": [],
+        "honors": [],
+        "projects": []
+    },
+    "contact_info": {
+        "email_address": null,
+        "websites": [],
+        "twitter": [],
+        "birthdate": null,
+        "ims": null,
+        "phone_numbers": []
+    },
+    "connections": [
+        {
+            "urn_id": "ACoAABr4jt0BoOUmisITdRo1gR4CumG5I4jjZIw",
+            "distance": "DISTANCE_1",
+            "public_id": "samudra-deka-911659107",
+            "tracking_id": "452497117"
+        },
+        {
+            "urn_id": "ACoAADLJzxsBizdB0nN5NZBCM41Q-z6-7ef5gyI",
+            "distance": "DISTANCE_1",
+            "public_id": "deepjyoti-kalita-78b4411b9",
+            "tracking_id": "852086555"
+        },
+        {
+            "urn_id": "ACoAAAjgx0kBxJoPu_7t3kS1NbDizQekjIIzMbE",
+            "distance": "DISTANCE_1",
+            "public_id": "lakheswar-nath-289a7141",
+            "tracking_id": "148948809"
+        },
+        {
+            "urn_id": "ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE",
+            "distance": "DISTANCE_1",
+            "public_id": "prithoo11335",
+            "tracking_id": "231212168"
+        },
+        {
+            "urn_id": "ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY",
+            "distance": "DISTANCE_1",
+            "public_id": "tridip-das-b5837911b",
+            "tracking_id": "499568180"
+        },
+        {
+            "urn_id": "ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8",
+            "distance": "DISTANCE_1",
+            "public_id": "sivaranjan-goswami-790b4523",
+            "tracking_id": "83451420"
+        },
+        {
+            "urn_id": "ACoAAC4efLABFBv0f30-SDGDgLSf1gXTlkpJTfc",
+            "distance": "DISTANCE_1",
+            "public_id": "shawan-mandal",
+            "tracking_id": "773749936"
+        },
+        {
+            "urn_id": "ACoAACDVs-sB_IgxPBMHMRBfR6is3jmwwV_OvTE",
+            "distance": "DISTANCE_1",
+            "public_id": "swapnil-bhattacharjee-ghy",
+            "tracking_id": "550876139"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Android"
+        },
+        {
+            "name": "Django",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:5103",
+            "standardizedSkill": {
+                "name": "Django",
+                "entityUrn": "urn:li:fs_miniSkill:5103"
+            }
+        },
+        {
+            "name": "Python (Programming Language)",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:1346",
+            "standardizedSkill": {
+                "name": "Python (Programming Language)",
+                "entityUrn": "urn:li:fs_miniSkill:1346"
+            }
+        },
+        {
+            "name": "JavaScript"
+        },
+        {
+            "name": "REST API",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:55511",
+            "standardizedSkill": {
+                "name": "REST APIs",
+                "entityUrn": "urn:li:fs_miniSkill:55511"
+            }
+        },
+        {
+            "name": "AJAX"
+        },
+        {
+            "name": "Representational State Transfer (REST)"
+        },
+        {
+            "name": "HTML"
+        },
+        {
+            "name": "Java"
+        },
+        {
+            "name": "MySQL"
+        },
+        {
+            "name": "Node.js"
+        },
+        {
+            "name": "MongoDB"
+        },
+        {
+            "name": "Git"
+        },
+        {
+            "name": "Flask"
+        },
+        {
+            "name": "Firebase"
+        },
+        {
+            "name": "PostgreSQL"
+        },
+        {
+            "name": "Selenium"
+        },
+        {
+            "name": "Pandas"
+        },
+        {
+            "name": "React.js"
+        },
+        {
+            "name": "IOT"
+        },
+        {
+            "name": "Socket.io"
+        },
+        {
+            "name": "electronics hobbyist"
+        },
+        {
+            "name": "NumPy"
+        },
+        {
+            "name": "Express.js"
+        },
+        {
+            "name": "erpnext"
+        },
+        {
+            "name": "Native android development"
+        },
+        {
+            "name": "frappe"
+        },
+        {
+            "name": "Kotlin"
+        },
+        {
+            "name": "Core Java"
+        },
+        {
+            "name": "Model-View-Controller (MVC)"
+        },
+        {
+            "name": "NoSQL"
+        },
+        {
+            "name": "MERN Stack"
+        },
+        {
+            "name": "PySpark"
+        }
+    ]
+}

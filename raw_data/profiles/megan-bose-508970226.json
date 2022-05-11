@@ -1,0 +1,171 @@
+{
+    "profile": {
+        "summary": "\ud83d\udc49TechVariable worked with one of the\u00a0largest commercial real estate services companies in the world\u00a0in revamping as well as re-engineering their HR and legal systems at half the resource cost that they were initially investing. In fact, the team size scaled up pretty quickly and the project went on for 20 months.\u00a0The customer was extremely happy with the tech transformation brought on by TechVariable. \n\nTechnologies\u00a0used:\u00a0React.js, Node.js, GraphQL, PostgreSQL.\u00a0\n\n\ud83d\udc49TechVariable has also helped startups with 2x faster delivery in their product development journey with our services like Custom Application Development, Rapid Prototyping, etc. (https://www.techvariable.com/case-studies/)\n\n\ud83d\udc49TechVariable has achieved this because of the extremely lean delivery model and client-centric approach. \n\n \ud83d\udc49TechVariable has a strong team of about 50 and has developed products as well as solutions for several companies across the globe.\n\nWould it be possible for you to get on a call with us and explore how we have ensured the successful delivery of digital products throughout the globe?",
+        "industryName": "IT Services and IT Consulting",
+        "lastName": "Bose",
+        "locationName": "India",
+        "student": false,
+        "geoCountryName": "India",
+        "geoCountryUrn": "urn:li:fs_geo:102713980",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "industryUrn": "urn:li:fs_industry:96",
+        "firstName": "Megan ",
+        "entityUrn": "urn:li:fs_profile:ACoAADi9RdgBe4xE02TijC4JN6rL75LMVnjn2B8",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:109710172"
+        },
+        "geoLocationName": "Bengaluru, Karnataka",
+        "location": {
+            "basicLocation": {
+                "countryCode": "in"
+            }
+        },
+        "headline": "Helping Mid-Size US Enteprises with Augmenting Offshore Tech Staff at 40% costs, 200% productivity compared to existing vendors",
+        "displayPictureUrl": "https://media-exp1.licdn.com/dms/image/C5603AQH0bbaZM1HwLg/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/0/1637565236507?e=1657756800&v=beta&t=BiLC7sCXv2monFnSzsNoEh_6i-czT7R0T3D3w_8mnnk",
+        "img_200_200": "200_200/0/1637565236507?e=1657756800&v=beta&t=ZOjVPjnaJlHus4KrXUVh8CZ48IRGlUzuQp3LXMhvcTI",
+        "img_400_400": "400_400/0/1637565236507?e=1657756800&v=beta&t=uYxStqlZdSzpA4EbAzeigI0oWnrzpB41PeW7-mSkUy8",
+        "img_800_800": "800_800/0/1637565236507?e=1657756800&v=beta&t=gnQ1nd3gpP6-1Ez2-GUcegdkgncVBU_lAIOGe3MwuFw",
+        "profile_id": "ACoAADi9RdgBe4xE02TijC4JN6rL75LMVnjn2B8",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAADi9RdgBe4xE02TijC4JN6rL75LMVnjn2B8",
+        "member_urn": "urn:li:member:951928280",
+        "experience": [
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAADi9RdgBe4xE02TijC4JN6rL75LMVnjn2B8,1873346476)",
+                "companyName": "TechVariable",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 5,
+                        "year": 2020
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Assistant To Chief Operating Officer",
+                "companyUrn": "urn:li:fs_miniCompany:10632640",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQE6IzKHUZQmAA/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAADi9RdgBe4xE02TijC4JN6rL75LMVnjn2B8,761758524)",
+                "school": {
+                    "objectUrn": "urn:li:school:161113",
+                    "entityUrn": "urn:li:fs_miniSchool:161113",
+                    "active": true,
+                    "schoolName": "International School of Business & Media",
+                    "trackingId": "B2mD0YtvQkeD6TtA3ADe9Q==",
+                    "logoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQEwToiB705DUQ/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "month": 7,
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "month": 7,
+                        "year": 2017
+                    }
+                },
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:101465",
+                "degreeName": "Master of Business Administration - MBA",
+                "schoolName": "International School of Business & Media",
+                "fieldOfStudy": "International Business",
+                "degreeUrn": "urn:li:fs_degree:700",
+                "schoolUrn": "urn:li:fs_miniSchool:161113"
+            }
+        ],
+        "languages": [],
+        "publications": [],
+        "certifications": [],
+        "volunteer": [],
+        "honors": [],
+        "projects": []
+    },
+    "contact_info": {
+        "email_address": null,
+        "websites": [],
+        "twitter": [],
+        "birthdate": null,
+        "ims": null,
+        "phone_numbers": []
+    },
+    "connections": [
+        {
+            "urn_id": "ACoAABr4jt0BoOUmisITdRo1gR4CumG5I4jjZIw",
+            "distance": "DISTANCE_1",
+            "public_id": "samudra-deka-911659107",
+            "tracking_id": "452497117"
+        },
+        {
+            "urn_id": "ACoAADLJzxsBizdB0nN5NZBCM41Q-z6-7ef5gyI",
+            "distance": "DISTANCE_1",
+            "public_id": "deepjyoti-kalita-78b4411b9",
+            "tracking_id": "852086555"
+        },
+        {
+            "urn_id": "ACoAACT67ZEBgw1Aprl8Aqy8zWMavdTyaWs7J3w",
+            "distance": "DISTANCE_1",
+            "public_id": "titikshya-das-015942153",
+            "tracking_id": "620424593"
+        },
+        {
+            "urn_id": "ACoAAAjgx0kBxJoPu_7t3kS1NbDizQekjIIzMbE",
+            "distance": "DISTANCE_1",
+            "public_id": "lakheswar-nath-289a7141",
+            "tracking_id": "148948809"
+        },
+        {
+            "urn_id": "ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE",
+            "distance": "DISTANCE_1",
+            "public_id": "prithoo11335",
+            "tracking_id": "231212168"
+        },
+        {
+            "urn_id": "ACoAACZxhUQBl1V8kpLj4ACrE2LzpatGvVzEgSA",
+            "distance": "DISTANCE_1",
+            "public_id": "nabajyoti-borah-944000160",
+            "tracking_id": "644973892"
+        },
+        {
+            "urn_id": "ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8",
+            "distance": "DISTANCE_1",
+            "public_id": "sivaranjan-goswami-790b4523",
+            "tracking_id": "83451420"
+        },
+        {
+            "urn_id": "ACoAACDVs-sB_IgxPBMHMRBfR6is3jmwwV_OvTE",
+            "distance": "DISTANCE_1",
+            "public_id": "swapnil-bhattacharjee-ghy",
+            "tracking_id": "550876139"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Networking"
+        },
+        {
+            "name": "Board of Directors"
+        },
+        {
+            "name": "Operations Management"
+        },
+        {
+            "name": "Product Development"
+        },
+        {
+            "name": "Strategic Planning"
+        },
+        {
+            "name": "Business Development"
+        }
+    ]
+}

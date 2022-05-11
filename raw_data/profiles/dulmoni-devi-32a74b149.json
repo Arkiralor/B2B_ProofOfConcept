@@ -1,0 +1,220 @@
+{
+    "profile": {
+        "summary": "Experienced Software Test Engineer with a demonstrated history of working in the computer software industry. Skilled in Regression Testing, Integration testing, Functional Testing, Test case writing and Execution, Smoke Testing,Microsoft Excel, Microsoft Word, Functional Testing, iMacros, and Microsoft Office. Strong engineering professional with a Bachelor of Science (B.Sc.)from Morigaon College.",
+        "industryName": "IT Services and IT Consulting",
+        "lastName": "Devi",
+        "locationName": "India",
+        "student": false,
+        "geoCountryName": "India",
+        "geoCountryUrn": "urn:li:fs_geo:102713980",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "industryUrn": "urn:li:fs_industry:96",
+        "firstName": "Dulmoni",
+        "entityUrn": "urn:li:fs_profile:ACoAACPiNBIBsV4ljupurI40EDh4j_mTEi1AweE",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:105307040"
+        },
+        "geoLocationName": "Bengaluru, Karnataka",
+        "location": {
+            "basicLocation": {
+                "countryCode": "in"
+            }
+        },
+        "headline": "Senior QA  Engineer at iTech Workshop Private Limited",
+        "displayPictureUrl": "https://media-exp1.licdn.com/dms/image/C5603AQHOrpCn0dKwkA/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/0/1632060756886?e=1657756800&v=beta&t=XMPM3pH4j7sNZ-gDNgncEwIE6r-J5S9GiHmOiUsPv3s",
+        "img_200_200": "200_200/0/1632060756886?e=1657756800&v=beta&t=uJsyUiLvjKfeCqD1lspOjRGNO7Btx2iD5PXzzbZiMgE",
+        "img_400_400": "400_400/0/1632060756886?e=1657756800&v=beta&t=29SQrnDLx-Az7X6KYygUAApU3ndVed5Sp4JfduNr9r8",
+        "img_800_800": "800_800/0/1632060756886?e=1657756800&v=beta&t=Fk5NuuGcPiWS8ekTDsyaKXhwhyOhnAh8qFcfUKJyJsI",
+        "profile_id": "ACoAACPiNBIBsV4ljupurI40EDh4j_mTEi1AweE",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAACPiNBIBsV4ljupurI40EDh4j_mTEi1AweE",
+        "member_urn": "urn:li:member:602027026",
+        "experience": [
+            {
+                "locationName": "Bengaluru, Karnataka, India",
+                "entityUrn": "urn:li:fs_position:(ACoAACPiNBIBsV4ljupurI40EDh4j_mTEi1AweE,1943068527)",
+                "geoLocationName": "Bengaluru, Karnataka, India",
+                "geoUrn": "urn:li:fs_geo:105214831",
+                "companyName": "Infinite Computer Solutions",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 3,
+                        "year": 2022
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Software Test Engineer",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:11115",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQFwB21S2RUJRg/company-logo_"
+            },
+            {
+                "locationName": "Banglore",
+                "entityUrn": "urn:li:fs_position:(ACoAACPiNBIBsV4ljupurI40EDh4j_mTEi1AweE,1411079853)",
+                "geoLocationName": "Banglore",
+                "companyName": "iTech Workshop Private Limited",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 4,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 10,
+                        "year": 2018
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Computer Software"
+                    ]
+                },
+                "title": "SoftwareTest Engineer ",
+                "companyUrn": "urn:li:fs_miniCompany:351715",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQE7pa-3kMGRng/company-logo_"
+            },
+            {
+                "locationName": "Bengaluru Area, India",
+                "entityUrn": "urn:li:fs_position:(ACoAACPiNBIBsV4ljupurI40EDh4j_mTEi1AweE,1056736602)",
+                "geoLocationName": "Bengaluru Area, India",
+                "geoUrn": "urn:li:fs_geo:105307040",
+                "companyName": "TechVariable",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2017
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2017
+                    }
+                },
+                "description": "A fresh graduate with a flair for testing software products. Currently working as a manual testing engineer-Trainee.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Project Trainee",
+                "region": "urn:li:fs_region:(in,7127)",
+                "companyUrn": "urn:li:fs_miniCompany:10632640",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQE6IzKHUZQmAA/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAACPiNBIBsV4ljupurI40EDh4j_mTEi1AweE,442355193)",
+                "school": {
+                    "objectUrn": "urn:li:school:220690",
+                    "entityUrn": "urn:li:fs_miniSchool:220690",
+                    "active": true,
+                    "schoolName": "Morigaon College",
+                    "trackingId": "jtowzVHkSLer5OiE35XGvw=="
+                },
+                "grade": "First Class",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2017
+                    },
+                    "startDate": {
+                        "year": 2012
+                    }
+                },
+                "degreeName": "Bachelor of Science - BSc",
+                "schoolName": "Morigaon College",
+                "schoolUrn": "urn:li:fs_miniSchool:220690"
+            }
+        ],
+        "languages": [],
+        "publications": [],
+        "certifications": [],
+        "volunteer": [],
+        "honors": [],
+        "projects": []
+    },
+    "contact_info": {
+        "email_address": null,
+        "websites": [],
+        "twitter": [],
+        "birthdate": null,
+        "ims": null,
+        "phone_numbers": []
+    },
+    "connections": [
+        {
+            "urn_id": "ACoAAByhqogBLFVDJbqojrVMhtKfC3o3hRfEcjg",
+            "distance": "DISTANCE_1",
+            "public_id": "biki-talukdar-460a54114",
+            "tracking_id": "480357000"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Manual"
+        },
+        {
+            "name": "Microsoft Office",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:366",
+            "standardizedSkill": {
+                "name": "Microsoft Office",
+                "entityUrn": "urn:li:fs_miniSkill:366"
+            }
+        },
+        {
+            "name": "Microsoft Excel",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:163",
+            "standardizedSkill": {
+                "name": "Microsoft Excel",
+                "entityUrn": "urn:li:fs_miniSkill:163"
+            }
+        },
+        {
+            "name": "Microsoft Word",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:260",
+            "standardizedSkill": {
+                "name": "Microsoft Word",
+                "entityUrn": "urn:li:fs_miniSkill:260"
+            }
+        },
+        {
+            "name": "Software Testing"
+        },
+        {
+            "name": "Functional Testing",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:18220",
+            "standardizedSkill": {
+                "name": "Functional Testing",
+                "entityUrn": "urn:li:fs_miniSkill:18220"
+            }
+        },
+        {
+            "name": "Regression Testing",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:2329",
+            "standardizedSkill": {
+                "name": "Regression Testing",
+                "entityUrn": "urn:li:fs_miniSkill:2329"
+            }
+        },
+        {
+            "name": "iMacros"
+        },
+        {
+            "name": "SQL"
+        }
+    ]
+}

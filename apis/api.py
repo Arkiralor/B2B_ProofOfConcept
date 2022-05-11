@@ -32,11 +32,11 @@ class LinkedInAPI:
         contact_info = self.api.get_profile_contact_info(uid)
         detail_dict['contact_info'] = contact_info
 
-        # GET 1st degree connections of a given profile
-        # logging.info(f"[{datetime.now()}]   GETTING CONNECTIONS INFO for: {uid}")
-        # urn = detail_dict.get('profile', {}).get('entityUrn', "").split(":")[-1]
-        # connections = self.api.get_profile_connections(urn_id=urn)
-        # detail_dict['connections'] = connections
+        ## GET 1st degree connections of a given profile
+        logging.info(f"[{datetime.now()}]   GETTING CONNECTIONS INFO for: {uid}")
+        urn = detail_dict.get('profile', {}).get('entityUrn', "").split(":")[-1]
+        connections = self.api.get_profile_connections(urn_id=urn)
+        detail_dict['connections'] = connections
 
         ## GET skills from profile
         skills = self.api.get_profile_skills(uid)

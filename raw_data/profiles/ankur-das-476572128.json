@@ -1,0 +1,1411 @@
+{
+    "profile": {
+        "summary": "Ankur is a Senior Analyst passionate about various technologies associated with Data Engineering and a plumber in Data Science.\nData Extraction and Analytical Insight from Data is his platform of choice.\n\nHe has worked with the Global Data team in structured, unstructured, and semi-structured data helping clients gain insights into their data leveraging open source technologies like Apache Hadoop, Spark, Hive, and various components of the Bigdata framework.\n\nAnkur is committed to lifelong learning and design-oriented development with problem-solving abilities keeping global customer-centric engagement in mind.\n\nTechnology Stack:\n- Sound knowledge of Data Discovery, Building Analytics, and Insights from Scratch.\n-Proficiency in Data Ingestion tools like Sqoop, Hive with good hold on Bigdata storage systems HDFS, Data Lake, S3, No-SQL Database, and Data Warehouse.\n-Sound knowledge of Hadoop Framework with MapReduce and Processing Engine with PySpark.\n-Always open for LINUX, UNIX environment with proficiency in Bash.\n-Sound Knowledge of Cloud Technologies associated with Bigdata like EMR, AWS Glue, GCP Bigquerry, and Storage platforms S3 and GCS.\n\nProject Management : \n- Passionate agile practitioner \n- Always open for multi-domain Global Team management.",
+        "industryName": "IT Services and IT Consulting",
+        "lastName": "Das",
+        "locationName": "India",
+        "student": false,
+        "geoCountryName": "India",
+        "geoCountryUrn": "urn:li:fs_geo:102713980",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "industryUrn": "urn:li:fs_industry:96",
+        "firstName": "Ankur",
+        "entityUrn": "urn:li:fs_profile:ACoAAB9oQxoBd3_2QWjwJlQ3mzTTnoj91yWvEFI",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:102713980"
+        },
+        "location": {
+            "basicLocation": {
+                "countryCode": "in"
+            }
+        },
+        "headline": "Data Engineer - HSBC || Data Science Plumber || BITS Pilani",
+        "displayPictureUrl": "https://media-exp1.licdn.com/dms/image/C5103AQEgP-3tu0I3DQ/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/0/1577162691515?e=1657756800&v=beta&t=CbA8uzSXr0DRoEzp08gm2GoxKA69hLYhVfRm6h9qMJI",
+        "img_200_200": "200_200/0/1577162691515?e=1657756800&v=beta&t=CE81b1MqlCAC3E4sJF33XDmPQL-pS5cudKAj5Qlx5M0",
+        "img_400_400": "400_400/0/1577162691515?e=1657756800&v=beta&t=Y8k5fi0MOayLbAb8h6WaqhGCSTqSbE70U3RYQNa0O5I",
+        "img_800_800": "800_800/0/1577162691515?e=1657756800&v=beta&t=JUJofMpGKhg_lTyxylJpHGCKPFZHwE5ZUuJ0b8N2Cwc",
+        "profile_id": "ACoAAB9oQxoBd3_2QWjwJlQ3mzTTnoj91yWvEFI",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAAB9oQxoBd3_2QWjwJlQ3mzTTnoj91yWvEFI",
+        "member_urn": "urn:li:member:526926618",
+        "experience": [
+            {
+                "locationName": "Bangalore Urban, Karnataka, India",
+                "entityUrn": "urn:li:fs_position:(ACoAAB9oQxoBd3_2QWjwJlQ3mzTTnoj91yWvEFI,1805410262)",
+                "geoLocationName": "Bangalore Urban, Karnataka, India",
+                "geoUrn": "urn:li:fs_geo:112376381",
+                "companyName": "HSBC",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 7,
+                        "year": 2021
+                    }
+                },
+                "description": "Part of Global Telephony CoE; Collaborating with Data and Analytics Teams for making insights and impact in effective data driven Business Dicision. Involved in\n- Interpretation of Stakeholders want from the ample amount of data in multiple systems\n- Critical Insights which shows end to end data discovery in granularity level",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Financial Services"
+                    ]
+                },
+                "title": "Senior Analyst - Business Consulting (Global Analytics Centre)",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:1241",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQEhNvC7GlwZVQ/company-logo_"
+            },
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAAB9oQxoBd3_2QWjwJlQ3mzTTnoj91yWvEFI,1726429435)",
+                "companyName": "HSBC",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 7,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2021
+                    }
+                },
+                "description": "Part of Global Operation Analytics team and CCS Data Platform.\nHelping HSBC Global markets with Data and Analytics using Flexible Opensource Technologies and automation pipeline. Migrated SAS analytics mart to Bigdata warehouse for multi-team(Data Analytics, Data Science and BI) Collaboration and Development.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Financial Services"
+                    ]
+                },
+                "title": "Assistant Manager -  Analytics (Data Engineer)",
+                "companyUrn": "urn:li:fs_miniCompany:1241",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQEhNvC7GlwZVQ/company-logo_"
+            },
+            {
+                "projects": [
+                    "urn:li:fs_project:(ACoAAB9oQxoBd3_2QWjwJlQ3mzTTnoj91yWvEFI,1227770350)"
+                ],
+                "entityUrn": "urn:li:fs_position:(ACoAAB9oQxoBd3_2QWjwJlQ3mzTTnoj91yWvEFI,1589473682)",
+                "companyName": "Collabera Technologies",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 1,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2020
+                    }
+                },
+                "description": "Working in Reporting and Analytics team to transform data and bring meaningful information to the Dashboard for B2B and B2C Platform.\n\nFull Stack Developer for Bringing Data insights - Data Mining and Data Transformation from a Nested and Unstructured JSON and RESTfull API\nTechnology: AWS, Minio Server, ShellScript, Java Mapreduce, Hive, Alteryx, PySpark, and Oozie",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Data Engineer - Reporting and Analystics",
+                "companyUrn": "urn:li:fs_miniCompany:27566370",
+                "honors": [
+                    "urn:li:fs_honor:(ACoAAB9oQxoBd3_2QWjwJlQ3mzTTnoj91yWvEFI,1229183430)"
+                ],
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C560BAQFo8DI1rdlLsg/company-logo_"
+            },
+            {
+                "locationName": "Chennai Area, India",
+                "entityUrn": "urn:li:fs_position:(ACoAAB9oQxoBd3_2QWjwJlQ3mzTTnoj91yWvEFI,1558587028)",
+                "geoLocationName": "Chennai Area, India",
+                "geoUrn": "urn:li:fs_geo:90009647",
+                "companyName": "8K Miles Software Services Ltd",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 1,
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2019
+                    }
+                },
+                "description": "Data Engineer in Cloud Platform to leverage Bigdata power in Cloud with various domain of Cloud. AWS | GCP\n@Worked on AWS Kinesis, AWS Redshift and RDS with well known Stanford NLP Sentiment Analysis library for Developing reliable Streamline voice Transformation and save transformed results in Database for Dashboard activities.\n\nResearch level Analysis with various Structured, Unstructured and Semi-Structured Data with Huge volume and bring meaning full insight for Data Hub using PySpark.\n\nData Handled : 100-500 GB ",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 501,
+                        "end": 1000
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Senior Associate - Data Engineer",
+                "region": "urn:li:fs_region:(in,6891)",
+                "companyUrn": "urn:li:fs_miniCompany:232361",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQEfkh461at5wg/company-logo_"
+            },
+            {
+                "locationName": "Chennai, Tamil Nadu, India",
+                "entityUrn": "urn:li:fs_position:(ACoAAB9oQxoBd3_2QWjwJlQ3mzTTnoj91yWvEFI,1388042916)",
+                "geoLocationName": "Chennai, Tamil Nadu, India",
+                "companyName": "Altimetrik",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 8,
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "month": 11,
+                        "year": 2018
+                    }
+                },
+                "description": "Bigdata Developer with various tools and Technologies like Hadoop Framework,Hive, MapReduce, Spark,Tableau to use Global Data,transform and manage different structured and semi-structured Data for Data Analystic purpose for Ford Motor Company.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 1001,
+                        "end": 5000
+                    },
+                    "industries": [
+                        "Computer Software"
+                    ]
+                },
+                "title": "Software Engineer",
+                "companyUrn": "urn:li:fs_miniCompany:775402",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQEUO_3rXjVhjQ/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAB9oQxoBd3_2QWjwJlQ3mzTTnoj91yWvEFI,605202119)",
+                "school": {
+                    "objectUrn": "urn:li:school:13440",
+                    "entityUrn": "urn:li:fs_miniSchool:13440",
+                    "active": true,
+                    "schoolName": "Birla Institute of Technology and Science, Pilani",
+                    "trackingId": "1eIzkNtLR9q5qq0RRPNYMQ==",
+                    "logoUrl": "https://media-exp1.licdn.com/dms/image/C510BAQFYyp6NIc6n2A/company-logo_"
+                },
+                "grade": "7.48",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "year": 2019
+                    }
+                },
+                "description": "The first Semester comprising of In-depth knowledge in Data Mining and various advanced level Algorithm and Design along with Chache and Memory control in real Life sinerios.\nThe main focus in Mathematics and it's inevitable consequence with Data Analystic is really good enough.\n\n# 2nd Semester conatins full exposure with a well defined structure of Data Analystic with its subsidiaries like Statistics, Probability and ML.\nTools Specialists : Tableau\nLanguage : Julia\n#3rd Semester : Streaming Data Analysis,DL,NLP and Information Retrieval (Web scrapping)\n#4th Semester : Final Year Project : Mutual Fund Categorisation using ML",
+                "degreeName": "Master of Technology - MTech",
+                "schoolName": "Birla Institute of Technology and Science, Pilani",
+                "fieldOfStudy": "Data Science and Engineering",
+                "schoolUrn": "urn:li:fs_miniSchool:13440"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAB9oQxoBd3_2QWjwJlQ3mzTTnoj91yWvEFI,361867811)",
+                "school": {
+                    "objectUrn": "urn:li:school:13461",
+                    "entityUrn": "urn:li:fs_miniSchool:13461",
+                    "active": true,
+                    "schoolName": "Dibrugarh University",
+                    "trackingId": "Fmlp9hGoQk2ProeEx9ak1g=="
+                },
+                "activities": "51 Air Assam Technical sqn. NCC cadet and wrote several Article for Science & Technology.\nWinner of Technical Writing in JIST. ",
+                "grade": "A",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2017
+                    },
+                    "startDate": {
+                        "year": 2013
+                    }
+                },
+                "description": "Among the top 10 in DU'2017 Batch",
+                "degreeName": "Bachelor of Engineering - BE",
+                "schoolName": "Dibrugarh University",
+                "fieldOfStudy": "Electronics and Telecommunication",
+                "degreeUrn": "urn:li:fs_degree:269",
+                "schoolUrn": "urn:li:fs_miniSchool:13461"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAB9oQxoBd3_2QWjwJlQ3mzTTnoj91yWvEFI,361867898)",
+                "school": {
+                    "objectUrn": "urn:li:school:203135",
+                    "entityUrn": "urn:li:fs_miniSchool:203135",
+                    "active": true,
+                    "schoolName": "Cotton College",
+                    "trackingId": "USsmwvG9R3u8N4qWDziCOA==",
+                    "logoUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQE2sG7kWsU-ig/company-logo_"
+                },
+                "grade": "A",
+                "degreeName": "Higher Secondary(10+2)",
+                "schoolName": "Cotton College",
+                "fieldOfStudy": "Science",
+                "schoolUrn": "urn:li:fs_miniSchool:203135"
+            }
+        ],
+        "languages": [
+            {
+                "name": "Assamese",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "Bengali",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "English",
+                "proficiency": "PROFESSIONAL_WORKING"
+            },
+            {
+                "name": "Hindi",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ],
+        "publications": [],
+        "certifications": [
+            {
+                "authority": "Aspiring Minds",
+                "name": "Data Processing Specialist",
+                "licenseNumber": "4069998-211",
+                "company": {
+                    "objectUrn": "urn:li:company:838197",
+                    "entityUrn": "urn:li:fs_miniCompany:838197",
+                    "name": "Aspiring Minds",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1588132864668?e=1660176000&v=beta&t=rzjvTrRM7q_HncoYhh4LEMMw63Ox9cHxUl7zMFLGOyY",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1588132864668?e=1660176000&v=beta&t=AHRdFNkDEUtgwr9FSI4Yj9SAxdTFLetDZtH_WOit4tQ",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1588132864668?e=1660176000&v=beta&t=mOqPqDaXcxPNEw7ePbKknu8ZkWwIvwiJt7A7zi997jA",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQGv-bQANStG4g/company-logo_"
+                        }
+                    },
+                    "universalName": "aspiring-minds",
+                    "dashCompanyUrn": "urn:li:fsd_company:838197",
+                    "trackingId": "Km22zBJaSwiVSXWQ07J1dQ=="
+                },
+                "displaySource": "myamcat.com",
+                "companyUrn": "urn:li:fs_miniCompany:838197",
+                "url": "https://www.myamcat.com/certificate/4069998/data-processing-specialist/211"
+            },
+            {
+                "authority": "Udemy",
+                "name": "JUnit Tutorial for Beginners - Learn Java Unit Testing",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 2,
+                        "year": 2018
+                    },
+                    "startDate": {
+                        "month": 2,
+                        "year": 2018
+                    }
+                },
+                "licenseNumber": "UC-YGX3ATNE",
+                "company": {
+                    "objectUrn": "urn:li:company:822535",
+                    "entityUrn": "urn:li:fs_miniCompany:822535",
+                    "name": "Udemy",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1626275253364?e=1660176000&v=beta&t=hNmtDdN4pnwTuJsDQsvaI2SOIkRq2BCrfWF7YKlNaM4",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1626275253364?e=1660176000&v=beta&t=bZ9FL43L79ghc74x71A2lY51dAogHCVQKWAZH1-YcuM",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1626275253364?e=1660176000&v=beta&t=7EyDsPVIShmG1t96OAsrJK6AWUi0vObIpIVqPL4hc6E",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQFQr9e68bBOPQ/company-logo_"
+                        }
+                    },
+                    "universalName": "udemy",
+                    "dashCompanyUrn": "urn:li:fsd_company:822535",
+                    "trackingId": "VGH1cqX2SO6HHGbr+ra53Q=="
+                },
+                "displaySource": "ude.my",
+                "companyUrn": "urn:li:fs_miniCompany:822535",
+                "url": "http://ude.my/UC-YGX3ATNE"
+            },
+            {
+                "authority": "Udemy",
+                "name": "Data structures and algorithms through java in depth",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 2,
+                        "year": 2018
+                    },
+                    "startDate": {
+                        "month": 2,
+                        "year": 2018
+                    }
+                },
+                "licenseNumber": "UC-0S5NLO7M",
+                "company": {
+                    "objectUrn": "urn:li:company:822535",
+                    "entityUrn": "urn:li:fs_miniCompany:822535",
+                    "name": "Udemy",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1626275253364?e=1660176000&v=beta&t=hNmtDdN4pnwTuJsDQsvaI2SOIkRq2BCrfWF7YKlNaM4",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1626275253364?e=1660176000&v=beta&t=bZ9FL43L79ghc74x71A2lY51dAogHCVQKWAZH1-YcuM",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1626275253364?e=1660176000&v=beta&t=7EyDsPVIShmG1t96OAsrJK6AWUi0vObIpIVqPL4hc6E",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQFQr9e68bBOPQ/company-logo_"
+                        }
+                    },
+                    "universalName": "udemy",
+                    "dashCompanyUrn": "urn:li:fsd_company:822535",
+                    "trackingId": "EETj8eHySDa3em0UEHwv0A=="
+                },
+                "displaySource": "ude.my",
+                "companyUrn": "urn:li:fs_miniCompany:822535",
+                "url": "http://ude.my/UC-0S5NLO7M"
+            },
+            {
+                "authority": "FITA Training & Educational Services",
+                "name": "Bigdata Hadoop Developer",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 2,
+                        "year": 2018
+                    }
+                },
+                "licenseNumber": "ISO 9001-2018",
+                "company": {
+                    "objectUrn": "urn:li:company:9223636",
+                    "entityUrn": "urn:li:fs_miniCompany:9223636",
+                    "name": "FITA Academy",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1571034774382?e=1660176000&v=beta&t=KlguWF4aR5gqeDy2fUF7qnAiG7VfZBNUrkhd3k6VODo",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1571034774382?e=1660176000&v=beta&t=ZJx_yq3PhklS10yBf8j_71JCd9Al9li7EiN7vZ4ZWj0",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1571034774382?e=1660176000&v=beta&t=8Gvx240TY2q7SdKtxQpHMAo8eJvvbCgQ0K_jHky2jTU",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C510BAQGUx3fyLX4rJg/company-logo_"
+                        }
+                    },
+                    "universalName": "fitaofficial",
+                    "dashCompanyUrn": "urn:li:fsd_company:9223636",
+                    "trackingId": "vwEM1hTeSba77gnL7ndTpw=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:9223636"
+            },
+            {
+                "authority": "Udemy",
+                "name": "Hadoop Starter Kit",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 5,
+                        "year": 2018
+                    }
+                },
+                "licenseNumber": "UC-O9ZQ31WS",
+                "company": {
+                    "objectUrn": "urn:li:company:822535",
+                    "entityUrn": "urn:li:fs_miniCompany:822535",
+                    "name": "Udemy",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1626275253364?e=1660176000&v=beta&t=hNmtDdN4pnwTuJsDQsvaI2SOIkRq2BCrfWF7YKlNaM4",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1626275253364?e=1660176000&v=beta&t=bZ9FL43L79ghc74x71A2lY51dAogHCVQKWAZH1-YcuM",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1626275253364?e=1660176000&v=beta&t=7EyDsPVIShmG1t96OAsrJK6AWUi0vObIpIVqPL4hc6E",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQFQr9e68bBOPQ/company-logo_"
+                        }
+                    },
+                    "universalName": "udemy",
+                    "dashCompanyUrn": "urn:li:fsd_company:822535",
+                    "trackingId": "v+kkc3eDSam7+tQKAABcNQ=="
+                },
+                "displaySource": "ude.my",
+                "companyUrn": "urn:li:fs_miniCompany:822535",
+                "url": "http://ude.my/UC-O9ZQ31WS"
+            },
+            {
+                "authority": "Udemy",
+                "name": "Hive to Advance Hive(Real time Usage)",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 10,
+                        "year": 2018
+                    }
+                },
+                "licenseNumber": "UC-WCTDPVBW",
+                "company": {
+                    "objectUrn": "urn:li:company:822535",
+                    "entityUrn": "urn:li:fs_miniCompany:822535",
+                    "name": "Udemy",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1626275253364?e=1660176000&v=beta&t=hNmtDdN4pnwTuJsDQsvaI2SOIkRq2BCrfWF7YKlNaM4",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1626275253364?e=1660176000&v=beta&t=bZ9FL43L79ghc74x71A2lY51dAogHCVQKWAZH1-YcuM",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1626275253364?e=1660176000&v=beta&t=7EyDsPVIShmG1t96OAsrJK6AWUi0vObIpIVqPL4hc6E",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQFQr9e68bBOPQ/company-logo_"
+                        }
+                    },
+                    "universalName": "udemy",
+                    "dashCompanyUrn": "urn:li:fsd_company:822535",
+                    "trackingId": "HS/p9W5xQmGWaor2xrUSKg=="
+                },
+                "displaySource": "ude.my",
+                "companyUrn": "urn:li:fs_miniCompany:822535",
+                "url": "http://ude.my/UC-WCTDPVBW"
+            },
+            {
+                "authority": "Udemy",
+                "name": "Hadoop In Real World",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 6,
+                        "year": 2019
+                    }
+                },
+                "licenseNumber": "UC-IT8QGVF2",
+                "company": {
+                    "objectUrn": "urn:li:company:822535",
+                    "entityUrn": "urn:li:fs_miniCompany:822535",
+                    "name": "Udemy",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1626275253364?e=1660176000&v=beta&t=hNmtDdN4pnwTuJsDQsvaI2SOIkRq2BCrfWF7YKlNaM4",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1626275253364?e=1660176000&v=beta&t=bZ9FL43L79ghc74x71A2lY51dAogHCVQKWAZH1-YcuM",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1626275253364?e=1660176000&v=beta&t=7EyDsPVIShmG1t96OAsrJK6AWUi0vObIpIVqPL4hc6E",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQFQr9e68bBOPQ/company-logo_"
+                        }
+                    },
+                    "universalName": "udemy",
+                    "dashCompanyUrn": "urn:li:fsd_company:822535",
+                    "trackingId": "ACIEfpReQu6Kov5hZWKfsQ=="
+                },
+                "displaySource": "udemy-certificate.s3.amazonaws.com",
+                "companyUrn": "urn:li:fs_miniCompany:822535",
+                "url": "https://udemy-certificate.s3.amazonaws.com/image/UC-IT8QGVF2.jpg"
+            },
+            {
+                "authority": "Udemy",
+                "name": "Python OOP - Object Oriented Programing",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 7,
+                        "year": 2019
+                    }
+                },
+                "licenseNumber": "UC-DK2ZN8NK",
+                "company": {
+                    "objectUrn": "urn:li:company:822535",
+                    "entityUrn": "urn:li:fs_miniCompany:822535",
+                    "name": "Udemy",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1626275253364?e=1660176000&v=beta&t=hNmtDdN4pnwTuJsDQsvaI2SOIkRq2BCrfWF7YKlNaM4",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1626275253364?e=1660176000&v=beta&t=bZ9FL43L79ghc74x71A2lY51dAogHCVQKWAZH1-YcuM",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1626275253364?e=1660176000&v=beta&t=7EyDsPVIShmG1t96OAsrJK6AWUi0vObIpIVqPL4hc6E",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQFQr9e68bBOPQ/company-logo_"
+                        }
+                    },
+                    "universalName": "udemy",
+                    "dashCompanyUrn": "urn:li:fsd_company:822535",
+                    "trackingId": "YJp1AzaIT+2sDdGs+q8qXg=="
+                },
+                "displaySource": "udemy-certificate.s3.amazonaws.com",
+                "companyUrn": "urn:li:fs_miniCompany:822535",
+                "url": "https://udemy-certificate.s3.amazonaws.com/image/UC-DK2ZN8NK.jpg"
+            },
+            {
+                "authority": "Udemy",
+                "name": "Spark and Python for Big Data with PySpark",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 10,
+                        "year": 2019
+                    }
+                },
+                "licenseNumber": "UC-O6L2577S",
+                "company": {
+                    "objectUrn": "urn:li:company:822535",
+                    "entityUrn": "urn:li:fs_miniCompany:822535",
+                    "name": "Udemy",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1626275253364?e=1660176000&v=beta&t=hNmtDdN4pnwTuJsDQsvaI2SOIkRq2BCrfWF7YKlNaM4",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1626275253364?e=1660176000&v=beta&t=bZ9FL43L79ghc74x71A2lY51dAogHCVQKWAZH1-YcuM",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1626275253364?e=1660176000&v=beta&t=7EyDsPVIShmG1t96OAsrJK6AWUi0vObIpIVqPL4hc6E",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQFQr9e68bBOPQ/company-logo_"
+                        }
+                    },
+                    "universalName": "udemy",
+                    "dashCompanyUrn": "urn:li:fsd_company:822535",
+                    "trackingId": "KjzQ3LB/RyyVliSCsQt2GQ=="
+                },
+                "displaySource": "udemy-certificate.s3.amazonaws.com",
+                "companyUrn": "urn:li:fs_miniCompany:822535",
+                "url": "https://udemy-certificate.s3.amazonaws.com/image/UC-O6L2577S.jpg"
+            },
+            {
+                "authority": "Udemy",
+                "name": "Taming Big Data with Apache Spark and Python - Hands On!",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 10,
+                        "year": 2019
+                    }
+                },
+                "licenseNumber": "UC-JA8GM2RH",
+                "company": {
+                    "objectUrn": "urn:li:company:822535",
+                    "entityUrn": "urn:li:fs_miniCompany:822535",
+                    "name": "Udemy",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1626275253364?e=1660176000&v=beta&t=hNmtDdN4pnwTuJsDQsvaI2SOIkRq2BCrfWF7YKlNaM4",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1626275253364?e=1660176000&v=beta&t=bZ9FL43L79ghc74x71A2lY51dAogHCVQKWAZH1-YcuM",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1626275253364?e=1660176000&v=beta&t=7EyDsPVIShmG1t96OAsrJK6AWUi0vObIpIVqPL4hc6E",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQFQr9e68bBOPQ/company-logo_"
+                        }
+                    },
+                    "universalName": "udemy",
+                    "dashCompanyUrn": "urn:li:fsd_company:822535",
+                    "trackingId": "/iBe/UsWSv2HQdytaHgSRQ=="
+                },
+                "displaySource": "udemy-certificate.s3.amazonaws.com",
+                "companyUrn": "urn:li:fs_miniCompany:822535",
+                "url": "https://udemy-certificate.s3.amazonaws.com/image/UC-JA8GM2RH.jpg"
+            }
+        ],
+        "volunteer": [],
+        "honors": [
+            {
+                "description": "Got recognized as an Agile practitioner by Ford Motor due to the successful completion of training and participation in Agile practice.",
+                "occupation": "urn:li:fs_position:(ACoAAB9oQxoBd3_2QWjwJlQ3mzTTnoj91yWvEFI,1589473682)",
+                "title": "PDO Transformation - Agile Basecamp1 achiver",
+                "issueDate": {
+                    "month": 3,
+                    "year": 2020
+                },
+                "issuer": "Ford Motors"
+            },
+            {
+                "description": "Designed and developed a UI based App for Accident control, monitoring with sending information regarding it.\nTechnology:\nJavaScript,SAP UI5 and Data handling using Hadoop and Python mayplotlib for Visualisation.",
+                "occupation": "urn:li:fs_position:(ACoAAB9oQxoBd3_2QWjwJlQ3mzTTnoj91yWvEFI,1157022539)",
+                "title": "Spot Award Altimetrik Hackathon Manch",
+                "issueDate": {
+                    "month": 1,
+                    "year": 2018
+                },
+                "issuer": "Altimetrik"
+            }
+        ],
+        "projects": [
+            {
+                "occupation": "urn:li:fs_position:(ACoAAB9oQxoBd3_2QWjwJlQ3mzTTnoj91yWvEFI,1589473682)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Ankur",
+                            "lastName": "Das",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAB9oQxoBd3_2QWjwJlQ3mzTTnoj91yWvEFI",
+                            "occupation": "Data Engineer - HSBC || Data Science Plumber || BITS Pilani",
+                            "objectUrn": "urn:li:member:526926618",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAB9oQxoBd3_2QWjwJlQ3mzTTnoj91yWvEFI",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1577543164566?e=1657756800&v=beta&t=z-0dSRq53ntN8iw9gxA70FapJeiINPWLBODfoBN_9jc",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1577543164566?e=1657756800&v=beta&t=tsZxd9r4473UKMqnA9fzkzTBA4bSf44CpzsviVkxebQ",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5116AQENPC-Q6p9Kyw/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "ankur-das-476572128",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1577162691515?e=1657756800&v=beta&t=CbA8uzSXr0DRoEzp08gm2GoxKA69hLYhVfRm6h9qMJI",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1577162691515?e=1657756800&v=beta&t=CE81b1MqlCAC3E4sJF33XDmPQL-pS5cudKAj5Qlx5M0",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1577162691515?e=1657756800&v=beta&t=Y8k5fi0MOayLbAb8h6WaqhGCSTqSbE70U3RYQNa0O5I",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1577162691515?e=1657756800&v=beta&t=JUJofMpGKhg_lTyxylJpHGCKPFZHwE5ZUuJ0b8N2Cwc",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5103AQEgP-3tu0I3DQ/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "QJoJJtTURByCLbZfBW2eEA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAB9oQxoBd3_2QWjwJlQ3mzTTnoj91yWvEFI,1227770350,314552184)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAB9oQxoBd3_2QWjwJlQ3mzTTnoj91yWvEFI"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 1,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2020
+                    }
+                },
+                "description": "This project is on Big data Analytics - which deals with various B2B and B2C Data.\nAs a Ford Motor's data hub data gets ingested from various source and necessary transformation is being performed based on business requirements of stakeholders. Once data gets meaningful information and structured format Hub will supply the data to different Downstream depends on business need.\nTechnology Used -\nIngestion - Minio Bucket, SQL Server, Oracle, FTP/SFTP Server, Attinuty \nTransformation - Hive, Hadoop, HDFS, Spark, and Python \nSupply to Downstream - Alteryx, JDBC, ODBC, REST API\nSDLC methodologies - Agile",
+                "title": "DataHub - Bring Valuable insights in Data"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Ankur",
+                            "lastName": "Das",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAB9oQxoBd3_2QWjwJlQ3mzTTnoj91yWvEFI",
+                            "occupation": "Data Engineer - HSBC || Data Science Plumber || BITS Pilani",
+                            "objectUrn": "urn:li:member:526926618",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAB9oQxoBd3_2QWjwJlQ3mzTTnoj91yWvEFI",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1577543164566?e=1657756800&v=beta&t=z-0dSRq53ntN8iw9gxA70FapJeiINPWLBODfoBN_9jc",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1577543164566?e=1657756800&v=beta&t=tsZxd9r4473UKMqnA9fzkzTBA4bSf44CpzsviVkxebQ",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5116AQENPC-Q6p9Kyw/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "ankur-das-476572128",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1577162691515?e=1657756800&v=beta&t=CbA8uzSXr0DRoEzp08gm2GoxKA69hLYhVfRm6h9qMJI",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1577162691515?e=1657756800&v=beta&t=CE81b1MqlCAC3E4sJF33XDmPQL-pS5cudKAj5Qlx5M0",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1577162691515?e=1657756800&v=beta&t=Y8k5fi0MOayLbAb8h6WaqhGCSTqSbE70U3RYQNa0O5I",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1577162691515?e=1657756800&v=beta&t=JUJofMpGKhg_lTyxylJpHGCKPFZHwE5ZUuJ0b8N2Cwc",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5103AQEgP-3tu0I3DQ/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "QJoJJtTURByCLbZfBW2eEA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAB9oQxoBd3_2QWjwJlQ3mzTTnoj91yWvEFI,1228677003,314552192)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAB9oQxoBd3_2QWjwJlQ3mzTTnoj91yWvEFI"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2019
+                    }
+                },
+                "description": "This project describes Data analysis for various POC and development on Sentiment Analysis POC, where we leverage the AWS flexibility and platform.\nSentiment Analysis is developed using pre-existing NLP library form Standford NLP API and Google Voice to Text conversion API.\nAnalysis and R&D on Spark and AWS EMR data on the MDS(million-dollar song) data set where HD5 file is transformed and analysis on optimization on Spark job done as a Pre-sale POC product.\n\nTech Stack - AWS EMR, Ganglia, Spark, Hive, AWS RDS",
+                "title": "Sentiment with Bigdata Analysis"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Ankur",
+                            "lastName": "Das",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAB9oQxoBd3_2QWjwJlQ3mzTTnoj91yWvEFI",
+                            "occupation": "Data Engineer - HSBC || Data Science Plumber || BITS Pilani",
+                            "objectUrn": "urn:li:member:526926618",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAB9oQxoBd3_2QWjwJlQ3mzTTnoj91yWvEFI",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1577543164566?e=1657756800&v=beta&t=z-0dSRq53ntN8iw9gxA70FapJeiINPWLBODfoBN_9jc",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1577543164566?e=1657756800&v=beta&t=tsZxd9r4473UKMqnA9fzkzTBA4bSf44CpzsviVkxebQ",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5116AQENPC-Q6p9Kyw/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "ankur-das-476572128",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1577162691515?e=1657756800&v=beta&t=CbA8uzSXr0DRoEzp08gm2GoxKA69hLYhVfRm6h9qMJI",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1577162691515?e=1657756800&v=beta&t=CE81b1MqlCAC3E4sJF33XDmPQL-pS5cudKAj5Qlx5M0",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1577162691515?e=1657756800&v=beta&t=Y8k5fi0MOayLbAb8h6WaqhGCSTqSbE70U3RYQNa0O5I",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1577162691515?e=1657756800&v=beta&t=JUJofMpGKhg_lTyxylJpHGCKPFZHwE5ZUuJ0b8N2Cwc",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5103AQEgP-3tu0I3DQ/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "QJoJJtTURByCLbZfBW2eEA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAB9oQxoBd3_2QWjwJlQ3mzTTnoj91yWvEFI,1228085244,296449690)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAB9oQxoBd3_2QWjwJlQ3mzTTnoj91yWvEFI"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 8,
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2017
+                    }
+                },
+                "description": "This project deals with Various form of Data and their end to end ETL Process.\nThe Data formats handled Structured, Unstructured, and semi-Structured.\nBatch Process depends upon business use case frequency varies depends on CORN Job.\n\n",
+                "title": "SCA-V "
+            }
+        ]
+    },
+    "contact_info": {
+        "email_address": null,
+        "websites": [
+            {
+                "url": "https://ankurdas06.webs.com/",
+                "label": "PERSONAL"
+            }
+        ],
+        "twitter": [],
+        "birthdate": null,
+        "ims": null,
+        "phone_numbers": []
+    },
+    "connections": [
+        {
+            "urn_id": "ACoAAC24GToBKzC8vS7jZaCEqoq3Jse_M2Tson8",
+            "distance": "DISTANCE_1",
+            "public_id": "abhijit-paul-936a68194",
+            "tracking_id": "767039802"
+        },
+        {
+            "urn_id": "ACoAAByhqogBLFVDJbqojrVMhtKfC3o3hRfEcjg",
+            "distance": "DISTANCE_1",
+            "public_id": "biki-talukdar-460a54114",
+            "tracking_id": "480357000"
+        },
+        {
+            "urn_id": "ACoAABr4jt0BoOUmisITdRo1gR4CumG5I4jjZIw",
+            "distance": "DISTANCE_1",
+            "public_id": "samudra-deka-911659107",
+            "tracking_id": "452497117"
+        },
+        {
+            "urn_id": "ACoAADZmR9QB1zOH_PmrzQQw2wQmTJRTcNGU7CE",
+            "distance": "DISTANCE_1",
+            "public_id": "bkalita",
+            "tracking_id": "912672724"
+        },
+        {
+            "urn_id": "ACoAADLJzxsBizdB0nN5NZBCM41Q-z6-7ef5gyI",
+            "distance": "DISTANCE_1",
+            "public_id": "deepjyoti-kalita-78b4411b9",
+            "tracking_id": "852086555"
+        },
+        {
+            "urn_id": "ACoAADe3CFYBsoFdtSEajXbg51HDagdpBEb3kx4",
+            "distance": "DISTANCE_1",
+            "public_id": "binud-panging-872062221",
+            "tracking_id": "934742102"
+        },
+        {
+            "urn_id": "ACoAAC2aUPYBGPB-T9xDu2Hjrq7OgzRPu5nTvyE",
+            "distance": "DISTANCE_1",
+            "public_id": "jintudas",
+            "tracking_id": "765087990"
+        },
+        {
+            "urn_id": "ACoAACT67ZEBgw1Aprl8Aqy8zWMavdTyaWs7J3w",
+            "distance": "DISTANCE_1",
+            "public_id": "titikshya-das-015942153",
+            "tracking_id": "620424593"
+        },
+        {
+            "urn_id": "ACoAAAjgx0kBxJoPu_7t3kS1NbDizQekjIIzMbE",
+            "distance": "DISTANCE_1",
+            "public_id": "lakheswar-nath-289a7141",
+            "tracking_id": "148948809"
+        },
+        {
+            "urn_id": "ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE",
+            "distance": "DISTANCE_1",
+            "public_id": "prithoo11335",
+            "tracking_id": "231212168"
+        },
+        {
+            "urn_id": "ACoAACr0GSwBcmPDh22HqivG9h0JwG-eahXSYW8",
+            "distance": "DISTANCE_1",
+            "public_id": "nihar-kashyap98",
+            "tracking_id": "720640300"
+        },
+        {
+            "urn_id": "ACoAACeXhGEBEVCUXmKi5rowUSeFZNerPjvzQsc",
+            "distance": "DISTANCE_1",
+            "public_id": "mahbubul-haque-a55552166",
+            "tracking_id": "664241249"
+        },
+        {
+            "urn_id": "ACoAACzP6KMBcLKqKnFRpIudaukkoW4NoqstgrM",
+            "distance": "DISTANCE_1",
+            "public_id": "pranit-prakash-sahu",
+            "tracking_id": "751823011"
+        },
+        {
+            "urn_id": "ACoAACbTg-gBtT_YqZc-FG2lIVBv13QTx8UUB8E",
+            "distance": "DISTANCE_1",
+            "public_id": "mridul24",
+            "tracking_id": "651396072"
+        },
+        {
+            "urn_id": "ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY",
+            "distance": "DISTANCE_1",
+            "public_id": "tridip-das-b5837911b",
+            "tracking_id": "499568180"
+        },
+        {
+            "urn_id": "ACoAAAI9wXoBijRhLoxf7BO8UTK0DX-7KexJV30",
+            "distance": "DISTANCE_1",
+            "public_id": "boren-ghosh-27671410",
+            "tracking_id": "37601658"
+        },
+        {
+            "urn_id": "ACoAACZxhUQBl1V8kpLj4ACrE2LzpatGvVzEgSA",
+            "distance": "DISTANCE_1",
+            "public_id": "nabajyoti-borah-944000160",
+            "tracking_id": "644973892"
+        },
+        {
+            "urn_id": "ACoAABYq8T8ByHFGBUFRrHT5iKBI2u4YZjTLHFc",
+            "distance": "DISTANCE_1",
+            "public_id": "netranjit-borgohain-53b677a4",
+            "tracking_id": "371913023"
+        },
+        {
+            "urn_id": "ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8",
+            "distance": "DISTANCE_1",
+            "public_id": "sivaranjan-goswami-790b4523",
+            "tracking_id": "83451420"
+        },
+        {
+            "urn_id": "ACoAACTFIIYB1cK_syRcCXEc0o8RTm4JMlhYcHA",
+            "distance": "DISTANCE_1",
+            "public_id": "arun-kumar-nath-686721152",
+            "tracking_id": "616898694"
+        },
+        {
+            "urn_id": "ACoAAC4efLABFBv0f30-SDGDgLSf1gXTlkpJTfc",
+            "distance": "DISTANCE_1",
+            "public_id": "shawan-mandal",
+            "tracking_id": "773749936"
+        },
+        {
+            "urn_id": "ACoAACDVs-sB_IgxPBMHMRBfR6is3jmwwV_OvTE",
+            "distance": "DISTANCE_1",
+            "public_id": "swapnil-bhattacharjee-ghy",
+            "tracking_id": "550876139"
+        },
+        {
+            "urn_id": "ACoAACUEZ3QB2Xm0OWR0cqoc_u-o4KW_OENO1_8",
+            "distance": "DISTANCE_1",
+            "public_id": "rajan-sahu",
+            "tracking_id": "621045620"
+        },
+        {
+            "urn_id": "ACoAAC12ZqEBCx9JN_YIi1eF1FPPDif3mXI3fyc",
+            "distance": "DISTANCE_1",
+            "public_id": "abinash-panigrahi-169531193",
+            "tracking_id": "762734241"
+        },
+        {
+            "urn_id": "ACoAACYmrvgBRdvWxItbY_KP_fyrEgZ9U-QKJqk",
+            "distance": "DISTANCE_1",
+            "public_id": "rtsu",
+            "tracking_id": "640069368"
+        },
+        {
+            "urn_id": "ACoAADRMKTMBj76XTPRfB9R5rvfwNOXP2n93n4c",
+            "distance": "DISTANCE_1",
+            "public_id": "manash-deka-497a12205",
+            "tracking_id": "877406515"
+        },
+        {
+            "urn_id": "ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc",
+            "distance": "DISTANCE_1",
+            "public_id": "ratnadeep-bhattacharjee",
+            "tracking_id": "135079003"
+        },
+        {
+            "urn_id": "ACoAAAR5v8MBjPwCvp8TP9RWZyGSeNYNiJ1wKJE",
+            "distance": "DISTANCE_1",
+            "public_id": "nilotpal-boruah",
+            "tracking_id": "75087811"
+        }
+    ],
+    "skills": [
+        {
+            "name": "HTML5",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:8638",
+            "standardizedSkill": {
+                "name": "HTML5",
+                "entityUrn": "urn:li:fs_miniSkill:8638"
+            }
+        },
+        {
+            "name": "Cascading Style Sheets (CSS)",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:307",
+            "standardizedSkill": {
+                "name": "Cascading Style Sheets (CSS)",
+                "entityUrn": "urn:li:fs_miniSkill:307"
+            }
+        },
+        {
+            "name": "JavaScript",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:218",
+            "standardizedSkill": {
+                "name": "JavaScript",
+                "entityUrn": "urn:li:fs_miniSkill:218"
+            }
+        },
+        {
+            "name": "Data Structures",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:4202",
+            "standardizedSkill": {
+                "name": "Data Structures",
+                "entityUrn": "urn:li:fs_miniSkill:4202"
+            }
+        },
+        {
+            "name": "Big Data"
+        },
+        {
+            "name": "Microsoft Office",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:366",
+            "standardizedSkill": {
+                "name": "Microsoft Office",
+                "entityUrn": "urn:li:fs_miniSkill:366"
+            }
+        },
+        {
+            "name": "Microsoft Word",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:260",
+            "standardizedSkill": {
+                "name": "Microsoft Word",
+                "entityUrn": "urn:li:fs_miniSkill:260"
+            }
+        },
+        {
+            "name": "SQL",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:483",
+            "standardizedSkill": {
+                "name": "SQL",
+                "entityUrn": "urn:li:fs_miniSkill:483"
+            }
+        },
+        {
+            "name": "C",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:438",
+            "standardizedSkill": {
+                "name": "C (Programming Language)",
+                "entityUrn": "urn:li:fs_miniSkill:438"
+            }
+        },
+        {
+            "name": "Core Java",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:3409",
+            "standardizedSkill": {
+                "name": "Core Java",
+                "entityUrn": "urn:li:fs_miniSkill:3409"
+            }
+        },
+        {
+            "name": "Matlab"
+        },
+        {
+            "name": "Bootstrap"
+        },
+        {
+            "name": "Hadoop",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:8280",
+            "standardizedSkill": {
+                "name": "Hadoop",
+                "entityUrn": "urn:li:fs_miniSkill:8280"
+            }
+        },
+        {
+            "name": "Flume",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:43068",
+            "standardizedSkill": {
+                "name": "Apache Flume",
+                "entityUrn": "urn:li:fs_miniSkill:43068"
+            }
+        },
+        {
+            "name": "Oozie",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:43410",
+            "standardizedSkill": {
+                "name": "Apache Oozie",
+                "entityUrn": "urn:li:fs_miniSkill:43410"
+            }
+        },
+        {
+            "name": "HBase",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:15384",
+            "standardizedSkill": {
+                "name": "HBase",
+                "entityUrn": "urn:li:fs_miniSkill:15384"
+            }
+        },
+        {
+            "name": "Java"
+        },
+        {
+            "name": "Linux"
+        },
+        {
+            "name": "MySQL"
+        },
+        {
+            "name": "Leadership",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:154",
+            "standardizedSkill": {
+                "name": "Leadership",
+                "entityUrn": "urn:li:fs_miniSkill:154"
+            }
+        },
+        {
+            "name": "Hive",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:18321",
+            "standardizedSkill": {
+                "name": "Hive",
+                "entityUrn": "urn:li:fs_miniSkill:18321"
+            }
+        },
+        {
+            "name": "Sqoop",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:43247",
+            "standardizedSkill": {
+                "name": "Sqoop",
+                "entityUrn": "urn:li:fs_miniSkill:43247"
+            }
+        },
+        {
+            "name": "MapReduce",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:13993",
+            "standardizedSkill": {
+                "name": "MapReduce",
+                "entityUrn": "urn:li:fs_miniSkill:13993"
+            }
+        },
+        {
+            "name": "Yarn",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:29374",
+            "standardizedSkill": {
+                "name": "Yarn",
+                "entityUrn": "urn:li:fs_miniSkill:29374"
+            }
+        },
+        {
+            "name": "C (Programming Language)"
+        },
+        {
+            "name": "Bash"
+        },
+        {
+            "name": "Python (Programming Language)"
+        },
+        {
+            "name": "Adobe Spark",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:55550",
+            "standardizedSkill": {
+                "name": "Adobe Spark",
+                "entityUrn": "urn:li:fs_miniSkill:55550"
+            }
+        },
+        {
+            "name": "PySpark",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:55404",
+            "standardizedSkill": {
+                "name": "PySpark",
+                "entityUrn": "urn:li:fs_miniSkill:55404"
+            }
+        },
+        {
+            "name": "Cloudera",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:55043",
+            "standardizedSkill": {
+                "name": "Cloudera",
+                "entityUrn": "urn:li:fs_miniSkill:55043"
+            }
+        },
+        {
+            "name": "Data Engineering"
+        },
+        {
+            "name": "Big Data Analytics"
+        }
+    ]
+}

@@ -1,0 +1,610 @@
+{
+    "profile": {
+        "summary": "As an Accounting major I have learned many skills such as Leadership, Communication, and the ability to manage multiple things at once effectively. Working as a social media marketing and HR intern has allowed me to work with different personalities. My future plan is to use my skills in sales and marketing, and learn more about business. Outside of college I enjoy reading, hiking,cooking and spending time with family and friends.",
+        "industryName": "Business Consulting and Services",
+        "lastName": "Talukdar",
+        "locationName": "India",
+        "student": false,
+        "geoCountryName": "India",
+        "geoCountryUrn": "urn:li:fs_geo:102713980",
+        "geoLocationBackfilled": false,
+        "elt": true,
+        "industryUrn": "urn:li:fs_industry:11",
+        "firstName": "Anushreeta",
+        "entityUrn": "urn:li:fs_profile:ACoAAC9yOAYB1nhX5W_EkMjYGCahEM8DKmiCaBE",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:105607401"
+        },
+        "geoLocationName": "Guwahati, Assam",
+        "location": {
+            "basicLocation": {
+                "countryCode": "in"
+            }
+        },
+        "headline": "MBA student at NERIM",
+        "displayPictureUrl": "https://media-exp1.licdn.com/dms/image/C4E03AQGBt-V4IOYK8Q/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/0/1612626845963?e=1657756800&v=beta&t=cLba0SHq05mWPQ8C8p_Ff1CPv9-swT6WjJB24CMfmt8",
+        "img_200_200": "200_200/0/1612626845963?e=1657756800&v=beta&t=lnN08oiV_Hsh8laadNlt96gtGo5FoSRZIge1Q5xC2fw",
+        "img_400_400": "400_400/0/1612626845963?e=1657756800&v=beta&t=qh-53GUl-5TaeTsvd9GckJvt6O1p0rbYZS47_sp3kmE",
+        "img_800_800": "800_800/0/1612626845963?e=1657756800&v=beta&t=R5xc-R60lkDQYO4JbHEX_X9agnJdy4sGbT75uYj4u3c",
+        "profile_id": "ACoAAC9yOAYB1nhX5W_EkMjYGCahEM8DKmiCaBE",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAAC9yOAYB1nhX5W_EkMjYGCahEM8DKmiCaBE",
+        "member_urn": "urn:li:member:796014598",
+        "experience": [
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAAC9yOAYB1nhX5W_EkMjYGCahEM8DKmiCaBE,1957218263)",
+                "companyName": "HBF Direct Limited",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 5,
+                        "year": 2022
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 51,
+                        "end": 200
+                    },
+                    "industries": [
+                        "Management Consulting"
+                    ]
+                },
+                "title": "Marketing Coordinator",
+                "companyUrn": "urn:li:fs_miniCompany:29041204",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQFbemIatKOwqw/company-logo_"
+            },
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAAC9yOAYB1nhX5W_EkMjYGCahEM8DKmiCaBE,1785874507)",
+                "companyName": "Max Life Insurance Company Limited",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 1,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 5,
+                        "year": 2021
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Insurance"
+                    ]
+                },
+                "title": "Agency Insurance Manager",
+                "companyUrn": "urn:li:fs_miniCompany:164878",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQEtl8_5ZpJooQ/company-logo_"
+            },
+            {
+                "locationName": "Guwahati, Assam, India",
+                "entityUrn": "urn:li:fs_position:(ACoAAC9yOAYB1nhX5W_EkMjYGCahEM8DKmiCaBE,1865564726)",
+                "geoLocationName": "Guwahati, Assam, India",
+                "geoUrn": "urn:li:fs_geo:105607401",
+                "companyName": "Reliance Jio",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 11,
+                        "year": 2021
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Telecommunications"
+                    ]
+                },
+                "title": "Human Resources Intern",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:13645625",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHSI72IAbIgLA/company-logo_"
+            },
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAAC9yOAYB1nhX5W_EkMjYGCahEM8DKmiCaBE,1830941170)",
+                "companyName": "TechVariable",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 9,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2021
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Human Resources Intern",
+                "companyUrn": "urn:li:fs_miniCompany:10632640",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQE6IzKHUZQmAA/company-logo_"
+            },
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAAC9yOAYB1nhX5W_EkMjYGCahEM8DKmiCaBE,1823074397)",
+                "companyName": "BYJU'S",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 8,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2021
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "E-Learning"
+                    ]
+                },
+                "title": "Marketing Intern",
+                "companyUrn": "urn:li:fs_miniCompany:2395365",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C560BAQFT0ygNCprpAA/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAC9yOAYB1nhX5W_EkMjYGCahEM8DKmiCaBE,695335126)",
+                "school": {
+                    "objectUrn": "urn:li:school:203992",
+                    "entityUrn": "urn:li:fs_miniSchool:203992",
+                    "active": true,
+                    "schoolName": "North Eastern Regional Institute of Management",
+                    "trackingId": "N6M8KuVZQWqYtk7iq8ppLA==",
+                    "logoUrl": "https://media-exp1.licdn.com/dms/image/C560BAQEpw0A694f-Vg/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "year": 2020
+                    }
+                },
+                "degreeName": "Master of Business Administration - MBA",
+                "schoolName": "North Eastern Regional Institute of Management",
+                "fieldOfStudy": "Marketing & HR",
+                "degreeUrn": "urn:li:fs_degree:700",
+                "schoolUrn": "urn:li:fs_miniSchool:203992"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAC9yOAYB1nhX5W_EkMjYGCahEM8DKmiCaBE,638140104)",
+                "school": {
+                    "objectUrn": "urn:li:school:469008",
+                    "entityUrn": "urn:li:fs_miniSchool:469008",
+                    "active": true,
+                    "schoolName": "University of Calcutta",
+                    "trackingId": "QwjFZPw6RpyThgowOM354g==",
+                    "logoUrl": "https://media-exp1.licdn.com/dms/image/C560BAQFqP6aB_0FMWg/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "year": 2017
+                    }
+                },
+                "degreeName": "Bachelor of Commerce - BCom",
+                "schoolName": "University of Calcutta",
+                "fieldOfStudy": "Accounts and finance",
+                "degreeUrn": "urn:li:fs_degree:215",
+                "schoolUrn": "urn:li:fs_miniSchool:469008"
+            }
+        ],
+        "languages": [],
+        "publications": [],
+        "certifications": [
+            {
+                "authority": "FPSB Ltd. - India",
+                "name": "Retirement Planning and Employee Benefits",
+                "company": {
+                    "objectUrn": "urn:li:company:40841579",
+                    "entityUrn": "urn:li:fs_miniCompany:40841579",
+                    "name": "FPSB Ltd. - India (LO)",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1565109712341?e=1660176000&v=beta&t=Iecj6v1t9GfS7slm3CXf-eOYhqUk2FRQcAsnwotkzC4",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1565109712341?e=1660176000&v=beta&t=E_cL355g9itB0F0GTs3S0pGqL51XNdWbk6PuMfPrvj4",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1565109712341?e=1660176000&v=beta&t=Zgv_7-SbluVgGkcN0BO995fBKJglwwBRZ_oLk_ql1LI",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQE-mi0cUQikRA/company-logo_"
+                        }
+                    },
+                    "universalName": "fpsb-india",
+                    "dashCompanyUrn": "urn:li:fsd_company:40841579",
+                    "trackingId": "yYUTSSiaRLSSruHgUA6AaQ=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:40841579"
+            },
+            {
+                "authority": "FPSB Ltd. - India",
+                "name": "Investment Planning",
+                "company": {
+                    "objectUrn": "urn:li:company:40841579",
+                    "entityUrn": "urn:li:fs_miniCompany:40841579",
+                    "name": "FPSB Ltd. - India (LO)",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1565109712341?e=1660176000&v=beta&t=Iecj6v1t9GfS7slm3CXf-eOYhqUk2FRQcAsnwotkzC4",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1565109712341?e=1660176000&v=beta&t=E_cL355g9itB0F0GTs3S0pGqL51XNdWbk6PuMfPrvj4",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1565109712341?e=1660176000&v=beta&t=Zgv_7-SbluVgGkcN0BO995fBKJglwwBRZ_oLk_ql1LI",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQE-mi0cUQikRA/company-logo_"
+                        }
+                    },
+                    "universalName": "fpsb-india",
+                    "dashCompanyUrn": "urn:li:fsd_company:40841579",
+                    "trackingId": "R5pSFVg/RNm+c4Zar68FQA=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:40841579"
+            },
+            {
+                "authority": "International MUN ",
+                "name": "IMUN Online Conference 35.0",
+                "company": {
+                    "objectUrn": "urn:li:company:13614799",
+                    "entityUrn": "urn:li:fs_miniCompany:13614799",
+                    "name": "International MUN ",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1645085225001?e=1660176000&v=beta&t=Mz7ZaNtqH8ZrdKQJlEgvouqghJ6hS9PQ6t20tqNcIWg",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1645085225001?e=1660176000&v=beta&t=e-c8Hle9K8GiOSSOtKFZb4K5GWSG2T7CV8CDu-o3nGs",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1645085225001?e=1660176000&v=beta&t=49jXGtpzgw-AWpw9-PUW8SmBAKxfRXc9e5nUPXCtlGY",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQErVAZuucYCDw/company-logo_"
+                        }
+                    },
+                    "universalName": "international-mun",
+                    "dashCompanyUrn": "urn:li:fsd_company:13614799",
+                    "trackingId": "38VEq95ATVuDLcNSVaGoZg=="
+                },
+                "displaySource": "goo.gl",
+                "companyUrn": "urn:li:fs_miniCompany:13614799",
+                "url": "https://photos.app.goo.gl/sTRghF29Qodiu225A"
+            },
+            {
+                "authority": "HubSpot Academy",
+                "name": "Inbound Sales",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 7,
+                        "year": 2023
+                    },
+                    "startDate": {
+                        "month": 6,
+                        "year": 2021
+                    }
+                },
+                "licenseNumber": "e64c28958b504466a6082c071a29a677",
+                "company": {
+                    "objectUrn": "urn:li:company:16197478",
+                    "entityUrn": "urn:li:fs_miniCompany:16197478",
+                    "name": "HubSpot Academy",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1527266934034?e=1660176000&v=beta&t=qdkbLoCASvEWT2opzfbWfe72Yx3EQC_CQLnjlaRyrLY",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1527266934034?e=1660176000&v=beta&t=lZo-ya8jTRAaE9Ve5tsXqER4UQCkaWUjyxbW3S54C2A",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1527266934034?e=1660176000&v=beta&t=osWKtaYC38PrgRZ1zEMGraI4LMRednZSpaJdT4uhzCk",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQHXxroN0uciQw/company-logo_"
+                        }
+                    },
+                    "universalName": "hubspot-academy",
+                    "dashCompanyUrn": "urn:li:fsd_company:16197478",
+                    "trackingId": "rYwQYzHfT/iKtWr6RhDeYg=="
+                },
+                "displaySource": "hubspot.com",
+                "companyUrn": "urn:li:fs_miniCompany:16197478",
+                "url": "https://app.hubspot.com/academy/achievements/b4skllbw/en/1/anushreeta-talukdar/inbound-sales"
+            }
+        ],
+        "volunteer": [
+            {
+                "role": "Volunteer",
+                "companyName": "U&I Trust",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 10,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 10,
+                        "year": 2021
+                    }
+                },
+                "cause": "CHILDREN",
+                "company": {
+                    "miniCompany": {
+                        "objectUrn": "urn:li:company:2312555",
+                        "entityUrn": "urn:li:fs_miniCompany:2312555",
+                        "name": "U&I Trust",
+                        "showcase": false,
+                        "active": true,
+                        "logo": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1519961281612?e=1660176000&v=beta&t=hpHPhI6nPC-EX3nfRPX079xIXgVEDortXNPZGC7oEEE",
+                                        "expiresAt": 1660176000000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1519961281612?e=1660176000&v=beta&t=KOWjba9xckMdYYO5XRz23Q_MMC-Z8BWrRDb8r7LkZqE",
+                                        "expiresAt": 1660176000000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1519961281612?e=1660176000&v=beta&t=RDx0FBmNZfVdPqmlXINypU_8Ynism8qXwLEQsMWz--o",
+                                        "expiresAt": 1660176000000,
+                                        "height": 400
+                                    }
+                                ],
+                                "rootUrl": "https://media-exp1.licdn.com/dms/image/C510BAQFJj_Mnaj1P1A/company-logo_"
+                            }
+                        },
+                        "universalName": "u&i-charity",
+                        "dashCompanyUrn": "urn:li:fsd_company:2312555",
+                        "trackingId": "wKdj7kWORn6QrQNIDg0LfQ=="
+                    }
+                },
+                "companyUrn": "urn:li:fs_miniCompany:2312555"
+            }
+        ],
+        "honors": [],
+        "projects": []
+    },
+    "contact_info": {
+        "email_address": null,
+        "websites": [],
+        "twitter": [],
+        "birthdate": null,
+        "ims": null,
+        "phone_numbers": []
+    },
+    "connections": [
+        {
+            "urn_id": "ACoAAByhqogBLFVDJbqojrVMhtKfC3o3hRfEcjg",
+            "distance": "DISTANCE_1",
+            "public_id": "biki-talukdar-460a54114",
+            "tracking_id": "480357000"
+        },
+        {
+            "urn_id": "ACoAABr4jt0BoOUmisITdRo1gR4CumG5I4jjZIw",
+            "distance": "DISTANCE_1",
+            "public_id": "samudra-deka-911659107",
+            "tracking_id": "452497117"
+        },
+        {
+            "urn_id": "ACoAADLJzxsBizdB0nN5NZBCM41Q-z6-7ef5gyI",
+            "distance": "DISTANCE_1",
+            "public_id": "deepjyoti-kalita-78b4411b9",
+            "tracking_id": "852086555"
+        },
+        {
+            "urn_id": "ACoAADe3CFYBsoFdtSEajXbg51HDagdpBEb3kx4",
+            "distance": "DISTANCE_1",
+            "public_id": "binud-panging-872062221",
+            "tracking_id": "934742102"
+        },
+        {
+            "urn_id": "ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY",
+            "distance": "DISTANCE_1",
+            "public_id": "tridip-das-b5837911b",
+            "tracking_id": "499568180"
+        },
+        {
+            "urn_id": "ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8",
+            "distance": "DISTANCE_1",
+            "public_id": "sivaranjan-goswami-790b4523",
+            "tracking_id": "83451420"
+        },
+        {
+            "urn_id": "ACoAACYmrvgBRdvWxItbY_KP_fyrEgZ9U-QKJqk",
+            "distance": "DISTANCE_1",
+            "public_id": "rtsu",
+            "tracking_id": "640069368"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Research",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:176",
+            "standardizedSkill": {
+                "name": "Research",
+                "entityUrn": "urn:li:fs_miniSkill:176"
+            }
+        },
+        {
+            "name": "Project Management",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:2269",
+            "standardizedSkill": {
+                "name": "Project Management",
+                "entityUrn": "urn:li:fs_miniSkill:2269"
+            }
+        },
+        {
+            "name": "Time Management",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:2263",
+            "standardizedSkill": {
+                "name": "Time Management",
+                "entityUrn": "urn:li:fs_miniSkill:2263"
+            }
+        },
+        {
+            "name": "Quick Grasping",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:37943",
+            "standardizedSkill": {
+                "name": "Quick Grasping",
+                "entityUrn": "urn:li:fs_miniSkill:37943"
+            }
+        },
+        {
+            "name": "Analytical Skills",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:3203",
+            "standardizedSkill": {
+                "name": "Analytical Skills",
+                "entityUrn": "urn:li:fs_miniSkill:3203"
+            }
+        },
+        {
+            "name": "Critical Thinking",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:4392",
+            "standardizedSkill": {
+                "name": "Critical Thinking",
+                "entityUrn": "urn:li:fs_miniSkill:4392"
+            }
+        },
+        {
+            "name": "Computer Literacy",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:6597",
+            "standardizedSkill": {
+                "name": "Computer Literacy",
+                "entityUrn": "urn:li:fs_miniSkill:6597"
+            }
+        },
+        {
+            "name": "Communication",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:135",
+            "standardizedSkill": {
+                "name": "Communication",
+                "entityUrn": "urn:li:fs_miniSkill:135"
+            }
+        },
+        {
+            "name": "High degree of initiative",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:36024",
+            "standardizedSkill": {
+                "name": "High degree of initiative",
+                "entityUrn": "urn:li:fs_miniSkill:36024"
+            }
+        },
+        {
+            "name": "High Energy Level",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:27721",
+            "standardizedSkill": {
+                "name": "High Energy Level",
+                "entityUrn": "urn:li:fs_miniSkill:27721"
+            }
+        },
+        {
+            "name": "Interpersonal Skills",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:8399",
+            "standardizedSkill": {
+                "name": "Interpersonal Skills",
+                "entityUrn": "urn:li:fs_miniSkill:8399"
+            }
+        },
+        {
+            "name": "Leadership",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:154",
+            "standardizedSkill": {
+                "name": "Leadership",
+                "entityUrn": "urn:li:fs_miniSkill:154"
+            }
+        },
+        {
+            "name": "Skilled Multi-tasker",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:36892",
+            "standardizedSkill": {
+                "name": "Skilled Multi-tasker",
+                "entityUrn": "urn:li:fs_miniSkill:36892"
+            }
+        },
+        {
+            "name": "Googling"
+        }
+    ]
+}

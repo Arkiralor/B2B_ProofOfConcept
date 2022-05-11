@@ -1,0 +1,576 @@
+{
+    "profile": {
+        "summary": "I am passionate about learning new things especially in the field of Computer Science and Information Technology. Interested in  Web Development , Web application penetration testing, Cyber Security , Cloud Computing. \nI am looking forward to work in an organisation where i will get the oppurtunity to grow my skills and knowledge and use it for the growth of the organisation with my sheer hardwork , commitment and dedication.\n",
+        "industryName": "Software Development",
+        "lastName": "Chetri",
+        "locationName": "India",
+        "student": false,
+        "geoCountryName": "India",
+        "geoCountryUrn": "urn:li:fs_geo:102713980",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "birthDate": {
+            "month": 3,
+            "day": 14
+        },
+        "industryUrn": "urn:li:fs_industry:4",
+        "firstName": "Bishnu",
+        "entityUrn": "urn:li:fs_profile:ACoAAB5yjWgBPKePhEg5KXmOR3e6RVNShCwboCE",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:101944557"
+        },
+        "geoLocationName": "Hajo, Assam",
+        "location": {
+            "basicLocation": {
+                "countryCode": "in"
+            }
+        },
+        "headline": "Software Developer || Web Security Researcher || Determined and Career Oriented ||  Dancer",
+        "displayPictureUrl": "https://media-exp1.licdn.com/dms/image/C5103AQHeOyH7irjTdQ/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/0/1559934271692?e=1657756800&v=beta&t=7Xuq57R8eYss1NWBKYkWozPsKElXoiDvUvtouSQu81g",
+        "img_200_200": "200_200/0/1559934271692?e=1657756800&v=beta&t=YnmaI71BImK7mGO0c2SAP8NvEz77qxDDD7z03r0s9FU",
+        "img_400_400": "400_400/0/1559934271692?e=1657756800&v=beta&t=-kiHGxwoE296M5l2_zh4powYF_ig_Ekn5En9jaHO-oI",
+        "img_800_800": "800_800/0/1559934271692?e=1657756800&v=beta&t=7SVrh4HP9XYJ8ngb_h-Fy0LE8eRcMIpRBBBc8QApAPI",
+        "profile_id": "ACoAAB5yjWgBPKePhEg5KXmOR3e6RVNShCwboCE",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAAB5yjWgBPKePhEg5KXmOR3e6RVNShCwboCE",
+        "member_urn": "urn:li:member:510823784",
+        "experience": [
+            {
+                "locationName": "Guwahati ",
+                "projects": [
+                    "urn:li:fs_project:(ACoAAB5yjWgBPKePhEg5KXmOR3e6RVNShCwboCE,1318930043)"
+                ],
+                "entityUrn": "urn:li:fs_position:(ACoAAB5yjWgBPKePhEg5KXmOR3e6RVNShCwboCE,1533389865)",
+                "geoLocationName": "Guwahati ",
+                "companyName": "National Informatics Centre, MeitY",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 8,
+                        "year": 2019
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 1001,
+                        "end": 5000
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Software Developer",
+                "companyUrn": "urn:li:fs_miniCompany:13714183",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C510BAQHqD-qe74pf6A/company-logo_"
+            },
+            {
+                "locationName": "Guwahati Area, India",
+                "entityUrn": "urn:li:fs_position:(ACoAAB5yjWgBPKePhEg5KXmOR3e6RVNShCwboCE,1347359396)",
+                "geoLocationName": "Guwahati Area, India",
+                "geoUrn": "urn:li:fs_geo:104535556",
+                "companyName": "Assam Engineering College, (A.E.C)",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 8,
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2016
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 1001,
+                        "end": 5000
+                    },
+                    "industries": [
+                        "Government Administration"
+                    ]
+                },
+                "title": "Class Representative of MCA",
+                "region": "urn:li:fs_region:(in,7248)",
+                "companyUrn": "urn:li:fs_miniCompany:13362147",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQF2c8H0frv_Dw/company-logo_"
+            },
+            {
+                "locationName": "Guwahati Area, India",
+                "entityUrn": "urn:li:fs_position:(ACoAAB5yjWgBPKePhEg5KXmOR3e6RVNShCwboCE,1347360310)",
+                "geoLocationName": "Guwahati Area, India",
+                "geoUrn": "urn:li:fs_geo:104535556",
+                "companyName": "Assam Engineering College, (A.E.C)",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2018
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 1001,
+                        "end": 5000
+                    },
+                    "industries": [
+                        "Government Administration"
+                    ]
+                },
+                "title": "Convenor of BeatHouse Dance Club",
+                "region": "urn:li:fs_region:(in,7248)",
+                "companyUrn": "urn:li:fs_miniCompany:13362147",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQF2c8H0frv_Dw/company-logo_"
+            },
+            {
+                "locationName": "Assam Engineering College, Guwahati",
+                "entityUrn": "urn:li:fs_position:(ACoAAB5yjWgBPKePhEg5KXmOR3e6RVNShCwboCE,1347359523)",
+                "geoLocationName": "Assam Engineering College, Guwahati",
+                "companyName": "Gratia Technology",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 4,
+                        "year": 2017
+                    },
+                    "startDate": {
+                        "month": 4,
+                        "year": 2017
+                    }
+                },
+                "company": {},
+                "title": "Attended Workshop on Cyber Security and Ethical Hacking",
+                "companyUrn": "urn:li:fs_miniCompany:13468074"
+            },
+            {
+                "locationName": "Assam Engineering College , Guwahati",
+                "entityUrn": "urn:li:fs_position:(ACoAAB5yjWgBPKePhEg5KXmOR3e6RVNShCwboCE,1347360440)",
+                "geoLocationName": "Assam Engineering College , Guwahati",
+                "companyName": "TechVariable",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 2,
+                        "year": 2017
+                    },
+                    "startDate": {
+                        "month": 2,
+                        "year": 2017
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Attended Workshop on Web Development",
+                "companyUrn": "urn:li:fs_miniCompany:10632640",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQE6IzKHUZQmAA/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "description": "-Received my Post Graduation degree in Computer Applications \n-First Rank Holder of MCA 2016-2019 Batch\n-Class Representative\n-Convenor of BeatHouse Dance Club\n-Successfully organized Street Beatz 2018 Dance Competition in our Annual Cultural Festival Pyrokinesis\n-Participated and won Prizes in College Dance Competition",
+                "degreeName": "Master of Computer Applications - MCA",
+                "honors": [
+                    "urn:li:fs_honor:(ACoAAB5yjWgBPKePhEg5KXmOR3e6RVNShCwboCE,1318622970)"
+                ],
+                "schoolUrn": "urn:li:fs_miniSchool:199762",
+                "entityUrn": "urn:li:fs_education:(ACoAAB5yjWgBPKePhEg5KXmOR3e6RVNShCwboCE,547070571)",
+                "school": {
+                    "objectUrn": "urn:li:school:199762",
+                    "entityUrn": "urn:li:fs_miniSchool:199762",
+                    "active": true,
+                    "schoolName": "Assam Engineering College",
+                    "trackingId": "cygMIJhlQ7aEx3SX5inaSQ=="
+                },
+                "activities": "Dancer, Choreographer, Convenor of BeatHouse Dance Club in Assam Enginnering College, Coding Club",
+                "grade": "A+",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "year": 2016
+                    }
+                },
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100180",
+                "testScores": [
+                    "urn:li:fs_testScore:(ACoAAB5yjWgBPKePhEg5KXmOR3e6RVNShCwboCE,1557023734)"
+                ],
+                "schoolName": "Assam Engineering College",
+                "degreeUrn": "urn:li:fs_degree:594"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAB5yjWgBPKePhEg5KXmOR3e6RVNShCwboCE,339305274)",
+                "school": {
+                    "objectUrn": "urn:li:school:203135",
+                    "entityUrn": "urn:li:fs_miniSchool:203135",
+                    "active": true,
+                    "schoolName": "Cotton College",
+                    "trackingId": "QiGYliurSFWcuFF/TC4BbQ==",
+                    "logoUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQE2sG7kWsU-ig/company-logo_"
+                },
+                "activities": "Dancer, Choreographer, Dance Club, Coding Club",
+                "grade": "A",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2015
+                    },
+                    "startDate": {
+                        "year": 2012
+                    }
+                },
+                "description": "-Received my Graduation degree in Computer Applications \n-First Rank Holder of BCA 2012-2015 Batch\n-Participated in cultural events , sports , workshops\n",
+                "testScores": [
+                    "urn:li:fs_testScore:(ACoAAB5yjWgBPKePhEg5KXmOR3e6RVNShCwboCE,369396324)"
+                ],
+                "degreeName": "Bachelor of Computer Applications - BCA",
+                "schoolName": "Cotton College",
+                "honors": [
+                    "urn:li:fs_honor:(ACoAAB5yjWgBPKePhEg5KXmOR3e6RVNShCwboCE,369495589)"
+                ],
+                "schoolUrn": "urn:li:fs_miniSchool:203135"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAB5yjWgBPKePhEg5KXmOR3e6RVNShCwboCE,547068689)",
+                "school": {
+                    "objectUrn": "urn:li:school:195383",
+                    "entityUrn": "urn:li:fs_miniSchool:195383",
+                    "active": true,
+                    "schoolName": "Haflong Govt College",
+                    "trackingId": "he58NTp/Ry2VjPxIx6IdqQ=="
+                },
+                "activities": "Volunteered in Golden Jubilee Celebration",
+                "grade": "A",
+                "degreeName": "Class 12",
+                "schoolName": "Haflong Govt College",
+                "schoolUrn": "urn:li:fs_miniSchool:195383"
+            }
+        ],
+        "languages": [
+            {
+                "name": "Assamese",
+                "proficiency": "LIMITED_WORKING"
+            },
+            {
+                "name": "English",
+                "proficiency": "PROFESSIONAL_WORKING"
+            },
+            {
+                "name": "Hindi",
+                "proficiency": "PROFESSIONAL_WORKING"
+            },
+            {
+                "name": "Nepali",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ],
+        "publications": [],
+        "certifications": [],
+        "volunteer": [],
+        "honors": [
+            {
+                "description": "Finalist of Colors of Youth Season 4 - A national talent hunt competition",
+                "title": "Finalist of Colors of Youth ",
+                "issueDate": {
+                    "year": 2015
+                },
+                "issuer": "Colors of Youth"
+            },
+            {
+                "description": "University Topper for BCA 2012-2015",
+                "occupation": "urn:li:fs_education:(ACoAAB5yjWgBPKePhEg5KXmOR3e6RVNShCwboCE,339305274)",
+                "title": "1st Rank Holder",
+                "issuer": "Cotton College"
+            },
+            {
+                "description": "University Topper for MCA 2016-2019",
+                "occupation": "urn:li:fs_education:(ACoAAB5yjWgBPKePhEg5KXmOR3e6RVNShCwboCE,547070571)",
+                "title": "1st Rank Holder",
+                "issuer": "Assam Engineering College"
+            }
+        ],
+        "projects": [
+            {
+                "occupation": "urn:li:fs_position:(ACoAAB5yjWgBPKePhEg5KXmOR3e6RVNShCwboCE,1533389865)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Bishnu",
+                            "lastName": "Chetri",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAB5yjWgBPKePhEg5KXmOR3e6RVNShCwboCE",
+                            "occupation": "Software Developer || Web Security Researcher || Determined and Career Oriented || Dancer",
+                            "objectUrn": "urn:li:member:510823784",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAB5yjWgBPKePhEg5KXmOR3e6RVNShCwboCE",
+                            "publicIdentifier": "bishnu-chetri-7480a7123",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1559934271692?e=1657756800&v=beta&t=7Xuq57R8eYss1NWBKYkWozPsKElXoiDvUvtouSQu81g",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1559934271692?e=1657756800&v=beta&t=YnmaI71BImK7mGO0c2SAP8NvEz77qxDDD7z03r0s9FU",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1559934271692?e=1657756800&v=beta&t=-kiHGxwoE296M5l2_zh4powYF_ig_Ekn5En9jaHO-oI",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1559934271692?e=1657756800&v=beta&t=7SVrh4HP9XYJ8ngb_h-Fy0LE8eRcMIpRBBBc8QApAPI",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5103AQHeOyH7irjTdQ/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "4Bdc+6POROKLIiOyw5246w=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAB5yjWgBPKePhEg5KXmOR3e6RVNShCwboCE,1318930043,273943513)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAB5yjWgBPKePhEg5KXmOR3e6RVNShCwboCE"
+                    }
+                ],
+                "timePeriod": {
+                    "startDate": {
+                        "month": 8,
+                        "year": 2019
+                    }
+                },
+                "title": "Ease of Doing Business Assam",
+                "url": "https://www.eodb.assam.gov.in"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Bishnu",
+                            "lastName": "Chetri",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAB5yjWgBPKePhEg5KXmOR3e6RVNShCwboCE",
+                            "occupation": "Software Developer || Web Security Researcher || Determined and Career Oriented || Dancer",
+                            "objectUrn": "urn:li:member:510823784",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAB5yjWgBPKePhEg5KXmOR3e6RVNShCwboCE",
+                            "publicIdentifier": "bishnu-chetri-7480a7123",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1559934271692?e=1657756800&v=beta&t=7Xuq57R8eYss1NWBKYkWozPsKElXoiDvUvtouSQu81g",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1559934271692?e=1657756800&v=beta&t=YnmaI71BImK7mGO0c2SAP8NvEz77qxDDD7z03r0s9FU",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1559934271692?e=1657756800&v=beta&t=-kiHGxwoE296M5l2_zh4powYF_ig_Ekn5En9jaHO-oI",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1559934271692?e=1657756800&v=beta&t=7SVrh4HP9XYJ8ngb_h-Fy0LE8eRcMIpRBBBc8QApAPI",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5103AQHeOyH7irjTdQ/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "4Bdc+6POROKLIiOyw5246w=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAB5yjWgBPKePhEg5KXmOR3e6RVNShCwboCE,1318803463,273929262)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAB5yjWgBPKePhEg5KXmOR3e6RVNShCwboCE"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 7,
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2019
+                    }
+                },
+                "title": "ePrastuti Training Management System"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Bishnu",
+                            "lastName": "Chetri",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAB5yjWgBPKePhEg5KXmOR3e6RVNShCwboCE",
+                            "occupation": "Software Developer || Web Security Researcher || Determined and Career Oriented || Dancer",
+                            "objectUrn": "urn:li:member:510823784",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAB5yjWgBPKePhEg5KXmOR3e6RVNShCwboCE",
+                            "publicIdentifier": "bishnu-chetri-7480a7123",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1559934271692?e=1657756800&v=beta&t=7Xuq57R8eYss1NWBKYkWozPsKElXoiDvUvtouSQu81g",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1559934271692?e=1657756800&v=beta&t=YnmaI71BImK7mGO0c2SAP8NvEz77qxDDD7z03r0s9FU",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1559934271692?e=1657756800&v=beta&t=-kiHGxwoE296M5l2_zh4powYF_ig_Ekn5En9jaHO-oI",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1559934271692?e=1657756800&v=beta&t=7SVrh4HP9XYJ8ngb_h-Fy0LE8eRcMIpRBBBc8QApAPI",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5103AQHeOyH7irjTdQ/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "4Bdc+6POROKLIiOyw5246w=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAB5yjWgBPKePhEg5KXmOR3e6RVNShCwboCE,1318854517,273927488)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAB5yjWgBPKePhEg5KXmOR3e6RVNShCwboCE"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2019
+                    }
+                },
+                "title": "ePrastuti Grievance Redressal System"
+            }
+        ]
+    },
+    "contact_info": {
+        "email_address": null,
+        "websites": [],
+        "twitter": [],
+        "birthdate": {
+            "month": 3,
+            "day": 14
+        },
+        "ims": null,
+        "phone_numbers": []
+    },
+    "connections": [
+        {
+            "urn_id": "ACoAAC24GToBKzC8vS7jZaCEqoq3Jse_M2Tson8",
+            "distance": "DISTANCE_1",
+            "public_id": "abhijit-paul-936a68194",
+            "tracking_id": "767039802"
+        },
+        {
+            "urn_id": "ACoAADLJzxsBizdB0nN5NZBCM41Q-z6-7ef5gyI",
+            "distance": "DISTANCE_1",
+            "public_id": "deepjyoti-kalita-78b4411b9",
+            "tracking_id": "852086555"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Laravel"
+        },
+        {
+            "name": "Cybersecurity"
+        },
+        {
+            "name": "Web Application Development"
+        },
+        {
+            "name": "Java"
+        },
+        {
+            "name": "C++"
+        },
+        {
+            "name": "C"
+        },
+        {
+            "name": "HTML"
+        },
+        {
+            "name": "PHP"
+        },
+        {
+            "name": "JavaScript"
+        },
+        {
+            "name": "jQuery"
+        },
+        {
+            "name": "AJAX"
+        },
+        {
+            "name": "Cascading Style Sheets (CSS)"
+        },
+        {
+            "name": "Bootstrap"
+        },
+        {
+            "name": "MySQL"
+        },
+        {
+            "name": "PostgreSQL"
+        },
+        {
+            "name": "VMware"
+        },
+        {
+            "name": "Microsoft Office"
+        },
+        {
+            "name": "Full-Stack Development"
+        },
+        {
+            "name": "Ethical Hacking"
+        },
+        {
+            "name": "Kali Linux"
+        },
+        {
+            "name": "Web Application Security"
+        },
+        {
+            "name": "C (Programming Language)"
+        },
+        {
+            "name": "Amazon S3"
+        },
+        {
+            "name": "Amazon CloudFront"
+        }
+    ]
+}

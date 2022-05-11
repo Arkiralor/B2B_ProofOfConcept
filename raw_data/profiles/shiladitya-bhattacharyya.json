@@ -1,0 +1,1332 @@
+{
+    "profile": {
+        "summary": "After 4+ years of experience as a Full Stack Developer, SAP Consultant & Trainer and also as a freelance Data Scientist I am experienced in providing predictive modelling solution for a Govt. University project and startup, leveraging expertise in Machine Learning, Deep Learning, Data Visualization business strategy and operations. Now I want to go further and obtain a position as an Entry Level Data Scientist in a collaborative environment utilizing my technical skills and creativity.",
+        "industryName": "Software Development",
+        "lastName": "Bhattacharyya",
+        "locationName": "India",
+        "student": false,
+        "geoCountryName": "India",
+        "geoCountryUrn": "urn:li:fs_geo:102713980",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "industryUrn": "urn:li:fs_industry:4",
+        "firstName": "Shiladitya",
+        "entityUrn": "urn:li:fs_profile:ACoAABNntB4Bsk85rvseDV0A8IJ9Y1fjUM9u06k",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:105307040"
+        },
+        "geoLocationName": "Bengaluru, Karnataka",
+        "location": {
+            "basicLocation": {
+                "countryCode": "in"
+            }
+        },
+        "headline": "Data Scientist | Machine Learning | Deep Learning | Data Analytics with Tableau",
+        "displayPictureUrl": "https://media-exp1.licdn.com/dms/image/D4E35AQGuWQ8vx9AHzA/profile-framedphoto-shrink_",
+        "img_200_200": "200_200/0/1623916115079?e=1652400000&v=beta&t=iG95CZoQwqkCNwKntadocUYPYH31-yGM7TSELlU1B3U",
+        "img_400_400": "400_400/0/1623916115079?e=1652400000&v=beta&t=ynLBijqc-di6r68fsHACYzY-YSr01c3Ala6SnUBXTKo",
+        "img_800_800": "800_800/0/1623916115079?e=1652400000&v=beta&t=VQZGlwIlrQ7Pd7w2CIZpxAaEDiHECLLFqQcWmOk9FFg",
+        "img_100_100": "100_100/0/1623916115079?e=1652400000&v=beta&t=D3sADCqtTi4Ge_wFyJxdT7qPmZXgb3JR5W5028HSWoA",
+        "profile_id": "ACoAABNntB4Bsk85rvseDV0A8IJ9Y1fjUM9u06k",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAABNntB4Bsk85rvseDV0A8IJ9Y1fjUM9u06k",
+        "member_urn": "urn:li:member:325563422",
+        "experience": [
+            {
+                "locationName": "Bengaluru, Karnataka, India",
+                "entityUrn": "urn:li:fs_position:(ACoAABNntB4Bsk85rvseDV0A8IJ9Y1fjUM9u06k,1449512982)",
+                "$anti_abuse_metadata": {
+                    "/geoUrn": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:325563422"
+                        }
+                    },
+                    "/companyName": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:325563422"
+                        }
+                    },
+                    "/companyUrn": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:325563422"
+                        }
+                    },
+                    "/entityUrn": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:325563422"
+                        }
+                    },
+                    "/geoLocationName": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:325563422"
+                        }
+                    },
+                    "/promotion": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:325563422"
+                        }
+                    },
+                    "/title": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:325563422"
+                        }
+                    },
+                    "/region": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:325563422"
+                        }
+                    },
+                    "/locationName": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:325563422"
+                        }
+                    },
+                    "/description": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:325563422"
+                        }
+                    }
+                },
+                "geoLocationName": "Bengaluru, Karnataka, India",
+                "companyName": "SAP Institute",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 10,
+                        "year": 2018
+                    }
+                },
+                "description": "SAP Hana and SAP Business Intelligence Trainer Consultant",
+                "title": "SAP HANA and Business Intelligence Trainer"
+            },
+            {
+                "locationName": "Guwahati Area, India",
+                "entityUrn": "urn:li:fs_position:(ACoAABNntB4Bsk85rvseDV0A8IJ9Y1fjUM9u06k,1013056929)",
+                "geoLocationName": "Guwahati Area, India",
+                "geoUrn": "urn:li:fs_geo:104535556",
+                "companyName": "TechVariable",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 9,
+                        "year": 2016
+                    },
+                    "startDate": {
+                        "month": 7,
+                        "year": 2016
+                    }
+                },
+                "description": "J2SE and J2EE Programmer.\nProject Intern.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Intern Java Programmer",
+                "region": "urn:li:fs_region:(in,7248)",
+                "companyUrn": "urn:li:fs_miniCompany:10632640",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQE6IzKHUZQmAA/company-logo_"
+            },
+            {
+                "locationName": "Guwahati Area, India",
+                "entityUrn": "urn:li:fs_position:(ACoAABNntB4Bsk85rvseDV0A8IJ9Y1fjUM9u06k,1013059141)",
+                "$anti_abuse_metadata": {
+                    "/geoUrn": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:325563422"
+                        }
+                    },
+                    "/companyName": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:325563422"
+                        }
+                    },
+                    "/companyUrn": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:325563422"
+                        }
+                    },
+                    "/entityUrn": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:325563422"
+                        }
+                    },
+                    "/geoLocationName": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:325563422"
+                        }
+                    },
+                    "/promotion": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:325563422"
+                        }
+                    },
+                    "/title": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:325563422"
+                        }
+                    },
+                    "/region": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:325563422"
+                        }
+                    },
+                    "/locationName": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:325563422"
+                        }
+                    },
+                    "/description": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:325563422"
+                        }
+                    }
+                },
+                "geoLocationName": "Guwahati Area, India",
+                "geoUrn": "urn:li:fs_geo:104535556",
+                "companyName": "Next Step Mentors",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2016
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2016
+                    }
+                },
+                "title": "Digital Marketing Intern",
+                "region": "urn:li:fs_region:(in,7248)"
+            },
+            {
+                "locationName": "Guwahati Area, India",
+                "entityUrn": "urn:li:fs_position:(ACoAABNntB4Bsk85rvseDV0A8IJ9Y1fjUM9u06k,716067666)",
+                "$anti_abuse_metadata": {
+                    "/geoUrn": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:325563422"
+                        }
+                    },
+                    "/companyName": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:325563422"
+                        }
+                    },
+                    "/companyUrn": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:325563422"
+                        }
+                    },
+                    "/entityUrn": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:325563422"
+                        }
+                    },
+                    "/geoLocationName": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:325563422"
+                        }
+                    },
+                    "/promotion": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:325563422"
+                        }
+                    },
+                    "/title": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:325563422"
+                        }
+                    },
+                    "/region": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:325563422"
+                        }
+                    },
+                    "/locationName": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:325563422"
+                        }
+                    },
+                    "/description": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:325563422"
+                        }
+                    }
+                },
+                "geoLocationName": "Guwahati Area, India",
+                "geoUrn": "urn:li:fs_geo:104535556",
+                "companyName": "Luit Robotics",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2016
+                    },
+                    "startDate": {
+                        "month": 6,
+                        "year": 2014
+                    }
+                },
+                "description": "It is a start-up company of some students of NITS Mirza. I worked here as a Web Developer & Designer. And also I teach students of different schools about the Robotics & its technology.",
+                "title": "Senior Web Developer",
+                "region": "urn:li:fs_region:(in,7248)"
+            },
+            {
+                "locationName": "Guwahati Area, India",
+                "entityUrn": "urn:li:fs_position:(ACoAABNntB4Bsk85rvseDV0A8IJ9Y1fjUM9u06k,1013057187)",
+                "geoLocationName": "Guwahati Area, India",
+                "geoUrn": "urn:li:fs_geo:104535556",
+                "companyName": "HCL career devlpment center",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 7,
+                        "year": 2014
+                    },
+                    "startDate": {
+                        "month": 5,
+                        "year": 2014
+                    }
+                },
+                "description": "PHP Project Intern",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Education Management"
+                    ]
+                },
+                "title": "Summer Intern",
+                "region": "urn:li:fs_region:(in,7248)",
+                "companyUrn": "urn:li:fs_miniCompany:494031",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQFzA9EgXTZ8fQ/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAABNntB4Bsk85rvseDV0A8IJ9Y1fjUM9u06k,506746529)",
+                "grade": "1st Class",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2016
+                    },
+                    "startDate": {
+                        "year": 2012
+                    }
+                },
+                "degreeName": "BE (Bachelor of Engineering)",
+                "schoolName": "Gauhati University",
+                "fieldOfStudy": "Computer Science & Engineering"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAABNntB4Bsk85rvseDV0A8IJ9Y1fjUM9u06k,208737825)",
+                "activities": "Debate, Drama, Science, Music",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2010
+                    },
+                    "startDate": {
+                        "year": 1998
+                    }
+                },
+                "degreeName": "High School",
+                "schoolName": "Shankardev Vidya Niketan, Bishnupath, Guwahati",
+                "fieldOfStudy": "Science"
+            }
+        ],
+        "languages": [
+            {
+                "name": "Assamese",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "English",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "Hindi",
+                "proficiency": "PROFESSIONAL_WORKING"
+            }
+        ],
+        "publications": [],
+        "certifications": [
+            {
+                "authority": "HCL career devlpment center",
+                "name": "PHP Developer",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 8,
+                        "year": 2014
+                    },
+                    "startDate": {
+                        "month": 6,
+                        "year": 2014
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:494031",
+                    "entityUrn": "urn:li:fs_miniCompany:494031",
+                    "name": "HCL career devlpment center",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1519949627446?e=1660176000&v=beta&t=0-ojMcZOOTlJ3euYxPFlgUrXZq6-wkoGMZBB-dEa3ao",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1519949627446?e=1660176000&v=beta&t=c8Kqe0N2q_4R1gIIHZOEsde3rjEx5URlihBmdRwHYic",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1519949627446?e=1660176000&v=beta&t=PB7oUFFXP-2RzTfP33dk1Tk2XSLVlgHBg1a34xhNaPs",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQFzA9EgXTZ8fQ/company-logo_"
+                        }
+                    },
+                    "universalName": "hcl-career-devlpment-center",
+                    "dashCompanyUrn": "urn:li:fsd_company:494031",
+                    "trackingId": "iNNq3449Tb6fJMpnJsKQ2g=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:494031"
+            },
+            {
+                "authority": "TechVariable",
+                "name": "Core Java / J2SE",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 9,
+                        "year": 2016
+                    },
+                    "startDate": {
+                        "month": 7,
+                        "year": 2016
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:10632640",
+                    "entityUrn": "urn:li:fs_miniCompany:10632640",
+                    "name": "TechVariable",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1609933104733?e=1660176000&v=beta&t=AsfZO1zLviHg_r-ckV131cX_xnURb6jvnfH8WqCfF2M",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1609933104733?e=1660176000&v=beta&t=tzwk9B2CHJhwAUSOlHDGQqiSCOKgxLaCj7LoAoHYYrs",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1609933104733?e=1660176000&v=beta&t=7H65Xk9at_tICwe-Vug7y-Fkgg5a349CIMWN0CimB78",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQE6IzKHUZQmAA/company-logo_"
+                        }
+                    },
+                    "universalName": "techvariable",
+                    "dashCompanyUrn": "urn:li:fsd_company:10632640",
+                    "trackingId": "9t9xE3avRJ+rA63yFYryeg=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:10632640"
+            },
+            {
+                "authority": "TechVariable",
+                "name": "J2EE Certification",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 9,
+                        "year": 2016
+                    },
+                    "startDate": {
+                        "month": 7,
+                        "year": 2016
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:10632640",
+                    "entityUrn": "urn:li:fs_miniCompany:10632640",
+                    "name": "TechVariable",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1609933104733?e=1660176000&v=beta&t=AsfZO1zLviHg_r-ckV131cX_xnURb6jvnfH8WqCfF2M",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1609933104733?e=1660176000&v=beta&t=tzwk9B2CHJhwAUSOlHDGQqiSCOKgxLaCj7LoAoHYYrs",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1609933104733?e=1660176000&v=beta&t=7H65Xk9at_tICwe-Vug7y-Fkgg5a349CIMWN0CimB78",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQE6IzKHUZQmAA/company-logo_"
+                        }
+                    },
+                    "universalName": "techvariable",
+                    "dashCompanyUrn": "urn:li:fsd_company:10632640",
+                    "trackingId": "aBvum1LaT32n2d/GoyIDxg=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:10632640"
+            },
+            {
+                "authority": "Simplilearn",
+                "name": "Introduction to Artificial Intelligence",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 3,
+                        "year": 2020
+                    }
+                },
+                "licenseNumber": "1744638",
+                "company": {
+                    "objectUrn": "urn:li:company:533488",
+                    "entityUrn": "urn:li:fs_miniCompany:533488",
+                    "name": "Simplilearn",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1519868894445?e=1660176000&v=beta&t=y36PIWkTYeIyuUJ8MSmS0Dlwjzy_IX4R80nLJRa926Y",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1519868894445?e=1660176000&v=beta&t=aLuM3nB2wSQOT8CvoiVisWO8ICxKs9fYkInRxq5HGzg",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1519868894445?e=1660176000&v=beta&t=ZJBpncLIirhpubX_5EqBUbqbNhU_zYUR0WMHJcxVPrE",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C510BAQEvNU0EYy6wUw/company-logo_"
+                        }
+                    },
+                    "universalName": "simplilearn",
+                    "dashCompanyUrn": "urn:li:fsd_company:533488",
+                    "trackingId": "nP8BQIQeSBe7rwDFy5F/Bw=="
+                },
+                "displaySource": "simplicdn.net",
+                "companyUrn": "urn:li:fs_miniCompany:533488",
+                "url": "https://certificates.simplicdn.net/share/1744638.pdf"
+            },
+            {
+                "authority": "Udemy",
+                "name": "Learn to Code in Python 3: Programming Beginner to Advanced",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 4,
+                        "year": 2020
+                    }
+                },
+                "licenseNumber": "UC-a4c918fb-2515-4532-9eb7-cb8ec4f542da",
+                "company": {
+                    "objectUrn": "urn:li:company:822535",
+                    "entityUrn": "urn:li:fs_miniCompany:822535",
+                    "name": "Udemy",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1626275253364?e=1660176000&v=beta&t=hNmtDdN4pnwTuJsDQsvaI2SOIkRq2BCrfWF7YKlNaM4",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1626275253364?e=1660176000&v=beta&t=bZ9FL43L79ghc74x71A2lY51dAogHCVQKWAZH1-YcuM",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1626275253364?e=1660176000&v=beta&t=7EyDsPVIShmG1t96OAsrJK6AWUi0vObIpIVqPL4hc6E",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQFQr9e68bBOPQ/company-logo_"
+                        }
+                    },
+                    "universalName": "udemy",
+                    "dashCompanyUrn": "urn:li:fsd_company:822535",
+                    "trackingId": "96azFD8OSiiqb8MPXB382Q=="
+                },
+                "displaySource": "ude.my",
+                "companyUrn": "urn:li:fs_miniCompany:822535",
+                "url": "http://ude.my/UC-a4c918fb-2515-4532-9eb7-cb8ec4f542da"
+            },
+            {
+                "authority": "Simplilearn",
+                "name": "Tableau Desktop 10 - Associate",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 5,
+                        "year": 2020
+                    }
+                },
+                "licenseNumber": "1867207",
+                "company": {
+                    "objectUrn": "urn:li:company:533488",
+                    "entityUrn": "urn:li:fs_miniCompany:533488",
+                    "name": "Simplilearn",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1519868894445?e=1660176000&v=beta&t=y36PIWkTYeIyuUJ8MSmS0Dlwjzy_IX4R80nLJRa926Y",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1519868894445?e=1660176000&v=beta&t=aLuM3nB2wSQOT8CvoiVisWO8ICxKs9fYkInRxq5HGzg",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1519868894445?e=1660176000&v=beta&t=ZJBpncLIirhpubX_5EqBUbqbNhU_zYUR0WMHJcxVPrE",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C510BAQEvNU0EYy6wUw/company-logo_"
+                        }
+                    },
+                    "universalName": "simplilearn",
+                    "dashCompanyUrn": "urn:li:fsd_company:533488",
+                    "trackingId": "6Ri3RMcbQ6SbkorHALrgfA=="
+                },
+                "displaySource": "simplicdn.net",
+                "companyUrn": "urn:li:fs_miniCompany:533488",
+                "url": "https://certificates.simplicdn.net/share/1867207.pdf"
+            },
+            {
+                "authority": "Udemy",
+                "name": "Deep Learning A-Z\u2122 : Hands-On Artificial Neural Networks",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 7,
+                        "year": 2020
+                    }
+                },
+                "licenseNumber": "UC-a3c84c56-dd86-4793-a7b8-e2ded2b837c8",
+                "company": {
+                    "objectUrn": "urn:li:company:822535",
+                    "entityUrn": "urn:li:fs_miniCompany:822535",
+                    "name": "Udemy",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1626275253364?e=1660176000&v=beta&t=hNmtDdN4pnwTuJsDQsvaI2SOIkRq2BCrfWF7YKlNaM4",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1626275253364?e=1660176000&v=beta&t=bZ9FL43L79ghc74x71A2lY51dAogHCVQKWAZH1-YcuM",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1626275253364?e=1660176000&v=beta&t=7EyDsPVIShmG1t96OAsrJK6AWUi0vObIpIVqPL4hc6E",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQFQr9e68bBOPQ/company-logo_"
+                        }
+                    },
+                    "universalName": "udemy",
+                    "dashCompanyUrn": "urn:li:fsd_company:822535",
+                    "trackingId": "aburxEDWSOqaTYWfYWS1pA=="
+                },
+                "displaySource": "ude.my",
+                "companyUrn": "urn:li:fs_miniCompany:822535",
+                "url": "http://ude.my/UC-a3c84c56-dd86-4793-a7b8-e2ded2b837c8"
+            }
+        ],
+        "volunteer": [],
+        "honors": [],
+        "projects": [
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Shiladitya",
+                            "lastName": "Bhattacharyya",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABNntB4Bsk85rvseDV0A8IJ9Y1fjUM9u06k",
+                            "occupation": "Data Scientist | Machine Learning | Deep Learning | Data Analytics with Tableau",
+                            "objectUrn": "urn:li:member:325563422",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABNntB4Bsk85rvseDV0A8IJ9Y1fjUM9u06k",
+                            "publicIdentifier": "shiladitya-bhattacharyya",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1623916115079?e=1652400000&v=beta&t=iG95CZoQwqkCNwKntadocUYPYH31-yGM7TSELlU1B3U",
+                                            "expiresAt": 1652400000000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1623916115079?e=1652400000&v=beta&t=ynLBijqc-di6r68fsHACYzY-YSr01c3Ala6SnUBXTKo",
+                                            "expiresAt": 1652400000000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1623916115079?e=1652400000&v=beta&t=VQZGlwIlrQ7Pd7w2CIZpxAaEDiHECLLFqQcWmOk9FFg",
+                                            "expiresAt": 1652400000000,
+                                            "height": 800
+                                        },
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1623916115079?e=1652400000&v=beta&t=D3sADCqtTi4Ge_wFyJxdT7qPmZXgb3JR5W5028HSWoA",
+                                            "expiresAt": 1652400000000,
+                                            "height": 100
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/D4E35AQGuWQ8vx9AHzA/profile-framedphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "a4y8u/JjT2KElaGYQvWnLA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABNntB4Bsk85rvseDV0A8IJ9Y1fjUM9u06k,419104962,311971289)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABNntB4Bsk85rvseDV0A8IJ9Y1fjUM9u06k"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 5,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 11,
+                        "year": 2020
+                    }
+                },
+                "description": "Freelance project, created to boost up sales and attract different customers according to their age & gender and display the ads in front of them which are relevant and popular among them. Developed from scratch using CNN, OpenCV in python and for hardware part Raspberry Pi is used.",
+                "title": "Real Time Age Detection from Security camera for customised Advertise Display for Customers"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Shiladitya",
+                            "lastName": "Bhattacharyya",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABNntB4Bsk85rvseDV0A8IJ9Y1fjUM9u06k",
+                            "occupation": "Data Scientist | Machine Learning | Deep Learning | Data Analytics with Tableau",
+                            "objectUrn": "urn:li:member:325563422",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABNntB4Bsk85rvseDV0A8IJ9Y1fjUM9u06k",
+                            "publicIdentifier": "shiladitya-bhattacharyya",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1623916115079?e=1652400000&v=beta&t=iG95CZoQwqkCNwKntadocUYPYH31-yGM7TSELlU1B3U",
+                                            "expiresAt": 1652400000000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1623916115079?e=1652400000&v=beta&t=ynLBijqc-di6r68fsHACYzY-YSr01c3Ala6SnUBXTKo",
+                                            "expiresAt": 1652400000000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1623916115079?e=1652400000&v=beta&t=VQZGlwIlrQ7Pd7w2CIZpxAaEDiHECLLFqQcWmOk9FFg",
+                                            "expiresAt": 1652400000000,
+                                            "height": 800
+                                        },
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1623916115079?e=1652400000&v=beta&t=D3sADCqtTi4Ge_wFyJxdT7qPmZXgb3JR5W5028HSWoA",
+                                            "expiresAt": 1652400000000,
+                                            "height": 100
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/D4E35AQGuWQ8vx9AHzA/profile-framedphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "a4y8u/JjT2KElaGYQvWnLA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABNntB4Bsk85rvseDV0A8IJ9Y1fjUM9u06k,418943319,311967583)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABNntB4Bsk85rvseDV0A8IJ9Y1fjUM9u06k"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 3,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 3,
+                        "year": 2021
+                    }
+                },
+                "description": "Working individually with Assam Agricultural University to predict the worst affecting period in Majuli Crop Fields due to White Grub (Lepidiota Mansueta). Developed from scratch using ANN for both classification and regression problem.",
+                "title": "Prediction Model for White Grub (L. Mansueta) Beetle in Majuli using Machine Learning."
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Shiladitya",
+                            "lastName": "Bhattacharyya",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABNntB4Bsk85rvseDV0A8IJ9Y1fjUM9u06k",
+                            "occupation": "Data Scientist | Machine Learning | Deep Learning | Data Analytics with Tableau",
+                            "objectUrn": "urn:li:member:325563422",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABNntB4Bsk85rvseDV0A8IJ9Y1fjUM9u06k",
+                            "publicIdentifier": "shiladitya-bhattacharyya",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1623916115079?e=1652400000&v=beta&t=iG95CZoQwqkCNwKntadocUYPYH31-yGM7TSELlU1B3U",
+                                            "expiresAt": 1652400000000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1623916115079?e=1652400000&v=beta&t=ynLBijqc-di6r68fsHACYzY-YSr01c3Ala6SnUBXTKo",
+                                            "expiresAt": 1652400000000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1623916115079?e=1652400000&v=beta&t=VQZGlwIlrQ7Pd7w2CIZpxAaEDiHECLLFqQcWmOk9FFg",
+                                            "expiresAt": 1652400000000,
+                                            "height": 800
+                                        },
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1623916115079?e=1652400000&v=beta&t=D3sADCqtTi4Ge_wFyJxdT7qPmZXgb3JR5W5028HSWoA",
+                                            "expiresAt": 1652400000000,
+                                            "height": 100
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/D4E35AQGuWQ8vx9AHzA/profile-framedphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "a4y8u/JjT2KElaGYQvWnLA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABNntB4Bsk85rvseDV0A8IJ9Y1fjUM9u06k,991350006,138793416)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABNntB4Bsk85rvseDV0A8IJ9Y1fjUM9u06k"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Amlan",
+                            "lastName": "Saikia",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACLst9YBW3S-RUI-IdBYy_ONRXQKVcAYu-w",
+                            "occupation": "Project Scientist at Assam Science Technology & Environment Council (Assam Remote Sensing Application Centre)",
+                            "objectUrn": "urn:li:member:585938902",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACLst9YBW3S-RUI-IdBYy_ONRXQKVcAYu-w",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1517823107507?e=1657756800&v=beta&t=Uv3yF5uC4NY7vnCWY6yVAl528Tu8KU7K2jlLTUlqj5I",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1517823107507?e=1657756800&v=beta&t=UvlIVlqLyx1ZkISweMhvTmWuZvDszwH_YV3qrx9ueRg",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D16AQEpsaa2FbGzmg/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "amlansaikia",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1590409364824?e=1657756800&v=beta&t=s1Z05fRiQcnJcz8IuUEFl9YRDNJRtfSP8ZJuv6dWgJU",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1590409364824?e=1657756800&v=beta&t=l-5XXG2PbMa-aps39GYTlXhDtprVURwOJROfy3BOcVQ",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1590409364824?e=1657756800&v=beta&t=UUGB936T9uivOmlq2GaKMLxQfMOBYs380Dn8KSB3QJE",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1590409364824?e=1657756800&v=beta&t=eILmUni5sGUQCm_Z4Q8V9p9Wpio1ANi5a7HWHpEU00U",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5603AQFYJKNl6aQCWw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "kzSHNy1UQ/qZDBtZUG1GGA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABNntB4Bsk85rvseDV0A8IJ9Y1fjUM9u06k,991350006,138792620)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACLst9YBW3S-RUI-IdBYy_ONRXQKVcAYu-w"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 9,
+                        "year": 2016
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2016
+                    }
+                },
+                "description": "To make a digital library for the students' who are studying in class 10 Nd 10+2 in CBSE, SEBA or ICSE affiliated school. Their digital marksheets will be directly available in that site and also the students can apply if they lost their marksheets or certificates. The whole system is monitored by some Super Admins and some school admins, who can manipulate the data for each student. The students can only view, download and share their documents digitally for applying in some universities in future.",
+                "title": "Digital Locker : Student's Web Space"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Shiladitya",
+                            "lastName": "Bhattacharyya",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABNntB4Bsk85rvseDV0A8IJ9Y1fjUM9u06k",
+                            "occupation": "Data Scientist | Machine Learning | Deep Learning | Data Analytics with Tableau",
+                            "objectUrn": "urn:li:member:325563422",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABNntB4Bsk85rvseDV0A8IJ9Y1fjUM9u06k",
+                            "publicIdentifier": "shiladitya-bhattacharyya",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1623916115079?e=1652400000&v=beta&t=iG95CZoQwqkCNwKntadocUYPYH31-yGM7TSELlU1B3U",
+                                            "expiresAt": 1652400000000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1623916115079?e=1652400000&v=beta&t=ynLBijqc-di6r68fsHACYzY-YSr01c3Ala6SnUBXTKo",
+                                            "expiresAt": 1652400000000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1623916115079?e=1652400000&v=beta&t=VQZGlwIlrQ7Pd7w2CIZpxAaEDiHECLLFqQcWmOk9FFg",
+                                            "expiresAt": 1652400000000,
+                                            "height": 800
+                                        },
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1623916115079?e=1652400000&v=beta&t=D3sADCqtTi4Ge_wFyJxdT7qPmZXgb3JR5W5028HSWoA",
+                                            "expiresAt": 1652400000000,
+                                            "height": 100
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/D4E35AQGuWQ8vx9AHzA/profile-framedphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "a4y8u/JjT2KElaGYQvWnLA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABNntB4Bsk85rvseDV0A8IJ9Y1fjUM9u06k,50683098,0)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABNntB4Bsk85rvseDV0A8IJ9Y1fjUM9u06k"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Priyanku",
+                            "lastName": "Sarmah",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAARA0IEBzVX5zUgkDUPtTVGuxKDTg0wwZGg",
+                            "occupation": "Software Quality Assurance Engineer at Antares Tech",
+                            "objectUrn": "urn:li:member:71356545",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAARA0IEBzVX5zUgkDUPtTVGuxKDTg0wwZGg",
+                            "publicIdentifier": "priyanku-sarmah-369a921b",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1577431970565?e=1657756800&v=beta&t=yEKyDt5W5fxlUuJ3itvHSSgpLnrsCcR9d0mDyMHvUCs",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1577431970565?e=1657756800&v=beta&t=Ert_FryFvytWHCtxgXjFabtsFwd_oZ3wiwM2BYAj7Ag",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1577431970565?e=1657756800&v=beta&t=TUUwA2zfmjahju51K2d2orKxWW-xhsO5r2nP2EVkLFI",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1577431970565?e=1657756800&v=beta&t=bcar0s4BPPfouVoiJ8r0KPcgJB1eExPct5TnhmX-lG8",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5103AQFSj1iU1NSWQQ/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "pVlkpgHFRd+yZaUrzDFsOQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABNntB4Bsk85rvseDV0A8IJ9Y1fjUM9u06k,50683098,0)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAARA0IEBzVX5zUgkDUPtTVGuxKDTg0wwZGg"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 5,
+                        "year": 2016
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2015
+                    }
+                },
+                "description": "Engineering final year project. This project is based on Case Based Reasoning, which can give us weather forecasts. This project is done using the domains : KNN Algorithm, MySQL, PHP, Machine Learning and Artificial Neural Networks.",
+                "title": "Designing A Web Based Real Time Weather Monitoring System and Study of Case Based Reasoning for Weather Prediction"
+            }
+        ]
+    },
+    "contact_info": {
+        "email_address": null,
+        "websites": [],
+        "twitter": [
+            {
+                "name": "Shiladitya_Garg",
+                "credentialId": "urn:li:member:325563422;293581722"
+            }
+        ],
+        "birthdate": null,
+        "ims": null,
+        "phone_numbers": []
+    },
+    "connections": [
+        {
+            "urn_id": "ACoAAC24GToBKzC8vS7jZaCEqoq3Jse_M2Tson8",
+            "distance": "DISTANCE_1",
+            "public_id": "abhijit-paul-936a68194",
+            "tracking_id": "767039802"
+        },
+        {
+            "urn_id": "ACoAAByhqogBLFVDJbqojrVMhtKfC3o3hRfEcjg",
+            "distance": "DISTANCE_1",
+            "public_id": "biki-talukdar-460a54114",
+            "tracking_id": "480357000"
+        },
+        {
+            "urn_id": "ACoAABr4jt0BoOUmisITdRo1gR4CumG5I4jjZIw",
+            "distance": "DISTANCE_1",
+            "public_id": "samudra-deka-911659107",
+            "tracking_id": "452497117"
+        },
+        {
+            "urn_id": "ACoAADZmR9QB1zOH_PmrzQQw2wQmTJRTcNGU7CE",
+            "distance": "DISTANCE_1",
+            "public_id": "bkalita",
+            "tracking_id": "912672724"
+        },
+        {
+            "urn_id": "ACoAADLJzxsBizdB0nN5NZBCM41Q-z6-7ef5gyI",
+            "distance": "DISTANCE_1",
+            "public_id": "deepjyoti-kalita-78b4411b9",
+            "tracking_id": "852086555"
+        },
+        {
+            "urn_id": "ACoAADe3CFYBsoFdtSEajXbg51HDagdpBEb3kx4",
+            "distance": "DISTANCE_1",
+            "public_id": "binud-panging-872062221",
+            "tracking_id": "934742102"
+        },
+        {
+            "urn_id": "ACoAAC2aUPYBGPB-T9xDu2Hjrq7OgzRPu5nTvyE",
+            "distance": "DISTANCE_1",
+            "public_id": "jintudas",
+            "tracking_id": "765087990"
+        },
+        {
+            "urn_id": "ACoAACT67ZEBgw1Aprl8Aqy8zWMavdTyaWs7J3w",
+            "distance": "DISTANCE_1",
+            "public_id": "titikshya-das-015942153",
+            "tracking_id": "620424593"
+        },
+        {
+            "urn_id": "ACoAAAjgx0kBxJoPu_7t3kS1NbDizQekjIIzMbE",
+            "distance": "DISTANCE_1",
+            "public_id": "lakheswar-nath-289a7141",
+            "tracking_id": "148948809"
+        },
+        {
+            "urn_id": "ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE",
+            "distance": "DISTANCE_1",
+            "public_id": "prithoo11335",
+            "tracking_id": "231212168"
+        },
+        {
+            "urn_id": "ACoAACr0GSwBcmPDh22HqivG9h0JwG-eahXSYW8",
+            "distance": "DISTANCE_1",
+            "public_id": "nihar-kashyap98",
+            "tracking_id": "720640300"
+        },
+        {
+            "urn_id": "ACoAACeXhGEBEVCUXmKi5rowUSeFZNerPjvzQsc",
+            "distance": "DISTANCE_1",
+            "public_id": "mahbubul-haque-a55552166",
+            "tracking_id": "664241249"
+        },
+        {
+            "urn_id": "ACoAACzP6KMBcLKqKnFRpIudaukkoW4NoqstgrM",
+            "distance": "DISTANCE_1",
+            "public_id": "pranit-prakash-sahu",
+            "tracking_id": "751823011"
+        },
+        {
+            "urn_id": "ACoAACbTg-gBtT_YqZc-FG2lIVBv13QTx8UUB8E",
+            "distance": "DISTANCE_1",
+            "public_id": "mridul24",
+            "tracking_id": "651396072"
+        },
+        {
+            "urn_id": "ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY",
+            "distance": "DISTANCE_1",
+            "public_id": "tridip-das-b5837911b",
+            "tracking_id": "499568180"
+        },
+        {
+            "urn_id": "ACoAAAI9wXoBijRhLoxf7BO8UTK0DX-7KexJV30",
+            "distance": "DISTANCE_1",
+            "public_id": "boren-ghosh-27671410",
+            "tracking_id": "37601658"
+        },
+        {
+            "urn_id": "ACoAACZxhUQBl1V8kpLj4ACrE2LzpatGvVzEgSA",
+            "distance": "DISTANCE_1",
+            "public_id": "nabajyoti-borah-944000160",
+            "tracking_id": "644973892"
+        },
+        {
+            "urn_id": "ACoAABYq8T8ByHFGBUFRrHT5iKBI2u4YZjTLHFc",
+            "distance": "DISTANCE_1",
+            "public_id": "netranjit-borgohain-53b677a4",
+            "tracking_id": "371913023"
+        },
+        {
+            "urn_id": "ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8",
+            "distance": "DISTANCE_1",
+            "public_id": "sivaranjan-goswami-790b4523",
+            "tracking_id": "83451420"
+        },
+        {
+            "urn_id": "ACoAACTFIIYB1cK_syRcCXEc0o8RTm4JMlhYcHA",
+            "distance": "DISTANCE_1",
+            "public_id": "arun-kumar-nath-686721152",
+            "tracking_id": "616898694"
+        },
+        {
+            "urn_id": "ACoAAC4efLABFBv0f30-SDGDgLSf1gXTlkpJTfc",
+            "distance": "DISTANCE_1",
+            "public_id": "shawan-mandal",
+            "tracking_id": "773749936"
+        },
+        {
+            "urn_id": "ACoAACDVs-sB_IgxPBMHMRBfR6is3jmwwV_OvTE",
+            "distance": "DISTANCE_1",
+            "public_id": "swapnil-bhattacharjee-ghy",
+            "tracking_id": "550876139"
+        },
+        {
+            "urn_id": "ACoAACUEZ3QB2Xm0OWR0cqoc_u-o4KW_OENO1_8",
+            "distance": "DISTANCE_1",
+            "public_id": "rajan-sahu",
+            "tracking_id": "621045620"
+        },
+        {
+            "urn_id": "ACoAAC12ZqEBCx9JN_YIi1eF1FPPDif3mXI3fyc",
+            "distance": "DISTANCE_1",
+            "public_id": "abinash-panigrahi-169531193",
+            "tracking_id": "762734241"
+        },
+        {
+            "urn_id": "ACoAACYmrvgBRdvWxItbY_KP_fyrEgZ9U-QKJqk",
+            "distance": "DISTANCE_1",
+            "public_id": "rtsu",
+            "tracking_id": "640069368"
+        },
+        {
+            "urn_id": "ACoAADRMKTMBj76XTPRfB9R5rvfwNOXP2n93n4c",
+            "distance": "DISTANCE_1",
+            "public_id": "manash-deka-497a12205",
+            "tracking_id": "877406515"
+        },
+        {
+            "urn_id": "ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc",
+            "distance": "DISTANCE_1",
+            "public_id": "ratnadeep-bhattacharjee",
+            "tracking_id": "135079003"
+        },
+        {
+            "urn_id": "ACoAAAR5v8MBjPwCvp8TP9RWZyGSeNYNiJ1wKJE",
+            "distance": "DISTANCE_1",
+            "public_id": "nilotpal-boruah",
+            "tracking_id": "75087811"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Machine Learning"
+        },
+        {
+            "name": "Deep Learning"
+        },
+        {
+            "name": "Data Science"
+        },
+        {
+            "name": "Artificial Intelligence (AI)"
+        },
+        {
+            "name": "Data Visualization"
+        },
+        {
+            "name": "Web Development"
+        },
+        {
+            "name": "Python (Programming Language)"
+        },
+        {
+            "name": "Tableau Desktop"
+        },
+        {
+            "name": "R"
+        },
+        {
+            "name": "SQL"
+        },
+        {
+            "name": "Microsoft Excel"
+        },
+        {
+            "name": "SAP BI"
+        },
+        {
+            "name": "C"
+        },
+        {
+            "name": "C++"
+        },
+        {
+            "name": "Java"
+        },
+        {
+            "name": "JavaScript",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:218",
+            "standardizedSkill": {
+                "name": "JavaScript",
+                "entityUrn": "urn:li:fs_miniSkill:218"
+            }
+        },
+        {
+            "name": "HTML",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:280",
+            "standardizedSkill": {
+                "name": "HTML",
+                "entityUrn": "urn:li:fs_miniSkill:280"
+            }
+        },
+        {
+            "name": "CSS"
+        },
+        {
+            "name": "Microsoft Office"
+        },
+        {
+            "name": "Photoshop"
+        },
+        {
+            "name": "Team Leadership"
+        },
+        {
+            "name": "Creativity Skills"
+        },
+        {
+            "name": "Leadership"
+        },
+        {
+            "name": "Artificial Neural Networks"
+        },
+        {
+            "name": "Data Analytics"
+        },
+        {
+            "name": "SAP HANA"
+        }
+    ]
+}

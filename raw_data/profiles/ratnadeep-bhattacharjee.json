@@ -1,0 +1,3018 @@
+{
+    "profile": {
+        "summary": "Co-founder of TechVariable, an end-to-end product development company catered to tech startups. Successfully delivered MVPs in 2x quicker time. Acquired expertise in building, managing, and subsequently proliferating strong offshore product development teams. Firmly follows the Offshore Delivery model, with a special focus on establishing governance frameworks for effective project management and delivery. \n\nHave set up dedicated product development teams for clients through our services like Product planning (PRD), Interaction Designing & Architecture (UI-UX design), Custom Application Development (Product Engineering), and Deployment.",
+        "industryName": "IT Services and IT Consulting",
+        "lastName": "Bhattacharjee",
+        "address": "Bangalore",
+        "locationName": "India",
+        "student": false,
+        "geoCountryName": "India",
+        "geoCountryUrn": "urn:li:fs_geo:102713980",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "birthDate": {
+            "month": 11,
+            "day": 21
+        },
+        "industryUrn": "urn:li:fs_industry:96",
+        "firstName": "Ratnadeep",
+        "entityUrn": "urn:li:fs_profile:ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:105607401"
+        },
+        "geoLocationName": "Guwahati, Assam",
+        "location": {
+            "basicLocation": {
+                "countryCode": "in"
+            }
+        },
+        "headline": "||Growing TechVariable|| ||Developing tech products globally||",
+        "displayPictureUrl": "https://media-exp1.licdn.com/dms/image/C5603AQE5qQ_gR-fllw/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/0/1516813756287?e=1657756800&v=beta&t=i3QHe-OIUzKLO8WapW_caf5c_M-IaH0ohvWsNCYz8Is",
+        "img_200_200": "200_200/0/1516813756287?e=1657756800&v=beta&t=6VCPuJ2Sf5ppH7Nb-rlVxHVhp9rssyUF_QI1TB58GhY",
+        "img_400_400": "400_400/0/1516813756287?e=1657756800&v=beta&t=lFlyciwGTFXqmPrErItgJ8fqwiFGDm3pH4lvgAd-pl0",
+        "img_800_800": "800_800/0/1516813756287?e=1657756800&v=beta&t=Xk_bumwMQaY7zrD1ZA3JFDgZMp7ytYV7DDQsLIQE6Og",
+        "profile_id": "ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc",
+        "member_urn": "urn:li:member:135079003",
+        "experience": [
+            {
+                "locationName": "Bengaluru Area, India",
+                "entityUrn": "urn:li:fs_position:(ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc,783552593)",
+                "geoLocationName": "Bengaluru Area, India",
+                "geoUrn": "urn:li:fs_geo:90009633",
+                "companyName": "TechVariable",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 11,
+                        "year": 2015
+                    }
+                },
+                "description": "TechVariable is an end-to-end rapid Product Development company for startups who are looking to get their MVPs/Products released in the market faster. Core services include Product planning (PRD), Interaction Designing & Architecture (UI-UX design), Custom Application Development (Product Engineering), and Deployment (DevOps).\n\nWe have a team that has garnered experience over its 5+ years of journey in developing end-to-end products for our clients in multiple domains. We start off the development cycle by working on the scope for an MVP so that a market-fit product can be delivered within the initially assigned budget and timeline. Once the MVP is released in the market and user feedbacks received, our product engineering team makes sure that we deliver the best possible sequences of releases throughout the product lifecycle. Right from seeding to feeding, we make sure that we remain the development partners for our clients and not just another outsourcing vendor.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Co-Founder",
+                "region": "urn:li:fs_region:(in,7127)",
+                "companyUrn": "urn:li:fs_miniCompany:10632640",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQE6IzKHUZQmAA/company-logo_"
+            },
+            {
+                "locationName": "Chennai Area, India",
+                "projects": [
+                    "urn:li:fs_project:(ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc,15)",
+                    "urn:li:fs_project:(ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc,21)"
+                ],
+                "geoUrn": "urn:li:fs_geo:90009647",
+                "companyName": "Valeo",
+                "description": "My responsibilities include:\n- Getting aquainted to the prevailing techology based products and understand their technicality (basically the torque converter components)\n- Major project was the FEA analysis of a rectangular riveted joint used in back plate of a pendulum absorber assembly. First, the riveting process was simulated using the bulk forming FEA software like FORGE and then fatigue analysis was performed on the joint post-riveting. The main aim was to establish a methodology for this kind of analysis so that the effect of residual stresses induced during riveting can be included in the fatigue analysis.\n- Live projects completion from clients - 1) Performing static analysis on a riveted joint for a torque converter (drive plate and hub assembly) to ensure the joint can endure a given number of cycle, 2) Meshing of various parts of torque converter. etc.",
+                "title": "R&D intern",
+                "companyUrn": "urn:li:fs_miniCompany:2669",
+                "entityUrn": "urn:li:fs_position:(ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc,544051070)",
+                "geoLocationName": "Chennai Area, India",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 11,
+                        "year": 2014
+                    },
+                    "startDate": {
+                        "month": 5,
+                        "year": 2014
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Automotive"
+                    ]
+                },
+                "region": "urn:li:fs_region:(in,6891)",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQF8x8kpXJLBkg/company-logo_"
+            },
+            {
+                "locationName": "Digboi, Assam",
+                "entityUrn": "urn:li:fs_position:(ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc,647851413)",
+                "geoLocationName": "Digboi, Assam",
+                "companyName": "Indian Oil Corporation Limited",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 7,
+                        "year": 2010
+                    },
+                    "startDate": {
+                        "month": 6,
+                        "year": 2010
+                    }
+                },
+                "description": "I pursued my industrial training after the 6th Semester of my Bachelor of Engineering course from Indian Oil Corporation Limited, Digboi, Assam. I learned different types of fabrication processes and have undergone a brief study on IC Engines of different types and of different capacity. The training gave me an insight as to how a power plant works and how power is generated with the help of gas turbines and other sources. I also got to know how wax manufacturing is done. But the main emphasis during this period was to gather knowledge about how the various mechanical components present there function and the troubleshooting that occurs during their breakdown.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Oil & Energy"
+                    ]
+                },
+                "title": "Summer Trainee",
+                "companyUrn": "urn:li:fs_miniCompany:7538",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQFgJoIYitO8xQ/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "projects": [
+                    "urn:li:fs_project:(ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc,9)",
+                    "urn:li:fs_project:(ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc,46)",
+                    "urn:li:fs_project:(ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc,52)"
+                ],
+                "entityUrn": "urn:li:fs_education:(ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc,210006711)",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2015
+                    },
+                    "startDate": {
+                        "year": 2013
+                    }
+                },
+                "degreeName": "Master of Technology (M.Tech.)",
+                "schoolName": "NIT Warangal",
+                "fieldOfStudy": "Automobile Engineering"
+            },
+            {
+                "projects": [
+                    "urn:li:fs_project:(ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc,29)",
+                    "urn:li:fs_project:(ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc,36)",
+                    "urn:li:fs_project:(ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc,41)"
+                ],
+                "entityUrn": "urn:li:fs_education:(ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc,78558234)",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2012
+                    },
+                    "startDate": {
+                        "year": 2008
+                    }
+                },
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100360",
+                "degreeName": "Bachelor of Engineering (BE)",
+                "schoolName": "Girijananda Chowdhury Institute of Management & Technology",
+                "fieldOfStudy": "Mechanical Engineering",
+                "degreeUrn": "urn:li:fs_degree:269"
+            }
+        ],
+        "languages": [
+            {
+                "name": "Assamese",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "Bengali",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "English",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "Hindi",
+                "proficiency": "FULL_PROFESSIONAL"
+            }
+        ],
+        "publications": [
+            {
+                "date": {
+                    "month": 4,
+                    "year": 2015
+                },
+                "name": "Design Optmisation of a riveted joint used in back plate of a pendulum absorber assembly",
+                "publisher": "STM journals- Recent Trends in Mechanical Engineering-",
+                "description": "Riveted joints are widely used for fastening sheet metal components. Cylindrical rivets are generally preferred but due to space constraints in some cases, other geometries are being explored. In this work, a practical case of a rectangular riveted assembly for back plate of pendulum absorber assembly commonly used in modern vehicles for damping secondary vibrations is considered and an iterative simulation study for design optimization has been conducted using finite element based software FORGE for the riveting process. Efficacy of riveted joints is analyzed in terms of Von-Mises stresses, tonnage and contact pressure. Out of the many design parameters, only prominent parameters like variation of fillet radius in the plate hole and rivet and the distance between the hole and the side of the plate were concentrated upon. An attempt is made to change the values of these design parameters to arrive at an optimum design criterion for the riveted joint so that the stress induced is minimized to a value that can be considered to be within permissible limits. It is found out by iterative simulation studies that the maximum stress induced got reduced by 23.2% with a square rivet as compared to a rectangular rivet.",
+                "url": "http://stmjournals.com/index.php?journal=TMET&page=article&op=view&path%5B%5D=5520",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Ratnadeep",
+                            "lastName": "Bhattacharjee",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc",
+                            "occupation": "||Growing TechVariable|| ||Developing tech products globally||",
+                            "objectUrn": "urn:li:member:135079003",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1612526341047?e=1657756800&v=beta&t=4DLCF3-MK_as9shxCFce5PhA7Hzq9_LLxJ8g3CdrqME",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1612526341047?e=1657756800&v=beta&t=RVkeSm2M2fsWIEL1wmY3uNymitk44kh_m2tGPL9CyDc",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D16AQEtxhiwlor5qg/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "ratnadeep-bhattacharjee",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1516813756287?e=1657756800&v=beta&t=i3QHe-OIUzKLO8WapW_caf5c_M-IaH0ohvWsNCYz8Is",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1516813756287?e=1657756800&v=beta&t=6VCPuJ2Sf5ppH7Nb-rlVxHVhp9rssyUF_QI1TB58GhY",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1516813756287?e=1657756800&v=beta&t=lFlyciwGTFXqmPrErItgJ8fqwiFGDm3pH4lvgAd-pl0",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1516813756287?e=1657756800&v=beta&t=Xk_bumwMQaY7zrD1ZA3JFDgZMp7ytYV7DDQsLIQE6Og",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5603AQE5qQ_gR-fllw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "+DL8g6vuS8iXJtUpfnnYdQ=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc"
+                    }
+                ]
+            }
+        ],
+        "certifications": [
+            {
+                "authority": "DataCamp",
+                "name": "Intro to Python for Data Science Course",
+                "licenseNumber": "5525850",
+                "company": {
+                    "objectUrn": "urn:li:company:3227175",
+                    "entityUrn": "urn:li:fs_miniCompany:3227175",
+                    "name": "DataCamp",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1603188329234?e=1660176000&v=beta&t=SJDv0CTVtNXro32gdBfowNiCeL_ijz1MpbbyyswmjmM",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1603188329234?e=1660176000&v=beta&t=-4uVcSnfJsGHvhyQqsSlgaBEQrJOU3nWkwNx1OKjnVk",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1603188329234?e=1660176000&v=beta&t=Z2ZtBskeCGyKob0VFbLct67PunCo_M5bEXrCPZPd4EE",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQHoE9F6A76mOQ/company-logo_"
+                        }
+                    },
+                    "universalName": "datacampinc",
+                    "dashCompanyUrn": "urn:li:fsd_company:3227175",
+                    "trackingId": "zp7exL4WRyOYQmCpO69JsQ=="
+                },
+                "displaySource": "datacamp.com",
+                "companyUrn": "urn:li:fs_miniCompany:3227175",
+                "url": "https://www.datacamp.com/statement-of-accomplishment/course/2584cc6e71b66aec0cc975a89bdd8ad30546765f"
+            },
+            {
+                "authority": "DataCamp",
+                "name": "Intermediate Python for Data Science Course",
+                "licenseNumber": "5,559,870",
+                "company": {
+                    "objectUrn": "urn:li:company:3227175",
+                    "entityUrn": "urn:li:fs_miniCompany:3227175",
+                    "name": "DataCamp",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1603188329234?e=1660176000&v=beta&t=SJDv0CTVtNXro32gdBfowNiCeL_ijz1MpbbyyswmjmM",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1603188329234?e=1660176000&v=beta&t=-4uVcSnfJsGHvhyQqsSlgaBEQrJOU3nWkwNx1OKjnVk",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1603188329234?e=1660176000&v=beta&t=Z2ZtBskeCGyKob0VFbLct67PunCo_M5bEXrCPZPd4EE",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQHoE9F6A76mOQ/company-logo_"
+                        }
+                    },
+                    "universalName": "datacampinc",
+                    "dashCompanyUrn": "urn:li:fsd_company:3227175",
+                    "trackingId": "Dxd/57TmQS2wkmvIOEtcfQ=="
+                },
+                "displaySource": "datacamp.com",
+                "companyUrn": "urn:li:fs_miniCompany:3227175",
+                "url": "https://www.datacamp.com/statement-of-accomplishment/course/5a29a4768f4dfc81bc1535e6775192a796e67a8f"
+            },
+            {
+                "authority": "DataCamp",
+                "name": "Python Data Science Toolbox (Part 1) Course",
+                "licenseNumber": "5,648,839",
+                "company": {
+                    "objectUrn": "urn:li:company:3227175",
+                    "entityUrn": "urn:li:fs_miniCompany:3227175",
+                    "name": "DataCamp",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1603188329234?e=1660176000&v=beta&t=SJDv0CTVtNXro32gdBfowNiCeL_ijz1MpbbyyswmjmM",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1603188329234?e=1660176000&v=beta&t=-4uVcSnfJsGHvhyQqsSlgaBEQrJOU3nWkwNx1OKjnVk",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1603188329234?e=1660176000&v=beta&t=Z2ZtBskeCGyKob0VFbLct67PunCo_M5bEXrCPZPd4EE",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQHoE9F6A76mOQ/company-logo_"
+                        }
+                    },
+                    "universalName": "datacampinc",
+                    "dashCompanyUrn": "urn:li:fsd_company:3227175",
+                    "trackingId": "5KfwyqRaQ8mItuSC6naqPw=="
+                },
+                "displaySource": "datacamp.com",
+                "companyUrn": "urn:li:fs_miniCompany:3227175",
+                "url": "https://www.datacamp.com/statement-of-accomplishment/course/3649fd691cc0d30a0085934870d14e2dfc123089"
+            },
+            {
+                "authority": "DataCamp",
+                "name": "Python Data Science Toolbox (Part 2) Course",
+                "licenseNumber": "5,680,425",
+                "company": {
+                    "objectUrn": "urn:li:company:3227175",
+                    "entityUrn": "urn:li:fs_miniCompany:3227175",
+                    "name": "DataCamp",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1603188329234?e=1660176000&v=beta&t=SJDv0CTVtNXro32gdBfowNiCeL_ijz1MpbbyyswmjmM",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1603188329234?e=1660176000&v=beta&t=-4uVcSnfJsGHvhyQqsSlgaBEQrJOU3nWkwNx1OKjnVk",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1603188329234?e=1660176000&v=beta&t=Z2ZtBskeCGyKob0VFbLct67PunCo_M5bEXrCPZPd4EE",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQHoE9F6A76mOQ/company-logo_"
+                        }
+                    },
+                    "universalName": "datacampinc",
+                    "dashCompanyUrn": "urn:li:fsd_company:3227175",
+                    "trackingId": "lmC1lRD3S/CpEvoHZW7xSw=="
+                },
+                "displaySource": "datacamp.com",
+                "companyUrn": "urn:li:fs_miniCompany:3227175",
+                "url": "https://www.datacamp.com/statement-of-accomplishment/course/87761f4a57e697ad3dd7081237de278d32c16ad7"
+            },
+            {
+                "authority": "Udemy",
+                "name": "Natural Language Processing (NLP) with Python NLTK",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 4,
+                        "year": 2018
+                    }
+                },
+                "licenseNumber": "UC-N1NJP176",
+                "company": {
+                    "objectUrn": "urn:li:company:822535",
+                    "entityUrn": "urn:li:fs_miniCompany:822535",
+                    "name": "Udemy",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1626275253364?e=1660176000&v=beta&t=hNmtDdN4pnwTuJsDQsvaI2SOIkRq2BCrfWF7YKlNaM4",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1626275253364?e=1660176000&v=beta&t=bZ9FL43L79ghc74x71A2lY51dAogHCVQKWAZH1-YcuM",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1626275253364?e=1660176000&v=beta&t=7EyDsPVIShmG1t96OAsrJK6AWUi0vObIpIVqPL4hc6E",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQFQr9e68bBOPQ/company-logo_"
+                        }
+                    },
+                    "universalName": "udemy",
+                    "dashCompanyUrn": "urn:li:fsd_company:822535",
+                    "trackingId": "9feVlHj9Rluaih+GBd4VGA=="
+                },
+                "displaySource": "ude.my",
+                "companyUrn": "urn:li:fs_miniCompany:822535",
+                "url": "http://ude.my/UC-N1NJP176"
+            },
+            {
+                "authority": "Udemy",
+                "name": "Health IT Basics",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 5,
+                        "year": 2018
+                    }
+                },
+                "licenseNumber": "UC-0QV2QJWN",
+                "company": {
+                    "objectUrn": "urn:li:company:822535",
+                    "entityUrn": "urn:li:fs_miniCompany:822535",
+                    "name": "Udemy",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1626275253364?e=1660176000&v=beta&t=hNmtDdN4pnwTuJsDQsvaI2SOIkRq2BCrfWF7YKlNaM4",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1626275253364?e=1660176000&v=beta&t=bZ9FL43L79ghc74x71A2lY51dAogHCVQKWAZH1-YcuM",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1626275253364?e=1660176000&v=beta&t=7EyDsPVIShmG1t96OAsrJK6AWUi0vObIpIVqPL4hc6E",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQFQr9e68bBOPQ/company-logo_"
+                        }
+                    },
+                    "universalName": "udemy",
+                    "dashCompanyUrn": "urn:li:fsd_company:822535",
+                    "trackingId": "DwmC0lsGR8WVkILBitUGEw=="
+                },
+                "displaySource": "ude.my",
+                "companyUrn": "urn:li:fs_miniCompany:822535",
+                "url": "http://ude.my/UC-0QV2QJWN"
+            },
+            {
+                "authority": "Udemy",
+                "name": "Better Requirement Gathering Skills: Software Development",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 6,
+                        "year": 2019
+                    }
+                },
+                "licenseNumber": "UC-HU58OYOX",
+                "company": {
+                    "objectUrn": "urn:li:company:822535",
+                    "entityUrn": "urn:li:fs_miniCompany:822535",
+                    "name": "Udemy",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1626275253364?e=1660176000&v=beta&t=hNmtDdN4pnwTuJsDQsvaI2SOIkRq2BCrfWF7YKlNaM4",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1626275253364?e=1660176000&v=beta&t=bZ9FL43L79ghc74x71A2lY51dAogHCVQKWAZH1-YcuM",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1626275253364?e=1660176000&v=beta&t=7EyDsPVIShmG1t96OAsrJK6AWUi0vObIpIVqPL4hc6E",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQFQr9e68bBOPQ/company-logo_"
+                        }
+                    },
+                    "universalName": "udemy",
+                    "dashCompanyUrn": "urn:li:fsd_company:822535",
+                    "trackingId": "QCgqJLHZTuKOC8o+J6KyQw=="
+                },
+                "displaySource": "ude.my",
+                "companyUrn": "urn:li:fs_miniCompany:822535",
+                "url": "http://ude.my/UC-HU58OYOX"
+            },
+            {
+                "authority": "LinkedIn",
+                "name": "Project Management: Technical Projects",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 3,
+                        "year": 2020
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:1337",
+                    "entityUrn": "urn:li:fs_miniCompany:1337",
+                    "name": "LinkedIn",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1638831589865?e=1660176000&v=beta&t=BLQftLy0Qs0EBVJIuWPMuAUeYUwk2NFkGV64ugXQRGo",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1638831589865?e=1660176000&v=beta&t=x5azEgZkHPR5MQHKe-JAU7OCpzuevGQIN2iQzEXm7FA",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1638831589865?e=1660176000&v=beta&t=4ByckqnOSGF1jY0ieSfxachmGJ0dfUy8ErhiMjGS9p8",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_"
+                        }
+                    },
+                    "universalName": "linkedin",
+                    "dashCompanyUrn": "urn:li:fsd_company:1337",
+                    "trackingId": "jJ2p93DzQAOJBcmnxSTtIA=="
+                },
+                "displaySource": "linkedin.com",
+                "companyUrn": "urn:li:fs_miniCompany:1337",
+                "url": "http://www.linkedin.com/learning/project-management-technical-projects"
+            },
+            {
+                "authority": "LinkedIn",
+                "name": "Project Management: Preventing Scope Creep",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 3,
+                        "year": 2020
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:1337",
+                    "entityUrn": "urn:li:fs_miniCompany:1337",
+                    "name": "LinkedIn",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1638831589865?e=1660176000&v=beta&t=BLQftLy0Qs0EBVJIuWPMuAUeYUwk2NFkGV64ugXQRGo",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1638831589865?e=1660176000&v=beta&t=x5azEgZkHPR5MQHKe-JAU7OCpzuevGQIN2iQzEXm7FA",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1638831589865?e=1660176000&v=beta&t=4ByckqnOSGF1jY0ieSfxachmGJ0dfUy8ErhiMjGS9p8",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_"
+                        }
+                    },
+                    "universalName": "linkedin",
+                    "dashCompanyUrn": "urn:li:fsd_company:1337",
+                    "trackingId": "C9sCC7XER5mgQmaPgFOR/A=="
+                },
+                "displaySource": "linkedin.com",
+                "companyUrn": "urn:li:fs_miniCompany:1337",
+                "url": "http://www.linkedin.com/learning/project-management-preventing-scope-creep-2"
+            }
+        ],
+        "volunteer": [],
+        "honors": [],
+        "projects": [
+            {
+                "occupation": "urn:li:fs_education:(ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc,210006711)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Ratnadeep",
+                            "lastName": "Bhattacharjee",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc",
+                            "occupation": "||Growing TechVariable|| ||Developing tech products globally||",
+                            "objectUrn": "urn:li:member:135079003",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1612526341047?e=1657756800&v=beta&t=4DLCF3-MK_as9shxCFce5PhA7Hzq9_LLxJ8g3CdrqME",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1612526341047?e=1657756800&v=beta&t=RVkeSm2M2fsWIEL1wmY3uNymitk44kh_m2tGPL9CyDc",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D16AQEtxhiwlor5qg/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "ratnadeep-bhattacharjee",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1516813756287?e=1657756800&v=beta&t=i3QHe-OIUzKLO8WapW_caf5c_M-IaH0ohvWsNCYz8Is",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1516813756287?e=1657756800&v=beta&t=6VCPuJ2Sf5ppH7Nb-rlVxHVhp9rssyUF_QI1TB58GhY",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1516813756287?e=1657756800&v=beta&t=lFlyciwGTFXqmPrErItgJ8fqwiFGDm3pH4lvgAd-pl0",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1516813756287?e=1657756800&v=beta&t=Xk_bumwMQaY7zrD1ZA3JFDgZMp7ytYV7DDQsLIQE6Og",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5603AQE5qQ_gR-fllw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "+DL8g6vuS8iXJtUpfnnYdQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc,46,47)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Manash",
+                            "lastName": "Konwar",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAt_V_oBwocRSOf_CdcvVc3PCpFKNSLxa_4",
+                            "occupation": "Artificial Intelligence Assoc Principal at Accenture AI (Senior Data Scientist at BAT) #DeepLearning #Natural Language Processing #Researcher",
+                            "objectUrn": "urn:li:member:192894970",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAt_V_oBwocRSOf_CdcvVc3PCpFKNSLxa_4",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1549624632328?e=1657756800&v=beta&t=lGtM5EAe1R_Nnri58UZIQyVAhwYTi35jiq-K2JYoyMs",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1549624632328?e=1657756800&v=beta&t=oWrYSCdBD-I8bxuGRyT5-YbE5YhMkPkqJl5Kp5wnaiU",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5116AQHCJukzGYuXMQ/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "manashjkonwar",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1608867077030?e=1657756800&v=beta&t=gpyczeQpapdPsJ7M7zZHmDZ3ZHqkbKmDj4fHuhkH9RU",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1608867077030?e=1657756800&v=beta&t=0D6HrGBPiZ4cSX_G5RvIZ-4xKwwqJGXF0hpgo8-vEzs",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1608867077030?e=1657756800&v=beta&t=3Cz7iK4DuYVlg4BOYc7XxZJOLlQtfg85fE6Hs28zrrs",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1608867077030?e=1657756800&v=beta&t=7U9SBT46xMvavbSQFVQrZ6ytCzgp7fnYWVagFXqFZzg",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQFp_FDwK32e9A/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "sic4cf3BT9SSJhTCK3NyJQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc,46,48)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAt_V_oBwocRSOf_CdcvVc3PCpFKNSLxa_4"
+                    },
+                    {
+                        "member": {
+                            "firstName": "KETAN",
+                            "lastName": "BAKSHI",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAArMY18BG_h7IsT4stWotthnlK-ss3yK6Z4",
+                            "occupation": "Senior Engineer at Daimler Truck Innovation Centre India",
+                            "objectUrn": "urn:li:member:181166943",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAArMY18BG_h7IsT4stWotthnlK-ss3yK6Z4",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1551498666521?e=1657756800&v=beta&t=XekGgP_Io0OhZHpavQ0Om5_IzA-y9XYIKvgW6ae82rg",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1551498666521?e=1657756800&v=beta&t=kPBa7QUumbQcAT5yF5HhDn9golT_WfFVyQ_13toF94k",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5116AQEKKyF-ROvLiQ/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "ketan-bakshi-b9380950",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1608089889034?e=1657756800&v=beta&t=pb9xKXuT2L2SeSykpfphdXgQ1QeH99ajOJc_fSy6TkU",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1608089889034?e=1657756800&v=beta&t=juvQ_iKGvXKun_alLje2ynNwDz-6dO2fhiYeYlWQo8M",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1608089889034?e=1657756800&v=beta&t=RXQ5J9hx1F9cW2bevssVW32pwjoWFIlWwgF_yCuU_Q4",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1608089889034?e=1657756800&v=beta&t=Szk8vLDHdAHiuthR_0qdaKHrka5WEWCPK8UaON-U7D0",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E03AQGufVSz6hYUog/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "47s9BzRDS0WJuPPohCGteA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc,46,49)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAArMY18BG_h7IsT4stWotthnlK-ss3yK6Z4"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Paul Manohar",
+                            "lastName": "Golla",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABDNdtEBnxFeMbVJjqRLs1mxrmB-2f0DeA4",
+                            "occupation": "Manager at RINL (Visakhapatnam Steel Plant)",
+                            "objectUrn": "urn:li:member:281900753",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABDNdtEBnxFeMbVJjqRLs1mxrmB-2f0DeA4",
+                            "publicIdentifier": "paulmanohargolla",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1635215754037?e=1657756800&v=beta&t=376sJ7LurW-zIHhdYcXA5RGVhaaIzpMciAV76CgJLGU",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1635215754037?e=1657756800&v=beta&t=7FXfPq17bf0i-RI8S9hQDh3d1qzTvNSP_nbeuVNyjRA",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1635215754037?e=1657756800&v=beta&t=oyuEdI5mdp9djNTLSQ1ssKu9JVPbl_EXB8cgxVBJAQg",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1635215754037?e=1657756800&v=beta&t=N3W8dr51QHBMKZ5ihfS-iKiuL4scvKqZkBYTsPr9tzM",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5603AQGMjlIRDi4Rng/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "joh5oMa9R5OK69GOdr4Xzw=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc,46,50)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABDNdtEBnxFeMbVJjqRLs1mxrmB-2f0DeA4"
+                    },
+                    {
+                        "name": "amar penta",
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc,46,51)"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 7,
+                        "year": 2013
+                    },
+                    "startDate": {
+                        "month": 7,
+                        "year": 2013
+                    }
+                },
+                "description": "Thermal analysis of a double acting single cylinder engine using ethanol and petrol as fuel . ",
+                "title": "Double Acting Single Cylinder I.C Engine"
+            },
+            {
+                "occupation": "urn:li:fs_position:(ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc,544051070)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Ratnadeep",
+                            "lastName": "Bhattacharjee",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc",
+                            "occupation": "||Growing TechVariable|| ||Developing tech products globally||",
+                            "objectUrn": "urn:li:member:135079003",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1612526341047?e=1657756800&v=beta&t=4DLCF3-MK_as9shxCFce5PhA7Hzq9_LLxJ8g3CdrqME",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1612526341047?e=1657756800&v=beta&t=RVkeSm2M2fsWIEL1wmY3uNymitk44kh_m2tGPL9CyDc",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D16AQEtxhiwlor5qg/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "ratnadeep-bhattacharjee",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1516813756287?e=1657756800&v=beta&t=i3QHe-OIUzKLO8WapW_caf5c_M-IaH0ohvWsNCYz8Is",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1516813756287?e=1657756800&v=beta&t=6VCPuJ2Sf5ppH7Nb-rlVxHVhp9rssyUF_QI1TB58GhY",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1516813756287?e=1657756800&v=beta&t=lFlyciwGTFXqmPrErItgJ8fqwiFGDm3pH4lvgAd-pl0",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1516813756287?e=1657756800&v=beta&t=Xk_bumwMQaY7zrD1ZA3JFDgZMp7ytYV7DDQsLIQE6Og",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5603AQE5qQ_gR-fllw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "+DL8g6vuS8iXJtUpfnnYdQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc,15,16)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Manash",
+                            "lastName": "Konwar",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAt_V_oBwocRSOf_CdcvVc3PCpFKNSLxa_4",
+                            "occupation": "Artificial Intelligence Assoc Principal at Accenture AI (Senior Data Scientist at BAT) #DeepLearning #Natural Language Processing #Researcher",
+                            "objectUrn": "urn:li:member:192894970",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAt_V_oBwocRSOf_CdcvVc3PCpFKNSLxa_4",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1549624632328?e=1657756800&v=beta&t=lGtM5EAe1R_Nnri58UZIQyVAhwYTi35jiq-K2JYoyMs",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1549624632328?e=1657756800&v=beta&t=oWrYSCdBD-I8bxuGRyT5-YbE5YhMkPkqJl5Kp5wnaiU",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5116AQHCJukzGYuXMQ/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "manashjkonwar",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1608867077030?e=1657756800&v=beta&t=gpyczeQpapdPsJ7M7zZHmDZ3ZHqkbKmDj4fHuhkH9RU",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1608867077030?e=1657756800&v=beta&t=0D6HrGBPiZ4cSX_G5RvIZ-4xKwwqJGXF0hpgo8-vEzs",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1608867077030?e=1657756800&v=beta&t=3Cz7iK4DuYVlg4BOYc7XxZJOLlQtfg85fE6Hs28zrrs",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1608867077030?e=1657756800&v=beta&t=7U9SBT46xMvavbSQFVQrZ6ytCzgp7fnYWVagFXqFZzg",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQFp_FDwK32e9A/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "sic4cf3BT9SSJhTCK3NyJQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc,15,17)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAt_V_oBwocRSOf_CdcvVc3PCpFKNSLxa_4"
+                    },
+                    {
+                        "member": {
+                            "firstName": "KETAN",
+                            "lastName": "BAKSHI",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAArMY18BG_h7IsT4stWotthnlK-ss3yK6Z4",
+                            "occupation": "Senior Engineer at Daimler Truck Innovation Centre India",
+                            "objectUrn": "urn:li:member:181166943",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAArMY18BG_h7IsT4stWotthnlK-ss3yK6Z4",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1551498666521?e=1657756800&v=beta&t=XekGgP_Io0OhZHpavQ0Om5_IzA-y9XYIKvgW6ae82rg",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1551498666521?e=1657756800&v=beta&t=kPBa7QUumbQcAT5yF5HhDn9golT_WfFVyQ_13toF94k",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5116AQEKKyF-ROvLiQ/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "ketan-bakshi-b9380950",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1608089889034?e=1657756800&v=beta&t=pb9xKXuT2L2SeSykpfphdXgQ1QeH99ajOJc_fSy6TkU",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1608089889034?e=1657756800&v=beta&t=juvQ_iKGvXKun_alLje2ynNwDz-6dO2fhiYeYlWQo8M",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1608089889034?e=1657756800&v=beta&t=RXQ5J9hx1F9cW2bevssVW32pwjoWFIlWwgF_yCuU_Q4",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1608089889034?e=1657756800&v=beta&t=Szk8vLDHdAHiuthR_0qdaKHrka5WEWCPK8UaON-U7D0",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E03AQGufVSz6hYUog/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "47s9BzRDS0WJuPPohCGteA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc,15,18)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAArMY18BG_h7IsT4stWotthnlK-ss3yK6Z4"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Paul Manohar",
+                            "lastName": "Golla",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABDNdtEBnxFeMbVJjqRLs1mxrmB-2f0DeA4",
+                            "occupation": "Manager at RINL (Visakhapatnam Steel Plant)",
+                            "objectUrn": "urn:li:member:281900753",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABDNdtEBnxFeMbVJjqRLs1mxrmB-2f0DeA4",
+                            "publicIdentifier": "paulmanohargolla",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1635215754037?e=1657756800&v=beta&t=376sJ7LurW-zIHhdYcXA5RGVhaaIzpMciAV76CgJLGU",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1635215754037?e=1657756800&v=beta&t=7FXfPq17bf0i-RI8S9hQDh3d1qzTvNSP_nbeuVNyjRA",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1635215754037?e=1657756800&v=beta&t=oyuEdI5mdp9djNTLSQ1ssKu9JVPbl_EXB8cgxVBJAQg",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1635215754037?e=1657756800&v=beta&t=N3W8dr51QHBMKZ5ihfS-iKiuL4scvKqZkBYTsPr9tzM",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5603AQGMjlIRDi4Rng/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "joh5oMa9R5OK69GOdr4Xzw=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc,15,19)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABDNdtEBnxFeMbVJjqRLs1mxrmB-2f0DeA4"
+                    },
+                    {
+                        "name": "amar penta",
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc,15,20)"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 7,
+                        "year": 2013
+                    },
+                    "startDate": {
+                        "month": 7,
+                        "year": 2013
+                    }
+                },
+                "description": "Thermal analysis of a double acting single cylinder engine using ethanol and petrol as fuel . ",
+                "title": "Double Acting Single Cylinder I.C Engine"
+            },
+            {
+                "occupation": "urn:li:fs_education:(ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc,210006711)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Ratnadeep",
+                            "lastName": "Bhattacharjee",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc",
+                            "occupation": "||Growing TechVariable|| ||Developing tech products globally||",
+                            "objectUrn": "urn:li:member:135079003",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1612526341047?e=1657756800&v=beta&t=4DLCF3-MK_as9shxCFce5PhA7Hzq9_LLxJ8g3CdrqME",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1612526341047?e=1657756800&v=beta&t=RVkeSm2M2fsWIEL1wmY3uNymitk44kh_m2tGPL9CyDc",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D16AQEtxhiwlor5qg/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "ratnadeep-bhattacharjee",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1516813756287?e=1657756800&v=beta&t=i3QHe-OIUzKLO8WapW_caf5c_M-IaH0ohvWsNCYz8Is",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1516813756287?e=1657756800&v=beta&t=6VCPuJ2Sf5ppH7Nb-rlVxHVhp9rssyUF_QI1TB58GhY",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1516813756287?e=1657756800&v=beta&t=lFlyciwGTFXqmPrErItgJ8fqwiFGDm3pH4lvgAd-pl0",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1516813756287?e=1657756800&v=beta&t=Xk_bumwMQaY7zrD1ZA3JFDgZMp7ytYV7DDQsLIQE6Og",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5603AQE5qQ_gR-fllw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "+DL8g6vuS8iXJtUpfnnYdQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc,9,10)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc"
+                    },
+                    {
+                        "member": {
+                            "firstName": "KETAN",
+                            "lastName": "BAKSHI",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAArMY18BG_h7IsT4stWotthnlK-ss3yK6Z4",
+                            "occupation": "Senior Engineer at Daimler Truck Innovation Centre India",
+                            "objectUrn": "urn:li:member:181166943",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAArMY18BG_h7IsT4stWotthnlK-ss3yK6Z4",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1551498666521?e=1657756800&v=beta&t=XekGgP_Io0OhZHpavQ0Om5_IzA-y9XYIKvgW6ae82rg",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1551498666521?e=1657756800&v=beta&t=kPBa7QUumbQcAT5yF5HhDn9golT_WfFVyQ_13toF94k",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5116AQEKKyF-ROvLiQ/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "ketan-bakshi-b9380950",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1608089889034?e=1657756800&v=beta&t=pb9xKXuT2L2SeSykpfphdXgQ1QeH99ajOJc_fSy6TkU",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1608089889034?e=1657756800&v=beta&t=juvQ_iKGvXKun_alLje2ynNwDz-6dO2fhiYeYlWQo8M",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1608089889034?e=1657756800&v=beta&t=RXQ5J9hx1F9cW2bevssVW32pwjoWFIlWwgF_yCuU_Q4",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1608089889034?e=1657756800&v=beta&t=Szk8vLDHdAHiuthR_0qdaKHrka5WEWCPK8UaON-U7D0",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E03AQGufVSz6hYUog/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "47s9BzRDS0WJuPPohCGteA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc,9,11)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAArMY18BG_h7IsT4stWotthnlK-ss3yK6Z4"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Paul Manohar",
+                            "lastName": "Golla",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABDNdtEBnxFeMbVJjqRLs1mxrmB-2f0DeA4",
+                            "occupation": "Manager at RINL (Visakhapatnam Steel Plant)",
+                            "objectUrn": "urn:li:member:281900753",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABDNdtEBnxFeMbVJjqRLs1mxrmB-2f0DeA4",
+                            "publicIdentifier": "paulmanohargolla",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1635215754037?e=1657756800&v=beta&t=376sJ7LurW-zIHhdYcXA5RGVhaaIzpMciAV76CgJLGU",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1635215754037?e=1657756800&v=beta&t=7FXfPq17bf0i-RI8S9hQDh3d1qzTvNSP_nbeuVNyjRA",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1635215754037?e=1657756800&v=beta&t=oyuEdI5mdp9djNTLSQ1ssKu9JVPbl_EXB8cgxVBJAQg",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1635215754037?e=1657756800&v=beta&t=N3W8dr51QHBMKZ5ihfS-iKiuL4scvKqZkBYTsPr9tzM",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5603AQGMjlIRDi4Rng/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "joh5oMa9R5OK69GOdr4Xzw=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc,9,12)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABDNdtEBnxFeMbVJjqRLs1mxrmB-2f0DeA4"
+                    },
+                    {
+                        "name": "amar penta",
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc,9,13)"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Manash",
+                            "lastName": "Konwar",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAt_V_oBwocRSOf_CdcvVc3PCpFKNSLxa_4",
+                            "occupation": "Artificial Intelligence Assoc Principal at Accenture AI (Senior Data Scientist at BAT) #DeepLearning #Natural Language Processing #Researcher",
+                            "objectUrn": "urn:li:member:192894970",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAt_V_oBwocRSOf_CdcvVc3PCpFKNSLxa_4",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1549624632328?e=1657756800&v=beta&t=lGtM5EAe1R_Nnri58UZIQyVAhwYTi35jiq-K2JYoyMs",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1549624632328?e=1657756800&v=beta&t=oWrYSCdBD-I8bxuGRyT5-YbE5YhMkPkqJl5Kp5wnaiU",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5116AQHCJukzGYuXMQ/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "manashjkonwar",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1608867077030?e=1657756800&v=beta&t=gpyczeQpapdPsJ7M7zZHmDZ3ZHqkbKmDj4fHuhkH9RU",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1608867077030?e=1657756800&v=beta&t=0D6HrGBPiZ4cSX_G5RvIZ-4xKwwqJGXF0hpgo8-vEzs",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1608867077030?e=1657756800&v=beta&t=3Cz7iK4DuYVlg4BOYc7XxZJOLlQtfg85fE6Hs28zrrs",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1608867077030?e=1657756800&v=beta&t=7U9SBT46xMvavbSQFVQrZ6ytCzgp7fnYWVagFXqFZzg",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQFp_FDwK32e9A/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "sic4cf3BT9SSJhTCK3NyJQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc,9,14)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAt_V_oBwocRSOf_CdcvVc3PCpFKNSLxa_4"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 7,
+                        "year": 2013
+                    },
+                    "startDate": {
+                        "month": 7,
+                        "year": 2013
+                    }
+                },
+                "description": "Thermal analysis of a double acting single cylinder engine using ethanol and petrol as fuel . ",
+                "title": "Double Acting Single Cylinder I.C Engine"
+            },
+            {
+                "occupation": "urn:li:fs_education:(ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc,210006711)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Ratnadeep",
+                            "lastName": "Bhattacharjee",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc",
+                            "occupation": "||Growing TechVariable|| ||Developing tech products globally||",
+                            "objectUrn": "urn:li:member:135079003",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1612526341047?e=1657756800&v=beta&t=4DLCF3-MK_as9shxCFce5PhA7Hzq9_LLxJ8g3CdrqME",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1612526341047?e=1657756800&v=beta&t=RVkeSm2M2fsWIEL1wmY3uNymitk44kh_m2tGPL9CyDc",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D16AQEtxhiwlor5qg/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "ratnadeep-bhattacharjee",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1516813756287?e=1657756800&v=beta&t=i3QHe-OIUzKLO8WapW_caf5c_M-IaH0ohvWsNCYz8Is",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1516813756287?e=1657756800&v=beta&t=6VCPuJ2Sf5ppH7Nb-rlVxHVhp9rssyUF_QI1TB58GhY",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1516813756287?e=1657756800&v=beta&t=lFlyciwGTFXqmPrErItgJ8fqwiFGDm3pH4lvgAd-pl0",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1516813756287?e=1657756800&v=beta&t=Xk_bumwMQaY7zrD1ZA3JFDgZMp7ytYV7DDQsLIQE6Og",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5603AQE5qQ_gR-fllw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "+DL8g6vuS8iXJtUpfnnYdQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc,52,53)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Manash",
+                            "lastName": "Konwar",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAt_V_oBwocRSOf_CdcvVc3PCpFKNSLxa_4",
+                            "occupation": "Artificial Intelligence Assoc Principal at Accenture AI (Senior Data Scientist at BAT) #DeepLearning #Natural Language Processing #Researcher",
+                            "objectUrn": "urn:li:member:192894970",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAt_V_oBwocRSOf_CdcvVc3PCpFKNSLxa_4",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1549624632328?e=1657756800&v=beta&t=lGtM5EAe1R_Nnri58UZIQyVAhwYTi35jiq-K2JYoyMs",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1549624632328?e=1657756800&v=beta&t=oWrYSCdBD-I8bxuGRyT5-YbE5YhMkPkqJl5Kp5wnaiU",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5116AQHCJukzGYuXMQ/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "manashjkonwar",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1608867077030?e=1657756800&v=beta&t=gpyczeQpapdPsJ7M7zZHmDZ3ZHqkbKmDj4fHuhkH9RU",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1608867077030?e=1657756800&v=beta&t=0D6HrGBPiZ4cSX_G5RvIZ-4xKwwqJGXF0hpgo8-vEzs",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1608867077030?e=1657756800&v=beta&t=3Cz7iK4DuYVlg4BOYc7XxZJOLlQtfg85fE6Hs28zrrs",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1608867077030?e=1657756800&v=beta&t=7U9SBT46xMvavbSQFVQrZ6ytCzgp7fnYWVagFXqFZzg",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQFp_FDwK32e9A/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "sic4cf3BT9SSJhTCK3NyJQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc,52,54)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAt_V_oBwocRSOf_CdcvVc3PCpFKNSLxa_4"
+                    },
+                    {
+                        "member": {
+                            "firstName": "KETAN",
+                            "lastName": "BAKSHI",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAArMY18BG_h7IsT4stWotthnlK-ss3yK6Z4",
+                            "occupation": "Senior Engineer at Daimler Truck Innovation Centre India",
+                            "objectUrn": "urn:li:member:181166943",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAArMY18BG_h7IsT4stWotthnlK-ss3yK6Z4",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1551498666521?e=1657756800&v=beta&t=XekGgP_Io0OhZHpavQ0Om5_IzA-y9XYIKvgW6ae82rg",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1551498666521?e=1657756800&v=beta&t=kPBa7QUumbQcAT5yF5HhDn9golT_WfFVyQ_13toF94k",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5116AQEKKyF-ROvLiQ/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "ketan-bakshi-b9380950",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1608089889034?e=1657756800&v=beta&t=pb9xKXuT2L2SeSykpfphdXgQ1QeH99ajOJc_fSy6TkU",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1608089889034?e=1657756800&v=beta&t=juvQ_iKGvXKun_alLje2ynNwDz-6dO2fhiYeYlWQo8M",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1608089889034?e=1657756800&v=beta&t=RXQ5J9hx1F9cW2bevssVW32pwjoWFIlWwgF_yCuU_Q4",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1608089889034?e=1657756800&v=beta&t=Szk8vLDHdAHiuthR_0qdaKHrka5WEWCPK8UaON-U7D0",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E03AQGufVSz6hYUog/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "47s9BzRDS0WJuPPohCGteA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc,52,55)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAArMY18BG_h7IsT4stWotthnlK-ss3yK6Z4"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Paul Manohar",
+                            "lastName": "Golla",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABDNdtEBnxFeMbVJjqRLs1mxrmB-2f0DeA4",
+                            "occupation": "Manager at RINL (Visakhapatnam Steel Plant)",
+                            "objectUrn": "urn:li:member:281900753",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABDNdtEBnxFeMbVJjqRLs1mxrmB-2f0DeA4",
+                            "publicIdentifier": "paulmanohargolla",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1635215754037?e=1657756800&v=beta&t=376sJ7LurW-zIHhdYcXA5RGVhaaIzpMciAV76CgJLGU",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1635215754037?e=1657756800&v=beta&t=7FXfPq17bf0i-RI8S9hQDh3d1qzTvNSP_nbeuVNyjRA",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1635215754037?e=1657756800&v=beta&t=oyuEdI5mdp9djNTLSQ1ssKu9JVPbl_EXB8cgxVBJAQg",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1635215754037?e=1657756800&v=beta&t=N3W8dr51QHBMKZ5ihfS-iKiuL4scvKqZkBYTsPr9tzM",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5603AQGMjlIRDi4Rng/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "joh5oMa9R5OK69GOdr4Xzw=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc,52,56)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABDNdtEBnxFeMbVJjqRLs1mxrmB-2f0DeA4"
+                    },
+                    {
+                        "name": "amar penta",
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc,52,57)"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 7,
+                        "year": 2013
+                    },
+                    "startDate": {
+                        "month": 7,
+                        "year": 2013
+                    }
+                },
+                "description": "Thermal analysis of a double acting single cylinder engine using ethanol and petrol as fuel . ",
+                "title": "Double Acting Single Cylinder I.C Engine"
+            },
+            {
+                "occupation": "urn:li:fs_position:(ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc,544051070)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Ratnadeep",
+                            "lastName": "Bhattacharjee",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc",
+                            "occupation": "||Growing TechVariable|| ||Developing tech products globally||",
+                            "objectUrn": "urn:li:member:135079003",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1612526341047?e=1657756800&v=beta&t=4DLCF3-MK_as9shxCFce5PhA7Hzq9_LLxJ8g3CdrqME",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1612526341047?e=1657756800&v=beta&t=RVkeSm2M2fsWIEL1wmY3uNymitk44kh_m2tGPL9CyDc",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D16AQEtxhiwlor5qg/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "ratnadeep-bhattacharjee",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1516813756287?e=1657756800&v=beta&t=i3QHe-OIUzKLO8WapW_caf5c_M-IaH0ohvWsNCYz8Is",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1516813756287?e=1657756800&v=beta&t=6VCPuJ2Sf5ppH7Nb-rlVxHVhp9rssyUF_QI1TB58GhY",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1516813756287?e=1657756800&v=beta&t=lFlyciwGTFXqmPrErItgJ8fqwiFGDm3pH4lvgAd-pl0",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1516813756287?e=1657756800&v=beta&t=Xk_bumwMQaY7zrD1ZA3JFDgZMp7ytYV7DDQsLIQE6Og",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5603AQE5qQ_gR-fllw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "+DL8g6vuS8iXJtUpfnnYdQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc,21,22)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Manash",
+                            "lastName": "Konwar",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAt_V_oBwocRSOf_CdcvVc3PCpFKNSLxa_4",
+                            "occupation": "Artificial Intelligence Assoc Principal at Accenture AI (Senior Data Scientist at BAT) #DeepLearning #Natural Language Processing #Researcher",
+                            "objectUrn": "urn:li:member:192894970",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAt_V_oBwocRSOf_CdcvVc3PCpFKNSLxa_4",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1549624632328?e=1657756800&v=beta&t=lGtM5EAe1R_Nnri58UZIQyVAhwYTi35jiq-K2JYoyMs",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1549624632328?e=1657756800&v=beta&t=oWrYSCdBD-I8bxuGRyT5-YbE5YhMkPkqJl5Kp5wnaiU",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5116AQHCJukzGYuXMQ/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "manashjkonwar",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1608867077030?e=1657756800&v=beta&t=gpyczeQpapdPsJ7M7zZHmDZ3ZHqkbKmDj4fHuhkH9RU",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1608867077030?e=1657756800&v=beta&t=0D6HrGBPiZ4cSX_G5RvIZ-4xKwwqJGXF0hpgo8-vEzs",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1608867077030?e=1657756800&v=beta&t=3Cz7iK4DuYVlg4BOYc7XxZJOLlQtfg85fE6Hs28zrrs",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1608867077030?e=1657756800&v=beta&t=7U9SBT46xMvavbSQFVQrZ6ytCzgp7fnYWVagFXqFZzg",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQFp_FDwK32e9A/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "sic4cf3BT9SSJhTCK3NyJQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc,21,23)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAt_V_oBwocRSOf_CdcvVc3PCpFKNSLxa_4"
+                    },
+                    {
+                        "member": {
+                            "firstName": "KETAN",
+                            "lastName": "BAKSHI",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAArMY18BG_h7IsT4stWotthnlK-ss3yK6Z4",
+                            "occupation": "Senior Engineer at Daimler Truck Innovation Centre India",
+                            "objectUrn": "urn:li:member:181166943",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAArMY18BG_h7IsT4stWotthnlK-ss3yK6Z4",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1551498666521?e=1657756800&v=beta&t=XekGgP_Io0OhZHpavQ0Om5_IzA-y9XYIKvgW6ae82rg",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1551498666521?e=1657756800&v=beta&t=kPBa7QUumbQcAT5yF5HhDn9golT_WfFVyQ_13toF94k",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5116AQEKKyF-ROvLiQ/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "ketan-bakshi-b9380950",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1608089889034?e=1657756800&v=beta&t=pb9xKXuT2L2SeSykpfphdXgQ1QeH99ajOJc_fSy6TkU",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1608089889034?e=1657756800&v=beta&t=juvQ_iKGvXKun_alLje2ynNwDz-6dO2fhiYeYlWQo8M",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1608089889034?e=1657756800&v=beta&t=RXQ5J9hx1F9cW2bevssVW32pwjoWFIlWwgF_yCuU_Q4",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1608089889034?e=1657756800&v=beta&t=Szk8vLDHdAHiuthR_0qdaKHrka5WEWCPK8UaON-U7D0",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E03AQGufVSz6hYUog/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "47s9BzRDS0WJuPPohCGteA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc,21,24)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAArMY18BG_h7IsT4stWotthnlK-ss3yK6Z4"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Paul Manohar",
+                            "lastName": "Golla",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABDNdtEBnxFeMbVJjqRLs1mxrmB-2f0DeA4",
+                            "occupation": "Manager at RINL (Visakhapatnam Steel Plant)",
+                            "objectUrn": "urn:li:member:281900753",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABDNdtEBnxFeMbVJjqRLs1mxrmB-2f0DeA4",
+                            "publicIdentifier": "paulmanohargolla",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1635215754037?e=1657756800&v=beta&t=376sJ7LurW-zIHhdYcXA5RGVhaaIzpMciAV76CgJLGU",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1635215754037?e=1657756800&v=beta&t=7FXfPq17bf0i-RI8S9hQDh3d1qzTvNSP_nbeuVNyjRA",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1635215754037?e=1657756800&v=beta&t=oyuEdI5mdp9djNTLSQ1ssKu9JVPbl_EXB8cgxVBJAQg",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1635215754037?e=1657756800&v=beta&t=N3W8dr51QHBMKZ5ihfS-iKiuL4scvKqZkBYTsPr9tzM",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5603AQGMjlIRDi4Rng/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "joh5oMa9R5OK69GOdr4Xzw=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc,21,25)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABDNdtEBnxFeMbVJjqRLs1mxrmB-2f0DeA4"
+                    },
+                    {
+                        "name": "amar penta",
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc,21,26)"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 7,
+                        "year": 2013
+                    },
+                    "startDate": {
+                        "month": 7,
+                        "year": 2013
+                    }
+                },
+                "description": "Thermal analysis of a double acting single cylinder engine using ethanol and petrol as fuel . ",
+                "title": "Double Acting Single Cylinder I.C Engine"
+            },
+            {
+                "occupation": "urn:li:fs_education:(ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc,78558234)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Ratnadeep",
+                            "lastName": "Bhattacharjee",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc",
+                            "occupation": "||Growing TechVariable|| ||Developing tech products globally||",
+                            "objectUrn": "urn:li:member:135079003",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1612526341047?e=1657756800&v=beta&t=4DLCF3-MK_as9shxCFce5PhA7Hzq9_LLxJ8g3CdrqME",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1612526341047?e=1657756800&v=beta&t=RVkeSm2M2fsWIEL1wmY3uNymitk44kh_m2tGPL9CyDc",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D16AQEtxhiwlor5qg/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "ratnadeep-bhattacharjee",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1516813756287?e=1657756800&v=beta&t=i3QHe-OIUzKLO8WapW_caf5c_M-IaH0ohvWsNCYz8Is",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1516813756287?e=1657756800&v=beta&t=6VCPuJ2Sf5ppH7Nb-rlVxHVhp9rssyUF_QI1TB58GhY",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1516813756287?e=1657756800&v=beta&t=lFlyciwGTFXqmPrErItgJ8fqwiFGDm3pH4lvgAd-pl0",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1516813756287?e=1657756800&v=beta&t=Xk_bumwMQaY7zrD1ZA3JFDgZMp7ytYV7DDQsLIQE6Og",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5603AQE5qQ_gR-fllw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "+DL8g6vuS8iXJtUpfnnYdQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc,36,37)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Shuvayan",
+                            "lastName": "Brahmachary",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAaMgHQB62JDj1zd2WByYpeYBj2jWu300MQ",
+                            "occupation": "Comp. Fluid. Dy | ML | Aero. shape opt. | Postdoc @TU Munich",
+                            "objectUrn": "urn:li:member:109871220",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAaMgHQB62JDj1zd2WByYpeYBj2jWu300MQ",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1535875648315?e=1657756800&v=beta&t=BXxOsUN2-hSzWCd95fE2G8MD4YZUJrMpRU1SfigtcsY",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1535875648315?e=1657756800&v=beta&t=RTMUwUPAYRVAeakZcX9PLbay5gUjuut8kcNbVMWWCog",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5116AQHnIcuZa_Vl2Q/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "shuvayan-brahmachary",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1618112821040?e=1657756800&v=beta&t=ayThRJ-q-tsLDOigHQci3aFo54M_zVLMzqt1wZuyDLo",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1618112821040?e=1657756800&v=beta&t=sfymv2RW9ue47sfQglBbyBbzTsxJwtJgnO5VDsyzI2s",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1618112821040?e=1657756800&v=beta&t=-2Q8czujmybSNoCx3VuPifwN2JF5PnVZI3GDQjD1MUc",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1618112821040?e=1657756800&v=beta&t=Zy8iLOhEZePkrM3KLtzxrE_HVB0MvV5fAAmVh5KMySU",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5603AQFV31qDp4P1Ug/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "xUG+RNzWQjadSYHuX6lC8A=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc,36,38)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAaMgHQB62JDj1zd2WByYpeYBj2jWu300MQ"
+                    },
+                    {
+                        "member": {
+                            "firstName": "PRIYANSHU PRITAM",
+                            "lastName": "SARMA",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAUZ4l0BamiYUTF7zanQQ80di18y1Hfz84w",
+                            "occupation": "Territory Manager at Crompton Greaves Consumer Electricals Ltd.",
+                            "objectUrn": "urn:li:member:85582429",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAUZ4l0BamiYUTF7zanQQ80di18y1Hfz84w",
+                            "publicIdentifier": "priyanshu-pritam-sarma-a517b224",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1565201246570?e=1657756800&v=beta&t=WIPgOyNX_qnPqPPVWj_J6LY2dD5hD6_ifBmoXf7JrPE",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1565201246570?e=1657756800&v=beta&t=dh5guZeodbc7_kE2HD8m95Hf5yrcoLEB5C_JdWYOnIk",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1565201246570?e=1657756800&v=beta&t=PeSg_iAgWTbw35BompnBSXfJgDxwG_HYWHpcpDANanA",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1565201246570?e=1657756800&v=beta&t=mkAN0HEzKz0ggTbRkIBVatVNco64_unGL3geWTGwPio",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5103AQHZmVNhLxxbVg/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "oJsYSWN0T22lzDQ9QPgGFw=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc,36,39)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAUZ4l0BamiYUTF7zanQQ80di18y1Hfz84w"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Dhanjit",
+                            "lastName": "Talukdar",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAgy6h0BOQucSdlU73zXe1ImGT2Spr5i95g",
+                            "occupation": "HSE Coordinator at JYOTHY LABS LIMITED",
+                            "objectUrn": "urn:li:member:137554461",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAgy6h0BOQucSdlU73zXe1ImGT2Spr5i95g",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1516837271627?e=1657756800&v=beta&t=edMAuH7VkxYSGLLRamkaBQqzWN0XLjVuCzI3OOQheu8",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1516837271627?e=1657756800&v=beta&t=7GmoycNIBTal4p5bk-hD9hAHe6A-jSVmmVOb8p3XLGQ",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5616AQGRv7KLJoQGcQ/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "dhanjit-talukdar-3390973a",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1516837271112?e=1657756800&v=beta&t=qdpqGqqrVv9Ly7ljn8xLnHkUm4b8pBxV6TV9dJ5b5Pw",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1516837271112?e=1657756800&v=beta&t=OXT7hgkA5VGJjUrF2TJeRO8jjIpRxcqAAHU34G8pZxk",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1516837271112?e=1657756800&v=beta&t=ahY2BURYRmHAOY1i0F0B_vrAj9a7hK-466H3_4eUlVo",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1516837271112?e=1657756800&v=beta&t=52Ga00CK7XGV2jcNiZd4vk_-oV67DZYhVkeKv38lONY",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5603AQGvjCSF1ObCoQ/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "5BvYJ0++T0WQqmpfkR33ZQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc,36,40)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAgy6h0BOQucSdlU73zXe1ImGT2Spr5i95g"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2012
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2012
+                    }
+                },
+                "title": "\uf0f3\tTheoretical Model of a \u201cStepless Automatic Transmission System aimed at increasing fuel efficiency using a fluid-system\u201d"
+            },
+            {
+                "occupation": "urn:li:fs_education:(ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc,78558234)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Ratnadeep",
+                            "lastName": "Bhattacharjee",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc",
+                            "occupation": "||Growing TechVariable|| ||Developing tech products globally||",
+                            "objectUrn": "urn:li:member:135079003",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1612526341047?e=1657756800&v=beta&t=4DLCF3-MK_as9shxCFce5PhA7Hzq9_LLxJ8g3CdrqME",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1612526341047?e=1657756800&v=beta&t=RVkeSm2M2fsWIEL1wmY3uNymitk44kh_m2tGPL9CyDc",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D16AQEtxhiwlor5qg/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "ratnadeep-bhattacharjee",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1516813756287?e=1657756800&v=beta&t=i3QHe-OIUzKLO8WapW_caf5c_M-IaH0ohvWsNCYz8Is",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1516813756287?e=1657756800&v=beta&t=6VCPuJ2Sf5ppH7Nb-rlVxHVhp9rssyUF_QI1TB58GhY",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1516813756287?e=1657756800&v=beta&t=lFlyciwGTFXqmPrErItgJ8fqwiFGDm3pH4lvgAd-pl0",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1516813756287?e=1657756800&v=beta&t=Xk_bumwMQaY7zrD1ZA3JFDgZMp7ytYV7DDQsLIQE6Og",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5603AQE5qQ_gR-fllw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "+DL8g6vuS8iXJtUpfnnYdQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc,41,42)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Shuvayan",
+                            "lastName": "Brahmachary",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAaMgHQB62JDj1zd2WByYpeYBj2jWu300MQ",
+                            "occupation": "Comp. Fluid. Dy | ML | Aero. shape opt. | Postdoc @TU Munich",
+                            "objectUrn": "urn:li:member:109871220",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAaMgHQB62JDj1zd2WByYpeYBj2jWu300MQ",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1535875648315?e=1657756800&v=beta&t=BXxOsUN2-hSzWCd95fE2G8MD4YZUJrMpRU1SfigtcsY",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1535875648315?e=1657756800&v=beta&t=RTMUwUPAYRVAeakZcX9PLbay5gUjuut8kcNbVMWWCog",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5116AQHnIcuZa_Vl2Q/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "shuvayan-brahmachary",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1618112821040?e=1657756800&v=beta&t=ayThRJ-q-tsLDOigHQci3aFo54M_zVLMzqt1wZuyDLo",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1618112821040?e=1657756800&v=beta&t=sfymv2RW9ue47sfQglBbyBbzTsxJwtJgnO5VDsyzI2s",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1618112821040?e=1657756800&v=beta&t=-2Q8czujmybSNoCx3VuPifwN2JF5PnVZI3GDQjD1MUc",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1618112821040?e=1657756800&v=beta&t=Zy8iLOhEZePkrM3KLtzxrE_HVB0MvV5fAAmVh5KMySU",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5603AQFV31qDp4P1Ug/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "xUG+RNzWQjadSYHuX6lC8A=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc,41,43)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAaMgHQB62JDj1zd2WByYpeYBj2jWu300MQ"
+                    },
+                    {
+                        "member": {
+                            "firstName": "PRIYANSHU PRITAM",
+                            "lastName": "SARMA",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAUZ4l0BamiYUTF7zanQQ80di18y1Hfz84w",
+                            "occupation": "Territory Manager at Crompton Greaves Consumer Electricals Ltd.",
+                            "objectUrn": "urn:li:member:85582429",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAUZ4l0BamiYUTF7zanQQ80di18y1Hfz84w",
+                            "publicIdentifier": "priyanshu-pritam-sarma-a517b224",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1565201246570?e=1657756800&v=beta&t=WIPgOyNX_qnPqPPVWj_J6LY2dD5hD6_ifBmoXf7JrPE",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1565201246570?e=1657756800&v=beta&t=dh5guZeodbc7_kE2HD8m95Hf5yrcoLEB5C_JdWYOnIk",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1565201246570?e=1657756800&v=beta&t=PeSg_iAgWTbw35BompnBSXfJgDxwG_HYWHpcpDANanA",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1565201246570?e=1657756800&v=beta&t=mkAN0HEzKz0ggTbRkIBVatVNco64_unGL3geWTGwPio",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5103AQHZmVNhLxxbVg/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "oJsYSWN0T22lzDQ9QPgGFw=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc,41,44)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAUZ4l0BamiYUTF7zanQQ80di18y1Hfz84w"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Dhanjit",
+                            "lastName": "Talukdar",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAgy6h0BOQucSdlU73zXe1ImGT2Spr5i95g",
+                            "occupation": "HSE Coordinator at JYOTHY LABS LIMITED",
+                            "objectUrn": "urn:li:member:137554461",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAgy6h0BOQucSdlU73zXe1ImGT2Spr5i95g",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1516837271627?e=1657756800&v=beta&t=edMAuH7VkxYSGLLRamkaBQqzWN0XLjVuCzI3OOQheu8",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1516837271627?e=1657756800&v=beta&t=7GmoycNIBTal4p5bk-hD9hAHe6A-jSVmmVOb8p3XLGQ",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5616AQGRv7KLJoQGcQ/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "dhanjit-talukdar-3390973a",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1516837271112?e=1657756800&v=beta&t=qdpqGqqrVv9Ly7ljn8xLnHkUm4b8pBxV6TV9dJ5b5Pw",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1516837271112?e=1657756800&v=beta&t=OXT7hgkA5VGJjUrF2TJeRO8jjIpRxcqAAHU34G8pZxk",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1516837271112?e=1657756800&v=beta&t=ahY2BURYRmHAOY1i0F0B_vrAj9a7hK-466H3_4eUlVo",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1516837271112?e=1657756800&v=beta&t=52Ga00CK7XGV2jcNiZd4vk_-oV67DZYhVkeKv38lONY",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5603AQGvjCSF1ObCoQ/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "5BvYJ0++T0WQqmpfkR33ZQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc,41,45)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAgy6h0BOQucSdlU73zXe1ImGT2Spr5i95g"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2011
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2011
+                    }
+                },
+                "title": "\uf0f3\tUndertaken a project titled \u201cStudy of FIP for the establishment of a fuel injection training centre in GIMT under the aegis BOSCH\u201d"
+            },
+            {
+                "occupation": "urn:li:fs_education:(ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc,78558234)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Ratnadeep",
+                            "lastName": "Bhattacharjee",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc",
+                            "occupation": "||Growing TechVariable|| ||Developing tech products globally||",
+                            "objectUrn": "urn:li:member:135079003",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1612526341047?e=1657756800&v=beta&t=4DLCF3-MK_as9shxCFce5PhA7Hzq9_LLxJ8g3CdrqME",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1612526341047?e=1657756800&v=beta&t=RVkeSm2M2fsWIEL1wmY3uNymitk44kh_m2tGPL9CyDc",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D16AQEtxhiwlor5qg/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "ratnadeep-bhattacharjee",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1516813756287?e=1657756800&v=beta&t=i3QHe-OIUzKLO8WapW_caf5c_M-IaH0ohvWsNCYz8Is",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1516813756287?e=1657756800&v=beta&t=6VCPuJ2Sf5ppH7Nb-rlVxHVhp9rssyUF_QI1TB58GhY",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1516813756287?e=1657756800&v=beta&t=lFlyciwGTFXqmPrErItgJ8fqwiFGDm3pH4lvgAd-pl0",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1516813756287?e=1657756800&v=beta&t=Xk_bumwMQaY7zrD1ZA3JFDgZMp7ytYV7DDQsLIQE6Og",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5603AQE5qQ_gR-fllw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "+DL8g6vuS8iXJtUpfnnYdQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc,29,30)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc"
+                    },
+                    {
+                        "member": {
+                            "firstName": "PRIYANSHU PRITAM",
+                            "lastName": "SARMA",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAUZ4l0BamiYUTF7zanQQ80di18y1Hfz84w",
+                            "occupation": "Territory Manager at Crompton Greaves Consumer Electricals Ltd.",
+                            "objectUrn": "urn:li:member:85582429",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAUZ4l0BamiYUTF7zanQQ80di18y1Hfz84w",
+                            "publicIdentifier": "priyanshu-pritam-sarma-a517b224",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1565201246570?e=1657756800&v=beta&t=WIPgOyNX_qnPqPPVWj_J6LY2dD5hD6_ifBmoXf7JrPE",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1565201246570?e=1657756800&v=beta&t=dh5guZeodbc7_kE2HD8m95Hf5yrcoLEB5C_JdWYOnIk",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1565201246570?e=1657756800&v=beta&t=PeSg_iAgWTbw35BompnBSXfJgDxwG_HYWHpcpDANanA",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1565201246570?e=1657756800&v=beta&t=mkAN0HEzKz0ggTbRkIBVatVNco64_unGL3geWTGwPio",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5103AQHZmVNhLxxbVg/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "oJsYSWN0T22lzDQ9QPgGFw=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc,29,31)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAUZ4l0BamiYUTF7zanQQ80di18y1Hfz84w"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Shuvayan",
+                            "lastName": "Brahmachary",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAaMgHQB62JDj1zd2WByYpeYBj2jWu300MQ",
+                            "occupation": "Comp. Fluid. Dy | ML | Aero. shape opt. | Postdoc @TU Munich",
+                            "objectUrn": "urn:li:member:109871220",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAaMgHQB62JDj1zd2WByYpeYBj2jWu300MQ",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1535875648315?e=1657756800&v=beta&t=BXxOsUN2-hSzWCd95fE2G8MD4YZUJrMpRU1SfigtcsY",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1535875648315?e=1657756800&v=beta&t=RTMUwUPAYRVAeakZcX9PLbay5gUjuut8kcNbVMWWCog",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5116AQHnIcuZa_Vl2Q/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "shuvayan-brahmachary",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1618112821040?e=1657756800&v=beta&t=ayThRJ-q-tsLDOigHQci3aFo54M_zVLMzqt1wZuyDLo",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1618112821040?e=1657756800&v=beta&t=sfymv2RW9ue47sfQglBbyBbzTsxJwtJgnO5VDsyzI2s",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1618112821040?e=1657756800&v=beta&t=-2Q8czujmybSNoCx3VuPifwN2JF5PnVZI3GDQjD1MUc",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1618112821040?e=1657756800&v=beta&t=Zy8iLOhEZePkrM3KLtzxrE_HVB0MvV5fAAmVh5KMySU",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5603AQFV31qDp4P1Ug/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "xUG+RNzWQjadSYHuX6lC8A=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc,29,32)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAaMgHQB62JDj1zd2WByYpeYBj2jWu300MQ"
+                    },
+                    {
+                        "member": {
+                            "firstName": "RAKESH",
+                            "lastName": "talukdar",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAArgD38BXfr6TWcZ2eKkmqJumtWd_Qew6wc",
+                            "occupation": "Student at Gauhati University",
+                            "objectUrn": "urn:li:member:182456191",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAArgD38BXfr6TWcZ2eKkmqJumtWd_Qew6wc",
+                            "publicIdentifier": "rakesh-talukdar-0a713051",
+                            "trackingId": "FFPmHVSWRT2689WwpS5FoQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc,29,33)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAArgD38BXfr6TWcZ2eKkmqJumtWd_Qew6wc"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Renika",
+                            "lastName": "Baruah",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAowdBEB5GllkJBBD8ba2r-n9zcs15IOByo",
+                            "occupation": "PhD,Indian Institute of Technology, Gandhinagar",
+                            "objectUrn": "urn:li:member:170947601",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAowdBEB5GllkJBBD8ba2r-n9zcs15IOByo",
+                            "publicIdentifier": "renika-baruah-01530049",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1644141846389?e=1657756800&v=beta&t=vGIZpjOkiapJnfcpWg98AwwOLcVdUoit94cnYL5-tQ0",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1644141846389?e=1657756800&v=beta&t=1L59AF4Rgd-6EHKgMYGV7qtVwvCnIXKXnK5IN2PS_Xk",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1644141846389?e=1657756800&v=beta&t=ViT-3nKK7tnPkGo9jqD6Kk0xxD-VHLEwX-xVYaak59U",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1644141846389?e=1657756800&v=beta&t=o7rmz8F6b3KDDIcXmmdNdHZ5AP2w1pq6nqB33Zkh5bo",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E03AQFrUisxgtK32A/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "Byj1kGz5RYKxcUJ2LVBVTw=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc,29,34)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAowdBEB5GllkJBBD8ba2r-n9zcs15IOByo"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Shivam",
+                            "lastName": "Tyagi",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAIZm5sBE9PW7gmPZEcfZ8DiMy8cjzTINUY",
+                            "occupation": "Industrial Engineer Graduate | Operations | Process Improvement | Consumer Electronics |",
+                            "objectUrn": "urn:li:member:35232667",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAIZm5sBE9PW7gmPZEcfZ8DiMy8cjzTINUY",
+                            "publicIdentifier": "shivam-tyagi-337971b",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1567088189007?e=1657756800&v=beta&t=TnjaTS0vwJxmwazbiF9K1FzaYXpqIMai3jo_cCxlYM0",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1567088189007?e=1657756800&v=beta&t=_bRWNheq0VvkzMxqpRy1eLqx_UJzEE0CNtyyipyUV6k",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1567088189007?e=1657756800&v=beta&t=kn0fb3zKxBaVyVNlKxK1fxpEde_dOJf2_VtiOvzb_es",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1567088189007?e=1657756800&v=beta&t=fJappOQXD2rLak6mEJL2KU4KIaJlUwvDqrEQZSEkbO4",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5603AQH0t-id1y3jcA/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "PI/0b61jT3KhIRpnv7l7lg=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc,29,35)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAIZm5sBE9PW7gmPZEcfZ8DiMy8cjzTINUY"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2011
+                    },
+                    "startDate": {
+                        "month": 6,
+                        "year": 2011
+                    }
+                },
+                "description": "The project report mainly dealt with the various mechanical equipments within the plant.",
+                "title": "Summer Internship in IOCL (Indian Oil Corporation Limited)",
+                "url": "http://www.iocl.com/"
+            }
+        ]
+    },
+    "contact_info": {
+        "email_address": "b.ratnadeep@gmail.com",
+        "websites": [
+            {
+                "url": "www.techvariable.com",
+                "label": "COMPANY"
+            }
+        ],
+        "twitter": [],
+        "birthdate": {
+            "month": 11,
+            "day": 21
+        },
+        "ims": [
+            {
+                "provider": "SKYPE",
+                "id": "ratnadeep@techvariable.com"
+            }
+        ],
+        "phone_numbers": []
+    },
+    "connections": [
+        {
+            "urn_id": "ACoAABr4jt0BoOUmisITdRo1gR4CumG5I4jjZIw",
+            "distance": "DISTANCE_1",
+            "public_id": "samudra-deka-911659107",
+            "tracking_id": "452497117"
+        },
+        {
+            "urn_id": "ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE",
+            "distance": "DISTANCE_1",
+            "public_id": "prithoo11335",
+            "tracking_id": "231212168"
+        },
+        {
+            "urn_id": "ACoAACzP6KMBcLKqKnFRpIudaukkoW4NoqstgrM",
+            "distance": "DISTANCE_1",
+            "public_id": "pranit-prakash-sahu",
+            "tracking_id": "751823011"
+        },
+        {
+            "urn_id": "ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY",
+            "distance": "DISTANCE_1",
+            "public_id": "tridip-das-b5837911b",
+            "tracking_id": "499568180"
+        },
+        {
+            "urn_id": "ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8",
+            "distance": "DISTANCE_1",
+            "public_id": "sivaranjan-goswami-790b4523",
+            "tracking_id": "83451420"
+        },
+        {
+            "urn_id": "ACoAACDVs-sB_IgxPBMHMRBfR6is3jmwwV_OvTE",
+            "distance": "DISTANCE_1",
+            "public_id": "swapnil-bhattacharjee-ghy",
+            "tracking_id": "550876139"
+        },
+        {
+            "urn_id": "ACoAAAR5v8MBjPwCvp8TP9RWZyGSeNYNiJ1wKJE",
+            "distance": "DISTANCE_1",
+            "public_id": "nilotpal-boruah",
+            "tracking_id": "75087811"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Requirements Analysis"
+        },
+        {
+            "name": "Business process modernisation"
+        },
+        {
+            "name": "Offshore Project Management"
+        },
+        {
+            "name": "Marketing Strategy"
+        },
+        {
+            "name": "Manufacturing"
+        },
+        {
+            "name": "Product Design"
+        },
+        {
+            "name": "Simulations"
+        },
+        {
+            "name": "Finite Element Analysis"
+        },
+        {
+            "name": "Engineering"
+        },
+        {
+            "name": "Mechanical Engineering"
+        },
+        {
+            "name": "Computer-Aided Design (CAD)",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:1157",
+            "standardizedSkill": {
+                "name": "Computer-Aided Design (CAD)",
+                "entityUrn": "urn:li:fs_miniSkill:1157"
+            }
+        },
+        {
+            "name": "Research and Development (R&D)"
+        },
+        {
+            "name": "Healthcare IT"
+        },
+        {
+            "name": "Matlab"
+        },
+        {
+            "name": "C"
+        },
+        {
+            "name": "ANSYS"
+        },
+        {
+            "name": "Pro Engineer"
+        },
+        {
+            "name": "Microsoft Office"
+        },
+        {
+            "name": "PTC Creo"
+        },
+        {
+            "name": "PowerPoint"
+        },
+        {
+            "name": "Microsoft Excel",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:163",
+            "standardizedSkill": {
+                "name": "Microsoft Excel",
+                "entityUrn": "urn:li:fs_miniSkill:163"
+            }
+        },
+        {
+            "name": "Microsoft Word",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:260",
+            "standardizedSkill": {
+                "name": "Microsoft Word",
+                "entityUrn": "urn:li:fs_miniSkill:260"
+            }
+        },
+        {
+            "name": "Microsoft PowerPoint"
+        },
+        {
+            "name": "Python"
+        },
+        {
+            "name": "Talent Management"
+        },
+        {
+            "name": "Hypermesh"
+        },
+        {
+            "name": "Forge NxT 1.0"
+        },
+        {
+            "name": "Deform 2D"
+        },
+        {
+            "name": "Big Data Analytics"
+        },
+        {
+            "name": "Logistic Regression"
+        },
+        {
+            "name": "Regression Analysis"
+        },
+        {
+            "name": "Linear Regression"
+        },
+        {
+            "name": "Bayesian statistics"
+        },
+        {
+            "name": "Natural Language Processing"
+        },
+        {
+            "name": "Product Concept"
+        },
+        {
+            "name": "Management"
+        },
+        {
+            "name": "Project Management",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:2269",
+            "standardizedSkill": {
+                "name": "Project Management",
+                "entityUrn": "urn:li:fs_miniSkill:2269"
+            }
+        },
+        {
+            "name": "Technical Project Leadership",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:18055",
+            "standardizedSkill": {
+                "name": "Technical Project Leadership",
+                "entityUrn": "urn:li:fs_miniSkill:18055"
+            }
+        },
+        {
+            "name": "Scope Management",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:1995",
+            "standardizedSkill": {
+                "name": "Scope Management",
+                "entityUrn": "urn:li:fs_miniSkill:1995"
+            }
+        },
+        {
+            "name": "Small Business Management",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:50362",
+            "standardizedSkill": {
+                "name": "Small Business Management",
+                "entityUrn": "urn:li:fs_miniSkill:50362"
+            }
+        },
+        {
+            "name": "LinkedIn",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:3626",
+            "standardizedSkill": {
+                "name": "LinkedIn",
+                "entityUrn": "urn:li:fs_miniSkill:3626"
+            }
+        },
+        {
+            "name": "Go-to-market Strategy"
+        },
+        {
+            "name": "MVP"
+        },
+        {
+            "name": "Proof of Concept"
+        }
+    ]
+}

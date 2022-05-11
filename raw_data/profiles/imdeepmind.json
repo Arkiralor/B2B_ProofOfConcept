@@ -1,0 +1,1288 @@
+{
+    "profile": {
+        "summary": "Just raised a PR (Pull Request).\n\nDo you know what I did in that PR? Well just solved a problem. That's it. That's what I do, solve problems using the power of data and algorithms.\n\nProfessionally speaking, as a Machine Learning Engineer, my job is to solve problems for my organization using data and algorithms. I design and develop Machine Learning based applications/services using various cutting-edge technologies.\n\nPersonally speaking, as a passionate coder, sometimes I spent more time working on personal projects than my professional work projects. These personal projects include random experiments with new frameworks/libraries, building open-source libraries, or maybe building a full-fledged product. Check my GitHub for more of my projects.\n\nOther than coding, in my personal time, I like to travel to different places. read a lot of books, and listen to music. watch movies, etc\n\nNow here are some of my skills\n1. Algorithms, Data Structure, and Problem Solving. Machine Learning and Deep Learning, Predictive Modelling, Classification, Regression, and Backend Development.\n2. Languages: Python, JavaScript, C++, HTML, CSS\n3. Frameworks/Libraries: Tensorflow, Keras, PyTorch, SkLearn, Numpy, Pandas, Matplotlib, Flask, FastAPI, ExpressJS\n4. Database: SQL (MSSQL, MySQL, PostgreSQL), NoSQL(MongoDB)\n5. Cloud Platforms: Azure (Azure ML, App Service, Azure Blob, etc), AWS (EC2, S3, SageMaker, etc) \n\nUse these links to connect with me:\n 1. Personal Website: https://imdeepmind.com/\n 2. Github Account: https://github.com/imdeepmind/\n 3. Blogs on Medium: https://medium.com/@imdeepmind/\n \nSome of my personal projects:\n 1. Delphy: https://delphyy.com/\n 2. Hocrox: https://hocrox.imdeepmind.com/",
+        "industryName": "Software Development",
+        "lastName": "Chatterjee",
+        "locationName": "India",
+        "student": false,
+        "geoCountryName": "India",
+        "geoCountryUrn": "urn:li:fs_geo:102713980",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "industryUrn": "urn:li:fs_industry:4",
+        "firstName": "Abhishek",
+        "entityUrn": "urn:li:fs_profile:ACoAACEOAHoBZI5Np-rN1gPVYGBjeZdTh7SVU_o",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:105607401"
+        },
+        "geoLocationName": "Guwahati, Assam",
+        "location": {
+            "basicLocation": {
+                "countryCode": "in"
+            }
+        },
+        "headline": "Machine Learning Engineer | Building Delphy | MSc Data Science | Machine Learning | Deep Learning",
+        "displayPictureUrl": "https://media-exp1.licdn.com/dms/image/C4E03AQFcTrLa2GVp7w/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/0/1612978569160?e=1657756800&v=beta&t=JSCplKsAmCBI-JBxegCaFhsPGdOTotVMJ-cJhsntZ4E",
+        "img_200_200": "200_200/0/1612978569160?e=1657756800&v=beta&t=yFWoZ6NgcpK8Bn1oqbtB0hhOEd0j9y1JbBMiqN76t0Q",
+        "img_400_400": "400_400/0/1612978569160?e=1657756800&v=beta&t=Zu0oG1_bocRiTkkz1EsUi-n_6ckFQi3rqN8u_irS8QU",
+        "img_800_800": "800_800/0/1612978569160?e=1657756800&v=beta&t=2H1ef2MWjPSp5lfPtmOtaIP8D-omvc-yMwKXe78-26I",
+        "profile_id": "ACoAACEOAHoBZI5Np-rN1gPVYGBjeZdTh7SVU_o",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAACEOAHoBZI5Np-rN1gPVYGBjeZdTh7SVU_o",
+        "member_urn": "urn:li:member:554565754",
+        "experience": [
+            {
+                "locationName": "Guwahati, Assam, India",
+                "entityUrn": "urn:li:fs_position:(ACoAACEOAHoBZI5Np-rN1gPVYGBjeZdTh7SVU_o,1961712946)",
+                "geoLocationName": "Guwahati, Assam, India",
+                "geoUrn": "urn:li:fs_geo:105607401",
+                "companyName": "Flexday Solutions LLC",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 5,
+                        "year": 2022
+                    }
+                },
+                "description": "Flexday Solutions LLC is a research-based advisory and implementation service in AI, ML, and cloud solutions from Naperville, Illinois.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Machine Learning Engineer",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:74234365",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQH9yfeo_CFGrw/company-logo_"
+            },
+            {
+                "locationName": "Guwahati, Assam, India",
+                "entityUrn": "urn:li:fs_position:(ACoAACEOAHoBZI5Np-rN1gPVYGBjeZdTh7SVU_o,1958931144)",
+                "geoLocationName": "Guwahati, Assam, India",
+                "geoUrn": "urn:li:fs_geo:105607401",
+                "companyName": "Delphy",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 4,
+                        "year": 2021
+                    }
+                },
+                "description": "Delphy is a one-stop web application that provides easy access to information, stats, user-generated reviews, and more on packages provided by leading package repositories like NPM. \n\nDelphy helps developers around the world choose the right package for their projects using the power of data.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 0,
+                        "end": 1
+                    },
+                    "industries": [
+                        "Computer Software"
+                    ]
+                },
+                "title": "Founder",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:80867449",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C560BAQEfoYnLXes1FQ/company-logo_"
+            },
+            {
+                "locationName": "Guwahati, Assam, India",
+                "entityUrn": "urn:li:fs_position:(ACoAACEOAHoBZI5Np-rN1gPVYGBjeZdTh7SVU_o,1961718314)",
+                "geoLocationName": "Guwahati, Assam, India",
+                "geoUrn": "urn:li:fs_geo:105607401",
+                "companyName": "Flexday Solutions LLC",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 4,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 5,
+                        "year": 2021
+                    }
+                },
+                "description": "Flexday Solutions LLC is a research-based advisory and implementation service in AI, ML, and cloud solutions from Naperville, Illinois.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Software Engineer",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:74234365",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQH9yfeo_CFGrw/company-logo_"
+            },
+            {
+                "locationName": "Guwahati Area, India",
+                "entityUrn": "urn:li:fs_position:(ACoAACEOAHoBZI5Np-rN1gPVYGBjeZdTh7SVU_o,1368691484)",
+                "geoLocationName": "Guwahati Area, India",
+                "geoUrn": "urn:li:fs_geo:104535556",
+                "companyName": "TechVariable",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 5,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 7,
+                        "year": 2019
+                    }
+                },
+                "description": "TechVariable is a software solutions company headquartered in Guwahati with a regional office in Bangalore.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Programming Analyst",
+                "region": "urn:li:fs_region:(in,7248)",
+                "companyUrn": "urn:li:fs_miniCompany:10632640",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQE6IzKHUZQmAA/company-logo_"
+            },
+            {
+                "locationName": "Guwahati, Assam, India",
+                "entityUrn": "urn:li:fs_position:(ACoAACEOAHoBZI5Np-rN1gPVYGBjeZdTh7SVU_o,1642890789)",
+                "geoLocationName": "Guwahati, Assam, India",
+                "geoUrn": "urn:li:fs_geo:105607401",
+                "companyName": "TechVariable",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "month": 10,
+                        "year": 2018
+                    }
+                },
+                "description": "TechVariable is a software solutions company headquartered in Guwahati with a regional office in Bangalore. I have been hired as a Programmer Analyst Intern.\n\nThere as an intern, I worked on several projects, including a decline curve analysis tool. After completing my internship, I started to work full-time as a Programmer Analyst.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Programmer Analyst Trainee",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:10632640",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQE6IzKHUZQmAA/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAACEOAHoBZI5Np-rN1gPVYGBjeZdTh7SVU_o,665466122)",
+                "school": {
+                    "objectUrn": "urn:li:school:204059",
+                    "entityUrn": "urn:li:fs_miniSchool:204059",
+                    "active": true,
+                    "schoolName": "CHANDIGARH UNIVERSITY",
+                    "trackingId": "cm9BgERaQ6qoPRD50fDJkw==",
+                    "logoUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQEmJ1x0JWWf6Q/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2023
+                    },
+                    "startDate": {
+                        "year": 2021
+                    }
+                },
+                "degreeName": "MSc Data Science",
+                "schoolName": "CHANDIGARH UNIVERSITY",
+                "fieldOfStudy": "Data Science",
+                "schoolUrn": "urn:li:fs_miniSchool:204059"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAACEOAHoBZI5Np-rN1gPVYGBjeZdTh7SVU_o,386150140)",
+                "school": {
+                    "objectUrn": "urn:li:school:196984",
+                    "entityUrn": "urn:li:fs_miniSchool:196984",
+                    "active": true,
+                    "schoolName": "Krishna Kanta Hanidiqui State Open University, Guwahati",
+                    "trackingId": "I1CZNt6ZRS+2i2gYHU1RIQ==",
+                    "logoUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQG3YrWU_tdgfQ/company-logo_"
+                },
+                "grade": "7.0 CGPA",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "year": 2016
+                    }
+                },
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100189",
+                "degreeName": "BCA",
+                "schoolName": "Krishna Kanta Hanidiqui State Open University, Guwahati",
+                "fieldOfStudy": "Computer Science",
+                "schoolUrn": "urn:li:fs_miniSchool:196984"
+            }
+        ],
+        "languages": [
+            {
+                "name": "Assamese",
+                "proficiency": "LIMITED_WORKING"
+            },
+            {
+                "name": "Bengali",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "English",
+                "proficiency": "PROFESSIONAL_WORKING"
+            },
+            {
+                "name": "Hindi",
+                "proficiency": "FULL_PROFESSIONAL"
+            }
+        ],
+        "publications": [],
+        "certifications": [
+            {
+                "authority": "SoloLearn",
+                "name": "Certificate of Completion: HTML Fundamentals",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 5,
+                        "year": 2016
+                    }
+                },
+                "licenseNumber": "1014-3295217",
+                "company": {
+                    "objectUrn": "urn:li:company:9435690",
+                    "entityUrn": "urn:li:fs_miniCompany:9435690",
+                    "name": "Sololearn",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1625174152948?e=1660176000&v=beta&t=aeQN2AOu5FqBFmGRr86EUshjBgPVbgxCEHbgKOQWhmE",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1625174152948?e=1660176000&v=beta&t=07Hyo5j1HJ4Gr1KHv3fECco4hkJAWwJCaltOzrHzcFE",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1625174152948?e=1660176000&v=beta&t=Tb7QMFyVCI0sFR9pp6feZ26_ufUlQeLiqln9k5CcANE",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQHER-dvTqh2tA/company-logo_"
+                        }
+                    },
+                    "universalName": "sololearn-inc-",
+                    "dashCompanyUrn": "urn:li:fsd_company:9435690",
+                    "trackingId": "gApwn0jBRre//1Vc8N9ZQA=="
+                },
+                "displaySource": "sololearn.com",
+                "companyUrn": "urn:li:fs_miniCompany:9435690",
+                "url": "http://www.sololearn.com/Profile/3295217/"
+            },
+            {
+                "authority": "Coursera",
+                "name": "Machine Learning",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 1,
+                        "year": 2018
+                    }
+                },
+                "licenseNumber": "NN45UN9RKYVR",
+                "company": {
+                    "objectUrn": "urn:li:company:2453129",
+                    "entityUrn": "urn:li:fs_miniCompany:2453129",
+                    "name": "Coursera",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1608039227697?e=1660176000&v=beta&t=24dSeYZFSUztRaUy6-QqI0GSTK5-7tfyOci9sanIOTE",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1608039227697?e=1660176000&v=beta&t=8mJvTc5z6PI8olmLRWSi-xaA6ZOeYWkWcZiqxFWbrhE",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1608039227697?e=1660176000&v=beta&t=o8C5zQF49vmVYRAgj4K1Q2W5kUw9P0IZwKQoBFhnmDc",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQGexnfBxeEG-g/company-logo_"
+                        }
+                    },
+                    "universalName": "coursera",
+                    "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                    "trackingId": "8VKNgP9pRWKCfvYptslz9Q=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:2453129",
+                "url": "https://www.coursera.org/account/accomplishments/verify/NN45UN9RKYVR"
+            },
+            {
+                "authority": "Coursera",
+                "name": "Neural Networks and Deep Learning",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 4,
+                        "year": 2018
+                    }
+                },
+                "licenseNumber": "VENWSQAMKBY3",
+                "company": {
+                    "objectUrn": "urn:li:company:2453129",
+                    "entityUrn": "urn:li:fs_miniCompany:2453129",
+                    "name": "Coursera",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1608039227697?e=1660176000&v=beta&t=24dSeYZFSUztRaUy6-QqI0GSTK5-7tfyOci9sanIOTE",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1608039227697?e=1660176000&v=beta&t=8mJvTc5z6PI8olmLRWSi-xaA6ZOeYWkWcZiqxFWbrhE",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1608039227697?e=1660176000&v=beta&t=o8C5zQF49vmVYRAgj4K1Q2W5kUw9P0IZwKQoBFhnmDc",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQGexnfBxeEG-g/company-logo_"
+                        }
+                    },
+                    "universalName": "coursera",
+                    "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                    "trackingId": "/BuDsK7KQ5WhzYb2s7w7tQ=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:2453129",
+                "url": "https://www.coursera.org/account/accomplishments/verify/VENWSQAMKBY3"
+            },
+            {
+                "authority": "Coursera",
+                "name": "Mathematics for Machine Learning: Linear Algebra",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 5,
+                        "year": 2018
+                    }
+                },
+                "licenseNumber": "FXGVXB3G6PD6",
+                "company": {
+                    "objectUrn": "urn:li:company:2453129",
+                    "entityUrn": "urn:li:fs_miniCompany:2453129",
+                    "name": "Coursera",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1608039227697?e=1660176000&v=beta&t=24dSeYZFSUztRaUy6-QqI0GSTK5-7tfyOci9sanIOTE",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1608039227697?e=1660176000&v=beta&t=8mJvTc5z6PI8olmLRWSi-xaA6ZOeYWkWcZiqxFWbrhE",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1608039227697?e=1660176000&v=beta&t=o8C5zQF49vmVYRAgj4K1Q2W5kUw9P0IZwKQoBFhnmDc",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQGexnfBxeEG-g/company-logo_"
+                        }
+                    },
+                    "universalName": "coursera",
+                    "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                    "trackingId": "6JAXHLZSTHKkQJWSrOsJrQ=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:2453129",
+                "url": "https://www.coursera.org/account/accomplishments/verify/FXGVXB3G6PD6"
+            },
+            {
+                "authority": "Coursera",
+                "name": "Algorithmic Toolbox",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 8,
+                        "year": 2018
+                    }
+                },
+                "licenseNumber": "ZXLGWV8J4DDV",
+                "company": {
+                    "objectUrn": "urn:li:company:2453129",
+                    "entityUrn": "urn:li:fs_miniCompany:2453129",
+                    "name": "Coursera",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1608039227697?e=1660176000&v=beta&t=24dSeYZFSUztRaUy6-QqI0GSTK5-7tfyOci9sanIOTE",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1608039227697?e=1660176000&v=beta&t=8mJvTc5z6PI8olmLRWSi-xaA6ZOeYWkWcZiqxFWbrhE",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1608039227697?e=1660176000&v=beta&t=o8C5zQF49vmVYRAgj4K1Q2W5kUw9P0IZwKQoBFhnmDc",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQGexnfBxeEG-g/company-logo_"
+                        }
+                    },
+                    "universalName": "coursera",
+                    "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                    "trackingId": "KsOMjqsYSGy4NEPUzORXKw=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:2453129",
+                "url": "https://www.coursera.org/account/accomplishments/verify/ZXLGWV8J4DDV"
+            },
+            {
+                "authority": "Udemy",
+                "name": "A Gentle Introduction to Deep Learning Using Keras ",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 9,
+                        "year": 2018
+                    }
+                },
+                "licenseNumber": "UC-ZAZI3PSC",
+                "company": {
+                    "objectUrn": "urn:li:company:822535",
+                    "entityUrn": "urn:li:fs_miniCompany:822535",
+                    "name": "Udemy",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1626275253364?e=1660176000&v=beta&t=hNmtDdN4pnwTuJsDQsvaI2SOIkRq2BCrfWF7YKlNaM4",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1626275253364?e=1660176000&v=beta&t=bZ9FL43L79ghc74x71A2lY51dAogHCVQKWAZH1-YcuM",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1626275253364?e=1660176000&v=beta&t=7EyDsPVIShmG1t96OAsrJK6AWUi0vObIpIVqPL4hc6E",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQFQr9e68bBOPQ/company-logo_"
+                        }
+                    },
+                    "universalName": "udemy",
+                    "dashCompanyUrn": "urn:li:fsd_company:822535",
+                    "trackingId": "yPk4pdTrS6W5rS7VFi+kLg=="
+                },
+                "displaySource": "ude.my",
+                "companyUrn": "urn:li:fs_miniCompany:822535",
+                "url": "http://ude.my/UC-ZAZI3PSC"
+            },
+            {
+                "authority": "Udemy",
+                "name": "TensorFlow 2.0: A Complete Guide on the Brand New TensorFlow",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 11,
+                        "year": 2019
+                    }
+                },
+                "licenseNumber": "UC-YR77UCV3",
+                "company": {
+                    "objectUrn": "urn:li:company:822535",
+                    "entityUrn": "urn:li:fs_miniCompany:822535",
+                    "name": "Udemy",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1626275253364?e=1660176000&v=beta&t=hNmtDdN4pnwTuJsDQsvaI2SOIkRq2BCrfWF7YKlNaM4",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1626275253364?e=1660176000&v=beta&t=bZ9FL43L79ghc74x71A2lY51dAogHCVQKWAZH1-YcuM",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1626275253364?e=1660176000&v=beta&t=7EyDsPVIShmG1t96OAsrJK6AWUi0vObIpIVqPL4hc6E",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQFQr9e68bBOPQ/company-logo_"
+                        }
+                    },
+                    "universalName": "udemy",
+                    "dashCompanyUrn": "urn:li:fsd_company:822535",
+                    "trackingId": "2TrMURkAQMKUq5rYX/jFLw=="
+                },
+                "displaySource": "udemy.com",
+                "companyUrn": "urn:li:fs_miniCompany:822535",
+                "url": "https://www.udemy.com/certificate/UC-YR77UCV3/"
+            },
+            {
+                "authority": "Udemy",
+                "name": "PyTorch for Deep Learning and Computer Vision",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 11,
+                        "year": 2019
+                    }
+                },
+                "licenseNumber": "UC-JIFRPNJR",
+                "company": {
+                    "objectUrn": "urn:li:company:822535",
+                    "entityUrn": "urn:li:fs_miniCompany:822535",
+                    "name": "Udemy",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1626275253364?e=1660176000&v=beta&t=hNmtDdN4pnwTuJsDQsvaI2SOIkRq2BCrfWF7YKlNaM4",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1626275253364?e=1660176000&v=beta&t=bZ9FL43L79ghc74x71A2lY51dAogHCVQKWAZH1-YcuM",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1626275253364?e=1660176000&v=beta&t=7EyDsPVIShmG1t96OAsrJK6AWUi0vObIpIVqPL4hc6E",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQFQr9e68bBOPQ/company-logo_"
+                        }
+                    },
+                    "universalName": "udemy",
+                    "dashCompanyUrn": "urn:li:fsd_company:822535",
+                    "trackingId": "t7PrvDdRTrukGmbFbPyUcQ=="
+                },
+                "displaySource": "udemy.com",
+                "companyUrn": "urn:li:fs_miniCompany:822535",
+                "url": "https://www.udemy.com/certificate/UC-JIFRPNJR/"
+            },
+            {
+                "authority": "LinkedIn",
+                "name": "Introduction to Deep Learning with OpenCV",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 12,
+                        "year": 2020
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:1337",
+                    "entityUrn": "urn:li:fs_miniCompany:1337",
+                    "name": "LinkedIn",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1638831589865?e=1660176000&v=beta&t=BLQftLy0Qs0EBVJIuWPMuAUeYUwk2NFkGV64ugXQRGo",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1638831589865?e=1660176000&v=beta&t=x5azEgZkHPR5MQHKe-JAU7OCpzuevGQIN2iQzEXm7FA",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1638831589865?e=1660176000&v=beta&t=4ByckqnOSGF1jY0ieSfxachmGJ0dfUy8ErhiMjGS9p8",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_"
+                        }
+                    },
+                    "universalName": "linkedin",
+                    "dashCompanyUrn": "urn:li:fsd_company:1337",
+                    "trackingId": "xQZ9e42lQCu2bFkZ4z4HIA=="
+                },
+                "displaySource": "linkedin.com",
+                "companyUrn": "urn:li:fs_miniCompany:1337",
+                "url": "http://www.linkedin.com/learning/introduction-to-deep-learning-with-opencv"
+            },
+            {
+                "authority": "LinkedIn",
+                "name": "Writing a Compelling Blog Post",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 12,
+                        "year": 2020
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:1337",
+                    "entityUrn": "urn:li:fs_miniCompany:1337",
+                    "name": "LinkedIn",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1638831589865?e=1660176000&v=beta&t=BLQftLy0Qs0EBVJIuWPMuAUeYUwk2NFkGV64ugXQRGo",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1638831589865?e=1660176000&v=beta&t=x5azEgZkHPR5MQHKe-JAU7OCpzuevGQIN2iQzEXm7FA",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1638831589865?e=1660176000&v=beta&t=4ByckqnOSGF1jY0ieSfxachmGJ0dfUy8ErhiMjGS9p8",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_"
+                        }
+                    },
+                    "universalName": "linkedin",
+                    "dashCompanyUrn": "urn:li:fsd_company:1337",
+                    "trackingId": "maQsf/+GSTi06tfUIsuSZw=="
+                },
+                "displaySource": "linkedin.com",
+                "companyUrn": "urn:li:fs_miniCompany:1337",
+                "url": "http://www.linkedin.com/learning/writing-a-compelling-blog-post"
+            }
+        ],
+        "volunteer": [
+            {
+                "role": "Class Mentor",
+                "companyName": "CHANDIGARH UNIVERSITY",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 7,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 7,
+                        "year": 2021
+                    }
+                },
+                "cause": "EDUCATION",
+                "description": "Volunteered to be a class mentor and helped students in their studies",
+                "company": {
+                    "miniCompany": {
+                        "objectUrn": "urn:li:company:8282089",
+                        "entityUrn": "urn:li:fs_miniCompany:8282089",
+                        "name": "CHANDIGARH UNIVERSITY",
+                        "showcase": false,
+                        "active": true,
+                        "logo": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1631160311931?e=1660176000&v=beta&t=Q3_oSCPAczi69p3jLFL1JoCBTF7DGOJvKWTkHYIotRE",
+                                        "expiresAt": 1660176000000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1631160311931?e=1660176000&v=beta&t=XmPirVqUNJ0IKtF97izKMMvUmIxpMNODRoZl3eMijNI",
+                                        "expiresAt": 1660176000000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1631160311931?e=1660176000&v=beta&t=ltc2tNsR3gDwWhix_5Onn3hLvWmBMRK5aUf6kWJo66M",
+                                        "expiresAt": 1660176000000,
+                                        "height": 400
+                                    }
+                                ],
+                                "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQEmJ1x0JWWf6Q/company-logo_"
+                            }
+                        },
+                        "universalName": "chandigarh-university",
+                        "dashCompanyUrn": "urn:li:fsd_company:8282089",
+                        "trackingId": "u2wDuFchQ9enBdAZiizu+g=="
+                    }
+                },
+                "companyUrn": "urn:li:fs_miniCompany:8282089"
+            }
+        ],
+        "honors": [],
+        "projects": [
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Abhishek",
+                            "lastName": "Chatterjee",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACEOAHoBZI5Np-rN1gPVYGBjeZdTh7SVU_o",
+                            "occupation": "Machine Learning Engineer | Building Delphy | MSc Data Science | Machine Learning | Deep Learning",
+                            "objectUrn": "urn:li:member:554565754",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACEOAHoBZI5Np-rN1gPVYGBjeZdTh7SVU_o",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1651419784684?e=1657756800&v=beta&t=nZyE9soQ07gxIcRlIBoqdpeVEiVKvXu28y7IJC0ZJP8",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1651419784684?e=1657756800&v=beta&t=BaK--JJquHlXl3CgW9FBGsFHtSfUTSpGiLZbelV8nyo",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5616AQGNktlCF_sxMw/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "imdeepmind",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1612978569160?e=1657756800&v=beta&t=JSCplKsAmCBI-JBxegCaFhsPGdOTotVMJ-cJhsntZ4E",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1612978569160?e=1657756800&v=beta&t=yFWoZ6NgcpK8Bn1oqbtB0hhOEd0j9y1JbBMiqN76t0Q",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1612978569160?e=1657756800&v=beta&t=Zu0oG1_bocRiTkkz1EsUi-n_6ckFQi3rqN8u_irS8QU",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1612978569160?e=1657756800&v=beta&t=2H1ef2MWjPSp5lfPtmOtaIP8D-omvc-yMwKXe78-26I",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E03AQFcTrLa2GVp7w/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "K09ZpN1/QRynH0r1PEXpkw=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAACEOAHoBZI5Np-rN1gPVYGBjeZdTh7SVU_o,119122116,337698559)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACEOAHoBZI5Np-rN1gPVYGBjeZdTh7SVU_o"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 11,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 11,
+                        "year": 2021
+                    }
+                },
+                "description": "Hocrox is an image preprocessing and augmentation library. It provides a Keras like simple interface to make preprocessing and augmentation pipelines. Hocrox internally uses OpenCV to perform the operations on images. OpenCV is one of the most popular Computer Vision library.",
+                "title": "Hocrox: An image preprocessing and augmentation library with Keras like interface.",
+                "url": "https://github.com/imdeepmind"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Abhishek",
+                            "lastName": "Chatterjee",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACEOAHoBZI5Np-rN1gPVYGBjeZdTh7SVU_o",
+                            "occupation": "Machine Learning Engineer | Building Delphy | MSc Data Science | Machine Learning | Deep Learning",
+                            "objectUrn": "urn:li:member:554565754",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACEOAHoBZI5Np-rN1gPVYGBjeZdTh7SVU_o",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1651419784684?e=1657756800&v=beta&t=nZyE9soQ07gxIcRlIBoqdpeVEiVKvXu28y7IJC0ZJP8",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1651419784684?e=1657756800&v=beta&t=BaK--JJquHlXl3CgW9FBGsFHtSfUTSpGiLZbelV8nyo",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5616AQGNktlCF_sxMw/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "imdeepmind",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1612978569160?e=1657756800&v=beta&t=JSCplKsAmCBI-JBxegCaFhsPGdOTotVMJ-cJhsntZ4E",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1612978569160?e=1657756800&v=beta&t=yFWoZ6NgcpK8Bn1oqbtB0hhOEd0j9y1JbBMiqN76t0Q",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1612978569160?e=1657756800&v=beta&t=Zu0oG1_bocRiTkkz1EsUi-n_6ckFQi3rqN8u_irS8QU",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1612978569160?e=1657756800&v=beta&t=2H1ef2MWjPSp5lfPtmOtaIP8D-omvc-yMwKXe78-26I",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E03AQFcTrLa2GVp7w/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "K09ZpN1/QRynH0r1PEXpkw=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAACEOAHoBZI5Np-rN1gPVYGBjeZdTh7SVU_o,314172761,281629179)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACEOAHoBZI5Np-rN1gPVYGBjeZdTh7SVU_o"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 1,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 5,
+                        "year": 2020
+                    }
+                },
+                "description": "NeuralPy is a High-Level Keras like deep learning library that works on top of PyTorch written in pure Python. NeuralPy can be used to develop state-of-the-art deep learning models in a few lines of code. It provides a Keras like simple yet powerful interface to build and train models. ",
+                "title": "NeuralPy Deep Learning library",
+                "url": "https://github.com/imdeepmind/NeuralPy"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Abhishek",
+                            "lastName": "Chatterjee",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACEOAHoBZI5Np-rN1gPVYGBjeZdTh7SVU_o",
+                            "occupation": "Machine Learning Engineer | Building Delphy | MSc Data Science | Machine Learning | Deep Learning",
+                            "objectUrn": "urn:li:member:554565754",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACEOAHoBZI5Np-rN1gPVYGBjeZdTh7SVU_o",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1651419784684?e=1657756800&v=beta&t=nZyE9soQ07gxIcRlIBoqdpeVEiVKvXu28y7IJC0ZJP8",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1651419784684?e=1657756800&v=beta&t=BaK--JJquHlXl3CgW9FBGsFHtSfUTSpGiLZbelV8nyo",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5616AQGNktlCF_sxMw/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "imdeepmind",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1612978569160?e=1657756800&v=beta&t=JSCplKsAmCBI-JBxegCaFhsPGdOTotVMJ-cJhsntZ4E",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1612978569160?e=1657756800&v=beta&t=yFWoZ6NgcpK8Bn1oqbtB0hhOEd0j9y1JbBMiqN76t0Q",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1612978569160?e=1657756800&v=beta&t=Zu0oG1_bocRiTkkz1EsUi-n_6ckFQi3rqN8u_irS8QU",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1612978569160?e=1657756800&v=beta&t=2H1ef2MWjPSp5lfPtmOtaIP8D-omvc-yMwKXe78-26I",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E03AQFcTrLa2GVp7w/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "K09ZpN1/QRynH0r1PEXpkw=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAACEOAHoBZI5Np-rN1gPVYGBjeZdTh7SVU_o,314525808,281631106)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACEOAHoBZI5Np-rN1gPVYGBjeZdTh7SVU_o"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 9,
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2020
+                    }
+                },
+                "description": "ResearchNote is an ultra minimalistic open-source simple note-taking app developed using Python, Flask, React, and Ant Design.\n\nThe following are the highlights of Research Notes:\n- Ultra minimalistic and super clean UI\n- Provides a rich editor with supports like advanced formating, emojis, etc\n- Supports a handy search method to search notes\n- Open-Source\n- 100% Free and always will be\n",
+                "title": "ResearchNotes: Ultra-simple note taking app",
+                "url": "https://github.com/imdeepmind/ResearchNote"
+            }
+        ]
+    },
+    "contact_info": {
+        "email_address": "abhishek.chatterjee97@protonmail.com",
+        "websites": [
+            {
+                "url": "https://imdeepmind.com",
+                "label": "PERSONAL"
+            }
+        ],
+        "twitter": [
+            {
+                "name": "imdeepmind",
+                "credentialId": "urn:li:member:554565754;485807710"
+            }
+        ],
+        "birthdate": null,
+        "ims": null,
+        "phone_numbers": []
+    },
+    "connections": [
+        {
+            "urn_id": "ACoAAC24GToBKzC8vS7jZaCEqoq3Jse_M2Tson8",
+            "distance": "DISTANCE_1",
+            "public_id": "abhijit-paul-936a68194",
+            "tracking_id": "767039802"
+        },
+        {
+            "urn_id": "ACoAAByhqogBLFVDJbqojrVMhtKfC3o3hRfEcjg",
+            "distance": "DISTANCE_1",
+            "public_id": "biki-talukdar-460a54114",
+            "tracking_id": "480357000"
+        },
+        {
+            "urn_id": "ACoAABr4jt0BoOUmisITdRo1gR4CumG5I4jjZIw",
+            "distance": "DISTANCE_1",
+            "public_id": "samudra-deka-911659107",
+            "tracking_id": "452497117"
+        },
+        {
+            "urn_id": "ACoAADLJzxsBizdB0nN5NZBCM41Q-z6-7ef5gyI",
+            "distance": "DISTANCE_1",
+            "public_id": "deepjyoti-kalita-78b4411b9",
+            "tracking_id": "852086555"
+        },
+        {
+            "urn_id": "ACoAADe3CFYBsoFdtSEajXbg51HDagdpBEb3kx4",
+            "distance": "DISTANCE_1",
+            "public_id": "binud-panging-872062221",
+            "tracking_id": "934742102"
+        },
+        {
+            "urn_id": "ACoAACT67ZEBgw1Aprl8Aqy8zWMavdTyaWs7J3w",
+            "distance": "DISTANCE_1",
+            "public_id": "titikshya-das-015942153",
+            "tracking_id": "620424593"
+        },
+        {
+            "urn_id": "ACoAAAjgx0kBxJoPu_7t3kS1NbDizQekjIIzMbE",
+            "distance": "DISTANCE_1",
+            "public_id": "lakheswar-nath-289a7141",
+            "tracking_id": "148948809"
+        },
+        {
+            "urn_id": "ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE",
+            "distance": "DISTANCE_1",
+            "public_id": "prithoo11335",
+            "tracking_id": "231212168"
+        },
+        {
+            "urn_id": "ACoAACr0GSwBcmPDh22HqivG9h0JwG-eahXSYW8",
+            "distance": "DISTANCE_1",
+            "public_id": "nihar-kashyap98",
+            "tracking_id": "720640300"
+        },
+        {
+            "urn_id": "ACoAACeXhGEBEVCUXmKi5rowUSeFZNerPjvzQsc",
+            "distance": "DISTANCE_1",
+            "public_id": "mahbubul-haque-a55552166",
+            "tracking_id": "664241249"
+        },
+        {
+            "urn_id": "ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY",
+            "distance": "DISTANCE_1",
+            "public_id": "tridip-das-b5837911b",
+            "tracking_id": "499568180"
+        },
+        {
+            "urn_id": "ACoAACZxhUQBl1V8kpLj4ACrE2LzpatGvVzEgSA",
+            "distance": "DISTANCE_1",
+            "public_id": "nabajyoti-borah-944000160",
+            "tracking_id": "644973892"
+        },
+        {
+            "urn_id": "ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8",
+            "distance": "DISTANCE_1",
+            "public_id": "sivaranjan-goswami-790b4523",
+            "tracking_id": "83451420"
+        },
+        {
+            "urn_id": "ACoAACTFIIYB1cK_syRcCXEc0o8RTm4JMlhYcHA",
+            "distance": "DISTANCE_1",
+            "public_id": "arun-kumar-nath-686721152",
+            "tracking_id": "616898694"
+        },
+        {
+            "urn_id": "ACoAACDVs-sB_IgxPBMHMRBfR6is3jmwwV_OvTE",
+            "distance": "DISTANCE_1",
+            "public_id": "swapnil-bhattacharjee-ghy",
+            "tracking_id": "550876139"
+        },
+        {
+            "urn_id": "ACoAAC12ZqEBCx9JN_YIi1eF1FPPDif3mXI3fyc",
+            "distance": "DISTANCE_1",
+            "public_id": "abinash-panigrahi-169531193",
+            "tracking_id": "762734241"
+        },
+        {
+            "urn_id": "ACoAACYmrvgBRdvWxItbY_KP_fyrEgZ9U-QKJqk",
+            "distance": "DISTANCE_1",
+            "public_id": "rtsu",
+            "tracking_id": "640069368"
+        }
+    ],
+    "skills": [
+        {
+            "name": "HTML"
+        },
+        {
+            "name": "PHP"
+        },
+        {
+            "name": "CodeIgniter"
+        },
+        {
+            "name": "Data Analysis"
+        },
+        {
+            "name": "Next.js"
+        },
+        {
+            "name": "REST APIs"
+        },
+        {
+            "name": "Node.js"
+        },
+        {
+            "name": "Deep Learning"
+        },
+        {
+            "name": "Machine Learning"
+        },
+        {
+            "name": "Web Development"
+        },
+        {
+            "name": "Artificial Intelligence"
+        },
+        {
+            "name": "Computer Vision"
+        },
+        {
+            "name": "Artificial Intelligence (AI)",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:2407",
+            "standardizedSkill": {
+                "name": "Artificial Intelligence (AI)",
+                "entityUrn": "urn:li:fs_miniSkill:2407"
+            }
+        },
+        {
+            "name": "Web Content Writing",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:1123",
+            "standardizedSkill": {
+                "name": "Web Content Writing",
+                "entityUrn": "urn:li:fs_miniSkill:1123"
+            }
+        },
+        {
+            "name": "Software Development"
+        },
+        {
+            "name": "Data Science"
+        },
+        {
+            "name": "NodeJS"
+        },
+        {
+            "name": "JavaScript"
+        },
+        {
+            "name": "SQL"
+        },
+        {
+            "name": "ReactJS"
+        },
+        {
+            "name": "Python (Programming Language)"
+        },
+        {
+            "name": "Amazon Web Services (AWS)"
+        },
+        {
+            "name": "PyTorch"
+        },
+        {
+            "name": "TensorFlow"
+        },
+        {
+            "name": "Keras"
+        },
+        {
+            "name": "Docker"
+        },
+        {
+            "name": "FastAPI"
+        },
+        {
+            "name": "Artificial Neural Networks"
+        },
+        {
+            "name": "Natural Language Processing (NLP)"
+        },
+        {
+            "name": "Convolutional Neural Networks (CNN)"
+        },
+        {
+            "name": "Neural Networks"
+        },
+        {
+            "name": "OpenCV",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:10145",
+            "standardizedSkill": {
+                "name": "OpenCV",
+                "entityUrn": "urn:li:fs_miniSkill:10145"
+            }
+        },
+        {
+            "name": "Scikit-Learn"
+        },
+        {
+            "name": "NumPy"
+        },
+        {
+            "name": "Cascading Style Sheets (CSS)"
+        }
+    ]
+}

@@ -1,0 +1,780 @@
+{
+    "profile": {
+        "summary": "Experienced Software Developer with a demonstrated history of working in the outsourcing/offshoring industry. Currently working on MERN Stack. Skilled in Cascading Style Sheets (CSS), Java, PHP, Vertx, Node.Js, MongoDB, Express.Js , ReactJs and Data Structures. Strong engineering professional with a Master of Computer Applications (M.C.A.) focused in Computer Applications from Chandigarh University. Original author of Lane-Js (A lightweight routing framework for NodeJs).",
+        "industryName": "IT Services and IT Consulting",
+        "lastName": "Deka",
+        "locationName": "India",
+        "student": false,
+        "geoCountryName": "India",
+        "geoCountryUrn": "urn:li:fs_geo:102713980",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "birthDate": {
+            "month": 1,
+            "day": 26
+        },
+        "industryUrn": "urn:li:fs_industry:96",
+        "firstName": "Samudra",
+        "entityUrn": "urn:li:fs_profile:ACoAABr4jt0BoOUmisITdRo1gR4CumG5I4jjZIw",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:105607401"
+        },
+        "geoLocationName": "Guwahati, Assam",
+        "location": {
+            "basicLocation": {
+                "countryCode": "in"
+            }
+        },
+        "headline": "Head Of Engineering at TechVariable",
+        "displayPictureUrl": "https://media-exp1.licdn.com/dms/image/C4E03AQFC6yc6bDNRpw/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/0/1649175618957?e=1657756800&v=beta&t=qsC8Ggqms1cDBD6fyLljUILgSliEH_AvOdrSzpjCOJo",
+        "img_200_200": "200_200/0/1649175618957?e=1657756800&v=beta&t=cqz_q-rroJlAY_js2dLTBUZe_STAz3NizMBTck-Ag3A",
+        "img_400_400": "400_400/0/1649175618957?e=1657756800&v=beta&t=gN9HJYCNC90iZxj3-TXIk3Fp2oYzqRHucuwF55jQtgo",
+        "img_800_800": "800_800/0/1649175618957?e=1657756800&v=beta&t=2IlViGxTeLVQnGcCsaZ6kWkN68-TXTi9P0A33K-g6wU",
+        "profile_id": "ACoAABr4jt0BoOUmisITdRo1gR4CumG5I4jjZIw",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAABr4jt0BoOUmisITdRo1gR4CumG5I4jjZIw",
+        "member_urn": "urn:li:member:452497117",
+        "experience": [
+            {
+                "locationName": "Guwahati, Assam, India",
+                "entityUrn": "urn:li:fs_position:(ACoAABr4jt0BoOUmisITdRo1gR4CumG5I4jjZIw,1945456707)",
+                "geoLocationName": "Guwahati, Assam, India",
+                "geoUrn": "urn:li:fs_geo:105607401",
+                "companyName": "TechVariable",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 3,
+                        "year": 2022
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Head Of Engineering",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:10632640",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQE6IzKHUZQmAA/company-logo_"
+            },
+            {
+                "locationName": "Guwahati, Assam, India",
+                "entityUrn": "urn:li:fs_position:(ACoAABr4jt0BoOUmisITdRo1gR4CumG5I4jjZIw,1835917297)",
+                "geoLocationName": "Guwahati, Assam, India",
+                "geoUrn": "urn:li:fs_geo:105607401",
+                "companyName": "TechVariable",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 3,
+                        "year": 2020
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Senior programmer analyst",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:10632640",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQE6IzKHUZQmAA/company-logo_"
+            },
+            {
+                "locationName": "Guwahati Club, Guwahati",
+                "entityUrn": "urn:li:fs_position:(ACoAABr4jt0BoOUmisITdRo1gR4CumG5I4jjZIw,1588340058)",
+                "geoLocationName": "Guwahati Club, Guwahati",
+                "geoUrn": "urn:li:fs_geo:103464481",
+                "companyName": "TechVariable",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 3,
+                        "year": 2020
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Programmer Analyst",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:10632640",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQE6IzKHUZQmAA/company-logo_"
+            },
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAABr4jt0BoOUmisITdRo1gR4CumG5I4jjZIw,1427675934)",
+                "companyName": "RV Technologies Softwares Pvt. Ltd.",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 1,
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "month": 3,
+                        "year": 2019
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 51,
+                        "end": 200
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Mean Stack Developor",
+                "companyUrn": "urn:li:fs_miniCompany:2598486",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQHYEJzAUExNgA/company-logo_"
+            },
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAABr4jt0BoOUmisITdRo1gR4CumG5I4jjZIw,1365878538)",
+                "companyName": "Ommzi Solutions Private Limited",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 2,
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2018
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Software Engineer",
+                "companyUrn": "urn:li:fs_miniCompany:6442343",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQEpUhcipWXE8A/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAABr4jt0BoOUmisITdRo1gR4CumG5I4jjZIw,306019115)",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2016
+                    },
+                    "startDate": {
+                        "year": 2014
+                    }
+                },
+                "degreeName": "Master of Computer Applications (M.C.A.)",
+                "schoolName": "Chandigarh university",
+                "fieldOfStudy": "Computer Applications"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAABr4jt0BoOUmisITdRo1gR4CumG5I4jjZIw,368488021)",
+                "school": {
+                    "objectUrn": "urn:li:school:203992",
+                    "entityUrn": "urn:li:fs_miniSchool:203992",
+                    "active": true,
+                    "schoolName": "North Eastern Regional Institute of Management",
+                    "trackingId": "O/Tlg805S8W4Vwi7pMfb+g==",
+                    "logoUrl": "https://media-exp1.licdn.com/dms/image/C560BAQEpw0A694f-Vg/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2014
+                    },
+                    "startDate": {
+                        "year": 2011
+                    }
+                },
+                "degreeName": "Bachelor of Computer Application",
+                "schoolName": "NORTH EASTERN REGIONAL INSTITUTE OF MANAGEMENT(NERIM)",
+                "fieldOfStudy": "Computer Applications",
+                "schoolUrn": "urn:li:fs_miniSchool:203992"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAABr4jt0BoOUmisITdRo1gR4CumG5I4jjZIw,790065806)",
+                "degreeName": "BCA",
+                "schoolName": "Nerim"
+            }
+        ],
+        "languages": [
+            {
+                "name": "Assamese"
+            },
+            {
+                "name": "English",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "Hindi",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ],
+        "publications": [],
+        "certifications": [
+            {
+                "authority": "Aspiring Minds",
+                "name": "AMCAT Certified Data Processing Specialist",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 9,
+                        "year": 2015
+                    }
+                },
+                "licenseNumber": "1963517-211",
+                "company": {
+                    "objectUrn": "urn:li:company:838197",
+                    "entityUrn": "urn:li:fs_miniCompany:838197",
+                    "name": "Aspiring Minds",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1588132864668?e=1660176000&v=beta&t=rzjvTrRM7q_HncoYhh4LEMMw63Ox9cHxUl7zMFLGOyY",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1588132864668?e=1660176000&v=beta&t=AHRdFNkDEUtgwr9FSI4Yj9SAxdTFLetDZtH_WOit4tQ",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1588132864668?e=1660176000&v=beta&t=mOqPqDaXcxPNEw7ePbKknu8ZkWwIvwiJt7A7zi997jA",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQGv-bQANStG4g/company-logo_"
+                        }
+                    },
+                    "universalName": "aspiring-minds",
+                    "dashCompanyUrn": "urn:li:fsd_company:838197",
+                    "trackingId": "5U+PkmV+TAa/iL8567vpgQ=="
+                },
+                "displaySource": "myamcat.com",
+                "companyUrn": "urn:li:fs_miniCompany:838197",
+                "url": "https://www.myamcat.com/certificate/1963517/data-processing-specialist/211"
+            },
+            {
+                "authority": "Aspiring Minds",
+                "name": "AMCAT Certified Data Processing Specialist",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 9,
+                        "year": 2015
+                    }
+                },
+                "licenseNumber": "1963517-211",
+                "company": {
+                    "objectUrn": "urn:li:company:838197",
+                    "entityUrn": "urn:li:fs_miniCompany:838197",
+                    "name": "Aspiring Minds",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1588132864668?e=1660176000&v=beta&t=rzjvTrRM7q_HncoYhh4LEMMw63Ox9cHxUl7zMFLGOyY",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1588132864668?e=1660176000&v=beta&t=AHRdFNkDEUtgwr9FSI4Yj9SAxdTFLetDZtH_WOit4tQ",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1588132864668?e=1660176000&v=beta&t=mOqPqDaXcxPNEw7ePbKknu8ZkWwIvwiJt7A7zi997jA",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQGv-bQANStG4g/company-logo_"
+                        }
+                    },
+                    "universalName": "aspiring-minds",
+                    "dashCompanyUrn": "urn:li:fsd_company:838197",
+                    "trackingId": "eZ0w2ojpSqGF/mcA36/ypA=="
+                },
+                "displaySource": "myamcat.com",
+                "companyUrn": "urn:li:fs_miniCompany:838197",
+                "url": "https://www.myamcat.com/certificate/1963517/data-processing-specialist/211"
+            },
+            {
+                "authority": "Aspiring Minds",
+                "name": "AMCAT Certified Software Engineer - IT Services",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 3,
+                        "year": 2016
+                    }
+                },
+                "licenseNumber": "1963517-259",
+                "company": {
+                    "objectUrn": "urn:li:company:838197",
+                    "entityUrn": "urn:li:fs_miniCompany:838197",
+                    "name": "Aspiring Minds",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1588132864668?e=1660176000&v=beta&t=rzjvTrRM7q_HncoYhh4LEMMw63Ox9cHxUl7zMFLGOyY",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1588132864668?e=1660176000&v=beta&t=AHRdFNkDEUtgwr9FSI4Yj9SAxdTFLetDZtH_WOit4tQ",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1588132864668?e=1660176000&v=beta&t=mOqPqDaXcxPNEw7ePbKknu8ZkWwIvwiJt7A7zi997jA",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQGv-bQANStG4g/company-logo_"
+                        }
+                    },
+                    "universalName": "aspiring-minds",
+                    "dashCompanyUrn": "urn:li:fsd_company:838197",
+                    "trackingId": "SajYKW+5StSqU8Ri6PV5ug=="
+                },
+                "displaySource": "myamcat.com",
+                "companyUrn": "urn:li:fs_miniCompany:838197",
+                "url": "https://www.myamcat.com/certificate/1963517/software-engineer-it-services/259"
+            },
+            {
+                "authority": "Aspiring Minds",
+                "name": "AMCAT Certified Business Analyst",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 7,
+                        "year": 2016
+                    }
+                },
+                "licenseNumber": "1963517-94",
+                "company": {
+                    "objectUrn": "urn:li:company:838197",
+                    "entityUrn": "urn:li:fs_miniCompany:838197",
+                    "name": "Aspiring Minds",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1588132864668?e=1660176000&v=beta&t=rzjvTrRM7q_HncoYhh4LEMMw63Ox9cHxUl7zMFLGOyY",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1588132864668?e=1660176000&v=beta&t=AHRdFNkDEUtgwr9FSI4Yj9SAxdTFLetDZtH_WOit4tQ",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1588132864668?e=1660176000&v=beta&t=mOqPqDaXcxPNEw7ePbKknu8ZkWwIvwiJt7A7zi997jA",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQGv-bQANStG4g/company-logo_"
+                        }
+                    },
+                    "universalName": "aspiring-minds",
+                    "dashCompanyUrn": "urn:li:fsd_company:838197",
+                    "trackingId": "sK4vq3Y9Riew/nloy0tIcA=="
+                },
+                "displaySource": "myamcat.com",
+                "companyUrn": "urn:li:fs_miniCompany:838197",
+                "url": "https://www.myamcat.com/certificate/1963517/business-analyst/94"
+            },
+            {
+                "authority": "Aspiring Minds",
+                "name": "AMCAT Certified in English Comprehension",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 7,
+                        "year": 2016
+                    }
+                },
+                "licenseNumber": "1963517-283",
+                "company": {
+                    "objectUrn": "urn:li:company:838197",
+                    "entityUrn": "urn:li:fs_miniCompany:838197",
+                    "name": "Aspiring Minds",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1588132864668?e=1660176000&v=beta&t=rzjvTrRM7q_HncoYhh4LEMMw63Ox9cHxUl7zMFLGOyY",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1588132864668?e=1660176000&v=beta&t=AHRdFNkDEUtgwr9FSI4Yj9SAxdTFLetDZtH_WOit4tQ",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1588132864668?e=1660176000&v=beta&t=mOqPqDaXcxPNEw7ePbKknu8ZkWwIvwiJt7A7zi997jA",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQGv-bQANStG4g/company-logo_"
+                        }
+                    },
+                    "universalName": "aspiring-minds",
+                    "dashCompanyUrn": "urn:li:fsd_company:838197",
+                    "trackingId": "nJXCrEZuQaiDUwDQXgcacQ=="
+                },
+                "displaySource": "myamcat.com",
+                "companyUrn": "urn:li:fs_miniCompany:838197",
+                "url": "https://www.myamcat.com/certificate/1963517/in-english-comprehension/283"
+            },
+            {
+                "authority": "Aspiring Minds",
+                "name": "AMCAT Certified Software Development Trainee",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 3,
+                        "year": 2016
+                    }
+                },
+                "licenseNumber": "1963517-166",
+                "company": {
+                    "objectUrn": "urn:li:company:838197",
+                    "entityUrn": "urn:li:fs_miniCompany:838197",
+                    "name": "Aspiring Minds",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1588132864668?e=1660176000&v=beta&t=rzjvTrRM7q_HncoYhh4LEMMw63Ox9cHxUl7zMFLGOyY",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1588132864668?e=1660176000&v=beta&t=AHRdFNkDEUtgwr9FSI4Yj9SAxdTFLetDZtH_WOit4tQ",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1588132864668?e=1660176000&v=beta&t=mOqPqDaXcxPNEw7ePbKknu8ZkWwIvwiJt7A7zi997jA",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQGv-bQANStG4g/company-logo_"
+                        }
+                    },
+                    "universalName": "aspiring-minds",
+                    "dashCompanyUrn": "urn:li:fsd_company:838197",
+                    "trackingId": "giXCPrVbT3OSDgWfIvqu3A=="
+                },
+                "displaySource": "myamcat.com",
+                "companyUrn": "urn:li:fs_miniCompany:838197",
+                "url": "https://www.myamcat.com/certificate/1963517/software-development-trainee/166"
+            },
+            {
+                "authority": "Aspiring Minds",
+                "name": "AMCAT Certified Collections Specialist",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 9,
+                        "year": 2015
+                    }
+                },
+                "licenseNumber": "1963517-197",
+                "company": {
+                    "objectUrn": "urn:li:company:838197",
+                    "entityUrn": "urn:li:fs_miniCompany:838197",
+                    "name": "Aspiring Minds",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1588132864668?e=1660176000&v=beta&t=rzjvTrRM7q_HncoYhh4LEMMw63Ox9cHxUl7zMFLGOyY",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1588132864668?e=1660176000&v=beta&t=AHRdFNkDEUtgwr9FSI4Yj9SAxdTFLetDZtH_WOit4tQ",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1588132864668?e=1660176000&v=beta&t=mOqPqDaXcxPNEw7ePbKknu8ZkWwIvwiJt7A7zi997jA",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQGv-bQANStG4g/company-logo_"
+                        }
+                    },
+                    "universalName": "aspiring-minds",
+                    "dashCompanyUrn": "urn:li:fsd_company:838197",
+                    "trackingId": "eBdqW1kJQdePr1zBrjJS3w=="
+                },
+                "displaySource": "myamcat.com",
+                "companyUrn": "urn:li:fs_miniCompany:838197",
+                "url": "https://www.myamcat.com/certificate/1963517/collections-specialist/197"
+            }
+        ],
+        "volunteer": [],
+        "honors": [],
+        "projects": []
+    },
+    "contact_info": {
+        "email_address": "samdeka28@gmail.com",
+        "websites": [
+            {
+                "url": "https://codepen.io/SamDeka/"
+            },
+            {
+                "url": "https://www.npmjs.com/package/lane-js"
+            }
+        ],
+        "twitter": [],
+        "birthdate": {
+            "month": 1,
+            "day": 26
+        },
+        "ims": null,
+        "phone_numbers": [
+            {
+                "type": "MOBILE",
+                "number": "9706202403"
+            }
+        ]
+    },
+    "connections": [
+        {
+            "urn_id": "ACoAADZmR9QB1zOH_PmrzQQw2wQmTJRTcNGU7CE",
+            "distance": "DISTANCE_1",
+            "public_id": "bkalita",
+            "tracking_id": "912672724"
+        },
+        {
+            "urn_id": "ACoAADLJzxsBizdB0nN5NZBCM41Q-z6-7ef5gyI",
+            "distance": "DISTANCE_1",
+            "public_id": "deepjyoti-kalita-78b4411b9",
+            "tracking_id": "852086555"
+        },
+        {
+            "urn_id": "ACoAADe3CFYBsoFdtSEajXbg51HDagdpBEb3kx4",
+            "distance": "DISTANCE_1",
+            "public_id": "binud-panging-872062221",
+            "tracking_id": "934742102"
+        },
+        {
+            "urn_id": "ACoAAC2aUPYBGPB-T9xDu2Hjrq7OgzRPu5nTvyE",
+            "distance": "DISTANCE_1",
+            "public_id": "jintudas",
+            "tracking_id": "765087990"
+        },
+        {
+            "urn_id": "ACoAACT67ZEBgw1Aprl8Aqy8zWMavdTyaWs7J3w",
+            "distance": "DISTANCE_1",
+            "public_id": "titikshya-das-015942153",
+            "tracking_id": "620424593"
+        },
+        {
+            "urn_id": "ACoAAAjgx0kBxJoPu_7t3kS1NbDizQekjIIzMbE",
+            "distance": "DISTANCE_1",
+            "public_id": "lakheswar-nath-289a7141",
+            "tracking_id": "148948809"
+        },
+        {
+            "urn_id": "ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE",
+            "distance": "DISTANCE_1",
+            "public_id": "prithoo11335",
+            "tracking_id": "231212168"
+        },
+        {
+            "urn_id": "ACoAACr0GSwBcmPDh22HqivG9h0JwG-eahXSYW8",
+            "distance": "DISTANCE_1",
+            "public_id": "nihar-kashyap98",
+            "tracking_id": "720640300"
+        },
+        {
+            "urn_id": "ACoAACeXhGEBEVCUXmKi5rowUSeFZNerPjvzQsc",
+            "distance": "DISTANCE_1",
+            "public_id": "mahbubul-haque-a55552166",
+            "tracking_id": "664241249"
+        },
+        {
+            "urn_id": "ACoAACzP6KMBcLKqKnFRpIudaukkoW4NoqstgrM",
+            "distance": "DISTANCE_1",
+            "public_id": "pranit-prakash-sahu",
+            "tracking_id": "751823011"
+        },
+        {
+            "urn_id": "ACoAACbTg-gBtT_YqZc-FG2lIVBv13QTx8UUB8E",
+            "distance": "DISTANCE_1",
+            "public_id": "mridul24",
+            "tracking_id": "651396072"
+        },
+        {
+            "urn_id": "ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY",
+            "distance": "DISTANCE_1",
+            "public_id": "tridip-das-b5837911b",
+            "tracking_id": "499568180"
+        },
+        {
+            "urn_id": "ACoAACZxhUQBl1V8kpLj4ACrE2LzpatGvVzEgSA",
+            "distance": "DISTANCE_1",
+            "public_id": "nabajyoti-borah-944000160",
+            "tracking_id": "644973892"
+        },
+        {
+            "urn_id": "ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8",
+            "distance": "DISTANCE_1",
+            "public_id": "sivaranjan-goswami-790b4523",
+            "tracking_id": "83451420"
+        },
+        {
+            "urn_id": "ACoAACTFIIYB1cK_syRcCXEc0o8RTm4JMlhYcHA",
+            "distance": "DISTANCE_1",
+            "public_id": "arun-kumar-nath-686721152",
+            "tracking_id": "616898694"
+        },
+        {
+            "urn_id": "ACoAAC4efLABFBv0f30-SDGDgLSf1gXTlkpJTfc",
+            "distance": "DISTANCE_1",
+            "public_id": "shawan-mandal",
+            "tracking_id": "773749936"
+        },
+        {
+            "urn_id": "ACoAACDVs-sB_IgxPBMHMRBfR6is3jmwwV_OvTE",
+            "distance": "DISTANCE_1",
+            "public_id": "swapnil-bhattacharjee-ghy",
+            "tracking_id": "550876139"
+        },
+        {
+            "urn_id": "ACoAACYmrvgBRdvWxItbY_KP_fyrEgZ9U-QKJqk",
+            "distance": "DISTANCE_1",
+            "public_id": "rtsu",
+            "tracking_id": "640069368"
+        },
+        {
+            "urn_id": "ACoAADRMKTMBj76XTPRfB9R5rvfwNOXP2n93n4c",
+            "distance": "DISTANCE_1",
+            "public_id": "manash-deka-497a12205",
+            "tracking_id": "877406515"
+        },
+        {
+            "urn_id": "ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc",
+            "distance": "DISTANCE_1",
+            "public_id": "ratnadeep-bhattacharjee",
+            "tracking_id": "135079003"
+        },
+        {
+            "urn_id": "ACoAAAR5v8MBjPwCvp8TP9RWZyGSeNYNiJ1wKJE",
+            "distance": "DISTANCE_1",
+            "public_id": "nilotpal-boruah",
+            "tracking_id": "75087811"
+        }
+    ],
+    "skills": [
+        {
+            "name": "React.js"
+        },
+        {
+            "name": "JavaScript"
+        },
+        {
+            "name": "Node.js"
+        },
+        {
+            "name": "Data Structures"
+        },
+        {
+            "name": "Algorithms"
+        },
+        {
+            "name": "HTML5"
+        },
+        {
+            "name": "Java"
+        },
+        {
+            "name": "jQuery"
+        },
+        {
+            "name": "Cascading Style Sheets (CSS)"
+        },
+        {
+            "name": "C"
+        },
+        {
+            "name": "PHP"
+        },
+        {
+            "name": "Yii"
+        },
+        {
+            "name": "MongoDB"
+        },
+        {
+            "name": "Vertx"
+        },
+        {
+            "name": "Express.js"
+        },
+        {
+            "name": "Amazon Web Services (AWS)"
+        },
+        {
+            "name": "Docker"
+        }
+    ]
+}

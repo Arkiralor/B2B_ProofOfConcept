@@ -1,0 +1,860 @@
+{
+    "profile": {
+        "summary": "B.Tech and 6+ yrs Experience in the IT sector- from Recruitment Life-cycle Process to Delivering Consulting Services to Tier 1 and 2 Companies. Currently working with numerous Clients for Indian and Overseas project requirements. Also working as a Freelance Recruiter, towards the growth of few IT start-ups and Digital Marketing Agencies. Feel free to DM me for any business related opportunities.",
+        "industryName": "IT Services and IT Consulting",
+        "lastName": "Mehjabin",
+        "locationName": "India",
+        "student": false,
+        "geoCountryName": "India",
+        "geoCountryUrn": "urn:li:fs_geo:102713980",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "birthDate": {
+            "month": 4,
+            "day": 13
+        },
+        "industryUrn": "urn:li:fs_industry:96",
+        "firstName": "Semina",
+        "entityUrn": "urn:li:fs_profile:ACoAABfao_AB5Wg8BGAuHauKtHyhtQgW5cNSfo4",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:102956297"
+        },
+        "geoLocationName": "Navi Mumbai, Maharashtra",
+        "location": {
+            "basicLocation": {
+                "countryCode": "in"
+            }
+        },
+        "headline": "Human Resources at Confidential",
+        "displayPictureUrl": "https://media-exp1.licdn.com/dms/image/C5603AQHv__pMaQt2yw/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/0/1646567104811?e=1657756800&v=beta&t=gTVfyksmrROeF4Us5f6DTOJmb096iyLvCbYeqY-Bets",
+        "img_200_200": "200_200/0/1646567104811?e=1657756800&v=beta&t=_C3jfDMCxX8kxd5bsjP2Q7Z1T68VTSYFM5rt0Aq1u48",
+        "img_400_400": "400_400/0/1646567104811?e=1657756800&v=beta&t=VOGVDNRM9Ka_BqsH7BFFSzTwdRnctrTx3hC2nhbW_6g",
+        "img_800_800": "800_800/0/1646567104811?e=1657756800&v=beta&t=71Oqhl69cJoGjszYr2w_NvzebO4FL8LnRvh5B0sqIkA",
+        "profile_id": "ACoAABfao_AB5Wg8BGAuHauKtHyhtQgW5cNSfo4",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAABfao_AB5Wg8BGAuHauKtHyhtQgW5cNSfo4",
+        "member_urn": "urn:li:member:400204784",
+        "experience": [
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAABfao_AB5Wg8BGAuHauKtHyhtQgW5cNSfo4,1926901846)",
+                "companyName": "XCUTIVES Inc.",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 3,
+                        "year": 2022
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Staffing and Recruiting"
+                    ]
+                },
+                "title": "Senior Consultant",
+                "companyUrn": "urn:li:fs_miniCompany:13359858",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQHtuQhGrMLLuQ/company-logo_"
+            },
+            {
+                "locationName": "Assam, India",
+                "entityUrn": "urn:li:fs_position:(ACoAABfao_AB5Wg8BGAuHauKtHyhtQgW5cNSfo4,1558564889)",
+                "geoLocationName": "Assam, India",
+                "geoUrn": "urn:li:fs_geo:104436408",
+                "companyName": "Confidential",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 1,
+                        "year": 2020
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 2,
+                        "end": 10
+                    },
+                    "industries": [
+                        "Semiconductors"
+                    ]
+                },
+                "title": "Human Resources Manager/Freelancer",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:2057606",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C560BAQH-FKq0ackyew/company-logo_"
+            },
+            {
+                "locationName": "Mumbai Area, India",
+                "entityUrn": "urn:li:fs_position:(ACoAABfao_AB5Wg8BGAuHauKtHyhtQgW5cNSfo4,1359935845)",
+                "geoLocationName": "Mumbai Area, India",
+                "companyName": "TechVariable",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 10,
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2018
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Corporate Communications and Recruiting Lead",
+                "companyUrn": "urn:li:fs_miniCompany:10632640",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQE6IzKHUZQmAA/company-logo_"
+            },
+            {
+                "locationName": "Guwahati Area, India",
+                "entityUrn": "urn:li:fs_position:(ACoAABfao_AB5Wg8BGAuHauKtHyhtQgW5cNSfo4,1208632679)",
+                "geoLocationName": "Guwahati Area, India",
+                "geoUrn": "urn:li:fs_geo:104535556",
+                "companyName": "TechVariable",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 8,
+                        "year": 2018
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2017
+                    }
+                },
+                "description": "TechVariable is an information technology consulting firm specializing in corporate IT services and solutions, across industries. Founded in 2015 ,by a team of experienced management and technical professionals, we are a company that understands what customer needs are and try to fulfill those requirements in an appropriate span of time.\n\nOur services:\n-OFFSHORE PRODUCT DEVELOPMENT\n-WEB APPLICATIONS DEVELOPMENT AND MAINTENANCE\n-E-COMMERCE\n-MOBILE APPLICATIONS\n-PRODUCT ENGINEERING",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Recruitment Officer",
+                "region": "urn:li:fs_region:(in,7248)",
+                "companyUrn": "urn:li:fs_miniCompany:10632640",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQE6IzKHUZQmAA/company-logo_"
+            },
+            {
+                "locationName": "Washington D.C. Metro Area",
+                "entityUrn": "urn:li:fs_position:(ACoAABfao_AB5Wg8BGAuHauKtHyhtQgW5cNSfo4,753415373)",
+                "geoLocationName": "Washington D.C. Metro Area",
+                "geoUrn": "urn:li:fs_geo:90000097",
+                "companyName": "Techaxis, Inc",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 7,
+                        "year": 2017
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2016
+                    }
+                },
+                "description": "Founded in 2007, our global reach extends throughout the United States, Canada, Mexico and Europe.Specialized in the domains of Public Sector Unit, Media and Entertainment,BFS and Insurance,Telecom,HiTech etc.,we dealt with the Tier 1 and Tier 2 Companies for their urgent and prior requirements.\nMy responsibilities included pure Sales Hiring (with a Technical background) and placing the right candidate (at a very senior level) to make any Organisation thrive.\nSuccessfully closed positions at executive levels of various clients and maintain good relations with my candidates. Hired Candidates for:\n\u2022\tDirect Sales (B2B)\n\u2022\t New Business Development\n\u2022\tAccount Management\n\u2022\tOutsourcing/Off-shoring\n\u2022\tTraditional IT Services and Software\n\u2022       Pre-Sales/Junior Technical Positions",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 51,
+                        "end": 200
+                    },
+                    "industries": [
+                        "Staffing and Recruiting"
+                    ]
+                },
+                "title": "Recruiting Consultant",
+                "region": "urn:li:fs_region:(us,97)",
+                "companyUrn": "urn:li:fs_miniCompany:1279270",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQHWscZLFIGZMg/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "projects": [
+                    "urn:li:fs_project:(ACoAABfao_AB5Wg8BGAuHauKtHyhtQgW5cNSfo4,572557483)"
+                ],
+                "entityUrn": "urn:li:fs_education:(ACoAABfao_AB5Wg8BGAuHauKtHyhtQgW5cNSfo4,263887032)",
+                "school": {
+                    "objectUrn": "urn:li:school:206183",
+                    "entityUrn": "urn:li:fs_miniSchool:206183",
+                    "active": true,
+                    "schoolName": "Assam Don Bosco University, Guwahati",
+                    "trackingId": "7MI/qIrwQ+KMKQk4/fx4DA==",
+                    "logoUrl": "https://media-exp1.licdn.com/dms/image/C510BAQF9YbRGZb8a9w/company-logo_"
+                },
+                "grade": "6.33 CGPA",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2014
+                    },
+                    "startDate": {
+                        "year": 2010
+                    }
+                },
+                "degreeName": "Bachelor of Technology (B.Tech.)",
+                "schoolName": "Assam Don Bosco University, Guwahati",
+                "fieldOfStudy": "Electronics and Communications Engineering",
+                "schoolUrn": "urn:li:fs_miniSchool:206183"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAABfao_AB5Wg8BGAuHauKtHyhtQgW5cNSfo4,442790428)",
+                "grade": "66%",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2009
+                    },
+                    "startDate": {
+                        "year": 2007
+                    }
+                },
+                "degreeName": "Higher Secondary",
+                "schoolName": "Salt Brook Academy",
+                "fieldOfStudy": "Science"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAABfao_AB5Wg8BGAuHauKtHyhtQgW5cNSfo4,442789588)",
+                "grade": "79.4%",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2007
+                    },
+                    "startDate": {
+                        "year": 1995
+                    }
+                },
+                "degreeName": "Schooling",
+                "schoolName": "Little Flower School"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "proficiency": "FULL_PROFESSIONAL"
+            }
+        ],
+        "publications": [
+            {
+                "date": {
+                    "month": 2,
+                    "year": 2015,
+                    "day": 1
+                },
+                "name": "IGI GLOBAL PUBLICATIONS",
+                "url": "http://www.igi-global.com/",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Semina",
+                            "lastName": "Mehjabin",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABfao_AB5Wg8BGAuHauKtHyhtQgW5cNSfo4",
+                            "occupation": "Human Resources at Confidential",
+                            "objectUrn": "urn:li:member:400204784",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABfao_AB5Wg8BGAuHauKtHyhtQgW5cNSfo4",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1577777663966?e=1657756800&v=beta&t=URJ-XA_uTJx_8QGtNLMVS5MDdQOjcWRcUgQIxIWAI3U",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1577777663966?e=1657756800&v=beta&t=f0Kt4MTqZ9F4W9PisFhCUjssHa4r3yKqMlIeznLLNUY",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5116AQHu6W45St7EIg/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "semina-mehjabin-ba803bb2",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1646567104811?e=1657756800&v=beta&t=gTVfyksmrROeF4Us5f6DTOJmb096iyLvCbYeqY-Bets",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1646567104811?e=1657756800&v=beta&t=_C3jfDMCxX8kxd5bsjP2Q7Z1T68VTSYFM5rt0Aq1u48",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1646567104811?e=1657756800&v=beta&t=VOGVDNRM9Ka_BqsH7BFFSzTwdRnctrTx3hC2nhbW_6g",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1646567104811?e=1657756800&v=beta&t=71Oqhl69cJoGjszYr2w_NvzebO4FL8LnRvh5B0sqIkA",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5603AQHv__pMaQt2yw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "TXuI9zVfRS2POb0/Vxpw0A=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABfao_AB5Wg8BGAuHauKtHyhtQgW5cNSfo4"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Saurav",
+                            "lastName": "Goswami",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABEsStwBSPcymwvS3LEuJ2JtFSuM46iZbuw",
+                            "occupation": "Faculty",
+                            "objectUrn": "urn:li:member:288115420",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABEsStwBSPcymwvS3LEuJ2JtFSuM46iZbuw",
+                            "publicIdentifier": "saurav-goswami-5645a580",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1530410525088?e=1657756800&v=beta&t=yxgUYk0x3-5MjyszliQkP8l8kV-ksREAQDiHuuaMLHU",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1530410525088?e=1657756800&v=beta&t=-G6Svtms4Yrj5jarcPB6n3hIDaksEFVybRUordaz9Xc",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1530410525088?e=1657756800&v=beta&t=J3gS8TtJDSuOFIJ3lgHgNo6DyJVZmdnr5DIMn5BNKGI",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1530410525088?e=1657756800&v=beta&t=fDlyZYTtAFOMg6HPdnHxZbuqb6hbNrhBI0ctNaDZqdA",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5103AQHiwjHZ2fgerw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "/b3XmL+qQzuiPxwQAdLCmA=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABEsStwBSPcymwvS3LEuJ2JtFSuM46iZbuw"
+                    }
+                ]
+            },
+            {
+                "name": "Driverless Metro Train with Automatic Crowd Control System",
+                "publisher": "INTELLIGENT APPLICATIONS FOR HETEROGENEOUS SYSTEM MODELLING AND DESIGN by IGI GLOBAL publications",
+                "description": "This system is designed to provide a fully automated metro train system to the country men and women. The whole new system is designed with graphical display of the number of passengers boarding and leaving the train thereby controlling heavy rush and uncontrollable crowd at the stations.",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Semina",
+                            "lastName": "Mehjabin",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABfao_AB5Wg8BGAuHauKtHyhtQgW5cNSfo4",
+                            "occupation": "Human Resources at Confidential",
+                            "objectUrn": "urn:li:member:400204784",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABfao_AB5Wg8BGAuHauKtHyhtQgW5cNSfo4",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1577777663966?e=1657756800&v=beta&t=URJ-XA_uTJx_8QGtNLMVS5MDdQOjcWRcUgQIxIWAI3U",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1577777663966?e=1657756800&v=beta&t=f0Kt4MTqZ9F4W9PisFhCUjssHa4r3yKqMlIeznLLNUY",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5116AQHu6W45St7EIg/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "semina-mehjabin-ba803bb2",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1646567104811?e=1657756800&v=beta&t=gTVfyksmrROeF4Us5f6DTOJmb096iyLvCbYeqY-Bets",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1646567104811?e=1657756800&v=beta&t=_C3jfDMCxX8kxd5bsjP2Q7Z1T68VTSYFM5rt0Aq1u48",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1646567104811?e=1657756800&v=beta&t=VOGVDNRM9Ka_BqsH7BFFSzTwdRnctrTx3hC2nhbW_6g",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1646567104811?e=1657756800&v=beta&t=71Oqhl69cJoGjszYr2w_NvzebO4FL8LnRvh5B0sqIkA",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5603AQHv__pMaQt2yw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "TXuI9zVfRS2POb0/Vxpw0A=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABfao_AB5Wg8BGAuHauKtHyhtQgW5cNSfo4"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Saurav",
+                            "lastName": "Goswami",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABEsStwBSPcymwvS3LEuJ2JtFSuM46iZbuw",
+                            "occupation": "Faculty",
+                            "objectUrn": "urn:li:member:288115420",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABEsStwBSPcymwvS3LEuJ2JtFSuM46iZbuw",
+                            "publicIdentifier": "saurav-goswami-5645a580",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1530410525088?e=1657756800&v=beta&t=yxgUYk0x3-5MjyszliQkP8l8kV-ksREAQDiHuuaMLHU",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1530410525088?e=1657756800&v=beta&t=-G6Svtms4Yrj5jarcPB6n3hIDaksEFVybRUordaz9Xc",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1530410525088?e=1657756800&v=beta&t=J3gS8TtJDSuOFIJ3lgHgNo6DyJVZmdnr5DIMn5BNKGI",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1530410525088?e=1657756800&v=beta&t=fDlyZYTtAFOMg6HPdnHxZbuqb6hbNrhBI0ctNaDZqdA",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5103AQHiwjHZ2fgerw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "/b3XmL+qQzuiPxwQAdLCmA=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABEsStwBSPcymwvS3LEuJ2JtFSuM46iZbuw"
+                    }
+                ]
+            }
+        ],
+        "certifications": [
+            {
+                "name": "Volunteer"
+            },
+            {
+                "name": "Vice-President of Technical Fest/Event Manager in College",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 9,
+                        "year": 2013
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2013
+                    }
+                },
+                "displaySource": "dbuniversity.ac.in",
+                "url": "http://prajyukttam.dbuniversity.ac.in/"
+            },
+            {
+                "authority": "UC Irvine",
+                "name": "Human Resources Analytics",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 2,
+                        "year": 2022
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:4418",
+                    "entityUrn": "urn:li:fs_miniCompany:4418",
+                    "name": "UC Irvine",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1570207210620?e=1660176000&v=beta&t=CjkoFZ1xLFCwFOHu8t9IfS1tOofLmx9gDXFaII9MORM",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1570207210620?e=1660176000&v=beta&t=PpKD5NN5BK0-krSWJ15WWnbTS4B_d-pydEvym0V5xGs",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1570207210620?e=1660176000&v=beta&t=U36cJt7t_-pm4TdPOWykLO35paXHD-ysDvj78atzOsw",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQEuZlXAuo608Q/company-logo_"
+                        }
+                    },
+                    "universalName": "university-of-california-irvine",
+                    "dashCompanyUrn": "urn:li:fsd_company:4418",
+                    "trackingId": "ry4fLhLNT0GWr9sgeIn8gQ=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:4418",
+                "url": "http://coursera.org/verify/CX7D6TW7B53B"
+            }
+        ],
+        "volunteer": [],
+        "honors": [],
+        "projects": [
+            {
+                "occupation": "urn:li:fs_education:(ACoAABfao_AB5Wg8BGAuHauKtHyhtQgW5cNSfo4,263887032)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Semina",
+                            "lastName": "Mehjabin",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABfao_AB5Wg8BGAuHauKtHyhtQgW5cNSfo4",
+                            "occupation": "Human Resources at Confidential",
+                            "objectUrn": "urn:li:member:400204784",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABfao_AB5Wg8BGAuHauKtHyhtQgW5cNSfo4",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1577777663966?e=1657756800&v=beta&t=URJ-XA_uTJx_8QGtNLMVS5MDdQOjcWRcUgQIxIWAI3U",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1577777663966?e=1657756800&v=beta&t=f0Kt4MTqZ9F4W9PisFhCUjssHa4r3yKqMlIeznLLNUY",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5116AQHu6W45St7EIg/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "semina-mehjabin-ba803bb2",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1646567104811?e=1657756800&v=beta&t=gTVfyksmrROeF4Us5f6DTOJmb096iyLvCbYeqY-Bets",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1646567104811?e=1657756800&v=beta&t=_C3jfDMCxX8kxd5bsjP2Q7Z1T68VTSYFM5rt0Aq1u48",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1646567104811?e=1657756800&v=beta&t=VOGVDNRM9Ka_BqsH7BFFSzTwdRnctrTx3hC2nhbW_6g",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1646567104811?e=1657756800&v=beta&t=71Oqhl69cJoGjszYr2w_NvzebO4FL8LnRvh5B0sqIkA",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5603AQHv__pMaQt2yw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "TXuI9zVfRS2POb0/Vxpw0A=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABfao_AB5Wg8BGAuHauKtHyhtQgW5cNSfo4,572557483,633460820)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABfao_AB5Wg8BGAuHauKtHyhtQgW5cNSfo4"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Saurav",
+                            "lastName": "Goswami",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABEsStwBSPcymwvS3LEuJ2JtFSuM46iZbuw",
+                            "occupation": "Faculty",
+                            "objectUrn": "urn:li:member:288115420",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABEsStwBSPcymwvS3LEuJ2JtFSuM46iZbuw",
+                            "publicIdentifier": "saurav-goswami-5645a580",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1530410525088?e=1657756800&v=beta&t=yxgUYk0x3-5MjyszliQkP8l8kV-ksREAQDiHuuaMLHU",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1530410525088?e=1657756800&v=beta&t=-G6Svtms4Yrj5jarcPB6n3hIDaksEFVybRUordaz9Xc",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1530410525088?e=1657756800&v=beta&t=J3gS8TtJDSuOFIJ3lgHgNo6DyJVZmdnr5DIMn5BNKGI",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1530410525088?e=1657756800&v=beta&t=fDlyZYTtAFOMg6HPdnHxZbuqb6hbNrhBI0ctNaDZqdA",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5103AQHiwjHZ2fgerw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "/b3XmL+qQzuiPxwQAdLCmA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABfao_AB5Wg8BGAuHauKtHyhtQgW5cNSfo4,572557483,1)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABEsStwBSPcymwvS3LEuJ2JtFSuM46iZbuw"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 5,
+                        "year": 2014
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2013
+                    }
+                },
+                "description": "Embedded System",
+                "title": "Fully Automated Crowd Control Metro Train"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Semina",
+                            "lastName": "Mehjabin",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABfao_AB5Wg8BGAuHauKtHyhtQgW5cNSfo4",
+                            "occupation": "Human Resources at Confidential",
+                            "objectUrn": "urn:li:member:400204784",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABfao_AB5Wg8BGAuHauKtHyhtQgW5cNSfo4",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1577777663966?e=1657756800&v=beta&t=URJ-XA_uTJx_8QGtNLMVS5MDdQOjcWRcUgQIxIWAI3U",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1577777663966?e=1657756800&v=beta&t=f0Kt4MTqZ9F4W9PisFhCUjssHa4r3yKqMlIeznLLNUY",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5116AQHu6W45St7EIg/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "semina-mehjabin-ba803bb2",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1646567104811?e=1657756800&v=beta&t=gTVfyksmrROeF4Us5f6DTOJmb096iyLvCbYeqY-Bets",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1646567104811?e=1657756800&v=beta&t=_C3jfDMCxX8kxd5bsjP2Q7Z1T68VTSYFM5rt0Aq1u48",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1646567104811?e=1657756800&v=beta&t=VOGVDNRM9Ka_BqsH7BFFSzTwdRnctrTx3hC2nhbW_6g",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1646567104811?e=1657756800&v=beta&t=71Oqhl69cJoGjszYr2w_NvzebO4FL8LnRvh5B0sqIkA",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5603AQHv__pMaQt2yw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "TXuI9zVfRS2POb0/Vxpw0A=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABfao_AB5Wg8BGAuHauKtHyhtQgW5cNSfo4,1224784212,342340505)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABfao_AB5Wg8BGAuHauKtHyhtQgW5cNSfo4"
+                    }
+                ],
+                "title": "Metal Detecting Robot"
+            }
+        ]
+    },
+    "contact_info": {
+        "email_address": "semina@xcutives.com",
+        "websites": [],
+        "twitter": [],
+        "birthdate": {
+            "month": 4,
+            "day": 13
+        },
+        "ims": null,
+        "phone_numbers": []
+    },
+    "connections": [
+        {
+            "urn_id": "ACoAAC24GToBKzC8vS7jZaCEqoq3Jse_M2Tson8",
+            "distance": "DISTANCE_1",
+            "public_id": "abhijit-paul-936a68194",
+            "tracking_id": "767039802"
+        },
+        {
+            "urn_id": "ACoAABr4jt0BoOUmisITdRo1gR4CumG5I4jjZIw",
+            "distance": "DISTANCE_1",
+            "public_id": "samudra-deka-911659107",
+            "tracking_id": "452497117"
+        },
+        {
+            "urn_id": "ACoAADLJzxsBizdB0nN5NZBCM41Q-z6-7ef5gyI",
+            "distance": "DISTANCE_1",
+            "public_id": "deepjyoti-kalita-78b4411b9",
+            "tracking_id": "852086555"
+        },
+        {
+            "urn_id": "ACoAADe3CFYBsoFdtSEajXbg51HDagdpBEb3kx4",
+            "distance": "DISTANCE_1",
+            "public_id": "binud-panging-872062221",
+            "tracking_id": "934742102"
+        },
+        {
+            "urn_id": "ACoAABYq8T8ByHFGBUFRrHT5iKBI2u4YZjTLHFc",
+            "distance": "DISTANCE_1",
+            "public_id": "netranjit-borgohain-53b677a4",
+            "tracking_id": "371913023"
+        },
+        {
+            "urn_id": "ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8",
+            "distance": "DISTANCE_1",
+            "public_id": "sivaranjan-goswami-790b4523",
+            "tracking_id": "83451420"
+        },
+        {
+            "urn_id": "ACoAACYmrvgBRdvWxItbY_KP_fyrEgZ9U-QKJqk",
+            "distance": "DISTANCE_1",
+            "public_id": "rtsu",
+            "tracking_id": "640069368"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Recruiting"
+        },
+        {
+            "name": "Talent Acquisition"
+        },
+        {
+            "name": "Management"
+        },
+        {
+            "name": "Sourcing"
+        },
+        {
+            "name": "Technical Recruiting"
+        },
+        {
+            "name": "Leadership"
+        },
+        {
+            "name": "Interviews"
+        },
+        {
+            "name": "Human Resources"
+        },
+        {
+            "name": "Sales"
+        },
+        {
+            "name": "Training"
+        },
+        {
+            "name": "Vendor Management"
+        },
+        {
+            "name": "SaaS"
+        },
+        {
+            "name": "Pre-sales"
+        },
+        {
+            "name": "CRM"
+        },
+        {
+            "name": "Account Management"
+        },
+        {
+            "name": "Strategic Partnerships"
+        },
+        {
+            "name": "Solution Selling"
+        },
+        {
+            "name": "Outsourcing"
+        },
+        {
+            "name": "Strategy"
+        },
+        {
+            "name": "Customer Relationship Management (CRM)"
+        }
+    ]
+}

@@ -1,0 +1,283 @@
+{
+    "profile": {
+        "summary": "Software developer having 3 years of experience; with proficiency in Core Java, Spring BATCH, Spring MVC, J2EE, Struts 2.0, GROOVY, DevOps Tools (Gradle, MAVEN and GIT) and FileNet technologies.\nKnowledge of making Web Service \ncalls (REST Template).\nStrong debugging skills with excellent understanding of software development methodologies, Design Patterns and tools.",
+        "industryName": "Software Development",
+        "lastName": "Patra",
+        "locationName": "India",
+        "student": false,
+        "geoCountryName": "India",
+        "geoCountryUrn": "urn:li:fs_geo:102713980",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "industryUrn": "urn:li:fs_industry:4",
+        "firstName": "Lisa",
+        "entityUrn": "urn:li:fs_profile:ACoAABouucsBrGhK_cVa-VwFCP3m67ceH075cKA",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:105307040"
+        },
+        "geoLocationName": "Bengaluru, Karnataka",
+        "location": {
+            "basicLocation": {
+                "countryCode": "in"
+            }
+        },
+        "headline": "Programmer Analyst at Techvariable",
+        "displayPictureUrl": "https://media-exp1.licdn.com/dms/image/C5603AQHrjgTfDBrdGA/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/0/1562470293098?e=1657756800&v=beta&t=AMTeqey_fLJX4VvF1pY-eMb5yF7JnYO4bakkH5Jvi7M",
+        "img_200_200": "200_200/0/1562470293098?e=1657756800&v=beta&t=0EzYMQtozfYIi8Hm2ezr-ah2BNsfBaNO5vdzdozfyi8",
+        "img_400_400": "400_400/0/1562470293098?e=1657756800&v=beta&t=gN9UKy85RzpSoV3ajDjRuKS5vgj7OlYolEq4f4WHfog",
+        "img_800_800": "800_800/0/1562470293098?e=1657756800&v=beta&t=nI8WZTMvelObgieCq9w4O9Wn1u4srfeoB1u_XceoUfk",
+        "profile_id": "ACoAABouucsBrGhK_cVa-VwFCP3m67ceH075cKA",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAABouucsBrGhK_cVa-VwFCP3m67ceH075cKA",
+        "member_urn": "urn:li:member:439269835",
+        "experience": [
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAABouucsBrGhK_cVa-VwFCP3m67ceH075cKA,1650766789)",
+                "companyName": "TechVariable",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 3,
+                        "year": 2020
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Programmer Analyst",
+                "companyUrn": "urn:li:fs_miniCompany:10632640",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQE6IzKHUZQmAA/company-logo_"
+            },
+            {
+                "locationName": "Bengaluru Area, India",
+                "entityUrn": "urn:li:fs_position:(ACoAABouucsBrGhK_cVa-VwFCP3m67ceH075cKA,1485569923)",
+                "geoLocationName": "Bengaluru Area, India",
+                "geoUrn": "urn:li:fs_geo:90009633",
+                "companyName": "SLK Global Solutions",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 3,
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "month": 6,
+                        "year": 2017
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Associate Software Engineer",
+                "region": "urn:li:fs_region:(in,7127)",
+                "companyUrn": "urn:li:fs_miniCompany:462587",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQH07etKhI6BEw/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAABouucsBrGhK_cVa-VwFCP3m67ceH075cKA,601948786)",
+                "school": {
+                    "objectUrn": "urn:li:school:13476",
+                    "entityUrn": "urn:li:fs_miniSchool:13476",
+                    "active": true,
+                    "schoolName": "Gauhati University",
+                    "trackingId": "haDUUasWSNeLnelGpGagPQ==",
+                    "logoUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQE_SHDG7RHWLg/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2016
+                    },
+                    "startDate": {
+                        "year": 2012
+                    }
+                },
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100189",
+                "degreeName": "Bachelor of Engineering - BE",
+                "schoolName": "Gauhati University",
+                "fieldOfStudy": "Computer Science",
+                "degreeUrn": "urn:li:fs_degree:269",
+                "schoolUrn": "urn:li:fs_miniSchool:13476"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAABouucsBrGhK_cVa-VwFCP3m67ceH075cKA,601949144)",
+                "school": {
+                    "objectUrn": "urn:li:school:203135",
+                    "entityUrn": "urn:li:fs_miniSchool:203135",
+                    "active": true,
+                    "schoolName": "Cotton College",
+                    "trackingId": "yOmm5GWdQf2MosQvUHfzyg==",
+                    "logoUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQE2sG7kWsU-ig/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2011
+                    },
+                    "startDate": {
+                        "year": 2009
+                    }
+                },
+                "degreeName": "Higher Secondary",
+                "schoolName": "Cotton College",
+                "fieldOfStudy": "Science",
+                "schoolUrn": "urn:li:fs_miniSchool:203135"
+            }
+        ],
+        "languages": [],
+        "publications": [],
+        "certifications": [],
+        "volunteer": [],
+        "honors": [],
+        "projects": []
+    },
+    "contact_info": {
+        "email_address": null,
+        "websites": [],
+        "twitter": [],
+        "birthdate": null,
+        "ims": null,
+        "phone_numbers": []
+    },
+    "connections": [
+        {
+            "urn_id": "ACoAABr4jt0BoOUmisITdRo1gR4CumG5I4jjZIw",
+            "distance": "DISTANCE_1",
+            "public_id": "samudra-deka-911659107",
+            "tracking_id": "452497117"
+        },
+        {
+            "urn_id": "ACoAADLJzxsBizdB0nN5NZBCM41Q-z6-7ef5gyI",
+            "distance": "DISTANCE_1",
+            "public_id": "deepjyoti-kalita-78b4411b9",
+            "tracking_id": "852086555"
+        },
+        {
+            "urn_id": "ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY",
+            "distance": "DISTANCE_1",
+            "public_id": "tridip-das-b5837911b",
+            "tracking_id": "499568180"
+        },
+        {
+            "urn_id": "ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8",
+            "distance": "DISTANCE_1",
+            "public_id": "sivaranjan-goswami-790b4523",
+            "tracking_id": "83451420"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Java",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:147",
+            "standardizedSkill": {
+                "name": "Java",
+                "entityUrn": "urn:li:fs_miniSkill:147"
+            }
+        },
+        {
+            "name": "Spring Batch",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:18557",
+            "standardizedSkill": {
+                "name": "Spring Batch",
+                "entityUrn": "urn:li:fs_miniSkill:18557"
+            }
+        },
+        {
+            "name": "Spring MVC",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:50282",
+            "standardizedSkill": {
+                "name": "Spring MVC",
+                "entityUrn": "urn:li:fs_miniSkill:50282"
+            }
+        },
+        {
+            "name": "Github",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:27554",
+            "standardizedSkill": {
+                "name": "GitHub",
+                "entityUrn": "urn:li:fs_miniSkill:27554"
+            }
+        },
+        {
+            "name": "Maven",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:3140",
+            "standardizedSkill": {
+                "name": "Maven",
+                "entityUrn": "urn:li:fs_miniSkill:3140"
+            }
+        },
+        {
+            "name": "Struts",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:1268",
+            "standardizedSkill": {
+                "name": "Struts",
+                "entityUrn": "urn:li:fs_miniSkill:1268"
+            }
+        },
+        {
+            "name": "Gradle",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:19005",
+            "standardizedSkill": {
+                "name": "Gradle",
+                "entityUrn": "urn:li:fs_miniSkill:19005"
+            }
+        },
+        {
+            "name": "Java Database Connectivity (JDBC)",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:2155",
+            "standardizedSkill": {
+                "name": "Java Database Connectivity (JDBC)",
+                "entityUrn": "urn:li:fs_miniSkill:2155"
+            }
+        },
+        {
+            "name": "Servlets",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:1418",
+            "standardizedSkill": {
+                "name": "Servlets",
+                "entityUrn": "urn:li:fs_miniSkill:1418"
+            }
+        },
+        {
+            "name": "Spring Boot",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:55044",
+            "standardizedSkill": {
+                "name": "Spring Boot",
+                "entityUrn": "urn:li:fs_miniSkill:55044"
+            }
+        },
+        {
+            "name": "Spring Data",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:55067",
+            "standardizedSkill": {
+                "name": "Spring Data",
+                "entityUrn": "urn:li:fs_miniSkill:55067"
+            }
+        },
+        {
+            "name": "REST API",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:55511",
+            "standardizedSkill": {
+                "name": "REST APIs",
+                "entityUrn": "urn:li:fs_miniSkill:55511"
+            }
+        },
+        {
+            "name": "Swagger API",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:55659",
+            "standardizedSkill": {
+                "name": "Swagger API",
+                "entityUrn": "urn:li:fs_miniSkill:55659"
+            }
+        }
+    ]
+}

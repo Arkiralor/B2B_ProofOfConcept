@@ -1,0 +1,443 @@
+{
+    "profile": {
+        "summary": "I'm a hardworking guy with simple and straightforward beliefs. True to the best of my knowledge and ability. I like working with people and believe every profession must start with a human relation. \nExperienced in back end management, team coordination and motivation, I like to provide leverage.",
+        "industryName": "Software Development",
+        "lastName": "Choudhury",
+        "student": false,
+        "geoCountryName": "India",
+        "geoCountryUrn": "urn:li:fs_geo:102713980",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "industryUrn": "urn:li:fs_industry:4",
+        "firstName": "Nandan",
+        "entityUrn": "urn:li:fs_profile:ACoAAAnMxBwBGwKu40hSuk90HBPkS0NxIdNtBOk",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:104436408"
+        },
+        "geoLocationName": "Assam",
+        "location": {
+            "basicLocation": {
+                "countryCode": "in"
+            }
+        },
+        "headline": "Java | node.js | react | sql | python | angular | lead developer",
+        "displayPictureUrl": "https://media-exp1.licdn.com/dms/image/C5603AQE8v4fjnUgSTA/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/0/1517448625000?e=1657756800&v=beta&t=0fG7kbPpKJdE9JqCkSIlwbF9D7zedL6OkLzuPF0WG4I",
+        "img_200_200": "200_200/0/1517448625000?e=1657756800&v=beta&t=j0IKoyxcnVSyvhAIxgDXIZd0346D9PoPOvEOTBhM5jc",
+        "img_400_400": "400_400/0/1517448625000?e=1657756800&v=beta&t=Ri3m2XeZdlL1faa5zSCF92u9XP3GLFVYorxgbgy8qWk",
+        "img_800_800": "800_800/0/1517448625000?e=1657756800&v=beta&t=tILdNOyMxV7xzY3bYwUOQeO9xkCwZmID3ko9bk6_hLY",
+        "profile_id": "ACoAAAnMxBwBGwKu40hSuk90HBPkS0NxIdNtBOk",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAAAnMxBwBGwKu40hSuk90HBPkS0NxIdNtBOk",
+        "member_urn": "urn:li:member:164414492",
+        "experience": [
+            {
+                "locationName": "Bengaluru, Karnataka, India",
+                "entityUrn": "urn:li:fs_position:(ACoAAAnMxBwBGwKu40hSuk90HBPkS0NxIdNtBOk,1846072527)",
+                "geoLocationName": "Bengaluru, Karnataka, India",
+                "geoUrn": "urn:li:fs_geo:109710172",
+                "companyName": "Leokraft Technologies",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 1,
+                        "year": 2021
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Programmer Analyst",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:75671563",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHRky1eNqw5AA/company-logo_"
+            },
+            {
+                "locationName": "Guwahati Area, India",
+                "entityUrn": "urn:li:fs_position:(ACoAAAnMxBwBGwKu40hSuk90HBPkS0NxIdNtBOk,1072080946)",
+                "geoLocationName": "Guwahati Area, India",
+                "geoUrn": "urn:li:fs_geo:104535556",
+                "companyName": "TechVariable",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "month": 7,
+                        "year": 2017
+                    }
+                },
+                "description": "Experience\nBackend  |  Java (spring-boot) / node.js / python (flask)\nFrontend |  angular.js / Angular (6.x) / React\nDb           |  Mysql / Postgres / neo4j / mongodb\n\nProjects\n\u2022 Employee performance management system\nDomain: HR\nEpms provides comprehensive analysis and tracking tools to enterprises for performance tracking and BI at all organizational levels\nRole: Full stack developer responsible for planning, designing and developing several modules. Developed angular library for displaying strategy maps.\nStack: Angular (6+) / Java (spring-boot) / Redis / mongodb / mysql / JasperReports\n\n\u2022 Logging framework\nDomain: IT infrastructure\nCustom logging framework that works in a loosely coupled pub-sub fashion to provide centralized logging across a suite of applications (no UI)\nRole: Backend developer responsible for complete development of the framework\nStack: Java (spring-boot) / postgres / apache-activemq\n\n\u2022 Application health metrics tool\nDomain: IT infrasctucture\nThis tool was developed as a windows service that notifies IT administrators of application node failures (no UI)\nRole: Backend developer responsible for complete development of the tool\nStack: Java (spring-boot)\n\n\u2022 Decline curve analysis tool\nDomain: Energy\nDCA tool to provide traditional and predictive analysis of decline curves in oil wells\nRole: Full stack developer responsible for backend and frontend.\nStack: python 3 (flask) / angular.js / plotly\n\n\u2022 PLM\nDomain: Manufacturing\nProject lifecycle management application that brought in end to end capabilities such as bom management, parts tracking, document viewing, similar part suggestions and shape-search\nRole: Lead frontend developer responsible for designing and developing dynamic data driven components. Extensive work done in developing graphical display and search capabilities enabling visual tracing of thousands of nodes. Also involved in writing apis in node.js and optimizing neo4j cyphers.\nStack: node.js / angular.js / neo4j",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Software Analyst",
+                "region": "urn:li:fs_region:(in,7248)",
+                "companyUrn": "urn:li:fs_miniCompany:10632640",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQE6IzKHUZQmAA/company-logo_"
+            },
+            {
+                "locationName": "Guwahati Area, India",
+                "entityUrn": "urn:li:fs_position:(ACoAAAnMxBwBGwKu40hSuk90HBPkS0NxIdNtBOk,717056346)",
+                "geoLocationName": "Guwahati Area, India",
+                "geoUrn": "urn:li:fs_geo:104535556",
+                "companyName": "Princeton IT Services, Inc",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 7,
+                        "year": 2017
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2015
+                    }
+                },
+                "description": "Developed an e-booking site with a comprehensive administrative panel complete with statistics, user role management, content moderation and promotion forwarding. Technologies used: J2EE, Struts 2 MVC framework, Angular JS 1.2.x, javascript\n\nWorked as a front end developer for an in house Timesheet Application. Technologies used: jQuery, Angular JS 1.4.x, javascript\n\nDeveloped a microservice to create and edit docx files that other web-applications could consume using REST apis using Spring-boot (Java)",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Programmer Analyst",
+                "region": "urn:li:fs_region:(in,7248)",
+                "companyUrn": "urn:li:fs_miniCompany:716360",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQGYhz5t5kKYHA/company-logo_"
+            },
+            {
+                "locationName": "Kolkata",
+                "entityUrn": "urn:li:fs_position:(ACoAAAnMxBwBGwKu40hSuk90HBPkS0NxIdNtBOk,570404724)",
+                "$anti_abuse_metadata": {
+                    "/geoUrn": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:164414492"
+                        }
+                    },
+                    "/companyName": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:164414492"
+                        }
+                    },
+                    "/companyUrn": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:164414492"
+                        }
+                    },
+                    "/entityUrn": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:164414492"
+                        }
+                    },
+                    "/geoLocationName": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:164414492"
+                        }
+                    },
+                    "/promotion": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:164414492"
+                        }
+                    },
+                    "/title": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:164414492"
+                        }
+                    },
+                    "/region": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:164414492"
+                        }
+                    },
+                    "/locationName": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:164414492"
+                        }
+                    },
+                    "/description": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:164414492"
+                        }
+                    }
+                },
+                "geoLocationName": "Kolkata",
+                "companyName": "Globsyn Technologies",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 7,
+                        "year": 2014
+                    },
+                    "startDate": {
+                        "month": 6,
+                        "year": 2014
+                    }
+                },
+                "description": "Attended a certification program on \"Oracle 10g PL/SQL Programming with Forms\"",
+                "title": "Intern"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAAnMxBwBGwKu40hSuk90HBPkS0NxIdNtBOk,96668834)",
+                "description": "Graduated in the discipline of Computer Science and Engineering",
+                "degreeName": "Bachelor of Technology",
+                "schoolName": "Tezpur University, India",
+                "fieldOfStudy": "Computer Science"
+            }
+        ],
+        "languages": [
+            {
+                "name": "Assamese",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "English",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "Hindi",
+                "proficiency": "PROFESSIONAL_WORKING"
+            }
+        ],
+        "publications": [],
+        "certifications": [
+            {
+                "authority": "National Skills Development Program (NSDP)",
+                "name": "Oracle 10g PL/SQL programming",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 7,
+                        "year": 2014
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:2160615",
+                    "entityUrn": "urn:li:fs_miniCompany:2160615",
+                    "name": "National Skills Development Program (NSDP)",
+                    "showcase": false,
+                    "active": true,
+                    "universalName": "national-skills-development-program-nsdp-",
+                    "dashCompanyUrn": "urn:li:fsd_company:2160615",
+                    "trackingId": "Q4UcizPHRJGxhc8+D+c0Dw=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:2160615"
+            }
+        ],
+        "volunteer": [
+            {
+                "role": "Surveyor",
+                "companyName": "National Service Scheme",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 11,
+                        "year": 2012
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2012
+                    }
+                },
+                "cause": "SOCIAL_SERVICES",
+                "company": {
+                    "miniCompany": {
+                        "objectUrn": "urn:li:company:10033186",
+                        "entityUrn": "urn:li:fs_miniCompany:10033186",
+                        "name": "National Service Scheme",
+                        "showcase": false,
+                        "active": true,
+                        "logo": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1519905766959?e=1660176000&v=beta&t=hQZWl263eF5yxEI2io_xAlAm0V7PaCRTNw7P7y6YEqQ",
+                                        "expiresAt": 1660176000000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1519905766959?e=1660176000&v=beta&t=n7JnCmQ_QrvqWwLj0bPNfMG0KD5fUJz7gqQ3v2IIwn4",
+                                        "expiresAt": 1660176000000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1519905766959?e=1660176000&v=beta&t=mlHuoNsPZVGrrV1fm1jL1OQiPxfmSasPD6wjAs1goTc",
+                                        "expiresAt": 1660176000000,
+                                        "height": 400
+                                    }
+                                ],
+                                "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQEJ6yAnaG3CtQ/company-logo_"
+                            }
+                        },
+                        "universalName": "national-service-scheme",
+                        "dashCompanyUrn": "urn:li:fsd_company:10033186",
+                        "trackingId": "UTg0eWgpQhKWT/SWG35r0Q=="
+                    }
+                },
+                "companyUrn": "urn:li:fs_miniCompany:10033186"
+            }
+        ],
+        "honors": [],
+        "projects": []
+    },
+    "contact_info": {
+        "email_address": null,
+        "websites": [],
+        "twitter": [
+            {
+                "name": "neo_nandan",
+                "credentialId": "urn:li:member:164414492;272874512"
+            }
+        ],
+        "birthdate": null,
+        "ims": null,
+        "phone_numbers": []
+    },
+    "connections": [
+        {
+            "urn_id": "ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY",
+            "distance": "DISTANCE_1",
+            "public_id": "tridip-das-b5837911b",
+            "tracking_id": "499568180"
+        },
+        {
+            "urn_id": "ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8",
+            "distance": "DISTANCE_1",
+            "public_id": "sivaranjan-goswami-790b4523",
+            "tracking_id": "83451420"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Node.js"
+        },
+        {
+            "name": "python"
+        },
+        {
+            "name": "Spring Boot"
+        },
+        {
+            "name": "Programming"
+        },
+        {
+            "name": "Research"
+        },
+        {
+            "name": "AngularJS"
+        },
+        {
+            "name": "JavaScript"
+        },
+        {
+            "name": "Core Java"
+        },
+        {
+            "name": "Cascading Style Sheets (CSS)"
+        },
+        {
+            "name": "Struts 2"
+        },
+        {
+            "name": "Hibernate"
+        },
+        {
+            "name": "SQL"
+        },
+        {
+            "name": "CSS"
+        },
+        {
+            "name": "C"
+        },
+        {
+            "name": "HTML"
+        },
+        {
+            "name": "C++"
+        },
+        {
+            "name": "Photoshop"
+        },
+        {
+            "name": "Windows"
+        },
+        {
+            "name": "Microsoft Word"
+        },
+        {
+            "name": "Linux",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:301",
+            "standardizedSkill": {
+                "name": "Linux",
+                "entityUrn": "urn:li:fs_miniSkill:301"
+            }
+        },
+        {
+            "name": "JSON",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:4956",
+            "standardizedSkill": {
+                "name": "JSON",
+                "entityUrn": "urn:li:fs_miniSkill:4956"
+            }
+        },
+        {
+            "name": "MySQL",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:380",
+            "standardizedSkill": {
+                "name": "MySQL",
+                "entityUrn": "urn:li:fs_miniSkill:380"
+            }
+        },
+        {
+            "name": "flask"
+        },
+        {
+            "name": "Teamwork"
+        },
+        {
+            "name": "Public Speaking"
+        },
+        {
+            "name": "English"
+        },
+        {
+            "name": "Liferay"
+        },
+        {
+            "name": "SciPy"
+        },
+        {
+            "name": "Matplotlib"
+        },
+        {
+            "name": "Maven"
+        },
+        {
+            "name": "git"
+        },
+        {
+            "name": "svn"
+        },
+        {
+            "name": "OAuth"
+        },
+        {
+            "name": "RESTful WebServices"
+        }
+    ]
+}

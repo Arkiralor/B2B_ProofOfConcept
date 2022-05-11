@@ -1,0 +1,3063 @@
+{
+    "profile": {
+        "summary": "- Python developer with expertise in Django Rest Framework and Command Line Applications\n- More than 6 years of research experience in the fields of soft-computational optimization, antenna design and signal processing. Publications in many reputed journals and conferences.",
+        "industryName": "Software Development",
+        "lastName": "Goswami",
+        "address": "C/O Mrs. Kamini Goswami\n26, Gandhibasti Tiniali\nP.O Silpukhuri\nGuwahati (India)\nPin 781003",
+        "locationName": "India",
+        "student": false,
+        "geoCountryName": "India",
+        "geoCountryUrn": "urn:li:fs_geo:102713980",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "birthDate": {
+            "month": 7,
+            "year": 1991,
+            "day": 2
+        },
+        "industryUrn": "urn:li:fs_industry:4",
+        "firstName": "Sivaranjan",
+        "entityUrn": "urn:li:fs_profile:ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:105607401"
+        },
+        "geoLocationName": "Guwahati, Assam",
+        "location": {
+            "basicLocation": {
+                "countryCode": "in"
+            }
+        },
+        "headline": "Lead Python Backend and Data Engineer",
+        "displayPictureUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQFHt_uQhOWvkA/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/0/1610827295313?e=1657756800&v=beta&t=xdbGLfFtxX0TAyruZ80dZdpC59p1wDMtHTdBN0gdSPc",
+        "img_200_200": "200_200/0/1610827295313?e=1657756800&v=beta&t=wf_N8WdURvvHfb4tqsKGbQaWXKCYlxs_hDDSpyOr3C0",
+        "img_400_400": "400_400/0/1610827295313?e=1657756800&v=beta&t=go3fiPNuINMW-dA-IP1L_FXKYg7Lyjaw5GhEJc1RW7g",
+        "img_800_800": "800_800/0/1610827295313?e=1657756800&v=beta&t=DcyzpB1aHPXF-b0Tlz4s7XvM_F0m3mbz2myQyooRVqs",
+        "profile_id": "ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8",
+        "member_urn": "urn:li:member:83451420",
+        "experience": [
+            {
+                "locationName": "Guwahati, Assam, India",
+                "projects": [
+                    "urn:li:fs_project:(ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8,1709616061)",
+                    "urn:li:fs_project:(ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8,1709703004)",
+                    "urn:li:fs_project:(ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8,1709797454)"
+                ],
+                "geoUrn": "urn:li:fs_geo:105607401",
+                "companyName": "TechVariable",
+                "description": "Development of cloud computing, digital transformation, and data engineering solutions for clients.",
+                "title": "Programmer Analyst",
+                "companyUrn": "urn:li:fs_miniCompany:10632640",
+                "entityUrn": "urn:li:fs_position:(ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8,1692682758)",
+                "geoLocationName": "Guwahati, Assam, India",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 11,
+                        "year": 2020
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "region": "urn:li:fs_region:(in,0)",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQE6IzKHUZQmAA/company-logo_"
+            },
+            {
+                "locationName": "Guwahati, Assam, India",
+                "entityUrn": "urn:li:fs_position:(ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8,1957215887)",
+                "$anti_abuse_metadata": {
+                    "/geoUrn": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:83451420"
+                        }
+                    },
+                    "/companyName": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:83451420"
+                        }
+                    },
+                    "/companyUrn": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:83451420"
+                        }
+                    },
+                    "/entityUrn": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:83451420"
+                        }
+                    },
+                    "/geoLocationName": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:83451420"
+                        }
+                    },
+                    "/promotion": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:83451420"
+                        }
+                    },
+                    "/title": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:83451420"
+                        }
+                    },
+                    "/region": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:83451420"
+                        }
+                    },
+                    "/locationName": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:83451420"
+                        }
+                    },
+                    "/description": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:83451420"
+                        }
+                    }
+                },
+                "geoLocationName": "Guwahati, Assam, India",
+                "geoUrn": "urn:li:fs_geo:105607401",
+                "companyName": "Freelance",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 10,
+                        "year": 2018
+                    }
+                },
+                "description": "Development of web backend, data engineering solutions, ETL pipelines, and machine learning model deployments.",
+                "title": "Freelance Software Engineer",
+                "region": "urn:li:fs_region:(in,0)"
+            },
+            {
+                "locationName": "Guwahati, Assam, India",
+                "entityUrn": "urn:li:fs_position:(ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8,695441389)",
+                "$anti_abuse_metadata": {
+                    "/geoUrn": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:83451420"
+                        }
+                    },
+                    "/companyName": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:83451420"
+                        }
+                    },
+                    "/companyUrn": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:83451420"
+                        }
+                    },
+                    "/entityUrn": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:83451420"
+                        }
+                    },
+                    "/geoLocationName": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:83451420"
+                        }
+                    },
+                    "/promotion": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:83451420"
+                        }
+                    },
+                    "/title": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:83451420"
+                        }
+                    },
+                    "/region": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:83451420"
+                        }
+                    },
+                    "/locationName": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:83451420"
+                        }
+                    },
+                    "/description": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:83451420"
+                        }
+                    }
+                },
+                "geoLocationName": "Guwahati, Assam, India",
+                "geoUrn": "urn:li:fs_geo:105607401",
+                "companyName": "Dept. of Electronics and Communication Technology, Gauhati University",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 8,
+                        "year": 2018
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2015
+                    }
+                },
+                "description": "Development of embedded systems and IoT solutions using Arduino and Raspberry Pi.",
+                "title": "Project Engineer",
+                "region": "urn:li:fs_region:(in,0)"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8,590378791)",
+                "school": {
+                    "objectUrn": "urn:li:school:13476",
+                    "entityUrn": "urn:li:fs_miniSchool:13476",
+                    "active": true,
+                    "schoolName": "Gauhati University",
+                    "trackingId": "bV08cv+pRwyWgznGuKXluA==",
+                    "logoUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQE_SHDG7RHWLg/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "year": 2018
+                    }
+                },
+                "degreeName": "Doctor of Philosophy - PhD",
+                "schoolName": "Gauhati University",
+                "fieldOfStudy": "Analytical Modeling and Soft Computing for Antenna Design",
+                "degreeUrn": "urn:li:fs_degree:900",
+                "schoolUrn": "urn:li:fs_miniSchool:13476"
+            },
+            {
+                "projects": [
+                    "urn:li:fs_project:(ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8,57)",
+                    "urn:li:fs_project:(ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8,64)",
+                    "urn:li:fs_project:(ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8,1264451247)"
+                ],
+                "entityUrn": "urn:li:fs_education:(ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8,185431328)",
+                "activities": "Resonics \nhttp://gauhati.ac.in/Resonics.html",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2015
+                    },
+                    "startDate": {
+                        "year": 2013
+                    }
+                },
+                "description": "Specialization in Signal Processing and Communication",
+                "degreeName": "Master of Technology (MTech)",
+                "schoolName": "Gauhati University Institute of Science and Technology",
+                "fieldOfStudy": "Signal Processing and Communication"
+            },
+            {
+                "projects": [
+                    "urn:li:fs_project:(ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8,3)",
+                    "urn:li:fs_project:(ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8,8)"
+                ],
+                "entityUrn": "urn:li:fs_education:(ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8,53621675)",
+                "school": {
+                    "objectUrn": "urn:li:school:206183",
+                    "entityUrn": "urn:li:fs_miniSchool:206183",
+                    "active": true,
+                    "schoolName": "Assam Don Bosco University, Guwahati",
+                    "trackingId": "XbTGzeaNS6qoH3oEEz7ZWg==",
+                    "logoUrl": "https://media-exp1.licdn.com/dms/image/C510BAQF9YbRGZb8a9w/company-logo_"
+                },
+                "activities": "Editor of College Magazine,\nDrama Club\nLiterature Club\nCoding Club",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2013
+                    },
+                    "startDate": {
+                        "year": 2009
+                    }
+                },
+                "description": "Completed graduation in Electronics and Communication Engineering",
+                "degreeName": "Bachelor of Technology (B.Tech.)",
+                "schoolName": "Assam Don Bosco University, Guwahati",
+                "fieldOfStudy": "Electronics and Communication engineering",
+                "schoolUrn": "urn:li:fs_miniSchool:206183"
+            }
+        ],
+        "languages": [
+            {
+                "name": "Assamese",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "English",
+                "proficiency": "PROFESSIONAL_WORKING"
+            },
+            {
+                "name": "Hindi",
+                "proficiency": "LIMITED_WORKING"
+            }
+        ],
+        "publications": [
+            {
+                "date": {
+                    "month": 3,
+                    "year": 2022,
+                    "day": 25
+                },
+                "name": "Analytical methods revisited: a search for possible candidates for physics-based low-fidelity models of patch antennas",
+                "publisher": "Indian Journal of Physics",
+                "description": "Printed antennas have played a key role in the quantum leap of portable electronics and communication technology due to their size, robustness and durability. Soft-computational optimization of printed antennas is an emerging trend in antenna design. These methods help in the rapid development of optimized antennas to meet the demands of fast-changing technologies. The geometrical parameters of an antenna are tuned iteratively using an optimization algorithm to best fit the desired performance of an antenna. The use of high-fidelity full-wave simulation is computationally expensive for such iterative evaluation. Low-fidelity surrogate models are viewed as a solution to this problem. This paper reviews some recent works where analytical antenna models are used as surrogate models for soft-computational optimization. Several traditional and modern methods for the analytical modeling of antennas are also reviewed. The analytical models are broadly classified into five categories\u2014traditional analytical methods, antennas modeled as filters, analytical equivalent circuit models, cascade form of analytical equivalent circuit models and computer-aided design of equivalent circuit models. Traditional analytical methods and analytical equivalent circuit models provide higher insights into the working of the antennas. Modeling antennas as filters often result in higher accuracy but limited insights into how the antenna works. The hybrid approach may be viewed as a balance between the two. The computer-aided approach helps in enhancing the accuracy of equivalent circuit models. Examples from each category are reviewed, and they are evaluated based on their applicability in surrogate models.",
+                "url": "https://rdcu.be/cJNhl",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Sivaranjan",
+                            "lastName": "Goswami",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8",
+                            "occupation": "Lead Python Backend and Data Engineer",
+                            "objectUrn": "urn:li:member:83451420",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1612722440595?e=1657756800&v=beta&t=AH73XgvlX0ZFOAvVVT1mWQzEhQZiE0oFvVS25D0cqJw",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1612722440595?e=1657756800&v=beta&t=Hz5d00sLT7GHwjPEZVjbNytMawEVpoJhiENqpKxiZKc",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D16AQEQ3uq-YlC4Sg/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "sivaranjan-goswami-790b4523",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1610827295313?e=1657756800&v=beta&t=xdbGLfFtxX0TAyruZ80dZdpC59p1wDMtHTdBN0gdSPc",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1610827295313?e=1657756800&v=beta&t=wf_N8WdURvvHfb4tqsKGbQaWXKCYlxs_hDDSpyOr3C0",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1610827295313?e=1657756800&v=beta&t=go3fiPNuINMW-dA-IP1L_FXKYg7Lyjaw5GhEJc1RW7g",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1610827295313?e=1657756800&v=beta&t=DcyzpB1aHPXF-b0Tlz4s7XvM_F0m3mbz2myQyooRVqs",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQFHt_uQhOWvkA/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "U/GDdZpOT46Y0qgOTehdNQ=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8"
+                    }
+                ]
+            },
+            {
+                "date": {
+                    "month": 9,
+                    "year": 2021,
+                    "day": 9
+                },
+                "name": "SIMULATION-DRIVEN OPTIMIZATION OF SLOT ANTENNA USING GENETIC ALGORITHM",
+                "publisher": "Nova Science Publishers, Incorporated",
+                "description": "In book: Planar Antenna - Design, Fabrication, Testing, and ApplicationPublisher: Nova Science Publishers, Inc.",
+                "url": "https://novapublishers.com/shop/planar-antenna-design-fabrication-testing-and-application/",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Sivaranjan",
+                            "lastName": "Goswami",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8",
+                            "occupation": "Lead Python Backend and Data Engineer",
+                            "objectUrn": "urn:li:member:83451420",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1612722440595?e=1657756800&v=beta&t=AH73XgvlX0ZFOAvVVT1mWQzEhQZiE0oFvVS25D0cqJw",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1612722440595?e=1657756800&v=beta&t=Hz5d00sLT7GHwjPEZVjbNytMawEVpoJhiENqpKxiZKc",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D16AQEQ3uq-YlC4Sg/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "sivaranjan-goswami-790b4523",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1610827295313?e=1657756800&v=beta&t=xdbGLfFtxX0TAyruZ80dZdpC59p1wDMtHTdBN0gdSPc",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1610827295313?e=1657756800&v=beta&t=wf_N8WdURvvHfb4tqsKGbQaWXKCYlxs_hDDSpyOr3C0",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1610827295313?e=1657756800&v=beta&t=go3fiPNuINMW-dA-IP1L_FXKYg7Lyjaw5GhEJc1RW7g",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1610827295313?e=1657756800&v=beta&t=DcyzpB1aHPXF-b0Tlz4s7XvM_F0m3mbz2myQyooRVqs",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQFHt_uQhOWvkA/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "U/GDdZpOT46Y0qgOTehdNQ=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8"
+                    }
+                ]
+            },
+            {
+                "date": {
+                    "month": 9,
+                    "year": 2021,
+                    "day": 1
+                },
+                "name": "2x2 Grid Array Design with E-shaped Microstrip Elements",
+                "publisher": "INTERNATIONAL JOURNAL OF CIRCUITS, SYSTEMS AND SIGNAL PROCESSING",
+                "description": "The paper proposes a work of four element in a 2\u00d72 grid fashioned with E-shaped microstrip patch antenna with corporate fed .The paper compares the proposed design with four elements with a single element and a 2 element array design.All the three antenna designs use E shaped microstrip patch as an element. The design of the grid is achieved through the design of a single element, the design of a 1\u00d72 array and finally the design of the 2\u00d72 grid on an FR4 epoxy substrate of thickness 1.5 mm. A corporate feed network of microstrip lines is used to excite the array. The performance of each stage is studied in terms of the return loss parameter, the far field gain, and the beam-widths are observed in each case from simulation results. The resonant frequency in each case is 3.8 GHz. Through comparision of simulation results the paper shows that as the number of elements is increased, the beam-width reduces. In other words, the directivity is increased. Further, it is also observed that the gain and bandwidth is the minimum for the single patch, followed by that of the 1\u00d72 array and the maximum for the 2\u00d72 grid. Thus,it is ssen that the proposed four element antenna with corporate feeding performs better as compared to antennas with either only single patch element or two element array. The construction of the grid leads to increase in gain, bandwidth and directivity of the antenna.",
+                "url": "https://www.naun.org/main/NAUN/circuitssystemssignal/2021/c962005-146(2021).pdf",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Sivaranjan",
+                            "lastName": "Goswami",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8",
+                            "occupation": "Lead Python Backend and Data Engineer",
+                            "objectUrn": "urn:li:member:83451420",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1612722440595?e=1657756800&v=beta&t=AH73XgvlX0ZFOAvVVT1mWQzEhQZiE0oFvVS25D0cqJw",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1612722440595?e=1657756800&v=beta&t=Hz5d00sLT7GHwjPEZVjbNytMawEVpoJhiENqpKxiZKc",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D16AQEQ3uq-YlC4Sg/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "sivaranjan-goswami-790b4523",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1610827295313?e=1657756800&v=beta&t=xdbGLfFtxX0TAyruZ80dZdpC59p1wDMtHTdBN0gdSPc",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1610827295313?e=1657756800&v=beta&t=wf_N8WdURvvHfb4tqsKGbQaWXKCYlxs_hDDSpyOr3C0",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1610827295313?e=1657756800&v=beta&t=go3fiPNuINMW-dA-IP1L_FXKYg7Lyjaw5GhEJc1RW7g",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1610827295313?e=1657756800&v=beta&t=DcyzpB1aHPXF-b0Tlz4s7XvM_F0m3mbz2myQyooRVqs",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQFHt_uQhOWvkA/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "U/GDdZpOT46Y0qgOTehdNQ=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8"
+                    },
+                    {
+                        "member": {
+                            "firstName": "juhi kangkana",
+                            "lastName": "baruah",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACI93eYBGNlF4PAdUrZS3Ih3mh1mtOx2TaY",
+                            "occupation": "M.Tech in Electronics and Communication engineering (actively searching for a job )",
+                            "objectUrn": "urn:li:member:574479846",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACI93eYBGNlF4PAdUrZS3Ih3mh1mtOx2TaY",
+                            "publicIdentifier": "juhi-kangkana-baruah-746485140",
+                            "trackingId": "Pr3C3VYkR0+eASCWEsBarA=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACI93eYBGNlF4PAdUrZS3Ih3mh1mtOx2TaY"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Kandarpa Kumar",
+                            "lastName": "Sarma",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAADfxIwBSd74QIt2hcNwfnSRSMIWL94yeBY",
+                            "occupation": "Professor at Gauhati University, Guwahati, India.",
+                            "objectUrn": "urn:li:member:14664844",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAADfxIwBSd74QIt2hcNwfnSRSMIWL94yeBY",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1517717827854?e=1657756800&v=beta&t=CqUCwINaslKaVFS_qYy_HoBDqDKNeNrekObQMwoJ50A",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1517717827854?e=1657756800&v=beta&t=J5VC5_b0YtPDG-SwFWOFjhR3koRa9EVwIDyEEZwLl0Q",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E16AQFho_Rwkn6qPw/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "kandarpa-kumar-sarma-724ab24",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1517717827142?e=1657756800&v=beta&t=ZLbWIBEbNrFw113bKGEageByOW3PHjFO_CoMcoCysVQ",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1517717827142?e=1657756800&v=beta&t=KHyW-302tWUXGaxHXmvgKFtWoFj-y2oApOPyVgEgbgc",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1517717827142?e=1657756800&v=beta&t=uBGFYRrM8I_HjWnyLM1cq5y3Gg7TTcrU_2tKyHSLYzg",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1517717827142?e=1657756800&v=beta&t=GGJl8UN-RoakDF1qdvUWdo9SH_q___lkEg996dMpX9o",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E03AQHjBHJDE2Re-A/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "tEMs/GzeQ5qeuTsp8jEWgA=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAADfxIwBSd74QIt2hcNwfnSRSMIWL94yeBY"
+                    },
+                    {
+                        "name": "Nikos E. Mastorakis"
+                    }
+                ]
+            },
+            {
+                "date": {
+                    "month": 9,
+                    "year": 2021,
+                    "day": 1
+                },
+                "name": "Synthesis of a Sparse Planar Phased Array Antenna with Reduced Side-Lobe Level and Beam-Width using Particle Swarm Optimization",
+                "publisher": "INTERNATIONAL JOURNAL OF CIRCUITS, SYSTEMS AND SIGNAL PROCESSING",
+                "description": "Computer aided synthesis of sparse array is a popular area of research worldwide for the application in radar and wireless communication. The trend is observing new heights with the launch of 5G millimeter wave wireless communication. A sparse array has a fewer number of elements than a conventional antenna array. In this work, a sparse array is synthesized from a 16\u00d716 uniform rectangular array (URA). The synthesis includes an artificial neural network (ANN) model for estimation of the excitation weights of the URA for a given scan-angle. The weights of the sparse array are computed by the Hadamard product of the weight matrix of the URA with a binary matrix that is obtained using particle swarm optimization (PSO). The objective function of the optimization problem is formulated to ensure that the PSLL is minimized for multiple scan-angles. It is shown from experimental analysis that apart from minimizing the PSLL, the proposed approach yields a narrower beam-width than the original URA",
+                "url": "https://www.naun.org/main/NAUN/circuitssystemssignal/2021/d022005-148(2021).pdf",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Sivaranjan",
+                            "lastName": "Goswami",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8",
+                            "occupation": "Lead Python Backend and Data Engineer",
+                            "objectUrn": "urn:li:member:83451420",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1612722440595?e=1657756800&v=beta&t=AH73XgvlX0ZFOAvVVT1mWQzEhQZiE0oFvVS25D0cqJw",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1612722440595?e=1657756800&v=beta&t=Hz5d00sLT7GHwjPEZVjbNytMawEVpoJhiENqpKxiZKc",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D16AQEQ3uq-YlC4Sg/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "sivaranjan-goswami-790b4523",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1610827295313?e=1657756800&v=beta&t=xdbGLfFtxX0TAyruZ80dZdpC59p1wDMtHTdBN0gdSPc",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1610827295313?e=1657756800&v=beta&t=wf_N8WdURvvHfb4tqsKGbQaWXKCYlxs_hDDSpyOr3C0",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1610827295313?e=1657756800&v=beta&t=go3fiPNuINMW-dA-IP1L_FXKYg7Lyjaw5GhEJc1RW7g",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1610827295313?e=1657756800&v=beta&t=DcyzpB1aHPXF-b0Tlz4s7XvM_F0m3mbz2myQyooRVqs",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQFHt_uQhOWvkA/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "U/GDdZpOT46Y0qgOTehdNQ=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Dr. Kumaresh",
+                            "lastName": "Sarmah",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAChIsXkBMIzRAG5DFqMlr51DeCjj4_fnWEQ",
+                            "occupation": "Assistant Professor at Gauhati University",
+                            "objectUrn": "urn:li:member:675852665",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAChIsXkBMIzRAG5DFqMlr51DeCjj4_fnWEQ",
+                            "publicIdentifier": "dr-kumaresh-sarmah-53541216a",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1593169512998?e=1657756800&v=beta&t=SbSZYh27X1MCSeMhhmYpeU1515b3CIT6TFCXINRo4U0",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1593169512998?e=1657756800&v=beta&t=5YJcutqauTVGyc4HMQlhGnuVMtzIcpzsERF1AyVxsl0",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1593169512998?e=1657756800&v=beta&t=2ysnA8-498FWhRjvVE5fHkeVNmp642SyyGbqEj-92TA",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1593169512998?e=1657756800&v=beta&t=zeTzwEf4qNMUf2dtVuNjk2T4EIGyKCxSrjUyMjmc54Q",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E03AQG5CszJrdXqGw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "2tmyBwGEQUioGzH5RaX7ew=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAChIsXkBMIzRAG5DFqMlr51DeCjj4_fnWEQ"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Kandarpa Kumar",
+                            "lastName": "Sarma",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAADfxIwBSd74QIt2hcNwfnSRSMIWL94yeBY",
+                            "occupation": "Professor at Gauhati University, Guwahati, India.",
+                            "objectUrn": "urn:li:member:14664844",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAADfxIwBSd74QIt2hcNwfnSRSMIWL94yeBY",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1517717827854?e=1657756800&v=beta&t=CqUCwINaslKaVFS_qYy_HoBDqDKNeNrekObQMwoJ50A",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1517717827854?e=1657756800&v=beta&t=J5VC5_b0YtPDG-SwFWOFjhR3koRa9EVwIDyEEZwLl0Q",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E16AQFho_Rwkn6qPw/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "kandarpa-kumar-sarma-724ab24",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1517717827142?e=1657756800&v=beta&t=ZLbWIBEbNrFw113bKGEageByOW3PHjFO_CoMcoCysVQ",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1517717827142?e=1657756800&v=beta&t=KHyW-302tWUXGaxHXmvgKFtWoFj-y2oApOPyVgEgbgc",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1517717827142?e=1657756800&v=beta&t=uBGFYRrM8I_HjWnyLM1cq5y3Gg7TTcrU_2tKyHSLYzg",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1517717827142?e=1657756800&v=beta&t=GGJl8UN-RoakDF1qdvUWdo9SH_q___lkEg996dMpX9o",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E03AQHjBHJDE2Re-A/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "tEMs/GzeQ5qeuTsp8jEWgA=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAADfxIwBSd74QIt2hcNwfnSRSMIWL94yeBY"
+                    },
+                    {
+                        "name": "Nikos E. Mastorakis"
+                    }
+                ]
+            },
+            {
+                "date": {
+                    "month": 8,
+                    "year": 2021,
+                    "day": 15
+                },
+                "name": "Designing of a 2x2 E-shaped Microstrip Patch Grid Antenna",
+                "publisher": "WSEAS TRANSACTIONS on COMMUNICATIONS",
+                "description": "In this work, a 2\u00d72 grid of E-shaped patch antennas is proposed. The design of the grid is achieved through the design of a single element, the design of a 1\u00d72 array and finally the design of the 2\u00d72 grid on an FR4 epoxy substrate of thickness 1.5 mm. A corporate feed network of microstrip lines is used to excite the array. The performance of each stage is studied in terms of the return loss parameter, the far field gain, and the beam-widths are observed in each case from simulation results. The resonant frequency in each case is 3.8 GHz. It is observed that as the number of elements is increased, the beam-width reduces. In other words, the directivity is increased. Further, it is also observed that the gain and bandwidth is the minimum for the single patch, followed by that of the 1\u00d72 array and the maximum for the 2\u00d72 grid. Thus, the construction of the grid leads to increase in gain, bandwidth and directivity of the antenna.",
+                "url": "https://wseas.com/journals/communications/2021/a325104-013(2021).pdf",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Sivaranjan",
+                            "lastName": "Goswami",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8",
+                            "occupation": "Lead Python Backend and Data Engineer",
+                            "objectUrn": "urn:li:member:83451420",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1612722440595?e=1657756800&v=beta&t=AH73XgvlX0ZFOAvVVT1mWQzEhQZiE0oFvVS25D0cqJw",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1612722440595?e=1657756800&v=beta&t=Hz5d00sLT7GHwjPEZVjbNytMawEVpoJhiENqpKxiZKc",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D16AQEQ3uq-YlC4Sg/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "sivaranjan-goswami-790b4523",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1610827295313?e=1657756800&v=beta&t=xdbGLfFtxX0TAyruZ80dZdpC59p1wDMtHTdBN0gdSPc",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1610827295313?e=1657756800&v=beta&t=wf_N8WdURvvHfb4tqsKGbQaWXKCYlxs_hDDSpyOr3C0",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1610827295313?e=1657756800&v=beta&t=go3fiPNuINMW-dA-IP1L_FXKYg7Lyjaw5GhEJc1RW7g",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1610827295313?e=1657756800&v=beta&t=DcyzpB1aHPXF-b0Tlz4s7XvM_F0m3mbz2myQyooRVqs",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQFHt_uQhOWvkA/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "U/GDdZpOT46Y0qgOTehdNQ=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8"
+                    },
+                    {
+                        "member": {
+                            "firstName": "juhi kangkana",
+                            "lastName": "baruah",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACI93eYBGNlF4PAdUrZS3Ih3mh1mtOx2TaY",
+                            "occupation": "M.Tech in Electronics and Communication engineering (actively searching for a job )",
+                            "objectUrn": "urn:li:member:574479846",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACI93eYBGNlF4PAdUrZS3Ih3mh1mtOx2TaY",
+                            "publicIdentifier": "juhi-kangkana-baruah-746485140",
+                            "trackingId": "Pr3C3VYkR0+eASCWEsBarA=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACI93eYBGNlF4PAdUrZS3Ih3mh1mtOx2TaY"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Dr. Kumaresh",
+                            "lastName": "Sarmah",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAChIsXkBMIzRAG5DFqMlr51DeCjj4_fnWEQ",
+                            "occupation": "Assistant Professor at Gauhati University",
+                            "objectUrn": "urn:li:member:675852665",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAChIsXkBMIzRAG5DFqMlr51DeCjj4_fnWEQ",
+                            "publicIdentifier": "dr-kumaresh-sarmah-53541216a",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1593169512998?e=1657756800&v=beta&t=SbSZYh27X1MCSeMhhmYpeU1515b3CIT6TFCXINRo4U0",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1593169512998?e=1657756800&v=beta&t=5YJcutqauTVGyc4HMQlhGnuVMtzIcpzsERF1AyVxsl0",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1593169512998?e=1657756800&v=beta&t=2ysnA8-498FWhRjvVE5fHkeVNmp642SyyGbqEj-92TA",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1593169512998?e=1657756800&v=beta&t=zeTzwEf4qNMUf2dtVuNjk2T4EIGyKCxSrjUyMjmc54Q",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E03AQG5CszJrdXqGw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "2tmyBwGEQUioGzH5RaX7ew=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAChIsXkBMIzRAG5DFqMlr51DeCjj4_fnWEQ"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Kandarpa Kumar",
+                            "lastName": "Sarma",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAADfxIwBSd74QIt2hcNwfnSRSMIWL94yeBY",
+                            "occupation": "Professor at Gauhati University, Guwahati, India.",
+                            "objectUrn": "urn:li:member:14664844",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAADfxIwBSd74QIt2hcNwfnSRSMIWL94yeBY",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1517717827854?e=1657756800&v=beta&t=CqUCwINaslKaVFS_qYy_HoBDqDKNeNrekObQMwoJ50A",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1517717827854?e=1657756800&v=beta&t=J5VC5_b0YtPDG-SwFWOFjhR3koRa9EVwIDyEEZwLl0Q",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E16AQFho_Rwkn6qPw/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "kandarpa-kumar-sarma-724ab24",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1517717827142?e=1657756800&v=beta&t=ZLbWIBEbNrFw113bKGEageByOW3PHjFO_CoMcoCysVQ",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1517717827142?e=1657756800&v=beta&t=KHyW-302tWUXGaxHXmvgKFtWoFj-y2oApOPyVgEgbgc",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1517717827142?e=1657756800&v=beta&t=uBGFYRrM8I_HjWnyLM1cq5y3Gg7TTcrU_2tKyHSLYzg",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1517717827142?e=1657756800&v=beta&t=GGJl8UN-RoakDF1qdvUWdo9SH_q___lkEg996dMpX9o",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E03AQHjBHJDE2Re-A/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "tEMs/GzeQ5qeuTsp8jEWgA=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAADfxIwBSd74QIt2hcNwfnSRSMIWL94yeBY"
+                    }
+                ]
+            },
+            {
+                "date": {
+                    "month": 8,
+                    "year": 2021,
+                    "day": 10
+                },
+                "name": "Synthesis of a Sparse 2D-Scanning Array using Particle Swarm Optimization for Side-Lobe Reduction",
+                "publisher": "WSEAS TRANSACTIONS on COMMUNICATIONS",
+                "description": "Synthesis of sparse arrays is a promising area of research for a wide range of applications including radar and millimeter-wave wireless communication. The design goal of array thinning problems is to reduce the number of elements of an array without significantly affecting its performance. This work presents a technique for synthesizing a sparse phased-array antenna from a 16\u00d716 uniform rectangular array (URA). The proposed approach reduces the number of elements by 50% without any significant increase in the peak sidelobe level (PSLL) for all possible scan angles in the azimuthal and elevation plans within a finite range of scan angles. The synthesis includes an artificial neural network (ANN) model for estimation of the excitation weights of the URA for a given scan-angle. The weights of the sparse array are computed by the Hadamard product of the weight matrix of the URA with a binary matrix that is obtained using particle swarm optimization (PSO) to minimize the PSLL.",
+                "url": "https://wseas.com/journals/communications/2021/a285104-011(2021).pdf",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Sivaranjan",
+                            "lastName": "Goswami",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8",
+                            "occupation": "Lead Python Backend and Data Engineer",
+                            "objectUrn": "urn:li:member:83451420",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1612722440595?e=1657756800&v=beta&t=AH73XgvlX0ZFOAvVVT1mWQzEhQZiE0oFvVS25D0cqJw",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1612722440595?e=1657756800&v=beta&t=Hz5d00sLT7GHwjPEZVjbNytMawEVpoJhiENqpKxiZKc",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D16AQEQ3uq-YlC4Sg/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "sivaranjan-goswami-790b4523",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1610827295313?e=1657756800&v=beta&t=xdbGLfFtxX0TAyruZ80dZdpC59p1wDMtHTdBN0gdSPc",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1610827295313?e=1657756800&v=beta&t=wf_N8WdURvvHfb4tqsKGbQaWXKCYlxs_hDDSpyOr3C0",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1610827295313?e=1657756800&v=beta&t=go3fiPNuINMW-dA-IP1L_FXKYg7Lyjaw5GhEJc1RW7g",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1610827295313?e=1657756800&v=beta&t=DcyzpB1aHPXF-b0Tlz4s7XvM_F0m3mbz2myQyooRVqs",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQFHt_uQhOWvkA/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "U/GDdZpOT46Y0qgOTehdNQ=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Dr. Kumaresh",
+                            "lastName": "Sarmah",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAChIsXkBMIzRAG5DFqMlr51DeCjj4_fnWEQ",
+                            "occupation": "Assistant Professor at Gauhati University",
+                            "objectUrn": "urn:li:member:675852665",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAChIsXkBMIzRAG5DFqMlr51DeCjj4_fnWEQ",
+                            "publicIdentifier": "dr-kumaresh-sarmah-53541216a",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1593169512998?e=1657756800&v=beta&t=SbSZYh27X1MCSeMhhmYpeU1515b3CIT6TFCXINRo4U0",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1593169512998?e=1657756800&v=beta&t=5YJcutqauTVGyc4HMQlhGnuVMtzIcpzsERF1AyVxsl0",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1593169512998?e=1657756800&v=beta&t=2ysnA8-498FWhRjvVE5fHkeVNmp642SyyGbqEj-92TA",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1593169512998?e=1657756800&v=beta&t=zeTzwEf4qNMUf2dtVuNjk2T4EIGyKCxSrjUyMjmc54Q",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E03AQG5CszJrdXqGw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "2tmyBwGEQUioGzH5RaX7ew=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAChIsXkBMIzRAG5DFqMlr51DeCjj4_fnWEQ"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Kandarpa Kumar",
+                            "lastName": "Sarma",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAADfxIwBSd74QIt2hcNwfnSRSMIWL94yeBY",
+                            "occupation": "Professor at Gauhati University, Guwahati, India.",
+                            "objectUrn": "urn:li:member:14664844",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAADfxIwBSd74QIt2hcNwfnSRSMIWL94yeBY",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1517717827854?e=1657756800&v=beta&t=CqUCwINaslKaVFS_qYy_HoBDqDKNeNrekObQMwoJ50A",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1517717827854?e=1657756800&v=beta&t=J5VC5_b0YtPDG-SwFWOFjhR3koRa9EVwIDyEEZwLl0Q",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E16AQFho_Rwkn6qPw/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "kandarpa-kumar-sarma-724ab24",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1517717827142?e=1657756800&v=beta&t=ZLbWIBEbNrFw113bKGEageByOW3PHjFO_CoMcoCysVQ",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1517717827142?e=1657756800&v=beta&t=KHyW-302tWUXGaxHXmvgKFtWoFj-y2oApOPyVgEgbgc",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1517717827142?e=1657756800&v=beta&t=uBGFYRrM8I_HjWnyLM1cq5y3Gg7TTcrU_2tKyHSLYzg",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1517717827142?e=1657756800&v=beta&t=GGJl8UN-RoakDF1qdvUWdo9SH_q___lkEg996dMpX9o",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E03AQHjBHJDE2Re-A/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "tEMs/GzeQ5qeuTsp8jEWgA=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAADfxIwBSd74QIt2hcNwfnSRSMIWL94yeBY"
+                    }
+                ]
+            },
+            {
+                "date": {
+                    "month": 8,
+                    "year": 2021,
+                    "day": 1
+                },
+                "name": "Design of a Dual-Band Multilayer Antenna and its Equivalent Circuit Modeling with Vector-Fitting and Genetic Algorithm",
+                "publisher": "Elsevier",
+                "description": "Design of dual-band and multi-band printed antennas have attracted the attention of researchers worldwide in the last two decades. Most of the time, the antenna exhibits almost the similar radiation patterns at both of its resonant frequencies. In this paper, a dual-band, dual-pattern antenna is presented. The antenna has an omnidirectional radiation pattern at the 2.4 GHz ISM band and a directional radiation pattern between 3.5 GHz to 4.2 GHz. The designed antenna is studied with an analytical equivalent circuit model. The circuit parameters are estimated with a vector fitting method and with the genetic algorithm. The behavior of the antenna is explained with the equivalent circuit model. The designed antenna is fabricated and measurement results are found to be in agreement with the simulation results. The proposed antenna has possible applications in 5G and IoT implementations.",
+                "url": "https://www.sciencedirect.com/science/article/abs/pii/S1434841121002351",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Sivaranjan",
+                            "lastName": "Goswami",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8",
+                            "occupation": "Lead Python Backend and Data Engineer",
+                            "objectUrn": "urn:li:member:83451420",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1612722440595?e=1657756800&v=beta&t=AH73XgvlX0ZFOAvVVT1mWQzEhQZiE0oFvVS25D0cqJw",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1612722440595?e=1657756800&v=beta&t=Hz5d00sLT7GHwjPEZVjbNytMawEVpoJhiENqpKxiZKc",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D16AQEQ3uq-YlC4Sg/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "sivaranjan-goswami-790b4523",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1610827295313?e=1657756800&v=beta&t=xdbGLfFtxX0TAyruZ80dZdpC59p1wDMtHTdBN0gdSPc",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1610827295313?e=1657756800&v=beta&t=wf_N8WdURvvHfb4tqsKGbQaWXKCYlxs_hDDSpyOr3C0",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1610827295313?e=1657756800&v=beta&t=go3fiPNuINMW-dA-IP1L_FXKYg7Lyjaw5GhEJc1RW7g",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1610827295313?e=1657756800&v=beta&t=DcyzpB1aHPXF-b0Tlz4s7XvM_F0m3mbz2myQyooRVqs",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQFHt_uQhOWvkA/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "U/GDdZpOT46Y0qgOTehdNQ=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8"
+                    }
+                ]
+            },
+            {
+                "date": {
+                    "month": 6,
+                    "year": 2021,
+                    "day": 1
+                },
+                "name": "Gain enhancement of a microstrip patch antenna using superstrate radiator",
+                "publisher": "Taylor & Francis",
+                "description": "In this paper, a low power microstrip antenna is designed which is then mounted by a superstrate radiator to enhance the effective radiation gain of the antenna without increasing the feeding power feed to the antenna. Here, in such an arrangement, the secondary radiator is a periodic metallic structure over a dielectric substrate that can converse the radiation pattern in the desired direction without consuming extra radiation power. First, a modified curved shaped microstrip patch antenna resonating at a frequency of 2.4 GHz is designed. Later on, a superstrate is loaded over the patch antenna. The superstrate is covered by a thin copper plate, on which copper strip lines are etched to increase the radiation power. The S11 parameters and gain of the microstrip antenna loaded with and without superstrate structure are being compared. The results show an enhancement of gain of the antenna from 2.65 dB to 3.75 dB at the first resonating frequency of 2.2 GHz. Relative to the radiation pattern of the original patch antenna, the radiation of the superstrate loaded microstrip antenna seems to be strongly directed towards the positive z-direction.",
+                "url": "https://www.taylorfrancis.com/chapters/edit/10.1201/9781003193838-88/gain-enhancement-microstrip-patch-antenna-using-superstrate-radiator-namrata-medhi-sivaranjan-goswami-kandarpa-kumar-sarma-kumaresh-sarmah",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Sivaranjan",
+                            "lastName": "Goswami",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8",
+                            "occupation": "Lead Python Backend and Data Engineer",
+                            "objectUrn": "urn:li:member:83451420",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1612722440595?e=1657756800&v=beta&t=AH73XgvlX0ZFOAvVVT1mWQzEhQZiE0oFvVS25D0cqJw",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1612722440595?e=1657756800&v=beta&t=Hz5d00sLT7GHwjPEZVjbNytMawEVpoJhiENqpKxiZKc",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D16AQEQ3uq-YlC4Sg/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "sivaranjan-goswami-790b4523",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1610827295313?e=1657756800&v=beta&t=xdbGLfFtxX0TAyruZ80dZdpC59p1wDMtHTdBN0gdSPc",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1610827295313?e=1657756800&v=beta&t=wf_N8WdURvvHfb4tqsKGbQaWXKCYlxs_hDDSpyOr3C0",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1610827295313?e=1657756800&v=beta&t=go3fiPNuINMW-dA-IP1L_FXKYg7Lyjaw5GhEJc1RW7g",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1610827295313?e=1657756800&v=beta&t=DcyzpB1aHPXF-b0Tlz4s7XvM_F0m3mbz2myQyooRVqs",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQFHt_uQhOWvkA/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "U/GDdZpOT46Y0qgOTehdNQ=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8"
+                    },
+                    {
+                        "name": "Namrata Medhi"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Dr. Kumaresh",
+                            "lastName": "Sarmah",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAChIsXkBMIzRAG5DFqMlr51DeCjj4_fnWEQ",
+                            "occupation": "Assistant Professor at Gauhati University",
+                            "objectUrn": "urn:li:member:675852665",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAChIsXkBMIzRAG5DFqMlr51DeCjj4_fnWEQ",
+                            "publicIdentifier": "dr-kumaresh-sarmah-53541216a",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1593169512998?e=1657756800&v=beta&t=SbSZYh27X1MCSeMhhmYpeU1515b3CIT6TFCXINRo4U0",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1593169512998?e=1657756800&v=beta&t=5YJcutqauTVGyc4HMQlhGnuVMtzIcpzsERF1AyVxsl0",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1593169512998?e=1657756800&v=beta&t=2ysnA8-498FWhRjvVE5fHkeVNmp642SyyGbqEj-92TA",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1593169512998?e=1657756800&v=beta&t=zeTzwEf4qNMUf2dtVuNjk2T4EIGyKCxSrjUyMjmc54Q",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E03AQG5CszJrdXqGw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "2tmyBwGEQUioGzH5RaX7ew=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAChIsXkBMIzRAG5DFqMlr51DeCjj4_fnWEQ"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Kandarpa Kumar",
+                            "lastName": "Sarma",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAADfxIwBSd74QIt2hcNwfnSRSMIWL94yeBY",
+                            "occupation": "Professor at Gauhati University, Guwahati, India.",
+                            "objectUrn": "urn:li:member:14664844",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAADfxIwBSd74QIt2hcNwfnSRSMIWL94yeBY",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1517717827854?e=1657756800&v=beta&t=CqUCwINaslKaVFS_qYy_HoBDqDKNeNrekObQMwoJ50A",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1517717827854?e=1657756800&v=beta&t=J5VC5_b0YtPDG-SwFWOFjhR3koRa9EVwIDyEEZwLl0Q",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E16AQFho_Rwkn6qPw/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "kandarpa-kumar-sarma-724ab24",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1517717827142?e=1657756800&v=beta&t=ZLbWIBEbNrFw113bKGEageByOW3PHjFO_CoMcoCysVQ",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1517717827142?e=1657756800&v=beta&t=KHyW-302tWUXGaxHXmvgKFtWoFj-y2oApOPyVgEgbgc",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1517717827142?e=1657756800&v=beta&t=uBGFYRrM8I_HjWnyLM1cq5y3Gg7TTcrU_2tKyHSLYzg",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1517717827142?e=1657756800&v=beta&t=GGJl8UN-RoakDF1qdvUWdo9SH_q___lkEg996dMpX9o",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E03AQHjBHJDE2Re-A/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "tEMs/GzeQ5qeuTsp8jEWgA=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAADfxIwBSd74QIt2hcNwfnSRSMIWL94yeBY"
+                    }
+                ]
+            },
+            {
+                "date": {
+                    "month": 4,
+                    "year": 2020,
+                    "day": 1
+                },
+                "name": "Surrogate Model Assisted Design of CSRR Structure using Genetic Algorithm for Microstrip Antenna Application",
+                "publisher": "RADIOENGINEERING",
+                "description": "Soft-computational approaches have enabled quicker and more efficient means for antenna design. In the present work, a genetic algorithm (GA) based method is reported for the design of complementary split-ring resonator (CSRR) structures for antenna design. A multi-objective optimization problem is formulated to design the antenna. The cost function of the optimization problem is calculated from a surrogate model of the CSRR structure. The surrogate model is created first using an analytical model of the CSRR structure and then using an artificial neural network (ANN). A comparative study of the result shows that the ANN-based surrogate model is accurate as compared to the surrogate model using an analytical approach. An antenna with an integrated filter is fabricated using a CSRR structure designed applying the proposed method. The performance of the antenna is validated from the simulation and measurement results",
+                "url": "https://www.radioeng.cz/fulltexts/2020/20_01_0117_0124.pdf",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Sivaranjan",
+                            "lastName": "Goswami",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8",
+                            "occupation": "Lead Python Backend and Data Engineer",
+                            "objectUrn": "urn:li:member:83451420",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1612722440595?e=1657756800&v=beta&t=AH73XgvlX0ZFOAvVVT1mWQzEhQZiE0oFvVS25D0cqJw",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1612722440595?e=1657756800&v=beta&t=Hz5d00sLT7GHwjPEZVjbNytMawEVpoJhiENqpKxiZKc",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D16AQEQ3uq-YlC4Sg/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "sivaranjan-goswami-790b4523",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1610827295313?e=1657756800&v=beta&t=xdbGLfFtxX0TAyruZ80dZdpC59p1wDMtHTdBN0gdSPc",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1610827295313?e=1657756800&v=beta&t=wf_N8WdURvvHfb4tqsKGbQaWXKCYlxs_hDDSpyOr3C0",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1610827295313?e=1657756800&v=beta&t=go3fiPNuINMW-dA-IP1L_FXKYg7Lyjaw5GhEJc1RW7g",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1610827295313?e=1657756800&v=beta&t=DcyzpB1aHPXF-b0Tlz4s7XvM_F0m3mbz2myQyooRVqs",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQFHt_uQhOWvkA/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "U/GDdZpOT46Y0qgOTehdNQ=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Dr. Kumaresh",
+                            "lastName": "Sarmah",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAChIsXkBMIzRAG5DFqMlr51DeCjj4_fnWEQ",
+                            "occupation": "Assistant Professor at Gauhati University",
+                            "objectUrn": "urn:li:member:675852665",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAChIsXkBMIzRAG5DFqMlr51DeCjj4_fnWEQ",
+                            "publicIdentifier": "dr-kumaresh-sarmah-53541216a",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1593169512998?e=1657756800&v=beta&t=SbSZYh27X1MCSeMhhmYpeU1515b3CIT6TFCXINRo4U0",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1593169512998?e=1657756800&v=beta&t=5YJcutqauTVGyc4HMQlhGnuVMtzIcpzsERF1AyVxsl0",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1593169512998?e=1657756800&v=beta&t=2ysnA8-498FWhRjvVE5fHkeVNmp642SyyGbqEj-92TA",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1593169512998?e=1657756800&v=beta&t=zeTzwEf4qNMUf2dtVuNjk2T4EIGyKCxSrjUyMjmc54Q",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E03AQG5CszJrdXqGw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "2tmyBwGEQUioGzH5RaX7ew=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAChIsXkBMIzRAG5DFqMlr51DeCjj4_fnWEQ"
+                    }
+                ]
+            },
+            {
+                "date": {
+                    "month": 12,
+                    "year": 2019,
+                    "day": 1
+                },
+                "name": "A Linear-Scaling Technique for Designing a THz Antenna from a GHz Microstrip Antenna or Slot Antenna",
+                "publisher": "Elsevier",
+                "description": "With the increasing need for higher and higher bandwidth, wireless communication standards are moving towards higher frequencies. The fifth generation (5\u202fG) wireless communication standards are already set to millimeter waves and the research trends are advancing towards exploring the terahertz (THz) frequencies. Most of the design methodologies for microstrip antennas and other communication devices are developed in the GHz frequencies already. In this paper, a novel linear-scaling technique is presented for bridging the years of research in microstrip and slot antennas in GHz frequencies to the future generation of THz antennas. The technique is analytically justified for a rectangular patch antenna and experimentally validated for a wide band slot antenna and a metamaterial based antenna with integrated filters.",
+                "url": "https://www.sciencedirect.com/science/article/abs/pii/S003040261931229X",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Sivaranjan",
+                            "lastName": "Goswami",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8",
+                            "occupation": "Lead Python Backend and Data Engineer",
+                            "objectUrn": "urn:li:member:83451420",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1612722440595?e=1657756800&v=beta&t=AH73XgvlX0ZFOAvVVT1mWQzEhQZiE0oFvVS25D0cqJw",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1612722440595?e=1657756800&v=beta&t=Hz5d00sLT7GHwjPEZVjbNytMawEVpoJhiENqpKxiZKc",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D16AQEQ3uq-YlC4Sg/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "sivaranjan-goswami-790b4523",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1610827295313?e=1657756800&v=beta&t=xdbGLfFtxX0TAyruZ80dZdpC59p1wDMtHTdBN0gdSPc",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1610827295313?e=1657756800&v=beta&t=wf_N8WdURvvHfb4tqsKGbQaWXKCYlxs_hDDSpyOr3C0",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1610827295313?e=1657756800&v=beta&t=go3fiPNuINMW-dA-IP1L_FXKYg7Lyjaw5GhEJc1RW7g",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1610827295313?e=1657756800&v=beta&t=DcyzpB1aHPXF-b0Tlz4s7XvM_F0m3mbz2myQyooRVqs",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQFHt_uQhOWvkA/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "U/GDdZpOT46Y0qgOTehdNQ=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Kaustubh",
+                            "lastName": "Da",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAMa1RMBXsbqCgGQRpyhhTKHpgw_bM9_jhM",
+                            "occupation": "Assistant Professor at Assam Don Bosco University, Guwahati, Assam",
+                            "objectUrn": "urn:li:member:52090131",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAMa1RMBXsbqCgGQRpyhhTKHpgw_bM9_jhM",
+                            "publicIdentifier": "kaustubh-da-90354015",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1516562834359?e=1657756800&v=beta&t=TUTdVmjwh2b-OnpgwqVy33Y9mI-PSu6Wt3JZFSq_CKg",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1516562834359?e=1657756800&v=beta&t=LpVL_vPLs1hrgPl_NvGumToAHaqH0eUBlZCrFciH9sw",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1516562834359?e=1657756800&v=beta&t=iR_ejyhKbRGv73VlmhqQ_S-dESU-AM3z-O4ER2cganM",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1516562834359?e=1657756800&v=beta&t=DU_TKJcX-8FHjwp4U0EY4-oBcj8KiKwIzmhmgeuevkM",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQGL7YPfXPDBzA/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "wyIE8u2KS/W3T02dLLh5tw=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAMa1RMBXsbqCgGQRpyhhTKHpgw_bM9_jhM"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Dr. Kumaresh",
+                            "lastName": "Sarmah",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAChIsXkBMIzRAG5DFqMlr51DeCjj4_fnWEQ",
+                            "occupation": "Assistant Professor at Gauhati University",
+                            "objectUrn": "urn:li:member:675852665",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAChIsXkBMIzRAG5DFqMlr51DeCjj4_fnWEQ",
+                            "publicIdentifier": "dr-kumaresh-sarmah-53541216a",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1593169512998?e=1657756800&v=beta&t=SbSZYh27X1MCSeMhhmYpeU1515b3CIT6TFCXINRo4U0",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1593169512998?e=1657756800&v=beta&t=5YJcutqauTVGyc4HMQlhGnuVMtzIcpzsERF1AyVxsl0",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1593169512998?e=1657756800&v=beta&t=2ysnA8-498FWhRjvVE5fHkeVNmp642SyyGbqEj-92TA",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1593169512998?e=1657756800&v=beta&t=zeTzwEf4qNMUf2dtVuNjk2T4EIGyKCxSrjUyMjmc54Q",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E03AQG5CszJrdXqGw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "2tmyBwGEQUioGzH5RaX7ew=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAChIsXkBMIzRAG5DFqMlr51DeCjj4_fnWEQ"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Sunandan",
+                            "lastName": "Baruah",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAA7bOmoBfV4KM7adXJkqbpxthwZQENLY3ks",
+                            "occupation": "Dean, Research and Innovation at ASSAM DOWN TOWN UNIVERSITY",
+                            "objectUrn": "urn:li:member:249248362",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAA7bOmoBfV4KM7adXJkqbpxthwZQENLY3ks",
+                            "publicIdentifier": "sunandan-baruah-b4a5806b",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1625798105452?e=1657756800&v=beta&t=HXMNcMagmfbiGO39ybktoTdFkrbTJVMSGg23yeuhyn0",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1625798105452?e=1657756800&v=beta&t=p0At-KRu3bRF-6gjVp8KscvCZV2fuPCkzmNQm9WE_bo",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1625798105452?e=1657756800&v=beta&t=AcR4h55d9H7dEAJU76HcZne1O6PKOZUSUkCxhReIF-c",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1625798105452?e=1657756800&v=beta&t=3HaV8MV-BMiX7JT8hRVIWrPUG2y_vDgbYZeLTnIbC8c",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E03AQFOs7CpsP6ZYQ/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "lRdJPkenS0KMs17AM6mDxA=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAA7bOmoBfV4KM7adXJkqbpxthwZQENLY3ks"
+                    }
+                ]
+            }
+        ],
+        "certifications": [
+            {
+                "authority": "Udemy",
+                "name": "Machine Learning, Data Science and Deep Learning with Python",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 6,
+                        "year": 2020
+                    }
+                },
+                "licenseNumber": "UC-a2bf34da-a07d-42a7-810e-6e4f59b3997a",
+                "company": {
+                    "objectUrn": "urn:li:company:35930452",
+                    "entityUrn": "urn:li:fs_miniCompany:35930452",
+                    "name": "Udemy",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1586963069873?e=1660176000&v=beta&t=OiEER4Fxyh0EB8JHlWtfLEzlgqdRBgk6kkRSd39p0vA",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1586963069873?e=1660176000&v=beta&t=wa9O6iGkAFXb-mTwGiOqyNZX2gQ83ElVrZEejonxohM",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1586963069873?e=1660176000&v=beta&t=Y4mri6AEDUIeWiidP_ip0dwAmsezk8gSgztBdiNCL64",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C510BAQHx_7gExn787A/company-logo_"
+                        }
+                    },
+                    "universalName": "onlineeducationtvm",
+                    "dashCompanyUrn": "urn:li:fsd_company:35930452",
+                    "trackingId": "bI3GGSxwREqZVQGTOYoeLw=="
+                },
+                "displaySource": "ude.my",
+                "companyUrn": "urn:li:fs_miniCompany:35930452",
+                "url": "http://ude.my/UC-a2bf34da-a07d-42a7-810e-6e4f59b3997a"
+            },
+            {
+                "authority": "Coursera",
+                "name": "How Google does Machine Learning",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 4,
+                        "year": 2019
+                    }
+                },
+                "licenseNumber": "USYL8C55YWDB",
+                "company": {
+                    "objectUrn": "urn:li:company:2453129",
+                    "entityUrn": "urn:li:fs_miniCompany:2453129",
+                    "name": "Coursera",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1608039227697?e=1660176000&v=beta&t=24dSeYZFSUztRaUy6-QqI0GSTK5-7tfyOci9sanIOTE",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1608039227697?e=1660176000&v=beta&t=8mJvTc5z6PI8olmLRWSi-xaA6ZOeYWkWcZiqxFWbrhE",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1608039227697?e=1660176000&v=beta&t=o8C5zQF49vmVYRAgj4K1Q2W5kUw9P0IZwKQoBFhnmDc",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQGexnfBxeEG-g/company-logo_"
+                        }
+                    },
+                    "universalName": "coursera",
+                    "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                    "trackingId": "iWXmJBsoSW2toH2nW4HPWA=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:2453129",
+                "url": "http://coursera.org/verify/USYL8C55YWDB"
+            },
+            {
+                "authority": "Coursera",
+                "name": "Launching into Machine Learning",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 5,
+                        "year": 2019
+                    }
+                },
+                "licenseNumber": "YJE46UM866CP",
+                "company": {
+                    "objectUrn": "urn:li:company:2453129",
+                    "entityUrn": "urn:li:fs_miniCompany:2453129",
+                    "name": "Coursera",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1608039227697?e=1660176000&v=beta&t=24dSeYZFSUztRaUy6-QqI0GSTK5-7tfyOci9sanIOTE",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1608039227697?e=1660176000&v=beta&t=8mJvTc5z6PI8olmLRWSi-xaA6ZOeYWkWcZiqxFWbrhE",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1608039227697?e=1660176000&v=beta&t=o8C5zQF49vmVYRAgj4K1Q2W5kUw9P0IZwKQoBFhnmDc",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQGexnfBxeEG-g/company-logo_"
+                        }
+                    },
+                    "universalName": "coursera",
+                    "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                    "trackingId": "/F9Bff0YTlK6LwSR8Xa50A=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:2453129",
+                "url": "http://coursera.org/verify/YJE46UM866CP"
+            },
+            {
+                "authority": "Coursera",
+                "name": "Intro to TensorFlow",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 5,
+                        "year": 2019
+                    }
+                },
+                "licenseNumber": "QC6FH6H5TLAS",
+                "company": {
+                    "objectUrn": "urn:li:company:2453129",
+                    "entityUrn": "urn:li:fs_miniCompany:2453129",
+                    "name": "Coursera",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1608039227697?e=1660176000&v=beta&t=24dSeYZFSUztRaUy6-QqI0GSTK5-7tfyOci9sanIOTE",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1608039227697?e=1660176000&v=beta&t=8mJvTc5z6PI8olmLRWSi-xaA6ZOeYWkWcZiqxFWbrhE",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1608039227697?e=1660176000&v=beta&t=o8C5zQF49vmVYRAgj4K1Q2W5kUw9P0IZwKQoBFhnmDc",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQGexnfBxeEG-g/company-logo_"
+                        }
+                    },
+                    "universalName": "coursera",
+                    "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                    "trackingId": "Z96wkh3hRYCXLVncq6Jh0g=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:2453129",
+                "url": "http://coursera.org/verify/QC6FH6H5TLAS"
+            }
+        ],
+        "volunteer": [],
+        "honors": [],
+        "projects": [
+            {
+                "occupation": "urn:li:fs_education:(ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8,185431328)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Sivaranjan",
+                            "lastName": "Goswami",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8",
+                            "occupation": "Lead Python Backend and Data Engineer",
+                            "objectUrn": "urn:li:member:83451420",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1612722440595?e=1657756800&v=beta&t=AH73XgvlX0ZFOAvVVT1mWQzEhQZiE0oFvVS25D0cqJw",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1612722440595?e=1657756800&v=beta&t=Hz5d00sLT7GHwjPEZVjbNytMawEVpoJhiENqpKxiZKc",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D16AQEQ3uq-YlC4Sg/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "sivaranjan-goswami-790b4523",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1610827295313?e=1657756800&v=beta&t=xdbGLfFtxX0TAyruZ80dZdpC59p1wDMtHTdBN0gdSPc",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1610827295313?e=1657756800&v=beta&t=wf_N8WdURvvHfb4tqsKGbQaWXKCYlxs_hDDSpyOr3C0",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1610827295313?e=1657756800&v=beta&t=go3fiPNuINMW-dA-IP1L_FXKYg7Lyjaw5GhEJc1RW7g",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1610827295313?e=1657756800&v=beta&t=DcyzpB1aHPXF-b0Tlz4s7XvM_F0m3mbz2myQyooRVqs",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQFHt_uQhOWvkA/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "U/GDdZpOT46Y0qgOTehdNQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8,1264451247,259624266)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8"
+                    }
+                ],
+                "timePeriod": {
+                    "startDate": {
+                        "month": 9,
+                        "year": 2019
+                    }
+                },
+                "description": "My PhD work on development of a soft-computational method for the design of printed antennas and arrays.",
+                "title": "Soft computational approach to Antenna Design"
+            },
+            {
+                "occupation": "urn:li:fs_position:(ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8,1692682758)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Sivaranjan",
+                            "lastName": "Goswami",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8",
+                            "occupation": "Lead Python Backend and Data Engineer",
+                            "objectUrn": "urn:li:member:83451420",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1612722440595?e=1657756800&v=beta&t=AH73XgvlX0ZFOAvVVT1mWQzEhQZiE0oFvVS25D0cqJw",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1612722440595?e=1657756800&v=beta&t=Hz5d00sLT7GHwjPEZVjbNytMawEVpoJhiENqpKxiZKc",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D16AQEQ3uq-YlC4Sg/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "sivaranjan-goswami-790b4523",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1610827295313?e=1657756800&v=beta&t=xdbGLfFtxX0TAyruZ80dZdpC59p1wDMtHTdBN0gdSPc",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1610827295313?e=1657756800&v=beta&t=wf_N8WdURvvHfb4tqsKGbQaWXKCYlxs_hDDSpyOr3C0",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1610827295313?e=1657756800&v=beta&t=go3fiPNuINMW-dA-IP1L_FXKYg7Lyjaw5GhEJc1RW7g",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1610827295313?e=1657756800&v=beta&t=DcyzpB1aHPXF-b0Tlz4s7XvM_F0m3mbz2myQyooRVqs",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQFHt_uQhOWvkA/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "U/GDdZpOT46Y0qgOTehdNQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8,1709616061,322828493)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 8,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 12,
+                        "year": 2020
+                    }
+                },
+                "description": "Worked as a python backend developer. Tools used: Django Rest Framework, Postgresql, Mongo DB, Python",
+                "title": "Cloud Based Reconciliation for a Renowned Finance Company"
+            },
+            {
+                "occupation": "urn:li:fs_position:(ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8,1692682758)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Sivaranjan",
+                            "lastName": "Goswami",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8",
+                            "occupation": "Lead Python Backend and Data Engineer",
+                            "objectUrn": "urn:li:member:83451420",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1612722440595?e=1657756800&v=beta&t=AH73XgvlX0ZFOAvVVT1mWQzEhQZiE0oFvVS25D0cqJw",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1612722440595?e=1657756800&v=beta&t=Hz5d00sLT7GHwjPEZVjbNytMawEVpoJhiENqpKxiZKc",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D16AQEQ3uq-YlC4Sg/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "sivaranjan-goswami-790b4523",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1610827295313?e=1657756800&v=beta&t=xdbGLfFtxX0TAyruZ80dZdpC59p1wDMtHTdBN0gdSPc",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1610827295313?e=1657756800&v=beta&t=wf_N8WdURvvHfb4tqsKGbQaWXKCYlxs_hDDSpyOr3C0",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1610827295313?e=1657756800&v=beta&t=go3fiPNuINMW-dA-IP1L_FXKYg7Lyjaw5GhEJc1RW7g",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1610827295313?e=1657756800&v=beta&t=DcyzpB1aHPXF-b0Tlz4s7XvM_F0m3mbz2myQyooRVqs",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQFHt_uQhOWvkA/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "U/GDdZpOT46Y0qgOTehdNQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8,1709797454,322831054)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 8,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2021
+                    }
+                },
+                "description": "Working as a python developer. Tools used: Python, Django Rest Framework, Postgresql",
+                "title": "Data Analysis Tool for a US Health Company"
+            },
+            {
+                "occupation": "urn:li:fs_position:(ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8,1692682758)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Sivaranjan",
+                            "lastName": "Goswami",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8",
+                            "occupation": "Lead Python Backend and Data Engineer",
+                            "objectUrn": "urn:li:member:83451420",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1612722440595?e=1657756800&v=beta&t=AH73XgvlX0ZFOAvVVT1mWQzEhQZiE0oFvVS25D0cqJw",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1612722440595?e=1657756800&v=beta&t=Hz5d00sLT7GHwjPEZVjbNytMawEVpoJhiENqpKxiZKc",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D16AQEQ3uq-YlC4Sg/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "sivaranjan-goswami-790b4523",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1610827295313?e=1657756800&v=beta&t=xdbGLfFtxX0TAyruZ80dZdpC59p1wDMtHTdBN0gdSPc",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1610827295313?e=1657756800&v=beta&t=wf_N8WdURvvHfb4tqsKGbQaWXKCYlxs_hDDSpyOr3C0",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1610827295313?e=1657756800&v=beta&t=go3fiPNuINMW-dA-IP1L_FXKYg7Lyjaw5GhEJc1RW7g",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1610827295313?e=1657756800&v=beta&t=DcyzpB1aHPXF-b0Tlz4s7XvM_F0m3mbz2myQyooRVqs",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQFHt_uQhOWvkA/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "U/GDdZpOT46Y0qgOTehdNQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8,1709703004,322830428)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 7,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 7,
+                        "year": 2021
+                    }
+                },
+                "description": "Working as a Python Backend Developer. Tools used: Pandas, Django Rest Framework, Fast API",
+                "title": "Cloud Data Platform"
+            },
+            {
+                "occupation": "urn:li:fs_education:(ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8,185431328)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Sivaranjan",
+                            "lastName": "Goswami",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8",
+                            "occupation": "Lead Python Backend and Data Engineer",
+                            "objectUrn": "urn:li:member:83451420",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1612722440595?e=1657756800&v=beta&t=AH73XgvlX0ZFOAvVVT1mWQzEhQZiE0oFvVS25D0cqJw",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1612722440595?e=1657756800&v=beta&t=Hz5d00sLT7GHwjPEZVjbNytMawEVpoJhiENqpKxiZKc",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D16AQEQ3uq-YlC4Sg/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "sivaranjan-goswami-790b4523",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1610827295313?e=1657756800&v=beta&t=xdbGLfFtxX0TAyruZ80dZdpC59p1wDMtHTdBN0gdSPc",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1610827295313?e=1657756800&v=beta&t=wf_N8WdURvvHfb4tqsKGbQaWXKCYlxs_hDDSpyOr3C0",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1610827295313?e=1657756800&v=beta&t=go3fiPNuINMW-dA-IP1L_FXKYg7Lyjaw5GhEJc1RW7g",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1610827295313?e=1657756800&v=beta&t=DcyzpB1aHPXF-b0Tlz4s7XvM_F0m3mbz2myQyooRVqs",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQFHt_uQhOWvkA/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "U/GDdZpOT46Y0qgOTehdNQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8,64,65)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 7,
+                        "year": 2015
+                    },
+                    "startDate": {
+                        "month": 7,
+                        "year": 2014
+                    }
+                },
+                "description": "Microstrip antennas have received widespread attention world over as part of current and next generation mobile communication and wireless sensor networks. The primary reasons are its small size, reliability and low power requirements. Of late, the focus has been to use metamaterials for design and fabrication of microstrip antennas. Metamaterials are some artificial materials which have negative values of permittivity or permeability or both. Uses of metamaterials have considerably improved the performance of microstrip antennas in terms of enhancing bandwidth, reducing electrical size, obtaining resonance at multiple frequencies etc. The objective of the present work is to design and analyze a microstrip antenna using planar metamaterial and get better performance with reduced size and improved bandwidth for wireless communication. A square patch with a complementary split ring resonator (CSRR) at the ground plane has been studied experimentally with the help of HFSS. It is found to yield a number of resonant frequencies. A comparative analysis of the resonant frequencies of the CSRR and that of a microstrip antenna when a CSRR structure of the same dimensions is etched from the ground plane exactly below the patch. Using these models, attempts have been made to design an antenna which reduced electrical size and antennas with multiple resonant frequencies. It is found that the performance of the antenna can be further enhanced at the resonant frequencies by introducing modifications in the patch such as etching slots of various sizes and shapes at various places of the patch. The modification in patch can also be used to slightly fine-tune the resonant frequency of the antenna. Some of these designs are fabricated in PCB and their behaviors in the real world ambience are observed. Finally, an analytical study of the patch and the CSRR are performed in this work to predict the resonant frequency of the patch and the CSRR mathematically.",
+                "title": "Complementary Split Ring Resonator based Microstrip Antenna Design for Wireless Communication"
+            },
+            {
+                "occupation": "urn:li:fs_education:(ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8,185431328)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Sivaranjan",
+                            "lastName": "Goswami",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8",
+                            "occupation": "Lead Python Backend and Data Engineer",
+                            "objectUrn": "urn:li:member:83451420",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1612722440595?e=1657756800&v=beta&t=AH73XgvlX0ZFOAvVVT1mWQzEhQZiE0oFvVS25D0cqJw",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1612722440595?e=1657756800&v=beta&t=Hz5d00sLT7GHwjPEZVjbNytMawEVpoJhiENqpKxiZKc",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D16AQEQ3uq-YlC4Sg/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "sivaranjan-goswami-790b4523",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1610827295313?e=1657756800&v=beta&t=xdbGLfFtxX0TAyruZ80dZdpC59p1wDMtHTdBN0gdSPc",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1610827295313?e=1657756800&v=beta&t=wf_N8WdURvvHfb4tqsKGbQaWXKCYlxs_hDDSpyOr3C0",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1610827295313?e=1657756800&v=beta&t=go3fiPNuINMW-dA-IP1L_FXKYg7Lyjaw5GhEJc1RW7g",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1610827295313?e=1657756800&v=beta&t=DcyzpB1aHPXF-b0Tlz4s7XvM_F0m3mbz2myQyooRVqs",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQFHt_uQhOWvkA/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "U/GDdZpOT46Y0qgOTehdNQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8,57,58)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2013
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2013
+                    }
+                },
+                "description": "Voice activity detection is one of the most fundamental pre-processing of speech signal that is followed by various processing operations for different purposes. Presence of background noise makes it a challenging task. A real-time voice activity detection algorithm should be robust and its computational complexity should be less so that there is sufficient time for further processing of the speech signal. The work here formulates two separate voice activity detection approaches for real time speech in noisy background. The first algorithm, assumes the background noise to be stationary and speech to be non-stationary. It detects voice activity by observing variation in short time statistical properties of the speech signal. The second approach achieves the goal by matching the short time spectral components of the noisy speech with that of a clean reference speech of the speaker. The second approach exhibits satisfactory result for both stationary and non-stationary background.",
+                "title": "Voice Activity Detection of Real Time Speech Signal in Noisy Background"
+            },
+            {
+                "occupation": "urn:li:fs_education:(ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8,53621675)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Sivaranjan",
+                            "lastName": "Goswami",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8",
+                            "occupation": "Lead Python Backend and Data Engineer",
+                            "objectUrn": "urn:li:member:83451420",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1612722440595?e=1657756800&v=beta&t=AH73XgvlX0ZFOAvVVT1mWQzEhQZiE0oFvVS25D0cqJw",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1612722440595?e=1657756800&v=beta&t=Hz5d00sLT7GHwjPEZVjbNytMawEVpoJhiENqpKxiZKc",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D16AQEQ3uq-YlC4Sg/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "sivaranjan-goswami-790b4523",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1610827295313?e=1657756800&v=beta&t=xdbGLfFtxX0TAyruZ80dZdpC59p1wDMtHTdBN0gdSPc",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1610827295313?e=1657756800&v=beta&t=wf_N8WdURvvHfb4tqsKGbQaWXKCYlxs_hDDSpyOr3C0",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1610827295313?e=1657756800&v=beta&t=go3fiPNuINMW-dA-IP1L_FXKYg7Lyjaw5GhEJc1RW7g",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1610827295313?e=1657756800&v=beta&t=DcyzpB1aHPXF-b0Tlz4s7XvM_F0m3mbz2myQyooRVqs",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQFHt_uQhOWvkA/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "U/GDdZpOT46Y0qgOTehdNQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8,3,4)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Darathi",
+                            "lastName": "Dutta",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAxX-AkBASp5RFB3fVtt0vWoWgBGWbgJNKg",
+                            "occupation": "PACKET CORE ENGINEER at Ericsson India",
+                            "objectUrn": "urn:li:member:207091721",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAxX-AkBASp5RFB3fVtt0vWoWgBGWbgJNKg",
+                            "publicIdentifier": "darathi-dutta-8b543059",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1517268627409?e=1657756800&v=beta&t=nUsbfrGAg_LxKD126g7CAE1nKBDs2yVPDS0sDEbo1jI",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1517268627409?e=1657756800&v=beta&t=Qp_aoCoLxs5QtFJqX4gkT5H3B0hsaUFg9ESRMwcEKm8",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1517268627409?e=1657756800&v=beta&t=xTrznuX74cUxmoWdLmeQUhJ_mJfBTHb98PCqBa9LjKk",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1517268627409?e=1657756800&v=beta&t=pmq8RENwZ1sxf0jPHAm6F9-8jzU8sHnhlapEn2xA5OQ",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5103AQFSvwe8pHx1rw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "0ny3YyATS22WW1SrOpziEQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8,3,5)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAxX-AkBASp5RFB3fVtt0vWoWgBGWbgJNKg"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Pinky",
+                            "lastName": "Deka",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAATvaRsBsNzPZEVxt0YWYQNPcY5agXKnEqM",
+                            "occupation": "Cyber Security Expert | Certified Ethical Hacker (CEH) | CompTIA Security+ Certified | Microsoft Azure Certified | SIEM (IBM Qrader) | Vulnerability management | Email security | Security Operation Center (SOC)",
+                            "objectUrn": "urn:li:member:82798875",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAATvaRsBsNzPZEVxt0YWYQNPcY5agXKnEqM",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1600884598730?e=1657756800&v=beta&t=OZMGqRpTosDc9pS98gc5QJZos90V7EHQdQ_ahiP60mI",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1600884598730?e=1657756800&v=beta&t=D21dR9Tkt3Uvj6LnHyx9Nu6aCkt1Um3UE0VpyxE999A",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E16AQElsbK0Tu0xwg/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "pinky-deka",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1647630727873?e=1657756800&v=beta&t=LAvEmQfPdN0xFoDfDDfpL12t2bCqMNFbtV-Itpl79RQ",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1647630727873?e=1657756800&v=beta&t=DcHCwylAnoMT47lfYEAcUOMAOKTgt4VK24UiicrCKXc",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1647630727873?e=1657756800&v=beta&t=Unnc076nxPVKgMnTlMHCJJOIsEh0Zl-8O_SpZNxaghc",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1647630727873?e=1657756800&v=beta&t=wouBF5ResYte3DPP1dxaxcMBl_0zdlso4QgkVtz84PY",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQGtt0BWtx2VxA/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "OgP1cRVjSjOnAGFFr4H+cg=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8,3,6)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAATvaRsBsNzPZEVxt0YWYQNPcY5agXKnEqM"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Bijeet",
+                            "lastName": "Bardoloi",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAA_Ou2oBYxARYf5kS-QPO8DalWm589kmxQk",
+                            "occupation": "Attended Don Bosco College of Engineering and Technology",
+                            "objectUrn": "urn:li:member:265206634",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAA_Ou2oBYxARYf5kS-QPO8DalWm589kmxQk",
+                            "publicIdentifier": "bijeet-bardoloi-08a99874",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1516533921087?e=1657756800&v=beta&t=aBXprCvtHX6VeK2KI0GNjnSnWZtk6uKnphBrI2Rh0sM",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1516533921087?e=1657756800&v=beta&t=LxDMnhaAe5s4zcLhZknt4H6F6qX1v1Sah1XDrzb6HUM",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1516533921087?e=1657756800&v=beta&t=8k3luVd1prmYTgdREA7WQpMq57MEdsIGRJ9L2MUhkUg",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1516533921087?e=1657756800&v=beta&t=k7zLnz-5VRQjcfaVltzDFUbFtA_fnSSdA-zQcqFCHK8",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E03AQHB-4ZHm6k2IQ/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "8LbeGXdkSeO+dkImtcbLyQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8,3,30)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAA_Ou2oBYxARYf5kS-QPO8DalWm589kmxQk"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2013
+                    },
+                    "startDate": {
+                        "month": 7,
+                        "year": 2012
+                    }
+                },
+                "description": "An algorithm for automatically training an NLMS adaptive filter for speech enhancement has been formulated. The SNR of the enhanced speech is further improved using a pattern-identification approach for elimination of noise-only samples. The project has been successfully completed. Algorithms have been implemented in MATLAB and C and also partially in a real-time embedded system with LPC2148 microcontroller.\n\nPublications:\n\nPaper Presented in International Conference:\nTitle: ZCR Based Identification of Voiced, Unvoiced and Silent Parts of Speech Signal in Presence of Background Noise\nPresented in: International Conference of Computation and Communication Advancement (IC3A)-2013, JIS College of Engineering, Kalyani,West Bengal, Technically Sponsored by IEEE Kolkata Section.\n\u00a0\nPaper Accepted by International Journal with Minor Modifications:\nTitle: A Novel Approach for Design of a Speech Enhancement System using Auto-Trained NLMS Adaptive Filter\nCommunicated to: International Journal on Information and Communication Technology, Published by Inderscience Enterprises Ltd, Switzerland.\n\u00a0\nPaper Accepted in International Conference:\nTitle: A Novel Approach for Design of a Speech Enhancement System using NLMS Adaptive Filter and ZCR based Pattern Identification\nCommunicated to: International Conference on Emerging Trends and Applications in Computer Science, St. Anthony College, Shillong, Technically Sponsored by IEEE Kolkata Section.\n\u00a0\nPaper Communicated to International Journal:\nTitle: A Novel Approach for Design of a Real-Time Speech Enhancement System using Auto-Trained NLMS Adaptive Filter in ARM7 Based Microcontroller\nCommunicated to: International Journal on Computer Applications, Published by Foundation of Computer Science, USA.\n",
+                "title": "SPEECH ENHANCEMENT USING ADAPTIVE NOISE CANCELLATION"
+            },
+            {
+                "occupation": "urn:li:fs_education:(ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8,53621675)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Sivaranjan",
+                            "lastName": "Goswami",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8",
+                            "occupation": "Lead Python Backend and Data Engineer",
+                            "objectUrn": "urn:li:member:83451420",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1612722440595?e=1657756800&v=beta&t=AH73XgvlX0ZFOAvVVT1mWQzEhQZiE0oFvVS25D0cqJw",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1612722440595?e=1657756800&v=beta&t=Hz5d00sLT7GHwjPEZVjbNytMawEVpoJhiENqpKxiZKc",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D16AQEQ3uq-YlC4Sg/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "sivaranjan-goswami-790b4523",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1610827295313?e=1657756800&v=beta&t=xdbGLfFtxX0TAyruZ80dZdpC59p1wDMtHTdBN0gdSPc",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1610827295313?e=1657756800&v=beta&t=wf_N8WdURvvHfb4tqsKGbQaWXKCYlxs_hDDSpyOr3C0",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1610827295313?e=1657756800&v=beta&t=go3fiPNuINMW-dA-IP1L_FXKYg7Lyjaw5GhEJc1RW7g",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1610827295313?e=1657756800&v=beta&t=DcyzpB1aHPXF-b0Tlz4s7XvM_F0m3mbz2myQyooRVqs",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQFHt_uQhOWvkA/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "U/GDdZpOT46Y0qgOTehdNQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8,8,9)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8"
+                    },
+                    {
+                        "name": "Irfan Habib",
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8,8,10)"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2012
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2012
+                    }
+                },
+                "description": "It is a microcontroller based robotic arm. Four geared motors were used to control the movements of the arm. The motors were controlled by the 8051 microcontroller.",
+                "title": "Robotic Arm using 8051 Microcontroller"
+            }
+        ]
+    },
+    "contact_info": {
+        "email_address": "sivgos@gmail.com",
+        "websites": [],
+        "twitter": [],
+        "birthdate": {
+            "month": 7,
+            "day": 2
+        },
+        "ims": null,
+        "phone_numbers": [
+            {
+                "type": "MOBILE",
+                "number": "+919706421272"
+            }
+        ]
+    },
+    "connections": [
+        {
+            "urn_id": "ACoAABr4jt0BoOUmisITdRo1gR4CumG5I4jjZIw",
+            "distance": "DISTANCE_1",
+            "public_id": "samudra-deka-911659107",
+            "tracking_id": "452497117"
+        },
+        {
+            "urn_id": "ACoAADZmR9QB1zOH_PmrzQQw2wQmTJRTcNGU7CE",
+            "distance": "DISTANCE_1",
+            "public_id": "bkalita",
+            "tracking_id": "912672724"
+        },
+        {
+            "urn_id": "ACoAADLJzxsBizdB0nN5NZBCM41Q-z6-7ef5gyI",
+            "distance": "DISTANCE_1",
+            "public_id": "deepjyoti-kalita-78b4411b9",
+            "tracking_id": "852086555"
+        },
+        {
+            "urn_id": "ACoAAC2aUPYBGPB-T9xDu2Hjrq7OgzRPu5nTvyE",
+            "distance": "DISTANCE_1",
+            "public_id": "jintudas",
+            "tracking_id": "765087990"
+        },
+        {
+            "urn_id": "ACoAACT67ZEBgw1Aprl8Aqy8zWMavdTyaWs7J3w",
+            "distance": "DISTANCE_1",
+            "public_id": "titikshya-das-015942153",
+            "tracking_id": "620424593"
+        },
+        {
+            "urn_id": "ACoAAAjgx0kBxJoPu_7t3kS1NbDizQekjIIzMbE",
+            "distance": "DISTANCE_1",
+            "public_id": "lakheswar-nath-289a7141",
+            "tracking_id": "148948809"
+        },
+        {
+            "urn_id": "ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE",
+            "distance": "DISTANCE_1",
+            "public_id": "prithoo11335",
+            "tracking_id": "231212168"
+        },
+        {
+            "urn_id": "ACoAACr0GSwBcmPDh22HqivG9h0JwG-eahXSYW8",
+            "distance": "DISTANCE_1",
+            "public_id": "nihar-kashyap98",
+            "tracking_id": "720640300"
+        },
+        {
+            "urn_id": "ACoAACzP6KMBcLKqKnFRpIudaukkoW4NoqstgrM",
+            "distance": "DISTANCE_1",
+            "public_id": "pranit-prakash-sahu",
+            "tracking_id": "751823011"
+        },
+        {
+            "urn_id": "ACoAACbTg-gBtT_YqZc-FG2lIVBv13QTx8UUB8E",
+            "distance": "DISTANCE_1",
+            "public_id": "mridul24",
+            "tracking_id": "651396072"
+        },
+        {
+            "urn_id": "ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY",
+            "distance": "DISTANCE_1",
+            "public_id": "tridip-das-b5837911b",
+            "tracking_id": "499568180"
+        },
+        {
+            "urn_id": "ACoAACZxhUQBl1V8kpLj4ACrE2LzpatGvVzEgSA",
+            "distance": "DISTANCE_1",
+            "public_id": "nabajyoti-borah-944000160",
+            "tracking_id": "644973892"
+        },
+        {
+            "urn_id": "ACoAABYq8T8ByHFGBUFRrHT5iKBI2u4YZjTLHFc",
+            "distance": "DISTANCE_1",
+            "public_id": "netranjit-borgohain-53b677a4",
+            "tracking_id": "371913023"
+        },
+        {
+            "urn_id": "ACoAACDVs-sB_IgxPBMHMRBfR6is3jmwwV_OvTE",
+            "distance": "DISTANCE_1",
+            "public_id": "swapnil-bhattacharjee-ghy",
+            "tracking_id": "550876139"
+        },
+        {
+            "urn_id": "ACoAACYmrvgBRdvWxItbY_KP_fyrEgZ9U-QKJqk",
+            "distance": "DISTANCE_1",
+            "public_id": "rtsu",
+            "tracking_id": "640069368"
+        },
+        {
+            "urn_id": "ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc",
+            "distance": "DISTANCE_1",
+            "public_id": "ratnadeep-bhattacharjee",
+            "tracking_id": "135079003"
+        },
+        {
+            "urn_id": "ACoAAAR5v8MBjPwCvp8TP9RWZyGSeNYNiJ1wKJE",
+            "distance": "DISTANCE_1",
+            "public_id": "nilotpal-boruah",
+            "tracking_id": "75087811"
+        }
+    ],
+    "skills": [
+        {
+            "name": "VHDL"
+        },
+        {
+            "name": "Matlab"
+        },
+        {
+            "name": "C++"
+        },
+        {
+            "name": "Microcontrollers"
+        },
+        {
+            "name": "C"
+        },
+        {
+            "name": "Robotics"
+        },
+        {
+            "name": "Electronics"
+        },
+        {
+            "name": "Digital Signal Processing"
+        },
+        {
+            "name": "Embedded Systems"
+        },
+        {
+            "name": "Logic Design"
+        },
+        {
+            "name": "Electrical Engineering"
+        },
+        {
+            "name": "Xilinx ISE"
+        },
+        {
+            "name": "Keil"
+        },
+        {
+            "name": "Signal Processing"
+        },
+        {
+            "name": "Digital Electronics"
+        },
+        {
+            "name": "Communication Engineering"
+        },
+        {
+            "name": "Assembly (8085, 8051)"
+        },
+        {
+            "name": "Ansoft HFSS 2014"
+        },
+        {
+            "name": "Microstrip Antenna Design"
+        },
+        {
+            "name": "Algorithms"
+        },
+        {
+            "name": "Digital Signal Processors"
+        },
+        {
+            "name": "Microsoft Office",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:366",
+            "standardizedSkill": {
+                "name": "Microsoft Office",
+                "entityUrn": "urn:li:fs_miniSkill:366"
+            }
+        },
+        {
+            "name": "Programming",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:698",
+            "standardizedSkill": {
+                "name": "Programming",
+                "entityUrn": "urn:li:fs_miniSkill:698"
+            }
+        },
+        {
+            "name": "PowerPoint",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:310",
+            "standardizedSkill": {
+                "name": "Microsoft PowerPoint",
+                "entityUrn": "urn:li:fs_miniSkill:310"
+            }
+        },
+        {
+            "name": "Microsoft Word",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:260",
+            "standardizedSkill": {
+                "name": "Microsoft Word",
+                "entityUrn": "urn:li:fs_miniSkill:260"
+            }
+        },
+        {
+            "name": "Microsoft Excel",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:163",
+            "standardizedSkill": {
+                "name": "Microsoft Excel",
+                "entityUrn": "urn:li:fs_miniSkill:163"
+            }
+        },
+        {
+            "name": "University Teaching"
+        },
+        {
+            "name": "Android Studio"
+        },
+        {
+            "name": "Java"
+        },
+        {
+            "name": "Python (Programming Language)"
+        },
+        {
+            "name": "Image Processing"
+        },
+        {
+            "name": "Wireless Communications Systems"
+        },
+        {
+            "name": "Artificial Intelligence (AI)"
+        },
+        {
+            "name": "Machine Learning"
+        },
+        {
+            "name": "Computer Vision"
+        },
+        {
+            "name": "Data Science"
+        },
+        {
+            "name": "Django"
+        },
+        {
+            "name": "Python"
+        },
+        {
+            "name": "TensorFlow"
+        },
+        {
+            "name": "Scikit-Learn"
+        },
+        {
+            "name": "Keras"
+        },
+        {
+            "name": "C (Programming Language)"
+        },
+        {
+            "name": "SQL"
+        },
+        {
+            "name": "MongoDB"
+        },
+        {
+            "name": "Django REST Framework"
+        },
+        {
+            "name": "Fast API"
+        },
+        {
+            "name": "GitHub"
+        },
+        {
+            "name": "Snowflake"
+        }
+    ]
+}

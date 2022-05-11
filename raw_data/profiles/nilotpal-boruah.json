@@ -1,0 +1,472 @@
+{
+    "profile": {
+        "summary": "I am the cofounder of a bootstrapped startup, TechVariable, headquartered in Assam, India.\nTechVariable is an end to end tech product development and consultancy company.\nI work with business owners for a coherent product development to aid them in their go to market journey. \n\n* 6+ years of experience in the software development services of which 4+ years marketing in the international market with a considerable amount of time spent in the US market. \n* I bring in customer-centric mindfulness that enables businesses to innovate and thrive. \n* Excel in strategic planning for partnerships in project & program management to increase revenue.\n* Adept at crisis management with hands-on troubleshooting.\n* Experience in Agile processes to reduce time to market and improve processes.\n\nSome of the key clients I have worked with:\n\nClient1: Singapore | Media aggregation and Analytics tool development | -- | Sentiment analysis, Multi tenancy, Transcription and Translation |\n\nClient 2: USA (a Fortune 200 company) | Compensation Management System | -- | Integration to Workday ERP system, Bonus Planning & Management, Merit Planning & Management, Compensation Letter generation & Intimation |\n\nClient 3: Colorado, USA | Director Intel | -- | Text Analytics, Automatic Reporting, Microservices Architecture |\n\nClient 4: Malaysia | Employee Performance Management System | -- | Calibration Module, Strategy Module, Microservices Architecture |\n\nClient 5: Chicago, USA | Product lifecycle management | -- | Multi-tenancy, Modeller & Instance, BOM formulation,  BPMN integration, Elastic search shape & document search |\n\nClient 6:  Malaysia | Development of Connector Engine | -- | Meta data extraction module, Scheme generation, Scheduler or Incremental fetch, Data publishing for Downstream system |\n\nIf you feel me and my team can be an asset to your existing team feel free to drop a message or say \u2018hello\u2019 at nilotpal@techvariable.com",
+        "industryName": "IT Services and IT Consulting",
+        "lastName": "Boruah",
+        "student": false,
+        "geoCountryName": "India",
+        "geoCountryUrn": "urn:li:fs_geo:102713980",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "industryUrn": "urn:li:fs_industry:96",
+        "firstName": "Nilotpal",
+        "entityUrn": "urn:li:fs_profile:ACoAAAR5v8MBjPwCvp8TP9RWZyGSeNYNiJ1wKJE",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:105307040"
+        },
+        "geoLocationName": "Bengaluru, Karnataka",
+        "location": {
+            "basicLocation": {
+                "countryCode": "in"
+            }
+        },
+        "headline": "Offshore Product Development || Digital Transformation || IT Consulting",
+        "displayPictureUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQFJbP-efcND2Q/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/0/1597828613156?e=1657756800&v=beta&t=zHi3AJkwAcTm9Clgi5ROpgV459amtfmTRSNHf7zL_Yc",
+        "img_200_200": "200_200/0/1597828613156?e=1657756800&v=beta&t=DNdHZCX1UqDvN7JmdrRkAH3MneCVYnBQtx8FxbSZd7U",
+        "img_400_400": "400_400/0/1597828613156?e=1657756800&v=beta&t=JlVxu6Ygc0i4L_f3zWlLrLBLZNOyvGNOJfjv2m8C4qo",
+        "img_800_800": "800_800/0/1597828613156?e=1657756800&v=beta&t=3HldCd7m8rZTxDwkU6X83RA5ZA2mcnghWEFtabV2N8o",
+        "profile_id": "ACoAAAR5v8MBjPwCvp8TP9RWZyGSeNYNiJ1wKJE",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAAAR5v8MBjPwCvp8TP9RWZyGSeNYNiJ1wKJE",
+        "member_urn": "urn:li:member:75087811",
+        "experience": [
+            {
+                "locationName": "Guwahati Area, India",
+                "entityUrn": "urn:li:fs_position:(ACoAAAR5v8MBjPwCvp8TP9RWZyGSeNYNiJ1wKJE,783608127)",
+                "geoLocationName": "Guwahati Area, India",
+                "geoUrn": "urn:li:fs_geo:104535556",
+                "companyName": "TechVariable",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 11,
+                        "year": 2015
+                    }
+                },
+                "description": "What exactly do we do?\n We work as the client\u2019s extended product development team from offshore.\n\nWhy do clients choose us?\n Our engagement model helps clients to increase efficiency in business by entrusting innovation and \n development upon our team. We help in cost optimization for product development. \n\nHow are clients benefitted from us?\n Cost optimization is one of the key benefits for our clients. Seamless communication and transparency on product releases- no surprises on delivery date. \n\nWhy do clients stick with us for the long term?\n We operate with separate teams for different clients and that ensures ownership. We  have a high \n employee retention rate which means increased productivity. \n\n What are our technical expertise?\n  ||  AWS | Angular.js | Node.js | React.js | Python | Django | Mongo DB | NLP | NLU | NLG | Azure | GraphQL | Tableau | Kibana | PostgreSQL | JAVA Springboot | Elastic Search | Apache ODATA Olingo library | Grakn | Neo4j | Angular | Microsoft Azure ||",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Chief Executive Officer",
+                "region": "urn:li:fs_region:(in,7248)",
+                "companyUrn": "urn:li:fs_miniCompany:10632640",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQE6IzKHUZQmAA/company-logo_"
+            },
+            {
+                "locationName": "New Delhi Area, India",
+                "entityUrn": "urn:li:fs_position:(ACoAAAR5v8MBjPwCvp8TP9RWZyGSeNYNiJ1wKJE,705614400)",
+                "geoLocationName": "New Delhi Area, India",
+                "geoUrn": "urn:li:fs_geo:90009626",
+                "companyName": "Tata Consultancy Services",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2014
+                    },
+                    "startDate": {
+                        "month": 3,
+                        "year": 2013
+                    }
+                },
+                "description": "Worked as a Test Analyst in the offshore software testing team for client Scottish windows, Edinburgh, Scotland.\nDesigning, developing and writing of test cases, developing test plan.\nCreating scripts and storing them in PC.\nEscalating issues impacting testing activities to Test manager\nParticipated in various release life cycles of the project.\nWorked on Bug Life Cycles, testing processes and methodologies.\nWorked on Test Management Tool - Quality Centre.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Test Analyst",
+                "region": "urn:li:fs_region:(in,7151)",
+                "companyUrn": "urn:li:fs_miniCompany:1353",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQEMvQ8E6gXSPA/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAAR5v8MBjPwCvp8TP9RWZyGSeNYNiJ1wKJE,49153687)",
+                "school": {
+                    "objectUrn": "urn:li:school:3241817",
+                    "entityUrn": "urn:li:fs_miniSchool:3241817",
+                    "active": true,
+                    "schoolName": "Assam Engineering College, (A.E.C)",
+                    "trackingId": "UZkclvsFRBWrU/NMgw70Hw==",
+                    "logoUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQF2c8H0frv_Dw/company-logo_"
+                },
+                "grade": "1st class",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2012
+                    },
+                    "startDate": {
+                        "year": 2008
+                    }
+                },
+                "degreeName": "Bachelor of Engineering (BE)",
+                "schoolName": "Assam Engineering College, (A.E.C)",
+                "fieldOfStudy": "Mechanical Engineering",
+                "schoolUrn": "urn:li:fs_miniSchool:3241817"
+            }
+        ],
+        "languages": [
+            {
+                "name": "Assamese",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "English",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "Hindi",
+                "proficiency": "FULL_PROFESSIONAL"
+            }
+        ],
+        "publications": [],
+        "certifications": [
+            {
+                "authority": "Coursera",
+                "name": "Digital Marketing Channels: The Landscape",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 3,
+                        "year": 2018
+                    }
+                },
+                "licenseNumber": "S45L96HR9QLJ",
+                "company": {
+                    "objectUrn": "urn:li:company:2453129",
+                    "entityUrn": "urn:li:fs_miniCompany:2453129",
+                    "name": "Coursera",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1608039227697?e=1660176000&v=beta&t=24dSeYZFSUztRaUy6-QqI0GSTK5-7tfyOci9sanIOTE",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1608039227697?e=1660176000&v=beta&t=8mJvTc5z6PI8olmLRWSi-xaA6ZOeYWkWcZiqxFWbrhE",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1608039227697?e=1660176000&v=beta&t=o8C5zQF49vmVYRAgj4K1Q2W5kUw9P0IZwKQoBFhnmDc",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQGexnfBxeEG-g/company-logo_"
+                        }
+                    },
+                    "universalName": "coursera",
+                    "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                    "trackingId": "lzKt+V0+QhqBqvmp22xV8Q=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:2453129",
+                "url": "https://www.coursera.org/account/accomplishments/verify/S45L96HR9QLJ"
+            },
+            {
+                "authority": "Coursera",
+                "name": "Marketing in a Digital World",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 2,
+                        "year": 2018
+                    }
+                },
+                "licenseNumber": "F8WT4FVBVKFP",
+                "company": {
+                    "objectUrn": "urn:li:company:2453129",
+                    "entityUrn": "urn:li:fs_miniCompany:2453129",
+                    "name": "Coursera",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1608039227697?e=1660176000&v=beta&t=24dSeYZFSUztRaUy6-QqI0GSTK5-7tfyOci9sanIOTE",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1608039227697?e=1660176000&v=beta&t=8mJvTc5z6PI8olmLRWSi-xaA6ZOeYWkWcZiqxFWbrhE",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1608039227697?e=1660176000&v=beta&t=o8C5zQF49vmVYRAgj4K1Q2W5kUw9P0IZwKQoBFhnmDc",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQGexnfBxeEG-g/company-logo_"
+                        }
+                    },
+                    "universalName": "coursera",
+                    "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                    "trackingId": "nJXUEis5QEmN1tzgWHnnMA=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:2453129",
+                "url": "https://www.coursera.org/account/accomplishments/verify/F8WT4FVBVKFP"
+            },
+            {
+                "authority": "HubSpot Academy",
+                "name": "Inbound Marketing",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 5,
+                        "year": 2021
+                    }
+                },
+                "licenseNumber": "22321132457f4971923e65ab30e8db0a",
+                "company": {
+                    "objectUrn": "urn:li:company:16197478",
+                    "entityUrn": "urn:li:fs_miniCompany:16197478",
+                    "name": "HubSpot Academy",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1527266934034?e=1660176000&v=beta&t=qdkbLoCASvEWT2opzfbWfe72Yx3EQC_CQLnjlaRyrLY",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1527266934034?e=1660176000&v=beta&t=lZo-ya8jTRAaE9Ve5tsXqER4UQCkaWUjyxbW3S54C2A",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1527266934034?e=1660176000&v=beta&t=osWKtaYC38PrgRZ1zEMGraI4LMRednZSpaJdT4uhzCk",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQHXxroN0uciQw/company-logo_"
+                        }
+                    },
+                    "universalName": "hubspot-academy",
+                    "dashCompanyUrn": "urn:li:fsd_company:16197478",
+                    "trackingId": "pSZB3ngFRGKk4bzovfFCcg=="
+                },
+                "displaySource": "hubspot.com",
+                "companyUrn": "urn:li:fs_miniCompany:16197478",
+                "url": "https://app.hubspot.com/academy/achievements/719sv6hl/en/1/nilotpal-boruah/inbound-marketing"
+            }
+        ],
+        "volunteer": [],
+        "honors": [],
+        "projects": []
+    },
+    "contact_info": {
+        "email_address": null,
+        "websites": [
+            {
+                "url": "www.techvariable.com",
+                "label": "COMPANY"
+            }
+        ],
+        "twitter": [],
+        "birthdate": null,
+        "ims": null,
+        "phone_numbers": []
+    },
+    "connections": [
+        {
+            "urn_id": "ACoAABr4jt0BoOUmisITdRo1gR4CumG5I4jjZIw",
+            "distance": "DISTANCE_1",
+            "public_id": "samudra-deka-911659107",
+            "tracking_id": "452497117"
+        },
+        {
+            "urn_id": "ACoAADLJzxsBizdB0nN5NZBCM41Q-z6-7ef5gyI",
+            "distance": "DISTANCE_1",
+            "public_id": "deepjyoti-kalita-78b4411b9",
+            "tracking_id": "852086555"
+        },
+        {
+            "urn_id": "ACoAACT67ZEBgw1Aprl8Aqy8zWMavdTyaWs7J3w",
+            "distance": "DISTANCE_1",
+            "public_id": "titikshya-das-015942153",
+            "tracking_id": "620424593"
+        },
+        {
+            "urn_id": "ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE",
+            "distance": "DISTANCE_1",
+            "public_id": "prithoo11335",
+            "tracking_id": "231212168"
+        },
+        {
+            "urn_id": "ACoAACzP6KMBcLKqKnFRpIudaukkoW4NoqstgrM",
+            "distance": "DISTANCE_1",
+            "public_id": "pranit-prakash-sahu",
+            "tracking_id": "751823011"
+        },
+        {
+            "urn_id": "ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY",
+            "distance": "DISTANCE_1",
+            "public_id": "tridip-das-b5837911b",
+            "tracking_id": "499568180"
+        },
+        {
+            "urn_id": "ACoAACZxhUQBl1V8kpLj4ACrE2LzpatGvVzEgSA",
+            "distance": "DISTANCE_1",
+            "public_id": "nabajyoti-borah-944000160",
+            "tracking_id": "644973892"
+        },
+        {
+            "urn_id": "ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8",
+            "distance": "DISTANCE_1",
+            "public_id": "sivaranjan-goswami-790b4523",
+            "tracking_id": "83451420"
+        },
+        {
+            "urn_id": "ACoAACDVs-sB_IgxPBMHMRBfR6is3jmwwV_OvTE",
+            "distance": "DISTANCE_1",
+            "public_id": "swapnil-bhattacharjee-ghy",
+            "tracking_id": "550876139"
+        },
+        {
+            "urn_id": "ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc",
+            "distance": "DISTANCE_1",
+            "public_id": "ratnadeep-bhattacharjee",
+            "tracking_id": "135079003"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Business Development"
+        },
+        {
+            "name": "Marketing Strategy"
+        },
+        {
+            "name": "Manual Testing"
+        },
+        {
+            "name": "Core Java"
+        },
+        {
+            "name": "Selenium"
+        },
+        {
+            "name": "Solidworks"
+        },
+        {
+            "name": "C"
+        },
+        {
+            "name": "Project Management"
+        },
+        {
+            "name": "Leadership"
+        },
+        {
+            "name": "Financial Analysis"
+        },
+        {
+            "name": "Matlab"
+        },
+        {
+            "name": "Disaster Recovery"
+        },
+        {
+            "name": "Microsoft Word"
+        },
+        {
+            "name": "Microsoft Office",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:366",
+            "standardizedSkill": {
+                "name": "Microsoft Office",
+                "entityUrn": "urn:li:fs_miniSkill:366"
+            }
+        },
+        {
+            "name": "Team Management",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:3517",
+            "standardizedSkill": {
+                "name": "Team Management",
+                "entityUrn": "urn:li:fs_miniSkill:3517"
+            }
+        },
+        {
+            "name": "SQL",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:483",
+            "standardizedSkill": {
+                "name": "SQL",
+                "entityUrn": "urn:li:fs_miniSkill:483"
+            }
+        },
+        {
+            "name": "Software Development Life Cycle (SDLC)",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:2130",
+            "standardizedSkill": {
+                "name": "Software Development Life Cycle (SDLC)",
+                "entityUrn": "urn:li:fs_miniSkill:2130"
+            }
+        },
+        {
+            "name": "HTML",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:280",
+            "standardizedSkill": {
+                "name": "HTML",
+                "entityUrn": "urn:li:fs_miniSkill:280"
+            }
+        },
+        {
+            "name": "Management",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:19",
+            "standardizedSkill": {
+                "name": "Management",
+                "entityUrn": "urn:li:fs_miniSkill:19"
+            }
+        },
+        {
+            "name": "Requirements Analysis",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:708",
+            "standardizedSkill": {
+                "name": "Requirements Analysis",
+                "entityUrn": "urn:li:fs_miniSkill:708"
+            }
+        },
+        {
+            "name": "Recruiting"
+        },
+        {
+            "name": "Cross Functional Team Building"
+        },
+        {
+            "name": "Travel"
+        },
+        {
+            "name": "Agile Methodologies"
+        },
+        {
+            "name": "Java"
+        }
+    ]
+}

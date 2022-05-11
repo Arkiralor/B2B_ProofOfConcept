@@ -1,0 +1,592 @@
+{
+    "profile": {
+        "summary": "Experienced Programming Analyst with a demonstrated history of working in the information technology and services industry. Skilled in JavaScript, MERN Stack, AWS Services and mobile application development using React Native.",
+        "industryName": "IT Services and IT Consulting",
+        "lastName": "Chetia",
+        "locationName": "India",
+        "student": false,
+        "geoCountryName": "India",
+        "geoCountryUrn": "urn:li:fs_geo:102713980",
+        "geoLocationBackfilled": false,
+        "elt": true,
+        "industryUrn": "urn:li:fs_industry:96",
+        "firstName": "Vivek",
+        "entityUrn": "urn:li:fs_profile:ACoAAB2igH8BZFLJ9nNA_LBQ_vAn-PxtQyThshc",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:105292557"
+        },
+        "geoLocationName": "Jorhat, Assam",
+        "location": {
+            "basicLocation": {
+                "countryCode": "in"
+            }
+        },
+        "headline": "Programmer Analyst at TechVariable\u00ae Web3 | Moralis| MERN | Nodejs | Reactjs | React Native | AWS",
+        "displayPictureUrl": "https://media-exp1.licdn.com/dms/image/C5103AQGV3p8n0vgjyA/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/0/1557052453305?e=1657756800&v=beta&t=ulbNYFd83eIkz9AWWKrA8LqhNk7J3mbxrIJ8vxUZYl4",
+        "img_200_200": "200_200/0/1557052453305?e=1657756800&v=beta&t=o3DsYJ8pq8UTrRjX0jHb1D-eeeLr2fpiqgGB_qqoBPE",
+        "img_400_400": "400_400/0/1557052453305?e=1657756800&v=beta&t=6Uu_svpoTs0DoF-91x0C8eLiyUNuSPG6-YCzEzDG-54",
+        "img_800_800": "800_800/0/1557052453305?e=1657756800&v=beta&t=_nrg8UjuCcOnMY58_toeQ8MDBDbmMVIJz9SNnOjEjZQ",
+        "profile_id": "ACoAAB2igH8BZFLJ9nNA_LBQ_vAn-PxtQyThshc",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAAB2igH8BZFLJ9nNA_LBQ_vAn-PxtQyThshc",
+        "member_urn": "urn:li:member:497188991",
+        "experience": [
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAAB2igH8BZFLJ9nNA_LBQ_vAn-PxtQyThshc,1871458807)",
+                "companyName": "TechVariable",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 11,
+                        "year": 2021
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Programmer Analyst",
+                "companyUrn": "urn:li:fs_miniCompany:10632640",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQE6IzKHUZQmAA/company-logo_"
+            },
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAAB2igH8BZFLJ9nNA_LBQ_vAn-PxtQyThshc,1802703352)",
+                "companyName": "TechVariable\u00ae",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 11,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 7,
+                        "year": 2021
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Programmer Analyst Trainee",
+                "companyUrn": "urn:li:fs_miniCompany:10632640",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQE6IzKHUZQmAA/company-logo_"
+            },
+            {
+                "locationName": "Jorhat, Assam, India",
+                "entityUrn": "urn:li:fs_position:(ACoAAB2igH8BZFLJ9nNA_LBQ_vAn-PxtQyThshc,1683350154)",
+                "geoLocationName": "Jorhat, Assam, India",
+                "geoUrn": "urn:li:fs_geo:112924919",
+                "companyName": "SEWA",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 3,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 10,
+                        "year": 2020
+                    }
+                },
+                "description": "Worked on creating e-commerce web application selling products of farmers.\nUsed Laravel framework with MySQL as Database.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Nonprofit Organization Management"
+                    ]
+                },
+                "title": "Web Application Developer",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:28595260",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C510BAQFSYlwhzB46dg/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAB2igH8BZFLJ9nNA_LBQ_vAn-PxtQyThshc,561951328)",
+                "school": {
+                    "objectUrn": "urn:li:school:213912",
+                    "entityUrn": "urn:li:fs_miniSchool:213912",
+                    "active": true,
+                    "schoolName": "Kaziranga University",
+                    "trackingId": "QY95dTTgRcGm5RmYk/vS8A==",
+                    "logoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQElalzjOh8NUA/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "year": 2016
+                    }
+                },
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100176",
+                "degreeName": "Int. Msc",
+                "schoolName": "Kaziranga University",
+                "fieldOfStudy": "Information Technology",
+                "schoolUrn": "urn:li:fs_miniSchool:213912"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAB2igH8BZFLJ9nNA_LBQ_vAn-PxtQyThshc,730581980)",
+                "school": {
+                    "objectUrn": "urn:li:school:563065",
+                    "entityUrn": "urn:li:fs_miniSchool:563065",
+                    "active": true,
+                    "schoolName": "Army Public School Jorhat",
+                    "trackingId": "f72+ljbySYiocJBPnWrAOw==",
+                    "logoUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQEvFRtFU-ksGA/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2016
+                    },
+                    "startDate": {
+                        "year": 2015
+                    }
+                },
+                "degreeName": "High Secondary",
+                "schoolName": "Army Public School Jorhat",
+                "schoolUrn": "urn:li:fs_miniSchool:563065"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAB2igH8BZFLJ9nNA_LBQ_vAn-PxtQyThshc,730583379)",
+                "school": {
+                    "objectUrn": "urn:li:school:563065",
+                    "entityUrn": "urn:li:fs_miniSchool:563065",
+                    "active": true,
+                    "schoolName": "Army Public School Jorhat",
+                    "trackingId": "Cxj4tL/CQeK8AXCXwnx0Yw==",
+                    "logoUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQEvFRtFU-ksGA/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2014
+                    },
+                    "startDate": {
+                        "year": 2013
+                    }
+                },
+                "degreeName": "Secondary",
+                "schoolName": "Army Public School Jorhat",
+                "schoolUrn": "urn:li:fs_miniSchool:563065"
+            }
+        ],
+        "languages": [],
+        "publications": [],
+        "certifications": [
+            {
+                "authority": "Udemy",
+                "name": "The Complete 2019 Flutter Development Bootcamp with Dart",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 11,
+                        "year": 2019
+                    }
+                },
+                "licenseNumber": "UC-G2FZXYPY",
+                "company": {
+                    "objectUrn": "urn:li:company:822535",
+                    "entityUrn": "urn:li:fs_miniCompany:822535",
+                    "name": "Udemy",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1626275253364?e=1660176000&v=beta&t=hNmtDdN4pnwTuJsDQsvaI2SOIkRq2BCrfWF7YKlNaM4",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1626275253364?e=1660176000&v=beta&t=bZ9FL43L79ghc74x71A2lY51dAogHCVQKWAZH1-YcuM",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1626275253364?e=1660176000&v=beta&t=7EyDsPVIShmG1t96OAsrJK6AWUi0vObIpIVqPL4hc6E",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQFQr9e68bBOPQ/company-logo_"
+                        }
+                    },
+                    "universalName": "udemy",
+                    "dashCompanyUrn": "urn:li:fsd_company:822535",
+                    "trackingId": "b21RLpIHRheLS5R7TM8WxQ=="
+                },
+                "displaySource": "udemy.com",
+                "companyUrn": "urn:li:fs_miniCompany:822535",
+                "url": "https://www.udemy.com/certificate/UC-G2FZXYPY/"
+            },
+            {
+                "authority": "Pirple",
+                "name": "The Node.js Master Class",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 1,
+                        "year": 2020
+                    }
+                },
+                "licenseNumber": "14577927",
+                "company": {
+                    "objectUrn": "urn:li:company:18250070",
+                    "entityUrn": "urn:li:fs_miniCompany:18250070",
+                    "name": "Pirple",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1630632186837?e=1660176000&v=beta&t=tCMJNWtbrchSKgMRO20Y05nSHTO157Dr7Qdv2MA0Hks",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1630632186837?e=1660176000&v=beta&t=y2tmXsayCwr2j9yXt3Y17kSDFaTOZosp-hAaImH0Lkg",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1630632186837?e=1660176000&v=beta&t=LDV_GEiGLcXGeTv4Q0JP1jOXZ0dxzC4hlVbQGnx8_gE",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQGIk1Q0y8q9FQ/company-logo_"
+                        }
+                    },
+                    "universalName": "pirple",
+                    "dashCompanyUrn": "urn:li:fsd_company:18250070",
+                    "trackingId": "1luN4Jh8R6yuwd4+NfifHQ=="
+                },
+                "displaySource": "credential.net",
+                "companyUrn": "urn:li:fs_miniCompany:18250070",
+                "url": "https://www.credential.net/a54faba7-dfe5-4258-baaa-ff9f6395b8b8"
+            },
+            {
+                "authority": "Udemy",
+                "name": "Complete Machine Learning and Data Science: Zero to Mastery ",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 10,
+                        "year": 2020
+                    }
+                },
+                "licenseNumber": "UC-a00b307c-75df-44cf-8775-8fe6d8e0313d",
+                "company": {
+                    "objectUrn": "urn:li:company:822535",
+                    "entityUrn": "urn:li:fs_miniCompany:822535",
+                    "name": "Udemy",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1626275253364?e=1660176000&v=beta&t=hNmtDdN4pnwTuJsDQsvaI2SOIkRq2BCrfWF7YKlNaM4",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1626275253364?e=1660176000&v=beta&t=bZ9FL43L79ghc74x71A2lY51dAogHCVQKWAZH1-YcuM",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1626275253364?e=1660176000&v=beta&t=7EyDsPVIShmG1t96OAsrJK6AWUi0vObIpIVqPL4hc6E",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQFQr9e68bBOPQ/company-logo_"
+                        }
+                    },
+                    "universalName": "udemy",
+                    "dashCompanyUrn": "urn:li:fsd_company:822535",
+                    "trackingId": "3d5gqFDLSoWAW/RA+6W85Q=="
+                },
+                "displaySource": "udemy.com",
+                "companyUrn": "urn:li:fs_miniCompany:822535",
+                "url": "https://www.udemy.com/certificate/UC-a00b307c-75df-44cf-8775-8fe6d8e0313d/"
+            },
+            {
+                "authority": "Amazon Web Services (AWS)",
+                "name": "AWS Academy Graduate - AWS Academy Cloud Foundations",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 5,
+                        "year": 2021
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:2382910",
+                    "entityUrn": "urn:li:fs_miniCompany:2382910",
+                    "name": "Amazon Web Services (AWS)",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1640205885683?e=1660176000&v=beta&t=q4h_e7dmkjirqilE_yAdL8VjGi95qJ2INnurxy9wOrY",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1640205885683?e=1660176000&v=beta&t=hWlWP4-nRpWdkd1Sas_TqufwiwfxYKuvyqRCVoe9vdY",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1640205885683?e=1660176000&v=beta&t=SXJsCtPoNVJSuwtqSNlop_RcFz8MtzwT0rx1TxDnbY8",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQE_4UwvNNtNTQ/company-logo_"
+                        }
+                    },
+                    "universalName": "amazon-web-services",
+                    "dashCompanyUrn": "urn:li:fsd_company:2382910",
+                    "trackingId": "s1hg49exQfCIT18J808KDQ=="
+                },
+                "displaySource": "credly.com",
+                "companyUrn": "urn:li:fs_miniCompany:2382910",
+                "url": "https://www.credly.com/badges/352656ae-c702-4d2c-a3b7-15684616e0a3?source=linked_in_profile"
+            }
+        ],
+        "volunteer": [
+            {
+                "role": "Student Intern",
+                "companyName": "SEWA",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 8,
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "month": 5,
+                        "year": 2020
+                    }
+                },
+                "cause": "EDUCATION",
+                "description": "Responsible for developing the backend of the E-Commerce website related to farming using Laravel.\n",
+                "company": {
+                    "miniCompany": {
+                        "objectUrn": "urn:li:company:28595260",
+                        "entityUrn": "urn:li:fs_miniCompany:28595260",
+                        "name": "SEWA",
+                        "showcase": false,
+                        "active": true,
+                        "logo": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1560876586015?e=1660176000&v=beta&t=CHToGrx-2gKhld8mh14qU4JRVzE7wgogMe8soH33NXw",
+                                        "expiresAt": 1660176000000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1560876586015?e=1660176000&v=beta&t=rZ1HDxXNRZR0gRUmcN7HdXfyFAwGE74dFg2qKvZtH60",
+                                        "expiresAt": 1660176000000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1560876586015?e=1660176000&v=beta&t=WUUODAnLOsUmWNyoHFshSi8k5Q1vfdRDoD1AP9bG4Gw",
+                                        "expiresAt": 1660176000000,
+                                        "height": 400
+                                    }
+                                ],
+                                "rootUrl": "https://media-exp1.licdn.com/dms/image/C510BAQFSYlwhzB46dg/company-logo_"
+                            }
+                        },
+                        "universalName": "sewango",
+                        "dashCompanyUrn": "urn:li:fsd_company:28595260",
+                        "trackingId": "q7gQuk9HQ9KDbRz6IB0thQ=="
+                    }
+                },
+                "companyUrn": "urn:li:fs_miniCompany:28595260"
+            }
+        ],
+        "honors": [],
+        "projects": []
+    },
+    "contact_info": {
+        "email_address": null,
+        "websites": [
+            {
+                "url": "https://github.com/vikizax"
+            }
+        ],
+        "twitter": [],
+        "birthdate": null,
+        "ims": null,
+        "phone_numbers": []
+    },
+    "connections": [
+        {
+            "urn_id": "ACoAABr4jt0BoOUmisITdRo1gR4CumG5I4jjZIw",
+            "distance": "DISTANCE_1",
+            "public_id": "samudra-deka-911659107",
+            "tracking_id": "452497117"
+        },
+        {
+            "urn_id": "ACoAADLJzxsBizdB0nN5NZBCM41Q-z6-7ef5gyI",
+            "distance": "DISTANCE_1",
+            "public_id": "deepjyoti-kalita-78b4411b9",
+            "tracking_id": "852086555"
+        },
+        {
+            "urn_id": "ACoAADe3CFYBsoFdtSEajXbg51HDagdpBEb3kx4",
+            "distance": "DISTANCE_1",
+            "public_id": "binud-panging-872062221",
+            "tracking_id": "934742102"
+        },
+        {
+            "urn_id": "ACoAAC2aUPYBGPB-T9xDu2Hjrq7OgzRPu5nTvyE",
+            "distance": "DISTANCE_1",
+            "public_id": "jintudas",
+            "tracking_id": "765087990"
+        },
+        {
+            "urn_id": "ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE",
+            "distance": "DISTANCE_1",
+            "public_id": "prithoo11335",
+            "tracking_id": "231212168"
+        },
+        {
+            "urn_id": "ACoAACr0GSwBcmPDh22HqivG9h0JwG-eahXSYW8",
+            "distance": "DISTANCE_1",
+            "public_id": "nihar-kashyap98",
+            "tracking_id": "720640300"
+        },
+        {
+            "urn_id": "ACoAACeXhGEBEVCUXmKi5rowUSeFZNerPjvzQsc",
+            "distance": "DISTANCE_1",
+            "public_id": "mahbubul-haque-a55552166",
+            "tracking_id": "664241249"
+        },
+        {
+            "urn_id": "ACoAACbTg-gBtT_YqZc-FG2lIVBv13QTx8UUB8E",
+            "distance": "DISTANCE_1",
+            "public_id": "mridul24",
+            "tracking_id": "651396072"
+        },
+        {
+            "urn_id": "ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY",
+            "distance": "DISTANCE_1",
+            "public_id": "tridip-das-b5837911b",
+            "tracking_id": "499568180"
+        },
+        {
+            "urn_id": "ACoAACZxhUQBl1V8kpLj4ACrE2LzpatGvVzEgSA",
+            "distance": "DISTANCE_1",
+            "public_id": "nabajyoti-borah-944000160",
+            "tracking_id": "644973892"
+        },
+        {
+            "urn_id": "ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8",
+            "distance": "DISTANCE_1",
+            "public_id": "sivaranjan-goswami-790b4523",
+            "tracking_id": "83451420"
+        },
+        {
+            "urn_id": "ACoAACTFIIYB1cK_syRcCXEc0o8RTm4JMlhYcHA",
+            "distance": "DISTANCE_1",
+            "public_id": "arun-kumar-nath-686721152",
+            "tracking_id": "616898694"
+        },
+        {
+            "urn_id": "ACoAACDVs-sB_IgxPBMHMRBfR6is3jmwwV_OvTE",
+            "distance": "DISTANCE_1",
+            "public_id": "swapnil-bhattacharjee-ghy",
+            "tracking_id": "550876139"
+        },
+        {
+            "urn_id": "ACoAACYmrvgBRdvWxItbY_KP_fyrEgZ9U-QKJqk",
+            "distance": "DISTANCE_1",
+            "public_id": "rtsu",
+            "tracking_id": "640069368"
+        }
+    ],
+    "skills": [
+        {
+            "name": "JavaScript",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:218",
+            "standardizedSkill": {
+                "name": "JavaScript",
+                "entityUrn": "urn:li:fs_miniSkill:218"
+            }
+        },
+        {
+            "name": "Web Development"
+        },
+        {
+            "name": "Node.js"
+        },
+        {
+            "name": "Flutter"
+        },
+        {
+            "name": "Java",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:147",
+            "standardizedSkill": {
+                "name": "Java",
+                "entityUrn": "urn:li:fs_miniSkill:147"
+            }
+        },
+        {
+            "name": "Cascading Style Sheets (CSS)",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:307",
+            "standardizedSkill": {
+                "name": "Cascading Style Sheets (CSS)",
+                "entityUrn": "urn:li:fs_miniSkill:307"
+            }
+        },
+        {
+            "name": "HTML5",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:8638",
+            "standardizedSkill": {
+                "name": "HTML5",
+                "entityUrn": "urn:li:fs_miniSkill:8638"
+            }
+        },
+        {
+            "name": "Express.js"
+        },
+        {
+            "name": "React.js"
+        },
+        {
+            "name": "Front-End Development"
+        }
+    ]
+}

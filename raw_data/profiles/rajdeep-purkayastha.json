@@ -1,0 +1,1000 @@
+{
+    "profile": {
+        "summary": "Languages - JavaScript, Java, Python, C. \nVersion Control - Git. \nDeployment - Heroku.\n\nFrontend - React.js, HTML, CSS, Styled-Components, Material-UI.\nBackend - Node.js, Express, PostgreSQL, MySQL, Django.\n\nOthers - Data Structures and Algorithms, Collections framework in Java, LATEX, Pandas.\n\nI am a Software Developer and an AI enthusiast and want to improve the way humans interact with technology. With a technical mindset, I am constantly on the lookout for solutions to existent problems in our everyday lives and look forward to creating something that helps in making the lives of people better. \n\nIn my spare time, I like playing sports, watching documentaries, and reading technical articles.\n",
+        "industryName": "Software Development",
+        "lastName": "Purkayastha",
+        "locationName": "India",
+        "student": false,
+        "geoCountryName": "India",
+        "geoCountryUrn": "urn:li:fs_geo:102713980",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "industryUrn": "urn:li:fs_industry:4",
+        "firstName": "Rajdeep",
+        "entityUrn": "urn:li:fs_profile:ACoAAB2cMx4BbTnQDA8OArjXhHctHFA6GjJgkk0",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:105307040"
+        },
+        "geoLocationName": "Bengaluru, Karnataka",
+        "location": {
+            "basicLocation": {
+                "countryCode": "in"
+            }
+        },
+        "headline": "Software Engineer at Syook | Backend | Node.js",
+        "displayPictureUrl": "https://media-exp1.licdn.com/dms/image/C4E03AQFt3MMiNoIOqw/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/0/1631851740270?e=1657756800&v=beta&t=cqVzH_5ky4jJSGbAdry7B9B650xA2Z3DJZs6yHacN-c",
+        "img_200_200": "200_200/0/1631851740270?e=1657756800&v=beta&t=GKIk7g5Gf9XVfypbylrd7q0iyExoOKhI3RPk-Oya0Ow",
+        "img_400_400": "400_400/0/1631851740270?e=1657756800&v=beta&t=Fx28KabEuYNdBye2632-OWAVYjK8syWVfUObBMBWuFI",
+        "img_800_800": "800_800/0/1631851740270?e=1657756800&v=beta&t=cJqn-8Ifl_O18kX2_zbZyqlMpzQcwjvVGLDpSA5-YgM",
+        "profile_id": "ACoAAB2cMx4BbTnQDA8OArjXhHctHFA6GjJgkk0",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAAB2cMx4BbTnQDA8OArjXhHctHFA6GjJgkk0",
+        "member_urn": "urn:li:member:496775966",
+        "experience": [
+            {
+                "locationName": "Bengaluru, Karnataka, India",
+                "entityUrn": "urn:li:fs_position:(ACoAAB2cMx4BbTnQDA8OArjXhHctHFA6GjJgkk0,1901111777)",
+                "geoLocationName": "Bengaluru, Karnataka, India",
+                "geoUrn": "urn:li:fs_geo:105214831",
+                "companyName": "Syook",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 1,
+                        "year": 2022
+                    }
+                },
+                "description": "Working on the backend side of our product",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Industrial Automation"
+                    ]
+                },
+                "title": "Software Engineer",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:13229261",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQFjPZWQkebDbQ/company-logo_"
+            },
+            {
+                "locationName": "Guwahati, Assam, India",
+                "entityUrn": "urn:li:fs_position:(ACoAAB2cMx4BbTnQDA8OArjXhHctHFA6GjJgkk0,1746259507)",
+                "geoLocationName": "Guwahati, Assam, India",
+                "geoUrn": "urn:li:fs_geo:105607401",
+                "companyName": "TechVariable",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 1,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 3,
+                        "year": 2021
+                    }
+                },
+                "description": "- Created APIs(controllers and services) and also designed the database schema.\n- Integrated third-party authentication service.\n- Wrote test cases for testing API endpoints using SuperTest and Jest.\n- Took ownership to build visualizations (Tables, Flow diagrams, Boxplot, etc.) for a global pharma giant.\n- Tools & Technologies used are JavaScript, D3.js, Node.js, MariaDB, DBeaver, Sequelize, Jest.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Programmer Analyst",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:10632640",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQE6IzKHUZQmAA/company-logo_"
+            },
+            {
+                "locationName": "Delhi, India",
+                "entityUrn": "urn:li:fs_position:(ACoAAB2cMx4BbTnQDA8OArjXhHctHFA6GjJgkk0,1737898883)",
+                "geoLocationName": "Delhi, India",
+                "geoUrn": "urn:li:fs_geo:106187582",
+                "companyName": "Programming Pathshala",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 1,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 12,
+                        "year": 2020
+                    }
+                },
+                "description": "- Worked on the frontend part of a web application from scratch and also created multiple backend APIs.\n- Build the entire authentication system of the application.\n- Added important features like filter content and bookmark.\n- Technology used is JavaScript, React.js, Node.js, PostgreSQL.\nView here: https://beingpm.herokuapp.com/",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "E-Learning"
+                    ]
+                },
+                "title": "Software Engineer",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:18676419",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQFVIfF1dvvexg/company-logo_"
+            },
+            {
+                "locationName": "Guwahati, Assam, India",
+                "entityUrn": "urn:li:fs_position:(ACoAAB2cMx4BbTnQDA8OArjXhHctHFA6GjJgkk0,1795017151)",
+                "$anti_abuse_metadata": {
+                    "/geoUrn": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:496775966"
+                        }
+                    },
+                    "/companyName": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:496775966"
+                        }
+                    },
+                    "/companyUrn": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:496775966"
+                        }
+                    },
+                    "/entityUrn": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:496775966"
+                        }
+                    },
+                    "/geoLocationName": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:496775966"
+                        }
+                    },
+                    "/promotion": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:496775966"
+                        }
+                    },
+                    "/title": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:496775966"
+                        }
+                    },
+                    "/region": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:496775966"
+                        }
+                    },
+                    "/locationName": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:496775966"
+                        }
+                    },
+                    "/description": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:496775966"
+                        }
+                    }
+                },
+                "geoLocationName": "Guwahati, Assam, India",
+                "geoUrn": "urn:li:fs_geo:105607401",
+                "companyName": "Deonlinemenu",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 11,
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "month": 6,
+                        "year": 2020
+                    }
+                },
+                "description": "- A platform where restaurant businesses can create digital menus with additional features like CRM tools.\n- Singlehandedly designed, developed, and deployed the full stack web application.\n- Interacted with potential clients to understand product-market fit.\n- Technology used are JavaScript, Material-UI, React.js, Node.js, PostgreSQL.\nView here: https://deonlinemenu.herokuapp.com/",
+                "title": "Co-Founder",
+                "region": "urn:li:fs_region:(in,0)"
+            },
+            {
+                "locationName": "Guwahati Area, India",
+                "entityUrn": "urn:li:fs_position:(ACoAAB2cMx4BbTnQDA8OArjXhHctHFA6GjJgkk0,1302384695)",
+                "geoLocationName": "Guwahati Area, India",
+                "companyName": "Gauhati University Institute Of Science And Technology",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 7,
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "month": 5,
+                        "year": 2018
+                    }
+                },
+                "company": {},
+                "title": "Placement Coordinator",
+                "companyUrn": "urn:li:fs_miniCompany:13426140"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAB2cMx4BbTnQDA8OArjXhHctHFA6GjJgkk0,646795457)",
+                "school": {
+                    "objectUrn": "urn:li:school:5118025",
+                    "entityUrn": "urn:li:fs_miniSchool:5118025",
+                    "active": true,
+                    "schoolName": "Programming Pathshala",
+                    "trackingId": "4UcnHKFHRCmvsiAL6Ce4bQ==",
+                    "logoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQFVIfF1dvvexg/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "year": 2019
+                    }
+                },
+                "description": "Specialization in DSA, System Design, and Software Engineering.",
+                "degreeName": "Bootcamp",
+                "schoolName": "Programming Pathshala",
+                "fieldOfStudy": "Interview preparation",
+                "schoolUrn": "urn:li:fs_miniSchool:5118025"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAB2cMx4BbTnQDA8OArjXhHctHFA6GjJgkk0,342139628)",
+                "school": {
+                    "objectUrn": "urn:li:school:13476",
+                    "entityUrn": "urn:li:fs_miniSchool:13476",
+                    "active": true,
+                    "schoolName": "Gauhati University",
+                    "trackingId": "TILGvm7cQj60r8GWhbC0Ew==",
+                    "logoUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQE_SHDG7RHWLg/company-logo_"
+                },
+                "activities": "Started competitive programming.",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "year": 2015
+                    }
+                },
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100189",
+                "degreeName": "Bachelor of Technology (B.Tech.)",
+                "schoolName": "Gauhati University",
+                "fieldOfStudy": "Computer Science",
+                "degreeUrn": "urn:li:fs_degree:250",
+                "schoolUrn": "urn:li:fs_miniSchool:13476"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAB2cMx4BbTnQDA8OArjXhHctHFA6GjJgkk0,342206045)",
+                "activities": "House captain.\nsports captain.\nGroup leader at various other activities.",
+                "grade": "75 %",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2014
+                    },
+                    "startDate": {
+                        "year": 2012
+                    }
+                },
+                "description": "Affiliated to Central Board of Secondary Education. Enjoyed learning here.",
+                "degreeName": "High school",
+                "schoolName": "Kendriya Vidyalaya Lumding",
+                "fieldOfStudy": "Science"
+            }
+        ],
+        "languages": [
+            {
+                "name": "Assamese"
+            },
+            {
+                "name": "Bengali"
+            },
+            {
+                "name": "English"
+            },
+            {
+                "name": "Hindi"
+            }
+        ],
+        "publications": [
+            {
+                "date": {
+                    "month": 9,
+                    "year": 2019,
+                    "day": 1
+                },
+                "name": "Information Retrieval In Assamese Using Wordnet & Assamese Wikipedia",
+                "publisher": "INTERNATIONAL JOURNAL OF SCIENTIFIC & TECHNOLOGY RESEARCH VOLUME 8, ISSUE 09",
+                "description": "Abstract\u2014 Importance of Information Retrieval is increasing day by day. Non English languages are also getting importance in information retrieval, \r\nbecause people are more comfortable in their native language than English. India is a country of different culture and different language. Assamese is one of the recognized languages of India, which is the official language of Assam. In this research work, a Assamese Information Retrieval (IR) system is designed. The IR system has three phases 1) Structuring the query, 2) Use of Assamese WordNet in query expansion, 3) Accessing information from Assamese Wikipedia. The IR system is reliable and performance of the system is 60.08 % in terms of relevant document retrieval.",
+                "url": "http://www.ijstr.org/final-print/sep2019/Information-Retrieval-In-Assamese-Using-Wordnet-Assamese-Wikipedia.pdf",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Rajdeep",
+                            "lastName": "Purkayastha",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAB2cMx4BbTnQDA8OArjXhHctHFA6GjJgkk0",
+                            "occupation": "Software Engineer at Syook | Backend | Node.js",
+                            "objectUrn": "urn:li:member:496775966",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAB2cMx4BbTnQDA8OArjXhHctHFA6GjJgkk0",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1535109169562?e=1657756800&v=beta&t=-mR0RbTQ0YTE1CMZRWEqw2TDJqTCr39uqX7l6MA5-P8",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1535109169562?e=1657756800&v=beta&t=tWsAsBMptN7RoY9xZ5Sz7PTR_W4lVP_NtBMuJrqkhmc",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5116AQEl6t9K1-gWlw/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "rajdeep-purkayastha",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1631851740270?e=1657756800&v=beta&t=cqVzH_5ky4jJSGbAdry7B9B650xA2Z3DJZs6yHacN-c",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1631851740270?e=1657756800&v=beta&t=GKIk7g5Gf9XVfypbylrd7q0iyExoOKhI3RPk-Oya0Ow",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1631851740270?e=1657756800&v=beta&t=Fx28KabEuYNdBye2632-OWAVYjK8syWVfUObBMBWuFI",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1631851740270?e=1657756800&v=beta&t=cJqn-8Ifl_O18kX2_zbZyqlMpzQcwjvVGLDpSA5-YgM",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E03AQFt3MMiNoIOqw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "W8nqF2a0SUi3S7rSimo0Rg=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAB2cMx4BbTnQDA8OArjXhHctHFA6GjJgkk0"
+                    }
+                ]
+            },
+            {
+                "name": "GeoAlert \u2013 Satellite Imagery based Flood Risk Assessment (FRA) system using Machine Learning",
+                "publisher": "Peer-reviewed at International Society for Photogrammetry and Remote Sensing (ISPRS) Technical Commission V Symposium on \"Education & Outreach - Geospatial technology \u2013 Pixel to People\" ",
+                "description": "Abstract - Assessment of flood risk zonation and landscape vulnerability to flood are crucial perspective in flood risk management. It is a standout amongst the most genuine catastrophic events in North East, India. The mighty Brahmaputra being one of the significant streams of Asia, is a trans-boundary waterway which flows through China, India and Bangladesh. Floods are an exceptionally regular event during the monsoon season. Deforestation in the Brahmaputra watershed has brought increased siltation levels, flash floods and soil erosion in basic downstream natural environment. To detect changes in land cover and NDVI rapidly and precisely, we have utilized remote sensing technology and Geographic Information Systems (GIS). In this paper, Landsat 8 Operational Land Imager (OLI) data were utilized to access landscape vulnerability to flood inundation and flood risk in Kamrup district of Assam, India. Flood inundation outline was prepared based on water and land pixels on images. We have proposed an automated flood alert generating and continuous monitoring system which analyses the recent images by extracts the number of geo-tagged pixels of water body (extracts area and contour of water and land regions) and generate when the number of pixels of water crosses the threshold, our system generates an alert. Based on the area of the water regions on the map we could estimate flood affected regions comparing with the existing data of land and water cover regions reported by \r\nthe government and there by alert the officials for preventive measures. Different metrics were experimented to extract more accurate area of water logging regions. With the historical information of rainfall and area of water logging regions we could apply machine learning models to predict the possible inundation in next 48 hours. This will be more effective to move people to safe high-altitude regions during the time of flood.",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Rajdeep",
+                            "lastName": "Purkayastha",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAB2cMx4BbTnQDA8OArjXhHctHFA6GjJgkk0",
+                            "occupation": "Software Engineer at Syook | Backend | Node.js",
+                            "objectUrn": "urn:li:member:496775966",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAB2cMx4BbTnQDA8OArjXhHctHFA6GjJgkk0",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1535109169562?e=1657756800&v=beta&t=-mR0RbTQ0YTE1CMZRWEqw2TDJqTCr39uqX7l6MA5-P8",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1535109169562?e=1657756800&v=beta&t=tWsAsBMptN7RoY9xZ5Sz7PTR_W4lVP_NtBMuJrqkhmc",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5116AQEl6t9K1-gWlw/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "rajdeep-purkayastha",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1631851740270?e=1657756800&v=beta&t=cqVzH_5ky4jJSGbAdry7B9B650xA2Z3DJZs6yHacN-c",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1631851740270?e=1657756800&v=beta&t=GKIk7g5Gf9XVfypbylrd7q0iyExoOKhI3RPk-Oya0Ow",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1631851740270?e=1657756800&v=beta&t=Fx28KabEuYNdBye2632-OWAVYjK8syWVfUObBMBWuFI",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1631851740270?e=1657756800&v=beta&t=cJqn-8Ifl_O18kX2_zbZyqlMpzQcwjvVGLDpSA5-YgM",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E03AQFt3MMiNoIOqw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "W8nqF2a0SUi3S7rSimo0Rg=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAB2cMx4BbTnQDA8OArjXhHctHFA6GjJgkk0"
+                    }
+                ]
+            }
+        ],
+        "certifications": [],
+        "volunteer": [
+            {
+                "role": "College Representative",
+                "companyName": "The Entrepreneurship Cell, IIT Bombay",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2018
+                    },
+                    "startDate": {
+                        "month": 6,
+                        "year": 2017
+                    }
+                },
+                "cause": "ECONOMIC_EMPOWERMENT"
+            },
+            {
+                "role": "Publications Coordinator",
+                "companyName": "Gauhati University Institute Of Science And Technology, Gauhati University",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 3,
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2019
+                    }
+                },
+                "cause": "ECONOMIC_EMPOWERMENT",
+                "description": "- GUIST, Gauhati University organized UDYOGAM- an industry-academia conclave in a collaboration with NIT Silchar under the TEQIPIII program.\n\n- I lead the publication team and was also a member of the core organizing team. With sincere efforts of like-minded individuals, the event took its shape to reality. It was a great learning experience being part of an amazing organizing team."
+            },
+            {
+                "role": "CODE FEST - Event Organizer",
+                "companyName": "Beyond Consultancy",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 10,
+                        "year": 2018
+                    },
+                    "startDate": {
+                        "month": 10,
+                        "year": 2018
+                    }
+                },
+                "cause": "SCIENCE_AND_TECHNOLOGY",
+                "description": "Head member of the organizing team of CODE FEST, 48 hours coding event where I lead a team of 5 members.\nThe aim was to evaluate the students based on their technical knowledge and skills in product development. The event was sponsored by Beyond.\n\nAbout the competition:\n- Total number of teams registered: 14",
+                "company": {
+                    "miniCompany": {
+                        "objectUrn": "urn:li:company:1685944",
+                        "entityUrn": "urn:li:fs_miniCompany:1685944",
+                        "name": "Beyond Consultancy",
+                        "showcase": false,
+                        "active": true,
+                        "universalName": "beyond-consultancy",
+                        "dashCompanyUrn": "urn:li:fsd_company:1685944",
+                        "trackingId": "j/E4koJkTMaj3S9t7UwUuQ=="
+                    }
+                },
+                "companyUrn": "urn:li:fs_miniCompany:1685944"
+            }
+        ],
+        "honors": [],
+        "projects": [
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Rajdeep",
+                            "lastName": "Purkayastha",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAB2cMx4BbTnQDA8OArjXhHctHFA6GjJgkk0",
+                            "occupation": "Software Engineer at Syook | Backend | Node.js",
+                            "objectUrn": "urn:li:member:496775966",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAB2cMx4BbTnQDA8OArjXhHctHFA6GjJgkk0",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1535109169562?e=1657756800&v=beta&t=-mR0RbTQ0YTE1CMZRWEqw2TDJqTCr39uqX7l6MA5-P8",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1535109169562?e=1657756800&v=beta&t=tWsAsBMptN7RoY9xZ5Sz7PTR_W4lVP_NtBMuJrqkhmc",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5116AQEl6t9K1-gWlw/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "rajdeep-purkayastha",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1631851740270?e=1657756800&v=beta&t=cqVzH_5ky4jJSGbAdry7B9B650xA2Z3DJZs6yHacN-c",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1631851740270?e=1657756800&v=beta&t=GKIk7g5Gf9XVfypbylrd7q0iyExoOKhI3RPk-Oya0Ow",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1631851740270?e=1657756800&v=beta&t=Fx28KabEuYNdBye2632-OWAVYjK8syWVfUObBMBWuFI",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1631851740270?e=1657756800&v=beta&t=cJqn-8Ifl_O18kX2_zbZyqlMpzQcwjvVGLDpSA5-YgM",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E03AQFt3MMiNoIOqw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "W8nqF2a0SUi3S7rSimo0Rg=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAB2cMx4BbTnQDA8OArjXhHctHFA6GjJgkk0,2131699976,280897003)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAB2cMx4BbTnQDA8OArjXhHctHFA6GjJgkk0"
+                    }
+                ],
+                "timePeriod": {
+                    "startDate": {
+                        "month": 8,
+                        "year": 2020
+                    }
+                },
+                "description": "An android app that empowers the user to increase their productivity. A dashboard is created which displays the total time spent by the user on different tasks of a day and assist the user to visualize and work accordingly. \nTechnology used - Java, XML and Firebase.",
+                "title": "Optimize Karo "
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Rajdeep",
+                            "lastName": "Purkayastha",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAB2cMx4BbTnQDA8OArjXhHctHFA6GjJgkk0",
+                            "occupation": "Software Engineer at Syook | Backend | Node.js",
+                            "objectUrn": "urn:li:member:496775966",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAB2cMx4BbTnQDA8OArjXhHctHFA6GjJgkk0",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1535109169562?e=1657756800&v=beta&t=-mR0RbTQ0YTE1CMZRWEqw2TDJqTCr39uqX7l6MA5-P8",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1535109169562?e=1657756800&v=beta&t=tWsAsBMptN7RoY9xZ5Sz7PTR_W4lVP_NtBMuJrqkhmc",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5116AQEl6t9K1-gWlw/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "rajdeep-purkayastha",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1631851740270?e=1657756800&v=beta&t=cqVzH_5ky4jJSGbAdry7B9B650xA2Z3DJZs6yHacN-c",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1631851740270?e=1657756800&v=beta&t=GKIk7g5Gf9XVfypbylrd7q0iyExoOKhI3RPk-Oya0Ow",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1631851740270?e=1657756800&v=beta&t=Fx28KabEuYNdBye2632-OWAVYjK8syWVfUObBMBWuFI",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1631851740270?e=1657756800&v=beta&t=cJqn-8Ifl_O18kX2_zbZyqlMpzQcwjvVGLDpSA5-YgM",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E03AQFt3MMiNoIOqw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "W8nqF2a0SUi3S7rSimo0Rg=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAB2cMx4BbTnQDA8OArjXhHctHFA6GjJgkk0,2131553899,280890765)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAB2cMx4BbTnQDA8OArjXhHctHFA6GjJgkk0"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "month": 3,
+                        "year": 2020
+                    }
+                },
+                "description": "An android app to access factual information and updates on COVID 19 with features to solve the issues of the citizens. I worked on designing the core architecture and workflow\rof the project. \nTechnology used - Java, XML and Firebase.",
+                "title": "Sahaayak",
+                "url": "https://github.com/rajdeepp26/Sahaayak"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Rajdeep",
+                            "lastName": "Purkayastha",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAB2cMx4BbTnQDA8OArjXhHctHFA6GjJgkk0",
+                            "occupation": "Software Engineer at Syook | Backend | Node.js",
+                            "objectUrn": "urn:li:member:496775966",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAB2cMx4BbTnQDA8OArjXhHctHFA6GjJgkk0",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1535109169562?e=1657756800&v=beta&t=-mR0RbTQ0YTE1CMZRWEqw2TDJqTCr39uqX7l6MA5-P8",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1535109169562?e=1657756800&v=beta&t=tWsAsBMptN7RoY9xZ5Sz7PTR_W4lVP_NtBMuJrqkhmc",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5116AQEl6t9K1-gWlw/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "rajdeep-purkayastha",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1631851740270?e=1657756800&v=beta&t=cqVzH_5ky4jJSGbAdry7B9B650xA2Z3DJZs6yHacN-c",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1631851740270?e=1657756800&v=beta&t=GKIk7g5Gf9XVfypbylrd7q0iyExoOKhI3RPk-Oya0Ow",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1631851740270?e=1657756800&v=beta&t=Fx28KabEuYNdBye2632-OWAVYjK8syWVfUObBMBWuFI",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1631851740270?e=1657756800&v=beta&t=cJqn-8Ifl_O18kX2_zbZyqlMpzQcwjvVGLDpSA5-YgM",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E03AQFt3MMiNoIOqw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "W8nqF2a0SUi3S7rSimo0Rg=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAB2cMx4BbTnQDA8OArjXhHctHFA6GjJgkk0,2131454050,280895536)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAB2cMx4BbTnQDA8OArjXhHctHFA6GjJgkk0"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 5,
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2019
+                    }
+                },
+                "description": "An Assamese Information Retrieval(IR)\r\nSystem was build using Assamese WordNet and Assamese Wikipedia. The IR system is reliable and the\rperformance of the system is 60.08% in terms of relevant documents retrieval.\r\nTechnology used - Python and Java.",
+                "title": "Information Retrieval System",
+                "url": "https://github.com/rajdeepp26/Information-Retrieval-System"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Rajdeep",
+                            "lastName": "Purkayastha",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAB2cMx4BbTnQDA8OArjXhHctHFA6GjJgkk0",
+                            "occupation": "Software Engineer at Syook | Backend | Node.js",
+                            "objectUrn": "urn:li:member:496775966",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAB2cMx4BbTnQDA8OArjXhHctHFA6GjJgkk0",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1535109169562?e=1657756800&v=beta&t=-mR0RbTQ0YTE1CMZRWEqw2TDJqTCr39uqX7l6MA5-P8",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1535109169562?e=1657756800&v=beta&t=tWsAsBMptN7RoY9xZ5Sz7PTR_W4lVP_NtBMuJrqkhmc",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5116AQEl6t9K1-gWlw/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "rajdeep-purkayastha",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1631851740270?e=1657756800&v=beta&t=cqVzH_5ky4jJSGbAdry7B9B650xA2Z3DJZs6yHacN-c",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1631851740270?e=1657756800&v=beta&t=GKIk7g5Gf9XVfypbylrd7q0iyExoOKhI3RPk-Oya0Ow",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1631851740270?e=1657756800&v=beta&t=Fx28KabEuYNdBye2632-OWAVYjK8syWVfUObBMBWuFI",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1631851740270?e=1657756800&v=beta&t=cJqn-8Ifl_O18kX2_zbZyqlMpzQcwjvVGLDpSA5-YgM",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E03AQFt3MMiNoIOqw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "W8nqF2a0SUi3S7rSimo0Rg=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAB2cMx4BbTnQDA8OArjXhHctHFA6GjJgkk0,2131308068,280894611)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAB2cMx4BbTnQDA8OArjXhHctHFA6GjJgkk0"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 10,
+                        "year": 2017
+                    },
+                    "startDate": {
+                        "month": 5,
+                        "year": 2017
+                    }
+                },
+                "description": "A web platform that efficiently computes the net pay of\rall employees as well as maintaining the details of various allowances and deductions that are needed to\rbe given to the employees of an organization.\r\nTechnology used - HTML, CSS, Bootstrap, JavaScript, PHP and MySQL.",
+                "title": "Payroll Management",
+                "url": "https://github.com/rajdeepp26/payroll-management"
+            }
+        ]
+    },
+    "contact_info": {
+        "email_address": null,
+        "websites": [],
+        "twitter": [],
+        "birthdate": null,
+        "ims": null,
+        "phone_numbers": []
+    },
+    "connections": [
+        {
+            "urn_id": "ACoAABr4jt0BoOUmisITdRo1gR4CumG5I4jjZIw",
+            "distance": "DISTANCE_1",
+            "public_id": "samudra-deka-911659107",
+            "tracking_id": "452497117"
+        },
+        {
+            "urn_id": "ACoAADLJzxsBizdB0nN5NZBCM41Q-z6-7ef5gyI",
+            "distance": "DISTANCE_1",
+            "public_id": "deepjyoti-kalita-78b4411b9",
+            "tracking_id": "852086555"
+        },
+        {
+            "urn_id": "ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE",
+            "distance": "DISTANCE_1",
+            "public_id": "prithoo11335",
+            "tracking_id": "231212168"
+        },
+        {
+            "urn_id": "ACoAACr0GSwBcmPDh22HqivG9h0JwG-eahXSYW8",
+            "distance": "DISTANCE_1",
+            "public_id": "nihar-kashyap98",
+            "tracking_id": "720640300"
+        },
+        {
+            "urn_id": "ACoAACbTg-gBtT_YqZc-FG2lIVBv13QTx8UUB8E",
+            "distance": "DISTANCE_1",
+            "public_id": "mridul24",
+            "tracking_id": "651396072"
+        },
+        {
+            "urn_id": "ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY",
+            "distance": "DISTANCE_1",
+            "public_id": "tridip-das-b5837911b",
+            "tracking_id": "499568180"
+        },
+        {
+            "urn_id": "ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8",
+            "distance": "DISTANCE_1",
+            "public_id": "sivaranjan-goswami-790b4523",
+            "tracking_id": "83451420"
+        },
+        {
+            "urn_id": "ACoAACDVs-sB_IgxPBMHMRBfR6is3jmwwV_OvTE",
+            "distance": "DISTANCE_1",
+            "public_id": "swapnil-bhattacharjee-ghy",
+            "tracking_id": "550876139"
+        }
+    ],
+    "skills": [
+        {
+            "name": "JavaScript"
+        },
+        {
+            "name": "React.js"
+        },
+        {
+            "name": "Node.js"
+        },
+        {
+            "name": "Data Analysis"
+        },
+        {
+            "name": "Machine Learning"
+        },
+        {
+            "name": "Algorithms"
+        },
+        {
+            "name": "Programming"
+        },
+        {
+            "name": "Web Development"
+        },
+        {
+            "name": "Data Structures"
+        },
+        {
+            "name": "Remote Sensing"
+        },
+        {
+            "name": "Object-Oriented Programming (OOP)"
+        },
+        {
+            "name": "Python"
+        },
+        {
+            "name": "C"
+        },
+        {
+            "name": "C++"
+        },
+        {
+            "name": "Java"
+        },
+        {
+            "name": "Android"
+        },
+        {
+            "name": "MySQL"
+        },
+        {
+            "name": "php"
+        },
+        {
+            "name": "Geographic Information Systems (GIS)"
+        },
+        {
+            "name": "HTML"
+        },
+        {
+            "name": "Cascading Style Sheets (CSS)"
+        },
+        {
+            "name": "Microsoft Office"
+        },
+        {
+            "name": "LaTeX"
+        },
+        {
+            "name": "C (Programming Language)"
+        },
+        {
+            "name": "Linux"
+        },
+        {
+            "name": "Django"
+        },
+        {
+            "name": "Git"
+        },
+        {
+            "name": "Teamwork"
+        },
+        {
+            "name": "Leadership"
+        },
+        {
+            "name": "Team Leadership"
+        },
+        {
+            "name": "Team Management"
+        },
+        {
+            "name": "Data Analytics"
+        },
+        {
+            "name": "Networking"
+        },
+        {
+            "name": "MySQLi"
+        },
+        {
+            "name": "jframe"
+        },
+        {
+            "name": "Database Management System (DBMS)"
+        }
+    ]
+}

@@ -1,0 +1,261 @@
+{
+    "profile": {
+        "summary": "\ud83d\udc49 Clinify Health, a Chicago healthcare startup that just received funding was facing difficulties with building a care gap management system. They were facing time constraints and they were unable to onboard software engineers skilled in NodeJs, ReactJs, Amazon Neptune & AWS Lambda. TechVariable was able to partner with Clinify & drive the completion of the care gap management system end to end. TechVariable augmented its team with 12 engineers (6 full-stack developers, 2 data engineers, 1 project manager, 1 business analyst, 1 database engineer & 1 DevOps). Not only Clinify was happy with TechVariable team but they are now looking to augment their team further with TechVariable. \n\n\ud83d\udc49TechVariable has also helped startups with 2x faster delivery in their product development journey with our services like Custom Application Development, Rapid Prototyping, etc. (https://www.techvariable.com/case-studies/)\n\n\ud83d\udc49TechVariable has achieved this because of the extremely lean delivery model and client-centric approach. \n\n \ud83d\udc49TechVariable has a strong team of about 50 and has developed products as well as solutions for several companies across the globe.\n\nWould it be possible for you to get on a call with us and explore how we have ensured the successful delivery of digital products throughout the globe?",
+        "industryName": "IT Services and IT Consulting",
+        "lastName": "Bora",
+        "locationName": "India",
+        "student": false,
+        "geoCountryName": "India",
+        "geoCountryUrn": "urn:li:fs_geo:102713980",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "industryUrn": "urn:li:fs_industry:96",
+        "firstName": "Simanta",
+        "entityUrn": "urn:li:fs_profile:ACoAACUAG_4BLdSlCW_6M0WmFanLBsIXtUVH1gM",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:105607401"
+        },
+        "geoLocationName": "Guwahati, Assam",
+        "location": {
+            "basicLocation": {
+                "countryCode": "in"
+            }
+        },
+        "headline": "Helping high-growth funded Startups from USA deliver world class technology products FAST, BACKED with outcome guarantees and 98% Client Satisfaction Record",
+        "displayPictureUrl": "https://media-exp1.licdn.com/dms/image/C5603AQGrXJ-nVbNvmQ/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/0/1617084519432?e=1657756800&v=beta&t=JJH-bYr5L7HSu2N12VxJONlOhH7YotnqcI3K3WyLnUw",
+        "img_200_200": "200_200/0/1617084519432?e=1657756800&v=beta&t=Jd48m6BGVl5BmH71fWXjIa2Hu53dy26GY9mjZAAW9bQ",
+        "img_400_400": "400_400/0/1617084519432?e=1657756800&v=beta&t=iQDR9LpnlBOIOKPyM4GaBms0g3_mP2jpTzx0Ci3hiM4",
+        "img_800_800": "800_800/0/1617084519432?e=1657756800&v=beta&t=Rk9AkrrR4WB-fBWa2Eg9Q93x7A7a6WLR9gRlouwXWk0",
+        "profile_id": "ACoAACUAG_4BLdSlCW_6M0WmFanLBsIXtUVH1gM",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAACUAG_4BLdSlCW_6M0WmFanLBsIXtUVH1gM",
+        "member_urn": "urn:li:member:620764158",
+        "experience": [
+            {
+                "locationName": "Bangalore Urban, Karnataka, India",
+                "entityUrn": "urn:li:fs_position:(ACoAACUAG_4BLdSlCW_6M0WmFanLBsIXtUVH1gM,1136153426)",
+                "geoLocationName": "Bangalore Urban, Karnataka, India",
+                "geoUrn": "urn:li:fs_geo:112376381",
+                "companyName": "TechVariable",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 3,
+                        "year": 2017
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Senior Sales Manager",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:10632640",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQE6IzKHUZQmAA/company-logo_"
+            },
+            {
+                "locationName": "Guwahati Area, India",
+                "entityUrn": "urn:li:fs_position:(ACoAACUAG_4BLdSlCW_6M0WmFanLBsIXtUVH1gM,1136156887)",
+                "geoLocationName": "Guwahati Area, India",
+                "geoUrn": "urn:li:fs_geo:104535556",
+                "companyName": "Royal Group of Institutions",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 2,
+                        "year": 2016
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2012
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 201,
+                        "end": 500
+                    },
+                    "industries": [
+                        "Education Management"
+                    ]
+                },
+                "title": "Lecturer",
+                "region": "urn:li:fs_region:(in,7248)",
+                "companyUrn": "urn:li:fs_miniCompany:3587349",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQEkjHt-2-3J2Q/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAACUAG_4BLdSlCW_6M0WmFanLBsIXtUVH1gM,468485626)",
+                "school": {
+                    "objectUrn": "urn:li:school:199762",
+                    "entityUrn": "urn:li:fs_miniSchool:199762",
+                    "active": true,
+                    "schoolName": "Assam Engineering College",
+                    "trackingId": "7ejeJP6dSrauf/bFxEs/Cg=="
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2012
+                    },
+                    "startDate": {
+                        "year": 2008
+                    }
+                },
+                "description": "Computer Science Engineer",
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100189",
+                "degreeName": "Bachelor of Engineering - BE",
+                "schoolName": "Assam Engineering College",
+                "fieldOfStudy": "Computer Science",
+                "degreeUrn": "urn:li:fs_degree:269",
+                "schoolUrn": "urn:li:fs_miniSchool:199762"
+            }
+        ],
+        "languages": [],
+        "publications": [],
+        "certifications": [],
+        "volunteer": [],
+        "honors": [],
+        "projects": []
+    },
+    "contact_info": {
+        "email_address": null,
+        "websites": [],
+        "twitter": [],
+        "birthdate": null,
+        "ims": null,
+        "phone_numbers": []
+    },
+    "connections": [
+        {
+            "urn_id": "ACoAABr4jt0BoOUmisITdRo1gR4CumG5I4jjZIw",
+            "distance": "DISTANCE_1",
+            "public_id": "samudra-deka-911659107",
+            "tracking_id": "452497117"
+        },
+        {
+            "urn_id": "ACoAADLJzxsBizdB0nN5NZBCM41Q-z6-7ef5gyI",
+            "distance": "DISTANCE_1",
+            "public_id": "deepjyoti-kalita-78b4411b9",
+            "tracking_id": "852086555"
+        },
+        {
+            "urn_id": "ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE",
+            "distance": "DISTANCE_1",
+            "public_id": "prithoo11335",
+            "tracking_id": "231212168"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Data Analysis",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:2470",
+            "standardizedSkill": {
+                "name": "Data Analysis",
+                "entityUrn": "urn:li:fs_miniSkill:2470"
+            }
+        },
+        {
+            "name": "R"
+        },
+        {
+            "name": "Python",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:1346",
+            "standardizedSkill": {
+                "name": "Python (Programming Language)",
+                "entityUrn": "urn:li:fs_miniSkill:1346"
+            }
+        },
+        {
+            "name": "JavaScript",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:218",
+            "standardizedSkill": {
+                "name": "JavaScript",
+                "entityUrn": "urn:li:fs_miniSkill:218"
+            }
+        },
+        {
+            "name": "JavaServer Pages (JSP)",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:864",
+            "standardizedSkill": {
+                "name": "JavaServer Pages (JSP)",
+                "entityUrn": "urn:li:fs_miniSkill:864"
+            }
+        },
+        {
+            "name": "Php"
+        },
+        {
+            "name": "CodeIgniter",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:6159",
+            "standardizedSkill": {
+                "name": "CodeIgniter",
+                "entityUrn": "urn:li:fs_miniSkill:6159"
+            }
+        },
+        {
+            "name": "Laravel",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:50109",
+            "standardizedSkill": {
+                "name": "Laravel",
+                "entityUrn": "urn:li:fs_miniSkill:50109"
+            }
+        },
+        {
+            "name": "sql"
+        },
+        {
+            "name": "RDBMS",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:3951",
+            "standardizedSkill": {
+                "name": "RDBMS",
+                "entityUrn": "urn:li:fs_miniSkill:3951"
+            }
+        },
+        {
+            "name": "Project Management",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:2269",
+            "standardizedSkill": {
+                "name": "Project Management",
+                "entityUrn": "urn:li:fs_miniSkill:2269"
+            }
+        },
+        {
+            "name": "HTML5",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:8638",
+            "standardizedSkill": {
+                "name": "HTML5",
+                "entityUrn": "urn:li:fs_miniSkill:8638"
+            }
+        },
+        {
+            "name": "JIRA",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:6013",
+            "standardizedSkill": {
+                "name": "Jira",
+                "entityUrn": "urn:li:fs_miniSkill:6013"
+            }
+        },
+        {
+            "name": "PHP",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:261",
+            "standardizedSkill": {
+                "name": "PHP",
+                "entityUrn": "urn:li:fs_miniSkill:261"
+            }
+        },
+        {
+            "name": "Marketing"
+        },
+        {
+            "name": "Sales"
+        },
+        {
+            "name": "Business Development"
+        }
+    ]
+}

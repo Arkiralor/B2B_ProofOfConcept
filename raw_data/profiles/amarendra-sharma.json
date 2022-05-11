@@ -1,0 +1,246 @@
+{
+    "profile": {
+        "industryName": "IT Services and IT Consulting",
+        "lastName": "Sharma",
+        "student": false,
+        "geoCountryName": "India",
+        "geoCountryUrn": "urn:li:fs_geo:102713980",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "birthDate": {
+            "month": 2,
+            "day": 7
+        },
+        "industryUrn": "urn:li:fs_industry:96",
+        "firstName": "Amarendra",
+        "entityUrn": "urn:li:fs_profile:ACoAAB4M-5sB3nXxXWgQok2HUZgmRyLTbiFzSVI",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:105214831"
+        },
+        "geoLocationName": "Bengaluru, Karnataka",
+        "location": {
+            "basicLocation": {
+                "countryCode": "in"
+            }
+        },
+        "headline": "Senior Software Engineer at Nichi-In Software Solutions Pvt. Ltd.",
+        "displayPictureUrl": "https://media-exp1.licdn.com/dms/image/C5103AQFDxfN0BkPh5A/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/0/1537877310647?e=1657756800&v=beta&t=mZUnYgjtxFP6Ycy671r-EY67cL3NxeERexRm6FrzFWU",
+        "img_200_200": "200_200/0/1537877310647?e=1657756800&v=beta&t=M0RqqhS0oPVgLRkqxD7zHNdIHrcm7BRZHa3vwfUNRW0",
+        "img_400_400": "400_400/0/1537877310647?e=1657756800&v=beta&t=NE4wHkSXgtkMrf2biHYF8yp_AvH1mvsJ6pOGpFeKfhU",
+        "img_800_800": "800_800/0/1537877310647?e=1657756800&v=beta&t=v7zRVqT9GQxERpb34dQiqiLIDiYs5I-w3EGV2_CeuCo",
+        "profile_id": "ACoAAB4M-5sB3nXxXWgQok2HUZgmRyLTbiFzSVI",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAAB4M-5sB3nXxXWgQok2HUZgmRyLTbiFzSVI",
+        "member_urn": "urn:li:member:504167323",
+        "experience": [
+            {
+                "locationName": "Bengaluru, Karnataka, India",
+                "entityUrn": "urn:li:fs_position:(ACoAAB4M-5sB3nXxXWgQok2HUZgmRyLTbiFzSVI,1710078748)",
+                "geoLocationName": "Bengaluru, Karnataka, India",
+                "geoUrn": "urn:li:fs_geo:109710172",
+                "companyName": "Nichi-In Software Solutions Pvt. Ltd.",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 8,
+                        "year": 2020
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 51,
+                        "end": 200
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Senior Software Engineer",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:496391",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQGw2H6T35p5Mg/company-logo_"
+            },
+            {
+                "locationName": "Bengaluru, Karnataka",
+                "entityUrn": "urn:li:fs_position:(ACoAAB4M-5sB3nXxXWgQok2HUZgmRyLTbiFzSVI,1597652167)",
+                "geoLocationName": "Bengaluru, Karnataka",
+                "geoUrn": "urn:li:fs_geo:102713980",
+                "companyName": "Innoventes Technologies",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 7,
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "month": 3,
+                        "year": 2020
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 51,
+                        "end": 200
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Software Engineer",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:3253185",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHSwvv_9FWdFA/company-logo_"
+            },
+            {
+                "locationName": "Guwahati Area, India",
+                "entityUrn": "urn:li:fs_position:(ACoAAB4M-5sB3nXxXWgQok2HUZgmRyLTbiFzSVI,1364702538)",
+                "geoLocationName": "Guwahati Area, India",
+                "geoUrn": "urn:li:fs_geo:104535556",
+                "companyName": "Sumato Globaltech",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 3,
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "month": 7,
+                        "year": 2018
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 2,
+                        "end": 10
+                    },
+                    "industries": [
+                        "Computer Software"
+                    ]
+                },
+                "title": "Software Developer",
+                "region": "urn:li:fs_region:(in,7248)",
+                "companyUrn": "urn:li:fs_miniCompany:6601013",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C510BAQGNPiOkbqTxqQ/company-logo_"
+            },
+            {
+                "locationName": "Guwahati Area, India",
+                "entityUrn": "urn:li:fs_position:(ACoAAB4M-5sB3nXxXWgQok2HUZgmRyLTbiFzSVI,1044632345)",
+                "geoLocationName": "Guwahati Area, India",
+                "geoUrn": "urn:li:fs_geo:104535556",
+                "companyName": "TechVariable",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2018
+                    },
+                    "startDate": {
+                        "month": 6,
+                        "year": 2017
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Programmer Analyst",
+                "region": "urn:li:fs_region:(in,7248)",
+                "companyUrn": "urn:li:fs_miniCompany:10632640",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQE6IzKHUZQmAA/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAB4M-5sB3nXxXWgQok2HUZgmRyLTbiFzSVI,339130177)",
+                "school": {
+                    "objectUrn": "urn:li:school:208756",
+                    "entityUrn": "urn:li:fs_miniSchool:208756",
+                    "active": true,
+                    "schoolName": "Girijananda Chowdhury Institute of Management & Technology",
+                    "trackingId": "4sKBoohVTkOvoNqQHny0GQ=="
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2017
+                    },
+                    "startDate": {
+                        "year": 2013
+                    }
+                },
+                "degreeName": "Bachelor of Technology - BTech",
+                "schoolName": "Girijananda Chowdhury Institute of Management & Technology",
+                "fieldOfStudy": "Computer Science And Engineering",
+                "degreeUrn": "urn:li:fs_degree:250",
+                "schoolUrn": "urn:li:fs_miniSchool:208756"
+            }
+        ],
+        "languages": [],
+        "publications": [],
+        "certifications": [],
+        "volunteer": [],
+        "honors": [],
+        "projects": []
+    },
+    "contact_info": {
+        "email_address": null,
+        "websites": [
+            {
+                "url": "https://amarendra.dev",
+                "label": "PERSONAL"
+            }
+        ],
+        "twitter": [],
+        "birthdate": {
+            "month": 2,
+            "day": 7
+        },
+        "ims": null,
+        "phone_numbers": []
+    },
+    "connections": [
+        {
+            "urn_id": "ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE",
+            "distance": "DISTANCE_1",
+            "public_id": "prithoo11335",
+            "tracking_id": "231212168"
+        }
+    ],
+    "skills": [
+        {
+            "name": "JavaScript",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:218",
+            "standardizedSkill": {
+                "name": "JavaScript",
+                "entityUrn": "urn:li:fs_miniSkill:218"
+            }
+        },
+        {
+            "name": "Laravel + Vue "
+        },
+        {
+            "name": "PHP",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:261",
+            "standardizedSkill": {
+                "name": "PHP",
+                "entityUrn": "urn:li:fs_miniSkill:261"
+            }
+        },
+        {
+            "name": "Vue.js",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:9730",
+            "standardizedSkill": {
+                "name": "Vue.js",
+                "entityUrn": "urn:li:fs_miniSkill:9730"
+            }
+        },
+        {
+            "name": "Laravel",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:50109",
+            "standardizedSkill": {
+                "name": "Laravel",
+                "entityUrn": "urn:li:fs_miniSkill:50109"
+            }
+        }
+    ]
+}

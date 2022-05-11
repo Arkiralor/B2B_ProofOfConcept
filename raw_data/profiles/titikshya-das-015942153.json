@@ -1,0 +1,396 @@
+{
+    "profile": {
+        "summary": "Writing makes me happy. And this is why I started my career as a freelance content writer. I am always willing to take on writing projects. Also, I enjoy creative writing.",
+        "industryName": "Advertising Services",
+        "lastName": "Das",
+        "locationName": "India",
+        "student": false,
+        "geoCountryName": "India",
+        "geoCountryUrn": "urn:li:fs_geo:102713980",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "birthDate": {
+            "month": 6,
+            "day": 10
+        },
+        "industryUrn": "urn:li:fs_industry:80",
+        "firstName": "Titikshya",
+        "entityUrn": "urn:li:fs_profile:ACoAACT67ZEBgw1Aprl8Aqy8zWMavdTyaWs7J3w",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:105607401"
+        },
+        "geoLocationName": "Guwahati, Assam",
+        "location": {
+            "basicLocation": {
+                "countryCode": "in"
+            }
+        },
+        "headline": "Content Writer",
+        "displayPictureUrl": "https://media-exp1.licdn.com/dms/image/C4E03AQGHOT-bDox7ZQ/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/0/1640951821064?e=1657756800&v=beta&t=6UZNMcY6hmdnXvFsKNmj_29cg9KPf6PEHt1VCK7g0Wg",
+        "img_200_200": "200_200/0/1640951821064?e=1657756800&v=beta&t=AUqkdthfc8duNEHqHt3xO0wmx0S1IyDFpcWd80gebZE",
+        "img_400_400": "400_400/0/1640951821064?e=1657756800&v=beta&t=qfWlPLz7eXeCLByHnAVR8h_pQhzlM9W65RRunfxdSes",
+        "img_800_800": "800_800/0/1640951821064?e=1657756800&v=beta&t=8lwwiPws1cOKIkx0A2nie0HkWG__7ISNjQoa7hhzGeg",
+        "profile_id": "ACoAACT67ZEBgw1Aprl8Aqy8zWMavdTyaWs7J3w",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAACT67ZEBgw1Aprl8Aqy8zWMavdTyaWs7J3w",
+        "member_urn": "urn:li:member:620424593",
+        "experience": [
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAACT67ZEBgw1Aprl8Aqy8zWMavdTyaWs7J3w,1929723023)",
+                "companyName": "KaRa Creative World",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 1,
+                        "year": 2022
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 2,
+                        "end": 10
+                    },
+                    "industries": [
+                        "Marketing and Advertising"
+                    ]
+                },
+                "title": "Content Writer",
+                "companyUrn": "urn:li:fs_miniCompany:33796510",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHZUIr-X0-gwg/company-logo_"
+            },
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAACT67ZEBgw1Aprl8Aqy8zWMavdTyaWs7J3w,1816712036)",
+                "companyName": "TechVariable\u00ae",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 5,
+                        "year": 2021
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Freelance Content Writer",
+                "companyUrn": "urn:li:fs_miniCompany:10632640",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQE6IzKHUZQmAA/company-logo_"
+            },
+            {
+                "locationName": "Guwahati Area, India",
+                "entityUrn": "urn:li:fs_position:(ACoAACT67ZEBgw1Aprl8Aqy8zWMavdTyaWs7J3w,1541373334)",
+                "$anti_abuse_metadata": {
+                    "/geoUrn": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:620424593"
+                        }
+                    },
+                    "/companyName": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:620424593"
+                        }
+                    },
+                    "/companyUrn": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:620424593"
+                        }
+                    },
+                    "/entityUrn": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:620424593"
+                        }
+                    },
+                    "/geoLocationName": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:620424593"
+                        }
+                    },
+                    "/promotion": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:620424593"
+                        }
+                    },
+                    "/title": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:620424593"
+                        }
+                    },
+                    "/region": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:620424593"
+                        }
+                    },
+                    "/locationName": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:620424593"
+                        }
+                    },
+                    "/description": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:620424593"
+                        }
+                    }
+                },
+                "geoLocationName": "Guwahati Area, India",
+                "geoUrn": "urn:li:fs_geo:104535556",
+                "companyName": "Right Hemisphere",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "month": 4,
+                        "year": 2018
+                    }
+                },
+                "title": "Freelance Content Writer",
+                "region": "urn:li:fs_region:(in,7248)"
+            },
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAACT67ZEBgw1Aprl8Aqy8zWMavdTyaWs7J3w,1922764463)",
+                "companyName": "Northeast Now",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 5,
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2020
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Online Media"
+                    ]
+                },
+                "title": "Social Media Executive",
+                "companyUrn": "urn:li:fs_miniCompany:14507235",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C510BAQFEAcr9cpnDnQ/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAACT67ZEBgw1Aprl8Aqy8zWMavdTyaWs7J3w,467782121)",
+                "school": {
+                    "objectUrn": "urn:li:school:13476",
+                    "entityUrn": "urn:li:fs_miniSchool:13476",
+                    "active": true,
+                    "schoolName": "Gauhati University",
+                    "trackingId": "VlcTnNCUQhSMdHXQeXWJFA==",
+                    "logoUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQE_SHDG7RHWLg/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2015
+                    },
+                    "startDate": {
+                        "year": 2013
+                    }
+                },
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100142",
+                "degreeName": "Master's degree",
+                "schoolName": "Gauhati University",
+                "fieldOfStudy": "Mass Communication/Media Studies",
+                "degreeUrn": "urn:li:fs_degree:500",
+                "schoolUrn": "urn:li:fs_miniSchool:13476"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAACT67ZEBgw1Aprl8Aqy8zWMavdTyaWs7J3w,622611688)",
+                "school": {
+                    "objectUrn": "urn:li:school:213097",
+                    "entityUrn": "urn:li:fs_miniSchool:213097",
+                    "active": true,
+                    "schoolName": "Handique Girl's College",
+                    "trackingId": "edvUd9k0TECRqC6p+LiTwA==",
+                    "logoUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQHrn6fCVE7A_w/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2013
+                    },
+                    "startDate": {
+                        "year": 2010
+                    }
+                },
+                "degreeName": "Bachelor of Arts - BA Honours",
+                "schoolName": "Handique Girl's College",
+                "fieldOfStudy": "English Language and Literature",
+                "degreeUrn": "urn:li:fs_degree:350",
+                "schoolUrn": "urn:li:fs_miniSchool:213097"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAACT67ZEBgw1Aprl8Aqy8zWMavdTyaWs7J3w,622610895)",
+                "school": {
+                    "objectUrn": "urn:li:school:203135",
+                    "entityUrn": "urn:li:fs_miniSchool:203135",
+                    "active": true,
+                    "schoolName": "Cotton College",
+                    "trackingId": "c74ojeORQXC9p7B7NViXcQ==",
+                    "logoUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQE2sG7kWsU-ig/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2010
+                    },
+                    "startDate": {
+                        "year": 2008
+                    }
+                },
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:101139",
+                "degreeName": "Higher Secondary",
+                "schoolName": "Cotton College",
+                "fieldOfStudy": "Art/Art Studies, General",
+                "schoolUrn": "urn:li:fs_miniSchool:203135"
+            }
+        ],
+        "languages": [],
+        "publications": [],
+        "certifications": [],
+        "volunteer": [],
+        "honors": [],
+        "projects": []
+    },
+    "contact_info": {
+        "email_address": "titikshya178@gmail.com",
+        "websites": [],
+        "twitter": [],
+        "birthdate": {
+            "month": 6,
+            "day": 10
+        },
+        "ims": null,
+        "phone_numbers": []
+    },
+    "connections": [
+        {
+            "urn_id": "ACoAABr4jt0BoOUmisITdRo1gR4CumG5I4jjZIw",
+            "distance": "DISTANCE_1",
+            "public_id": "samudra-deka-911659107",
+            "tracking_id": "452497117"
+        },
+        {
+            "urn_id": "ACoAADZmR9QB1zOH_PmrzQQw2wQmTJRTcNGU7CE",
+            "distance": "DISTANCE_1",
+            "public_id": "bkalita",
+            "tracking_id": "912672724"
+        },
+        {
+            "urn_id": "ACoAADLJzxsBizdB0nN5NZBCM41Q-z6-7ef5gyI",
+            "distance": "DISTANCE_1",
+            "public_id": "deepjyoti-kalita-78b4411b9",
+            "tracking_id": "852086555"
+        },
+        {
+            "urn_id": "ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE",
+            "distance": "DISTANCE_1",
+            "public_id": "prithoo11335",
+            "tracking_id": "231212168"
+        },
+        {
+            "urn_id": "ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY",
+            "distance": "DISTANCE_1",
+            "public_id": "tridip-das-b5837911b",
+            "tracking_id": "499568180"
+        },
+        {
+            "urn_id": "ACoAACZxhUQBl1V8kpLj4ACrE2LzpatGvVzEgSA",
+            "distance": "DISTANCE_1",
+            "public_id": "nabajyoti-borah-944000160",
+            "tracking_id": "644973892"
+        },
+        {
+            "urn_id": "ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8",
+            "distance": "DISTANCE_1",
+            "public_id": "sivaranjan-goswami-790b4523",
+            "tracking_id": "83451420"
+        },
+        {
+            "urn_id": "ACoAACDVs-sB_IgxPBMHMRBfR6is3jmwwV_OvTE",
+            "distance": "DISTANCE_1",
+            "public_id": "swapnil-bhattacharjee-ghy",
+            "tracking_id": "550876139"
+        },
+        {
+            "urn_id": "ACoAACYmrvgBRdvWxItbY_KP_fyrEgZ9U-QKJqk",
+            "distance": "DISTANCE_1",
+            "public_id": "rtsu",
+            "tracking_id": "640069368"
+        },
+        {
+            "urn_id": "ACoAAAR5v8MBjPwCvp8TP9RWZyGSeNYNiJ1wKJE",
+            "distance": "DISTANCE_1",
+            "public_id": "nilotpal-boruah",
+            "tracking_id": "75087811"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Mass Communication",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:5338",
+            "standardizedSkill": {
+                "name": "Mass Communication",
+                "entityUrn": "urn:li:fs_miniSkill:5338"
+            }
+        },
+        {
+            "name": "Microsoft Office",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:366",
+            "standardizedSkill": {
+                "name": "Microsoft Office",
+                "entityUrn": "urn:li:fs_miniSkill:366"
+            }
+        },
+        {
+            "name": "Academic Consulting",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:39389",
+            "standardizedSkill": {
+                "name": "Academic Consulting",
+                "entityUrn": "urn:li:fs_miniSkill:39389"
+            }
+        },
+        {
+            "name": "Executive Office Administration",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:45879",
+            "standardizedSkill": {
+                "name": "Executive Office Administration",
+                "entityUrn": "urn:li:fs_miniSkill:45879"
+            }
+        },
+        {
+            "name": "Leadership",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:154",
+            "standardizedSkill": {
+                "name": "Leadership",
+                "entityUrn": "urn:li:fs_miniSkill:154"
+            }
+        },
+        {
+            "name": "Editing"
+        },
+        {
+            "name": "Social Media"
+        },
+        {
+            "name": "Consulting"
+        },
+        {
+            "name": "Writing"
+        },
+        {
+            "name": "Problem Solving"
+        }
+    ]
+}

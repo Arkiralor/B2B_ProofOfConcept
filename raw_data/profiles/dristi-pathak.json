@@ -1,0 +1,493 @@
+{
+    "profile": {
+        "summary": "Business Analyst with a demonstrated history of working in the information technology and services industry. Skilled in Agile Project Methodologies, Scrum, AutoCAD, Microsoft Excel, Computer-Aided Design (CAD) and Priority Management. Strong research professional with a Bachelor of Engineering - BE focused in Civil Engineering from Jorhat Engineering College.",
+        "industryName": "Civil Engineering",
+        "lastName": "Pathak ",
+        "locationName": "India",
+        "student": false,
+        "geoCountryName": "India",
+        "geoCountryUrn": "urn:li:fs_geo:102713980",
+        "geoLocationBackfilled": false,
+        "elt": true,
+        "industryUrn": "urn:li:fs_industry:51",
+        "firstName": "Dristi ",
+        "entityUrn": "urn:li:fs_profile:ACoAACyLwMABaZUYvbAI8Pu7m9vV2oOTUtdGv7I",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:105607401"
+        },
+        "geoLocationName": "Guwahati, Assam",
+        "location": {
+            "basicLocation": {
+                "countryCode": "in"
+            }
+        },
+        "headline": "Business Analyst at Techvariable",
+        "displayPictureUrl": "https://media-exp1.licdn.com/dms/image/C5603AQE10A-m3Vy_pg/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/0/1642774322558?e=1657756800&v=beta&t=kS8DKsY1-5Nc89iUWEARzhV4YibzhxJ9er9PgiOkD_g",
+        "img_200_200": "200_200/0/1642774322558?e=1657756800&v=beta&t=_0dddouOzU-lLpZh0dbKfaq1b0HmbMTxzLG7x16fZKE",
+        "img_400_400": "400_400/0/1642774322558?e=1657756800&v=beta&t=UOjAJOd_l_1bCO9e2lcotaxzpmWNTd_b4GK6-NOqlOw",
+        "img_800_800": "800_800/0/1642774322558?e=1657756800&v=beta&t=lYiRUpZILVEzPjZBTUqbIx_oYGqPgUI-CuOWpjgxTZ0",
+        "profile_id": "ACoAACyLwMABaZUYvbAI8Pu7m9vV2oOTUtdGv7I",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAACyLwMABaZUYvbAI8Pu7m9vV2oOTUtdGv7I",
+        "member_urn": "urn:li:member:747356352",
+        "experience": [
+            {
+                "locationName": "Guwahati, Assam, India",
+                "entityUrn": "urn:li:fs_position:(ACoAACyLwMABaZUYvbAI8Pu7m9vV2oOTUtdGv7I,1883066295)",
+                "geoLocationName": "Guwahati, Assam, India",
+                "geoUrn": "urn:li:fs_geo:105607401",
+                "companyName": "TechVariable",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 12,
+                        "year": 2021
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Business Analyst",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:10632640",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQE6IzKHUZQmAA/company-logo_"
+            },
+            {
+                "locationName": "Morigaon, Assam, India",
+                "entityUrn": "urn:li:fs_position:(ACoAACyLwMABaZUYvbAI8Pu7m9vV2oOTUtdGv7I,1793095558)",
+                "geoLocationName": "Morigaon, Assam, India",
+                "geoUrn": "urn:li:fs_geo:100547786",
+                "companyName": "Central Water Commission",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 4,
+                        "year": 2021
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 1001,
+                        "end": 5000
+                    },
+                    "industries": [
+                        "Government Administration"
+                    ]
+                },
+                "title": "Supervisor",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:5520585",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQE4E3XjWoSfJQ/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAACyLwMABaZUYvbAI8Pu7m9vV2oOTUtdGv7I,768048559)",
+                "school": {
+                    "objectUrn": "urn:li:school:5103175",
+                    "entityUrn": "urn:li:fs_miniSchool:5103175",
+                    "active": true,
+                    "schoolName": "Jorhat Engineering College",
+                    "trackingId": "0i795wFRQyed8L4gyBO5Tw==",
+                    "logoUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQHbF8E_l8rLUA/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "month": 9,
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2016
+                    }
+                },
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100342",
+                "degreeName": "Bachelor of Engineering - BE",
+                "schoolName": "Jorhat Engineering College",
+                "fieldOfStudy": "Civil Engineering",
+                "degreeUrn": "urn:li:fs_degree:269",
+                "schoolUrn": "urn:li:fs_miniSchool:5103175"
+            }
+        ],
+        "languages": [],
+        "publications": [],
+        "certifications": [
+            {
+                "authority": "LogicGate",
+                "name": "LogicGate Power User Certification",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 2,
+                        "year": 2022
+                    }
+                },
+                "licenseNumber": "fyzoii22up7z",
+                "displaySource": "skilljar.com",
+                "url": "https://verify.skilljar.com/c/fyzoii22up7z"
+            },
+            {
+                "authority": "Coursera",
+                "name": "Foundations: Data, Data, Everywhere",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 3,
+                        "year": 2022
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:2453129",
+                    "entityUrn": "urn:li:fs_miniCompany:2453129",
+                    "name": "Coursera",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1608039227697?e=1660176000&v=beta&t=24dSeYZFSUztRaUy6-QqI0GSTK5-7tfyOci9sanIOTE",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1608039227697?e=1660176000&v=beta&t=8mJvTc5z6PI8olmLRWSi-xaA6ZOeYWkWcZiqxFWbrhE",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1608039227697?e=1660176000&v=beta&t=o8C5zQF49vmVYRAgj4K1Q2W5kUw9P0IZwKQoBFhnmDc",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQGexnfBxeEG-g/company-logo_"
+                        }
+                    },
+                    "universalName": "coursera",
+                    "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                    "trackingId": "OvvQfIg4Qyq1Vjw4AoUjfQ=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:2453129",
+                "url": "https://www.coursera.org/account/accomplishments/certificate/AVFTSZ8GU9PX"
+            },
+            {
+                "authority": "Coursera",
+                "name": "Google Project Management: Professional Certificate : Foundations of Project Management",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 4,
+                        "year": 2022
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:2453129",
+                    "entityUrn": "urn:li:fs_miniCompany:2453129",
+                    "name": "Coursera",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1608039227697?e=1660176000&v=beta&t=24dSeYZFSUztRaUy6-QqI0GSTK5-7tfyOci9sanIOTE",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1608039227697?e=1660176000&v=beta&t=8mJvTc5z6PI8olmLRWSi-xaA6ZOeYWkWcZiqxFWbrhE",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1608039227697?e=1660176000&v=beta&t=o8C5zQF49vmVYRAgj4K1Q2W5kUw9P0IZwKQoBFhnmDc",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQGexnfBxeEG-g/company-logo_"
+                        }
+                    },
+                    "universalName": "coursera",
+                    "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                    "trackingId": "u4yVw5rPRXKje8GQwBOywA=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:2453129",
+                "url": "https://coursera.org/share/61f33c47382f711d3034e8e4b84f7fe4"
+            },
+            {
+                "authority": "Udemy: Online Courses",
+                "name": "Excel from Beginner to Advanced",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 5,
+                        "year": 2022
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:36169837",
+                    "entityUrn": "urn:li:fs_miniCompany:36169837",
+                    "name": "Udemy: Online Courses",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1641150039872?e=1660176000&v=beta&t=1SwJG2ihkojxIqnyIrYaj7iWXysRsA5cmk2qqNoaEqo",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1641150039872?e=1660176000&v=beta&t=bP-3vBohI8qyo1gpl60KW2UhWyseq_XQ4LgMSERitzk",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1641150039872?e=1660176000&v=beta&t=7oBuSlBADx5Wlhpk0zPvmqylf7mCAXKoZCgdpg3P1fU",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQG462R7oF2taw/company-logo_"
+                        }
+                    },
+                    "universalName": "udemy-online-courses-learn-anything",
+                    "dashCompanyUrn": "urn:li:fsd_company:36169837",
+                    "trackingId": "hn39JJblShCfaBuO5qlkyQ=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:36169837"
+            },
+            {
+                "authority": "LinkedIn",
+                "name": "SQL for Non-Programmers",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 5,
+                        "year": 2022
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:1337",
+                    "entityUrn": "urn:li:fs_miniCompany:1337",
+                    "name": "LinkedIn",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1638831589865?e=1660176000&v=beta&t=BLQftLy0Qs0EBVJIuWPMuAUeYUwk2NFkGV64ugXQRGo",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1638831589865?e=1660176000&v=beta&t=x5azEgZkHPR5MQHKe-JAU7OCpzuevGQIN2iQzEXm7FA",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1638831589865?e=1660176000&v=beta&t=4ByckqnOSGF1jY0ieSfxachmGJ0dfUy8ErhiMjGS9p8",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_"
+                        }
+                    },
+                    "universalName": "linkedin",
+                    "dashCompanyUrn": "urn:li:fsd_company:1337",
+                    "trackingId": "0g3BhjK5QUiguBUGOUaxrw=="
+                },
+                "displaySource": "linkedin.com",
+                "companyUrn": "urn:li:fs_miniCompany:1337",
+                "url": "https://www.linkedin.com/learning/certificates/5cfee09007474d7a32177c53b070e758e601220ecf421e8f28a4add93b089b85"
+            }
+        ],
+        "volunteer": [],
+        "honors": [],
+        "projects": []
+    },
+    "contact_info": {
+        "email_address": null,
+        "websites": [],
+        "twitter": [],
+        "birthdate": null,
+        "ims": null,
+        "phone_numbers": []
+    },
+    "connections": [
+        {
+            "urn_id": "ACoAABr4jt0BoOUmisITdRo1gR4CumG5I4jjZIw",
+            "distance": "DISTANCE_1",
+            "public_id": "samudra-deka-911659107",
+            "tracking_id": "452497117"
+        },
+        {
+            "urn_id": "ACoAADZmR9QB1zOH_PmrzQQw2wQmTJRTcNGU7CE",
+            "distance": "DISTANCE_1",
+            "public_id": "bkalita",
+            "tracking_id": "912672724"
+        },
+        {
+            "urn_id": "ACoAADLJzxsBizdB0nN5NZBCM41Q-z6-7ef5gyI",
+            "distance": "DISTANCE_1",
+            "public_id": "deepjyoti-kalita-78b4411b9",
+            "tracking_id": "852086555"
+        },
+        {
+            "urn_id": "ACoAADe3CFYBsoFdtSEajXbg51HDagdpBEb3kx4",
+            "distance": "DISTANCE_1",
+            "public_id": "binud-panging-872062221",
+            "tracking_id": "934742102"
+        },
+        {
+            "urn_id": "ACoAAC2aUPYBGPB-T9xDu2Hjrq7OgzRPu5nTvyE",
+            "distance": "DISTANCE_1",
+            "public_id": "jintudas",
+            "tracking_id": "765087990"
+        },
+        {
+            "urn_id": "ACoAACT67ZEBgw1Aprl8Aqy8zWMavdTyaWs7J3w",
+            "distance": "DISTANCE_1",
+            "public_id": "titikshya-das-015942153",
+            "tracking_id": "620424593"
+        },
+        {
+            "urn_id": "ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE",
+            "distance": "DISTANCE_1",
+            "public_id": "prithoo11335",
+            "tracking_id": "231212168"
+        },
+        {
+            "urn_id": "ACoAACr0GSwBcmPDh22HqivG9h0JwG-eahXSYW8",
+            "distance": "DISTANCE_1",
+            "public_id": "nihar-kashyap98",
+            "tracking_id": "720640300"
+        },
+        {
+            "urn_id": "ACoAACeXhGEBEVCUXmKi5rowUSeFZNerPjvzQsc",
+            "distance": "DISTANCE_1",
+            "public_id": "mahbubul-haque-a55552166",
+            "tracking_id": "664241249"
+        },
+        {
+            "urn_id": "ACoAACbTg-gBtT_YqZc-FG2lIVBv13QTx8UUB8E",
+            "distance": "DISTANCE_1",
+            "public_id": "mridul24",
+            "tracking_id": "651396072"
+        },
+        {
+            "urn_id": "ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY",
+            "distance": "DISTANCE_1",
+            "public_id": "tridip-das-b5837911b",
+            "tracking_id": "499568180"
+        },
+        {
+            "urn_id": "ACoAAAI9wXoBijRhLoxf7BO8UTK0DX-7KexJV30",
+            "distance": "DISTANCE_1",
+            "public_id": "boren-ghosh-27671410",
+            "tracking_id": "37601658"
+        },
+        {
+            "urn_id": "ACoAACZxhUQBl1V8kpLj4ACrE2LzpatGvVzEgSA",
+            "distance": "DISTANCE_1",
+            "public_id": "nabajyoti-borah-944000160",
+            "tracking_id": "644973892"
+        },
+        {
+            "urn_id": "ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8",
+            "distance": "DISTANCE_1",
+            "public_id": "sivaranjan-goswami-790b4523",
+            "tracking_id": "83451420"
+        },
+        {
+            "urn_id": "ACoAACDVs-sB_IgxPBMHMRBfR6is3jmwwV_OvTE",
+            "distance": "DISTANCE_1",
+            "public_id": "swapnil-bhattacharjee-ghy",
+            "tracking_id": "550876139"
+        }
+    ],
+    "skills": [
+        {
+            "name": "AutoCAD",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:1024",
+            "standardizedSkill": {
+                "name": "AutoCAD",
+                "entityUrn": "urn:li:fs_miniSkill:1024"
+            }
+        },
+        {
+            "name": "C (Programming Language)",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:438",
+            "standardizedSkill": {
+                "name": "C (Programming Language)",
+                "entityUrn": "urn:li:fs_miniSkill:438"
+            }
+        },
+        {
+            "name": "Computer-Aided Design (CAD)"
+        },
+        {
+            "name": "Microsoft PowerPoint"
+        },
+        {
+            "name": "Microsoft Excel"
+        },
+        {
+            "name": "Staff management "
+        },
+        {
+            "name": "Priority Management"
+        },
+        {
+            "name": "Agile Methodologies"
+        },
+        {
+            "name": "Agile Project Management"
+        },
+        {
+            "name": "Agile & Waterfall Methodologies"
+        },
+        {
+            "name": "Scrum"
+        },
+        {
+            "name": "Project Delivery"
+        },
+        {
+            "name": "Time Management"
+        },
+        {
+            "name": "Project Planning"
+        },
+        {
+            "name": "SQL",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:483",
+            "standardizedSkill": {
+                "name": "SQL",
+                "entityUrn": "urn:li:fs_miniSkill:483"
+            }
+        }
+    ]
+}

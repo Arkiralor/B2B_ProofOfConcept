@@ -1,0 +1,799 @@
+{
+    "profile": {
+        "summary": "\u258cBug Hunter \u258c Programmer \u258c Passion for Tech \u258c Enthusiastic \u258c Quick Learner \u258c",
+        "lastName": "Reddy",
+        "student": false,
+        "geoCountryName": "India",
+        "geoCountryUrn": "urn:li:fs_geo:102713980",
+        "geoLocationBackfilled": false,
+        "elt": true,
+        "birthDate": {
+            "month": 1,
+            "day": 10
+        },
+        "firstName": "U.Kiran vas",
+        "entityUrn": "urn:li:fs_profile:ACoAABUBXz0BizgMXlJTYzmuRzgjT-g6TjoDi-4",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:105556991"
+        },
+        "geoLocationName": "Hyderabad, Telangana",
+        "location": {
+            "basicLocation": {
+                "countryCode": "in"
+            }
+        },
+        "headline": "Python & Data Analysis Enthusiast looking for opportunity.",
+        "displayPictureUrl": "https://media-exp1.licdn.com/dms/image/C5603AQHSn7xaV8u-Wg/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/0/1598810624314?e=1657756800&v=beta&t=3baIzZPHzwiruJ4jc2wXWNEKDbHMHrj-mFlPbfGFMQs",
+        "img_200_200": "200_200/0/1598810624314?e=1657756800&v=beta&t=t9K_M4gaUaOFl5YlsXiMQfJbIWUOVXEpPjRy3j72bSg",
+        "img_400_400": "400_400/0/1598810624314?e=1657756800&v=beta&t=4ZW32RQ40WpjOkmvafcbBsKjyO0z6WAU57X37wz4jvU",
+        "img_800_800": "800_800/0/1598810624314?e=1657756800&v=beta&t=Mk-OeQWme8kqE72znkN73nYTyxrKW06FtHg21KoQZ7s",
+        "profile_id": "ACoAABUBXz0BizgMXlJTYzmuRzgjT-g6TjoDi-4",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAABUBXz0BizgMXlJTYzmuRzgjT-g6TjoDi-4",
+        "member_urn": "urn:li:member:352411453",
+        "experience": [
+            {
+                "locationName": "Guwahati, Assam",
+                "entityUrn": "urn:li:fs_position:(ACoAABUBXz0BizgMXlJTYzmuRzgjT-g6TjoDi-4,1621428531)",
+                "geoLocationName": "Guwahati, Assam",
+                "geoUrn": "urn:li:fs_geo:105607401",
+                "companyName": "TechVariable",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2018
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2018
+                    }
+                },
+                "description": "Learned about Data Science. \nHow data can be used for future predictions.\n\nDeveloped a DataScience Web Tool using Flask to simplify the work of Data Wrangling + Visualization ( minimal ) to learn what the data consists of.\n\nCan raise question in related to two/three columns for visualization , feature extractions, correlation coef functions etc etc by simply clicking on buttons.\n\nLink is in my project section, please have a look and suggest for betterment.\n",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Data Science Intern",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:10632640",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQE6IzKHUZQmAA/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAABUBXz0BizgMXlJTYzmuRzgjT-g6TjoDi-4,385824890)",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2018
+                    },
+                    "startDate": {
+                        "year": 2016
+                    }
+                },
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100176",
+                "degreeName": "Master of Computer Applications (MCA)",
+                "schoolName": "COTTON UNIVERSITY",
+                "fieldOfStudy": "Information Technology",
+                "degreeUrn": "urn:li:fs_degree:594"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAABUBXz0BizgMXlJTYzmuRzgjT-g6TjoDi-4,348769917)",
+                "activities": "Programming, Web technology, Computer Application.\nProject in \"Employee Registration System\" (GUI) Coded in Python Programming Language 2.7 & 3.2 and compiled in both Win's & Linux.",
+                "grade": "65%",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2015
+                    },
+                    "startDate": {
+                        "year": 2013
+                    }
+                },
+                "degreeName": "Bachelor of Computer Application (BCA)",
+                "schoolName": "Sikkim Manipal University",
+                "fieldOfStudy": "Information Technology"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAABUBXz0BizgMXlJTYzmuRzgjT-g6TjoDi-4,348768737)",
+                "activities": "Programming, DTP, Internet",
+                "grade": "B Grade",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2012
+                    }
+                },
+                "degreeName": "DOEACC 'O' LEVEL",
+                "schoolName": "National Institute of Electronics and Information Technology (NIELIT)",
+                "fieldOfStudy": "Information Technology"
+            }
+        ],
+        "languages": [
+            {
+                "name": "Assamese",
+                "proficiency": "ELEMENTARY"
+            },
+            {
+                "name": "English",
+                "proficiency": "ELEMENTARY"
+            },
+            {
+                "name": "Hindi",
+                "proficiency": "ELEMENTARY"
+            },
+            {
+                "name": "Telugu",
+                "proficiency": "ELEMENTARY"
+            },
+            {
+                "name": "bengali",
+                "proficiency": "ELEMENTARY"
+            }
+        ],
+        "publications": [],
+        "certifications": [
+            {
+                "authority": "IBM",
+                "name": "Data Science Foundations - Level 1",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 5,
+                        "year": 2020
+                    }
+                },
+                "displaySource": "youracclaim.com",
+                "url": "https://www.youracclaim.com/badges/ca67a153-626e-4ad2-a4b0-aa9116c4b2ec/linked_in_profile"
+            },
+            {
+                "authority": "Cognitive Class",
+                "name": "Data Science Hands-On with Open Source Tools",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 5,
+                        "year": 2020
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:18063035",
+                    "entityUrn": "urn:li:fs_miniCompany:18063035",
+                    "name": "Cognitive Class",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1584553487571?e=1660176000&v=beta&t=WqiJXjeFjkCB8Iwb1GBjkeeSFjEJZcVvnlkyXZ9EuL8",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1584553487571?e=1660176000&v=beta&t=UMCb_V_dzZNMjNrMO7dDzOauZFZN3LjXeG9t72b38kY",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1584553487571?e=1660176000&v=beta&t=kK1kDzsmrsJvd3zSEi7fU176LgslRwz7HsXY0MZx5Rs",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQEX7g0rTXKKKw/company-logo_"
+                        }
+                    },
+                    "universalName": "cognitiveclass",
+                    "dashCompanyUrn": "urn:li:fsd_company:18063035",
+                    "trackingId": "1J9o2f3FRKat2qah5EPqHg=="
+                },
+                "displaySource": "cognitiveclass.ai",
+                "companyUrn": "urn:li:fs_miniCompany:18063035",
+                "url": "https://courses.cognitiveclass.ai/certificates/006969de3aa74a5d83ce8d1a98bc93bf"
+            },
+            {
+                "authority": "HackerRank",
+                "name": "Python (Basic)",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 9,
+                        "year": 2020
+                    }
+                },
+                "licenseNumber": "e8d461a09bf2",
+                "company": {
+                    "objectUrn": "urn:li:company:435210",
+                    "entityUrn": "urn:li:fs_miniCompany:435210",
+                    "name": "HackerRank",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1641202397642?e=1660176000&v=beta&t=Ix11l-5N4KcRtRth48ZPACX6rW1IZzJoWzAy9_4bxo4",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1641202397642?e=1660176000&v=beta&t=1wEUWwbPAJE5oClfZksATmGN7fbvC3TkUOx8x6dlOFE",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1641202397642?e=1660176000&v=beta&t=7yI0595xh0aic_daPziBqKaN35HhJqHMSSzx5NCGEwg",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHneWLNCPQgDA/company-logo_"
+                        }
+                    },
+                    "universalName": "hackerrank",
+                    "dashCompanyUrn": "urn:li:fsd_company:435210",
+                    "trackingId": "rZ5lgAq8T2CZnY3CYyZZgg=="
+                },
+                "displaySource": "hackerrank.com",
+                "companyUrn": "urn:li:fs_miniCompany:435210",
+                "url": "https://www.hackerrank.com/certificates/e8d461a09bf2"
+            },
+            {
+                "authority": "HackerRank",
+                "name": "Python (Intermediate)",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 9,
+                        "year": 2020
+                    }
+                },
+                "licenseNumber": "6226622be1e6",
+                "company": {
+                    "objectUrn": "urn:li:company:435210",
+                    "entityUrn": "urn:li:fs_miniCompany:435210",
+                    "name": "HackerRank",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1641202397642?e=1660176000&v=beta&t=Ix11l-5N4KcRtRth48ZPACX6rW1IZzJoWzAy9_4bxo4",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1641202397642?e=1660176000&v=beta&t=1wEUWwbPAJE5oClfZksATmGN7fbvC3TkUOx8x6dlOFE",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1641202397642?e=1660176000&v=beta&t=7yI0595xh0aic_daPziBqKaN35HhJqHMSSzx5NCGEwg",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHneWLNCPQgDA/company-logo_"
+                        }
+                    },
+                    "universalName": "hackerrank",
+                    "dashCompanyUrn": "urn:li:fsd_company:435210",
+                    "trackingId": "EbKUmUrnT+GHzZSKGuRZsQ=="
+                },
+                "displaySource": "hackerrank.com",
+                "companyUrn": "urn:li:fs_miniCompany:435210",
+                "url": "https://www.hackerrank.com/certificates/6226622be1e6"
+            },
+            {
+                "authority": "Kaggle",
+                "name": "Introduction to Programming Using Python",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 9,
+                        "year": 2020
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:1061689",
+                    "entityUrn": "urn:li:fs_miniCompany:1061689",
+                    "name": "Kaggle",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1519900543144?e=1660176000&v=beta&t=yQF3QnaFSHc_fUhPTSM_yET-F4LHFyd5Y-_cFIAaM7Q",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1519900543144?e=1660176000&v=beta&t=Bz4sYF-LjWuJwjCYp40L9pyJ6xQi5PZXaZAWpcbthP4",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1519900543144?e=1660176000&v=beta&t=uK1RpiTgtaWynB1QFtXjdcJ4wZ8Jiii4GgJpgzohm64",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQGbmegZ9h1otw/company-logo_"
+                        }
+                    },
+                    "universalName": "kaggle",
+                    "dashCompanyUrn": "urn:li:fsd_company:1061689",
+                    "trackingId": "UyJ26H7rRUqFCRV8I/z2pA=="
+                },
+                "displaySource": "kaggle.com",
+                "companyUrn": "urn:li:fs_miniCompany:1061689",
+                "url": "https://www.kaggle.com/learn/certification/kiranreddyrebel/python"
+            }
+        ],
+        "volunteer": [],
+        "honors": [],
+        "projects": [
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "U.Kiran vas",
+                            "lastName": "Reddy",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABUBXz0BizgMXlJTYzmuRzgjT-g6TjoDi-4",
+                            "occupation": "Python & Data Analysis Enthusiast looking for opportunity.",
+                            "objectUrn": "urn:li:member:352411453",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABUBXz0BizgMXlJTYzmuRzgjT-g6TjoDi-4",
+                            "publicIdentifier": "kiranreddyrebel",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1598810624314?e=1657756800&v=beta&t=3baIzZPHzwiruJ4jc2wXWNEKDbHMHrj-mFlPbfGFMQs",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1598810624314?e=1657756800&v=beta&t=t9K_M4gaUaOFl5YlsXiMQfJbIWUOVXEpPjRy3j72bSg",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1598810624314?e=1657756800&v=beta&t=4ZW32RQ40WpjOkmvafcbBsKjyO0z6WAU57X37wz4jvU",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1598810624314?e=1657756800&v=beta&t=Mk-OeQWme8kqE72znkN73nYTyxrKW06FtHg21KoQZ7s",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5603AQHSn7xaV8u-Wg/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "0sM3F/6qTFG2j9fvSOuBvg=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABUBXz0BizgMXlJTYzmuRzgjT-g6TjoDi-4,1078839894,265414017)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABUBXz0BizgMXlJTYzmuRzgjT-g6TjoDi-4"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 3,
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2019
+                    }
+                },
+                "description": "Project on Disease Prediction based on Symptoms by U.Kiran vas Reddy\n\n1. Dataset taken from this link ( http://people.dbmi.columbia.edu/~friedma/Projects/DiseaseSymptomKB/index.html )\n\n2. Created dataset/cleaned using Python.\n\n3. Notebook RMD used to show the insights and Prediction (single symptom to check) disease.\n\nShiny App created for quick check for disease by symptoms.\n\nhttps://kiranreddyrebel.shinyapps.io/Disease_symptoms_project/\n\nCheck github for model. Click star if you like it.",
+                "title": "Disease Prediction based on Symptoms",
+                "url": "https://github.com/kiranreddyrebel/CDAC_BigData_Course_Project"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "U.Kiran vas",
+                            "lastName": "Reddy",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABUBXz0BizgMXlJTYzmuRzgjT-g6TjoDi-4",
+                            "occupation": "Python & Data Analysis Enthusiast looking for opportunity.",
+                            "objectUrn": "urn:li:member:352411453",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABUBXz0BizgMXlJTYzmuRzgjT-g6TjoDi-4",
+                            "publicIdentifier": "kiranreddyrebel",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1598810624314?e=1657756800&v=beta&t=3baIzZPHzwiruJ4jc2wXWNEKDbHMHrj-mFlPbfGFMQs",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1598810624314?e=1657756800&v=beta&t=t9K_M4gaUaOFl5YlsXiMQfJbIWUOVXEpPjRy3j72bSg",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1598810624314?e=1657756800&v=beta&t=4ZW32RQ40WpjOkmvafcbBsKjyO0z6WAU57X37wz4jvU",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1598810624314?e=1657756800&v=beta&t=Mk-OeQWme8kqE72znkN73nYTyxrKW06FtHg21KoQZ7s",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5603AQHSn7xaV8u-Wg/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "0sM3F/6qTFG2j9fvSOuBvg=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABUBXz0BizgMXlJTYzmuRzgjT-g6TjoDi-4,1508192249,269082204)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABUBXz0BizgMXlJTYzmuRzgjT-g6TjoDi-4"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 7,
+                        "year": 2018
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2018
+                    }
+                },
+                "description": "Developed a DataScience Web Tool using Flask to simplify the work of Data Wrangling + Visualization ( minimal ) to learn what the data consists of.\n\nCan raise question in related to two/three columns for visualization , feature extractions, correlation coef functions etc etc by simply clicking on buttons.\n\nLink is in my project section, please have a look and suggest for betterment.\n",
+                "title": "Data Science Made Simple Visualization Tool ( FINAL PROJECT )",
+                "url": "https://github.com/kiranreddyrebel/project"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "U.Kiran vas",
+                            "lastName": "Reddy",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABUBXz0BizgMXlJTYzmuRzgjT-g6TjoDi-4",
+                            "occupation": "Python & Data Analysis Enthusiast looking for opportunity.",
+                            "objectUrn": "urn:li:member:352411453",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABUBXz0BizgMXlJTYzmuRzgjT-g6TjoDi-4",
+                            "publicIdentifier": "kiranreddyrebel",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1598810624314?e=1657756800&v=beta&t=3baIzZPHzwiruJ4jc2wXWNEKDbHMHrj-mFlPbfGFMQs",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1598810624314?e=1657756800&v=beta&t=t9K_M4gaUaOFl5YlsXiMQfJbIWUOVXEpPjRy3j72bSg",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1598810624314?e=1657756800&v=beta&t=4ZW32RQ40WpjOkmvafcbBsKjyO0z6WAU57X37wz4jvU",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1598810624314?e=1657756800&v=beta&t=Mk-OeQWme8kqE72znkN73nYTyxrKW06FtHg21KoQZ7s",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5603AQHSn7xaV8u-Wg/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "0sM3F/6qTFG2j9fvSOuBvg=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABUBXz0BizgMXlJTYzmuRzgjT-g6TjoDi-4,1508531866,198683124)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABUBXz0BizgMXlJTYzmuRzgjT-g6TjoDi-4"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 11,
+                        "year": 2017
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2017
+                    }
+                },
+                "description": "\"Student Information System\" GUI developed using Python 2.x , 3.x to store student's information details  connected to MySQL Server. It helps in minimizing the paper work of storing students forms (details).",
+                "title": "Student Information System  ( Minor Project )",
+                "url": "https://github.com/kiranreddyrebel/minorproject"
+            },
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "U.Kiran vas",
+                            "lastName": "Reddy",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABUBXz0BizgMXlJTYzmuRzgjT-g6TjoDi-4",
+                            "occupation": "Python & Data Analysis Enthusiast looking for opportunity.",
+                            "objectUrn": "urn:li:member:352411453",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABUBXz0BizgMXlJTYzmuRzgjT-g6TjoDi-4",
+                            "publicIdentifier": "kiranreddyrebel",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1598810624314?e=1657756800&v=beta&t=3baIzZPHzwiruJ4jc2wXWNEKDbHMHrj-mFlPbfGFMQs",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1598810624314?e=1657756800&v=beta&t=t9K_M4gaUaOFl5YlsXiMQfJbIWUOVXEpPjRy3j72bSg",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1598810624314?e=1657756800&v=beta&t=4ZW32RQ40WpjOkmvafcbBsKjyO0z6WAU57X37wz4jvU",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1598810624314?e=1657756800&v=beta&t=Mk-OeQWme8kqE72znkN73nYTyxrKW06FtHg21KoQZ7s",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5603AQHSn7xaV8u-Wg/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "0sM3F/6qTFG2j9fvSOuBvg=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABUBXz0BizgMXlJTYzmuRzgjT-g6TjoDi-4,1508724750,196331844)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABUBXz0BizgMXlJTYzmuRzgjT-g6TjoDi-4"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2015
+                    },
+                    "startDate": {
+                        "year": 2015
+                    }
+                },
+                "title": "Employee Registration System"
+            }
+        ]
+    },
+    "contact_info": {
+        "email_address": null,
+        "websites": [],
+        "twitter": [],
+        "birthdate": {
+            "month": 1,
+            "day": 10
+        },
+        "ims": null,
+        "phone_numbers": []
+    },
+    "connections": [
+        {
+            "urn_id": "ACoAAC24GToBKzC8vS7jZaCEqoq3Jse_M2Tson8",
+            "distance": "DISTANCE_1",
+            "public_id": "abhijit-paul-936a68194",
+            "tracking_id": "767039802"
+        },
+        {
+            "urn_id": "ACoAAByhqogBLFVDJbqojrVMhtKfC3o3hRfEcjg",
+            "distance": "DISTANCE_1",
+            "public_id": "biki-talukdar-460a54114",
+            "tracking_id": "480357000"
+        },
+        {
+            "urn_id": "ACoAABr4jt0BoOUmisITdRo1gR4CumG5I4jjZIw",
+            "distance": "DISTANCE_1",
+            "public_id": "samudra-deka-911659107",
+            "tracking_id": "452497117"
+        },
+        {
+            "urn_id": "ACoAADZmR9QB1zOH_PmrzQQw2wQmTJRTcNGU7CE",
+            "distance": "DISTANCE_1",
+            "public_id": "bkalita",
+            "tracking_id": "912672724"
+        },
+        {
+            "urn_id": "ACoAADLJzxsBizdB0nN5NZBCM41Q-z6-7ef5gyI",
+            "distance": "DISTANCE_1",
+            "public_id": "deepjyoti-kalita-78b4411b9",
+            "tracking_id": "852086555"
+        },
+        {
+            "urn_id": "ACoAADe3CFYBsoFdtSEajXbg51HDagdpBEb3kx4",
+            "distance": "DISTANCE_1",
+            "public_id": "binud-panging-872062221",
+            "tracking_id": "934742102"
+        },
+        {
+            "urn_id": "ACoAAC2aUPYBGPB-T9xDu2Hjrq7OgzRPu5nTvyE",
+            "distance": "DISTANCE_1",
+            "public_id": "jintudas",
+            "tracking_id": "765087990"
+        },
+        {
+            "urn_id": "ACoAACT67ZEBgw1Aprl8Aqy8zWMavdTyaWs7J3w",
+            "distance": "DISTANCE_1",
+            "public_id": "titikshya-das-015942153",
+            "tracking_id": "620424593"
+        },
+        {
+            "urn_id": "ACoAAAjgx0kBxJoPu_7t3kS1NbDizQekjIIzMbE",
+            "distance": "DISTANCE_1",
+            "public_id": "lakheswar-nath-289a7141",
+            "tracking_id": "148948809"
+        },
+        {
+            "urn_id": "ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE",
+            "distance": "DISTANCE_1",
+            "public_id": "prithoo11335",
+            "tracking_id": "231212168"
+        },
+        {
+            "urn_id": "ACoAACr0GSwBcmPDh22HqivG9h0JwG-eahXSYW8",
+            "distance": "DISTANCE_1",
+            "public_id": "nihar-kashyap98",
+            "tracking_id": "720640300"
+        },
+        {
+            "urn_id": "ACoAACeXhGEBEVCUXmKi5rowUSeFZNerPjvzQsc",
+            "distance": "DISTANCE_1",
+            "public_id": "mahbubul-haque-a55552166",
+            "tracking_id": "664241249"
+        },
+        {
+            "urn_id": "ACoAACzP6KMBcLKqKnFRpIudaukkoW4NoqstgrM",
+            "distance": "DISTANCE_1",
+            "public_id": "pranit-prakash-sahu",
+            "tracking_id": "751823011"
+        },
+        {
+            "urn_id": "ACoAACbTg-gBtT_YqZc-FG2lIVBv13QTx8UUB8E",
+            "distance": "DISTANCE_1",
+            "public_id": "mridul24",
+            "tracking_id": "651396072"
+        },
+        {
+            "urn_id": "ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY",
+            "distance": "DISTANCE_1",
+            "public_id": "tridip-das-b5837911b",
+            "tracking_id": "499568180"
+        },
+        {
+            "urn_id": "ACoAAAI9wXoBijRhLoxf7BO8UTK0DX-7KexJV30",
+            "distance": "DISTANCE_1",
+            "public_id": "boren-ghosh-27671410",
+            "tracking_id": "37601658"
+        },
+        {
+            "urn_id": "ACoAACZxhUQBl1V8kpLj4ACrE2LzpatGvVzEgSA",
+            "distance": "DISTANCE_1",
+            "public_id": "nabajyoti-borah-944000160",
+            "tracking_id": "644973892"
+        },
+        {
+            "urn_id": "ACoAABYq8T8ByHFGBUFRrHT5iKBI2u4YZjTLHFc",
+            "distance": "DISTANCE_1",
+            "public_id": "netranjit-borgohain-53b677a4",
+            "tracking_id": "371913023"
+        },
+        {
+            "urn_id": "ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8",
+            "distance": "DISTANCE_1",
+            "public_id": "sivaranjan-goswami-790b4523",
+            "tracking_id": "83451420"
+        },
+        {
+            "urn_id": "ACoAACTFIIYB1cK_syRcCXEc0o8RTm4JMlhYcHA",
+            "distance": "DISTANCE_1",
+            "public_id": "arun-kumar-nath-686721152",
+            "tracking_id": "616898694"
+        },
+        {
+            "urn_id": "ACoAAC4efLABFBv0f30-SDGDgLSf1gXTlkpJTfc",
+            "distance": "DISTANCE_1",
+            "public_id": "shawan-mandal",
+            "tracking_id": "773749936"
+        },
+        {
+            "urn_id": "ACoAACDVs-sB_IgxPBMHMRBfR6is3jmwwV_OvTE",
+            "distance": "DISTANCE_1",
+            "public_id": "swapnil-bhattacharjee-ghy",
+            "tracking_id": "550876139"
+        },
+        {
+            "urn_id": "ACoAACUEZ3QB2Xm0OWR0cqoc_u-o4KW_OENO1_8",
+            "distance": "DISTANCE_1",
+            "public_id": "rajan-sahu",
+            "tracking_id": "621045620"
+        },
+        {
+            "urn_id": "ACoAAC12ZqEBCx9JN_YIi1eF1FPPDif3mXI3fyc",
+            "distance": "DISTANCE_1",
+            "public_id": "abinash-panigrahi-169531193",
+            "tracking_id": "762734241"
+        },
+        {
+            "urn_id": "ACoAACYmrvgBRdvWxItbY_KP_fyrEgZ9U-QKJqk",
+            "distance": "DISTANCE_1",
+            "public_id": "rtsu",
+            "tracking_id": "640069368"
+        },
+        {
+            "urn_id": "ACoAADRMKTMBj76XTPRfB9R5rvfwNOXP2n93n4c",
+            "distance": "DISTANCE_1",
+            "public_id": "manash-deka-497a12205",
+            "tracking_id": "877406515"
+        },
+        {
+            "urn_id": "ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc",
+            "distance": "DISTANCE_1",
+            "public_id": "ratnadeep-bhattacharjee",
+            "tracking_id": "135079003"
+        },
+        {
+            "urn_id": "ACoAAAR5v8MBjPwCvp8TP9RWZyGSeNYNiJ1wKJE",
+            "distance": "DISTANCE_1",
+            "public_id": "nilotpal-boruah",
+            "tracking_id": "75087811"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Data Analysis"
+        },
+        {
+            "name": "Information Security"
+        },
+        {
+            "name": "MySQL"
+        },
+        {
+            "name": "PHP"
+        },
+        {
+            "name": "SQL"
+        },
+        {
+            "name": "Python (Programming Language)"
+        },
+        {
+            "name": "Quick Learner"
+        }
+    ]
+}

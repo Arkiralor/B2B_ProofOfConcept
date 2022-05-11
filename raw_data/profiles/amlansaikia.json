@@ -1,0 +1,1274 @@
+{
+    "profile": {
+        "summary": "Desire to drive a change based on innovation.",
+        "industryName": "IT Services and IT Consulting",
+        "lastName": "Saikia",
+        "locationName": "India",
+        "student": false,
+        "geoCountryName": "India",
+        "geoCountryUrn": "urn:li:fs_geo:102713980",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "industryUrn": "urn:li:fs_industry:96",
+        "firstName": "Amlan",
+        "entityUrn": "urn:li:fs_profile:ACoAACLst9YBW3S-RUI-IdBYy_ONRXQKVcAYu-w",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:105607401"
+        },
+        "geoLocationName": "Guwahati, Assam",
+        "location": {
+            "basicLocation": {
+                "countryCode": "in"
+            }
+        },
+        "headline": "Project Scientist at Assam Science Technology & Environment Council\n(Assam Remote Sensing Application Centre)",
+        "displayPictureUrl": "https://media-exp1.licdn.com/dms/image/C5603AQFYJKNl6aQCWw/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/0/1590409364824?e=1657756800&v=beta&t=s1Z05fRiQcnJcz8IuUEFl9YRDNJRtfSP8ZJuv6dWgJU",
+        "img_200_200": "200_200/0/1590409364824?e=1657756800&v=beta&t=l-5XXG2PbMa-aps39GYTlXhDtprVURwOJROfy3BOcVQ",
+        "img_400_400": "400_400/0/1590409364824?e=1657756800&v=beta&t=UUGB936T9uivOmlq2GaKMLxQfMOBYs380Dn8KSB3QJE",
+        "img_800_800": "800_800/0/1590409364824?e=1657756800&v=beta&t=eILmUni5sGUQCm_Z4Q8V9p9Wpio1ANi5a7HWHpEU00U",
+        "profile_id": "ACoAACLst9YBW3S-RUI-IdBYy_ONRXQKVcAYu-w",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAACLst9YBW3S-RUI-IdBYy_ONRXQKVcAYu-w",
+        "member_urn": "urn:li:member:585938902",
+        "experience": [
+            {
+                "locationName": "Guwahati Area, India",
+                "entityUrn": "urn:li:fs_position:(ACoAACLst9YBW3S-RUI-IdBYy_ONRXQKVcAYu-w,1053696422)",
+                "$anti_abuse_metadata": {
+                    "/geoUrn": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:585938902"
+                        }
+                    },
+                    "/companyName": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:585938902"
+                        }
+                    },
+                    "/companyUrn": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:585938902"
+                        }
+                    },
+                    "/entityUrn": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:585938902"
+                        }
+                    },
+                    "/geoLocationName": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:585938902"
+                        }
+                    },
+                    "/promotion": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:585938902"
+                        }
+                    },
+                    "/title": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:585938902"
+                        }
+                    },
+                    "/region": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:585938902"
+                        }
+                    },
+                    "/locationName": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:585938902"
+                        }
+                    },
+                    "/description": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:585938902"
+                        }
+                    }
+                },
+                "geoLocationName": "Guwahati Area, India",
+                "geoUrn": "urn:li:fs_geo:104535556",
+                "companyName": "Assam Science Technology & Environment Council",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 8,
+                        "year": 2017
+                    }
+                },
+                "description": "AUG 2017 - JUN 2018\n\u25cf Developed WEB GIS application for BHUVAN STATE NODE under ARSAC division\n\nJUL 2018 - MAR 2019\n\u25cf Requirement Analysis towards development of CRIME GIS\n\u25cf Application prototyping for CRIME GIS\n\u25cf DATA ETL for CCTNS (Crime Criminal Tracking Network System) data\n\u25cf Python model building for GEO-CODING physical address\n\u25cf Development of WEBGIS app with Leaflet mapping library and D3 visualization\n\nAPR 2019 - MAR 2020\n\u25cf Exploring WEB DATA SCRAPING with Python\n\u25cf Building Python model, ECI,Govt of India web app, \"Know Your Polling Station\" Data Scraper\n\u25cf Draft of SRS for Development of WEB GIS based Gaon Panchayat Resource Information System\n\u25cf Development of Land Parcel Information System for Directorate of Town & Country Planning, Assam\n\u25cf WEB GIS app prototype demonstration for Rashtriya Uchchatar Shiksha Abhiyan, Assam\n\nAPR 2020 - FEB 2021\n\u25cf COVID-19, Assam Police in the Service of Humanity\n - Development of e-Service for Assam Police to maintain a web enabled database with reference to humanitarian support provided to the citizens across the state in terms of  food, medical, transportation, funerals and even food for stray animals along with an interactive dashboard to help officials from the department visualize the quantum of effort in the aforementioned activities\n\n\u25cf Development and deployment of RUSA GIS (Deptt. of Higher Education, Govt. of Assam)\n\u25cf Development of GAON PANCHAYAT RESOURCE INFORMATION SYSTEM (GPRIS)\n\u25cf Development of CRIME GIS, E-GOVERNANCE APPLICATION",
+                "title": "Project Scientist",
+                "region": "urn:li:fs_region:(in,7248)"
+            },
+            {
+                "locationName": "Guwahati Area, India",
+                "entityUrn": "urn:li:fs_position:(ACoAACLst9YBW3S-RUI-IdBYy_ONRXQKVcAYu-w,1011302603)",
+                "geoLocationName": "Guwahati Area, India",
+                "geoUrn": "urn:li:fs_geo:104535556",
+                "companyName": "BoldTek India Pvt Ltd",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 8,
+                        "year": 2017
+                    },
+                    "startDate": {
+                        "month": 11,
+                        "year": 2016
+                    }
+                },
+                "description": "\u25cf Visualization with D3 js\n\u25cf Rapid web prototyping and leveraging web-tech skills to build in-house HRMS application\n\u25cf Exploring BIG DATA technologies (HADOOP PLATFORM)\n\u25cf Business Logic Development for GARY COMMUNITY INVESTMENT\n\u25cf Data ETL for GARY COMMUNITY INVESTMENT",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 51,
+                        "end": 200
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Application Developer",
+                "region": "urn:li:fs_region:(in,7248)",
+                "companyUrn": "urn:li:fs_miniCompany:13203328",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQH1HCrJR_fyNA/company-logo_"
+            },
+            {
+                "locationName": "Guwahati Area, India",
+                "entityUrn": "urn:li:fs_position:(ACoAACLst9YBW3S-RUI-IdBYy_ONRXQKVcAYu-w,1011311104)",
+                "geoLocationName": "Guwahati Area, India",
+                "geoUrn": "urn:li:fs_geo:104535556",
+                "companyName": "TechVariable",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 10,
+                        "year": 2016
+                    },
+                    "startDate": {
+                        "month": 7,
+                        "year": 2016
+                    }
+                },
+                "description": "Development of a student centric portal facilitating uploading and safe store-keeping of student relevant documents for future use.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Project Intern",
+                "region": "urn:li:fs_region:(in,7248)",
+                "companyUrn": "urn:li:fs_miniCompany:10632640",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQE6IzKHUZQmAA/company-logo_"
+            },
+            {
+                "locationName": "Guwahati Area, India",
+                "entityUrn": "urn:li:fs_position:(ACoAACLst9YBW3S-RUI-IdBYy_ONRXQKVcAYu-w,1011312999)",
+                "$anti_abuse_metadata": {
+                    "/geoUrn": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:585938902"
+                        }
+                    },
+                    "/companyName": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:585938902"
+                        }
+                    },
+                    "/companyUrn": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:585938902"
+                        }
+                    },
+                    "/entityUrn": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:585938902"
+                        }
+                    },
+                    "/geoLocationName": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:585938902"
+                        }
+                    },
+                    "/promotion": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:585938902"
+                        }
+                    },
+                    "/title": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:585938902"
+                        }
+                    },
+                    "/region": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:585938902"
+                        }
+                    },
+                    "/locationName": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:585938902"
+                        }
+                    },
+                    "/description": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:585938902"
+                        }
+                    }
+                },
+                "geoLocationName": "Guwahati Area, India",
+                "geoUrn": "urn:li:fs_geo:104535556",
+                "companyName": "HCL CDC",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 7,
+                        "year": 2014
+                    },
+                    "startDate": {
+                        "month": 4,
+                        "year": 2014
+                    }
+                },
+                "description": "Development of a web application using HTML, CSS, PHP and SQL to deliver information regarding availability of Assamese books for the sole purpose of retail.",
+                "title": "Internship Project",
+                "region": "urn:li:fs_region:(in,7248)"
+            }
+        ],
+        "education": [
+            {
+                "courses": [
+                    "urn:li:fs_course:(ACoAACLst9YBW3S-RUI-IdBYy_ONRXQKVcAYu-w,1300716683)",
+                    "urn:li:fs_course:(ACoAACLst9YBW3S-RUI-IdBYy_ONRXQKVcAYu-w,1300759232)",
+                    "urn:li:fs_course:(ACoAACLst9YBW3S-RUI-IdBYy_ONRXQKVcAYu-w,1300802645)",
+                    "urn:li:fs_course:(ACoAACLst9YBW3S-RUI-IdBYy_ONRXQKVcAYu-w,1300821951)",
+                    "urn:li:fs_course:(ACoAACLst9YBW3S-RUI-IdBYy_ONRXQKVcAYu-w,1300851346)",
+                    "urn:li:fs_course:(ACoAACLst9YBW3S-RUI-IdBYy_ONRXQKVcAYu-w,1300868842)",
+                    "urn:li:fs_course:(ACoAACLst9YBW3S-RUI-IdBYy_ONRXQKVcAYu-w,1300886897)",
+                    "urn:li:fs_course:(ACoAACLst9YBW3S-RUI-IdBYy_ONRXQKVcAYu-w,1300907259)",
+                    "urn:li:fs_course:(ACoAACLst9YBW3S-RUI-IdBYy_ONRXQKVcAYu-w,1300931058)"
+                ],
+                "entityUrn": "urn:li:fs_education:(ACoAACLst9YBW3S-RUI-IdBYy_ONRXQKVcAYu-w,658345467)",
+                "school": {
+                    "objectUrn": "urn:li:school:489005",
+                    "entityUrn": "urn:li:fs_miniSchool:489005",
+                    "active": true,
+                    "schoolName": "Indian Institute of Technology Jodhpur",
+                    "trackingId": "4cmAd1xeQduK/Ep2Ltm1FQ==",
+                    "logoUrl": "https://media-exp1.licdn.com/dms/image/C510BAQHv-yIwmkOqcg/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "year": 2020
+                    }
+                },
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100175",
+                "degreeName": "Master of Technology - MTech",
+                "schoolName": "Indian Institute of Technology Jodhpur",
+                "fieldOfStudy": "Artificial Intelligence",
+                "degreeUrn": "urn:li:fs_degree:584",
+                "schoolUrn": "urn:li:fs_miniSchool:489005"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAACLst9YBW3S-RUI-IdBYy_ONRXQKVcAYu-w,425789536)",
+                "school": {
+                    "objectUrn": "urn:li:school:13476",
+                    "entityUrn": "urn:li:fs_miniSchool:13476",
+                    "active": true,
+                    "schoolName": "Gauhati University",
+                    "trackingId": "TIy2rAn2TFygeCix27mZWg==",
+                    "logoUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQE_SHDG7RHWLg/company-logo_"
+                },
+                "activities": "Robotics Club, Training&Placement",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2016
+                    },
+                    "startDate": {
+                        "year": 2012
+                    }
+                },
+                "degreeName": "B.E",
+                "schoolName": "Gauhati University",
+                "fieldOfStudy": "Computer Science and Engineering",
+                "degreeUrn": "urn:li:fs_degree:200",
+                "schoolUrn": "urn:li:fs_miniSchool:13476"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAACLst9YBW3S-RUI-IdBYy_ONRXQKVcAYu-w,439461267)",
+                "school": {
+                    "objectUrn": "urn:li:school:203464",
+                    "entityUrn": "urn:li:fs_miniSchool:203464",
+                    "active": true,
+                    "schoolName": "Darrang College",
+                    "trackingId": "fV98OXR8S0mzvpcrvT8f/A=="
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2012
+                    },
+                    "startDate": {
+                        "year": 2010
+                    }
+                },
+                "degreeName": "Higher Secondary",
+                "schoolName": "Darrang College",
+                "fieldOfStudy": "Science",
+                "schoolUrn": "urn:li:fs_miniSchool:203464"
+            }
+        ],
+        "languages": [
+            {
+                "name": "Assamese",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "English",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "Hindi",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ],
+        "publications": [
+            {
+                "date": {
+                    "month": 2,
+                    "year": 2019,
+                    "day": 1
+                },
+                "name": "STUDY OF CHANGE IN WATER LEVEL AND DEVELOPMENT OF INTERACTIVE GIS DASHBOARD FOR THE RAMSAR SITE DEEPOR BEEL USING SPACE TECHNOLOGY AND PYTHON",
+                "publisher": "Notion Press",
+                "description": "Paper titled \u201cSTUDY OF CHANGE IN WATER LEVEL AND DEVELOPMENT OF INTERACTIVE GIS DASHBOARD FOR THE RAMSAR SITE \u2018DEEPOR BEEL\u2019 USING SPACE TECHNOLOGY AND PYTHON SCRIPT\u201d published in the book titled, \"Harnessing Wetlands for Sustainable Livelihood\", First Published by Notion Press 2019Copyright \u00a9 Cotton University 2019All Rights Reserved. ISBN978-1-68466-656-0",
+                "url": "https://notionpress.com/read/harnessing-wetlands-for-sustainable-livelihood",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Amlan",
+                            "lastName": "Saikia",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACLst9YBW3S-RUI-IdBYy_ONRXQKVcAYu-w",
+                            "occupation": "Project Scientist at Assam Science Technology & Environment Council (Assam Remote Sensing Application Centre)",
+                            "objectUrn": "urn:li:member:585938902",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACLst9YBW3S-RUI-IdBYy_ONRXQKVcAYu-w",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1517823107507?e=1657756800&v=beta&t=Uv3yF5uC4NY7vnCWY6yVAl528Tu8KU7K2jlLTUlqj5I",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1517823107507?e=1657756800&v=beta&t=UvlIVlqLyx1ZkISweMhvTmWuZvDszwH_YV3qrx9ueRg",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D16AQEpsaa2FbGzmg/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "amlansaikia",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1590409364824?e=1657756800&v=beta&t=s1Z05fRiQcnJcz8IuUEFl9YRDNJRtfSP8ZJuv6dWgJU",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1590409364824?e=1657756800&v=beta&t=l-5XXG2PbMa-aps39GYTlXhDtprVURwOJROfy3BOcVQ",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1590409364824?e=1657756800&v=beta&t=UUGB936T9uivOmlq2GaKMLxQfMOBYs380Dn8KSB3QJE",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1590409364824?e=1657756800&v=beta&t=eILmUni5sGUQCm_Z4Q8V9p9Wpio1ANi5a7HWHpEU00U",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5603AQFYJKNl6aQCWw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "NOoxffR8Q1awBICqLSsdCg=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACLst9YBW3S-RUI-IdBYy_ONRXQKVcAYu-w"
+                    },
+                    {
+                        "member": {
+                            "firstName": "mustak",
+                            "lastName": "Ali",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAA5kemQBALkVu3GIFBcVJzF_JR9QEGFCC68",
+                            "occupation": "Project Scientist at Assam Science Technology And Environment Council",
+                            "objectUrn": "urn:li:member:241465956",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAA5kemQBALkVu3GIFBcVJzF_JR9QEGFCC68",
+                            "publicIdentifier": "mustak-ali-2b0a4968",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1517408364481?e=1657756800&v=beta&t=8cfGhik8z8Ep7Lv89Krh3gGUZTYNlsSbXkNv84s8168",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1517408364481?e=1657756800&v=beta&t=_FETkfROLmgxcgqEmB5NeJ7g2GpPKly9t3U-2DFM0dY",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1517408364481?e=1657756800&v=beta&t=Q2nPVEfyRdXsboU2X-PPH_ZUOYYQPhJ71TXmKlbB-Tg",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1517408364481?e=1657756800&v=beta&t=LMhh316t3jSYFEV2DllKN0cdhVyByTsqLMCHjAYXGmY",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5603AQG0YYi-Qex3SA/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "tU9l+ZUEQZmSA69JENljkw=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAA5kemQBALkVu3GIFBcVJzF_JR9QEGFCC68"
+                    }
+                ]
+            },
+            {
+                "date": {
+                    "month": 8,
+                    "year": 2018,
+                    "day": 1
+                },
+                "name": "Jaro Winkler Fuzzy match algorithm to calculate a similarity index between two strings using open source platform",
+                "publisher": "INTERNATIONAL JOURNAL FOR INNOVATIVE RESEARCH IN MULTIDISCIPLINARY FIELD ",
+                "description": "In geospatial domain data structure plays an important role as they are the core component\nfor analysis. In real life situation, data need to be acquired from various sources and hence\ncompatibility, standardization of data structure is a limitation.\n\nOne instance encountered during a project life-cycle catalyzed our work to find for better and an effective solution, finally paving the way for a nearly neat model.",
+                "url": "http://www.ijirmf.com/volume-4-issue-8-published-in-aug-2018/",
+                "authors": [
+                    {
+                        "member": {
+                            "firstName": "Amlan",
+                            "lastName": "Saikia",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACLst9YBW3S-RUI-IdBYy_ONRXQKVcAYu-w",
+                            "occupation": "Project Scientist at Assam Science Technology & Environment Council (Assam Remote Sensing Application Centre)",
+                            "objectUrn": "urn:li:member:585938902",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACLst9YBW3S-RUI-IdBYy_ONRXQKVcAYu-w",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1517823107507?e=1657756800&v=beta&t=Uv3yF5uC4NY7vnCWY6yVAl528Tu8KU7K2jlLTUlqj5I",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1517823107507?e=1657756800&v=beta&t=UvlIVlqLyx1ZkISweMhvTmWuZvDszwH_YV3qrx9ueRg",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D16AQEpsaa2FbGzmg/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "amlansaikia",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1590409364824?e=1657756800&v=beta&t=s1Z05fRiQcnJcz8IuUEFl9YRDNJRtfSP8ZJuv6dWgJU",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1590409364824?e=1657756800&v=beta&t=l-5XXG2PbMa-aps39GYTlXhDtprVURwOJROfy3BOcVQ",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1590409364824?e=1657756800&v=beta&t=UUGB936T9uivOmlq2GaKMLxQfMOBYs380Dn8KSB3QJE",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1590409364824?e=1657756800&v=beta&t=eILmUni5sGUQCm_Z4Q8V9p9Wpio1ANi5a7HWHpEU00U",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5603AQFYJKNl6aQCWw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "NOoxffR8Q1awBICqLSsdCg=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACLst9YBW3S-RUI-IdBYy_ONRXQKVcAYu-w"
+                    },
+                    {
+                        "member": {
+                            "firstName": "mustak",
+                            "lastName": "Ali",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAA5kemQBALkVu3GIFBcVJzF_JR9QEGFCC68",
+                            "occupation": "Project Scientist at Assam Science Technology And Environment Council",
+                            "objectUrn": "urn:li:member:241465956",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAA5kemQBALkVu3GIFBcVJzF_JR9QEGFCC68",
+                            "publicIdentifier": "mustak-ali-2b0a4968",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1517408364481?e=1657756800&v=beta&t=8cfGhik8z8Ep7Lv89Krh3gGUZTYNlsSbXkNv84s8168",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1517408364481?e=1657756800&v=beta&t=_FETkfROLmgxcgqEmB5NeJ7g2GpPKly9t3U-2DFM0dY",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1517408364481?e=1657756800&v=beta&t=Q2nPVEfyRdXsboU2X-PPH_ZUOYYQPhJ71TXmKlbB-Tg",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1517408364481?e=1657756800&v=beta&t=LMhh316t3jSYFEV2DllKN0cdhVyByTsqLMCHjAYXGmY",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5603AQG0YYi-Qex3SA/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "tU9l+ZUEQZmSA69JENljkw=="
+                        },
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAA5kemQBALkVu3GIFBcVJzF_JR9QEGFCC68"
+                    }
+                ]
+            }
+        ],
+        "certifications": [
+            {
+                "authority": "IBM Cognitive Class",
+                "name": "Hadoop Foundations - Level 1",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 6,
+                        "year": 2017
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:18063035",
+                    "entityUrn": "urn:li:fs_miniCompany:18063035",
+                    "name": "Cognitive Class",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1584553487571?e=1660176000&v=beta&t=WqiJXjeFjkCB8Iwb1GBjkeeSFjEJZcVvnlkyXZ9EuL8",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1584553487571?e=1660176000&v=beta&t=UMCb_V_dzZNMjNrMO7dDzOauZFZN3LjXeG9t72b38kY",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1584553487571?e=1660176000&v=beta&t=kK1kDzsmrsJvd3zSEi7fU176LgslRwz7HsXY0MZx5Rs",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQEX7g0rTXKKKw/company-logo_"
+                        }
+                    },
+                    "universalName": "cognitiveclass",
+                    "dashCompanyUrn": "urn:li:fsd_company:18063035",
+                    "trackingId": "cehLXlwORXmzLNDceO0ltw=="
+                },
+                "displaySource": "cognitiveclass.ai",
+                "companyUrn": "urn:li:fs_miniCompany:18063035",
+                "url": "https://courses.cognitiveclass.ai/certificates/18dc2dfedd7b438d8cbb9368a47515c8"
+            },
+            {
+                "authority": "IBM Cognitive Class",
+                "name": "Big Data Foundations - Level 1 ",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 7,
+                        "year": 2017
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:18063035",
+                    "entityUrn": "urn:li:fs_miniCompany:18063035",
+                    "name": "Cognitive Class",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1584553487571?e=1660176000&v=beta&t=WqiJXjeFjkCB8Iwb1GBjkeeSFjEJZcVvnlkyXZ9EuL8",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1584553487571?e=1660176000&v=beta&t=UMCb_V_dzZNMjNrMO7dDzOauZFZN3LjXeG9t72b38kY",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1584553487571?e=1660176000&v=beta&t=kK1kDzsmrsJvd3zSEi7fU176LgslRwz7HsXY0MZx5Rs",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQEX7g0rTXKKKw/company-logo_"
+                        }
+                    },
+                    "universalName": "cognitiveclass",
+                    "dashCompanyUrn": "urn:li:fsd_company:18063035",
+                    "trackingId": "NOtmJUXOQ+W4QWzemxHFMg=="
+                },
+                "displaySource": "cognitiveclass.ai",
+                "companyUrn": "urn:li:fs_miniCompany:18063035",
+                "url": "https://courses.cognitiveclass.ai/certificates/ad0b68efc53b47b296ee6418313b7306"
+            },
+            {
+                "authority": "Udemy",
+                "name": "Internet Mapping with Geoserver, Postgres, and Openlayers",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 10,
+                        "year": 2017
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:822535",
+                    "entityUrn": "urn:li:fs_miniCompany:822535",
+                    "name": "Udemy",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1626275253364?e=1660176000&v=beta&t=hNmtDdN4pnwTuJsDQsvaI2SOIkRq2BCrfWF7YKlNaM4",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1626275253364?e=1660176000&v=beta&t=bZ9FL43L79ghc74x71A2lY51dAogHCVQKWAZH1-YcuM",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1626275253364?e=1660176000&v=beta&t=7EyDsPVIShmG1t96OAsrJK6AWUi0vObIpIVqPL4hc6E",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQFQr9e68bBOPQ/company-logo_"
+                        }
+                    },
+                    "universalName": "udemy",
+                    "dashCompanyUrn": "urn:li:fsd_company:822535",
+                    "trackingId": "ILsiOS1nR9a40YZgJ/ASbA=="
+                },
+                "displaySource": "ude.my",
+                "companyUrn": "urn:li:fs_miniCompany:822535",
+                "url": "http://ude.my/UC-O9BRNACK"
+            },
+            {
+                "authority": "Cognitive Class",
+                "name": "Introduction to Data Science, DS0101EN",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 4,
+                        "year": 2019
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:18063035",
+                    "entityUrn": "urn:li:fs_miniCompany:18063035",
+                    "name": "Cognitive Class",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1584553487571?e=1660176000&v=beta&t=WqiJXjeFjkCB8Iwb1GBjkeeSFjEJZcVvnlkyXZ9EuL8",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1584553487571?e=1660176000&v=beta&t=UMCb_V_dzZNMjNrMO7dDzOauZFZN3LjXeG9t72b38kY",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1584553487571?e=1660176000&v=beta&t=kK1kDzsmrsJvd3zSEi7fU176LgslRwz7HsXY0MZx5Rs",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQEX7g0rTXKKKw/company-logo_"
+                        }
+                    },
+                    "universalName": "cognitiveclass",
+                    "dashCompanyUrn": "urn:li:fsd_company:18063035",
+                    "trackingId": "e1F1g87AR6ira3qeCCRYdg=="
+                },
+                "displaySource": "cognitiveclass.ai",
+                "companyUrn": "urn:li:fs_miniCompany:18063035",
+                "url": "https://courses.cognitiveclass.ai/certificates/7922dc26844046a595700c0c82e15e27"
+            },
+            {
+                "authority": "Cognitive Class",
+                "name": "Data Science Hands-On with Open Source Tools, DS0105EN",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 4,
+                        "year": 2019
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:18063035",
+                    "entityUrn": "urn:li:fs_miniCompany:18063035",
+                    "name": "Cognitive Class",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1584553487571?e=1660176000&v=beta&t=WqiJXjeFjkCB8Iwb1GBjkeeSFjEJZcVvnlkyXZ9EuL8",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1584553487571?e=1660176000&v=beta&t=UMCb_V_dzZNMjNrMO7dDzOauZFZN3LjXeG9t72b38kY",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1584553487571?e=1660176000&v=beta&t=kK1kDzsmrsJvd3zSEi7fU176LgslRwz7HsXY0MZx5Rs",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQEX7g0rTXKKKw/company-logo_"
+                        }
+                    },
+                    "universalName": "cognitiveclass",
+                    "dashCompanyUrn": "urn:li:fsd_company:18063035",
+                    "trackingId": "gd8c6VGyQBqPs8mjF77PgA=="
+                },
+                "displaySource": "cognitiveclass.ai",
+                "companyUrn": "urn:li:fs_miniCompany:18063035",
+                "url": "https://courses.cognitiveclass.ai/certificates/01aeb31c58f843bbb20ba1d4d5972a68"
+            },
+            {
+                "authority": "Cognitive Class",
+                "name": "Data Science Methodology, DS0103EN",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 4,
+                        "year": 2019
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:18063035",
+                    "entityUrn": "urn:li:fs_miniCompany:18063035",
+                    "name": "Cognitive Class",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1584553487571?e=1660176000&v=beta&t=WqiJXjeFjkCB8Iwb1GBjkeeSFjEJZcVvnlkyXZ9EuL8",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1584553487571?e=1660176000&v=beta&t=UMCb_V_dzZNMjNrMO7dDzOauZFZN3LjXeG9t72b38kY",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1584553487571?e=1660176000&v=beta&t=kK1kDzsmrsJvd3zSEi7fU176LgslRwz7HsXY0MZx5Rs",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQEX7g0rTXKKKw/company-logo_"
+                        }
+                    },
+                    "universalName": "cognitiveclass",
+                    "dashCompanyUrn": "urn:li:fsd_company:18063035",
+                    "trackingId": "D2nGrwx3TdewlL4GZX6cEw=="
+                },
+                "displaySource": "cognitiveclass.ai",
+                "companyUrn": "urn:li:fs_miniCompany:18063035",
+                "url": "https://courses.cognitiveclass.ai/certificates/60c94f69ca2a44c0b1de01769274a5f4"
+            },
+            {
+                "authority": "Udemy",
+                "name": "The Full JavaScript and ES6",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 7,
+                        "year": 2019
+                    }
+                },
+                "licenseNumber": "UC-OUGRTXGM",
+                "company": {
+                    "objectUrn": "urn:li:company:822535",
+                    "entityUrn": "urn:li:fs_miniCompany:822535",
+                    "name": "Udemy",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1626275253364?e=1660176000&v=beta&t=hNmtDdN4pnwTuJsDQsvaI2SOIkRq2BCrfWF7YKlNaM4",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1626275253364?e=1660176000&v=beta&t=bZ9FL43L79ghc74x71A2lY51dAogHCVQKWAZH1-YcuM",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1626275253364?e=1660176000&v=beta&t=7EyDsPVIShmG1t96OAsrJK6AWUi0vObIpIVqPL4hc6E",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQFQr9e68bBOPQ/company-logo_"
+                        }
+                    },
+                    "universalName": "udemy",
+                    "dashCompanyUrn": "urn:li:fsd_company:822535",
+                    "trackingId": "TJWMbpUSQ6CEcWXz9iwtag=="
+                },
+                "displaySource": "ude.my",
+                "companyUrn": "urn:li:fs_miniCompany:822535",
+                "url": "http://ude.my/UC-OUGRTXGM"
+            },
+            {
+                "authority": "Esri India",
+                "name": "ArcGIS 3: Performing Analysis",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 6,
+                        "year": 2019
+                    }
+                },
+                "licenseNumber": "00046836-16",
+                "company": {
+                    "objectUrn": "urn:li:company:1985278",
+                    "entityUrn": "urn:li:fs_miniCompany:1985278",
+                    "name": "Esri India",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1550042704324?e=1660176000&v=beta&t=W36SQXlrbwB2u2al2lO9q8nhkgh7e_Sg5fSSA5uYKw0",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1550042704324?e=1660176000&v=beta&t=QmJHq2odK8DatSg05PupNDakgnughdgldhfh_VlirDQ",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1550042704324?e=1660176000&v=beta&t=nBur4deNFFiSDUlTRC8xLQBraodllflFA18dD-8QoLQ",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C510BAQH-bk7Zh3bVTg/company-logo_"
+                        }
+                    },
+                    "universalName": "esriindia",
+                    "dashCompanyUrn": "urn:li:fsd_company:1985278",
+                    "trackingId": "Gmr3J/17S9aWMZhTEGa14A=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:1985278"
+            }
+        ],
+        "volunteer": [
+            {
+                "role": "Fundraising Volunteer",
+                "companyName": "Help Age India",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 5,
+                        "year": 2005
+                    },
+                    "startDate": {
+                        "month": 5,
+                        "year": 2005
+                    }
+                },
+                "cause": "SOCIAL_SERVICES",
+                "description": "Raised funds for Help Age India Annual charity"
+            },
+            {
+                "role": "Fundraising Volunteer",
+                "companyName": "Help Age India",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 5,
+                        "year": 2008
+                    },
+                    "startDate": {
+                        "month": 5,
+                        "year": 2008
+                    }
+                },
+                "cause": "SOCIAL_SERVICES",
+                "description": "Raised annual funds for Help Age India"
+            }
+        ],
+        "honors": [],
+        "projects": []
+    },
+    "contact_info": {
+        "email_address": null,
+        "websites": [],
+        "twitter": [],
+        "birthdate": null,
+        "ims": null,
+        "phone_numbers": []
+    },
+    "connections": [
+        {
+            "urn_id": "ACoAAC24GToBKzC8vS7jZaCEqoq3Jse_M2Tson8",
+            "distance": "DISTANCE_1",
+            "public_id": "abhijit-paul-936a68194",
+            "tracking_id": "767039802"
+        },
+        {
+            "urn_id": "ACoAAByhqogBLFVDJbqojrVMhtKfC3o3hRfEcjg",
+            "distance": "DISTANCE_1",
+            "public_id": "biki-talukdar-460a54114",
+            "tracking_id": "480357000"
+        },
+        {
+            "urn_id": "ACoAABr4jt0BoOUmisITdRo1gR4CumG5I4jjZIw",
+            "distance": "DISTANCE_1",
+            "public_id": "samudra-deka-911659107",
+            "tracking_id": "452497117"
+        },
+        {
+            "urn_id": "ACoAADZmR9QB1zOH_PmrzQQw2wQmTJRTcNGU7CE",
+            "distance": "DISTANCE_1",
+            "public_id": "bkalita",
+            "tracking_id": "912672724"
+        },
+        {
+            "urn_id": "ACoAADLJzxsBizdB0nN5NZBCM41Q-z6-7ef5gyI",
+            "distance": "DISTANCE_1",
+            "public_id": "deepjyoti-kalita-78b4411b9",
+            "tracking_id": "852086555"
+        },
+        {
+            "urn_id": "ACoAADe3CFYBsoFdtSEajXbg51HDagdpBEb3kx4",
+            "distance": "DISTANCE_1",
+            "public_id": "binud-panging-872062221",
+            "tracking_id": "934742102"
+        },
+        {
+            "urn_id": "ACoAAC2aUPYBGPB-T9xDu2Hjrq7OgzRPu5nTvyE",
+            "distance": "DISTANCE_1",
+            "public_id": "jintudas",
+            "tracking_id": "765087990"
+        },
+        {
+            "urn_id": "ACoAACT67ZEBgw1Aprl8Aqy8zWMavdTyaWs7J3w",
+            "distance": "DISTANCE_1",
+            "public_id": "titikshya-das-015942153",
+            "tracking_id": "620424593"
+        },
+        {
+            "urn_id": "ACoAAAjgx0kBxJoPu_7t3kS1NbDizQekjIIzMbE",
+            "distance": "DISTANCE_1",
+            "public_id": "lakheswar-nath-289a7141",
+            "tracking_id": "148948809"
+        },
+        {
+            "urn_id": "ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE",
+            "distance": "DISTANCE_1",
+            "public_id": "prithoo11335",
+            "tracking_id": "231212168"
+        },
+        {
+            "urn_id": "ACoAACr0GSwBcmPDh22HqivG9h0JwG-eahXSYW8",
+            "distance": "DISTANCE_1",
+            "public_id": "nihar-kashyap98",
+            "tracking_id": "720640300"
+        },
+        {
+            "urn_id": "ACoAACeXhGEBEVCUXmKi5rowUSeFZNerPjvzQsc",
+            "distance": "DISTANCE_1",
+            "public_id": "mahbubul-haque-a55552166",
+            "tracking_id": "664241249"
+        },
+        {
+            "urn_id": "ACoAACzP6KMBcLKqKnFRpIudaukkoW4NoqstgrM",
+            "distance": "DISTANCE_1",
+            "public_id": "pranit-prakash-sahu",
+            "tracking_id": "751823011"
+        },
+        {
+            "urn_id": "ACoAACbTg-gBtT_YqZc-FG2lIVBv13QTx8UUB8E",
+            "distance": "DISTANCE_1",
+            "public_id": "mridul24",
+            "tracking_id": "651396072"
+        },
+        {
+            "urn_id": "ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY",
+            "distance": "DISTANCE_1",
+            "public_id": "tridip-das-b5837911b",
+            "tracking_id": "499568180"
+        },
+        {
+            "urn_id": "ACoAAAI9wXoBijRhLoxf7BO8UTK0DX-7KexJV30",
+            "distance": "DISTANCE_1",
+            "public_id": "boren-ghosh-27671410",
+            "tracking_id": "37601658"
+        },
+        {
+            "urn_id": "ACoAACZxhUQBl1V8kpLj4ACrE2LzpatGvVzEgSA",
+            "distance": "DISTANCE_1",
+            "public_id": "nabajyoti-borah-944000160",
+            "tracking_id": "644973892"
+        },
+        {
+            "urn_id": "ACoAABYq8T8ByHFGBUFRrHT5iKBI2u4YZjTLHFc",
+            "distance": "DISTANCE_1",
+            "public_id": "netranjit-borgohain-53b677a4",
+            "tracking_id": "371913023"
+        },
+        {
+            "urn_id": "ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8",
+            "distance": "DISTANCE_1",
+            "public_id": "sivaranjan-goswami-790b4523",
+            "tracking_id": "83451420"
+        },
+        {
+            "urn_id": "ACoAACTFIIYB1cK_syRcCXEc0o8RTm4JMlhYcHA",
+            "distance": "DISTANCE_1",
+            "public_id": "arun-kumar-nath-686721152",
+            "tracking_id": "616898694"
+        },
+        {
+            "urn_id": "ACoAAC4efLABFBv0f30-SDGDgLSf1gXTlkpJTfc",
+            "distance": "DISTANCE_1",
+            "public_id": "shawan-mandal",
+            "tracking_id": "773749936"
+        },
+        {
+            "urn_id": "ACoAACDVs-sB_IgxPBMHMRBfR6is3jmwwV_OvTE",
+            "distance": "DISTANCE_1",
+            "public_id": "swapnil-bhattacharjee-ghy",
+            "tracking_id": "550876139"
+        },
+        {
+            "urn_id": "ACoAACUEZ3QB2Xm0OWR0cqoc_u-o4KW_OENO1_8",
+            "distance": "DISTANCE_1",
+            "public_id": "rajan-sahu",
+            "tracking_id": "621045620"
+        },
+        {
+            "urn_id": "ACoAAC12ZqEBCx9JN_YIi1eF1FPPDif3mXI3fyc",
+            "distance": "DISTANCE_1",
+            "public_id": "abinash-panigrahi-169531193",
+            "tracking_id": "762734241"
+        },
+        {
+            "urn_id": "ACoAACYmrvgBRdvWxItbY_KP_fyrEgZ9U-QKJqk",
+            "distance": "DISTANCE_1",
+            "public_id": "rtsu",
+            "tracking_id": "640069368"
+        },
+        {
+            "urn_id": "ACoAADRMKTMBj76XTPRfB9R5rvfwNOXP2n93n4c",
+            "distance": "DISTANCE_1",
+            "public_id": "manash-deka-497a12205",
+            "tracking_id": "877406515"
+        },
+        {
+            "urn_id": "ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc",
+            "distance": "DISTANCE_1",
+            "public_id": "ratnadeep-bhattacharjee",
+            "tracking_id": "135079003"
+        },
+        {
+            "urn_id": "ACoAAAR5v8MBjPwCvp8TP9RWZyGSeNYNiJ1wKJE",
+            "distance": "DISTANCE_1",
+            "public_id": "nilotpal-boruah",
+            "tracking_id": "75087811"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Python (Programming Language)"
+        },
+        {
+            "name": "D3.js",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:50077",
+            "standardizedSkill": {
+                "name": "D3.js",
+                "entityUrn": "urn:li:fs_miniSkill:50077"
+            }
+        },
+        {
+            "name": "SQL"
+        },
+        {
+            "name": "Project Management"
+        },
+        {
+            "name": "JSON"
+        },
+        {
+            "name": "Bootstrap",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:50099",
+            "standardizedSkill": {
+                "name": "Bootstrap",
+                "entityUrn": "urn:li:fs_miniSkill:50099"
+            }
+        },
+        {
+            "name": "GIT"
+        },
+        {
+            "name": "jQuery",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:1611",
+            "standardizedSkill": {
+                "name": "jQuery",
+                "entityUrn": "urn:li:fs_miniSkill:1611"
+            }
+        },
+        {
+            "name": "Core Java",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:3409",
+            "standardizedSkill": {
+                "name": "Core Java",
+                "entityUrn": "urn:li:fs_miniSkill:3409"
+            }
+        },
+        {
+            "name": "Microsoft Excel",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:163",
+            "standardizedSkill": {
+                "name": "Microsoft Excel",
+                "entityUrn": "urn:li:fs_miniSkill:163"
+            }
+        },
+        {
+            "name": "JavaScript"
+        },
+        {
+            "name": "PostgreSQL"
+        },
+        {
+            "name": "Team Management",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:3517",
+            "standardizedSkill": {
+                "name": "Team Management",
+                "entityUrn": "urn:li:fs_miniSkill:3517"
+            }
+        },
+        {
+            "name": "Leaflet"
+        },
+        {
+            "name": "PHP (procedural)"
+        },
+        {
+            "name": "GIS Application"
+        },
+        {
+            "name": "Machine Learning"
+        },
+        {
+            "name": "Computer Vision"
+        },
+        {
+            "name": "Keras"
+        },
+        {
+            "name": "TensorFlow"
+        },
+        {
+            "name": "Pandas"
+        }
+    ]
+}

@@ -1,0 +1,386 @@
+{
+    "profile": {
+        "summary": "I am a tech enthusiast and have been working in the IT industry since 2013. I was interested in computers since my child hood, and my hobby gradually turned into profession.",
+        "industryName": "IT Services and IT Consulting",
+        "lastName": "Kakati",
+        "student": false,
+        "geoCountryName": "India",
+        "geoCountryUrn": "urn:li:fs_geo:102713980",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "industryUrn": "urn:li:fs_industry:96",
+        "firstName": "Jnyan Ankur",
+        "entityUrn": "urn:li:fs_profile:ACoAAA-ycBcBzBg8Ae9UfanedjTFrnL7wwZIzNs",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:104535556"
+        },
+        "geoLocationName": "Dispur, Assam",
+        "location": {
+            "basicLocation": {
+                "countryCode": "in"
+            }
+        },
+        "headline": ".net & .net core | node.js | angular | react | sql | elastic search | graphql | tech lead | developer",
+        "displayPictureUrl": "https://media-exp1.licdn.com/dms/image/C4E35AQHp4qwz8V1kGA/profile-framedphoto-shrink_",
+        "img_200_200": "200_200/0/1615558540150?e=1652400000&v=beta&t=VqS5CR3Y_yBMeYi1LCsR6WUr79iOYAr-8iN5mi6HrE4",
+        "img_400_400": "400_400/0/1615558540150?e=1652400000&v=beta&t=E0b9N-9j82oegYugGmbTlkjG2jz1uD7Dc0TjLFUB-FY",
+        "img_800_800": "800_800/0/1615558540150?e=1652400000&v=beta&t=LxIVTWNCGvRb1Sm5zfaPZaewRiDAQfWCmQa3uxUy_IQ",
+        "img_100_100": "100_100/0/1615558540150?e=1652400000&v=beta&t=8TGcOpokTJ642pHsbSECBoMxNCjloAR_SigZsRmIzto",
+        "profile_id": "ACoAAA-ycBcBzBg8Ae9UfanedjTFrnL7wwZIzNs",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAAA-ycBcBzBg8Ae9UfanedjTFrnL7wwZIzNs",
+        "member_urn": "urn:li:member:263352343",
+        "experience": [
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAAA-ycBcBzBg8Ae9UfanedjTFrnL7wwZIzNs,1780247029)",
+                "$anti_abuse_metadata": {
+                    "/geoUrn": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:263352343"
+                        }
+                    },
+                    "/companyName": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:263352343"
+                        }
+                    },
+                    "/companyUrn": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:263352343"
+                        }
+                    },
+                    "/entityUrn": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:263352343"
+                        }
+                    },
+                    "/geoLocationName": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:263352343"
+                        }
+                    },
+                    "/promotion": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:263352343"
+                        }
+                    },
+                    "/title": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:263352343"
+                        }
+                    },
+                    "/region": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:263352343"
+                        }
+                    },
+                    "/locationName": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:263352343"
+                        }
+                    },
+                    "/description": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:263352343"
+                        }
+                    }
+                },
+                "companyName": "Freelance",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 5,
+                        "year": 2021
+                    }
+                },
+                "title": "Full Stack Developer"
+            },
+            {
+                "locationName": "Guwahati, India",
+                "entityUrn": "urn:li:fs_position:(ACoAAA-ycBcBzBg8Ae9UfanedjTFrnL7wwZIzNs,1200899164)",
+                "geoLocationName": "Guwahati, India",
+                "companyName": "TechVariable",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 4,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2018
+                    }
+                },
+                "description": "Assigned as a programmer analyst, i have been working on platforms like angularjs, reactjs, wpf, vsto .net, nodejs, elastic search, chart and graph tools, mysql, neo4j database on various applications which includes jovian's plm365, datascience application, microsoft office customization etc.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Programmer Analyst",
+                "companyUrn": "urn:li:fs_miniCompany:10632640",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQE6IzKHUZQmAA/company-logo_"
+            },
+            {
+                "locationName": "Guwahati",
+                "entityUrn": "urn:li:fs_position:(ACoAAA-ycBcBzBg8Ae9UfanedjTFrnL7wwZIzNs,828703685)",
+                "geoLocationName": "Guwahati",
+                "companyName": "Princeton IT Services, Inc (We are hiring!)",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2017
+                    },
+                    "startDate": {
+                        "month": 5,
+                        "year": 2016
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Systems Analyst",
+                "companyUrn": "urn:li:fs_miniCompany:716360",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQGYhz5t5kKYHA/company-logo_"
+            },
+            {
+                "locationName": "Bangalore",
+                "entityUrn": "urn:li:fs_position:(ACoAAA-ycBcBzBg8Ae9UfanedjTFrnL7wwZIzNs,776796081)",
+                "geoLocationName": "Bangalore",
+                "companyName": "CGI",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 4,
+                        "year": 2016
+                    },
+                    "startDate": {
+                        "month": 12,
+                        "year": 2013
+                    }
+                },
+                "description": "",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Associate Software Engineer",
+                "companyUrn": "urn:li:fs_miniCompany:1415",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQHZ1xlZk1tObA/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAA-ycBcBzBg8Ae9UfanedjTFrnL7wwZIzNs,164265698)",
+                "school": {
+                    "objectUrn": "urn:li:school:13414",
+                    "entityUrn": "urn:li:fs_miniSchool:13414",
+                    "active": true,
+                    "schoolName": "Annamalai University",
+                    "trackingId": "6t98dSg4QNm1Q+QyAMFTwA==",
+                    "logoUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQHZRy0vAUsH8w/company-logo_"
+                },
+                "grade": "First class with distinction",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2012
+                    },
+                    "startDate": {
+                        "year": 2008
+                    }
+                },
+                "degreeName": "Bachelor of Engineering (B.E.)",
+                "schoolName": "Annamalai University",
+                "fieldOfStudy": "Computer Science and Engineering",
+                "schoolUrn": "urn:li:fs_miniSchool:13414"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAA-ycBcBzBg8Ae9UfanedjTFrnL7wwZIzNs,330729652)",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2008
+                    },
+                    "startDate": {
+                        "year": 2006
+                    }
+                },
+                "description": "Assam Higher Secondary Education Council",
+                "degreeName": "12th",
+                "schoolName": "B.H.College",
+                "fieldOfStudy": "Science"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAA-ycBcBzBg8Ae9UfanedjTFrnL7wwZIzNs,330728905)",
+                "activities": "Fun Fun Fun",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2006
+                    },
+                    "startDate": {
+                        "year": 2000
+                    }
+                },
+                "degreeName": "10th",
+                "schoolName": "Marian School",
+                "fieldOfStudy": "Books"
+            }
+        ],
+        "languages": [],
+        "publications": [],
+        "certifications": [],
+        "volunteer": [],
+        "honors": [],
+        "projects": []
+    },
+    "contact_info": {
+        "email_address": null,
+        "websites": [],
+        "twitter": [],
+        "birthdate": null,
+        "ims": null,
+        "phone_numbers": []
+    },
+    "connections": [
+        {
+            "urn_id": "ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY",
+            "distance": "DISTANCE_1",
+            "public_id": "tridip-das-b5837911b",
+            "tracking_id": "499568180"
+        },
+        {
+            "urn_id": "ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8",
+            "distance": "DISTANCE_1",
+            "public_id": "sivaranjan-goswami-790b4523",
+            "tracking_id": "83451420"
+        }
+    ],
+    "skills": [
+        {
+            "name": ".NET"
+        },
+        {
+            "name": "ASP.NET MVC"
+        },
+        {
+            "name": "C#"
+        },
+        {
+            "name": "WCF"
+        },
+        {
+            "name": "KnockoutJS"
+        },
+        {
+            "name": "AngularJS"
+        },
+        {
+            "name": "Microsoft SQL Server"
+        },
+        {
+            "name": "Web Services"
+        },
+        {
+            "name": "JavaScript"
+        },
+        {
+            "name": "Bootstrap"
+        },
+        {
+            "name": "D3.js"
+        },
+        {
+            "name": "ASP.NET"
+        },
+        {
+            "name": "Arduino"
+        },
+        {
+            "name": "Windows Server"
+        },
+        {
+            "name": "C",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:438",
+            "standardizedSkill": {
+                "name": "C (Programming Language)",
+                "entityUrn": "urn:li:fs_miniSkill:438"
+            }
+        },
+        {
+            "name": "SQL",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:483",
+            "standardizedSkill": {
+                "name": "SQL",
+                "entityUrn": "urn:li:fs_miniSkill:483"
+            }
+        },
+        {
+            "name": "HTML",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:280",
+            "standardizedSkill": {
+                "name": "HTML",
+                "entityUrn": "urn:li:fs_miniSkill:280"
+            }
+        },
+        {
+            "name": "Microsoft Office",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:366",
+            "standardizedSkill": {
+                "name": "Microsoft Office",
+                "entityUrn": "urn:li:fs_miniSkill:366"
+            }
+        },
+        {
+            "name": "Windows",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:494",
+            "standardizedSkill": {
+                "name": "Windows",
+                "entityUrn": "urn:li:fs_miniSkill:494"
+            }
+        },
+        {
+            "name": "Programming",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:698",
+            "standardizedSkill": {
+                "name": "Programming",
+                "entityUrn": "urn:li:fs_miniSkill:698"
+            }
+        },
+        {
+            "name": "Windows Presentation Foundation (WPF)"
+        },
+        {
+            "name": "VSTO"
+        },
+        {
+            "name": "Node.js"
+        },
+        {
+            "name": "ElasticSearch"
+        },
+        {
+            "name": "Angular"
+        },
+        {
+            "name": "Xamarin"
+        },
+        {
+            "name": "Apache Cordova"
+        },
+        {
+            "name": "MSSQL"
+        },
+        {
+            "name": "Visual Studio"
+        }
+    ]
+}

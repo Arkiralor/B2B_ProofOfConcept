@@ -1,0 +1,343 @@
+{
+    "profile": {
+        "industryName": "IT Services and IT Consulting",
+        "lastName": "Choudhury",
+        "locationName": "India",
+        "student": false,
+        "geoCountryName": "India",
+        "geoCountryUrn": "urn:li:fs_geo:102713980",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "industryUrn": "urn:li:fs_industry:96",
+        "firstName": "Harjyoti",
+        "entityUrn": "urn:li:fs_profile:ACoAABqmoWwBBBfWD3d5djZIsYBeBceWszHY-VE",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:105607401"
+        },
+        "geoLocationName": "Guwahati, Assam",
+        "location": {
+            "basicLocation": {
+                "countryCode": "in"
+            }
+        },
+        "headline": "UI and WordPress Developer full-time freelancer ",
+        "displayPictureUrl": "https://media-exp1.licdn.com/dms/image/C5603AQF1-G6bOdZn0Q/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/0/1527870868989?e=1657756800&v=beta&t=koouYkS187tQXmgkvuS989IJn7XC79BJ719PPHyyoAs",
+        "img_200_200": "200_200/0/1527870868989?e=1657756800&v=beta&t=2KtPQ58T5rBdlIu7H-SW4HOCWSMJIMYSxrFgZ95kP1w",
+        "img_400_400": "400_400/0/1527870868989?e=1657756800&v=beta&t=OTfoOnof6QAHU1uMgIcti7YU1B-Gi3do-RsZzBY2U9c",
+        "img_800_800": "800_800/0/1527870868989?e=1657756800&v=beta&t=kwB2zUd9aZnYYQB6w4lcigrCroeLst5A0P0sGUfVw-g",
+        "profile_id": "ACoAABqmoWwBBBfWD3d5djZIsYBeBceWszHY-VE",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAABqmoWwBBBfWD3d5djZIsYBeBceWszHY-VE",
+        "member_urn": "urn:li:member:447127916",
+        "experience": [
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAABqmoWwBBBfWD3d5djZIsYBeBceWszHY-VE,1910417796)",
+                "companyName": "Flexday Solutions LLC",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 5,
+                        "year": 2020
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Software Developer",
+                "companyUrn": "urn:li:fs_miniCompany:74234365",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQH9yfeo_CFGrw/company-logo_"
+            },
+            {
+                "locationName": "Bangalore Urban, Karnataka, India",
+                "entityUrn": "urn:li:fs_position:(ACoAABqmoWwBBBfWD3d5djZIsYBeBceWszHY-VE,1898348396)",
+                "geoLocationName": "Bangalore Urban, Karnataka, India",
+                "geoUrn": "urn:li:fs_geo:112376381",
+                "companyName": "Leokraft Technologies",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 5,
+                        "year": 2021
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Software Developer",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:75671563",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHRky1eNqw5AA/company-logo_"
+            },
+            {
+                "locationName": "Guwahati Area, India",
+                "entityUrn": "urn:li:fs_position:(ACoAABqmoWwBBBfWD3d5djZIsYBeBceWszHY-VE,1323663897)",
+                "geoLocationName": "Guwahati Area, India",
+                "geoUrn": "urn:li:fs_geo:104535556",
+                "companyName": "Self-Employed",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 1,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 5,
+                        "year": 2018
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 2,
+                        "end": 10
+                    },
+                    "industries": [
+                        "Venture Capital & Private Equity"
+                    ]
+                },
+                "title": "UI Developer and WordPress Developer",
+                "region": "urn:li:fs_region:(in,7248)",
+                "companyUrn": "urn:li:fs_miniCompany:18215534",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C560BAQH3Wh-aQGfZ4g/company-logo_"
+            },
+            {
+                "locationName": "Guwahati Area, India",
+                "entityUrn": "urn:li:fs_position:(ACoAABqmoWwBBBfWD3d5djZIsYBeBceWszHY-VE,1185371520)",
+                "geoLocationName": "Guwahati Area, India",
+                "geoUrn": "urn:li:fs_geo:104535556",
+                "companyName": "TechVariable",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 1,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2018
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Programmer Analyst",
+                "region": "urn:li:fs_region:(in,7248)",
+                "companyUrn": "urn:li:fs_miniCompany:10632640",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQE6IzKHUZQmAA/company-logo_"
+            },
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAABqmoWwBBBfWD3d5djZIsYBeBceWszHY-VE,713323841)",
+                "$anti_abuse_metadata": {
+                    "/geoUrn": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:447127916"
+                        }
+                    },
+                    "/companyName": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:447127916"
+                        }
+                    },
+                    "/companyUrn": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:447127916"
+                        }
+                    },
+                    "/entityUrn": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:447127916"
+                        }
+                    },
+                    "/geoLocationName": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:447127916"
+                        }
+                    },
+                    "/promotion": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:447127916"
+                        }
+                    },
+                    "/title": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:447127916"
+                        }
+                    },
+                    "/region": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:447127916"
+                        }
+                    },
+                    "/locationName": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:447127916"
+                        }
+                    },
+                    "/description": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:447127916"
+                        }
+                    }
+                },
+                "companyName": "Zealopers.LLP",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 1,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 11,
+                        "year": 2015
+                    }
+                },
+                "title": "Zealopers.LLP"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAABqmoWwBBBfWD3d5djZIsYBeBceWszHY-VE,529549839)",
+                "grade": "A",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2015
+                    },
+                    "startDate": {
+                        "year": 2011
+                    }
+                },
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100189",
+                "degreeName": "Bachelor of Engineering - BE",
+                "schoolName": "Institution of Electronics and Telecommunication Engineers",
+                "fieldOfStudy": "Computer Science",
+                "degreeUrn": "urn:li:fs_degree:269"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAABqmoWwBBBfWD3d5djZIsYBeBceWszHY-VE,529549517)",
+                "school": {
+                    "objectUrn": "urn:li:school:208185",
+                    "entityUrn": "urn:li:fs_miniSchool:208185",
+                    "active": true,
+                    "schoolName": "Gauhati University, Guwahati",
+                    "trackingId": "K92htRavStWgaIBk+TP2wA=="
+                },
+                "schoolName": "Gauhati University, Guwahati",
+                "schoolUrn": "urn:li:fs_miniSchool:208185"
+            }
+        ],
+        "languages": [],
+        "publications": [],
+        "certifications": [],
+        "volunteer": [],
+        "honors": [],
+        "projects": []
+    },
+    "contact_info": {
+        "email_address": null,
+        "websites": [],
+        "twitter": [],
+        "birthdate": null,
+        "ims": null,
+        "phone_numbers": []
+    },
+    "connections": [
+        {
+            "urn_id": "ACoAADe3CFYBsoFdtSEajXbg51HDagdpBEb3kx4",
+            "distance": "DISTANCE_1",
+            "public_id": "binud-panging-872062221",
+            "tracking_id": "934742102"
+        },
+        {
+            "urn_id": "ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8",
+            "distance": "DISTANCE_1",
+            "public_id": "sivaranjan-goswami-790b4523",
+            "tracking_id": "83451420"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Photoshop",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:281",
+            "standardizedSkill": {
+                "name": "Adobe Photoshop",
+                "entityUrn": "urn:li:fs_miniSkill:281"
+            }
+        },
+        {
+            "name": "HTML",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:280",
+            "standardizedSkill": {
+                "name": "HTML",
+                "entityUrn": "urn:li:fs_miniSkill:280"
+            }
+        },
+        {
+            "name": "Project Management",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:2269",
+            "standardizedSkill": {
+                "name": "Project Management",
+                "entityUrn": "urn:li:fs_miniSkill:2269"
+            }
+        },
+        {
+            "name": "Social Media",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:559",
+            "standardizedSkill": {
+                "name": "Social Media",
+                "entityUrn": "urn:li:fs_miniSkill:559"
+            }
+        },
+        {
+            "name": "Graphic Design",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:207",
+            "standardizedSkill": {
+                "name": "Graphic Design",
+                "entityUrn": "urn:li:fs_miniSkill:207"
+            }
+        },
+        {
+            "name": "Marketing",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:2461",
+            "standardizedSkill": {
+                "name": "Marketing",
+                "entityUrn": "urn:li:fs_miniSkill:2461"
+            }
+        },
+        {
+            "name": "Microsoft Excel",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:163",
+            "standardizedSkill": {
+                "name": "Microsoft Excel",
+                "entityUrn": "urn:li:fs_miniSkill:163"
+            }
+        },
+        {
+            "name": "Microsoft Word",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:260",
+            "standardizedSkill": {
+                "name": "Microsoft Word",
+                "entityUrn": "urn:li:fs_miniSkill:260"
+            }
+        },
+        {
+            "name": "PowerPoint",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:310",
+            "standardizedSkill": {
+                "name": "Microsoft PowerPoint",
+                "entityUrn": "urn:li:fs_miniSkill:310"
+            }
+        }
+    ]
+}
