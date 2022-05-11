@@ -1,0 +1,1186 @@
+{
+    "profile": {
+        "summary": "My personal mission is to improve the quality of life in India.\n\nI have attempted to do this by working in industries that can bring large scale disruption e.g. mobile, consumer internet and IT in India and the APAC region. My passion for change has helped me to experience and learn by performing various roles like general management, sales, pre-sales, product management and business development.\n\nAlong this journey I have discovered that humility and collaboration are my natural traits. I have leveraged these to influence and empower individuals and teams to achieve their goals. \n\nIn my current role, my responsibility is to create and scale partnerships and programs that enable LinkedIn product teams and businesses to maximize the value that LinkedIn delivers to its members and customers. We help create ecosystem strategies, execute partnerships, and program manage these partnerships and programs.",
+        "industryName": "Internet Publishing",
+        "lastName": "Kapoor",
+        "locationName": "India",
+        "student": false,
+        "geoCountryName": "India",
+        "geoCountryUrn": "urn:li:fs_geo:102713980",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "birthDate": {
+            "month": 2,
+            "day": 20
+        },
+        "industryUrn": "urn:li:fs_industry:6",
+        "firstName": "Sachin",
+        "entityUrn": "urn:li:fs_profile:ACoAAABL0s0BpLM0SE_alingHcps4ZBO9JV9gaI",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:104793846"
+        },
+        "geoLocationName": "Gurgaon, Haryana",
+        "location": {
+            "basicLocation": {
+                "countryCode": "in"
+            }
+        },
+        "headline": "Partnerships@Linkedin, Building Trumsy",
+        "displayPictureUrl": "https://media-exp1.licdn.com/dms/image/D5635AQGygj3xb4C4og/profile-framedphoto-shrink_",
+        "img_200_200": "200_200/0/1638251725901?e=1652400000&v=beta&t=6KXs6KoCF4okTHW0UKhsce74-08DPY9dlr73VRfPhn4",
+        "img_400_400": "400_400/0/1638251725901?e=1652400000&v=beta&t=sIacF4IlVrhFTmhg17yB8GXdfm6h_mX0HFJRBkGh0Mk",
+        "img_800_800": "800_800/0/1638251725901?e=1652400000&v=beta&t=ZZ09jEWNWI8Z1979Kk-L4U1S-sfqcgMz26cCV_f0MwU",
+        "img_100_100": "100_100/0/1638251725901?e=1652400000&v=beta&t=kYa3UBbaS4fyqZ2-Q5KsMbAnbXg26PFp5K2SUpU-UC0",
+        "profile_id": "ACoAAABL0s0BpLM0SE_alingHcps4ZBO9JV9gaI",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAAABL0s0BpLM0SE_alingHcps4ZBO9JV9gaI",
+        "member_urn": "urn:li:member:4969165",
+        "experience": [
+            {
+                "locationName": "Gurgaon, Haryana, India",
+                "entityUrn": "urn:li:fs_position:(ACoAAABL0s0BpLM0SE_alingHcps4ZBO9JV9gaI,1559613476)",
+                "geoLocationName": "Gurgaon, Haryana, India",
+                "companyName": "LinkedIn",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 10,
+                        "year": 2020
+                    }
+                },
+                "description": "Lead partnerships and strategic alliances in APAC. Build and empower a team of high impact deal makers who manage a complex portfolio of Product and Revenue partnerships. Develop BD into a strategic growth tool for Linkedin in APAC. Collaborate with Asia Pacific Cross functional leaders to shape Linkedin strategy and execution.\n\nManage BD for the Linkedin R&D centres in Bangalore and Beijing. Support the product leaders in scaling their products globally via ecosystem strategy, alliances and partnerships. Collaborate with BD leaders in other regions for growth of products developed in Bangalore and Beijing R&D centres.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Internet"
+                    ]
+                },
+                "title": "Senior Director and Head of Business Development, Asia Pacific & China",
+                "companyUrn": "urn:li:fs_miniCompany:1337",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_"
+            },
+            {
+                "locationName": "Gurugram, Haryana, India",
+                "entityUrn": "urn:li:fs_position:(ACoAAABL0s0BpLM0SE_alingHcps4ZBO9JV9gaI,1909217110)",
+                "geoLocationName": "Gurugram, Haryana, India",
+                "geoUrn": "urn:li:fs_geo:115884833",
+                "companyName": "Trumsy",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 1,
+                        "year": 2022
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 2,
+                        "end": 10
+                    },
+                    "industries": [
+                        "Internet"
+                    ]
+                },
+                "title": "Co-Founder",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:78469989",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C560BAQEXfb9HWwd1-A/company-logo_"
+            },
+            {
+                "locationName": "Gurgaon, India",
+                "entityUrn": "urn:li:fs_position:(ACoAAABL0s0BpLM0SE_alingHcps4ZBO9JV9gaI,1449680282)",
+                "geoLocationName": "Gurgaon, India",
+                "companyName": "LinkedIn",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 10,
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "month": 4,
+                        "year": 2019
+                    }
+                },
+                "description": "Manage partnerships and strategic alliances team in APAC. Enable the team to deliver on ecosystem strategy for our business through the region. Develop partner strategies and programs to support product and global solutions teams. Execute and manage deals for consumer or monetisation growth.\n\nLead Global BD (Alliances and partnerships) for two product lines at Linkedin. 1) Lite Platforms 2) Face 2 Face products (Events, Biz Card Scanning, QR Code Scanning and Find Nearby. The Lite platform is a low footprint proposition built for patch products which optimises for quick page load times. The Face 2 Face group of products focus on delivering companion experience to Linkedin users when they interact real time in physical realm.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Internet"
+                    ]
+                },
+                "title": "Director & Head of Business Development - Asia Pacific and Japan",
+                "companyUrn": "urn:li:fs_miniCompany:1337",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_"
+            },
+            {
+                "locationName": "Gurgaon, India",
+                "entityUrn": "urn:li:fs_position:(ACoAAABL0s0BpLM0SE_alingHcps4ZBO9JV9gaI,676276243)",
+                "geoLocationName": "Gurgaon, India",
+                "companyName": "LinkedIn",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 4,
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "month": 4,
+                        "year": 2018
+                    }
+                },
+                "description": "Responsible for alliances and partnerships for Linkedin in India and APAC (excluding China and Japan) \n\nResponsible for Linkedin growth via partnerships; user growth, engagement growth, revenue growth. \n\nAs an integral part of the Linkedin global product organization responsible for working with startups in the talent, edtech, jobs and content space.\n\nLiasoning with Govt ministries and industry bodies like CII, Ficci and Nasscom on helping find economic opportunity for Indians in the workforce. \n\nWorking with established online players in the Jobs, Classified and Content space for mutually beneficial partnerships.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Internet"
+                    ]
+                },
+                "title": "Director & Head of Business Development - India, ANZ, SEA and Hong Kong",
+                "companyUrn": "urn:li:fs_miniCompany:1337",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_"
+            },
+            {
+                "locationName": "Gurgaon, India",
+                "entityUrn": "urn:li:fs_position:(ACoAAABL0s0BpLM0SE_alingHcps4ZBO9JV9gaI,1348115380)",
+                "geoLocationName": "Gurgaon, India",
+                "geoUrn": "urn:li:fs_geo:100899423",
+                "companyName": "LinkedIn",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 3,
+                        "year": 2018
+                    },
+                    "startDate": {
+                        "month": 4,
+                        "year": 2017
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Internet"
+                    ]
+                },
+                "title": "Diector & Head of Business Development - India, South East Asia (SEA) and Hong Kong",
+                "region": "urn:li:fs_region:(in,7391)",
+                "companyUrn": "urn:li:fs_miniCompany:1337",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAABL0s0BpLM0SE_alingHcps4ZBO9JV9gaI,12693753)",
+                "school": {
+                    "objectUrn": "urn:li:school:20488",
+                    "entityUrn": "urn:li:fs_miniSchool:20488",
+                    "active": true,
+                    "schoolName": "Institute of Management Technology, Ghaziabad",
+                    "trackingId": "2bVfOPk+R4+NreO8TVlGHQ==",
+                    "logoUrl": "https://media-exp1.licdn.com/dms/image/C560BAQEzvyPjf92ddw/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2002
+                    },
+                    "startDate": {
+                        "year": 2000
+                    }
+                },
+                "degreeName": "PGDBM",
+                "schoolName": "Institute of Management Technology, Ghaziabad",
+                "fieldOfStudy": "Business Administration and Management, General",
+                "schoolUrn": "urn:li:fs_miniSchool:20488"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAABL0s0BpLM0SE_alingHcps4ZBO9JV9gaI,49232092)",
+                "school": {
+                    "objectUrn": "urn:li:school:3242518",
+                    "entityUrn": "urn:li:fs_miniSchool:3242518",
+                    "active": false,
+                    "schoolName": "Motivational Pathway",
+                    "trackingId": "PhTq4+GOQYCWjcCipWYapQ==",
+                    "logoUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQHCJXLvvO07og/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2000
+                    },
+                    "startDate": {
+                        "year": 1996
+                    }
+                },
+                "description": "Electronics Engineering",
+                "degreeName": "Bachelor of Technology (B.Tech.)",
+                "schoolName": "Uttar Pradesh Technical University",
+                "fieldOfStudy": "Electronics Engineering",
+                "schoolUrn": "urn:li:fs_miniSchool:3242518"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "Hindi",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ],
+        "publications": [],
+        "certifications": [
+            {
+                "authority": "INFORMATION SYSTEMS EXAMINATIONS BOARD LIMITED",
+                "name": "ITIL Foundation",
+                "company": {
+                    "objectUrn": "urn:li:company:8744780",
+                    "entityUrn": "urn:li:fs_miniCompany:8744780",
+                    "name": "INFORMATION SYSTEMS EXAMINATIONS BOARD LIMITED",
+                    "showcase": false,
+                    "active": true,
+                    "universalName": "information-systems-examinations-board-limited",
+                    "dashCompanyUrn": "urn:li:fsd_company:8744780",
+                    "trackingId": "FsftUgodQFeNPmV0uzwTTA=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:8744780"
+            },
+            {
+                "authority": "Indian Institute of Management, Bangalore",
+                "name": "Advanced Management for Executives",
+                "company": {
+                    "objectUrn": "urn:li:company:157273",
+                    "entityUrn": "urn:li:fs_miniCompany:157273",
+                    "name": "Indian Institute of Management Bangalore",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1519878809248?e=1660176000&v=beta&t=T6aYX9mzvPVkCcCXlEzEWf1mLMnoXHsvK3zEoEU22FU",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1519878809248?e=1660176000&v=beta&t=UENMSJdrlyHMFfl7ns2OovoNcVIXjDMMveGttD3v-B4",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1519878809248?e=1660176000&v=beta&t=_-8dwZ8gHjhJaTnrv4s0s-EBCQXkjwsclz79w360OdM",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQE9_gB4L8a6nw/company-logo_"
+                        }
+                    },
+                    "universalName": "indian-institute-of-management-bangalore",
+                    "dashCompanyUrn": "urn:li:fsd_company:157273",
+                    "trackingId": "f20tiIUgRkWuH4hJMtphkQ=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:157273"
+            },
+            {
+                "authority": "Microsoft",
+                "name": "MCSD",
+                "company": {
+                    "objectUrn": "urn:li:company:1035",
+                    "entityUrn": "urn:li:fs_miniCompany:1035",
+                    "name": "Microsoft",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1618231291419?e=1660176000&v=beta&t=27yJqPv6pIHQZJ7374YQ360pPTo1cqgRUiXKAKxaSMQ",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1618231291419?e=1660176000&v=beta&t=BgFcICG5bfnKCU80rrFBl727b7iZksSJL6D2N_G8RFc",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1618231291419?e=1660176000&v=beta&t=vCEjfjDE1ymtqrNDvALKYZgSW5ybZYf9kNIbHQBZous",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQE88xCsONDULQ/company-logo_"
+                        }
+                    },
+                    "universalName": "microsoft",
+                    "dashCompanyUrn": "urn:li:fsd_company:1035",
+                    "trackingId": "D6p+hKLbS06+T2k1xnkljw=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:1035"
+            },
+            {
+                "authority": "Cisco",
+                "name": "CCNP",
+                "company": {
+                    "objectUrn": "urn:li:company:1063",
+                    "entityUrn": "urn:li:fs_miniCompany:1063",
+                    "name": "Cisco",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1650899445917?e=1660176000&v=beta&t=MAzHVWDKFlOK_05GTYllgMe72ZTYZ3VaDSFppnxHf94",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1650899445917?e=1660176000&v=beta&t=Rsb0MPygQopf8m0zwS4JPse8Et9PzkJrBW-uMHy1Tog",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1650899445917?e=1660176000&v=beta&t=Bq_AaE9CPgS3xvILUXSkcqe_pKamn_mZ_0cv0bbxAHw",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQGXKvoATaGJ-w/company-logo_"
+                        }
+                    },
+                    "universalName": "cisco",
+                    "dashCompanyUrn": "urn:li:fsd_company:1063",
+                    "trackingId": "efZreSBsRTyweyBC1T6fNQ=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:1063"
+            },
+            {
+                "authority": "Bureau of Indian Standards",
+                "name": "ISO 9001 Lead Auditor",
+                "company": {
+                    "objectUrn": "urn:li:company:619044",
+                    "entityUrn": "urn:li:fs_miniCompany:619044",
+                    "name": "Bureau of Indian Standards",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1519909590746?e=1660176000&v=beta&t=sQZmQ4NrTLjUclo7hBLdB1OIPnuCldgQC3K7-GNmNhg",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1519909590746?e=1660176000&v=beta&t=aDyUJWIDLgneoRkxc9lgSc2ByGhRx0GSK6_iom74aK8",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1519909590746?e=1660176000&v=beta&t=OL6YrXMOlR51qAf3nmHUegJj5dLPcGlCjB5oKALMM_M",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQF2Rgnj5ZaHlA/company-logo_"
+                        }
+                    },
+                    "universalName": "bureau-of-indian-standards",
+                    "dashCompanyUrn": "urn:li:fsd_company:619044",
+                    "trackingId": "hzx42kGHTMeSocj056RQZg=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:619044"
+            },
+            {
+                "authority": "LinkedIn",
+                "name": "Conscious Business",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 7,
+                        "year": 2014
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:1337",
+                    "entityUrn": "urn:li:fs_miniCompany:1337",
+                    "name": "LinkedIn",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1638831589865?e=1660176000&v=beta&t=BLQftLy0Qs0EBVJIuWPMuAUeYUwk2NFkGV64ugXQRGo",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1638831589865?e=1660176000&v=beta&t=x5azEgZkHPR5MQHKe-JAU7OCpzuevGQIN2iQzEXm7FA",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1638831589865?e=1660176000&v=beta&t=4ByckqnOSGF1jY0ieSfxachmGJ0dfUy8ErhiMjGS9p8",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_"
+                        }
+                    },
+                    "universalName": "linkedin",
+                    "dashCompanyUrn": "urn:li:fsd_company:1337",
+                    "trackingId": "wej3SNZHT/2WoGZa3jjpPw=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:1337"
+            },
+            {
+                "authority": "LinkedIn",
+                "name": "Becoming Head of Sales: Developing Your Playbook",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 8,
+                        "year": 2018
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:1337",
+                    "entityUrn": "urn:li:fs_miniCompany:1337",
+                    "name": "LinkedIn",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1638831589865?e=1660176000&v=beta&t=BLQftLy0Qs0EBVJIuWPMuAUeYUwk2NFkGV64ugXQRGo",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1638831589865?e=1660176000&v=beta&t=x5azEgZkHPR5MQHKe-JAU7OCpzuevGQIN2iQzEXm7FA",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1638831589865?e=1660176000&v=beta&t=4ByckqnOSGF1jY0ieSfxachmGJ0dfUy8ErhiMjGS9p8",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_"
+                        }
+                    },
+                    "universalName": "linkedin",
+                    "dashCompanyUrn": "urn:li:fsd_company:1337",
+                    "trackingId": "BGOAE9ShQ9uzW2X/RdorQQ=="
+                },
+                "displaySource": "linkedin.com",
+                "companyUrn": "urn:li:fs_miniCompany:1337",
+                "url": "http://www.linkedin.com/learning/becoming-head-of-sales-developing-your-playbook"
+            },
+            {
+                "authority": "LinkedIn",
+                "name": "Selling to Executives",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 10,
+                        "year": 2018
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:1337",
+                    "entityUrn": "urn:li:fs_miniCompany:1337",
+                    "name": "LinkedIn",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1638831589865?e=1660176000&v=beta&t=BLQftLy0Qs0EBVJIuWPMuAUeYUwk2NFkGV64ugXQRGo",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1638831589865?e=1660176000&v=beta&t=x5azEgZkHPR5MQHKe-JAU7OCpzuevGQIN2iQzEXm7FA",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1638831589865?e=1660176000&v=beta&t=4ByckqnOSGF1jY0ieSfxachmGJ0dfUy8ErhiMjGS9p8",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_"
+                        }
+                    },
+                    "universalName": "linkedin",
+                    "dashCompanyUrn": "urn:li:fsd_company:1337",
+                    "trackingId": "HGNHR+qJSkOC6uMVbewICg=="
+                },
+                "displaySource": "linkedin.com",
+                "companyUrn": "urn:li:fs_miniCompany:1337",
+                "url": "http://www.linkedin.com/learning/selling-to-executives"
+            },
+            {
+                "authority": "LinkedIn",
+                "name": "Powerless to Powerful: Taking Control",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 10,
+                        "year": 2018
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:1337",
+                    "entityUrn": "urn:li:fs_miniCompany:1337",
+                    "name": "LinkedIn",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1638831589865?e=1660176000&v=beta&t=BLQftLy0Qs0EBVJIuWPMuAUeYUwk2NFkGV64ugXQRGo",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1638831589865?e=1660176000&v=beta&t=x5azEgZkHPR5MQHKe-JAU7OCpzuevGQIN2iQzEXm7FA",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1638831589865?e=1660176000&v=beta&t=4ByckqnOSGF1jY0ieSfxachmGJ0dfUy8ErhiMjGS9p8",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_"
+                        }
+                    },
+                    "universalName": "linkedin",
+                    "dashCompanyUrn": "urn:li:fsd_company:1337",
+                    "trackingId": "zBQLZ5k+QZS7s6is4NuTag=="
+                },
+                "displaySource": "linkedin.com",
+                "companyUrn": "urn:li:fs_miniCompany:1337",
+                "url": "http://www.linkedin.com/learning/powerless-to-powerful-taking-control"
+            },
+            {
+                "authority": "LinkedIn",
+                "name": "Jodi Glickman on Pitching Yourself",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 10,
+                        "year": 2018
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:1337",
+                    "entityUrn": "urn:li:fs_miniCompany:1337",
+                    "name": "LinkedIn",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1638831589865?e=1660176000&v=beta&t=BLQftLy0Qs0EBVJIuWPMuAUeYUwk2NFkGV64ugXQRGo",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1638831589865?e=1660176000&v=beta&t=x5azEgZkHPR5MQHKe-JAU7OCpzuevGQIN2iQzEXm7FA",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1638831589865?e=1660176000&v=beta&t=4ByckqnOSGF1jY0ieSfxachmGJ0dfUy8ErhiMjGS9p8",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_"
+                        }
+                    },
+                    "universalName": "linkedin",
+                    "dashCompanyUrn": "urn:li:fsd_company:1337",
+                    "trackingId": "P14wc2Y5Q02FCWJqRw5euQ=="
+                },
+                "displaySource": "linkedin.com",
+                "companyUrn": "urn:li:fs_miniCompany:1337",
+                "url": "http://www.linkedin.com/learning/jodi-glickman-on-pitching-yourself"
+            }
+        ],
+        "volunteer": [
+            {
+                "role": "Volunteer and Donations",
+                "companyName": "Orphans in Need",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 6,
+                        "year": 2013
+                    }
+                },
+                "cause": "CHILDREN",
+                "company": {
+                    "miniCompany": {
+                        "objectUrn": "urn:li:company:3124222",
+                        "entityUrn": "urn:li:fs_miniCompany:3124222",
+                        "name": "Orphans in Need",
+                        "showcase": false,
+                        "active": true,
+                        "logo": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1519726712661?e=1660176000&v=beta&t=YWaCrUQekmelxGEQ7ZjHTgimDLvMbMG1Xlsr-Zc6oEE",
+                                        "expiresAt": 1660176000000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1519726712661?e=1660176000&v=beta&t=XMVggp-50cgmSaPg3J5DMp-x3yvKMcVPVdIe3GwLZOI",
+                                        "expiresAt": 1660176000000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1519726712661?e=1660176000&v=beta&t=JhnYaj89-OKWoNDirRhrMdQ5YmIrRixUBAKjOgusPko",
+                                        "expiresAt": 1660176000000,
+                                        "height": 400
+                                    }
+                                ],
+                                "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQFvOj44PBr_yw/company-logo_"
+                            }
+                        },
+                        "universalName": "orphans-in-need",
+                        "dashCompanyUrn": "urn:li:fsd_company:3124222",
+                        "trackingId": "4TtLtOxPSSqvbCDfzvFRlQ=="
+                    }
+                },
+                "companyUrn": "urn:li:fs_miniCompany:3124222"
+            },
+            {
+                "role": "Member - Regional Committee on Skills and Education",
+                "companyName": "Confederation of Indian Industry",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2017
+                    },
+                    "startDate": {
+                        "month": 7,
+                        "year": 2016
+                    }
+                },
+                "cause": "ECONOMIC_EMPOWERMENT",
+                "description": "Advocacy and capacity building for various initiatives in the areas of Skills and education. Focussing on skilling for a better economic future for youth in India.",
+                "company": {
+                    "miniCompany": {
+                        "objectUrn": "urn:li:company:10792",
+                        "entityUrn": "urn:li:fs_miniCompany:10792",
+                        "name": "Confederation of Indian Industry",
+                        "showcase": false,
+                        "active": true,
+                        "logo": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1609473836001?e=1660176000&v=beta&t=M7Q1wRI49QbMq_Oi9-F1bJcQ-JM_nSwHBCho_NUP300",
+                                        "expiresAt": 1660176000000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1609473836001?e=1660176000&v=beta&t=PPfVXjkqVoN-cspFByaJb9890r0cfpkxZ5EOhmuc3Ko",
+                                        "expiresAt": 1660176000000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1609473836001?e=1660176000&v=beta&t=11iYCIipryLr5q0nXBFPcseo-kRow9oeWXEanJwsxTE",
+                                        "expiresAt": 1660176000000,
+                                        "height": 400
+                                    }
+                                ],
+                                "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQGcln7-uYmWpg/company-logo_"
+                            }
+                        },
+                        "universalName": "confederation-of-indian-industry",
+                        "dashCompanyUrn": "urn:li:fsd_company:10792",
+                        "trackingId": "TADKKV6QQKagzz5rv+L2rg=="
+                    }
+                },
+                "companyUrn": "urn:li:fs_miniCompany:10792"
+            }
+        ],
+        "honors": [],
+        "projects": []
+    },
+    "contact_info": {
+        "email_address": null,
+        "websites": [
+            {
+                "url": "www.sachinkapoor.com",
+                "label": "PERSONAL"
+            },
+            {
+                "url": "www.trumsy.com",
+                "label": "COMPANY"
+            }
+        ],
+        "twitter": [
+            {
+                "name": "sach_kapoor",
+                "credentialId": "urn:li:member:4969165;24455509"
+            }
+        ],
+        "birthdate": {
+            "month": 2,
+            "day": 20
+        },
+        "ims": null,
+        "phone_numbers": []
+    },
+    "connections": [
+        {
+            "urn_id": "ACoAAC24GToBKzC8vS7jZaCEqoq3Jse_M2Tson8",
+            "distance": "DISTANCE_1",
+            "public_id": "abhijit-paul-936a68194",
+            "tracking_id": "767039802"
+        },
+        {
+            "urn_id": "ACoAAByhqogBLFVDJbqojrVMhtKfC3o3hRfEcjg",
+            "distance": "DISTANCE_1",
+            "public_id": "biki-talukdar-460a54114",
+            "tracking_id": "480357000"
+        },
+        {
+            "urn_id": "ACoAABr4jt0BoOUmisITdRo1gR4CumG5I4jjZIw",
+            "distance": "DISTANCE_1",
+            "public_id": "samudra-deka-911659107",
+            "tracking_id": "452497117"
+        },
+        {
+            "urn_id": "ACoAADZmR9QB1zOH_PmrzQQw2wQmTJRTcNGU7CE",
+            "distance": "DISTANCE_1",
+            "public_id": "bkalita",
+            "tracking_id": "912672724"
+        },
+        {
+            "urn_id": "ACoAADLJzxsBizdB0nN5NZBCM41Q-z6-7ef5gyI",
+            "distance": "DISTANCE_1",
+            "public_id": "deepjyoti-kalita-78b4411b9",
+            "tracking_id": "852086555"
+        },
+        {
+            "urn_id": "ACoAADe3CFYBsoFdtSEajXbg51HDagdpBEb3kx4",
+            "distance": "DISTANCE_1",
+            "public_id": "binud-panging-872062221",
+            "tracking_id": "934742102"
+        },
+        {
+            "urn_id": "ACoAAC2aUPYBGPB-T9xDu2Hjrq7OgzRPu5nTvyE",
+            "distance": "DISTANCE_1",
+            "public_id": "jintudas",
+            "tracking_id": "765087990"
+        },
+        {
+            "urn_id": "ACoAACT67ZEBgw1Aprl8Aqy8zWMavdTyaWs7J3w",
+            "distance": "DISTANCE_1",
+            "public_id": "titikshya-das-015942153",
+            "tracking_id": "620424593"
+        },
+        {
+            "urn_id": "ACoAAAjgx0kBxJoPu_7t3kS1NbDizQekjIIzMbE",
+            "distance": "DISTANCE_1",
+            "public_id": "lakheswar-nath-289a7141",
+            "tracking_id": "148948809"
+        },
+        {
+            "urn_id": "ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE",
+            "distance": "DISTANCE_1",
+            "public_id": "prithoo11335",
+            "tracking_id": "231212168"
+        },
+        {
+            "urn_id": "ACoAACr0GSwBcmPDh22HqivG9h0JwG-eahXSYW8",
+            "distance": "DISTANCE_1",
+            "public_id": "nihar-kashyap98",
+            "tracking_id": "720640300"
+        },
+        {
+            "urn_id": "ACoAACzP6KMBcLKqKnFRpIudaukkoW4NoqstgrM",
+            "distance": "DISTANCE_1",
+            "public_id": "pranit-prakash-sahu",
+            "tracking_id": "751823011"
+        },
+        {
+            "urn_id": "ACoAACeXhGEBEVCUXmKi5rowUSeFZNerPjvzQsc",
+            "distance": "DISTANCE_1",
+            "public_id": "mahbubul-haque-a55552166",
+            "tracking_id": "664241249"
+        },
+        {
+            "urn_id": "ACoAACbTg-gBtT_YqZc-FG2lIVBv13QTx8UUB8E",
+            "distance": "DISTANCE_1",
+            "public_id": "mridul24",
+            "tracking_id": "651396072"
+        },
+        {
+            "urn_id": "ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY",
+            "distance": "DISTANCE_1",
+            "public_id": "tridip-das-b5837911b",
+            "tracking_id": "499568180"
+        },
+        {
+            "urn_id": "ACoAAAI9wXoBijRhLoxf7BO8UTK0DX-7KexJV30",
+            "distance": "DISTANCE_1",
+            "public_id": "boren-ghosh-27671410",
+            "tracking_id": "37601658"
+        },
+        {
+            "urn_id": "ACoAACZxhUQBl1V8kpLj4ACrE2LzpatGvVzEgSA",
+            "distance": "DISTANCE_1",
+            "public_id": "nabajyoti-borah-944000160",
+            "tracking_id": "644973892"
+        },
+        {
+            "urn_id": "ACoAABYq8T8ByHFGBUFRrHT5iKBI2u4YZjTLHFc",
+            "distance": "DISTANCE_1",
+            "public_id": "netranjit-borgohain-53b677a4",
+            "tracking_id": "371913023"
+        },
+        {
+            "urn_id": "ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8",
+            "distance": "DISTANCE_1",
+            "public_id": "sivaranjan-goswami-790b4523",
+            "tracking_id": "83451420"
+        },
+        {
+            "urn_id": "ACoAACTFIIYB1cK_syRcCXEc0o8RTm4JMlhYcHA",
+            "distance": "DISTANCE_1",
+            "public_id": "arun-kumar-nath-686721152",
+            "tracking_id": "616898694"
+        },
+        {
+            "urn_id": "ACoAAC4efLABFBv0f30-SDGDgLSf1gXTlkpJTfc",
+            "distance": "DISTANCE_1",
+            "public_id": "shawan-mandal",
+            "tracking_id": "773749936"
+        },
+        {
+            "urn_id": "ACoAACDVs-sB_IgxPBMHMRBfR6is3jmwwV_OvTE",
+            "distance": "DISTANCE_1",
+            "public_id": "swapnil-bhattacharjee-ghy",
+            "tracking_id": "550876139"
+        },
+        {
+            "urn_id": "ACoAACUEZ3QB2Xm0OWR0cqoc_u-o4KW_OENO1_8",
+            "distance": "DISTANCE_1",
+            "public_id": "rajan-sahu",
+            "tracking_id": "621045620"
+        },
+        {
+            "urn_id": "ACoAAC12ZqEBCx9JN_YIi1eF1FPPDif3mXI3fyc",
+            "distance": "DISTANCE_1",
+            "public_id": "abinash-panigrahi-169531193",
+            "tracking_id": "762734241"
+        },
+        {
+            "urn_id": "ACoAACYmrvgBRdvWxItbY_KP_fyrEgZ9U-QKJqk",
+            "distance": "DISTANCE_1",
+            "public_id": "rtsu",
+            "tracking_id": "640069368"
+        },
+        {
+            "urn_id": "ACoAADRMKTMBj76XTPRfB9R5rvfwNOXP2n93n4c",
+            "distance": "DISTANCE_1",
+            "public_id": "manash-deka-497a12205",
+            "tracking_id": "877406515"
+        },
+        {
+            "urn_id": "ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc",
+            "distance": "DISTANCE_1",
+            "public_id": "ratnadeep-bhattacharjee",
+            "tracking_id": "135079003"
+        },
+        {
+            "urn_id": "ACoAAAR5v8MBjPwCvp8TP9RWZyGSeNYNiJ1wKJE",
+            "distance": "DISTANCE_1",
+            "public_id": "nilotpal-boruah",
+            "tracking_id": "75087811"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Leadership"
+        },
+        {
+            "name": "Business Development"
+        },
+        {
+            "name": "Product Management"
+        },
+        {
+            "name": "Start-ups"
+        },
+        {
+            "name": "Pre-sales"
+        },
+        {
+            "name": "Strategy"
+        },
+        {
+            "name": "Vendor Management"
+        },
+        {
+            "name": "Business Analysis"
+        },
+        {
+            "name": "Product Marketing"
+        },
+        {
+            "name": "Cloud Computing"
+        },
+        {
+            "name": "Business Strategy"
+        },
+        {
+            "name": "E-commerce"
+        },
+        {
+            "name": "CRM"
+        },
+        {
+            "name": "Market Research",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:786",
+            "standardizedSkill": {
+                "name": "Market Research",
+                "entityUrn": "urn:li:fs_miniSkill:786"
+            }
+        },
+        {
+            "name": "Outsourcing"
+        },
+        {
+            "name": "Digital Marketing"
+        },
+        {
+            "name": "Telecommunications"
+        },
+        {
+            "name": "Marketing Strategy",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:296",
+            "standardizedSkill": {
+                "name": "Marketing Strategy",
+                "entityUrn": "urn:li:fs_miniSkill:296"
+            }
+        },
+        {
+            "name": "Strategic Planning"
+        },
+        {
+            "name": "Account Management"
+        },
+        {
+            "name": "Consulting"
+        },
+        {
+            "name": "Project Management",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:2269",
+            "standardizedSkill": {
+                "name": "Project Management",
+                "entityUrn": "urn:li:fs_miniSkill:2269"
+            }
+        },
+        {
+            "name": "Sales",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:5",
+            "standardizedSkill": {
+                "name": "Sales",
+                "entityUrn": "urn:li:fs_miniSkill:5"
+            }
+        },
+        {
+            "name": "IT Strategy"
+        },
+        {
+            "name": "Mobile Applications"
+        },
+        {
+            "name": "Program Management",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:252",
+            "standardizedSkill": {
+                "name": "Program Management",
+                "entityUrn": "urn:li:fs_miniSkill:252"
+            }
+        },
+        {
+            "name": "Business Management"
+        },
+        {
+            "name": "Analytics",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:1839",
+            "standardizedSkill": {
+                "name": "Analytics",
+                "entityUrn": "urn:li:fs_miniSkill:1839"
+            }
+        },
+        {
+            "name": "Online Advertising",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:1522",
+            "standardizedSkill": {
+                "name": "Online Advertising",
+                "entityUrn": "urn:li:fs_miniSkill:1522"
+            }
+        },
+        {
+            "name": "International Sales"
+        },
+        {
+            "name": "Key Account Management",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:816",
+            "standardizedSkill": {
+                "name": "Key Account Management",
+                "entityUrn": "urn:li:fs_miniSkill:816"
+            }
+        },
+        {
+            "name": "Management Consulting",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:441",
+            "standardizedSkill": {
+                "name": "Management Consulting",
+                "entityUrn": "urn:li:fs_miniSkill:441"
+            }
+        },
+        {
+            "name": "Sales Management",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:74",
+            "standardizedSkill": {
+                "name": "Sales Management",
+                "entityUrn": "urn:li:fs_miniSkill:74"
+            }
+        },
+        {
+            "name": "Enterprise Software",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:1989",
+            "standardizedSkill": {
+                "name": "Enterprise Software",
+                "entityUrn": "urn:li:fs_miniSkill:1989"
+            }
+        },
+        {
+            "name": "Strategic Partnerships"
+        },
+        {
+            "name": "Team Management"
+        },
+        {
+            "name": "Management"
+        },
+        {
+            "name": "Team Leadership"
+        },
+        {
+            "name": "Business Alliances",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:6434",
+            "standardizedSkill": {
+                "name": "Business Alliances",
+                "entityUrn": "urn:li:fs_miniSkill:6434"
+            }
+        },
+        {
+            "name": "Cross-functional Team Leadership",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:1706",
+            "standardizedSkill": {
+                "name": "Cross-functional Team Leadership",
+                "entityUrn": "urn:li:fs_miniSkill:1706"
+            }
+        },
+        {
+            "name": "Negotiation",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:256",
+            "standardizedSkill": {
+                "name": "Negotiation",
+                "entityUrn": "urn:li:fs_miniSkill:256"
+            }
+        },
+        {
+            "name": "New Business Development"
+        },
+        {
+            "name": "Strategic Alliances"
+        },
+        {
+            "name": "Mobile Internet"
+        },
+        {
+            "name": "Internet"
+        },
+        {
+            "name": "New Markets Development"
+        },
+        {
+            "name": "Public Speaking",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:1101",
+            "standardizedSkill": {
+                "name": "Public Speaking",
+                "entityUrn": "urn:li:fs_miniSkill:1101"
+            }
+        },
+        {
+            "name": "Communication",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:135",
+            "standardizedSkill": {
+                "name": "Communication",
+                "entityUrn": "urn:li:fs_miniSkill:135"
+            }
+        },
+        {
+            "name": "Personal Branding",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:6796",
+            "standardizedSkill": {
+                "name": "Personal Branding",
+                "entityUrn": "urn:li:fs_miniSkill:6796"
+            }
+        }
+    ]
+}

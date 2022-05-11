@@ -1,0 +1,1235 @@
+{
+    "profile": {
+        "summary": "Experienced Head of Sales Development with a demonstrated history of working in the SaaS, internet industry. Skilled in Customer success, Business Development, Sales, People management, Strategy, Analytics, customer success, operational excellence and Business Development.",
+        "industryName": "IT Services and IT Consulting",
+        "lastName": "Batra",
+        "locationName": "India",
+        "student": false,
+        "geoCountryName": "India",
+        "geoCountryUrn": "urn:li:fs_geo:102713980",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "birthDate": {
+            "month": 1,
+            "day": 3
+        },
+        "industryUrn": "urn:li:fs_industry:96",
+        "firstName": "Mansi",
+        "entityUrn": "urn:li:fs_profile:ACoAAALGUQYB5JVdl3AZ7gRoPevu1moL0EiTlMA",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:102713980"
+        },
+        "location": {
+            "basicLocation": {
+                "countryCode": "in"
+            }
+        },
+        "headline": "Sales Leader | Scaling Businesses | Investing in people | Transforming the way companies Learn, Hire, Market & Sell!!",
+        "displayPictureUrl": "https://media-exp1.licdn.com/dms/image/C5603AQF7jlrQIZH5Sw/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/0/1601019047390?e=1657756800&v=beta&t=9LZtPUSkbyZ4u_f4uVuKdCF-1v1B-ZOa4yZ2YJxz300",
+        "img_200_200": "200_200/0/1601019047390?e=1657756800&v=beta&t=fz91e2IaufeLIehCQsdog6T4FCKTH9ImslRMlyDiZrI",
+        "img_400_400": "400_400/0/1601019047390?e=1657756800&v=beta&t=QTNHAW4g57YNm5FTL3nafqyAJ5d2N1Lnb-F8FNkfssw",
+        "img_800_800": "800_800/0/1601019047390?e=1657756800&v=beta&t=_E33--LJEQX2tDxALbxsS7gilUOPB60Qk_3wqGVKVRI",
+        "profile_id": "ACoAAALGUQYB5JVdl3AZ7gRoPevu1moL0EiTlMA",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAAALGUQYB5JVdl3AZ7gRoPevu1moL0EiTlMA",
+        "member_urn": "urn:li:member:46551302",
+        "experience": [
+            {
+                "locationName": "Gurugram, Haryana, India",
+                "entityUrn": "urn:li:fs_position:(ACoAAALGUQYB5JVdl3AZ7gRoPevu1moL0EiTlMA,1784184724)",
+                "geoLocationName": "Gurugram, Haryana, India",
+                "geoUrn": "urn:li:fs_geo:106442238",
+                "companyName": "LinkedIn",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 4,
+                        "year": 2021
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Internet"
+                    ]
+                },
+                "title": "Head of UK Business | Program Sales |  LinkedIn Marketing Solutions  ",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:1337",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_"
+            },
+            {
+                "locationName": "Bengaluru Area, India",
+                "entityUrn": "urn:li:fs_position:(ACoAAALGUQYB5JVdl3AZ7gRoPevu1moL0EiTlMA,973732415)",
+                "geoLocationName": "Bengaluru Area, India",
+                "geoUrn": "urn:li:fs_geo:105307040",
+                "companyName": "LinkedIn",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 5,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 4,
+                        "year": 2017
+                    }
+                },
+                "description": "-\tLeading Inbound Sales Dev. Business for India for all 4 business lines\n- Managing and growing a team of 10 reps\n- Ensuring customer success\n-\tCoaching and building talent pipeline for LinkedIn Sales \n-\tStrategizing, developing and executing India strategy\n-\tContinuously invested in improving reporting tool for better understanding of internal and external stakeholders \n-\tStrategizing to improve business efficiency and effectiveness\n-\tContinuous monitoring of GTM and redesigning it proactively whenever required\n-\tManaging stakeholder , nationally & globally \n-\tEvolving forecast models\n-\tChannel Management & diversification \n-\tStrategizing and planning on Sales Quota \n-\tDevelop strategies to increase acquisition business nationally \n-\tHiring, training and managing a talented bunch of 10 Sales Dev Reps\n-\tAccompanying Sales Managers for Inbound Sourced Meetings \n-\tBeing present and help organize marketing events",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Internet"
+                    ]
+                },
+                "title": "India Head - Business/Sales Development for Talent, Learning & Sales Solutions",
+                "region": "urn:li:fs_region:(in,7127)",
+                "companyUrn": "urn:li:fs_miniCompany:1337",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_"
+            },
+            {
+                "locationName": "Bengaluru Area, India",
+                "entityUrn": "urn:li:fs_position:(ACoAAALGUQYB5JVdl3AZ7gRoPevu1moL0EiTlMA,851003968)",
+                "geoLocationName": "Bengaluru Area, India",
+                "geoUrn": "urn:li:fs_geo:105307040",
+                "companyName": "LinkedIn",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 3,
+                        "year": 2017
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2016
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Internet"
+                    ]
+                },
+                "title": "India Team Lead - Sales Development",
+                "region": "urn:li:fs_region:(in,7127)",
+                "companyUrn": "urn:li:fs_miniCompany:1337",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_"
+            },
+            {
+                "locationName": "Bengaluru Area, India",
+                "entityUrn": "urn:li:fs_position:(ACoAAALGUQYB5JVdl3AZ7gRoPevu1moL0EiTlMA,686100240)",
+                "geoLocationName": "Bengaluru Area, India",
+                "geoUrn": "urn:li:fs_geo:105307040",
+                "companyName": "LinkedIn",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 8,
+                        "year": 2016
+                    },
+                    "startDate": {
+                        "month": 6,
+                        "year": 2015
+                    }
+                },
+                "description": "Helping Organizations achieve their hiring and branding objectives through LinkedIn.com!",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Internet"
+                    ]
+                },
+                "title": "Sales Development Specialist",
+                "region": "urn:li:fs_region:(in,7127)",
+                "companyUrn": "urn:li:fs_miniCompany:1337",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_"
+            },
+            {
+                "locationName": "Delhi Area, India",
+                "entityUrn": "urn:li:fs_position:(ACoAAALGUQYB5JVdl3AZ7gRoPevu1moL0EiTlMA,666560214)",
+                "geoLocationName": "Delhi Area, India",
+                "geoUrn": "urn:li:fs_geo:102713980",
+                "companyName": "Randstad India",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2015
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2015
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 1001,
+                        "end": 5000
+                    },
+                    "industries": [
+                        "Human Resources"
+                    ]
+                },
+                "title": "Associate Manager - Sales & Trade Marketing",
+                "region": "urn:li:fs_region:(in,5343)",
+                "companyUrn": "urn:li:fs_miniCompany:2554444",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C560BAQEFlPA1O-J5lg/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAALGUQYB5JVdl3AZ7gRoPevu1moL0EiTlMA,223657939)",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2014
+                    },
+                    "startDate": {
+                        "year": 2012
+                    }
+                },
+                "degreeName": "Master of Business Administration (MBA)",
+                "schoolName": "NMIMS",
+                "fieldOfStudy": "Marketing"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAALGUQYB5JVdl3AZ7gRoPevu1moL0EiTlMA,33454171)",
+                "school": {
+                    "objectUrn": "urn:li:school:20321",
+                    "entityUrn": "urn:li:fs_miniSchool:20321",
+                    "active": true,
+                    "schoolName": "Delhi University",
+                    "trackingId": "l7VBDi+YSsGS85Lnysqq2g==",
+                    "logoUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQEKpQuxtygnAw/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2009
+                    },
+                    "startDate": {
+                        "year": 2006
+                    }
+                },
+                "degreeName": "BSc.(H)",
+                "schoolName": "Delhi University",
+                "fieldOfStudy": "Electronics",
+                "schoolUrn": "urn:li:fs_miniSchool:20321"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAALGUQYB5JVdl3AZ7gRoPevu1moL0EiTlMA,96133910)",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2006
+                    },
+                    "startDate": {
+                        "year": 1994
+                    }
+                },
+                "degreeName": "Schooling",
+                "schoolName": "nkbps",
+                "fieldOfStudy": "Non - Medical"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ],
+        "publications": [],
+        "certifications": [
+            {
+                "authority": "LinkedIn",
+                "name": "Coaching for Results",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 1,
+                        "year": 2019
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:1337",
+                    "entityUrn": "urn:li:fs_miniCompany:1337",
+                    "name": "LinkedIn",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1638831589865?e=1660176000&v=beta&t=BLQftLy0Qs0EBVJIuWPMuAUeYUwk2NFkGV64ugXQRGo",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1638831589865?e=1660176000&v=beta&t=x5azEgZkHPR5MQHKe-JAU7OCpzuevGQIN2iQzEXm7FA",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1638831589865?e=1660176000&v=beta&t=4ByckqnOSGF1jY0ieSfxachmGJ0dfUy8ErhiMjGS9p8",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_"
+                        }
+                    },
+                    "universalName": "linkedin",
+                    "dashCompanyUrn": "urn:li:fsd_company:1337",
+                    "trackingId": "p9qWHnBmR3OFNPxgizzRpA=="
+                },
+                "displaySource": "linkedin.com",
+                "companyUrn": "urn:li:fs_miniCompany:1337",
+                "url": "http://www.linkedin.com/learning/coaching-for-results"
+            },
+            {
+                "authority": "LinkedIn",
+                "name": "Inside Sales",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 1,
+                        "year": 2019
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:1337",
+                    "entityUrn": "urn:li:fs_miniCompany:1337",
+                    "name": "LinkedIn",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1638831589865?e=1660176000&v=beta&t=BLQftLy0Qs0EBVJIuWPMuAUeYUwk2NFkGV64ugXQRGo",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1638831589865?e=1660176000&v=beta&t=x5azEgZkHPR5MQHKe-JAU7OCpzuevGQIN2iQzEXm7FA",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1638831589865?e=1660176000&v=beta&t=4ByckqnOSGF1jY0ieSfxachmGJ0dfUy8ErhiMjGS9p8",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_"
+                        }
+                    },
+                    "universalName": "linkedin",
+                    "dashCompanyUrn": "urn:li:fsd_company:1337",
+                    "trackingId": "xmnFlDf6SzetQ4CFdiNgHQ=="
+                },
+                "displaySource": "linkedin.com",
+                "companyUrn": "urn:li:fs_miniCompany:1337",
+                "url": "http://www.linkedin.com/learning/inside-sales"
+            },
+            {
+                "authority": "LinkedIn",
+                "name": "Becoming Head of Sales: Developing Your Playbook",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 2,
+                        "year": 2019
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:1337",
+                    "entityUrn": "urn:li:fs_miniCompany:1337",
+                    "name": "LinkedIn",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1638831589865?e=1660176000&v=beta&t=BLQftLy0Qs0EBVJIuWPMuAUeYUwk2NFkGV64ugXQRGo",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1638831589865?e=1660176000&v=beta&t=x5azEgZkHPR5MQHKe-JAU7OCpzuevGQIN2iQzEXm7FA",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1638831589865?e=1660176000&v=beta&t=4ByckqnOSGF1jY0ieSfxachmGJ0dfUy8ErhiMjGS9p8",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_"
+                        }
+                    },
+                    "universalName": "linkedin",
+                    "dashCompanyUrn": "urn:li:fsd_company:1337",
+                    "trackingId": "pO1e4T1WRlmZgUdTpSmUqQ=="
+                },
+                "displaySource": "linkedin.com",
+                "companyUrn": "urn:li:fs_miniCompany:1337",
+                "url": "http://www.linkedin.com/learning/becoming-head-of-sales-developing-your-playbook"
+            },
+            {
+                "authority": "LinkedIn",
+                "name": "Coaching Employees through Difficult Situations",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 4,
+                        "year": 2019
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:1337",
+                    "entityUrn": "urn:li:fs_miniCompany:1337",
+                    "name": "LinkedIn",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1638831589865?e=1660176000&v=beta&t=BLQftLy0Qs0EBVJIuWPMuAUeYUwk2NFkGV64ugXQRGo",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1638831589865?e=1660176000&v=beta&t=x5azEgZkHPR5MQHKe-JAU7OCpzuevGQIN2iQzEXm7FA",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1638831589865?e=1660176000&v=beta&t=4ByckqnOSGF1jY0ieSfxachmGJ0dfUy8ErhiMjGS9p8",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_"
+                        }
+                    },
+                    "universalName": "linkedin",
+                    "dashCompanyUrn": "urn:li:fsd_company:1337",
+                    "trackingId": "ogLY8tkFQRmbMEGc8VU9GA=="
+                },
+                "displaySource": "linkedin.com",
+                "companyUrn": "urn:li:fs_miniCompany:1337",
+                "url": "http://www.linkedin.com/learning/coaching-employees-through-difficult-situations"
+            },
+            {
+                "authority": "LinkedIn",
+                "name": "Start with Why: How Great Leaders Inspire Everyone to Take Action (Blinkist Summary)",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 4,
+                        "year": 2019
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:1337",
+                    "entityUrn": "urn:li:fs_miniCompany:1337",
+                    "name": "LinkedIn",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1638831589865?e=1660176000&v=beta&t=BLQftLy0Qs0EBVJIuWPMuAUeYUwk2NFkGV64ugXQRGo",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1638831589865?e=1660176000&v=beta&t=x5azEgZkHPR5MQHKe-JAU7OCpzuevGQIN2iQzEXm7FA",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1638831589865?e=1660176000&v=beta&t=4ByckqnOSGF1jY0ieSfxachmGJ0dfUy8ErhiMjGS9p8",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_"
+                        }
+                    },
+                    "universalName": "linkedin",
+                    "dashCompanyUrn": "urn:li:fsd_company:1337",
+                    "trackingId": "Dw5WiUhAQWS2Oigen7lmjQ=="
+                },
+                "displaySource": "linkedin.com",
+                "companyUrn": "urn:li:fs_miniCompany:1337",
+                "url": "http://www.linkedin.com/learning/start-with-why-how-great-leaders-inspire-everyone-to-take-action-blinkist-summary"
+            },
+            {
+                "authority": "LinkedIn",
+                "name": "Proven Success Strategies for Women at Work",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 2,
+                        "year": 2020
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:1337",
+                    "entityUrn": "urn:li:fs_miniCompany:1337",
+                    "name": "LinkedIn",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1638831589865?e=1660176000&v=beta&t=BLQftLy0Qs0EBVJIuWPMuAUeYUwk2NFkGV64ugXQRGo",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1638831589865?e=1660176000&v=beta&t=x5azEgZkHPR5MQHKe-JAU7OCpzuevGQIN2iQzEXm7FA",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1638831589865?e=1660176000&v=beta&t=4ByckqnOSGF1jY0ieSfxachmGJ0dfUy8ErhiMjGS9p8",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_"
+                        }
+                    },
+                    "universalName": "linkedin",
+                    "dashCompanyUrn": "urn:li:fsd_company:1337",
+                    "trackingId": "xj1uAqNHSWm29YQFdFc+jQ=="
+                },
+                "displaySource": "linkedin.com",
+                "companyUrn": "urn:li:fs_miniCompany:1337",
+                "url": "http://www.linkedin.com/learning/proven-success-strategies-for-women-at-work"
+            },
+            {
+                "authority": "LinkedIn",
+                "name": "Personal Effectiveness Tips",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 2,
+                        "year": 2020
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:1337",
+                    "entityUrn": "urn:li:fs_miniCompany:1337",
+                    "name": "LinkedIn",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1638831589865?e=1660176000&v=beta&t=BLQftLy0Qs0EBVJIuWPMuAUeYUwk2NFkGV64ugXQRGo",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1638831589865?e=1660176000&v=beta&t=x5azEgZkHPR5MQHKe-JAU7OCpzuevGQIN2iQzEXm7FA",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1638831589865?e=1660176000&v=beta&t=4ByckqnOSGF1jY0ieSfxachmGJ0dfUy8ErhiMjGS9p8",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_"
+                        }
+                    },
+                    "universalName": "linkedin",
+                    "dashCompanyUrn": "urn:li:fsd_company:1337",
+                    "trackingId": "iicm+XHKQ4e30FuvyKzOiQ=="
+                },
+                "displaySource": "linkedin.com",
+                "companyUrn": "urn:li:fs_miniCompany:1337",
+                "url": "http://www.linkedin.com/learning/personal-effectiveness-tips"
+            },
+            {
+                "authority": "LinkedIn",
+                "name": "Strategic Thinking",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 2,
+                        "year": 2020
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:1337",
+                    "entityUrn": "urn:li:fs_miniCompany:1337",
+                    "name": "LinkedIn",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1638831589865?e=1660176000&v=beta&t=BLQftLy0Qs0EBVJIuWPMuAUeYUwk2NFkGV64ugXQRGo",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1638831589865?e=1660176000&v=beta&t=x5azEgZkHPR5MQHKe-JAU7OCpzuevGQIN2iQzEXm7FA",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1638831589865?e=1660176000&v=beta&t=4ByckqnOSGF1jY0ieSfxachmGJ0dfUy8ErhiMjGS9p8",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_"
+                        }
+                    },
+                    "universalName": "linkedin",
+                    "dashCompanyUrn": "urn:li:fsd_company:1337",
+                    "trackingId": "6o+ICCfzRMu+kZ1AlBQFWA=="
+                },
+                "displaySource": "linkedin.com",
+                "companyUrn": "urn:li:fs_miniCompany:1337",
+                "url": "http://www.linkedin.com/learning/strategic-thinking"
+            },
+            {
+                "authority": "LinkedIn",
+                "name": "Cultivating Cultural Competence and Inclusion",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 5,
+                        "year": 2020
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:1337",
+                    "entityUrn": "urn:li:fs_miniCompany:1337",
+                    "name": "LinkedIn",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1638831589865?e=1660176000&v=beta&t=BLQftLy0Qs0EBVJIuWPMuAUeYUwk2NFkGV64ugXQRGo",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1638831589865?e=1660176000&v=beta&t=x5azEgZkHPR5MQHKe-JAU7OCpzuevGQIN2iQzEXm7FA",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1638831589865?e=1660176000&v=beta&t=4ByckqnOSGF1jY0ieSfxachmGJ0dfUy8ErhiMjGS9p8",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_"
+                        }
+                    },
+                    "universalName": "linkedin",
+                    "dashCompanyUrn": "urn:li:fsd_company:1337",
+                    "trackingId": "SThK2qU1RDKgX48lZ1oxAw=="
+                },
+                "displaySource": "linkedin.com",
+                "companyUrn": "urn:li:fs_miniCompany:1337",
+                "url": "http://www.linkedin.com/learning/cultivating-cultural-competence-and-inclusion"
+            },
+            {
+                "authority": "LinkedIn",
+                "name": "Executive Presence on Video Conference Calls",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 5,
+                        "year": 2020
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:1337",
+                    "entityUrn": "urn:li:fs_miniCompany:1337",
+                    "name": "LinkedIn",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1638831589865?e=1660176000&v=beta&t=BLQftLy0Qs0EBVJIuWPMuAUeYUwk2NFkGV64ugXQRGo",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1638831589865?e=1660176000&v=beta&t=x5azEgZkHPR5MQHKe-JAU7OCpzuevGQIN2iQzEXm7FA",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1638831589865?e=1660176000&v=beta&t=4ByckqnOSGF1jY0ieSfxachmGJ0dfUy8ErhiMjGS9p8",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_"
+                        }
+                    },
+                    "universalName": "linkedin",
+                    "dashCompanyUrn": "urn:li:fsd_company:1337",
+                    "trackingId": "bKKttYe5SpuZKigC/D5NSA=="
+                },
+                "displaySource": "linkedin.com",
+                "companyUrn": "urn:li:fs_miniCompany:1337",
+                "url": "http://www.linkedin.com/learning/executive-presence-on-video-conference-calls"
+            }
+        ],
+        "volunteer": [
+            {
+                "role": "Volunteer",
+                "companyName": "Sikshana Foundation",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 2,
+                        "year": 2013
+                    },
+                    "startDate": {
+                        "month": 2,
+                        "year": 2013
+                    }
+                },
+                "cause": "CHILDREN",
+                "company": {
+                    "miniCompany": {
+                        "objectUrn": "urn:li:company:1632165",
+                        "entityUrn": "urn:li:fs_miniCompany:1632165",
+                        "name": "Sikshana Foundation ",
+                        "showcase": false,
+                        "active": true,
+                        "logo": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1519921004608?e=1660176000&v=beta&t=HHiE8wut0plQXHW5fzRRDv5kKMsMBOLBmN-kP1jereU",
+                                        "expiresAt": 1660176000000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1519921004608?e=1660176000&v=beta&t=5E2O6XSLD39ipbD_IU6FAl7hnKqYSedPwmLIvcfeJ5M",
+                                        "expiresAt": 1660176000000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1519921004608?e=1660176000&v=beta&t=SNlT-PRDdo8L2-mjfINxUT2W6cNIFYkquCzUYLlq-1E",
+                                        "expiresAt": 1660176000000,
+                                        "height": 400
+                                    }
+                                ],
+                                "rootUrl": "https://media-exp1.licdn.com/dms/image/C510BAQEkizoN4x4uJA/company-logo_"
+                            }
+                        },
+                        "universalName": "sikshana-foundation",
+                        "dashCompanyUrn": "urn:li:fsd_company:1632165",
+                        "trackingId": "/I632zN1SEq334D4+Z7BPw=="
+                    }
+                },
+                "companyUrn": "urn:li:fs_miniCompany:1632165"
+            }
+        ],
+        "honors": [],
+        "projects": []
+    },
+    "contact_info": {
+        "email_address": null,
+        "websites": [
+            {
+                "url": "https://wordpress.com/stats/day/mansibatra.wordpress.com",
+                "label": "PERSONAL"
+            }
+        ],
+        "twitter": [],
+        "birthdate": {
+            "month": 1,
+            "day": 3
+        },
+        "ims": null,
+        "phone_numbers": []
+    },
+    "connections": [
+        {
+            "urn_id": "ACoAAC24GToBKzC8vS7jZaCEqoq3Jse_M2Tson8",
+            "distance": "DISTANCE_1",
+            "public_id": "abhijit-paul-936a68194",
+            "tracking_id": "767039802"
+        },
+        {
+            "urn_id": "ACoAAByhqogBLFVDJbqojrVMhtKfC3o3hRfEcjg",
+            "distance": "DISTANCE_1",
+            "public_id": "biki-talukdar-460a54114",
+            "tracking_id": "480357000"
+        },
+        {
+            "urn_id": "ACoAABr4jt0BoOUmisITdRo1gR4CumG5I4jjZIw",
+            "distance": "DISTANCE_1",
+            "public_id": "samudra-deka-911659107",
+            "tracking_id": "452497117"
+        },
+        {
+            "urn_id": "ACoAADZmR9QB1zOH_PmrzQQw2wQmTJRTcNGU7CE",
+            "distance": "DISTANCE_1",
+            "public_id": "bkalita",
+            "tracking_id": "912672724"
+        },
+        {
+            "urn_id": "ACoAADLJzxsBizdB0nN5NZBCM41Q-z6-7ef5gyI",
+            "distance": "DISTANCE_1",
+            "public_id": "deepjyoti-kalita-78b4411b9",
+            "tracking_id": "852086555"
+        },
+        {
+            "urn_id": "ACoAADe3CFYBsoFdtSEajXbg51HDagdpBEb3kx4",
+            "distance": "DISTANCE_1",
+            "public_id": "binud-panging-872062221",
+            "tracking_id": "934742102"
+        },
+        {
+            "urn_id": "ACoAAC2aUPYBGPB-T9xDu2Hjrq7OgzRPu5nTvyE",
+            "distance": "DISTANCE_1",
+            "public_id": "jintudas",
+            "tracking_id": "765087990"
+        },
+        {
+            "urn_id": "ACoAACT67ZEBgw1Aprl8Aqy8zWMavdTyaWs7J3w",
+            "distance": "DISTANCE_1",
+            "public_id": "titikshya-das-015942153",
+            "tracking_id": "620424593"
+        },
+        {
+            "urn_id": "ACoAAAjgx0kBxJoPu_7t3kS1NbDizQekjIIzMbE",
+            "distance": "DISTANCE_1",
+            "public_id": "lakheswar-nath-289a7141",
+            "tracking_id": "148948809"
+        },
+        {
+            "urn_id": "ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE",
+            "distance": "DISTANCE_1",
+            "public_id": "prithoo11335",
+            "tracking_id": "231212168"
+        },
+        {
+            "urn_id": "ACoAACr0GSwBcmPDh22HqivG9h0JwG-eahXSYW8",
+            "distance": "DISTANCE_1",
+            "public_id": "nihar-kashyap98",
+            "tracking_id": "720640300"
+        },
+        {
+            "urn_id": "ACoAACzP6KMBcLKqKnFRpIudaukkoW4NoqstgrM",
+            "distance": "DISTANCE_1",
+            "public_id": "pranit-prakash-sahu",
+            "tracking_id": "751823011"
+        },
+        {
+            "urn_id": "ACoAACeXhGEBEVCUXmKi5rowUSeFZNerPjvzQsc",
+            "distance": "DISTANCE_1",
+            "public_id": "mahbubul-haque-a55552166",
+            "tracking_id": "664241249"
+        },
+        {
+            "urn_id": "ACoAACbTg-gBtT_YqZc-FG2lIVBv13QTx8UUB8E",
+            "distance": "DISTANCE_1",
+            "public_id": "mridul24",
+            "tracking_id": "651396072"
+        },
+        {
+            "urn_id": "ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY",
+            "distance": "DISTANCE_1",
+            "public_id": "tridip-das-b5837911b",
+            "tracking_id": "499568180"
+        },
+        {
+            "urn_id": "ACoAAAI9wXoBijRhLoxf7BO8UTK0DX-7KexJV30",
+            "distance": "DISTANCE_1",
+            "public_id": "boren-ghosh-27671410",
+            "tracking_id": "37601658"
+        },
+        {
+            "urn_id": "ACoAACZxhUQBl1V8kpLj4ACrE2LzpatGvVzEgSA",
+            "distance": "DISTANCE_1",
+            "public_id": "nabajyoti-borah-944000160",
+            "tracking_id": "644973892"
+        },
+        {
+            "urn_id": "ACoAABYq8T8ByHFGBUFRrHT5iKBI2u4YZjTLHFc",
+            "distance": "DISTANCE_1",
+            "public_id": "netranjit-borgohain-53b677a4",
+            "tracking_id": "371913023"
+        },
+        {
+            "urn_id": "ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8",
+            "distance": "DISTANCE_1",
+            "public_id": "sivaranjan-goswami-790b4523",
+            "tracking_id": "83451420"
+        },
+        {
+            "urn_id": "ACoAACTFIIYB1cK_syRcCXEc0o8RTm4JMlhYcHA",
+            "distance": "DISTANCE_1",
+            "public_id": "arun-kumar-nath-686721152",
+            "tracking_id": "616898694"
+        },
+        {
+            "urn_id": "ACoAAC4efLABFBv0f30-SDGDgLSf1gXTlkpJTfc",
+            "distance": "DISTANCE_1",
+            "public_id": "shawan-mandal",
+            "tracking_id": "773749936"
+        },
+        {
+            "urn_id": "ACoAACDVs-sB_IgxPBMHMRBfR6is3jmwwV_OvTE",
+            "distance": "DISTANCE_1",
+            "public_id": "swapnil-bhattacharjee-ghy",
+            "tracking_id": "550876139"
+        },
+        {
+            "urn_id": "ACoAACUEZ3QB2Xm0OWR0cqoc_u-o4KW_OENO1_8",
+            "distance": "DISTANCE_1",
+            "public_id": "rajan-sahu",
+            "tracking_id": "621045620"
+        },
+        {
+            "urn_id": "ACoAAC12ZqEBCx9JN_YIi1eF1FPPDif3mXI3fyc",
+            "distance": "DISTANCE_1",
+            "public_id": "abinash-panigrahi-169531193",
+            "tracking_id": "762734241"
+        },
+        {
+            "urn_id": "ACoAACYmrvgBRdvWxItbY_KP_fyrEgZ9U-QKJqk",
+            "distance": "DISTANCE_1",
+            "public_id": "rtsu",
+            "tracking_id": "640069368"
+        },
+        {
+            "urn_id": "ACoAADRMKTMBj76XTPRfB9R5rvfwNOXP2n93n4c",
+            "distance": "DISTANCE_1",
+            "public_id": "manash-deka-497a12205",
+            "tracking_id": "877406515"
+        },
+        {
+            "urn_id": "ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc",
+            "distance": "DISTANCE_1",
+            "public_id": "ratnadeep-bhattacharjee",
+            "tracking_id": "135079003"
+        },
+        {
+            "urn_id": "ACoAAAR5v8MBjPwCvp8TP9RWZyGSeNYNiJ1wKJE",
+            "distance": "DISTANCE_1",
+            "public_id": "nilotpal-boruah",
+            "tracking_id": "75087811"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Equity Research"
+        },
+        {
+            "name": "Financial Modeling"
+        },
+        {
+            "name": "Banking"
+        },
+        {
+            "name": "Market Research"
+        },
+        {
+            "name": "Risk Management"
+        },
+        {
+            "name": "Financial Analysis"
+        },
+        {
+            "name": "Valuation"
+        },
+        {
+            "name": "Hedge Funds"
+        },
+        {
+            "name": "Equities"
+        },
+        {
+            "name": "Investments"
+        },
+        {
+            "name": "Mandarin"
+        },
+        {
+            "name": "Due Diligence"
+        },
+        {
+            "name": "Team Management"
+        },
+        {
+            "name": "Economics"
+        },
+        {
+            "name": "Business Strategy"
+        },
+        {
+            "name": "Business Analysis"
+        },
+        {
+            "name": "Marketing Strategy"
+        },
+        {
+            "name": "Marketing"
+        },
+        {
+            "name": "Microsoft Excel"
+        },
+        {
+            "name": "Teamwork"
+        },
+        {
+            "name": "Competitive Analysis"
+        },
+        {
+            "name": "Management"
+        },
+        {
+            "name": "Analysis"
+        },
+        {
+            "name": "Business Development"
+        },
+        {
+            "name": "Strategy"
+        },
+        {
+            "name": "CRM"
+        },
+        {
+            "name": "Sales"
+        },
+        {
+            "name": "Talent Management",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:993",
+            "standardizedSkill": {
+                "name": "Talent Management",
+                "entityUrn": "urn:li:fs_miniSkill:993"
+            }
+        },
+        {
+            "name": "Communication",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:135",
+            "standardizedSkill": {
+                "name": "Communication",
+                "entityUrn": "urn:li:fs_miniSkill:135"
+            }
+        },
+        {
+            "name": "Mentoring",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:1939",
+            "standardizedSkill": {
+                "name": "Mentoring",
+                "entityUrn": "urn:li:fs_miniSkill:1939"
+            }
+        },
+        {
+            "name": "Coaching",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:132",
+            "standardizedSkill": {
+                "name": "Coaching",
+                "entityUrn": "urn:li:fs_miniSkill:132"
+            }
+        },
+        {
+            "name": "Sales Management",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:74",
+            "standardizedSkill": {
+                "name": "Sales Management",
+                "entityUrn": "urn:li:fs_miniSkill:74"
+            }
+        },
+        {
+            "name": "Decision-Making",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:2506",
+            "standardizedSkill": {
+                "name": "Decision-Making",
+                "entityUrn": "urn:li:fs_miniSkill:2506"
+            }
+        },
+        {
+            "name": "Diversity & Inclusion",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:43735",
+            "standardizedSkill": {
+                "name": "Diversity & Inclusion",
+                "entityUrn": "urn:li:fs_miniSkill:43735"
+            }
+        },
+        {
+            "name": "Personal Development",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:1278",
+            "standardizedSkill": {
+                "name": "Personal Development",
+                "entityUrn": "urn:li:fs_miniSkill:1278"
+            }
+        },
+        {
+            "name": "Time Management",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:2263",
+            "standardizedSkill": {
+                "name": "Time Management",
+                "entityUrn": "urn:li:fs_miniSkill:2263"
+            }
+        },
+        {
+            "name": "Strategic Thinking",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:3573",
+            "standardizedSkill": {
+                "name": "Strategic Thinking",
+                "entityUrn": "urn:li:fs_miniSkill:3573"
+            }
+        },
+        {
+            "name": "Leadership",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:154",
+            "standardizedSkill": {
+                "name": "Leadership",
+                "entityUrn": "urn:li:fs_miniSkill:154"
+            }
+        },
+        {
+            "name": "Multi-Cultural Team Leadership",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:39371",
+            "standardizedSkill": {
+                "name": "Multi-Cultural Team Leadership",
+                "entityUrn": "urn:li:fs_miniSkill:39371"
+            }
+        },
+        {
+            "name": "Cultural Competency",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:20154",
+            "standardizedSkill": {
+                "name": "Cultural Competency",
+                "entityUrn": "urn:li:fs_miniSkill:20154"
+            }
+        },
+        {
+            "name": "On-camera Experience",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:32210",
+            "standardizedSkill": {
+                "name": "On-camera Experience",
+                "entityUrn": "urn:li:fs_miniSkill:32210"
+            }
+        },
+        {
+            "name": "Video Conferencing",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:2843",
+            "standardizedSkill": {
+                "name": "Video Conferencing",
+                "entityUrn": "urn:li:fs_miniSkill:2843"
+            }
+        },
+        {
+            "name": "Virtual Collaboration",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:18753",
+            "standardizedSkill": {
+                "name": "Virtual Collaboration",
+                "entityUrn": "urn:li:fs_miniSkill:18753"
+            }
+        },
+        {
+            "name": "Virtual Office",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:11562",
+            "standardizedSkill": {
+                "name": "Virtual Office",
+                "entityUrn": "urn:li:fs_miniSkill:11562"
+            }
+        },
+        {
+            "name": "Wellness",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:895",
+            "standardizedSkill": {
+                "name": "Wellness",
+                "entityUrn": "urn:li:fs_miniSkill:895"
+            }
+        },
+        {
+            "name": "Big Data",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:19754",
+            "standardizedSkill": {
+                "name": "Big Data",
+                "entityUrn": "urn:li:fs_miniSkill:19754"
+            }
+        },
+        {
+            "name": "Predictive Analytics",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:5271",
+            "standardizedSkill": {
+                "name": "Predictive Analytics",
+                "entityUrn": "urn:li:fs_miniSkill:5271"
+            }
+        },
+        {
+            "name": "Python (Programming Language)",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:1346",
+            "standardizedSkill": {
+                "name": "Python (Programming Language)",
+                "entityUrn": "urn:li:fs_miniSkill:1346"
+            }
+        },
+        {
+            "name": "High Performance Teams",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:5046",
+            "standardizedSkill": {
+                "name": "High Performance Teams",
+                "entityUrn": "urn:li:fs_miniSkill:5046"
+            }
+        },
+        {
+            "name": "Team Leadership",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:2013",
+            "standardizedSkill": {
+                "name": "Team Leadership",
+                "entityUrn": "urn:li:fs_miniSkill:2013"
+            }
+        }
+    ]
+}

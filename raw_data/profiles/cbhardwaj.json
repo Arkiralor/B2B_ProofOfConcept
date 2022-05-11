@@ -1,0 +1,887 @@
+{
+    "profile": {
+        "summary": "Specialties:  Strategic marketing and corporate business development. Consulting - Sales and concept evangelism, Brand Development, Requirements workshops, Synthesis, recommendations reports to delivery. Enterprise Social networking and Collaboration project implementation, Social Enterprise Softwares consulting, Marketing and Sales plans for start-up businesses.",
+        "industryName": "Internet Publishing",
+        "lastName": "Bhardwaj",
+        "locationName": "India",
+        "student": false,
+        "geoCountryName": "India",
+        "geoCountryUrn": "urn:li:fs_geo:102713980",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "industryUrn": "urn:li:fs_industry:6",
+        "firstName": "Chetan",
+        "entityUrn": "urn:li:fs_profile:ACoAAABoqDMBiff8Yn0wfMhWEAH6zGhYXs0DQ4c",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:106777151"
+        },
+        "geoLocationName": "Delhi",
+        "location": {
+            "basicLocation": {
+                "countryCode": "in"
+            }
+        },
+        "headline": "Senior Account Director at LinkedIn",
+        "displayPictureUrl": "https://media-exp1.licdn.com/dms/image/C5603AQH3jJF0EwuKOA/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/0/1610342294779?e=1657756800&v=beta&t=xa2PJahyfJmQ4ixHJ19aSNTHRGyZnMA6Mq-4ggtZAIk",
+        "img_200_200": "200_200/0/1610342294779?e=1657756800&v=beta&t=Y0cs1JGIq156MWT3oD_ZZreZWtVcdSv28Re5pDxUFS0",
+        "img_400_400": "400_400/0/1610342294779?e=1657756800&v=beta&t=wlPLpy5yjQ8HCDv4IaBadz_gYhm9-iEsQfdHbNwjPXQ",
+        "img_800_800": "800_800/0/1610342294779?e=1657756800&v=beta&t=rB9RZJRSIl001NYkEEWjYvuAWj-uWtwsCHpWzYga__E",
+        "profile_id": "ACoAAABoqDMBiff8Yn0wfMhWEAH6zGhYXs0DQ4c",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAAABoqDMBiff8Yn0wfMhWEAH6zGhYXs0DQ4c",
+        "member_urn": "urn:li:member:6858803",
+        "experience": [
+            {
+                "locationName": "Delhi, India",
+                "entityUrn": "urn:li:fs_position:(ACoAAABoqDMBiff8Yn0wfMhWEAH6zGhYXs0DQ4c,1831224438)",
+                "geoLocationName": "Delhi, India",
+                "geoUrn": "urn:li:fs_geo:106187582",
+                "companyName": "LinkedIn",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 8,
+                        "year": 2021
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Internet"
+                    ]
+                },
+                "title": "Senior Account Director",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:1337",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_"
+            },
+            {
+                "locationName": "New Delhi Area, India",
+                "entityUrn": "urn:li:fs_position:(ACoAAABoqDMBiff8Yn0wfMhWEAH6zGhYXs0DQ4c,1573535385)",
+                "geoLocationName": "New Delhi Area, India",
+                "geoUrn": "urn:li:fs_geo:90009626",
+                "companyName": "IE Business School",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 12,
+                        "year": 2019
+                    }
+                },
+                "description": "Running IE Business School's Alumni engagement programs for Delhi in India",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 501,
+                        "end": 1000
+                    },
+                    "industries": [
+                        "Higher Education"
+                    ]
+                },
+                "title": "IE Business School Alumni Board Officer- Delhi Chapter ",
+                "region": "urn:li:fs_region:(in,7151)",
+                "companyUrn": "urn:li:fs_miniCompany:740718",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQFQ48HB9fiX8g/company-logo_"
+            },
+            {
+                "locationName": "Gurugram, Haryana, India",
+                "entityUrn": "urn:li:fs_position:(ACoAAABoqDMBiff8Yn0wfMhWEAH6zGhYXs0DQ4c,1707814306)",
+                "geoLocationName": "Gurugram, Haryana, India",
+                "geoUrn": "urn:li:fs_geo:106442238",
+                "companyName": "upGrad",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 8,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 12,
+                        "year": 2020
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 1001,
+                        "end": 5000
+                    },
+                    "industries": [
+                        "E-Learning"
+                    ]
+                },
+                "title": "Associate Director- upGrad for Business",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:9386799",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C510BAQFmHphbCid3mA/company-logo_"
+            },
+            {
+                "locationName": "Gurgaon, India",
+                "entityUrn": "urn:li:fs_position:(ACoAAABoqDMBiff8Yn0wfMhWEAH6zGhYXs0DQ4c,1403982193)",
+                "geoLocationName": "Gurgaon, India",
+                "geoUrn": "urn:li:fs_geo:100899423",
+                "companyName": "Gartner",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2019
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Information Services"
+                    ]
+                },
+                "title": "Senior Account Director",
+                "region": "urn:li:fs_region:(in,7391)",
+                "companyUrn": "urn:li:fs_miniCompany:2078",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQGyRzbB8_BYkg/company-logo_"
+            },
+            {
+                "locationName": "New Delhi Area, India",
+                "entityUrn": "urn:li:fs_position:(ACoAAABoqDMBiff8Yn0wfMhWEAH6zGhYXs0DQ4c,1366826902)",
+                "geoLocationName": "New Delhi Area, India",
+                "geoUrn": "urn:li:fs_geo:90009626",
+                "companyName": "LinkedIn",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2018
+                    },
+                    "startDate": {
+                        "month": 10,
+                        "year": 2018
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Internet"
+                    ]
+                },
+                "title": "Senior Relationship Manager, Corporate Large Accounts ",
+                "region": "urn:li:fs_region:(in,7151)",
+                "companyUrn": "urn:li:fs_miniCompany:1337",
+                "honors": [
+                    "urn:li:fs_honor:(ACoAAABoqDMBiff8Yn0wfMhWEAH6zGhYXs0DQ4c,825933345)"
+                ],
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAABoqDMBiff8Yn0wfMhWEAH6zGhYXs0DQ4c,133602575)",
+                "school": {
+                    "objectUrn": "urn:li:school:12189",
+                    "entityUrn": "urn:li:fs_miniSchool:12189",
+                    "active": true,
+                    "schoolName": "IE Business School",
+                    "trackingId": "icQB7CkrTmq/pqwpLykj7w==",
+                    "logoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQFQ48HB9fiX8g/company-logo_"
+                },
+                "activities": "President -IE India Club\nVice President- Net Impact Club",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2013
+                    },
+                    "startDate": {
+                        "year": 2012
+                    }
+                },
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:101409",
+                "degreeName": "International MBA",
+                "schoolName": "IE Business School",
+                "fieldOfStudy": "Business Administration and Management, General",
+                "schoolUrn": "urn:li:fs_miniSchool:12189"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAABoqDMBiff8Yn0wfMhWEAH6zGhYXs0DQ4c,64901409)",
+                "school": {
+                    "objectUrn": "urn:li:school:13666",
+                    "entityUrn": "urn:li:fs_miniSchool:13666",
+                    "active": true,
+                    "schoolName": "Savitribai Phule Pune University",
+                    "trackingId": "3J1x0JX2S2ObtGrMxvZObw==",
+                    "logoUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQEFsIyAZyuMwA/company-logo_"
+                },
+                "activities": "Part of the Industry Interface Cell,\nHead of the Debate team,\nClass Representative for the MMM class (2010)\nVoted Student of the Year (2010)\nPart of the Cultural Committee",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2011
+                    },
+                    "startDate": {
+                        "year": 2009
+                    }
+                },
+                "description": "Masters in marketing",
+                "degreeName": "Masters in Marketing Management",
+                "schoolName": "Pune University",
+                "fieldOfStudy": "Marketing",
+                "honors": [
+                    "urn:li:fs_honor:(ACoAAABoqDMBiff8Yn0wfMhWEAH6zGhYXs0DQ4c,54)"
+                ],
+                "schoolUrn": "urn:li:fs_miniSchool:13666"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAABoqDMBiff8Yn0wfMhWEAH6zGhYXs0DQ4c,3296194)",
+                "school": {
+                    "objectUrn": "urn:li:school:20321",
+                    "entityUrn": "urn:li:fs_miniSchool:20321",
+                    "active": true,
+                    "schoolName": "Delhi University",
+                    "trackingId": "cCPTCT/tSxivEMcAtw6TYQ==",
+                    "logoUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQEKpQuxtygnAw/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2008
+                    },
+                    "startDate": {
+                        "year": 2005
+                    }
+                },
+                "degreeName": "B.Com.",
+                "schoolName": "Delhi University",
+                "fieldOfStudy": "Economics,Business research,Accounts,English",
+                "schoolUrn": "urn:li:fs_miniSchool:20321"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "Spanish",
+                "proficiency": "ELEMENTARY"
+            }
+        ],
+        "publications": [],
+        "certifications": [],
+        "volunteer": [
+            {
+                "role": "Intern",
+                "companyName": "World Health Organization",
+                "cause": "CHILDREN",
+                "company": {
+                    "miniCompany": {
+                        "objectUrn": "urn:li:company:5350",
+                        "entityUrn": "urn:li:fs_miniCompany:5350",
+                        "name": "World Health Organization",
+                        "showcase": false,
+                        "active": true,
+                        "logo": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1519856175404?e=1660176000&v=beta&t=F95RhT84Rjw5FAN1i_TH1HNTMniFmmeYHSdgjBEWO0E",
+                                        "expiresAt": 1660176000000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1519856175404?e=1660176000&v=beta&t=yeyV64qVTqdeBakjs7VKXcGO6zOkhqsXjw5HMRPF_Cw",
+                                        "expiresAt": 1660176000000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1519856175404?e=1660176000&v=beta&t=-8hso1z9excyvgOyOhFuWPKLF0mhoKA6Dh4gq5dyVRQ",
+                                        "expiresAt": 1660176000000,
+                                        "height": 400
+                                    }
+                                ],
+                                "rootUrl": "https://media-exp1.licdn.com/dms/image/C510BAQF6SeKR7JaflQ/company-logo_"
+                            }
+                        },
+                        "universalName": "world-health-organization",
+                        "dashCompanyUrn": "urn:li:fsd_company:5350",
+                        "trackingId": "oxepVPGwSwWakR82+ptrJQ=="
+                    }
+                },
+                "companyUrn": "urn:li:fs_miniCompany:5350"
+            }
+        ],
+        "honors": [
+            {
+                "description": "Regional awards at LinkedIn to recognize people who have stood out through the year for the teams. The decisions are taken by the leadership team",
+                "occupation": "urn:li:fs_position:(ACoAAABoqDMBiff8Yn0wfMhWEAH6zGhYXs0DQ4c,1366826902)",
+                "title": "Regional MVP -North",
+                "issueDate": {
+                    "month": 10,
+                    "year": 2018
+                },
+                "issuer": "India Leadership "
+            },
+            {
+                "occupation": "urn:li:fs_education:(ACoAAABoqDMBiff8Yn0wfMhWEAH6zGhYXs0DQ4c,64901409)",
+                "title": "Student of the Year 2010",
+                "issueDate": {
+                    "month": 8,
+                    "year": 2010
+                }
+            }
+        ],
+        "projects": [
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Chetan",
+                            "lastName": "Bhardwaj",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAABoqDMBiff8Yn0wfMhWEAH6zGhYXs0DQ4c",
+                            "occupation": "Senior Account Director at LinkedIn",
+                            "objectUrn": "urn:li:member:6858803",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAABoqDMBiff8Yn0wfMhWEAH6zGhYXs0DQ4c",
+                            "publicIdentifier": "cbhardwaj",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1610342294779?e=1657756800&v=beta&t=xa2PJahyfJmQ4ixHJ19aSNTHRGyZnMA6Mq-4ggtZAIk",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1610342294779?e=1657756800&v=beta&t=Y0cs1JGIq156MWT3oD_ZZreZWtVcdSv28Re5pDxUFS0",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1610342294779?e=1657756800&v=beta&t=wlPLpy5yjQ8HCDv4IaBadz_gYhm9-iEsQfdHbNwjPXQ",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1610342294779?e=1657756800&v=beta&t=rB9RZJRSIl001NYkEEWjYvuAWj-uWtwsCHpWzYga__E",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5603AQH3jJF0EwuKOA/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "HeOd1sTvQmGVCdQb4W+sKg=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAABoqDMBiff8Yn0wfMhWEAH6zGhYXs0DQ4c,48,49)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAABoqDMBiff8Yn0wfMhWEAH6zGhYXs0DQ4c"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Adriana",
+                            "lastName": "Dupont Garmendia",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAegOZYBFDkL83_w6EfygC7b1HlOHzPxvng",
+                            "occupation": "MBA | Finance Director | Digital Transformation | Cultural transformation | Shared Services Centers | #soyPromociona | #soyEJECON",
+                            "objectUrn": "urn:li:member:127941014",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAegOZYBFDkL83_w6EfygC7b1HlOHzPxvng",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1631298573755?e=1657756800&v=beta&t=J8IbRE5itaR74EoDn0wow-lHTLnq8rldpT-baGQjQk0",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1631298573755?e=1657756800&v=beta&t=2-CvxbzqZuoSFVseJ4-XQCtMHMe5Rx4GwhocKSb2aJY",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E16AQFM4jPUp5S0Zw/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "adrianadupontgarmendia",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1586644517983?e=1657756800&v=beta&t=X_6yZ5ETO12sAvs6R4gPf-vSepUAO8C1UvHzGpcNI6M",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1586644517983?e=1657756800&v=beta&t=ZHLGngYsY0koX-FKBIWQ6f25H90u-UXUxjAxyWTqQSk",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1586644517983?e=1657756800&v=beta&t=YuRjObmRqnVuwhOmb35JDe9Nke0H--xIWGZwDB4RU1Q",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1586644517983?e=1657756800&v=beta&t=B57Le-i73964nCwaxUlOmN6f8EJT6-0lCHrR2PJAIbk",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5603AQGCsNOIi3L5ug/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "I8yy/vGgQwGOyp2Vt4jCxw=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAABoqDMBiff8Yn0wfMhWEAH6zGhYXs0DQ4c,48,50)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAegOZYBFDkL83_w6EfygC7b1HlOHzPxvng"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Abbas",
+                            "lastName": "Al Lawati, CFA",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAITii0BJX-pYhlz1t-jkkwqQyRR58gGLo8",
+                            "occupation": "Sr. VP & Head Of Treasury & Investment - Islamic",
+                            "objectUrn": "urn:li:member:34834989",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAITii0BJX-pYhlz1t-jkkwqQyRR58gGLo8",
+                            "publicIdentifier": "abbas-al-lawati-cfa-1797bbb",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1557908218953?e=1657756800&v=beta&t=k2IPGUbHDWsW6uFmissQmK-GeUQ6Z884ZpZ-ufyiYtY",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1557908218953?e=1657756800&v=beta&t=bPt71VdXOLpNv4A2KFV0CRLeBO0bDBKC7x1waY5XzrU",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1557908218953?e=1657756800&v=beta&t=bLNb0lpUga1SXFQPHehwsV3Q0acDctPCpvOYlN6Rcss",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1557908218953?e=1657756800&v=beta&t=qF-MO72SW9bz5MiH6RxOQuLU0o7xooHDfpajgYfVxms",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5103AQFn0AVor-oY1w/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "6Dl1kr4xRU6HSuzniLHSMA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAABoqDMBiff8Yn0wfMhWEAH6zGhYXs0DQ4c,48,51)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAITii0BJX-pYhlz1t-jkkwqQyRR58gGLo8"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Raviteja",
+                            "lastName": "Pandiri",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAQC7DwB__ywesmNl6Q5xujmzRo6UCGgj7U",
+                            "occupation": "Healthy Disrespect for the Impossible",
+                            "objectUrn": "urn:li:member:67300412",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAQC7DwB__ywesmNl6Q5xujmzRo6UCGgj7U",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1516848575590?e=1657756800&v=beta&t=0yP0SkZ0VMwnlY_pXMQnzauvs5eiD_iMZjXgFQX2SLk",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1516848575590?e=1657756800&v=beta&t=sP6PlIQwvDoyCAnkFY7OyWScvBEdcDcAM0qaKVZUTIY",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D16AQELH14CBKjRRw/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "ravitejapandiri",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1516848574899?e=1657756800&v=beta&t=3LF1COPQQ4n3u8sPE5xUoWQ1ADlOn3sLtoSvW-ob69k",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1516848574899?e=1657756800&v=beta&t=HPFl947sm8iUskSnSMlNaqQXVRLgOB6wUKn8qHA9a28",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1516848574899?e=1657756800&v=beta&t=hMFXGWiNyewZP6wjNZXHMs5bymd9ilzCGA4gbSgroCI",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1516848574899?e=1657756800&v=beta&t=-IhnYdd4_ua924UKulq8DvnKzOvXjKXNo8Wvx2f5yxk",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQHDorhj_ndzZg/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "u2OMEETXQ0SkNrNss6hRVA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAABoqDMBiff8Yn0wfMhWEAH6zGhYXs0DQ4c,48,52)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAQC7DwB__ywesmNl6Q5xujmzRo6UCGgj7U"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 10,
+                        "year": 2013
+                    },
+                    "startDate": {
+                        "month": 10,
+                        "year": 2013
+                    }
+                },
+                "title": "The United States' government shut down from a game theory perspective"
+            }
+        ]
+    },
+    "contact_info": {
+        "email_address": null,
+        "websites": [],
+        "twitter": [],
+        "birthdate": null,
+        "ims": null,
+        "phone_numbers": []
+    },
+    "connections": [
+        {
+            "urn_id": "ACoAAC24GToBKzC8vS7jZaCEqoq3Jse_M2Tson8",
+            "distance": "DISTANCE_1",
+            "public_id": "abhijit-paul-936a68194",
+            "tracking_id": "767039802"
+        },
+        {
+            "urn_id": "ACoAAByhqogBLFVDJbqojrVMhtKfC3o3hRfEcjg",
+            "distance": "DISTANCE_1",
+            "public_id": "biki-talukdar-460a54114",
+            "tracking_id": "480357000"
+        },
+        {
+            "urn_id": "ACoAABr4jt0BoOUmisITdRo1gR4CumG5I4jjZIw",
+            "distance": "DISTANCE_1",
+            "public_id": "samudra-deka-911659107",
+            "tracking_id": "452497117"
+        },
+        {
+            "urn_id": "ACoAADZmR9QB1zOH_PmrzQQw2wQmTJRTcNGU7CE",
+            "distance": "DISTANCE_1",
+            "public_id": "bkalita",
+            "tracking_id": "912672724"
+        },
+        {
+            "urn_id": "ACoAADLJzxsBizdB0nN5NZBCM41Q-z6-7ef5gyI",
+            "distance": "DISTANCE_1",
+            "public_id": "deepjyoti-kalita-78b4411b9",
+            "tracking_id": "852086555"
+        },
+        {
+            "urn_id": "ACoAADe3CFYBsoFdtSEajXbg51HDagdpBEb3kx4",
+            "distance": "DISTANCE_1",
+            "public_id": "binud-panging-872062221",
+            "tracking_id": "934742102"
+        },
+        {
+            "urn_id": "ACoAAC2aUPYBGPB-T9xDu2Hjrq7OgzRPu5nTvyE",
+            "distance": "DISTANCE_1",
+            "public_id": "jintudas",
+            "tracking_id": "765087990"
+        },
+        {
+            "urn_id": "ACoAACT67ZEBgw1Aprl8Aqy8zWMavdTyaWs7J3w",
+            "distance": "DISTANCE_1",
+            "public_id": "titikshya-das-015942153",
+            "tracking_id": "620424593"
+        },
+        {
+            "urn_id": "ACoAAAjgx0kBxJoPu_7t3kS1NbDizQekjIIzMbE",
+            "distance": "DISTANCE_1",
+            "public_id": "lakheswar-nath-289a7141",
+            "tracking_id": "148948809"
+        },
+        {
+            "urn_id": "ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE",
+            "distance": "DISTANCE_1",
+            "public_id": "prithoo11335",
+            "tracking_id": "231212168"
+        },
+        {
+            "urn_id": "ACoAACr0GSwBcmPDh22HqivG9h0JwG-eahXSYW8",
+            "distance": "DISTANCE_1",
+            "public_id": "nihar-kashyap98",
+            "tracking_id": "720640300"
+        },
+        {
+            "urn_id": "ACoAACeXhGEBEVCUXmKi5rowUSeFZNerPjvzQsc",
+            "distance": "DISTANCE_1",
+            "public_id": "mahbubul-haque-a55552166",
+            "tracking_id": "664241249"
+        },
+        {
+            "urn_id": "ACoAACzP6KMBcLKqKnFRpIudaukkoW4NoqstgrM",
+            "distance": "DISTANCE_1",
+            "public_id": "pranit-prakash-sahu",
+            "tracking_id": "751823011"
+        },
+        {
+            "urn_id": "ACoAACbTg-gBtT_YqZc-FG2lIVBv13QTx8UUB8E",
+            "distance": "DISTANCE_1",
+            "public_id": "mridul24",
+            "tracking_id": "651396072"
+        },
+        {
+            "urn_id": "ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY",
+            "distance": "DISTANCE_1",
+            "public_id": "tridip-das-b5837911b",
+            "tracking_id": "499568180"
+        },
+        {
+            "urn_id": "ACoAAAI9wXoBijRhLoxf7BO8UTK0DX-7KexJV30",
+            "distance": "DISTANCE_1",
+            "public_id": "boren-ghosh-27671410",
+            "tracking_id": "37601658"
+        },
+        {
+            "urn_id": "ACoAACZxhUQBl1V8kpLj4ACrE2LzpatGvVzEgSA",
+            "distance": "DISTANCE_1",
+            "public_id": "nabajyoti-borah-944000160",
+            "tracking_id": "644973892"
+        },
+        {
+            "urn_id": "ACoAABYq8T8ByHFGBUFRrHT5iKBI2u4YZjTLHFc",
+            "distance": "DISTANCE_1",
+            "public_id": "netranjit-borgohain-53b677a4",
+            "tracking_id": "371913023"
+        },
+        {
+            "urn_id": "ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8",
+            "distance": "DISTANCE_1",
+            "public_id": "sivaranjan-goswami-790b4523",
+            "tracking_id": "83451420"
+        },
+        {
+            "urn_id": "ACoAACTFIIYB1cK_syRcCXEc0o8RTm4JMlhYcHA",
+            "distance": "DISTANCE_1",
+            "public_id": "arun-kumar-nath-686721152",
+            "tracking_id": "616898694"
+        },
+        {
+            "urn_id": "ACoAAC4efLABFBv0f30-SDGDgLSf1gXTlkpJTfc",
+            "distance": "DISTANCE_1",
+            "public_id": "shawan-mandal",
+            "tracking_id": "773749936"
+        },
+        {
+            "urn_id": "ACoAACDVs-sB_IgxPBMHMRBfR6is3jmwwV_OvTE",
+            "distance": "DISTANCE_1",
+            "public_id": "swapnil-bhattacharjee-ghy",
+            "tracking_id": "550876139"
+        },
+        {
+            "urn_id": "ACoAACUEZ3QB2Xm0OWR0cqoc_u-o4KW_OENO1_8",
+            "distance": "DISTANCE_1",
+            "public_id": "rajan-sahu",
+            "tracking_id": "621045620"
+        },
+        {
+            "urn_id": "ACoAAC12ZqEBCx9JN_YIi1eF1FPPDif3mXI3fyc",
+            "distance": "DISTANCE_1",
+            "public_id": "abinash-panigrahi-169531193",
+            "tracking_id": "762734241"
+        },
+        {
+            "urn_id": "ACoAACYmrvgBRdvWxItbY_KP_fyrEgZ9U-QKJqk",
+            "distance": "DISTANCE_1",
+            "public_id": "rtsu",
+            "tracking_id": "640069368"
+        },
+        {
+            "urn_id": "ACoAADRMKTMBj76XTPRfB9R5rvfwNOXP2n93n4c",
+            "distance": "DISTANCE_1",
+            "public_id": "manash-deka-497a12205",
+            "tracking_id": "877406515"
+        },
+        {
+            "urn_id": "ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc",
+            "distance": "DISTANCE_1",
+            "public_id": "ratnadeep-bhattacharjee",
+            "tracking_id": "135079003"
+        },
+        {
+            "urn_id": "ACoAAAR5v8MBjPwCvp8TP9RWZyGSeNYNiJ1wKJE",
+            "distance": "DISTANCE_1",
+            "public_id": "nilotpal-boruah",
+            "tracking_id": "75087811"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Business Development"
+        },
+        {
+            "name": "CRM"
+        },
+        {
+            "name": "Team Management"
+        },
+        {
+            "name": "Strategic Thinking"
+        },
+        {
+            "name": "Project Management"
+        },
+        {
+            "name": "Market Analysis"
+        },
+        {
+            "name": "Business Strategy"
+        },
+        {
+            "name": "Strategy"
+        },
+        {
+            "name": "Sales"
+        },
+        {
+            "name": "Marketing Strategy"
+        },
+        {
+            "name": "Competitive Analysis"
+        },
+        {
+            "name": "Program Management"
+        },
+        {
+            "name": "Market Research"
+        },
+        {
+            "name": "Start-ups"
+        },
+        {
+            "name": "Lead Generation"
+        },
+        {
+            "name": "Consulting"
+        },
+        {
+            "name": "Management Consulting"
+        },
+        {
+            "name": "Sales Management"
+        },
+        {
+            "name": "Analysis"
+        },
+        {
+            "name": "Strategic Planning"
+        },
+        {
+            "name": "Internal Communications"
+        },
+        {
+            "name": "Marketing"
+        },
+        {
+            "name": "Management"
+        },
+        {
+            "name": "Business Analysis"
+        },
+        {
+            "name": "Business Planning"
+        },
+        {
+            "name": "Analytics"
+        },
+        {
+            "name": "Proposal Writing"
+        },
+        {
+            "name": "Product Marketing"
+        },
+        {
+            "name": "Leadership"
+        },
+        {
+            "name": "Entrepreneurship"
+        },
+        {
+            "name": "Marketing Management"
+        },
+        {
+            "name": "Business Intelligence"
+        },
+        {
+            "name": "Agency Relationship Management"
+        },
+        {
+            "name": "Requirements Gathering"
+        },
+        {
+            "name": "IT Project+"
+        },
+        {
+            "name": "Enterprise Software"
+        },
+        {
+            "name": "Pre-sales"
+        },
+        {
+            "name": "New Business Development"
+        },
+        {
+            "name": "Telecommunications"
+        },
+        {
+            "name": "Product Management"
+        },
+        {
+            "name": "Strategic Consulting"
+        },
+        {
+            "name": "Change Management"
+        },
+        {
+            "name": "Cross-functional Team Leadership"
+        },
+        {
+            "name": "Customer Relationship Management (CRM)"
+        },
+        {
+            "name": "Employer Branding"
+        },
+        {
+            "name": "Public Speaking"
+        }
+    ]
+}

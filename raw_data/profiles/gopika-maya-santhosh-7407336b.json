@@ -1,0 +1,803 @@
+{
+    "profile": {
+        "summary": "Execution-oriented data strategist and constant learner with 6.5 years of hands-on experience in solving cross-industry business problems.\n\nInsights @ LinkedIn - Helping the Sales and Marketing functions of LinkedIn deliver data-driven thought leadership content to our customers across the Talent and Learning landscape. \n\nDecision Sciences @ Mu Sigma - Experienced in Retail and BFSI verticals across projects on Product assortment and space planning, Layout clustering, Distribution optimisation, Performance reporting, Data loss prevention and Stock market anomaly detection.\n\nNational-level debater and seasoned orator with 15+ years of experience in public speaking.\n\nCompetencies - Leadership , Strategy, Collaboration, Communication, Execution, Analytical Solutioning, Problem solving, Design Thinking, Data Storytelling.",
+        "industryName": "Internet Publishing",
+        "lastName": "Maya Santhosh",
+        "locationName": "India",
+        "student": false,
+        "geoCountryName": "India",
+        "geoCountryUrn": "urn:li:fs_geo:102713980",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "industryUrn": "urn:li:fs_industry:6",
+        "firstName": "Gopika",
+        "entityUrn": "urn:li:fs_profile:ACoAAA7hT2AB_iVnQa7hm0Tno_i48eFtMnT9Eyo",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:105307040"
+        },
+        "geoLocationName": "Bengaluru, Karnataka",
+        "location": {
+            "basicLocation": {
+                "countryCode": "in"
+            }
+        },
+        "headline": "Strategy & Analytics @ Google | Ex-LinkedIn | Data Storytelling | Public Speaking",
+        "displayPictureUrl": "https://media-exp1.licdn.com/dms/image/C4E03AQH14MQyfW8CCA/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/0/1624526196073?e=1657756800&v=beta&t=eARO3-bUGyEGKAtU7TcEjOeudY4u_8H5aI8a9hcvq5Q",
+        "img_200_200": "200_200/0/1624526196073?e=1657756800&v=beta&t=1W9GnvHEGgiQRt-qGPLObounU2G_4-DA39T4Gh8lIpA",
+        "img_400_400": "400_400/0/1624526196073?e=1657756800&v=beta&t=1efRDyxj1im2KjNaytMsn3M1jP_LrG4Jggxp1ZD6gJ4",
+        "img_800_800": "800_800/0/1624526196073?e=1657756800&v=beta&t=iB8_lLh91eVTkSOpTHM8wpBv9k-RCfFa0tVCxccq0QE",
+        "profile_id": "ACoAAA7hT2AB_iVnQa7hm0Tno_i48eFtMnT9Eyo",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAAA7hT2AB_iVnQa7hm0Tno_i48eFtMnT9Eyo",
+        "member_urn": "urn:li:member:249646944",
+        "experience": [
+            {
+                "locationName": "India",
+                "entityUrn": "urn:li:fs_position:(ACoAAA7hT2AB_iVnQa7hm0Tno_i48eFtMnT9Eyo,1936192448)",
+                "geoLocationName": "India",
+                "geoUrn": "urn:li:fs_geo:102713980",
+                "companyName": "Google",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 3,
+                        "year": 2022
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Internet"
+                    ]
+                },
+                "title": "Strategy and Insights Manager",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:1441",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQHiNSL4Or29cg/company-logo_"
+            },
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAAA7hT2AB_iVnQa7hm0Tno_i48eFtMnT9Eyo,1899489200)",
+                "companyName": "LinkedIn",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 2,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2021
+                    }
+                },
+                "description": "Embrace ERG (Employee Resource Group) is a global community of LinkedIn employees that come together across cultures, ethnicities and nationalities.\nOur Vision is to empower LinkedIn to represent a global workforce welcoming all cultures, ethnicities and nationalities - embracing diversity everywhere and enabling all to thrive. Our Mission is to overcome unconscious bias and build a sense of belonging by Embracing cultural, nationality and ethnic diversity at every level of our organization.\n\nIn this role, I work with the extended regional team to execute the end-to-end Comms strategy in APAC across various events and channels.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Internet"
+                    ]
+                },
+                "title": "Communications Lead, APAC - Embrace ERG",
+                "companyUrn": "urn:li:fs_miniCompany:1337",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_"
+            },
+            {
+                "locationName": "Bengaluru, Karnataka, India",
+                "entityUrn": "urn:li:fs_position:(ACoAAA7hT2AB_iVnQa7hm0Tno_i48eFtMnT9Eyo,1705023500)",
+                "geoLocationName": "Bengaluru, Karnataka, India",
+                "geoUrn": "urn:li:fs_geo:109710172",
+                "companyName": "LinkedIn",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 2,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 10,
+                        "year": 2020
+                    }
+                },
+                "description": "Conceptualized and strategized from grounds-up, \u2018Think Insights\u2019, LinkedIn\u2019s data-driven thought leadership platform. Managed numerous stakeholders to drive content creation, activation and leverage\nImpact: Published 30+ thought leadership pieces. 25k average site visits engaging 175 customers on avg. Quoted by LinkedIn CEO, Ryan Roslanski in his HBR article, David Green in his flagship \u2018Digital HR Leader' and \u2018Best HR and People Analytics articles' series, People Matters, Business Insider etc.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Internet"
+                    ]
+                },
+                "title": "Senior Insights Analyst",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:1337",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_"
+            },
+            {
+                "locationName": "Bangalore",
+                "entityUrn": "urn:li:fs_position:(ACoAAA7hT2AB_iVnQa7hm0Tno_i48eFtMnT9Eyo,1367529427)",
+                "geoLocationName": "Bangalore",
+                "companyName": "LinkedIn",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 9,
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "month": 10,
+                        "year": 2018
+                    }
+                },
+                "description": "Created data-driven sales narratives to help prove the value and impact of LinkedIn products to LinkedIn India Enterprise customers\nImpact: ~5M dollars,100+ custom client narratives, 30+ deal conversions",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Internet"
+                    ]
+                },
+                "title": "Insights Analyst",
+                "companyUrn": "urn:li:fs_miniCompany:1337",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_"
+            },
+            {
+                "locationName": "Bengaluru Area, India",
+                "entityUrn": "urn:li:fs_position:(ACoAAA7hT2AB_iVnQa7hm0Tno_i48eFtMnT9Eyo,809260393)",
+                "geoLocationName": "Bengaluru Area, India",
+                "companyName": "Mu Sigma Inc.",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 8,
+                        "year": 2018
+                    },
+                    "startDate": {
+                        "month": 3,
+                        "year": 2017
+                    }
+                },
+                "description": "BFSI - Violation Control Framework - Led a team of 7 to develop a framework to detect anomalies in stock market and off market data. Impact: ~$0.5 million in savings, 80% cut in man-hours and 75% reduction in daily false alerts, annually\n\nBFSI - Data Loss Prevention - Mapped the problem space of Data Loss Prevention & helped clients adopt a problem-solving framework\nImpact: Created an analytical roadmap till 2020 featuring projects based on impact and feasibility",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 1001,
+                        "end": 5000
+                    },
+                    "industries": [
+                        "Management Consulting"
+                    ]
+                },
+                "title": "Decision Scientist - Team lead",
+                "companyUrn": "urn:li:fs_miniCompany:37734",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQGBo5xq8-7p6g/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAA7hT2AB_iVnQa7hm0Tno_i48eFtMnT9Eyo,156324886)",
+                "school": {
+                    "objectUrn": "urn:li:school:3246013",
+                    "entityUrn": "urn:li:fs_miniSchool:3246013",
+                    "active": true,
+                    "schoolName": "Mar Baselios College of Engineering and Technology (Autonomous) | Thiruvananthapuram | Kerala",
+                    "trackingId": "oXNuxYt5Sny9xfAL9h/KyA==",
+                    "logoUrl": "https://media-exp1.licdn.com/dms/image/C560BAQH-srh05A0tAw/company-logo_"
+                },
+                "activities": "English Debate and Extempore, Dance, Music, Creative writing, Magazine editorial board.",
+                "grade": "8.7 CGPA",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2015
+                    },
+                    "startDate": {
+                        "year": 2011
+                    }
+                },
+                "description": "Major achievements-\n-Best outgoing student, 2015\nAcademics:\n-Silver, Gold & Platinum certifications by BSNL\n-Internship at ERTL & Kudankulam Nuclear Power Plant\nExtra-curricular:\n-2nd prize, National finals of \u2018The Great Debate\u2019 by the British High Commission\n-3rd, English Debate - National University Youth Festival at Calcutta & participant, nationals held at Indore\n-Chief Editor of \u2018LEGACY\u2019, college magazine 2014 \n-Prizes for Debate, Elocution and Folk orchestra at South Zone University Youth Festivals\n-Hat-trick 1st, English Extempore (2012, 2013, 2014) & prizes for English Debate at Kerala University Youth Festivals\n-Panelist in talk shows by NDTV, CNN-IBN, Asianet News & penned opinion columns in Times of India and The New Indian Express\n-Prizes in All Kerala Young Scientist, Persona & Dance competitions\nSocial causes:\n-English Teaching volunteer with Make A Difference\n-Organized \u2018SPARK\u2019, workshops for providing public speaking training to school students",
+                "degreeName": "Bachelor\u2019s Degree",
+                "schoolName": "Mar Baselios College of Engineering and Technology (Autonomous)",
+                "fieldOfStudy": "Electronics and Communication Engineering",
+                "schoolUrn": "urn:li:fs_miniSchool:3246013"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAA7hT2AB_iVnQa7hm0Tno_i48eFtMnT9Eyo,345715722)",
+                "activities": "English extempore, debate, dance, music, creative writing.",
+                "grade": "100%, 12th boards",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2011
+                    },
+                    "startDate": {
+                        "year": 1997
+                    }
+                },
+                "description": "Major Achievements-\n-Best outgoing student, 2009\n-Cultural activities captain\n-Editorial board member of multiple school magazines\n-Winner of Amul Vidyabhushan award\n-Prizes for English Extempore (2009, 2010, 2011) & Group Dance (2010, 2011) at Kerala State School Youth Festivals\n-2nd for Multimedia Presentation & \u2018A\u2019 Grade for IT Project Competition for the project, \u2018Surface Water Drainage Problems at Thampanoor\u2019, at Kerala State School IT Fests\n-First runner up at the State Level OISCA Top Teens competition\n-Title winner for personality competitions at Chrisgala and San Revo\n-1st, National Astronomy Quiz by Vigyan Prasad, New Delhi\n-Over 100 prizes in English Extempore, Essay writing, Group dance, Group music and Quiz at inter-school competitions",
+                "schoolName": "Nirmala Bhavan Higher Secondary School"
+            }
+        ],
+        "languages": [],
+        "publications": [],
+        "certifications": [
+            {
+                "authority": "Bharat Sanchar Nigam Limited",
+                "name": "Platinum certification for Electronics and Communication Engineers by BSNL",
+                "company": {
+                    "objectUrn": "urn:li:company:10320",
+                    "entityUrn": "urn:li:fs_miniCompany:10320",
+                    "name": "Bharat Sanchar Nigam Limited",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1519856158145?e=1660176000&v=beta&t=ePEVqa8CTY_PlxeJyaA3X49KbJzg0uNf74e8JcZA0rI",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1519856158145?e=1660176000&v=beta&t=O41qaFzdqALqAN84ymsCk8s4b7eChsTOJvO_Kz524PU",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1519856158145?e=1660176000&v=beta&t=prYlip_7mhsShmfI8PCc9lgeAMjkH1cPdbXhkSyc4xA",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQFeqSn-BIRwcg/company-logo_"
+                        }
+                    },
+                    "universalName": "bsnl",
+                    "dashCompanyUrn": "urn:li:fsd_company:10320",
+                    "trackingId": "uqOPORfISBS4MAc5S0SnvQ=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:10320"
+            },
+            {
+                "name": "Mu Sigma Decision Scientist",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 7,
+                        "year": 2017
+                    }
+                },
+                "displaySource": "mu-sigma.com",
+                "url": "https://www.portal.mu-sigma.com/msu/DecisionScientistCertificate/8054-Jul2017-33525.html"
+            },
+            {
+                "authority": "LinkedIn",
+                "name": "Cultivating Cultural Competence and Inclusion",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 8,
+                        "year": 2020
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:1337",
+                    "entityUrn": "urn:li:fs_miniCompany:1337",
+                    "name": "LinkedIn",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1638831589865?e=1660176000&v=beta&t=BLQftLy0Qs0EBVJIuWPMuAUeYUwk2NFkGV64ugXQRGo",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1638831589865?e=1660176000&v=beta&t=x5azEgZkHPR5MQHKe-JAU7OCpzuevGQIN2iQzEXm7FA",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1638831589865?e=1660176000&v=beta&t=4ByckqnOSGF1jY0ieSfxachmGJ0dfUy8ErhiMjGS9p8",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_"
+                        }
+                    },
+                    "universalName": "linkedin",
+                    "dashCompanyUrn": "urn:li:fsd_company:1337",
+                    "trackingId": "/2aL2+dqS2ugHVw9CorWqg=="
+                },
+                "displaySource": "linkedin.com",
+                "companyUrn": "urn:li:fs_miniCompany:1337",
+                "url": "http://www.linkedin.com/learning/cultivating-cultural-competence-and-inclusion"
+            },
+            {
+                "authority": "LinkedIn",
+                "name": "Business Storytelling with C.C. Chapman",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 5,
+                        "year": 2021
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:1337",
+                    "entityUrn": "urn:li:fs_miniCompany:1337",
+                    "name": "LinkedIn",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1638831589865?e=1660176000&v=beta&t=BLQftLy0Qs0EBVJIuWPMuAUeYUwk2NFkGV64ugXQRGo",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1638831589865?e=1660176000&v=beta&t=x5azEgZkHPR5MQHKe-JAU7OCpzuevGQIN2iQzEXm7FA",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1638831589865?e=1660176000&v=beta&t=4ByckqnOSGF1jY0ieSfxachmGJ0dfUy8ErhiMjGS9p8",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_"
+                        }
+                    },
+                    "universalName": "linkedin",
+                    "dashCompanyUrn": "urn:li:fsd_company:1337",
+                    "trackingId": "9PfgjNR6Rfatth/cBpMCWw=="
+                },
+                "displaySource": "linkedin.com",
+                "companyUrn": "urn:li:fs_miniCompany:1337",
+                "url": "https://www.linkedin.com/learning/business-storytelling-with-c-c-chapman"
+            }
+        ],
+        "volunteer": [
+            {
+                "role": "English Teaching Volunteer",
+                "companyName": "Make A Difference",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 7,
+                        "year": 2013
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2011
+                    }
+                },
+                "cause": "EDUCATION",
+                "description": "-Was an active member of the MAD Trivandrum chapter during my college years. I found in MAD, a way to do something I love - teaching - while giving back a little to the society\n-We were tackling the problem of insufficient exposure to English language and a weak communication muscle seen in under-privileged children \n-Helped organize a public performance event and a 'Dream Camp' for our kids \n-Worked as a teaching volunteer for English across two centers in Trivandrum\n-Was responsible for 10 - 15 kids in the age group of 8 - 17",
+                "company": {
+                    "miniCompany": {
+                        "objectUrn": "urn:li:company:690247",
+                        "entityUrn": "urn:li:fs_miniCompany:690247",
+                        "name": "Make A Difference",
+                        "showcase": false,
+                        "active": true,
+                        "logo": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1533704469095?e=1660176000&v=beta&t=D-fjd-lXCxqOAZVI3rNMsnaj7j64YC_G4DlxH8KFvOI",
+                                        "expiresAt": 1660176000000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1533704469095?e=1660176000&v=beta&t=5jApg3JxusPASefuz7FPzWDnFHmL3IyefhePL8ZymXI",
+                                        "expiresAt": 1660176000000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1533704469095?e=1660176000&v=beta&t=VoE_gL_ZpR2UyBXV2PTdZlbPkWT6L9V0gz8zmyYIBoQ",
+                                        "expiresAt": 1660176000000,
+                                        "height": 400
+                                    }
+                                ],
+                                "rootUrl": "https://media-exp1.licdn.com/dms/image/C510BAQHSolnkv_Jrog/company-logo_"
+                            }
+                        },
+                        "universalName": "make-a-difference_2",
+                        "dashCompanyUrn": "urn:li:fsd_company:690247",
+                        "trackingId": "dST7OyW1S965i2ZVjLNpqg=="
+                    }
+                },
+                "companyUrn": "urn:li:fs_miniCompany:690247"
+            },
+            {
+                "role": "Co-Founder",
+                "companyName": "Spark - Public speaking and Communication Workshops",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2015
+                    },
+                    "startDate": {
+                        "year": 2014
+                    }
+                },
+                "cause": "EDUCATION",
+                "description": "-Co-founded a series of workshops - SPARK - aimed at improving public speaking and communication skills among students in rural areas of Trivandrum\n-Designed and executed the entire series by aggregating relevant content and adopting a child-friendly and interactive session plan.\n-Focused on small wins for short-term like improved posture and delivery, etiquette, pronunciation and comprehension"
+            }
+        ],
+        "honors": [],
+        "projects": []
+    },
+    "contact_info": {
+        "email_address": null,
+        "websites": [],
+        "twitter": [],
+        "birthdate": null,
+        "ims": null,
+        "phone_numbers": []
+    },
+    "connections": [
+        {
+            "urn_id": "ACoAAC24GToBKzC8vS7jZaCEqoq3Jse_M2Tson8",
+            "distance": "DISTANCE_1",
+            "public_id": "abhijit-paul-936a68194",
+            "tracking_id": "767039802"
+        },
+        {
+            "urn_id": "ACoAAByhqogBLFVDJbqojrVMhtKfC3o3hRfEcjg",
+            "distance": "DISTANCE_1",
+            "public_id": "biki-talukdar-460a54114",
+            "tracking_id": "480357000"
+        },
+        {
+            "urn_id": "ACoAABr4jt0BoOUmisITdRo1gR4CumG5I4jjZIw",
+            "distance": "DISTANCE_1",
+            "public_id": "samudra-deka-911659107",
+            "tracking_id": "452497117"
+        },
+        {
+            "urn_id": "ACoAADZmR9QB1zOH_PmrzQQw2wQmTJRTcNGU7CE",
+            "distance": "DISTANCE_1",
+            "public_id": "bkalita",
+            "tracking_id": "912672724"
+        },
+        {
+            "urn_id": "ACoAADLJzxsBizdB0nN5NZBCM41Q-z6-7ef5gyI",
+            "distance": "DISTANCE_1",
+            "public_id": "deepjyoti-kalita-78b4411b9",
+            "tracking_id": "852086555"
+        },
+        {
+            "urn_id": "ACoAADe3CFYBsoFdtSEajXbg51HDagdpBEb3kx4",
+            "distance": "DISTANCE_1",
+            "public_id": "binud-panging-872062221",
+            "tracking_id": "934742102"
+        },
+        {
+            "urn_id": "ACoAAC2aUPYBGPB-T9xDu2Hjrq7OgzRPu5nTvyE",
+            "distance": "DISTANCE_1",
+            "public_id": "jintudas",
+            "tracking_id": "765087990"
+        },
+        {
+            "urn_id": "ACoAACT67ZEBgw1Aprl8Aqy8zWMavdTyaWs7J3w",
+            "distance": "DISTANCE_1",
+            "public_id": "titikshya-das-015942153",
+            "tracking_id": "620424593"
+        },
+        {
+            "urn_id": "ACoAAAjgx0kBxJoPu_7t3kS1NbDizQekjIIzMbE",
+            "distance": "DISTANCE_1",
+            "public_id": "lakheswar-nath-289a7141",
+            "tracking_id": "148948809"
+        },
+        {
+            "urn_id": "ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE",
+            "distance": "DISTANCE_1",
+            "public_id": "prithoo11335",
+            "tracking_id": "231212168"
+        },
+        {
+            "urn_id": "ACoAACr0GSwBcmPDh22HqivG9h0JwG-eahXSYW8",
+            "distance": "DISTANCE_1",
+            "public_id": "nihar-kashyap98",
+            "tracking_id": "720640300"
+        },
+        {
+            "urn_id": "ACoAACzP6KMBcLKqKnFRpIudaukkoW4NoqstgrM",
+            "distance": "DISTANCE_1",
+            "public_id": "pranit-prakash-sahu",
+            "tracking_id": "751823011"
+        },
+        {
+            "urn_id": "ACoAACeXhGEBEVCUXmKi5rowUSeFZNerPjvzQsc",
+            "distance": "DISTANCE_1",
+            "public_id": "mahbubul-haque-a55552166",
+            "tracking_id": "664241249"
+        },
+        {
+            "urn_id": "ACoAACbTg-gBtT_YqZc-FG2lIVBv13QTx8UUB8E",
+            "distance": "DISTANCE_1",
+            "public_id": "mridul24",
+            "tracking_id": "651396072"
+        },
+        {
+            "urn_id": "ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY",
+            "distance": "DISTANCE_1",
+            "public_id": "tridip-das-b5837911b",
+            "tracking_id": "499568180"
+        },
+        {
+            "urn_id": "ACoAAAI9wXoBijRhLoxf7BO8UTK0DX-7KexJV30",
+            "distance": "DISTANCE_1",
+            "public_id": "boren-ghosh-27671410",
+            "tracking_id": "37601658"
+        },
+        {
+            "urn_id": "ACoAACZxhUQBl1V8kpLj4ACrE2LzpatGvVzEgSA",
+            "distance": "DISTANCE_1",
+            "public_id": "nabajyoti-borah-944000160",
+            "tracking_id": "644973892"
+        },
+        {
+            "urn_id": "ACoAABYq8T8ByHFGBUFRrHT5iKBI2u4YZjTLHFc",
+            "distance": "DISTANCE_1",
+            "public_id": "netranjit-borgohain-53b677a4",
+            "tracking_id": "371913023"
+        },
+        {
+            "urn_id": "ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8",
+            "distance": "DISTANCE_1",
+            "public_id": "sivaranjan-goswami-790b4523",
+            "tracking_id": "83451420"
+        },
+        {
+            "urn_id": "ACoAACTFIIYB1cK_syRcCXEc0o8RTm4JMlhYcHA",
+            "distance": "DISTANCE_1",
+            "public_id": "arun-kumar-nath-686721152",
+            "tracking_id": "616898694"
+        },
+        {
+            "urn_id": "ACoAAC4efLABFBv0f30-SDGDgLSf1gXTlkpJTfc",
+            "distance": "DISTANCE_1",
+            "public_id": "shawan-mandal",
+            "tracking_id": "773749936"
+        },
+        {
+            "urn_id": "ACoAACDVs-sB_IgxPBMHMRBfR6is3jmwwV_OvTE",
+            "distance": "DISTANCE_1",
+            "public_id": "swapnil-bhattacharjee-ghy",
+            "tracking_id": "550876139"
+        },
+        {
+            "urn_id": "ACoAACUEZ3QB2Xm0OWR0cqoc_u-o4KW_OENO1_8",
+            "distance": "DISTANCE_1",
+            "public_id": "rajan-sahu",
+            "tracking_id": "621045620"
+        },
+        {
+            "urn_id": "ACoAAC12ZqEBCx9JN_YIi1eF1FPPDif3mXI3fyc",
+            "distance": "DISTANCE_1",
+            "public_id": "abinash-panigrahi-169531193",
+            "tracking_id": "762734241"
+        },
+        {
+            "urn_id": "ACoAACYmrvgBRdvWxItbY_KP_fyrEgZ9U-QKJqk",
+            "distance": "DISTANCE_1",
+            "public_id": "rtsu",
+            "tracking_id": "640069368"
+        },
+        {
+            "urn_id": "ACoAADRMKTMBj76XTPRfB9R5rvfwNOXP2n93n4c",
+            "distance": "DISTANCE_1",
+            "public_id": "manash-deka-497a12205",
+            "tracking_id": "877406515"
+        },
+        {
+            "urn_id": "ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc",
+            "distance": "DISTANCE_1",
+            "public_id": "ratnadeep-bhattacharjee",
+            "tracking_id": "135079003"
+        },
+        {
+            "urn_id": "ACoAAAR5v8MBjPwCvp8TP9RWZyGSeNYNiJ1wKJE",
+            "distance": "DISTANCE_1",
+            "public_id": "nilotpal-boruah",
+            "tracking_id": "75087811"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Data Analysis"
+        },
+        {
+            "name": "SQL"
+        },
+        {
+            "name": "Public Speaking",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:1101",
+            "standardizedSkill": {
+                "name": "Public Speaking",
+                "entityUrn": "urn:li:fs_miniSkill:1101"
+            }
+        },
+        {
+            "name": "Creative Writing",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:3023",
+            "standardizedSkill": {
+                "name": "Creative Writing",
+                "entityUrn": "urn:li:fs_miniSkill:3023"
+            }
+        },
+        {
+            "name": "Business Analysis"
+        },
+        {
+            "name": "Product Assortment Planning"
+        },
+        {
+            "name": "Strategic Communications"
+        },
+        {
+            "name": "Business Development"
+        },
+        {
+            "name": "Data Visualization"
+        },
+        {
+            "name": "Statistical Data Analysis"
+        },
+        {
+            "name": "Sales & Marketing"
+        },
+        {
+            "name": "Data Storytelling"
+        },
+        {
+            "name": "Sales"
+        },
+        {
+            "name": "Statistical Modeling"
+        },
+        {
+            "name": "Analytics"
+        },
+        {
+            "name": "Project Management"
+        },
+        {
+            "name": "Content Marketing",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:6182",
+            "standardizedSkill": {
+                "name": "Content Marketing",
+                "entityUrn": "urn:li:fs_miniSkill:6182"
+            }
+        },
+        {
+            "name": "C++"
+        },
+        {
+            "name": "Microsoft Excel",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:163",
+            "standardizedSkill": {
+                "name": "Microsoft Excel",
+                "entityUrn": "urn:li:fs_miniSkill:163"
+            }
+        },
+        {
+            "name": "Microsoft PowerPoint"
+        },
+        {
+            "name": "SAS",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:2601",
+            "standardizedSkill": {
+                "name": "SAS (Software)",
+                "entityUrn": "urn:li:fs_miniSkill:2601"
+            }
+        },
+        {
+            "name": "VBA",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:2842",
+            "standardizedSkill": {
+                "name": "Visual Basic for Applications (VBA)",
+                "entityUrn": "urn:li:fs_miniSkill:2842"
+            }
+        },
+        {
+            "name": "R"
+        },
+        {
+            "name": "Microsoft Power BI"
+        },
+        {
+            "name": "Adobe Analytics"
+        },
+        {
+            "name": "Python (Programming Language)"
+        },
+        {
+            "name": "MySQL"
+        },
+        {
+            "name": "Team Management"
+        },
+        {
+            "name": "Leadership"
+        },
+        {
+            "name": "Client Relations"
+        },
+        {
+            "name": "Problem Solving"
+        },
+        {
+            "name": "Thought Leadership"
+        },
+        {
+            "name": "Communication",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:135",
+            "standardizedSkill": {
+                "name": "Communication",
+                "entityUrn": "urn:li:fs_miniSkill:135"
+            }
+        },
+        {
+            "name": "Assortment Optimization"
+        },
+        {
+            "name": "Store Clustering"
+        },
+        {
+            "name": "Stock Market Analysis"
+        },
+        {
+            "name": "KPI Dashboards"
+        },
+        {
+            "name": "Excel Dashboards"
+        },
+        {
+            "name": "Multi-Cultural Team Leadership",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:39371",
+            "standardizedSkill": {
+                "name": "Multi-Cultural Team Leadership",
+                "entityUrn": "urn:li:fs_miniSkill:39371"
+            }
+        },
+        {
+            "name": "Cultural Competency",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:20154",
+            "standardizedSkill": {
+                "name": "Cultural Competency",
+                "entityUrn": "urn:li:fs_miniSkill:20154"
+            }
+        },
+        {
+            "name": "HR Analytics"
+        },
+        {
+            "name": "Talent Analytics"
+        },
+        {
+            "name": "Data Science"
+        },
+        {
+            "name": "Data Analytics"
+        },
+        {
+            "name": "Big Data"
+        },
+        {
+            "name": "Machine Learning"
+        }
+    ]
+}

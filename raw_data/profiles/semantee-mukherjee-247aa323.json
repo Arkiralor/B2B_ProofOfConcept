@@ -1,0 +1,787 @@
+{
+    "profile": {
+        "industryName": "Internet Publishing",
+        "lastName": "Mukherjee",
+        "locationName": "India",
+        "student": false,
+        "geoCountryName": "India",
+        "geoCountryUrn": "urn:li:fs_geo:102713980",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "industryUrn": "urn:li:fs_industry:6",
+        "firstName": "Semantee",
+        "entityUrn": "urn:li:fs_profile:ACoAAAT3Z5cBT5n_WHzau0jwLBpMtFI4zDtHN58",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:105307040"
+        },
+        "geoLocationName": "Bengaluru, Karnataka",
+        "location": {
+            "basicLocation": {
+                "countryCode": "in"
+            }
+        },
+        "headline": " Talent Acquisition at LinkedIn",
+        "displayPictureUrl": "https://media-exp1.licdn.com/dms/image/C5103AQEzxL5fzKSMAw/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/0/1567104896841?e=1657756800&v=beta&t=8mRFnM7Hf6_wfttJZL2i6ibgxTTkD9IOYzgK-HYOyfQ",
+        "img_200_200": "200_200/0/1567104896841?e=1657756800&v=beta&t=qvyjDoo3q_oFv57DR1wJ_otixQBxQJvcrwL1hX5_uV4",
+        "img_400_400": "400_400/0/1567104896841?e=1657756800&v=beta&t=gHrWsjdTqaH-okeUgON3wQfXIKs-vqHnjNXuI_Ge8QM",
+        "img_800_800": "800_800/0/1567104896841?e=1657756800&v=beta&t=Ugk14UTcLyvlhcJcYByxlPGU9nVZ1BA5_cIRfKwF5xs",
+        "profile_id": "ACoAAAT3Z5cBT5n_WHzau0jwLBpMtFI4zDtHN58",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAAAT3Z5cBT5n_WHzau0jwLBpMtFI4zDtHN58",
+        "member_urn": "urn:li:member:83322775",
+        "experience": [
+            {
+                "locationName": "Bangalore ",
+                "entityUrn": "urn:li:fs_position:(ACoAAAT3Z5cBT5n_WHzau0jwLBpMtFI4zDtHN58,1331750344)",
+                "geoLocationName": "Bangalore ",
+                "companyName": "LinkedIn",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 6,
+                        "year": 2018
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Internet"
+                    ]
+                },
+                "title": "Talent Acquisition",
+                "companyUrn": "urn:li:fs_miniCompany:1337",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_"
+            },
+            {
+                "locationName": "Bengaluru, Karnataka, India",
+                "entityUrn": "urn:li:fs_position:(ACoAAAT3Z5cBT5n_WHzau0jwLBpMtFI4zDtHN58,993447550)",
+                "geoLocationName": "Bengaluru, Karnataka, India",
+                "companyName": "Goldman Sachs",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2018
+                    },
+                    "startDate": {
+                        "month": 5,
+                        "year": 2015
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Financial Services"
+                    ]
+                },
+                "title": "Recruitment Specialist",
+                "companyUrn": "urn:li:fs_miniCompany:1382",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQHm5bYK6emQSg/company-logo_"
+            },
+            {
+                "locationName": "Bengaluru Area, India",
+                "entityUrn": "urn:li:fs_position:(ACoAAAT3Z5cBT5n_WHzau0jwLBpMtFI4zDtHN58,635097793)",
+                "geoLocationName": "Bengaluru Area, India",
+                "companyName": "Diksha Technologies",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 2,
+                        "year": 2015
+                    },
+                    "startDate": {
+                        "month": 2,
+                        "year": 2014
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 501,
+                        "end": 1000
+                    },
+                    "industries": [
+                        "Telecommunications"
+                    ]
+                },
+                "title": "RMG Specialist",
+                "companyUrn": "urn:li:fs_miniCompany:1046835",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C510BAQH4tzLSzMoKyw/company-logo_"
+            },
+            {
+                "locationName": "Mumbai Area, India",
+                "entityUrn": "urn:li:fs_position:(ACoAAAT3Z5cBT5n_WHzau0jwLBpMtFI4zDtHN58,635100571)",
+                "geoLocationName": "Mumbai Area, India",
+                "geoUrn": "urn:li:fs_geo:90009639",
+                "companyName": "Selec Controls Pvt. Ltd.",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 1,
+                        "year": 2014
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2013
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 1001,
+                        "end": 5000
+                    },
+                    "industries": [
+                        "Electrical/Electronic Manufacturing"
+                    ]
+                },
+                "title": "HR Executive",
+                "region": "urn:li:fs_region:(in,7150)",
+                "companyUrn": "urn:li:fs_miniCompany:1152795",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C560BAQGDzgxH07vENA/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAAT3Z5cBT5n_WHzau0jwLBpMtFI4zDtHN58,420005960)",
+                "school": {
+                    "objectUrn": "urn:li:school:371034",
+                    "entityUrn": "urn:li:fs_miniSchool:371034",
+                    "active": true,
+                    "schoolName": "ITM Group of Institutions",
+                    "trackingId": "nZQJ0e/mTCWMjaNApK+kOg==",
+                    "logoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQG9kxqSLBY8PA/company-logo_"
+                },
+                "grade": "1st",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2013
+                    },
+                    "startDate": {
+                        "year": 2011
+                    }
+                },
+                "description": "MBA - Human Resources Management ",
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:101460",
+                "degreeName": "Master of Business Administration - MBA",
+                "schoolName": "ITM Group of Institutions",
+                "fieldOfStudy": "Human Resources Management/Personnel Administration, General",
+                "degreeUrn": "urn:li:fs_degree:700",
+                "schoolUrn": "urn:li:fs_miniSchool:371034"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAAT3Z5cBT5n_WHzau0jwLBpMtFI4zDtHN58,420006344)",
+                "school": {
+                    "objectUrn": "urn:li:school:13598",
+                    "entityUrn": "urn:li:fs_miniSchool:13598",
+                    "active": true,
+                    "schoolName": "Rabindra Bharati University",
+                    "trackingId": "QslZkCcqRxWh79jUAr5Cgw=="
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2009
+                    },
+                    "startDate": {
+                        "year": 2007
+                    }
+                },
+                "description": "Master's Degree in English Language and Literature",
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100593",
+                "degreeName": "Master of Arts - MA",
+                "schoolName": "Rabindra Bharati University",
+                "fieldOfStudy": "English Literature (British and Commonwealth)",
+                "degreeUrn": "urn:li:fs_degree:536",
+                "schoolUrn": "urn:li:fs_miniSchool:13598"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAAT3Z5cBT5n_WHzau0jwLBpMtFI4zDtHN58,420007071)",
+                "school": {
+                    "objectUrn": "urn:li:school:199542",
+                    "entityUrn": "urn:li:fs_miniSchool:199542",
+                    "active": true,
+                    "schoolName": "Calcutta University, Kolkata",
+                    "trackingId": "thqkpSLAStmP+DqMI5BHSA==",
+                    "logoUrl": "https://media-exp1.licdn.com/dms/image/C510BAQGD6UGy1kaZNw/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2007
+                    },
+                    "startDate": {
+                        "year": 2004
+                    }
+                },
+                "description": "Bachelor's Degree in English Language and Literature",
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100593",
+                "degreeName": "Bachelor of Arts - BA",
+                "schoolName": "Calcutta University, Kolkata",
+                "fieldOfStudy": "English Literature (British and Commonwealth)",
+                "degreeUrn": "urn:li:fs_degree:350",
+                "schoolUrn": "urn:li:fs_miniSchool:199542"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English"
+            }
+        ],
+        "publications": [],
+        "certifications": [
+            {
+                "authority": "University of Calcutta ",
+                "name": "Degree of Graduation",
+                "company": {
+                    "objectUrn": "urn:li:company:0",
+                    "entityUrn": "urn:li:fs_miniCompany:0",
+                    "name": "United Latino Students Association",
+                    "showcase": false,
+                    "active": false,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1560802374788?e=1660176000&v=beta&t=edVbfxay4EMolE_K-YLf4dCJw_XtOcEOY3vC-rDCL4A",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1560802374788?e=1660176000&v=beta&t=J9b17EgkAcePnLBNi0HNnENw4B2wnERV-K3K6AYIb9s",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1560802374788?e=1660176000&v=beta&t=X3DEeOCaxRUwQJUMis_0RCj3K--mDPuyD1CJ05qxLUU",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHGhly_87bnSw/company-logo_"
+                        }
+                    },
+                    "universalName": "united-latino-students-association",
+                    "dashCompanyUrn": "urn:li:fsd_company:0",
+                    "trackingId": "JqVmHlKySE+sdRubjgxqQA=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:0"
+            },
+            {
+                "authority": "LinkedIn",
+                "name": "Developing a Learning Mindset",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 10,
+                        "year": 2019
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:1337",
+                    "entityUrn": "urn:li:fs_miniCompany:1337",
+                    "name": "LinkedIn",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1638831589865?e=1660176000&v=beta&t=BLQftLy0Qs0EBVJIuWPMuAUeYUwk2NFkGV64ugXQRGo",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1638831589865?e=1660176000&v=beta&t=x5azEgZkHPR5MQHKe-JAU7OCpzuevGQIN2iQzEXm7FA",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1638831589865?e=1660176000&v=beta&t=4ByckqnOSGF1jY0ieSfxachmGJ0dfUy8ErhiMjGS9p8",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_"
+                        }
+                    },
+                    "universalName": "linkedin",
+                    "dashCompanyUrn": "urn:li:fsd_company:1337",
+                    "trackingId": "XF1PyaMvRqeejJqkXaLxww=="
+                },
+                "displaySource": "linkedin.com",
+                "companyUrn": "urn:li:fs_miniCompany:1337",
+                "url": "http://www.linkedin.com/learning/developing-a-learning-mindset"
+            },
+            {
+                "authority": "LinkedIn",
+                "name": "Disrupting Yourself",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 11,
+                        "year": 2019
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:1337",
+                    "entityUrn": "urn:li:fs_miniCompany:1337",
+                    "name": "LinkedIn",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1638831589865?e=1660176000&v=beta&t=BLQftLy0Qs0EBVJIuWPMuAUeYUwk2NFkGV64ugXQRGo",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1638831589865?e=1660176000&v=beta&t=x5azEgZkHPR5MQHKe-JAU7OCpzuevGQIN2iQzEXm7FA",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1638831589865?e=1660176000&v=beta&t=4ByckqnOSGF1jY0ieSfxachmGJ0dfUy8ErhiMjGS9p8",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_"
+                        }
+                    },
+                    "universalName": "linkedin",
+                    "dashCompanyUrn": "urn:li:fsd_company:1337",
+                    "trackingId": "fFZCs0DLSN2k8YtezXYeGg=="
+                },
+                "displaySource": "linkedin.com",
+                "companyUrn": "urn:li:fs_miniCompany:1337",
+                "url": "http://www.linkedin.com/learning/disrupting-yourself"
+            },
+            {
+                "authority": "LinkedIn",
+                "name": "Leadership Foundations (2013)",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 10,
+                        "year": 2020
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:1337",
+                    "entityUrn": "urn:li:fs_miniCompany:1337",
+                    "name": "LinkedIn",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1638831589865?e=1660176000&v=beta&t=BLQftLy0Qs0EBVJIuWPMuAUeYUwk2NFkGV64ugXQRGo",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1638831589865?e=1660176000&v=beta&t=x5azEgZkHPR5MQHKe-JAU7OCpzuevGQIN2iQzEXm7FA",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1638831589865?e=1660176000&v=beta&t=4ByckqnOSGF1jY0ieSfxachmGJ0dfUy8ErhiMjGS9p8",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_"
+                        }
+                    },
+                    "universalName": "linkedin",
+                    "dashCompanyUrn": "urn:li:fsd_company:1337",
+                    "trackingId": "BHbbsHJwQNetcY0CA0MBgg=="
+                },
+                "displaySource": "linkedin.com",
+                "companyUrn": "urn:li:fs_miniCompany:1337",
+                "url": "http://www.linkedin.com/learning/leadership-foundations-2013"
+            }
+        ],
+        "volunteer": [
+            {
+                "role": "Intern",
+                "companyName": "CRY America Inc",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 1,
+                        "year": 2012
+                    },
+                    "startDate": {
+                        "month": 12,
+                        "year": 2011
+                    }
+                },
+                "cause": "ANIMAL_RIGHTS",
+                "company": {
+                    "miniCompany": {
+                        "objectUrn": "urn:li:company:1075339",
+                        "entityUrn": "urn:li:fs_miniCompany:1075339",
+                        "name": "CRY America Inc",
+                        "showcase": false,
+                        "active": true,
+                        "logo": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1645729047286?e=1660176000&v=beta&t=0DTXxlrDklt8zzTnYn3ij_5cRFo1tAnO3aJTbwt-Vjo",
+                                        "expiresAt": 1660176000000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1645729047286?e=1660176000&v=beta&t=c8Ls3USFX55qfl7Q7U-yC82AA77RdVgdO-aJXIVBawg",
+                                        "expiresAt": 1660176000000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1645729047286?e=1660176000&v=beta&t=42n8DEsOEhGUfpTZRU27wwEw1dbrlz4QpE81E-v7cZU",
+                                        "expiresAt": 1660176000000,
+                                        "height": 400
+                                    }
+                                ],
+                                "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQGqSwrXxLXV5g/company-logo_"
+                            }
+                        },
+                        "universalName": "cry-america-inc",
+                        "dashCompanyUrn": "urn:li:fsd_company:1075339",
+                        "trackingId": "CjCXzDXPRSK6es034VmQnw=="
+                    }
+                },
+                "companyUrn": "urn:li:fs_miniCompany:1075339"
+            }
+        ],
+        "honors": [],
+        "projects": []
+    },
+    "contact_info": {
+        "email_address": null,
+        "websites": [],
+        "twitter": [],
+        "birthdate": null,
+        "ims": null,
+        "phone_numbers": []
+    },
+    "connections": [
+        {
+            "urn_id": "ACoAAC24GToBKzC8vS7jZaCEqoq3Jse_M2Tson8",
+            "distance": "DISTANCE_1",
+            "public_id": "abhijit-paul-936a68194",
+            "tracking_id": "767039802"
+        },
+        {
+            "urn_id": "ACoAAByhqogBLFVDJbqojrVMhtKfC3o3hRfEcjg",
+            "distance": "DISTANCE_1",
+            "public_id": "biki-talukdar-460a54114",
+            "tracking_id": "480357000"
+        },
+        {
+            "urn_id": "ACoAABr4jt0BoOUmisITdRo1gR4CumG5I4jjZIw",
+            "distance": "DISTANCE_1",
+            "public_id": "samudra-deka-911659107",
+            "tracking_id": "452497117"
+        },
+        {
+            "urn_id": "ACoAADZmR9QB1zOH_PmrzQQw2wQmTJRTcNGU7CE",
+            "distance": "DISTANCE_1",
+            "public_id": "bkalita",
+            "tracking_id": "912672724"
+        },
+        {
+            "urn_id": "ACoAADLJzxsBizdB0nN5NZBCM41Q-z6-7ef5gyI",
+            "distance": "DISTANCE_1",
+            "public_id": "deepjyoti-kalita-78b4411b9",
+            "tracking_id": "852086555"
+        },
+        {
+            "urn_id": "ACoAADe3CFYBsoFdtSEajXbg51HDagdpBEb3kx4",
+            "distance": "DISTANCE_1",
+            "public_id": "binud-panging-872062221",
+            "tracking_id": "934742102"
+        },
+        {
+            "urn_id": "ACoAAC2aUPYBGPB-T9xDu2Hjrq7OgzRPu5nTvyE",
+            "distance": "DISTANCE_1",
+            "public_id": "jintudas",
+            "tracking_id": "765087990"
+        },
+        {
+            "urn_id": "ACoAACT67ZEBgw1Aprl8Aqy8zWMavdTyaWs7J3w",
+            "distance": "DISTANCE_1",
+            "public_id": "titikshya-das-015942153",
+            "tracking_id": "620424593"
+        },
+        {
+            "urn_id": "ACoAAAjgx0kBxJoPu_7t3kS1NbDizQekjIIzMbE",
+            "distance": "DISTANCE_1",
+            "public_id": "lakheswar-nath-289a7141",
+            "tracking_id": "148948809"
+        },
+        {
+            "urn_id": "ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE",
+            "distance": "DISTANCE_1",
+            "public_id": "prithoo11335",
+            "tracking_id": "231212168"
+        },
+        {
+            "urn_id": "ACoAACr0GSwBcmPDh22HqivG9h0JwG-eahXSYW8",
+            "distance": "DISTANCE_1",
+            "public_id": "nihar-kashyap98",
+            "tracking_id": "720640300"
+        },
+        {
+            "urn_id": "ACoAACeXhGEBEVCUXmKi5rowUSeFZNerPjvzQsc",
+            "distance": "DISTANCE_1",
+            "public_id": "mahbubul-haque-a55552166",
+            "tracking_id": "664241249"
+        },
+        {
+            "urn_id": "ACoAACzP6KMBcLKqKnFRpIudaukkoW4NoqstgrM",
+            "distance": "DISTANCE_1",
+            "public_id": "pranit-prakash-sahu",
+            "tracking_id": "751823011"
+        },
+        {
+            "urn_id": "ACoAACbTg-gBtT_YqZc-FG2lIVBv13QTx8UUB8E",
+            "distance": "DISTANCE_1",
+            "public_id": "mridul24",
+            "tracking_id": "651396072"
+        },
+        {
+            "urn_id": "ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY",
+            "distance": "DISTANCE_1",
+            "public_id": "tridip-das-b5837911b",
+            "tracking_id": "499568180"
+        },
+        {
+            "urn_id": "ACoAAAI9wXoBijRhLoxf7BO8UTK0DX-7KexJV30",
+            "distance": "DISTANCE_1",
+            "public_id": "boren-ghosh-27671410",
+            "tracking_id": "37601658"
+        },
+        {
+            "urn_id": "ACoAACZxhUQBl1V8kpLj4ACrE2LzpatGvVzEgSA",
+            "distance": "DISTANCE_1",
+            "public_id": "nabajyoti-borah-944000160",
+            "tracking_id": "644973892"
+        },
+        {
+            "urn_id": "ACoAABYq8T8ByHFGBUFRrHT5iKBI2u4YZjTLHFc",
+            "distance": "DISTANCE_1",
+            "public_id": "netranjit-borgohain-53b677a4",
+            "tracking_id": "371913023"
+        },
+        {
+            "urn_id": "ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8",
+            "distance": "DISTANCE_1",
+            "public_id": "sivaranjan-goswami-790b4523",
+            "tracking_id": "83451420"
+        },
+        {
+            "urn_id": "ACoAACTFIIYB1cK_syRcCXEc0o8RTm4JMlhYcHA",
+            "distance": "DISTANCE_1",
+            "public_id": "arun-kumar-nath-686721152",
+            "tracking_id": "616898694"
+        },
+        {
+            "urn_id": "ACoAAC4efLABFBv0f30-SDGDgLSf1gXTlkpJTfc",
+            "distance": "DISTANCE_1",
+            "public_id": "shawan-mandal",
+            "tracking_id": "773749936"
+        },
+        {
+            "urn_id": "ACoAACDVs-sB_IgxPBMHMRBfR6is3jmwwV_OvTE",
+            "distance": "DISTANCE_1",
+            "public_id": "swapnil-bhattacharjee-ghy",
+            "tracking_id": "550876139"
+        },
+        {
+            "urn_id": "ACoAACUEZ3QB2Xm0OWR0cqoc_u-o4KW_OENO1_8",
+            "distance": "DISTANCE_1",
+            "public_id": "rajan-sahu",
+            "tracking_id": "621045620"
+        },
+        {
+            "urn_id": "ACoAAC12ZqEBCx9JN_YIi1eF1FPPDif3mXI3fyc",
+            "distance": "DISTANCE_1",
+            "public_id": "abinash-panigrahi-169531193",
+            "tracking_id": "762734241"
+        },
+        {
+            "urn_id": "ACoAACYmrvgBRdvWxItbY_KP_fyrEgZ9U-QKJqk",
+            "distance": "DISTANCE_1",
+            "public_id": "rtsu",
+            "tracking_id": "640069368"
+        },
+        {
+            "urn_id": "ACoAADRMKTMBj76XTPRfB9R5rvfwNOXP2n93n4c",
+            "distance": "DISTANCE_1",
+            "public_id": "manash-deka-497a12205",
+            "tracking_id": "877406515"
+        },
+        {
+            "urn_id": "ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc",
+            "distance": "DISTANCE_1",
+            "public_id": "ratnadeep-bhattacharjee",
+            "tracking_id": "135079003"
+        },
+        {
+            "urn_id": "ACoAAAR5v8MBjPwCvp8TP9RWZyGSeNYNiJ1wKJE",
+            "distance": "DISTANCE_1",
+            "public_id": "nilotpal-boruah",
+            "tracking_id": "75087811"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Team Management"
+        },
+        {
+            "name": "Microsoft Office"
+        },
+        {
+            "name": "Microsoft Excel"
+        },
+        {
+            "name": "Business Development"
+        },
+        {
+            "name": "Employee Relations"
+        },
+        {
+            "name": "PowerPoint"
+        },
+        {
+            "name": "Performance Management"
+        },
+        {
+            "name": "Business Strategy"
+        },
+        {
+            "name": "Recruiting"
+        },
+        {
+            "name": "Human Resources"
+        },
+        {
+            "name": "talent management"
+        },
+        {
+            "name": "Employee Engagement"
+        },
+        {
+            "name": "Training and Development"
+        },
+        {
+            "name": "Employee Learning & Development",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:45513",
+            "standardizedSkill": {
+                "name": "Employee Learning & Development",
+                "entityUrn": "urn:li:fs_miniSkill:45513"
+            }
+        },
+        {
+            "name": "Employee Training",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:1430",
+            "standardizedSkill": {
+                "name": "Employee Training",
+                "entityUrn": "urn:li:fs_miniSkill:1430"
+            }
+        },
+        {
+            "name": "Human Resources (HR)",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:49",
+            "standardizedSkill": {
+                "name": "Human Resources (HR)",
+                "entityUrn": "urn:li:fs_miniSkill:49"
+            }
+        },
+        {
+            "name": "L&D",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:43899",
+            "standardizedSkill": {
+                "name": "L&D",
+                "entityUrn": "urn:li:fs_miniSkill:43899"
+            }
+        },
+        {
+            "name": "Management",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:19",
+            "standardizedSkill": {
+                "name": "Management",
+                "entityUrn": "urn:li:fs_miniSkill:19"
+            }
+        },
+        {
+            "name": "People Development",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:11727",
+            "standardizedSkill": {
+                "name": "People Development",
+                "entityUrn": "urn:li:fs_miniSkill:11727"
+            }
+        },
+        {
+            "name": "Staff Development",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:1653",
+            "standardizedSkill": {
+                "name": "Staff Development",
+                "entityUrn": "urn:li:fs_miniSkill:1653"
+            }
+        },
+        {
+            "name": "Training & Development",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:50363",
+            "standardizedSkill": {
+                "name": "Training & Development",
+                "entityUrn": "urn:li:fs_miniSkill:50363"
+            }
+        },
+        {
+            "name": "Life Skills",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:20156",
+            "standardizedSkill": {
+                "name": "Life Skills",
+                "entityUrn": "urn:li:fs_miniSkill:20156"
+            }
+        },
+        {
+            "name": "Personal Development",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:1278",
+            "standardizedSkill": {
+                "name": "Personal Development",
+                "entityUrn": "urn:li:fs_miniSkill:1278"
+            }
+        },
+        {
+            "name": "Leadership",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:154",
+            "standardizedSkill": {
+                "name": "Leadership",
+                "entityUrn": "urn:li:fs_miniSkill:154"
+            }
+        },
+        {
+            "name": "Organizational Leadership",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:6542",
+            "standardizedSkill": {
+                "name": "Organizational Leadership",
+                "entityUrn": "urn:li:fs_miniSkill:6542"
+            }
+        }
+    ]
+}

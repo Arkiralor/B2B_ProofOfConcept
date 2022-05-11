@@ -1,0 +1,1144 @@
+{
+    "profile": {
+        "summary": "I am passionate about working in a competitive environment. Taking up challenging roles and responsibilities, interacting with various group of talented individuals motivates me to transform into a better professional. ",
+        "industryName": "Online Audio and Video Media",
+        "lastName": "B",
+        "student": false,
+        "geoCountryName": "India",
+        "geoCountryUrn": "urn:li:fs_geo:102713980",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "industryUrn": "urn:li:fs_industry:113",
+        "firstName": "Shivangini",
+        "entityUrn": "urn:li:fs_profile:ACoAAAus2-YBPs6aFGVkB4TzFpiexbCG4U0VjOM",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:100811329"
+        },
+        "geoLocationName": "Karnataka",
+        "location": {
+            "basicLocation": {
+                "countryCode": "in"
+            }
+        },
+        "headline": "Executive Escalations",
+        "displayPictureUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQH6N1IOg_scPw/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/0/1607044798741?e=1657756800&v=beta&t=xMq13KKfWUTK9cX-8SDLY98wCUqA2DcUtOf78eUTO7A",
+        "img_200_200": "200_200/0/1607044798741?e=1657756800&v=beta&t=7gpdc8cQQ-a4aPIH3pYNTE0Pzpt7pvMmXyRLmSZmG-w",
+        "img_400_400": "400_400/0/1607044798741?e=1657756800&v=beta&t=XohTEZigAY90GeKmsKQKxvOMIZs8Gd6LGaznPRzCwFI",
+        "img_800_800": "800_800/0/1607044798741?e=1657756800&v=beta&t=jLRhFnzc7HiJY6yliMDLw4QP2VMzJl_CuUokz_kfVbw",
+        "profile_id": "ACoAAAus2-YBPs6aFGVkB4TzFpiexbCG4U0VjOM",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAAAus2-YBPs6aFGVkB4TzFpiexbCG4U0VjOM",
+        "member_urn": "urn:li:member:195877862",
+        "experience": [
+            {
+                "locationName": "Bengaluru, Karnataka, India",
+                "entityUrn": "urn:li:fs_position:(ACoAAAus2-YBPs6aFGVkB4TzFpiexbCG4U0VjOM,1790651315)",
+                "geoLocationName": "Bengaluru, Karnataka, India",
+                "geoUrn": "urn:li:fs_geo:109710172",
+                "companyName": "LinkedIn",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 6,
+                        "year": 2021
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Internet"
+                    ]
+                },
+                "title": "Executive Escalations Case Manager ",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:1337",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_"
+            },
+            {
+                "locationName": "Bengaluru Area, India",
+                "entityUrn": "urn:li:fs_position:(ACoAAAus2-YBPs6aFGVkB4TzFpiexbCG4U0VjOM,865779705)",
+                "geoLocationName": "Bengaluru Area, India",
+                "geoUrn": "urn:li:fs_geo:105307040",
+                "companyName": "LinkedIn",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 10,
+                        "year": 2016
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Internet"
+                    ]
+                },
+                "title": "Enterprise Sales Solutions Consultant",
+                "region": "urn:li:fs_region:(in,7127)",
+                "companyUrn": "urn:li:fs_miniCompany:1337",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_"
+            },
+            {
+                "locationName": "Bengaluru Area, India",
+                "entityUrn": "urn:li:fs_position:(ACoAAAus2-YBPs6aFGVkB4TzFpiexbCG4U0VjOM,771308057)",
+                "geoLocationName": "Bengaluru Area, India",
+                "companyName": "LinkedIn",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 10,
+                        "year": 2016
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2013
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Internet"
+                    ]
+                },
+                "title": "Customer Advocate II",
+                "companyUrn": "urn:li:fs_miniCompany:1337",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_"
+            },
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAAAus2-YBPs6aFGVkB4TzFpiexbCG4U0VjOM,1713860936)",
+                "companyName": "GlobalLogic",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 8,
+                        "year": 2013
+                    },
+                    "startDate": {
+                        "month": 4,
+                        "year": 2013
+                    }
+                },
+                "description": "\u2022\tSame as above. \n\u2022\tWas absorbed by Linkedin from Global Logic due to outstanding performance.\n",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Computer Software"
+                    ]
+                },
+                "title": "Senior Customer Support Representative",
+                "companyUrn": "urn:li:fs_miniCompany:164008",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHfsFr91ekzrQ/company-logo_"
+            },
+            {
+                "locationName": "Hyderabad Area, India",
+                "geoUrn": "urn:li:fs_geo:90009650",
+                "companyName": "GE Money Bank",
+                "description": "\u2022\tUser Acceptance Testing\n\u2022\tTest and analyze a broad range of systems and applications to ensure they meet or exceed specified standards and end-user requirements.\n\u2022\tWork closely with key stakeholders to understand business and functional requirements to develop test plans, test cases, and scripts for a wide range of GE Clients like Walmart, Sam Club, Lowes, Chevron, etc.\n\u2022\tProvide metrics related to the cost, effort, and milestones of Quality activities on a project\n\u2022\tActs as advisor and mentor for junior members of the team.",
+                "title": "UAT Analyst",
+                "companyUrn": "urn:li:fs_miniCompany:1020",
+                "honors": [
+                    "urn:li:fs_honor:(ACoAAAus2-YBPs6aFGVkB4TzFpiexbCG4U0VjOM,37)",
+                    "urn:li:fs_honor:(ACoAAAus2-YBPs6aFGVkB4TzFpiexbCG4U0VjOM,38)"
+                ],
+                "entityUrn": "urn:li:fs_position:(ACoAAAus2-YBPs6aFGVkB4TzFpiexbCG4U0VjOM,302971696)",
+                "geoLocationName": "Hyderabad Area, India",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 4,
+                        "year": 2012
+                    },
+                    "startDate": {
+                        "month": 10,
+                        "year": 2006
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Banking"
+                    ]
+                },
+                "region": "urn:li:fs_region:(in,6508)"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAAus2-YBPs6aFGVkB4TzFpiexbCG4U0VjOM,169098553)",
+                "degreeName": "High School",
+                "schoolName": "ST. Philomena Convent"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAAus2-YBPs6aFGVkB4TzFpiexbCG4U0VjOM,123971163)",
+                "degreeName": " Business/Commerce, General",
+                "schoolName": "Nalanda Junior College"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAAus2-YBPs6aFGVkB4TzFpiexbCG4U0VjOM,158466344)",
+                "degreeName": "Bachelor of Commerce",
+                "schoolName": "IIMC (Vasavi College) Hyderabad"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "Hindi",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "Kannada",
+                "proficiency": "ELEMENTARY"
+            },
+            {
+                "name": "Telugu",
+                "proficiency": "LIMITED_WORKING"
+            }
+        ],
+        "publications": [],
+        "certifications": [
+            {
+                "authority": "LinkedIn",
+                "name": "Salesforce 2018: LinkedIn Sales Navigator Integration",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 12,
+                        "year": 2018
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:1337",
+                    "entityUrn": "urn:li:fs_miniCompany:1337",
+                    "name": "LinkedIn",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1638831589865?e=1660176000&v=beta&t=BLQftLy0Qs0EBVJIuWPMuAUeYUwk2NFkGV64ugXQRGo",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1638831589865?e=1660176000&v=beta&t=x5azEgZkHPR5MQHKe-JAU7OCpzuevGQIN2iQzEXm7FA",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1638831589865?e=1660176000&v=beta&t=4ByckqnOSGF1jY0ieSfxachmGJ0dfUy8ErhiMjGS9p8",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_"
+                        }
+                    },
+                    "universalName": "linkedin",
+                    "dashCompanyUrn": "urn:li:fsd_company:1337",
+                    "trackingId": "8FzARiX9RKGERXWUMLELbg=="
+                },
+                "displaySource": "linkedin.com",
+                "companyUrn": "urn:li:fs_miniCompany:1337",
+                "url": "http://www.linkedin.com/learning/salesforce-2018-linkedin-sales-navigator-integration"
+            },
+            {
+                "authority": "LinkedIn",
+                "name": "Diversity, Inclusion, and Belonging",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 8,
+                        "year": 2020
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:1337",
+                    "entityUrn": "urn:li:fs_miniCompany:1337",
+                    "name": "LinkedIn",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1638831589865?e=1660176000&v=beta&t=BLQftLy0Qs0EBVJIuWPMuAUeYUwk2NFkGV64ugXQRGo",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1638831589865?e=1660176000&v=beta&t=x5azEgZkHPR5MQHKe-JAU7OCpzuevGQIN2iQzEXm7FA",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1638831589865?e=1660176000&v=beta&t=4ByckqnOSGF1jY0ieSfxachmGJ0dfUy8ErhiMjGS9p8",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_"
+                        }
+                    },
+                    "universalName": "linkedin",
+                    "dashCompanyUrn": "urn:li:fsd_company:1337",
+                    "trackingId": "Lpaprhm5Q6yRADHnFoLA5w=="
+                },
+                "displaySource": "linkedin.com",
+                "companyUrn": "urn:li:fs_miniCompany:1337",
+                "url": "http://www.linkedin.com/learning/diversity-inclusion-and-belonging-2"
+            },
+            {
+                "authority": "World Education Services",
+                "name": "Verified International Academic Qualifications",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 12,
+                        "year": 2020
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:61690",
+                    "entityUrn": "urn:li:fs_miniCompany:61690",
+                    "name": "World Education Services",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1615497316667?e=1660176000&v=beta&t=EIMNe7Krfdfj4g1zkOXL9tLpTKjkdB4iE6YUve8Crm0",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1615497316667?e=1660176000&v=beta&t=iDN4I-jpuEyMFokcaL8f9FK08AKD3JYl0ZdsJK9VS-w",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1615497316667?e=1660176000&v=beta&t=5pBtcl-BLmWcMqXbbIqZG6mthw2nb3_twmMtQBt0uk4",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQEijRMHsVuhwA/company-logo_"
+                        }
+                    },
+                    "universalName": "worldeducationservices",
+                    "dashCompanyUrn": "urn:li:fsd_company:61690",
+                    "trackingId": "waymQ8LET52tc7TlUgpMiA=="
+                },
+                "displaySource": "youracclaim.com",
+                "companyUrn": "urn:li:fs_miniCompany:61690",
+                "url": "https://www.youracclaim.com/badges/7b34a542-c5c5-4240-9805-1e39f8d6f083?source=linked_in_profile"
+            },
+            {
+                "authority": "T\u00dcV S\u00dcD South Asia Pvt. Ltd.",
+                "name": "Lean Six Sigma Green Belt ",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 6,
+                        "year": 2021
+                    }
+                }
+            },
+            {
+                "authority": "LinkedIn",
+                "name": "Learning Personal Branding",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 8,
+                        "year": 2021
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:1337",
+                    "entityUrn": "urn:li:fs_miniCompany:1337",
+                    "name": "LinkedIn",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1638831589865?e=1660176000&v=beta&t=BLQftLy0Qs0EBVJIuWPMuAUeYUwk2NFkGV64ugXQRGo",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1638831589865?e=1660176000&v=beta&t=x5azEgZkHPR5MQHKe-JAU7OCpzuevGQIN2iQzEXm7FA",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1638831589865?e=1660176000&v=beta&t=4ByckqnOSGF1jY0ieSfxachmGJ0dfUy8ErhiMjGS9p8",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_"
+                        }
+                    },
+                    "universalName": "linkedin",
+                    "dashCompanyUrn": "urn:li:fsd_company:1337",
+                    "trackingId": "ItezvycMR6yQvwcjVpyQuQ=="
+                },
+                "displaySource": "linkedin.com",
+                "companyUrn": "urn:li:fs_miniCompany:1337",
+                "url": "https://www.linkedin.com/learning/learning-personal-branding-2018"
+            }
+        ],
+        "volunteer": [
+            {
+                "role": "Educated the hearing Impaired individuals seeing for jobs to build Linkedin Profiles",
+                "companyName": "EnAble India",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 5,
+                        "year": 2015
+                    },
+                    "startDate": {
+                        "month": 5,
+                        "year": 2015
+                    }
+                },
+                "cause": "EDUCATION",
+                "description": "Educated the hearing Impaired individuals about LinkedIn and helped them set-up their  LinkedIn Profiles, that would create an economic opportunities for these individuals to transform their careers, and change their world. \n",
+                "company": {
+                    "miniCompany": {
+                        "objectUrn": "urn:li:company:3634294",
+                        "entityUrn": "urn:li:fs_miniCompany:3634294",
+                        "name": "EnAble India",
+                        "showcase": false,
+                        "active": true,
+                        "logo": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1603345245416?e=1660176000&v=beta&t=O-2EKye5rt4_Gi_WPdU4hstb0whpwhTj_ICchO0N2yA",
+                                        "expiresAt": 1660176000000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1603345245416?e=1660176000&v=beta&t=-ZC9fnb1uKvIZtGa4UhcocgpH7JfwHf-xOZUq64x26I",
+                                        "expiresAt": 1660176000000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1603345245416?e=1660176000&v=beta&t=2PMrvJ42z71h9LKwKC7LqhlSOQ6UFzoVQ7xu2Il9pgs",
+                                        "expiresAt": 1660176000000,
+                                        "height": 400
+                                    }
+                                ],
+                                "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQEmFIH0y3Oq5A/company-logo_"
+                            }
+                        },
+                        "universalName": "enable-india",
+                        "dashCompanyUrn": "urn:li:fsd_company:3634294",
+                        "trackingId": "rtcXmUWBTqW/4e76rZjhug=="
+                    }
+                },
+                "companyUrn": "urn:li:fs_miniCompany:3634294"
+            }
+        ],
+        "honors": [
+            {
+                "description": "I received a \"Achievement Award\" for working on projects like SCS/E letters and E chat. Strategic Consumer Solution/E letters was the major project for retail consumer finance portfolio for GE, that involved validating the letters on the First data query tool which are sent to the customers for their queries and also integrating E-service with the First data query tool, so that whenever the customer visits the website for there query the letter would automatically be generated to the customer as per the requirement.\n\nE chat being the pilot project, I was nominated to lead the project from the user acceptance testing point, this project involved communicating with the trainers in Manila, project managers, IT teams, Middleware teams, Business Analysts on daily basis and gathering the business requirements, creating and testing the test scripts for the entire application, cross training the team, reporting the issues, sending daily reports.\nWas also nominated by the project manager to be a spokesperson for this project, on a Global All Hands call with the CEO of GE \"Margaret Kean\". ",
+                "occupation": "urn:li:fs_position:(ACoAAAus2-YBPs6aFGVkB4TzFpiexbCG4U0VjOM,302971696)",
+                "title": "GE Capital - RCF Acheivement Award",
+                "issueDate": {
+                    "month": 11,
+                    "year": 2011
+                }
+            },
+            {
+                "description": "I received a GE Capital - Americas Award for contributing to the success and leading the E service Testing for Retail Consumer Finance Clients and designing the E-service websites for different functionalists for various clients. This also involved gathering business requirements, coordinating with different teams like the IT, Middle-ware, Training teams, Evaluating the test cases etc.\n",
+                "occupation": "urn:li:fs_position:(ACoAAAus2-YBPs6aFGVkB4TzFpiexbCG4U0VjOM,302971696)",
+                "title": "GE Capital - Americas Award",
+                "issueDate": {
+                    "month": 9,
+                    "year": 2010
+                }
+            }
+        ],
+        "projects": [
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Shivangini",
+                            "lastName": "B",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAus2-YBPs6aFGVkB4TzFpiexbCG4U0VjOM",
+                            "occupation": "Executive Escalations",
+                            "objectUrn": "urn:li:member:195877862",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAus2-YBPs6aFGVkB4TzFpiexbCG4U0VjOM",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1626618746397?e=1657756800&v=beta&t=j-7ttdY-6CudxwPHQDkehFlnGRBgBMw8Cf98MMWLV7w",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1626618746397?e=1657756800&v=beta&t=yZPtq7DqkqldVp4s2D6tVs04V1g-cuT9Bky4meSQdx4",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D16AQHtun7seYC7QA/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "shivanginiblinkedin",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1607044798741?e=1657756800&v=beta&t=xMq13KKfWUTK9cX-8SDLY98wCUqA2DcUtOf78eUTO7A",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1607044798741?e=1657756800&v=beta&t=7gpdc8cQQ-a4aPIH3pYNTE0Pzpt7pvMmXyRLmSZmG-w",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1607044798741?e=1657756800&v=beta&t=XohTEZigAY90GeKmsKQKxvOMIZs8Gd6LGaznPRzCwFI",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1607044798741?e=1657756800&v=beta&t=jLRhFnzc7HiJY6yliMDLw4QP2VMzJl_CuUokz_kfVbw",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQH6N1IOg_scPw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "3HEmO3XJSA+H5vzoemWoPQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAAus2-YBPs6aFGVkB4TzFpiexbCG4U0VjOM,107,108)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAus2-YBPs6aFGVkB4TzFpiexbCG4U0VjOM"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Aniket",
+                            "lastName": "Dhagat",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAA7fo70BhCsNbxvH7LUKV4CO-JUecKlAU3E",
+                            "occupation": "Influential People Manager \u25cf Project Manager \u25cf Thought Leader \u25cf Sports Fanatic",
+                            "objectUrn": "urn:li:member:249537469",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAA7fo70BhCsNbxvH7LUKV4CO-JUecKlAU3E",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1601379962087?e=1657756800&v=beta&t=iwbMWi9QDU5gfsgZJt9RaKppXW0QF_stZeR1LbRygok",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1601379962087?e=1657756800&v=beta&t=O07LlCxp9LMGnkgsyOne3avz3o2-qgSwEDz4hjXAjyw",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D16AQFVuQnxyokT-g/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "aniketdhagat",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1639980810391?e=1657756800&v=beta&t=hrGd1y7UZNQIDIsS20iwBqbmpny0b6eo1tBwEGyvzYs",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1639980810391?e=1657756800&v=beta&t=_br32RvU-37rqwN1iBNwjnnKPAPyLhBWnZlQD_Yc2Zg",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1639980810391?e=1657756800&v=beta&t=LsImXe9NL9LZg6LImd_yqi4K3aSd1CdWuEbPW-om2zI",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1639980810391?e=1657756800&v=beta&t=Lk5B7uUDHpZHyJd-bRwq--Okpz70yIlOyTr_JbAOc5k",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQESG96ezmoRlw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "whNO3IjaRo++CBM2r5oxUA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAAus2-YBPs6aFGVkB4TzFpiexbCG4U0VjOM,107,109)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAA7fo70BhCsNbxvH7LUKV4CO-JUecKlAU3E"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Ramya",
+                            "lastName": "K",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAcdzCMBgtUp53jCLY8LePm95bb64xUIEwo",
+                            "occupation": "Love to Learn and implement",
+                            "objectUrn": "urn:li:member:119393315",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAcdzCMBgtUp53jCLY8LePm95bb64xUIEwo",
+                            "publicIdentifier": "ramyakrishnaswamy",
+                            "trackingId": "AXSZATwMS9aOLjCAoMDwcg=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAAus2-YBPs6aFGVkB4TzFpiexbCG4U0VjOM,107,110)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAcdzCMBgtUp53jCLY8LePm95bb64xUIEwo"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Santobroto \"Santo\"",
+                            "lastName": "Chakraborty",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAX1-2EBQz2qhB2NoxTtPXXz7oE4Mt0P_PU",
+                            "occupation": "Project Manager at iMerit Technology",
+                            "objectUrn": "urn:li:member:100006753",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAX1-2EBQz2qhB2NoxTtPXXz7oE4Mt0P_PU",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1617207163431?e=1657756800&v=beta&t=xfyeu3XtHvJsltFd0dtyTH2pFYDOcTcKmQhcTzjMTBY",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1617207163431?e=1657756800&v=beta&t=QjrGfoE5dCcLfIKd8tGm3HN4gAfl2lPB2BbU-6tVJSU",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5616AQGtXb-bSAk06Q/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "santobroto",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1617207442354?e=1657756800&v=beta&t=9RYe8K227aeBZ0IiubAXHE44Shtx_fWfT4zULWiyXJk",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1617207442354?e=1657756800&v=beta&t=TJ7bG1QAmA_bPvdjnt1o8eYZ4nJ7NXPrivIXIYSip5A",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1617207442354?e=1657756800&v=beta&t=_Iszckp-AQ8rtwm2-48cTybbD0tsGvpTJYIeFgFKA64",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1617207442354?e=1657756800&v=beta&t=T1JvkpzmlPdClMRS9GP2egc4iXjZI7UXrwg30rbTnXc",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5603AQFZz0T4s96eEw/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "7+6tRXYaQcG1Vc5TgbQDMA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAAus2-YBPs6aFGVkB4TzFpiexbCG4U0VjOM,107,111)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAX1-2EBQz2qhB2NoxTtPXXz7oE4Mt0P_PU"
+                    },
+                    {
+                        "name": "ve",
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAAus2-YBPs6aFGVkB4TzFpiexbCG4U0VjOM,107,113)"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Veena",
+                            "lastName": "Kambari",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAzc41MBBOqEZdHBfNU-uC30tnzADxtht14",
+                            "occupation": "SOC Lead",
+                            "objectUrn": "urn:li:member:215802707",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAzc41MBBOqEZdHBfNU-uC30tnzADxtht14",
+                            "publicIdentifier": "veenaakambari",
+                            "trackingId": "dJ/xuxz8TdqdzfgJFTewjQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAAus2-YBPs6aFGVkB4TzFpiexbCG4U0VjOM,107,114)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAzc41MBBOqEZdHBfNU-uC30tnzADxtht14"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Vijendra Singh",
+                            "lastName": "Thakur",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAAAyCkT0BnY59tXcwTSNmzBUZ-m5XrlRP7p4",
+                            "occupation": "Senior Product Education Specialist at LinkedIn",
+                            "objectUrn": "urn:li:member:209883453",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAAAyCkT0BnY59tXcwTSNmzBUZ-m5XrlRP7p4",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1515797788675?e=1657756800&v=beta&t=9xt-G3ljL3APrdAsFeAAW507tneq7RrMu36wddsRuGk",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1515797788675?e=1657756800&v=beta&t=oQ7FviosTO8bqlIywwvhpi4sGqu3g4SIDXBwCTyiNiU",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D16AQF9162iNtpYfQ/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "vijendrasinghthakur",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1636622021801?e=1657756800&v=beta&t=XHWOkV-m_oZyN2kCxNLQ5pSPu5nj3mI4rT17bohoK1M",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1636622021801?e=1657756800&v=beta&t=ZSvlB0iVQeLfk_Xdq1FI7M9cgL6bWa50s69deDREnsc",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1636622021801?e=1657756800&v=beta&t=LmV9O0_mzK3Z-4UOi4y66EH6x7slKqt4dFMecrpUz0E",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1636622021801?e=1657756800&v=beta&t=D9uT6K1HOhHV9ujD73AOU9jT4FM0bESu2X9b707F6jg",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/D4E03AQE0pslZZym7Cg/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "rvDl5m0bSwq6ZFt58n7FIw=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAAAus2-YBPs6aFGVkB4TzFpiexbCG4U0VjOM,107,115)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAAAyCkT0BnY59tXcwTSNmzBUZ-m5XrlRP7p4"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2014
+                    },
+                    "startDate": {
+                        "month": 6,
+                        "year": 2014
+                    }
+                },
+                "title": "Learning & Development: Guide[in]"
+            }
+        ]
+    },
+    "contact_info": {
+        "email_address": null,
+        "websites": [],
+        "twitter": [],
+        "birthdate": null,
+        "ims": null,
+        "phone_numbers": []
+    },
+    "connections": [
+        {
+            "urn_id": "ACoAAC24GToBKzC8vS7jZaCEqoq3Jse_M2Tson8",
+            "distance": "DISTANCE_1",
+            "public_id": "abhijit-paul-936a68194",
+            "tracking_id": "767039802"
+        },
+        {
+            "urn_id": "ACoAAByhqogBLFVDJbqojrVMhtKfC3o3hRfEcjg",
+            "distance": "DISTANCE_1",
+            "public_id": "biki-talukdar-460a54114",
+            "tracking_id": "480357000"
+        },
+        {
+            "urn_id": "ACoAABr4jt0BoOUmisITdRo1gR4CumG5I4jjZIw",
+            "distance": "DISTANCE_1",
+            "public_id": "samudra-deka-911659107",
+            "tracking_id": "452497117"
+        },
+        {
+            "urn_id": "ACoAADZmR9QB1zOH_PmrzQQw2wQmTJRTcNGU7CE",
+            "distance": "DISTANCE_1",
+            "public_id": "bkalita",
+            "tracking_id": "912672724"
+        },
+        {
+            "urn_id": "ACoAADLJzxsBizdB0nN5NZBCM41Q-z6-7ef5gyI",
+            "distance": "DISTANCE_1",
+            "public_id": "deepjyoti-kalita-78b4411b9",
+            "tracking_id": "852086555"
+        },
+        {
+            "urn_id": "ACoAADe3CFYBsoFdtSEajXbg51HDagdpBEb3kx4",
+            "distance": "DISTANCE_1",
+            "public_id": "binud-panging-872062221",
+            "tracking_id": "934742102"
+        },
+        {
+            "urn_id": "ACoAAC2aUPYBGPB-T9xDu2Hjrq7OgzRPu5nTvyE",
+            "distance": "DISTANCE_1",
+            "public_id": "jintudas",
+            "tracking_id": "765087990"
+        },
+        {
+            "urn_id": "ACoAACT67ZEBgw1Aprl8Aqy8zWMavdTyaWs7J3w",
+            "distance": "DISTANCE_1",
+            "public_id": "titikshya-das-015942153",
+            "tracking_id": "620424593"
+        },
+        {
+            "urn_id": "ACoAAAjgx0kBxJoPu_7t3kS1NbDizQekjIIzMbE",
+            "distance": "DISTANCE_1",
+            "public_id": "lakheswar-nath-289a7141",
+            "tracking_id": "148948809"
+        },
+        {
+            "urn_id": "ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE",
+            "distance": "DISTANCE_1",
+            "public_id": "prithoo11335",
+            "tracking_id": "231212168"
+        },
+        {
+            "urn_id": "ACoAACr0GSwBcmPDh22HqivG9h0JwG-eahXSYW8",
+            "distance": "DISTANCE_1",
+            "public_id": "nihar-kashyap98",
+            "tracking_id": "720640300"
+        },
+        {
+            "urn_id": "ACoAACzP6KMBcLKqKnFRpIudaukkoW4NoqstgrM",
+            "distance": "DISTANCE_1",
+            "public_id": "pranit-prakash-sahu",
+            "tracking_id": "751823011"
+        },
+        {
+            "urn_id": "ACoAACeXhGEBEVCUXmKi5rowUSeFZNerPjvzQsc",
+            "distance": "DISTANCE_1",
+            "public_id": "mahbubul-haque-a55552166",
+            "tracking_id": "664241249"
+        },
+        {
+            "urn_id": "ACoAACbTg-gBtT_YqZc-FG2lIVBv13QTx8UUB8E",
+            "distance": "DISTANCE_1",
+            "public_id": "mridul24",
+            "tracking_id": "651396072"
+        },
+        {
+            "urn_id": "ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY",
+            "distance": "DISTANCE_1",
+            "public_id": "tridip-das-b5837911b",
+            "tracking_id": "499568180"
+        },
+        {
+            "urn_id": "ACoAAAI9wXoBijRhLoxf7BO8UTK0DX-7KexJV30",
+            "distance": "DISTANCE_1",
+            "public_id": "boren-ghosh-27671410",
+            "tracking_id": "37601658"
+        },
+        {
+            "urn_id": "ACoAACZxhUQBl1V8kpLj4ACrE2LzpatGvVzEgSA",
+            "distance": "DISTANCE_1",
+            "public_id": "nabajyoti-borah-944000160",
+            "tracking_id": "644973892"
+        },
+        {
+            "urn_id": "ACoAABYq8T8ByHFGBUFRrHT5iKBI2u4YZjTLHFc",
+            "distance": "DISTANCE_1",
+            "public_id": "netranjit-borgohain-53b677a4",
+            "tracking_id": "371913023"
+        },
+        {
+            "urn_id": "ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8",
+            "distance": "DISTANCE_1",
+            "public_id": "sivaranjan-goswami-790b4523",
+            "tracking_id": "83451420"
+        },
+        {
+            "urn_id": "ACoAACTFIIYB1cK_syRcCXEc0o8RTm4JMlhYcHA",
+            "distance": "DISTANCE_1",
+            "public_id": "arun-kumar-nath-686721152",
+            "tracking_id": "616898694"
+        },
+        {
+            "urn_id": "ACoAAC4efLABFBv0f30-SDGDgLSf1gXTlkpJTfc",
+            "distance": "DISTANCE_1",
+            "public_id": "shawan-mandal",
+            "tracking_id": "773749936"
+        },
+        {
+            "urn_id": "ACoAACDVs-sB_IgxPBMHMRBfR6is3jmwwV_OvTE",
+            "distance": "DISTANCE_1",
+            "public_id": "swapnil-bhattacharjee-ghy",
+            "tracking_id": "550876139"
+        },
+        {
+            "urn_id": "ACoAACUEZ3QB2Xm0OWR0cqoc_u-o4KW_OENO1_8",
+            "distance": "DISTANCE_1",
+            "public_id": "rajan-sahu",
+            "tracking_id": "621045620"
+        },
+        {
+            "urn_id": "ACoAAC12ZqEBCx9JN_YIi1eF1FPPDif3mXI3fyc",
+            "distance": "DISTANCE_1",
+            "public_id": "abinash-panigrahi-169531193",
+            "tracking_id": "762734241"
+        },
+        {
+            "urn_id": "ACoAACYmrvgBRdvWxItbY_KP_fyrEgZ9U-QKJqk",
+            "distance": "DISTANCE_1",
+            "public_id": "rtsu",
+            "tracking_id": "640069368"
+        },
+        {
+            "urn_id": "ACoAADRMKTMBj76XTPRfB9R5rvfwNOXP2n93n4c",
+            "distance": "DISTANCE_1",
+            "public_id": "manash-deka-497a12205",
+            "tracking_id": "877406515"
+        },
+        {
+            "urn_id": "ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc",
+            "distance": "DISTANCE_1",
+            "public_id": "ratnadeep-bhattacharjee",
+            "tracking_id": "135079003"
+        },
+        {
+            "urn_id": "ACoAAAR5v8MBjPwCvp8TP9RWZyGSeNYNiJ1wKJE",
+            "distance": "DISTANCE_1",
+            "public_id": "nilotpal-boruah",
+            "tracking_id": "75087811"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Customer Service"
+        },
+        {
+            "name": "Coaching"
+        },
+        {
+            "name": "Process Improvement"
+        },
+        {
+            "name": "Business Development"
+        },
+        {
+            "name": "Project Management"
+        },
+        {
+            "name": "Requirements Analysis"
+        },
+        {
+            "name": "User Acceptance Testing"
+        },
+        {
+            "name": "Customer Satisfaction"
+        },
+        {
+            "name": "Credit Cards"
+        },
+        {
+            "name": "Banking"
+        },
+        {
+            "name": "Retail Banking"
+        },
+        {
+            "name": "Call Center"
+        },
+        {
+            "name": "Payments"
+        },
+        {
+            "name": "Call Centers"
+        },
+        {
+            "name": "Testing"
+        },
+        {
+            "name": "CRM"
+        },
+        {
+            "name": "Test Planning"
+        },
+        {
+            "name": "Customer Relationship Management (CRM)"
+        },
+        {
+            "name": "Technical Support"
+        },
+        {
+            "name": "Troubleshooting"
+        },
+        {
+            "name": "Visio"
+        },
+        {
+            "name": "Salesforce.com",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:6740",
+            "standardizedSkill": {
+                "name": "Salesforce.com",
+                "entityUrn": "urn:li:fs_miniSkill:6740"
+            }
+        },
+        {
+            "name": "Microsoft Office"
+        },
+        {
+            "name": "Team Management"
+        },
+        {
+            "name": "Team Leadership"
+        },
+        {
+            "name": "Training"
+        },
+        {
+            "name": "Mentoring"
+        },
+        {
+            "name": "Problem Solving"
+        },
+        {
+            "name": "Presentations"
+        },
+        {
+            "name": "Management"
+        },
+        {
+            "name": "Leadership"
+        },
+        {
+            "name": "Teamwork"
+        },
+        {
+            "name": "Communication"
+        },
+        {
+            "name": "Training & Development"
+        },
+        {
+            "name": "Employee Engagement",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:1513",
+            "standardizedSkill": {
+                "name": "Employee Engagement",
+                "entityUrn": "urn:li:fs_miniSkill:1513"
+            }
+        },
+        {
+            "name": "Employee Relations",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:5855",
+            "standardizedSkill": {
+                "name": "Employee Relations",
+                "entityUrn": "urn:li:fs_miniSkill:5855"
+            }
+        },
+        {
+            "name": "Dress for Success"
+        },
+        {
+            "name": "Voice & Accent"
+        },
+        {
+            "name": "LinkedIn",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:3626",
+            "standardizedSkill": {
+                "name": "LinkedIn",
+                "entityUrn": "urn:li:fs_miniSkill:3626"
+            }
+        },
+        {
+            "name": "Diversity & Inclusion",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:43735",
+            "standardizedSkill": {
+                "name": "Diversity & Inclusion",
+                "entityUrn": "urn:li:fs_miniSkill:43735"
+            }
+        },
+        {
+            "name": "Employee Learning & Development"
+        },
+        {
+            "name": "Quality Assurance"
+        },
+        {
+            "name": "Customer Support"
+        },
+        {
+            "name": "Customer Experience"
+        },
+        {
+            "name": "Learning & Development Solutions"
+        },
+        {
+            "name": "Personal Branding",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:6796",
+            "standardizedSkill": {
+                "name": "Personal Branding",
+                "entityUrn": "urn:li:fs_miniSkill:6796"
+            }
+        }
+    ]
+}

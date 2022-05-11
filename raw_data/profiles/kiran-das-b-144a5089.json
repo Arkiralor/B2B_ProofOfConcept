@@ -1,0 +1,923 @@
+{
+    "profile": {
+        "summary": "I am B.E Graduate with 7.9 years of total Work Experience.\n\nCurrently Working in BigData, Data Science, Data Engineering with Machine Learning and Artificial Intelligence at LinkedIn as Senior Technical Lead. \n\nPrior to this, I have worked under Media & Entertainment domain as BigData Engineer Software Expert at Tivo Corporation for 1.2 years, \n\nUnder HealthCare Data Domain as an employee of IQVIA for 1.5 years and in Telecommunication field for 3 years at CenturyLink Technologies, India Ltd under Data Warehouse and Business Intelligence.\n\nI have good Experience into Designing and Developing Data Warehouse Application on Different Platforms. Starting From the Conventional RDBMS System of Using Oracle/SQL With ETL Tools Like Informatica and Scripting Language Such as Shell Scripts, I Have Designed and Developed Multiple ETL Pipelines Upto and Including Using of Hadoop Distributed File Systems With Databases Like Hive / Impala / Presto Along With Shell / Python Scripting.  \n\nI am well versed with the knowledge on BigData, Hadoop, ETL, Data warehousing concepts, Business Intelligence, Informatica, Control M and ESP. I also have good command over Oracle, Sql, unix, shell scripting and Python Scripting. \n\nWith My Current Knowledge and Enthusiasm to Learn More, I Believe I Can make a significant contribution to the Project and Organisation.",
+        "industryName": "Internet Publishing",
+        "lastName": "Das B",
+        "locationName": "India",
+        "student": false,
+        "geoCountryName": "India",
+        "geoCountryUrn": "urn:li:fs_geo:102713980",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "birthDate": {
+            "month": 12,
+            "day": 3
+        },
+        "industryUrn": "urn:li:fs_industry:6",
+        "firstName": "Kiran",
+        "entityUrn": "urn:li:fs_profile:ACoAABLXncQBkXzQSeoapkOnj752rD0APk13S6k",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:105307040"
+        },
+        "geoLocationName": "Bengaluru, Karnataka",
+        "location": {
+            "basicLocation": {
+                "countryCode": "in"
+            }
+        },
+        "headline": "Senior Technical Lead at LinkedIn",
+        "displayPictureUrl": "https://media-exp1.licdn.com/dms/image/C4E03AQEbHDYJriCrjA/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/0/1650023559226?e=1657756800&v=beta&t=rij4hsvae0mbAboUeQ3JeHW7gishWSfKPJ-S4zEX4Gw",
+        "img_200_200": "200_200/0/1650023559226?e=1657756800&v=beta&t=alG4d8dFa_OT6-TTTs_ru-iUA_5doYyzFkqiDXNx37w",
+        "img_400_400": "400_400/0/1650023559226?e=1657756800&v=beta&t=Fq9DJXDfS9SgIgJ1ynwfwZa_9vW6EpP8uKqf8NlfF9k",
+        "img_800_800": "800_800/0/1650023559226?e=1657756800&v=beta&t=BMbkYDzo2xTVvVL4LYg5Vts3V3mi_EL-_Ul6Ckjd060",
+        "profile_id": "ACoAABLXncQBkXzQSeoapkOnj752rD0APk13S6k",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAABLXncQBkXzQSeoapkOnj752rD0APk13S6k",
+        "member_urn": "urn:li:member:316120516",
+        "experience": [
+            {
+                "locationName": "Bengaluru, Karnataka",
+                "entityUrn": "urn:li:fs_position:(ACoAABLXncQBkXzQSeoapkOnj752rD0APk13S6k,1604590778)",
+                "geoLocationName": "Bengaluru, Karnataka",
+                "geoUrn": "urn:li:fs_geo:105214831",
+                "companyName": "LinkedIn",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 4,
+                        "year": 2020
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Internet"
+                    ]
+                },
+                "title": "Senior Technical Lead",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:1337",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_"
+            },
+            {
+                "locationName": "Bengaluru Area, India",
+                "projects": [
+                    "urn:li:fs_project:(ACoAABLXncQBkXzQSeoapkOnj752rD0APk13S6k,1745053600)"
+                ],
+                "entityUrn": "urn:li:fs_position:(ACoAABLXncQBkXzQSeoapkOnj752rD0APk13S6k,1410737685)",
+                "geoLocationName": "Bengaluru Area, India",
+                "companyName": "TiVo",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 3,
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2019
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 1001,
+                        "end": 5000
+                    },
+                    "industries": [
+                        "Consumer Electronics"
+                    ]
+                },
+                "title": "Engineer, Software Expert",
+                "companyUrn": "urn:li:fs_miniCompany:166454",
+                "honors": [
+                    "urn:li:fs_honor:(ACoAABLXncQBkXzQSeoapkOnj752rD0APk13S6k,480973062)"
+                ],
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C560BAQFRnlvNoMT2sw/company-logo_"
+            },
+            {
+                "locationName": "Bengaluru Area, India",
+                "projects": [
+                    "urn:li:fs_project:(ACoAABLXncQBkXzQSeoapkOnj752rD0APk13S6k,206815501)"
+                ],
+                "geoUrn": "urn:li:fs_geo:105307040",
+                "companyName": "IQVIA",
+                "title": "Senior Software Engineer",
+                "companyUrn": "urn:li:fs_miniCompany:4057",
+                "honors": [
+                    "urn:li:fs_honor:(ACoAABLXncQBkXzQSeoapkOnj752rD0APk13S6k,206680411)",
+                    "urn:li:fs_honor:(ACoAABLXncQBkXzQSeoapkOnj752rD0APk13S6k,206719965)"
+                ],
+                "entityUrn": "urn:li:fs_position:(ACoAABLXncQBkXzQSeoapkOnj752rD0APk13S6k,1352568047)",
+                "geoLocationName": "Bengaluru Area, India",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 1,
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "month": 7,
+                        "year": 2017
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Hospital & Health Care"
+                    ]
+                },
+                "region": "urn:li:fs_region:(in,7127)",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQEiOifAvjV9vw/company-logo_"
+            },
+            {
+                "courses": [
+                    "urn:li:fs_course:(ACoAABLXncQBkXzQSeoapkOnj752rD0APk13S6k,1604089019)",
+                    "urn:li:fs_course:(ACoAABLXncQBkXzQSeoapkOnj752rD0APk13S6k,1604089143)",
+                    "urn:li:fs_course:(ACoAABLXncQBkXzQSeoapkOnj752rD0APk13S6k,1604089414)",
+                    "urn:li:fs_course:(ACoAABLXncQBkXzQSeoapkOnj752rD0APk13S6k,1604089526)"
+                ],
+                "locationName": "Bengaluru Area, India",
+                "projects": [
+                    "urn:li:fs_project:(ACoAABLXncQBkXzQSeoapkOnj752rD0APk13S6k,1603467292)",
+                    "urn:li:fs_project:(ACoAABLXncQBkXzQSeoapkOnj752rD0APk13S6k,1414996933)",
+                    "urn:li:fs_project:(ACoAABLXncQBkXzQSeoapkOnj752rD0APk13S6k,1122315079)"
+                ],
+                "geoUrn": "urn:li:fs_geo:90009633",
+                "companyName": "CenturyLink India",
+                "title": "Software Engineer",
+                "companyUrn": "urn:li:fs_miniCompany:4955",
+                "honors": [
+                    "urn:li:fs_honor:(ACoAABLXncQBkXzQSeoapkOnj752rD0APk13S6k,1122441256)"
+                ],
+                "entityUrn": "urn:li:fs_position:(ACoAABLXncQBkXzQSeoapkOnj752rD0APk13S6k,586171802)",
+                "geoLocationName": "Bengaluru Area, India",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 7,
+                        "year": 2017
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2014
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "region": "urn:li:fs_region:(in,5281)",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQGi2ll7bC7CHQ/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAABLXncQBkXzQSeoapkOnj752rD0APk13S6k,202470645)",
+                "school": {
+                    "objectUrn": "urn:li:school:3235284",
+                    "entityUrn": "urn:li:fs_miniSchool:3235284",
+                    "active": true,
+                    "schoolName": "The National Institute of Engineering, Mysuru",
+                    "trackingId": "Dc/fzOYgR7aRyIm7uS88+g==",
+                    "logoUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHHPp0fmpAk9g/company-logo_"
+                },
+                "activities": "ATF(Automobile Technical Fair)\nTechNIEks\nCogNIEscience",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 7,
+                        "year": 2014
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2010
+                    }
+                },
+                "degreeName": "Bachelor of Engineering - BE",
+                "schoolName": "The National Institute of Engineering, Mysuru",
+                "fieldOfStudy": "Mechanical Engineering",
+                "degreeUrn": "urn:li:fs_degree:269",
+                "schoolUrn": "urn:li:fs_miniSchool:3235284"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "German",
+                "proficiency": "LIMITED_WORKING"
+            },
+            {
+                "name": "Hindi",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "Kannada",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ],
+        "publications": [],
+        "certifications": [],
+        "volunteer": [
+            {
+                "role": "Founder",
+                "companyName": "GreenWelt",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 3,
+                        "year": 2013
+                    },
+                    "startDate": {
+                        "month": 6,
+                        "year": 2012
+                    }
+                },
+                "cause": "ENVIRONMENT",
+                "description": "Its a small step in creating awareness towards environment, by replacing plastic bags with the reusable cloth bags at affordable price."
+            }
+        ],
+        "honors": [
+            {
+                "description": "Have been awarded with patent for my invention on \u201cSYSTEMS AND METHODS FOR LOCAL INTERPRETATION OF VOICE QUERIES\u201d",
+                "occupation": "urn:li:fs_position:(ACoAABLXncQBkXzQSeoapkOnj752rD0APk13S6k,1410737685)",
+                "title": "Patent",
+                "issueDate": {
+                    "month": 12,
+                    "year": 2019
+                },
+                "issuer": "Tivo"
+            },
+            {
+                "occupation": "urn:li:fs_position:(ACoAABLXncQBkXzQSeoapkOnj752rD0APk13S6k,1352568047)",
+                "title": "Standing Oviation",
+                "issueDate": {
+                    "month": 6,
+                    "year": 2018
+                },
+                "issuer": "IQVIA"
+            },
+            {
+                "description": "Received appreciation for the Work",
+                "occupation": "urn:li:fs_position:(ACoAABLXncQBkXzQSeoapkOnj752rD0APk13S6k,1352568047)",
+                "title": "Pat On The Back",
+                "issueDate": {
+                    "month": 3,
+                    "year": 2018
+                },
+                "issuer": "IQVIA"
+            },
+            {
+                "description": "Received honourable Spot Award for the outstanding work made in re-designing the old production flow. Which is now more efficient, less time consuming and fool proof.\n\nThe New Design reduced the Run time from 15 days to just 3 Days.",
+                "occupation": "urn:li:fs_position:(ACoAABLXncQBkXzQSeoapkOnj752rD0APk13S6k,586171802)",
+                "title": "Spot Award",
+                "issueDate": {
+                    "month": 11,
+                    "year": 2016
+                },
+                "issuer": "CenturyLink Technologies"
+            }
+        ],
+        "projects": [
+            {
+                "occupation": "urn:li:fs_position:(ACoAABLXncQBkXzQSeoapkOnj752rD0APk13S6k,1410737685)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Kiran",
+                            "lastName": "Das B",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABLXncQBkXzQSeoapkOnj752rD0APk13S6k",
+                            "occupation": "Senior Technical Lead at LinkedIn",
+                            "objectUrn": "urn:li:member:316120516",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABLXncQBkXzQSeoapkOnj752rD0APk13S6k",
+                            "publicIdentifier": "kiran-das-b-144a5089",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1650023559226?e=1657756800&v=beta&t=rij4hsvae0mbAboUeQ3JeHW7gishWSfKPJ-S4zEX4Gw",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1650023559226?e=1657756800&v=beta&t=alG4d8dFa_OT6-TTTs_ru-iUA_5doYyzFkqiDXNx37w",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1650023559226?e=1657756800&v=beta&t=Fq9DJXDfS9SgIgJ1ynwfwZa_9vW6EpP8uKqf8NlfF9k",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1650023559226?e=1657756800&v=beta&t=BMbkYDzo2xTVvVL4LYg5Vts3V3mi_EL-_Ul6Ckjd060",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E03AQEbHDYJriCrjA/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "wtKuEp7VSXOs1NvVLjWhbg=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABLXncQBkXzQSeoapkOnj752rD0APk13S6k,1745053600,222075770)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABLXncQBkXzQSeoapkOnj752rD0APk13S6k"
+                    }
+                ],
+                "timePeriod": {
+                    "startDate": {
+                        "month": 1,
+                        "year": 2019
+                    }
+                },
+                "description": " The Targeted Audience Delivery (TAD) is a customer-oriented/driven Application. It has been developed to generate different sets of reports as per the customer Requirements. \n\nThese reports generated, will help the clients in understanding the target frequency, reach frequency and other factors that would help in determining their markets and success rate of their advertising campaigns.\n\nThe graphical or numerical representation of analysis in the report helps them in planning their market strategies and provides an idea about the potential market for business.",
+                "title": "BIG-DATA - TAD (Jan 2019 \u2013 Till Date) \u2013 AGILE PROCESS"
+            },
+            {
+                "occupation": "urn:li:fs_position:(ACoAABLXncQBkXzQSeoapkOnj752rD0APk13S6k,586171802)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Kiran",
+                            "lastName": "Das B",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABLXncQBkXzQSeoapkOnj752rD0APk13S6k",
+                            "occupation": "Senior Technical Lead at LinkedIn",
+                            "objectUrn": "urn:li:member:316120516",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABLXncQBkXzQSeoapkOnj752rD0APk13S6k",
+                            "publicIdentifier": "kiran-das-b-144a5089",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1650023559226?e=1657756800&v=beta&t=rij4hsvae0mbAboUeQ3JeHW7gishWSfKPJ-S4zEX4Gw",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1650023559226?e=1657756800&v=beta&t=alG4d8dFa_OT6-TTTs_ru-iUA_5doYyzFkqiDXNx37w",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1650023559226?e=1657756800&v=beta&t=Fq9DJXDfS9SgIgJ1ynwfwZa_9vW6EpP8uKqf8NlfF9k",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1650023559226?e=1657756800&v=beta&t=BMbkYDzo2xTVvVL4LYg5Vts3V3mi_EL-_Ul6Ckjd060",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E03AQEbHDYJriCrjA/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "wtKuEp7VSXOs1NvVLjWhbg=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABLXncQBkXzQSeoapkOnj752rD0APk13S6k,1122315079,1)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABLXncQBkXzQSeoapkOnj752rD0APk13S6k"
+                    }
+                ],
+                "timePeriod": {
+                    "startDate": {
+                        "month": 12,
+                        "year": 2015
+                    }
+                },
+                "description": " The Data Warehouse Profitability Cost Management is an application that provides information on the total sales happened and the revenue got generated from it. This helps in understanding the business value and the health and well-being of the company. The vision is to keep track of all the in and out activities of the company related to product.\n            I am part of Data warehousing team which is involved in the development of Enterprise Data warehouse (EDW) for CENTURYLINK and working for team names as DNA MARGINS. ",
+                "title": "Data Warehouse/ETL \u2013 DWPCM (Dec 2015 \u2013 Till Date) \u2013 AGILE PROCESS"
+            },
+            {
+                "occupation": "urn:li:fs_position:(ACoAABLXncQBkXzQSeoapkOnj752rD0APk13S6k,1352568047)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Kiran",
+                            "lastName": "Das B",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABLXncQBkXzQSeoapkOnj752rD0APk13S6k",
+                            "occupation": "Senior Technical Lead at LinkedIn",
+                            "objectUrn": "urn:li:member:316120516",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABLXncQBkXzQSeoapkOnj752rD0APk13S6k",
+                            "publicIdentifier": "kiran-das-b-144a5089",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1650023559226?e=1657756800&v=beta&t=rij4hsvae0mbAboUeQ3JeHW7gishWSfKPJ-S4zEX4Gw",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1650023559226?e=1657756800&v=beta&t=alG4d8dFa_OT6-TTTs_ru-iUA_5doYyzFkqiDXNx37w",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1650023559226?e=1657756800&v=beta&t=Fq9DJXDfS9SgIgJ1ynwfwZa_9vW6EpP8uKqf8NlfF9k",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1650023559226?e=1657756800&v=beta&t=BMbkYDzo2xTVvVL4LYg5Vts3V3mi_EL-_Ul6Ckjd060",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E03AQEbHDYJriCrjA/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "wtKuEp7VSXOs1NvVLjWhbg=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABLXncQBkXzQSeoapkOnj752rD0APk13S6k,206815501,222076743)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABLXncQBkXzQSeoapkOnj752rD0APk13S6k"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 1,
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "month": 7,
+                        "year": 2017
+                    }
+                },
+                "description": "The New Integrated Data Warehouse - X (NDWX) is a continuously evolving migration project. The application was initially built on conventional Data warehouse called NDW (New Data Warehouse). Due to high volume of data, the application is being migrated to Big-data. Though the Source system is still the Oracle System, the data is later staged (sqooped) to HDFS system for transformation.\n            \n              The application holds the most crucial data about Patients, Doctors, Pharmacies, Insurances and many such information which is being later used by the Intelligence team to draw the Reports and share it with our clients.\n            \n              Our clients mainly being the huge Pharmaceutical companies and well established esteemed Insurance Organisations, these reports help them in understanding the market and provides them a way to grow over their competitors. \n",
+                "title": "BIG-DATA/HADOOP - NDWX (Jul 2017 \u2013 Jan 2019) \u2013 AGILE PROCESS"
+            },
+            {
+                "occupation": "urn:li:fs_position:(ACoAABLXncQBkXzQSeoapkOnj752rD0APk13S6k,586171802)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Kiran",
+                            "lastName": "Das B",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABLXncQBkXzQSeoapkOnj752rD0APk13S6k",
+                            "occupation": "Senior Technical Lead at LinkedIn",
+                            "objectUrn": "urn:li:member:316120516",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABLXncQBkXzQSeoapkOnj752rD0APk13S6k",
+                            "publicIdentifier": "kiran-das-b-144a5089",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1650023559226?e=1657756800&v=beta&t=rij4hsvae0mbAboUeQ3JeHW7gishWSfKPJ-S4zEX4Gw",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1650023559226?e=1657756800&v=beta&t=alG4d8dFa_OT6-TTTs_ru-iUA_5doYyzFkqiDXNx37w",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1650023559226?e=1657756800&v=beta&t=Fq9DJXDfS9SgIgJ1ynwfwZa_9vW6EpP8uKqf8NlfF9k",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1650023559226?e=1657756800&v=beta&t=BMbkYDzo2xTVvVL4LYg5Vts3V3mi_EL-_Ul6Ckjd060",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E03AQEbHDYJriCrjA/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "wtKuEp7VSXOs1NvVLjWhbg=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABLXncQBkXzQSeoapkOnj752rD0APk13S6k,1603467292,1)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABLXncQBkXzQSeoapkOnj752rD0APk13S6k"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2015
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2015
+                    }
+                },
+                "description": "           This project is mainly concerned about the Data Synchronization in two servers. The Company data is maintained in 2 different Servers. One of the server is maintained by the Company, and the other server is maintained by Third Party knows as GE. The data is refreshed in between GE server and Company Server for every 6 months, and the same needs to be kept in sync with the Company Server. The server contains pole to pole data. \n\nExample: - Pole Id and other things. \n",
+                "title": "Data Warehouse \u2013 CR4465 R7 (Sept 2015 \u2013 Dec 2015) \u2013 WATERFALL MODEL"
+            },
+            {
+                "occupation": "urn:li:fs_position:(ACoAABLXncQBkXzQSeoapkOnj752rD0APk13S6k,586171802)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Kiran",
+                            "lastName": "Das B",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABLXncQBkXzQSeoapkOnj752rD0APk13S6k",
+                            "occupation": "Senior Technical Lead at LinkedIn",
+                            "objectUrn": "urn:li:member:316120516",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABLXncQBkXzQSeoapkOnj752rD0APk13S6k",
+                            "publicIdentifier": "kiran-das-b-144a5089",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1650023559226?e=1657756800&v=beta&t=rij4hsvae0mbAboUeQ3JeHW7gishWSfKPJ-S4zEX4Gw",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1650023559226?e=1657756800&v=beta&t=alG4d8dFa_OT6-TTTs_ru-iUA_5doYyzFkqiDXNx37w",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1650023559226?e=1657756800&v=beta&t=Fq9DJXDfS9SgIgJ1ynwfwZa_9vW6EpP8uKqf8NlfF9k",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1650023559226?e=1657756800&v=beta&t=BMbkYDzo2xTVvVL4LYg5Vts3V3mi_EL-_Ul6Ckjd060",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E03AQEbHDYJriCrjA/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "wtKuEp7VSXOs1NvVLjWhbg=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABLXncQBkXzQSeoapkOnj752rD0APk13S6k,1414996933,1)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABLXncQBkXzQSeoapkOnj752rD0APk13S6k"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 9,
+                        "year": 2015
+                    },
+                    "startDate": {
+                        "month": 6,
+                        "year": 2015
+                    }
+                },
+                "description": "\u2022\tThe project aims at generating a report for each of the transactions made over Prism product from different costumers of every location. Each report was generated for the type on transaction made over the product based on the Reason behind it. For Example, A report was generated to track all Cancelled Orders or Disconnect Orders by customers from different regions with reasons associated to it. Also Daily Report, Monthly Reports and Yearly Reports were developed to track the kind of transactions that occurred with respect to Prism Product over Day, Month and Year respectively. \nFor Example, Number of New Installs, number of Orders Cancelled, Disconnected, relocated etc\n",
+                "title": "Data Warehouse Testing \u2013 CR5327 PRISM REPORTS (June 2015 \u2013 Sept 2015)"
+            }
+        ]
+    },
+    "contact_info": {
+        "email_address": null,
+        "websites": [],
+        "twitter": [],
+        "birthdate": {
+            "month": 12,
+            "day": 3
+        },
+        "ims": null,
+        "phone_numbers": []
+    },
+    "connections": [
+        {
+            "urn_id": "ACoAAC24GToBKzC8vS7jZaCEqoq3Jse_M2Tson8",
+            "distance": "DISTANCE_1",
+            "public_id": "abhijit-paul-936a68194",
+            "tracking_id": "767039802"
+        },
+        {
+            "urn_id": "ACoAAByhqogBLFVDJbqojrVMhtKfC3o3hRfEcjg",
+            "distance": "DISTANCE_1",
+            "public_id": "biki-talukdar-460a54114",
+            "tracking_id": "480357000"
+        },
+        {
+            "urn_id": "ACoAABr4jt0BoOUmisITdRo1gR4CumG5I4jjZIw",
+            "distance": "DISTANCE_1",
+            "public_id": "samudra-deka-911659107",
+            "tracking_id": "452497117"
+        },
+        {
+            "urn_id": "ACoAADZmR9QB1zOH_PmrzQQw2wQmTJRTcNGU7CE",
+            "distance": "DISTANCE_1",
+            "public_id": "bkalita",
+            "tracking_id": "912672724"
+        },
+        {
+            "urn_id": "ACoAADLJzxsBizdB0nN5NZBCM41Q-z6-7ef5gyI",
+            "distance": "DISTANCE_1",
+            "public_id": "deepjyoti-kalita-78b4411b9",
+            "tracking_id": "852086555"
+        },
+        {
+            "urn_id": "ACoAADe3CFYBsoFdtSEajXbg51HDagdpBEb3kx4",
+            "distance": "DISTANCE_1",
+            "public_id": "binud-panging-872062221",
+            "tracking_id": "934742102"
+        },
+        {
+            "urn_id": "ACoAAC2aUPYBGPB-T9xDu2Hjrq7OgzRPu5nTvyE",
+            "distance": "DISTANCE_1",
+            "public_id": "jintudas",
+            "tracking_id": "765087990"
+        },
+        {
+            "urn_id": "ACoAACT67ZEBgw1Aprl8Aqy8zWMavdTyaWs7J3w",
+            "distance": "DISTANCE_1",
+            "public_id": "titikshya-das-015942153",
+            "tracking_id": "620424593"
+        },
+        {
+            "urn_id": "ACoAAAjgx0kBxJoPu_7t3kS1NbDizQekjIIzMbE",
+            "distance": "DISTANCE_1",
+            "public_id": "lakheswar-nath-289a7141",
+            "tracking_id": "148948809"
+        },
+        {
+            "urn_id": "ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE",
+            "distance": "DISTANCE_1",
+            "public_id": "prithoo11335",
+            "tracking_id": "231212168"
+        },
+        {
+            "urn_id": "ACoAACr0GSwBcmPDh22HqivG9h0JwG-eahXSYW8",
+            "distance": "DISTANCE_1",
+            "public_id": "nihar-kashyap98",
+            "tracking_id": "720640300"
+        },
+        {
+            "urn_id": "ACoAACzP6KMBcLKqKnFRpIudaukkoW4NoqstgrM",
+            "distance": "DISTANCE_1",
+            "public_id": "pranit-prakash-sahu",
+            "tracking_id": "751823011"
+        },
+        {
+            "urn_id": "ACoAACeXhGEBEVCUXmKi5rowUSeFZNerPjvzQsc",
+            "distance": "DISTANCE_1",
+            "public_id": "mahbubul-haque-a55552166",
+            "tracking_id": "664241249"
+        },
+        {
+            "urn_id": "ACoAACbTg-gBtT_YqZc-FG2lIVBv13QTx8UUB8E",
+            "distance": "DISTANCE_1",
+            "public_id": "mridul24",
+            "tracking_id": "651396072"
+        },
+        {
+            "urn_id": "ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY",
+            "distance": "DISTANCE_1",
+            "public_id": "tridip-das-b5837911b",
+            "tracking_id": "499568180"
+        },
+        {
+            "urn_id": "ACoAAAI9wXoBijRhLoxf7BO8UTK0DX-7KexJV30",
+            "distance": "DISTANCE_1",
+            "public_id": "boren-ghosh-27671410",
+            "tracking_id": "37601658"
+        },
+        {
+            "urn_id": "ACoAACZxhUQBl1V8kpLj4ACrE2LzpatGvVzEgSA",
+            "distance": "DISTANCE_1",
+            "public_id": "nabajyoti-borah-944000160",
+            "tracking_id": "644973892"
+        },
+        {
+            "urn_id": "ACoAABYq8T8ByHFGBUFRrHT5iKBI2u4YZjTLHFc",
+            "distance": "DISTANCE_1",
+            "public_id": "netranjit-borgohain-53b677a4",
+            "tracking_id": "371913023"
+        },
+        {
+            "urn_id": "ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8",
+            "distance": "DISTANCE_1",
+            "public_id": "sivaranjan-goswami-790b4523",
+            "tracking_id": "83451420"
+        },
+        {
+            "urn_id": "ACoAACTFIIYB1cK_syRcCXEc0o8RTm4JMlhYcHA",
+            "distance": "DISTANCE_1",
+            "public_id": "arun-kumar-nath-686721152",
+            "tracking_id": "616898694"
+        },
+        {
+            "urn_id": "ACoAAC4efLABFBv0f30-SDGDgLSf1gXTlkpJTfc",
+            "distance": "DISTANCE_1",
+            "public_id": "shawan-mandal",
+            "tracking_id": "773749936"
+        },
+        {
+            "urn_id": "ACoAACDVs-sB_IgxPBMHMRBfR6is3jmwwV_OvTE",
+            "distance": "DISTANCE_1",
+            "public_id": "swapnil-bhattacharjee-ghy",
+            "tracking_id": "550876139"
+        },
+        {
+            "urn_id": "ACoAACUEZ3QB2Xm0OWR0cqoc_u-o4KW_OENO1_8",
+            "distance": "DISTANCE_1",
+            "public_id": "rajan-sahu",
+            "tracking_id": "621045620"
+        },
+        {
+            "urn_id": "ACoAAC12ZqEBCx9JN_YIi1eF1FPPDif3mXI3fyc",
+            "distance": "DISTANCE_1",
+            "public_id": "abinash-panigrahi-169531193",
+            "tracking_id": "762734241"
+        },
+        {
+            "urn_id": "ACoAACYmrvgBRdvWxItbY_KP_fyrEgZ9U-QKJqk",
+            "distance": "DISTANCE_1",
+            "public_id": "rtsu",
+            "tracking_id": "640069368"
+        },
+        {
+            "urn_id": "ACoAADRMKTMBj76XTPRfB9R5rvfwNOXP2n93n4c",
+            "distance": "DISTANCE_1",
+            "public_id": "manash-deka-497a12205",
+            "tracking_id": "877406515"
+        },
+        {
+            "urn_id": "ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc",
+            "distance": "DISTANCE_1",
+            "public_id": "ratnadeep-bhattacharjee",
+            "tracking_id": "135079003"
+        },
+        {
+            "urn_id": "ACoAAAR5v8MBjPwCvp8TP9RWZyGSeNYNiJ1wKJE",
+            "distance": "DISTANCE_1",
+            "public_id": "nilotpal-boruah",
+            "tracking_id": "75087811"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Bigdata"
+        },
+        {
+            "name": "Data Science"
+        },
+        {
+            "name": "Data Engineering"
+        },
+        {
+            "name": "Extract, Transform, Load (ETL)"
+        },
+        {
+            "name": "Data Warehousing"
+        },
+        {
+            "name": "Agile & Waterfall Methodologies"
+        },
+        {
+            "name": "Agile Methodologies"
+        },
+        {
+            "name": "Shell Scripting"
+        },
+        {
+            "name": "Test Cases"
+        },
+        {
+            "name": "Data Analysis"
+        },
+        {
+            "name": "Software Development Life Cycle (SDLC)"
+        },
+        {
+            "name": "Database Design"
+        },
+        {
+            "name": "Linux"
+        },
+        {
+            "name": "Informatica"
+        },
+        {
+            "name": "SQL"
+        },
+        {
+            "name": "Oracle"
+        },
+        {
+            "name": "HP Quality Center"
+        },
+        {
+            "name": "PL/SQL"
+        },
+        {
+            "name": "Hadoop"
+        },
+        {
+            "name": "MapReduce"
+        },
+        {
+            "name": "Python"
+        },
+        {
+            "name": "HiveQL"
+        },
+        {
+            "name": "Unix"
+        },
+        {
+            "name": "Oracle Database"
+        },
+        {
+            "name": "Oracle SQL Developer"
+        },
+        {
+            "name": "MySQL"
+        },
+        {
+            "name": "Github"
+        },
+        {
+            "name": "Jenkins"
+        },
+        {
+            "name": "Impala"
+        },
+        {
+            "name": "Scala"
+        },
+        {
+            "name": "Databases"
+        },
+        {
+            "name": "Apache Oozie"
+        },
+        {
+            "name": "AWS"
+        },
+        {
+            "name": "Control-M"
+        },
+        {
+            "name": "Toad"
+        },
+        {
+            "name": "Dimension"
+        },
+        {
+            "name": "Hive"
+        },
+        {
+            "name": "Presto"
+        },
+        {
+            "name": "ETL Testing"
+        },
+        {
+            "name": "Data Analytics"
+        },
+        {
+            "name": "Software Testing Life Cycle (STLC)"
+        },
+        {
+            "name": "ESP"
+        },
+        {
+            "name": "Data Warehouse Architecture"
+        },
+        {
+            "name": "Snowflake"
+        },
+        {
+            "name": "Star Schema"
+        },
+        {
+            "name": "SQL Tuning"
+        },
+        {
+            "name": "Apache Spark"
+        },
+        {
+            "name": "Sqoop"
+        },
+        {
+            "name": "ETL Tools"
+        },
+        {
+            "name": "Big Data Analytics"
+        }
+    ]
+}

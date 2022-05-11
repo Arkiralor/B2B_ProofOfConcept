@@ -1,0 +1,1266 @@
+{
+    "profile": {
+        "summary": "In today's world of social and digital, I help enterprises make people their competitive advantage, thanks to 660+ million professionals on LinkedIn and their billions of interactions. Being a strategic business and talent partner, I deliver customer value and business outcomes for enterprises.",
+        "industryName": "Internet Publishing",
+        "lastName": "Prabhu",
+        "student": false,
+        "geoCountryName": "India",
+        "geoCountryUrn": "urn:li:fs_geo:102713980",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "birthDate": {
+            "month": 8,
+            "year": 1979,
+            "day": 6
+        },
+        "industryUrn": "urn:li:fs_industry:6",
+        "firstName": "Mahesh",
+        "entityUrn": "urn:li:fs_profile:ACoAAADWLRkBNdGmKIFtXprRQmgSZ3BIY1hmdXY",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:90009639"
+        },
+        "geoLocationName": "Mumbai Metropolitan Region",
+        "location": {
+            "basicLocation": {
+                "countryCode": "in"
+            }
+        },
+        "headline": "Sales Leader I HR Tech I Customer Success",
+        "displayPictureUrl": "https://media-exp1.licdn.com/dms/image/C5103AQFu-WWkLOd45g/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/0/1557833145379?e=1657756800&v=beta&t=hHRpWqOAB9Pd4nvZordUMZiiIToIOBmsmlpLyr0unnA",
+        "img_200_200": "200_200/0/1557833145379?e=1657756800&v=beta&t=VlNtZPaloxUUOgmzRPb90Fyj0lHBMc0ZCRSH3_72ei8",
+        "img_400_400": "400_400/0/1557833145379?e=1657756800&v=beta&t=-4x4rOb_usjmtRJXvQJz54Q0WQ87030JAxbOj7OFgTo",
+        "img_800_800": "800_800/0/1557833145379?e=1657756800&v=beta&t=Kob_HRW7ENmUNgnnLDEdl2fuEkNXSlD_UQYay2fhhkg",
+        "profile_id": "ACoAAADWLRkBNdGmKIFtXprRQmgSZ3BIY1hmdXY",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAAADWLRkBNdGmKIFtXprRQmgSZ3BIY1hmdXY",
+        "member_urn": "urn:li:member:14036249",
+        "experience": [
+            {
+                "locationName": "Bengaluru, Karnataka, India",
+                "entityUrn": "urn:li:fs_position:(ACoAAADWLRkBNdGmKIFtXprRQmgSZ3BIY1hmdXY,1951254150)",
+                "geoLocationName": "Bengaluru, Karnataka, India",
+                "geoUrn": "urn:li:fs_geo:105214831",
+                "companyName": "LinkedIn",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 4,
+                        "year": 2022
+                    }
+                },
+                "description": "I lead a team of Customer Success Managers who drive the adoption, engagement and optimisation of  LinkedIn Learning solutions and LinkedIn Talent Solutions for Staffing clients",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Internet"
+                    ]
+                },
+                "title": "Manager, Customer Success",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:1337",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_"
+            },
+            {
+                "locationName": "Mumbai, Maharashtra, India",
+                "geoUrn": "urn:li:fs_geo:106164952",
+                "companyName": "LinkedIn",
+                "description": "LinkedIn is the world's largest professional network with 800+ million members, with the mission to connect all the world's professionals to make them more productive and successful, by having them access to people, jobs, news, updates, and insights that help them be great at what they want to be.\nWorking with cross functional partners to drive adoption and usage of LinkedIn within client's\n- Talent Acquisition\n- L&D \n- Employee Engagement \n- Employment Branding",
+                "title": "Senior Enterprise Account Director",
+                "companyUrn": "urn:li:fs_miniCompany:1337",
+                "honors": [
+                    "urn:li:fs_honor:(ACoAAADWLRkBNdGmKIFtXprRQmgSZ3BIY1hmdXY,1830857958)"
+                ],
+                "entityUrn": "urn:li:fs_position:(ACoAAADWLRkBNdGmKIFtXprRQmgSZ3BIY1hmdXY,1679523408)",
+                "geoLocationName": "Mumbai, Maharashtra, India",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 4,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2020
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Internet"
+                    ]
+                },
+                "region": "urn:li:fs_region:(in,0)",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_"
+            },
+            {
+                "locationName": "Mumbai, Maharashtra, India",
+                "entityUrn": "urn:li:fs_position:(ACoAAADWLRkBNdGmKIFtXprRQmgSZ3BIY1hmdXY,1371731587)",
+                "geoLocationName": "Mumbai, Maharashtra, India",
+                "companyName": "LinkedIn",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 1,
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "month": 10,
+                        "year": 2018
+                    }
+                },
+                "description": "LinkedIn is the world's largest professional network with 645+ million members, with the mission to connect all the world's professionals to make them more productive and successful, by having them access to people, jobs, news, updates, and insights that help them be great at what they want to be.\nResponsible for the post-sales success of LinkedIn's Talent Solutions Enterprise accounts, through strong relationship-building, product knowledge, and project management, leading to revenue growth and retention.\nDriving customer growth through insights and ROI driven metrics.\nCurrently leading and mentoring SMB Relationship Managers to drive Customer Success and Business Growth.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Internet"
+                    ]
+                },
+                "title": "Enterprise Relationship Manager",
+                "companyUrn": "urn:li:fs_miniCompany:1337",
+                "honors": [
+                    "urn:li:fs_honor:(ACoAAADWLRkBNdGmKIFtXprRQmgSZ3BIY1hmdXY,1536783715)"
+                ],
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_"
+            },
+            {
+                "locationName": "Mumbai Area, India",
+                "entityUrn": "urn:li:fs_position:(ACoAAADWLRkBNdGmKIFtXprRQmgSZ3BIY1hmdXY,772139488)",
+                "geoLocationName": "Mumbai Area, India",
+                "geoUrn": "urn:li:fs_geo:90009639",
+                "companyName": "LinkedIn",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 9,
+                        "year": 2018
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2016
+                    }
+                },
+                "description": "As a Relationship Manager I help my customers effectively engage with the LinkedIn network by effectively utilizing our hiring solutions.  Am focussed on providing my clients a solution that solves their recruitment needs and enable them to make better strategic decisions and be successful. Help clients build EVP and Employee Advocacy. Customer Success is my top most priority by ensuring all the corporate clients that I manage see value and improved business results by leveraging our LinkedIn Talent Solutions.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Internet"
+                    ]
+                },
+                "title": "Corporate Relationship Manager",
+                "region": "urn:li:fs_region:(in,7150)",
+                "companyUrn": "urn:li:fs_miniCompany:1337",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_"
+            },
+            {
+                "locationName": "Mumbai Area, India",
+                "geoUrn": "urn:li:fs_geo:90009639",
+                "companyName": "LinkedIn",
+                "description": "In my role as a Senior Consultant I was managing the Top Enterprise Portfolio for the West Region. My role was to increase Social Recruiting Awareness and Adoption across Top Enterprise clients. Sharing Best Practices and ensuring customer success and delight. Help client build roadmap for LinkedIn Adoption and define success matrix, by aligning Business and Talent Acquisition priorities. Did multiple LinkedIn Profile makeover & Branding workshops for Senior Leaders. Managed and run Informed Session (1:many) across India. Onboarding and Mentoring New Team members.",
+                "title": "Senior Customer Success Consultant - Top Enterprise",
+                "companyUrn": "urn:li:fs_miniCompany:1337",
+                "honors": [
+                    "urn:li:fs_honor:(ACoAAADWLRkBNdGmKIFtXprRQmgSZ3BIY1hmdXY,1860043950)",
+                    "urn:li:fs_honor:(ACoAAADWLRkBNdGmKIFtXprRQmgSZ3BIY1hmdXY,1860214985)"
+                ],
+                "entityUrn": "urn:li:fs_position:(ACoAAADWLRkBNdGmKIFtXprRQmgSZ3BIY1hmdXY,323885463)",
+                "geoLocationName": "Mumbai Area, India",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2015
+                    },
+                    "startDate": {
+                        "month": 10,
+                        "year": 2012
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Internet"
+                    ]
+                },
+                "region": "urn:li:fs_region:(in,7150)",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAADWLRkBNdGmKIFtXprRQmgSZ3BIY1hmdXY,10381880)",
+                "school": {
+                    "objectUrn": "urn:li:school:13663",
+                    "entityUrn": "urn:li:fs_miniSchool:13663",
+                    "active": true,
+                    "schoolName": "University of Mumbai",
+                    "trackingId": "hFCYzt+VT9GEyqoRu7FJBA==",
+                    "logoUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQGsu_DimiqUow/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2002
+                    },
+                    "startDate": {
+                        "year": 2000
+                    }
+                },
+                "degreeName": "MCOM",
+                "schoolName": "University of Mumbai",
+                "fieldOfStudy": "Management",
+                "schoolUrn": "urn:li:fs_miniSchool:13663"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAADWLRkBNdGmKIFtXprRQmgSZ3BIY1hmdXY,11024536)",
+                "school": {
+                    "objectUrn": "urn:li:school:41287",
+                    "entityUrn": "urn:li:fs_miniSchool:41287",
+                    "active": true,
+                    "schoolName": "IT Jobs Updates",
+                    "trackingId": "RUpkU7vMTtexNb+yZ+yvGQ=="
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2000
+                    },
+                    "startDate": {
+                        "year": 1997
+                    }
+                },
+                "degreeName": "BCOM",
+                "schoolName": "M.L. Dahanukar College",
+                "fieldOfStudy": "Commerce",
+                "schoolUrn": "urn:li:fs_miniSchool:41287"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English"
+            }
+        ],
+        "publications": [],
+        "certifications": [
+            {
+                "authority": "LinkedIn",
+                "name": "LinkedIn Certified Professional\u2013Recruiter",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 9,
+                        "year": 2015
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2013
+                    }
+                },
+                "displaySource": "linkedin.com",
+                "companyUrn": "urn:li:fs_miniCompany:3340598",
+                "url": "http://certification.linkedin.com"
+            },
+            {
+                "authority": "LinkedIn",
+                "name": "Top 10 Social Media Management Tools",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 8,
+                        "year": 2017
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:1337",
+                    "entityUrn": "urn:li:fs_miniCompany:1337",
+                    "name": "LinkedIn",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1638831589865?e=1660176000&v=beta&t=BLQftLy0Qs0EBVJIuWPMuAUeYUwk2NFkGV64ugXQRGo",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1638831589865?e=1660176000&v=beta&t=x5azEgZkHPR5MQHKe-JAU7OCpzuevGQIN2iQzEXm7FA",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1638831589865?e=1660176000&v=beta&t=4ByckqnOSGF1jY0ieSfxachmGJ0dfUy8ErhiMjGS9p8",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_"
+                        }
+                    },
+                    "universalName": "linkedin",
+                    "dashCompanyUrn": "urn:li:fsd_company:1337",
+                    "trackingId": "25YKLGSRQOm5CdXkMd7Z0A=="
+                },
+                "displaySource": "linkedin.com",
+                "companyUrn": "urn:li:fs_miniCompany:1337",
+                "url": "http://www.linkedin.com/learning/top-10-social-media-management-tools"
+            },
+            {
+                "authority": "LinkedIn",
+                "name": "New Manager Foundations",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 1,
+                        "year": 2018
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:1337",
+                    "entityUrn": "urn:li:fs_miniCompany:1337",
+                    "name": "LinkedIn",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1638831589865?e=1660176000&v=beta&t=BLQftLy0Qs0EBVJIuWPMuAUeYUwk2NFkGV64ugXQRGo",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1638831589865?e=1660176000&v=beta&t=x5azEgZkHPR5MQHKe-JAU7OCpzuevGQIN2iQzEXm7FA",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1638831589865?e=1660176000&v=beta&t=4ByckqnOSGF1jY0ieSfxachmGJ0dfUy8ErhiMjGS9p8",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_"
+                        }
+                    },
+                    "universalName": "linkedin",
+                    "dashCompanyUrn": "urn:li:fsd_company:1337",
+                    "trackingId": "cqNi88JLRRaTphMOZUItUA=="
+                },
+                "displaySource": "linkedin.com",
+                "companyUrn": "urn:li:fs_miniCompany:1337",
+                "url": "http://www.linkedin.com/learning/new-manager-foundations"
+            },
+            {
+                "authority": "LinkedIn",
+                "name": "Transitioning from Individual Contributor to Manager",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 1,
+                        "year": 2018
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:1337",
+                    "entityUrn": "urn:li:fs_miniCompany:1337",
+                    "name": "LinkedIn",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1638831589865?e=1660176000&v=beta&t=BLQftLy0Qs0EBVJIuWPMuAUeYUwk2NFkGV64ugXQRGo",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1638831589865?e=1660176000&v=beta&t=x5azEgZkHPR5MQHKe-JAU7OCpzuevGQIN2iQzEXm7FA",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1638831589865?e=1660176000&v=beta&t=4ByckqnOSGF1jY0ieSfxachmGJ0dfUy8ErhiMjGS9p8",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_"
+                        }
+                    },
+                    "universalName": "linkedin",
+                    "dashCompanyUrn": "urn:li:fsd_company:1337",
+                    "trackingId": "Yg4WO1hWR5qLVOoiIK1Lrg=="
+                },
+                "displaySource": "linkedin.com",
+                "companyUrn": "urn:li:fs_miniCompany:1337",
+                "url": "http://www.linkedin.com/learning/transitioning-from-individual-contributor-to-manager"
+            },
+            {
+                "authority": "LinkedIn",
+                "name": "Becoming Head of Sales: Developing Your Playbook",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 9,
+                        "year": 2018
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:1337",
+                    "entityUrn": "urn:li:fs_miniCompany:1337",
+                    "name": "LinkedIn",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1638831589865?e=1660176000&v=beta&t=BLQftLy0Qs0EBVJIuWPMuAUeYUwk2NFkGV64ugXQRGo",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1638831589865?e=1660176000&v=beta&t=x5azEgZkHPR5MQHKe-JAU7OCpzuevGQIN2iQzEXm7FA",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1638831589865?e=1660176000&v=beta&t=4ByckqnOSGF1jY0ieSfxachmGJ0dfUy8ErhiMjGS9p8",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_"
+                        }
+                    },
+                    "universalName": "linkedin",
+                    "dashCompanyUrn": "urn:li:fsd_company:1337",
+                    "trackingId": "b9fYdg6JTnWPetsL4OPWfw=="
+                },
+                "displaySource": "linkedin.com",
+                "companyUrn": "urn:li:fs_miniCompany:1337",
+                "url": "http://www.linkedin.com/learning/becoming-head-of-sales-developing-your-playbook"
+            },
+            {
+                "authority": "LinkedIn",
+                "name": "Design Thinking: Customer Experience",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 10,
+                        "year": 2018
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:1337",
+                    "entityUrn": "urn:li:fs_miniCompany:1337",
+                    "name": "LinkedIn",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1638831589865?e=1660176000&v=beta&t=BLQftLy0Qs0EBVJIuWPMuAUeYUwk2NFkGV64ugXQRGo",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1638831589865?e=1660176000&v=beta&t=x5azEgZkHPR5MQHKe-JAU7OCpzuevGQIN2iQzEXm7FA",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1638831589865?e=1660176000&v=beta&t=4ByckqnOSGF1jY0ieSfxachmGJ0dfUy8ErhiMjGS9p8",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_"
+                        }
+                    },
+                    "universalName": "linkedin",
+                    "dashCompanyUrn": "urn:li:fsd_company:1337",
+                    "trackingId": "NR6qRMKmRC6oqsXGjwFoBA=="
+                },
+                "displaySource": "linkedin.com",
+                "companyUrn": "urn:li:fs_miniCompany:1337",
+                "url": "http://www.linkedin.com/learning/design-thinking-customer-experience"
+            },
+            {
+                "authority": "LinkedIn",
+                "name": "Mindfulness",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 12,
+                        "year": 2018
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:1337",
+                    "entityUrn": "urn:li:fs_miniCompany:1337",
+                    "name": "LinkedIn",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1638831589865?e=1660176000&v=beta&t=BLQftLy0Qs0EBVJIuWPMuAUeYUwk2NFkGV64ugXQRGo",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1638831589865?e=1660176000&v=beta&t=x5azEgZkHPR5MQHKe-JAU7OCpzuevGQIN2iQzEXm7FA",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1638831589865?e=1660176000&v=beta&t=4ByckqnOSGF1jY0ieSfxachmGJ0dfUy8ErhiMjGS9p8",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_"
+                        }
+                    },
+                    "universalName": "linkedin",
+                    "dashCompanyUrn": "urn:li:fsd_company:1337",
+                    "trackingId": "x7VQPZ1FSfWWFI8+TPowhQ=="
+                },
+                "displaySource": "linkedin.com",
+                "companyUrn": "urn:li:fs_miniCompany:1337",
+                "url": "http://www.linkedin.com/learning/mindfulness"
+            },
+            {
+                "authority": "LinkedIn",
+                "name": "New Manager Foundations",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 9,
+                        "year": 2019
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:1337",
+                    "entityUrn": "urn:li:fs_miniCompany:1337",
+                    "name": "LinkedIn",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1638831589865?e=1660176000&v=beta&t=BLQftLy0Qs0EBVJIuWPMuAUeYUwk2NFkGV64ugXQRGo",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1638831589865?e=1660176000&v=beta&t=x5azEgZkHPR5MQHKe-JAU7OCpzuevGQIN2iQzEXm7FA",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1638831589865?e=1660176000&v=beta&t=4ByckqnOSGF1jY0ieSfxachmGJ0dfUy8ErhiMjGS9p8",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_"
+                        }
+                    },
+                    "universalName": "linkedin",
+                    "dashCompanyUrn": "urn:li:fsd_company:1337",
+                    "trackingId": "HWBR5D5fSfW336x6zDJdQA=="
+                },
+                "displaySource": "linkedin.com",
+                "companyUrn": "urn:li:fs_miniCompany:1337",
+                "url": "http://www.linkedin.com/learning/new-manager-foundations-2"
+            },
+            {
+                "authority": "LinkedIn",
+                "name": "Purpose-Driven Sales",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 10,
+                        "year": 2019
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:1337",
+                    "entityUrn": "urn:li:fs_miniCompany:1337",
+                    "name": "LinkedIn",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1638831589865?e=1660176000&v=beta&t=BLQftLy0Qs0EBVJIuWPMuAUeYUwk2NFkGV64ugXQRGo",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1638831589865?e=1660176000&v=beta&t=x5azEgZkHPR5MQHKe-JAU7OCpzuevGQIN2iQzEXm7FA",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1638831589865?e=1660176000&v=beta&t=4ByckqnOSGF1jY0ieSfxachmGJ0dfUy8ErhiMjGS9p8",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_"
+                        }
+                    },
+                    "universalName": "linkedin",
+                    "dashCompanyUrn": "urn:li:fsd_company:1337",
+                    "trackingId": "qnhCcve6RJOsr+d8pBZoXg=="
+                },
+                "displaySource": "linkedin.com",
+                "companyUrn": "urn:li:fs_miniCompany:1337",
+                "url": "http://www.linkedin.com/learning/purpose-driven-sales"
+            },
+            {
+                "authority": "LinkedIn",
+                "name": "Sales Forecasting",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 10,
+                        "year": 2019
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:1337",
+                    "entityUrn": "urn:li:fs_miniCompany:1337",
+                    "name": "LinkedIn",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1638831589865?e=1660176000&v=beta&t=BLQftLy0Qs0EBVJIuWPMuAUeYUwk2NFkGV64ugXQRGo",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1638831589865?e=1660176000&v=beta&t=x5azEgZkHPR5MQHKe-JAU7OCpzuevGQIN2iQzEXm7FA",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1638831589865?e=1660176000&v=beta&t=4ByckqnOSGF1jY0ieSfxachmGJ0dfUy8ErhiMjGS9p8",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_"
+                        }
+                    },
+                    "universalName": "linkedin",
+                    "dashCompanyUrn": "urn:li:fsd_company:1337",
+                    "trackingId": "0gX0TSLpRBWkXE40QaHTyw=="
+                },
+                "displaySource": "linkedin.com",
+                "companyUrn": "urn:li:fs_miniCompany:1337",
+                "url": "http://www.linkedin.com/learning/sales-forecasting"
+            }
+        ],
+        "volunteer": [
+            {
+                "role": "Volunteer",
+                "companyName": "Angel Xpress Foundation",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 6,
+                        "year": 2010
+                    }
+                },
+                "cause": "CHILDREN",
+                "company": {
+                    "miniCompany": {
+                        "objectUrn": "urn:li:company:3125656",
+                        "entityUrn": "urn:li:fs_miniCompany:3125656",
+                        "name": "Angel Xpress Foundation",
+                        "showcase": false,
+                        "active": true,
+                        "logo": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1519934349847?e=1660176000&v=beta&t=00rr1yVB8eLVsgyYZ36xEcvjn1Yt8f3A7twAJV6S1Js",
+                                        "expiresAt": 1660176000000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1519934349847?e=1660176000&v=beta&t=LP7jHCPYqGxDtXoXWMYY3seg4qW-fuWBjmIhZfGVR2A",
+                                        "expiresAt": 1660176000000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1519934349847?e=1660176000&v=beta&t=NWv5POyQ5Hp3dsfeDg9XVlE6keI2ETXcaGy6RoT2CiQ",
+                                        "expiresAt": 1660176000000,
+                                        "height": 400
+                                    }
+                                ],
+                                "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQFgFim_wEgUMg/company-logo_"
+                            }
+                        },
+                        "universalName": "angel-xpress-foundation",
+                        "dashCompanyUrn": "urn:li:fsd_company:3125656",
+                        "trackingId": "0RgKXOTlStmy9AEghfexeQ=="
+                    }
+                },
+                "companyUrn": "urn:li:fs_miniCompany:3125656"
+            }
+        ],
+        "honors": [
+            {
+                "description": "LinkedIn President's Club Award, which is given only to the top 10% performers of the company for achievements in this fiscal year, globally.",
+                "occupation": "urn:li:fs_position:(ACoAAADWLRkBNdGmKIFtXprRQmgSZ3BIY1hmdXY,1679523408)",
+                "title": "Club Qualifier - FY 21",
+                "issueDate": {
+                    "month": 7,
+                    "year": 2021
+                }
+            },
+            {
+                "occupation": "urn:li:fs_position:(ACoAAADWLRkBNdGmKIFtXprRQmgSZ3BIY1hmdXY,1371731587)",
+                "title": "Most Valuable Player",
+                "issueDate": {
+                    "month": 1,
+                    "year": 2020
+                }
+            },
+            {
+                "description": "For being the \"Incredible Backbone\" to the LinkedIn India Relationship Management Team and creating a huge Business Impact",
+                "occupation": "urn:li:fs_position:(ACoAAADWLRkBNdGmKIFtXprRQmgSZ3BIY1hmdXY,323885463)",
+                "title": "Most Valuable Player - 2014",
+                "issueDate": {
+                    "month": 12,
+                    "year": 2014
+                },
+                "issuer": "LinkedIn India Relationship Management Team"
+            },
+            {
+                "occupation": "urn:li:fs_position:(ACoAAADWLRkBNdGmKIFtXprRQmgSZ3BIY1hmdXY,323885463)",
+                "title": "Relationships Matter Award - Q4-2013",
+                "issueDate": {
+                    "month": 12,
+                    "year": 2013
+                },
+                "issuer": "APAC Product Consulting Leadership, LinkedIn"
+            }
+        ],
+        "projects": []
+    },
+    "contact_info": {
+        "email_address": null,
+        "websites": [
+            {
+                "url": "https://www.linkedin.com/",
+                "label": "COMPANY"
+            },
+            {
+                "url": "http://www.linkedin.com/company/linkedin/careers"
+            }
+        ],
+        "twitter": [
+            {
+                "name": "maheshmprabhu",
+                "credentialId": "urn:li:member:14036249;113555"
+            }
+        ],
+        "birthdate": {
+            "month": 8,
+            "day": 6
+        },
+        "ims": null,
+        "phone_numbers": []
+    },
+    "connections": [
+        {
+            "urn_id": "ACoAAC24GToBKzC8vS7jZaCEqoq3Jse_M2Tson8",
+            "distance": "DISTANCE_1",
+            "public_id": "abhijit-paul-936a68194",
+            "tracking_id": "767039802"
+        },
+        {
+            "urn_id": "ACoAAByhqogBLFVDJbqojrVMhtKfC3o3hRfEcjg",
+            "distance": "DISTANCE_1",
+            "public_id": "biki-talukdar-460a54114",
+            "tracking_id": "480357000"
+        },
+        {
+            "urn_id": "ACoAABr4jt0BoOUmisITdRo1gR4CumG5I4jjZIw",
+            "distance": "DISTANCE_1",
+            "public_id": "samudra-deka-911659107",
+            "tracking_id": "452497117"
+        },
+        {
+            "urn_id": "ACoAADZmR9QB1zOH_PmrzQQw2wQmTJRTcNGU7CE",
+            "distance": "DISTANCE_1",
+            "public_id": "bkalita",
+            "tracking_id": "912672724"
+        },
+        {
+            "urn_id": "ACoAADLJzxsBizdB0nN5NZBCM41Q-z6-7ef5gyI",
+            "distance": "DISTANCE_1",
+            "public_id": "deepjyoti-kalita-78b4411b9",
+            "tracking_id": "852086555"
+        },
+        {
+            "urn_id": "ACoAADe3CFYBsoFdtSEajXbg51HDagdpBEb3kx4",
+            "distance": "DISTANCE_1",
+            "public_id": "binud-panging-872062221",
+            "tracking_id": "934742102"
+        },
+        {
+            "urn_id": "ACoAAC2aUPYBGPB-T9xDu2Hjrq7OgzRPu5nTvyE",
+            "distance": "DISTANCE_1",
+            "public_id": "jintudas",
+            "tracking_id": "765087990"
+        },
+        {
+            "urn_id": "ACoAACT67ZEBgw1Aprl8Aqy8zWMavdTyaWs7J3w",
+            "distance": "DISTANCE_1",
+            "public_id": "titikshya-das-015942153",
+            "tracking_id": "620424593"
+        },
+        {
+            "urn_id": "ACoAAAjgx0kBxJoPu_7t3kS1NbDizQekjIIzMbE",
+            "distance": "DISTANCE_1",
+            "public_id": "lakheswar-nath-289a7141",
+            "tracking_id": "148948809"
+        },
+        {
+            "urn_id": "ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE",
+            "distance": "DISTANCE_1",
+            "public_id": "prithoo11335",
+            "tracking_id": "231212168"
+        },
+        {
+            "urn_id": "ACoAACr0GSwBcmPDh22HqivG9h0JwG-eahXSYW8",
+            "distance": "DISTANCE_1",
+            "public_id": "nihar-kashyap98",
+            "tracking_id": "720640300"
+        },
+        {
+            "urn_id": "ACoAACzP6KMBcLKqKnFRpIudaukkoW4NoqstgrM",
+            "distance": "DISTANCE_1",
+            "public_id": "pranit-prakash-sahu",
+            "tracking_id": "751823011"
+        },
+        {
+            "urn_id": "ACoAACeXhGEBEVCUXmKi5rowUSeFZNerPjvzQsc",
+            "distance": "DISTANCE_1",
+            "public_id": "mahbubul-haque-a55552166",
+            "tracking_id": "664241249"
+        },
+        {
+            "urn_id": "ACoAACbTg-gBtT_YqZc-FG2lIVBv13QTx8UUB8E",
+            "distance": "DISTANCE_1",
+            "public_id": "mridul24",
+            "tracking_id": "651396072"
+        },
+        {
+            "urn_id": "ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY",
+            "distance": "DISTANCE_1",
+            "public_id": "tridip-das-b5837911b",
+            "tracking_id": "499568180"
+        },
+        {
+            "urn_id": "ACoAAAI9wXoBijRhLoxf7BO8UTK0DX-7KexJV30",
+            "distance": "DISTANCE_1",
+            "public_id": "boren-ghosh-27671410",
+            "tracking_id": "37601658"
+        },
+        {
+            "urn_id": "ACoAACZxhUQBl1V8kpLj4ACrE2LzpatGvVzEgSA",
+            "distance": "DISTANCE_1",
+            "public_id": "nabajyoti-borah-944000160",
+            "tracking_id": "644973892"
+        },
+        {
+            "urn_id": "ACoAABYq8T8ByHFGBUFRrHT5iKBI2u4YZjTLHFc",
+            "distance": "DISTANCE_1",
+            "public_id": "netranjit-borgohain-53b677a4",
+            "tracking_id": "371913023"
+        },
+        {
+            "urn_id": "ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8",
+            "distance": "DISTANCE_1",
+            "public_id": "sivaranjan-goswami-790b4523",
+            "tracking_id": "83451420"
+        },
+        {
+            "urn_id": "ACoAACTFIIYB1cK_syRcCXEc0o8RTm4JMlhYcHA",
+            "distance": "DISTANCE_1",
+            "public_id": "arun-kumar-nath-686721152",
+            "tracking_id": "616898694"
+        },
+        {
+            "urn_id": "ACoAAC4efLABFBv0f30-SDGDgLSf1gXTlkpJTfc",
+            "distance": "DISTANCE_1",
+            "public_id": "shawan-mandal",
+            "tracking_id": "773749936"
+        },
+        {
+            "urn_id": "ACoAACDVs-sB_IgxPBMHMRBfR6is3jmwwV_OvTE",
+            "distance": "DISTANCE_1",
+            "public_id": "swapnil-bhattacharjee-ghy",
+            "tracking_id": "550876139"
+        },
+        {
+            "urn_id": "ACoAACUEZ3QB2Xm0OWR0cqoc_u-o4KW_OENO1_8",
+            "distance": "DISTANCE_1",
+            "public_id": "rajan-sahu",
+            "tracking_id": "621045620"
+        },
+        {
+            "urn_id": "ACoAAC12ZqEBCx9JN_YIi1eF1FPPDif3mXI3fyc",
+            "distance": "DISTANCE_1",
+            "public_id": "abinash-panigrahi-169531193",
+            "tracking_id": "762734241"
+        },
+        {
+            "urn_id": "ACoAACYmrvgBRdvWxItbY_KP_fyrEgZ9U-QKJqk",
+            "distance": "DISTANCE_1",
+            "public_id": "rtsu",
+            "tracking_id": "640069368"
+        },
+        {
+            "urn_id": "ACoAADRMKTMBj76XTPRfB9R5rvfwNOXP2n93n4c",
+            "distance": "DISTANCE_1",
+            "public_id": "manash-deka-497a12205",
+            "tracking_id": "877406515"
+        },
+        {
+            "urn_id": "ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc",
+            "distance": "DISTANCE_1",
+            "public_id": "ratnadeep-bhattacharjee",
+            "tracking_id": "135079003"
+        },
+        {
+            "urn_id": "ACoAAAR5v8MBjPwCvp8TP9RWZyGSeNYNiJ1wKJE",
+            "distance": "DISTANCE_1",
+            "public_id": "nilotpal-boruah",
+            "tracking_id": "75087811"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Recruiting"
+        },
+        {
+            "name": "Customer Relationship Management (CRM)"
+        },
+        {
+            "name": "CRM"
+        },
+        {
+            "name": "Key Account Management"
+        },
+        {
+            "name": "Talent Acquisition"
+        },
+        {
+            "name": "Consulting"
+        },
+        {
+            "name": "Account Management"
+        },
+        {
+            "name": "Social Media"
+        },
+        {
+            "name": "Customer Relations"
+        },
+        {
+            "name": "Screening"
+        },
+        {
+            "name": "Analysis"
+        },
+        {
+            "name": "Onboarding"
+        },
+        {
+            "name": "Hiring"
+        },
+        {
+            "name": "Social Media Marketing",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:2174",
+            "standardizedSkill": {
+                "name": "Social Media Marketing",
+                "entityUrn": "urn:li:fs_miniSkill:2174"
+            }
+        },
+        {
+            "name": "Sales Management",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:74",
+            "standardizedSkill": {
+                "name": "Sales Management",
+                "entityUrn": "urn:li:fs_miniSkill:74"
+            }
+        },
+        {
+            "name": "Sales",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:5",
+            "standardizedSkill": {
+                "name": "Sales",
+                "entityUrn": "urn:li:fs_miniSkill:5"
+            }
+        },
+        {
+            "name": "Wellness",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:895",
+            "standardizedSkill": {
+                "name": "Wellness",
+                "entityUrn": "urn:li:fs_miniSkill:895"
+            }
+        },
+        {
+            "name": "Applicant Tracking Systems"
+        },
+        {
+            "name": "Team Management"
+        },
+        {
+            "name": "Relationship Building"
+        },
+        {
+            "name": "Sourcing"
+        },
+        {
+            "name": "Leadership"
+        },
+        {
+            "name": "Training"
+        },
+        {
+            "name": "Training Delivery"
+        },
+        {
+            "name": "Management"
+        },
+        {
+            "name": "Communication",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:135",
+            "standardizedSkill": {
+                "name": "Communication",
+                "entityUrn": "urn:li:fs_miniSkill:135"
+            }
+        },
+        {
+            "name": "Personal Development",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:1278",
+            "standardizedSkill": {
+                "name": "Personal Development",
+                "entityUrn": "urn:li:fs_miniSkill:1278"
+            }
+        },
+        {
+            "name": "Design Thinking",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:7886",
+            "standardizedSkill": {
+                "name": "Design Thinking",
+                "entityUrn": "urn:li:fs_miniSkill:7886"
+            }
+        },
+        {
+            "name": "Time Management",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:2263",
+            "standardizedSkill": {
+                "name": "Time Management",
+                "entityUrn": "urn:li:fs_miniSkill:2263"
+            }
+        },
+        {
+            "name": "Accountability",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:429",
+            "standardizedSkill": {
+                "name": "Accountability",
+                "entityUrn": "urn:li:fs_miniSkill:429"
+            }
+        },
+        {
+            "name": "Conflict Management",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:5039",
+            "standardizedSkill": {
+                "name": "Conflict Management",
+                "entityUrn": "urn:li:fs_miniSkill:5039"
+            }
+        },
+        {
+            "name": "Decision-Making",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:2506",
+            "standardizedSkill": {
+                "name": "Decision-Making",
+                "entityUrn": "urn:li:fs_miniSkill:2506"
+            }
+        },
+        {
+            "name": "Easily Adaptable",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:46856",
+            "standardizedSkill": {
+                "name": "Easily Adaptable",
+                "entityUrn": "urn:li:fs_miniSkill:46856"
+            }
+        },
+        {
+            "name": "Life Skills",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:20156",
+            "standardizedSkill": {
+                "name": "Life Skills",
+                "entityUrn": "urn:li:fs_miniSkill:20156"
+            }
+        },
+        {
+            "name": "Enterprise Marketing",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:9127",
+            "standardizedSkill": {
+                "name": "Enterprise Marketing",
+                "entityUrn": "urn:li:fs_miniSkill:9127"
+            }
+        },
+        {
+            "name": "Interpersonal Relationships",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:50124",
+            "standardizedSkill": {
+                "name": "Interpersonal Relationships",
+                "entityUrn": "urn:li:fs_miniSkill:50124"
+            }
+        },
+        {
+            "name": "C-Suite Selling",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:32404",
+            "standardizedSkill": {
+                "name": "C-Suite Selling",
+                "entityUrn": "urn:li:fs_miniSkill:32404"
+            }
+        },
+        {
+            "name": "Change Readiness",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:44766",
+            "standardizedSkill": {
+                "name": "Change Readiness",
+                "entityUrn": "urn:li:fs_miniSkill:44766"
+            }
+        },
+        {
+            "name": "Resiliency",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:18492",
+            "standardizedSkill": {
+                "name": "Resiliency",
+                "entityUrn": "urn:li:fs_miniSkill:18492"
+            }
+        },
+        {
+            "name": "LinkedIn",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:3626",
+            "standardizedSkill": {
+                "name": "LinkedIn",
+                "entityUrn": "urn:li:fs_miniSkill:3626"
+            }
+        },
+        {
+            "name": "Personal Branding",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:6796",
+            "standardizedSkill": {
+                "name": "Personal Branding",
+                "entityUrn": "urn:li:fs_miniSkill:6796"
+            }
+        },
+        {
+            "name": "E-Learning",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:1377",
+            "standardizedSkill": {
+                "name": "E-Learning",
+                "entityUrn": "urn:li:fs_miniSkill:1377"
+            }
+        },
+        {
+            "name": "LinkedIn Learning",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:55387",
+            "standardizedSkill": {
+                "name": "LinkedIn Learning",
+                "entityUrn": "urn:li:fs_miniSkill:55387"
+            }
+        },
+        {
+            "name": "Negotiation",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:256",
+            "standardizedSkill": {
+                "name": "Negotiation",
+                "entityUrn": "urn:li:fs_miniSkill:256"
+            }
+        },
+        {
+            "name": "C Level Selling",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:31966",
+            "standardizedSkill": {
+                "name": "C Level Selling",
+                "entityUrn": "urn:li:fs_miniSkill:31966"
+            }
+        },
+        {
+            "name": "Creative Problem Solving",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:18990",
+            "standardizedSkill": {
+                "name": "Creative Problem Solving",
+                "entityUrn": "urn:li:fs_miniSkill:18990"
+            }
+        },
+        {
+            "name": "LinkedIn Recruiter"
+        },
+        {
+            "name": "Emotional Intelligence",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:4222",
+            "standardizedSkill": {
+                "name": "Emotional Intelligence",
+                "entityUrn": "urn:li:fs_miniSkill:4222"
+            }
+        },
+        {
+            "name": "Servant Leadership",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:11476",
+            "standardizedSkill": {
+                "name": "Servant Leadership",
+                "entityUrn": "urn:li:fs_miniSkill:11476"
+            }
+        }
+    ]
+}

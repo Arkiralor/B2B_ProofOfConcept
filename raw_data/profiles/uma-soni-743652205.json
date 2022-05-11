@@ -1,0 +1,1140 @@
+{
+    "profile": {
+        "summary": "I'm a final year student pursuing B.COM (H) at Delhi University. I'm a Human Resource and Marketing enthusiast and wants to grow my career in Human Resource.\nOver the course of my studies, I have developed strong writing skills, enjoy collaboration, teamwork and have a variety of interests that I use to maximize my potential. I excel under pressure, am multi-tasking, and am inquisitive. I've advanced-level knowledge of Microsoft Excel, VBA, SEO, and content writing. \nDuring my internship period, I've repeatedly been exposed to various groups of people, and that made me adapt to changes and gain a broader perspective. I'm always curious about things and enjoy learning. I'm a detail-oriented person and keep my goals and tasks organized to maintain productivity.\nI'm currently seeking some great opportunities in Human Resources.",
+        "industryName": "Non-profit Organizations",
+        "lastName": "Soni",
+        "locationName": "India",
+        "student": false,
+        "geoCountryName": "India",
+        "geoCountryUrn": "urn:li:fs_geo:102713980",
+        "maidenName": "Upasna ",
+        "geoLocationBackfilled": false,
+        "elt": true,
+        "birthDate": {
+            "month": 10,
+            "day": 7
+        },
+        "industryUrn": "urn:li:fs_industry:100",
+        "firstName": "Uma",
+        "entityUrn": "urn:li:fs_profile:ACoAADQ-PqMBUb-UDcOhiOQKJGNIW9Vd_rI2SQU",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:106893896"
+        },
+        "geoLocationName": "Hisar, Haryana",
+        "location": {
+            "basicLocation": {
+                "countryCode": "in"
+            }
+        },
+        "headline": "Human Resources Enthusiast | People Analytics | LinkedIn Recruiter | Marketing | Team Management | Ambitious | Philomath",
+        "displayPictureUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQHU551WDq-_2A/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/0/1648647497234?e=1657756800&v=beta&t=3oViMWERgTAcVeLru5gfZXneO5mg28jTgkF2nvK4TAo",
+        "img_200_200": "200_200/0/1648647497234?e=1657756800&v=beta&t=ggtOcR7APzec37psYJrELg7K8uUaiTybWHiJOfFoS6A",
+        "img_400_400": "400_400/0/1648647497234?e=1657756800&v=beta&t=JnUcUZl0hgK1cwMhSZmPxaWmqdM1FasV_JN0nbi8K5c",
+        "img_800_800": "800_800/0/1648647497234?e=1657756800&v=beta&t=71bmt76SOIWOjNyaprLUJV4HUOZawAWDaIgTxbRJhww",
+        "profile_id": "ACoAADQ-PqMBUb-UDcOhiOQKJGNIW9Vd_rI2SQU",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAADQ-PqMBUb-UDcOhiOQKJGNIW9Vd_rI2SQU",
+        "member_urn": "urn:li:member:876494499",
+        "experience": [
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAADQ-PqMBUb-UDcOhiOQKJGNIW9Vd_rI2SQU,1787202378)",
+                "companyName": "Youth India Foundation",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 10,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 5,
+                        "year": 2021
+                    }
+                },
+                "description": "\u2022\tResponsible for managing a team of at least 10-12 interns of different domains including marketers, analysts, graphic designers, content writers.\n\u2022\tPlanning on various social media strategies to grow the page.\n\u2022\tKeeping a check on the latest social media trends.\n\u2022\tWorking with content writers and designers to ensure content is informative and appealing.\n\u2022\tHire and train new interns in the team.\n\u2022\tPreparing and posting regular content with the involvement of the whole team.\n\u2022\tIdentify key extracurricular engagement opportunities & work towards building a healthy Learning",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 5001,
+                        "end": 10000
+                    },
+                    "industries": [
+                        "Nonprofit Organization Management"
+                    ]
+                },
+                "title": "National Linkedin marketing head",
+                "companyUrn": "urn:li:fs_miniCompany:42368051",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C560BAQH409zgMIQNSQ/company-logo_"
+            },
+            {
+                "locationName": "Delhi, India",
+                "entityUrn": "urn:li:fs_position:(ACoAADQ-PqMBUb-UDcOhiOQKJGNIW9Vd_rI2SQU,1818880240)",
+                "geoLocationName": "Delhi, India",
+                "geoUrn": "urn:li:fs_geo:106187582",
+                "companyName": "YOUTH INDIA FOUNDATION DELHI",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 7,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 6,
+                        "year": 2021
+                    }
+                },
+                "description": "\u2022\tResponsible for hiring volunteers for different departments of covid relief initiative\n\u2022\tTaking regular updates from all departments \n\u2022\tParticipating in interviews and recruitment process along with the whole team",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 51,
+                        "end": 200
+                    },
+                    "industries": [
+                        "Nonprofit Organization Management"
+                    ]
+                },
+                "title": "Head Human Resources Department",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:67145620",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C560BAQFFT1UxfOTlgg/company-logo_"
+            },
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAADQ-PqMBUb-UDcOhiOQKJGNIW9Vd_rI2SQU,1782481085)",
+                "companyName": "TAREEQA GLOBAL SOLUTION",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 7,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 5,
+                        "year": 2021
+                    }
+                },
+                "description": "\u2022\tResponsible for recruitment and training of  sales and marketing interns\n\u2022\tExecuted & partaken in collaborative team discussions and actively participate in the ideation & implementation process\n\u2022\tMaintain effective communication and create a strong engagement",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Education Management"
+                    ]
+                },
+                "title": "Human Resources Intern",
+                "companyUrn": "urn:li:fs_miniCompany:69831104",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C560BAQGBYD9DP2elKQ/company-logo_"
+            },
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAADQ-PqMBUb-UDcOhiOQKJGNIW9Vd_rI2SQU,1777234763)",
+                "companyName": "Youth India Foundation",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 5,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 5,
+                        "year": 2021
+                    }
+                },
+                "description": "I was promoted to nationals social media marketing intern (youtube) from being marketing head of all societies of youth Delhi. ",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 5001,
+                        "end": 10000
+                    },
+                    "industries": [
+                        "Nonprofit Organization Management"
+                    ]
+                },
+                "title": "Nationals youtube Social media marketing intern ",
+                "companyUrn": "urn:li:fs_miniCompany:42368051",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C560BAQH409zgMIQNSQ/company-logo_"
+            },
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAADQ-PqMBUb-UDcOhiOQKJGNIW9Vd_rI2SQU,1754223163)",
+                "companyName": "Youth India Foundation",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 5,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 3,
+                        "year": 2021
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 5001,
+                        "end": 10000
+                    },
+                    "industries": [
+                        "Nonprofit Organization Management"
+                    ]
+                },
+                "title": "Marketing head of all societies ",
+                "companyUrn": "urn:li:fs_miniCompany:42368051",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C560BAQH409zgMIQNSQ/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAADQ-PqMBUb-UDcOhiOQKJGNIW9Vd_rI2SQU,708918413)",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "year": 2019
+                    }
+                },
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:101407",
+                "degreeName": "B.Com Hons.",
+                "schoolName": "The school of open learning, Delhi University",
+                "fieldOfStudy": "Business/Commerce, General"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAADQ-PqMBUb-UDcOhiOQKJGNIW9Vd_rI2SQU,708915598)",
+                "school": {
+                    "objectUrn": "urn:li:school:3237420",
+                    "entityUrn": "urn:li:fs_miniSchool:3237420",
+                    "active": true,
+                    "schoolName": "PIONEER CONVENT SCHOOL",
+                    "trackingId": "PvPWR+pVSuiHJb7Ns8y0oA==",
+                    "logoUrl": "https://media-exp1.licdn.com/dms/image/C510BAQEioD_mxyCYfQ/company-logo_"
+                },
+                "grade": "94%",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "year": 2017
+                    }
+                },
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:101407",
+                "degreeName": "senior secondary",
+                "schoolName": "PIONEER CONVENT SCHOOL",
+                "fieldOfStudy": "Business/Commerce, General",
+                "schoolUrn": "urn:li:fs_miniSchool:3237420"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAADQ-PqMBUb-UDcOhiOQKJGNIW9Vd_rI2SQU,729066268)",
+                "school": {
+                    "objectUrn": "urn:li:school:3240070",
+                    "entityUrn": "urn:li:fs_miniSchool:3240070",
+                    "active": true,
+                    "schoolName": "Crescent Public School",
+                    "trackingId": "Dj77czEfQ/6vBwmzZ12a8A=="
+                },
+                "grade": "10 cgpa",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2017
+                    },
+                    "startDate": {
+                        "year": 2006
+                    }
+                },
+                "degreeName": "secondary ",
+                "schoolName": "Crescent Public School",
+                "schoolUrn": "urn:li:fs_miniSchool:3240070"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "proficiency": "PROFESSIONAL_WORKING"
+            },
+            {
+                "name": "Hindi",
+                "proficiency": "PROFESSIONAL_WORKING"
+            },
+            {
+                "name": "Punjabi",
+                "proficiency": "ELEMENTARY"
+            }
+        ],
+        "publications": [],
+        "certifications": [
+            {
+                "authority": "MyCaptain",
+                "name": "digital marketing ",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 2,
+                        "year": 2021
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:68318962",
+                    "entityUrn": "urn:li:fs_miniCompany:68318962",
+                    "name": "MyCaptain",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1637736488423?e=1660176000&v=beta&t=WtST9Usn7RsZa6aAtP9kYhTAZSI0-UfQ63FGriRB3ks",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1637736488423?e=1660176000&v=beta&t=mxMA0FPqvcJhn7KPVbCRER_3aGqqnTTpuj43Aco1PB0",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1637736488423?e=1660176000&v=beta&t=OU2_pFLRezJjo08jAiljt2WtvG-CzqIMmYyotzkegH8",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHNkSFRSawndQ/company-logo_"
+                        }
+                    },
+                    "universalName": "mycaptain-in",
+                    "dashCompanyUrn": "urn:li:fsd_company:68318962",
+                    "trackingId": "Y8jCatzhQPuzzbcdLBQjiw=="
+                },
+                "displaySource": "google.com",
+                "companyUrn": "urn:li:fs_miniCompany:68318962",
+                "url": "https://drive.google.com/file/d/10J69OMNXHzwoPpi3ZDZYCsLhwTYJVcUM/view?usp=drivesdk"
+            },
+            {
+                "authority": "MyCaptain",
+                "name": "Psychology",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 5,
+                        "year": 2021
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:68318962",
+                    "entityUrn": "urn:li:fs_miniCompany:68318962",
+                    "name": "MyCaptain",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1637736488423?e=1660176000&v=beta&t=WtST9Usn7RsZa6aAtP9kYhTAZSI0-UfQ63FGriRB3ks",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1637736488423?e=1660176000&v=beta&t=mxMA0FPqvcJhn7KPVbCRER_3aGqqnTTpuj43Aco1PB0",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1637736488423?e=1660176000&v=beta&t=OU2_pFLRezJjo08jAiljt2WtvG-CzqIMmYyotzkegH8",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHNkSFRSawndQ/company-logo_"
+                        }
+                    },
+                    "universalName": "mycaptain-in",
+                    "dashCompanyUrn": "urn:li:fsd_company:68318962",
+                    "trackingId": "4/TDE43ZTGqxY13tleMSyw=="
+                },
+                "displaySource": "google.com",
+                "companyUrn": "urn:li:fs_miniCompany:68318962",
+                "url": "https://drive.google.com/file/d/18IDNh1Vv8VKJByq2oQGZe5ohxY6Un6qU/view?usp=drivesdk"
+            },
+            {
+                "authority": "MyCaptain",
+                "name": "creative writing ",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 6,
+                        "year": 2021
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:68318962",
+                    "entityUrn": "urn:li:fs_miniCompany:68318962",
+                    "name": "MyCaptain",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1637736488423?e=1660176000&v=beta&t=WtST9Usn7RsZa6aAtP9kYhTAZSI0-UfQ63FGriRB3ks",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1637736488423?e=1660176000&v=beta&t=mxMA0FPqvcJhn7KPVbCRER_3aGqqnTTpuj43Aco1PB0",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1637736488423?e=1660176000&v=beta&t=OU2_pFLRezJjo08jAiljt2WtvG-CzqIMmYyotzkegH8",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHNkSFRSawndQ/company-logo_"
+                        }
+                    },
+                    "universalName": "mycaptain-in",
+                    "dashCompanyUrn": "urn:li:fsd_company:68318962",
+                    "trackingId": "I5x1j6cWTP6eA50CQ558vg=="
+                },
+                "displaySource": "google.com",
+                "companyUrn": "urn:li:fs_miniCompany:68318962",
+                "url": "https://drive.google.com/file/d/1mThGKApxULBBfO3SrtqdoAIb4fwFjdJY/view?usp=drivesdk"
+            },
+            {
+                "authority": "Udemy",
+                "name": "Microsoft Excel - Excel from Beginner to Advanced ",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 3,
+                        "year": 2022
+                    }
+                },
+                "licenseNumber": "UC-0fcd8502-0dae-4332-810d-afdb3ad12166",
+                "company": {
+                    "objectUrn": "urn:li:company:822535",
+                    "entityUrn": "urn:li:fs_miniCompany:822535",
+                    "name": "Udemy",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1626275253364?e=1660176000&v=beta&t=hNmtDdN4pnwTuJsDQsvaI2SOIkRq2BCrfWF7YKlNaM4",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1626275253364?e=1660176000&v=beta&t=bZ9FL43L79ghc74x71A2lY51dAogHCVQKWAZH1-YcuM",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1626275253364?e=1660176000&v=beta&t=7EyDsPVIShmG1t96OAsrJK6AWUi0vObIpIVqPL4hc6E",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQFQr9e68bBOPQ/company-logo_"
+                        }
+                    },
+                    "universalName": "udemy",
+                    "dashCompanyUrn": "urn:li:fsd_company:822535",
+                    "trackingId": "I1urwnBDSHiHR+sAbfY15Q=="
+                },
+                "displaySource": "udemy.com",
+                "companyUrn": "urn:li:fs_miniCompany:822535",
+                "url": "http://udemy.com/UC-0fcd8502-0dae-4332-810d-afdb3ad12166"
+            },
+            {
+                "authority": "Great Learning",
+                "name": "Market Research",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 3,
+                        "year": 2022
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:9282020",
+                    "entityUrn": "urn:li:fs_miniCompany:9282020",
+                    "name": "Great Learning",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1615962525913?e=1660176000&v=beta&t=L3nnnDJ4WXU60tZiudJBsluN1lC7RrFqcPNGG9tKNZM",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1615962525913?e=1660176000&v=beta&t=1CoLj6yTjs8gCiobdwEUjlPDr0HSALj_-HyHW8lGKfI",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1615962525913?e=1660176000&v=beta&t=1B8D39wVz9tpuX3g3iWceeF-g68JOXb2mzCmR9UJdLs",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQF40lFj20_wxA/company-logo_"
+                        }
+                    },
+                    "universalName": "great-learning",
+                    "dashCompanyUrn": "urn:li:fsd_company:9282020",
+                    "trackingId": "Zu5earIaQBufj7J4cnUhXw=="
+                },
+                "displaySource": "mygreatlearning.com",
+                "companyUrn": "urn:li:fs_miniCompany:9282020",
+                "url": "https://olympus1.mygreatlearning.com/course_certificate/JNYYUIDK"
+            },
+            {
+                "authority": "Great Learning",
+                "name": "Principles of Leadership",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 3,
+                        "year": 2022
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:9282020",
+                    "entityUrn": "urn:li:fs_miniCompany:9282020",
+                    "name": "Great Learning",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1615962525913?e=1660176000&v=beta&t=L3nnnDJ4WXU60tZiudJBsluN1lC7RrFqcPNGG9tKNZM",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1615962525913?e=1660176000&v=beta&t=1CoLj6yTjs8gCiobdwEUjlPDr0HSALj_-HyHW8lGKfI",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1615962525913?e=1660176000&v=beta&t=1B8D39wVz9tpuX3g3iWceeF-g68JOXb2mzCmR9UJdLs",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQF40lFj20_wxA/company-logo_"
+                        }
+                    },
+                    "universalName": "great-learning",
+                    "dashCompanyUrn": "urn:li:fsd_company:9282020",
+                    "trackingId": "u19glV04SsGjYYICMROkUA=="
+                },
+                "displaySource": "mygreatlearning.com",
+                "companyUrn": "urn:li:fs_miniCompany:9282020",
+                "url": "https://olympus1.mygreatlearning.com/course_certificate/QXEXPIQQ"
+            },
+            {
+                "authority": "Udemy",
+                "name": "Content Writing course",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 3,
+                        "year": 2022
+                    }
+                },
+                "licenseNumber": "UC-be15411c-23a7-4d7f-850d-e921c5c944a8",
+                "company": {
+                    "objectUrn": "urn:li:company:822535",
+                    "entityUrn": "urn:li:fs_miniCompany:822535",
+                    "name": "Udemy",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1626275253364?e=1660176000&v=beta&t=hNmtDdN4pnwTuJsDQsvaI2SOIkRq2BCrfWF7YKlNaM4",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1626275253364?e=1660176000&v=beta&t=bZ9FL43L79ghc74x71A2lY51dAogHCVQKWAZH1-YcuM",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1626275253364?e=1660176000&v=beta&t=7EyDsPVIShmG1t96OAsrJK6AWUi0vObIpIVqPL4hc6E",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQFQr9e68bBOPQ/company-logo_"
+                        }
+                    },
+                    "universalName": "udemy",
+                    "dashCompanyUrn": "urn:li:fsd_company:822535",
+                    "trackingId": "s6nmSagTRNyrKqgmGKAEcQ=="
+                },
+                "displaySource": "udemy.com",
+                "companyUrn": "urn:li:fs_miniCompany:822535",
+                "url": "https://www.udemy.com/certificate/UC-be15411c-23a7-4d7f-850d-e921c5c944a8/"
+            },
+            {
+                "authority": "LinkedIn",
+                "name": "Learning linkedin recruiter",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 3,
+                        "year": 2022
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:1337",
+                    "entityUrn": "urn:li:fs_miniCompany:1337",
+                    "name": "LinkedIn",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1638831589865?e=1660176000&v=beta&t=BLQftLy0Qs0EBVJIuWPMuAUeYUwk2NFkGV64ugXQRGo",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1638831589865?e=1660176000&v=beta&t=x5azEgZkHPR5MQHKe-JAU7OCpzuevGQIN2iQzEXm7FA",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1638831589865?e=1660176000&v=beta&t=4ByckqnOSGF1jY0ieSfxachmGJ0dfUy8ErhiMjGS9p8",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_"
+                        }
+                    },
+                    "universalName": "linkedin",
+                    "dashCompanyUrn": "urn:li:fsd_company:1337",
+                    "trackingId": "42lD7AdKSMyWbWzw/xjBBA=="
+                },
+                "displaySource": "linkedin.com",
+                "companyUrn": "urn:li:fs_miniCompany:1337",
+                "url": "https://www.linkedin.com/learning/certificates/600279ffc40d855ef7040c02fcd3f7864023ce6e48682113b13fc8169d10384a?trk=share_certificate"
+            },
+            {
+                "authority": "LinkedIn",
+                "name": "Human Resource - Creating an Employee Handbook",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 3,
+                        "year": 2022
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:1337",
+                    "entityUrn": "urn:li:fs_miniCompany:1337",
+                    "name": "LinkedIn",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1638831589865?e=1660176000&v=beta&t=BLQftLy0Qs0EBVJIuWPMuAUeYUwk2NFkGV64ugXQRGo",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1638831589865?e=1660176000&v=beta&t=x5azEgZkHPR5MQHKe-JAU7OCpzuevGQIN2iQzEXm7FA",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1638831589865?e=1660176000&v=beta&t=4ByckqnOSGF1jY0ieSfxachmGJ0dfUy8ErhiMjGS9p8",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_"
+                        }
+                    },
+                    "universalName": "linkedin",
+                    "dashCompanyUrn": "urn:li:fsd_company:1337",
+                    "trackingId": "1NtLtklfTXSfm2uDcqYc7Q=="
+                },
+                "displaySource": "linkedin.com",
+                "companyUrn": "urn:li:fs_miniCompany:1337",
+                "url": "https://www.linkedin.com/learning/certificates/65df91e1f47f97b2c6b66bb386ad48522808ede219c0e85b0f3603e278b30921?trk=share_certificate"
+            },
+            {
+                "authority": "LinkedIn",
+                "name": "Human Resource: Strategic Workforce Planning",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 3,
+                        "year": 2022
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:1337",
+                    "entityUrn": "urn:li:fs_miniCompany:1337",
+                    "name": "LinkedIn",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1638831589865?e=1660176000&v=beta&t=BLQftLy0Qs0EBVJIuWPMuAUeYUwk2NFkGV64ugXQRGo",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1638831589865?e=1660176000&v=beta&t=x5azEgZkHPR5MQHKe-JAU7OCpzuevGQIN2iQzEXm7FA",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1638831589865?e=1660176000&v=beta&t=4ByckqnOSGF1jY0ieSfxachmGJ0dfUy8ErhiMjGS9p8",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_"
+                        }
+                    },
+                    "universalName": "linkedin",
+                    "dashCompanyUrn": "urn:li:fsd_company:1337",
+                    "trackingId": "WMtWqab9SGemcgsQh5Jjsg=="
+                },
+                "displaySource": "linkedin.com",
+                "companyUrn": "urn:li:fs_miniCompany:1337",
+                "url": "https://www.linkedin.com/learning/certificates/dc85526ac9ad1f463a04124cb0fd04ccba040a43823bb6d99273eee747002918?trk=share_certificate"
+            }
+        ],
+        "volunteer": [
+            {
+                "role": "Leads verification ",
+                "companyName": "Youth India Foundation",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 8,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 5,
+                        "year": 2021
+                    }
+                },
+                "cause": "SOCIAL_SERVICES",
+                "description": "\u2022\tCollected and verified leads for the availability of oxygen cylinders in Delhi\n\u2022\tDaily updating  the sheet for new leads and verification of old leads\n\u2022\tCold calling and texting various people and organizations for verification",
+                "company": {
+                    "miniCompany": {
+                        "objectUrn": "urn:li:company:42368051",
+                        "entityUrn": "urn:li:fs_miniCompany:42368051",
+                        "name": "Youth India Foundation",
+                        "showcase": false,
+                        "active": true,
+                        "logo": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1586762785301?e=1660176000&v=beta&t=05yLbtqAdGVW4Eic5xdxxRNZtg2ZQxecPfZPJh-m2m4",
+                                        "expiresAt": 1660176000000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1586762785301?e=1660176000&v=beta&t=6iLeFpvtR1JXkBsvqAyekdSe-h4QzakgwXw0ZfD6Ejc",
+                                        "expiresAt": 1660176000000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1586762785301?e=1660176000&v=beta&t=-Rg9KK9JTP6IUgnBV6D0zllCfcblq0NHOoi3CTYU9tI",
+                                        "expiresAt": 1660176000000,
+                                        "height": 400
+                                    }
+                                ],
+                                "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQH409zgMIQNSQ/company-logo_"
+                            }
+                        },
+                        "universalName": "youth-india-foundation",
+                        "dashCompanyUrn": "urn:li:fsd_company:42368051",
+                        "trackingId": "HyVwv76YQXOJqfJG3V6bhA=="
+                    }
+                },
+                "companyUrn": "urn:li:fs_miniCompany:42368051"
+            }
+        ],
+        "honors": [],
+        "projects": []
+    },
+    "contact_info": {
+        "email_address": null,
+        "websites": [],
+        "twitter": [],
+        "birthdate": {
+            "month": 10,
+            "day": 7
+        },
+        "ims": null,
+        "phone_numbers": []
+    },
+    "connections": [
+        {
+            "urn_id": "ACoAAC24GToBKzC8vS7jZaCEqoq3Jse_M2Tson8",
+            "distance": "DISTANCE_1",
+            "public_id": "abhijit-paul-936a68194",
+            "tracking_id": "767039802"
+        },
+        {
+            "urn_id": "ACoAAByhqogBLFVDJbqojrVMhtKfC3o3hRfEcjg",
+            "distance": "DISTANCE_1",
+            "public_id": "biki-talukdar-460a54114",
+            "tracking_id": "480357000"
+        },
+        {
+            "urn_id": "ACoAABr4jt0BoOUmisITdRo1gR4CumG5I4jjZIw",
+            "distance": "DISTANCE_1",
+            "public_id": "samudra-deka-911659107",
+            "tracking_id": "452497117"
+        },
+        {
+            "urn_id": "ACoAADZmR9QB1zOH_PmrzQQw2wQmTJRTcNGU7CE",
+            "distance": "DISTANCE_1",
+            "public_id": "bkalita",
+            "tracking_id": "912672724"
+        },
+        {
+            "urn_id": "ACoAADLJzxsBizdB0nN5NZBCM41Q-z6-7ef5gyI",
+            "distance": "DISTANCE_1",
+            "public_id": "deepjyoti-kalita-78b4411b9",
+            "tracking_id": "852086555"
+        },
+        {
+            "urn_id": "ACoAADe3CFYBsoFdtSEajXbg51HDagdpBEb3kx4",
+            "distance": "DISTANCE_1",
+            "public_id": "binud-panging-872062221",
+            "tracking_id": "934742102"
+        },
+        {
+            "urn_id": "ACoAAC2aUPYBGPB-T9xDu2Hjrq7OgzRPu5nTvyE",
+            "distance": "DISTANCE_1",
+            "public_id": "jintudas",
+            "tracking_id": "765087990"
+        },
+        {
+            "urn_id": "ACoAACT67ZEBgw1Aprl8Aqy8zWMavdTyaWs7J3w",
+            "distance": "DISTANCE_1",
+            "public_id": "titikshya-das-015942153",
+            "tracking_id": "620424593"
+        },
+        {
+            "urn_id": "ACoAAAjgx0kBxJoPu_7t3kS1NbDizQekjIIzMbE",
+            "distance": "DISTANCE_1",
+            "public_id": "lakheswar-nath-289a7141",
+            "tracking_id": "148948809"
+        },
+        {
+            "urn_id": "ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE",
+            "distance": "DISTANCE_1",
+            "public_id": "prithoo11335",
+            "tracking_id": "231212168"
+        },
+        {
+            "urn_id": "ACoAACr0GSwBcmPDh22HqivG9h0JwG-eahXSYW8",
+            "distance": "DISTANCE_1",
+            "public_id": "nihar-kashyap98",
+            "tracking_id": "720640300"
+        },
+        {
+            "urn_id": "ACoAACzP6KMBcLKqKnFRpIudaukkoW4NoqstgrM",
+            "distance": "DISTANCE_1",
+            "public_id": "pranit-prakash-sahu",
+            "tracking_id": "751823011"
+        },
+        {
+            "urn_id": "ACoAACeXhGEBEVCUXmKi5rowUSeFZNerPjvzQsc",
+            "distance": "DISTANCE_1",
+            "public_id": "mahbubul-haque-a55552166",
+            "tracking_id": "664241249"
+        },
+        {
+            "urn_id": "ACoAACbTg-gBtT_YqZc-FG2lIVBv13QTx8UUB8E",
+            "distance": "DISTANCE_1",
+            "public_id": "mridul24",
+            "tracking_id": "651396072"
+        },
+        {
+            "urn_id": "ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY",
+            "distance": "DISTANCE_1",
+            "public_id": "tridip-das-b5837911b",
+            "tracking_id": "499568180"
+        },
+        {
+            "urn_id": "ACoAAAI9wXoBijRhLoxf7BO8UTK0DX-7KexJV30",
+            "distance": "DISTANCE_1",
+            "public_id": "boren-ghosh-27671410",
+            "tracking_id": "37601658"
+        },
+        {
+            "urn_id": "ACoAACZxhUQBl1V8kpLj4ACrE2LzpatGvVzEgSA",
+            "distance": "DISTANCE_1",
+            "public_id": "nabajyoti-borah-944000160",
+            "tracking_id": "644973892"
+        },
+        {
+            "urn_id": "ACoAABYq8T8ByHFGBUFRrHT5iKBI2u4YZjTLHFc",
+            "distance": "DISTANCE_1",
+            "public_id": "netranjit-borgohain-53b677a4",
+            "tracking_id": "371913023"
+        },
+        {
+            "urn_id": "ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8",
+            "distance": "DISTANCE_1",
+            "public_id": "sivaranjan-goswami-790b4523",
+            "tracking_id": "83451420"
+        },
+        {
+            "urn_id": "ACoAACTFIIYB1cK_syRcCXEc0o8RTm4JMlhYcHA",
+            "distance": "DISTANCE_1",
+            "public_id": "arun-kumar-nath-686721152",
+            "tracking_id": "616898694"
+        },
+        {
+            "urn_id": "ACoAAC4efLABFBv0f30-SDGDgLSf1gXTlkpJTfc",
+            "distance": "DISTANCE_1",
+            "public_id": "shawan-mandal",
+            "tracking_id": "773749936"
+        },
+        {
+            "urn_id": "ACoAACDVs-sB_IgxPBMHMRBfR6is3jmwwV_OvTE",
+            "distance": "DISTANCE_1",
+            "public_id": "swapnil-bhattacharjee-ghy",
+            "tracking_id": "550876139"
+        },
+        {
+            "urn_id": "ACoAACUEZ3QB2Xm0OWR0cqoc_u-o4KW_OENO1_8",
+            "distance": "DISTANCE_1",
+            "public_id": "rajan-sahu",
+            "tracking_id": "621045620"
+        },
+        {
+            "urn_id": "ACoAAC12ZqEBCx9JN_YIi1eF1FPPDif3mXI3fyc",
+            "distance": "DISTANCE_1",
+            "public_id": "abinash-panigrahi-169531193",
+            "tracking_id": "762734241"
+        },
+        {
+            "urn_id": "ACoAACYmrvgBRdvWxItbY_KP_fyrEgZ9U-QKJqk",
+            "distance": "DISTANCE_1",
+            "public_id": "rtsu",
+            "tracking_id": "640069368"
+        },
+        {
+            "urn_id": "ACoAADRMKTMBj76XTPRfB9R5rvfwNOXP2n93n4c",
+            "distance": "DISTANCE_1",
+            "public_id": "manash-deka-497a12205",
+            "tracking_id": "877406515"
+        },
+        {
+            "urn_id": "ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc",
+            "distance": "DISTANCE_1",
+            "public_id": "ratnadeep-bhattacharjee",
+            "tracking_id": "135079003"
+        },
+        {
+            "urn_id": "ACoAAAR5v8MBjPwCvp8TP9RWZyGSeNYNiJ1wKJE",
+            "distance": "DISTANCE_1",
+            "public_id": "nilotpal-boruah",
+            "tracking_id": "75087811"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Human Resources (HR)"
+        },
+        {
+            "name": "Management"
+        },
+        {
+            "name": "Social Media Marketing"
+        },
+        {
+            "name": "Digital Marketing"
+        },
+        {
+            "name": "Research",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:176",
+            "standardizedSkill": {
+                "name": "Research",
+                "entityUrn": "urn:li:fs_miniSkill:176"
+            }
+        },
+        {
+            "name": "Recruiting"
+        },
+        {
+            "name": "Psychology"
+        },
+        {
+            "name": "Analytical Skills"
+        },
+        {
+            "name": "Microsoft Excel",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:163",
+            "standardizedSkill": {
+                "name": "Microsoft Excel",
+                "entityUrn": "urn:li:fs_miniSkill:163"
+            }
+        },
+        {
+            "name": "Microsoft Word"
+        },
+        {
+            "name": "Microsoft PowerPoint"
+        },
+        {
+            "name": "Leadership"
+        },
+        {
+            "name": "Communication"
+        },
+        {
+            "name": "Team Motivation"
+        },
+        {
+            "name": "Executive Management"
+        },
+        {
+            "name": "Teamwork"
+        },
+        {
+            "name": "Team Building"
+        },
+        {
+            "name": "Linkedin Marketing"
+        },
+        {
+            "name": "LinkedIn Recruiter"
+        },
+        {
+            "name": "Employee Handbooks"
+        },
+        {
+            "name": "Problem Solving"
+        },
+        {
+            "name": "Team Leadership"
+        },
+        {
+            "name": "Team Management"
+        },
+        {
+            "name": "Advertising"
+        },
+        {
+            "name": "Project Management"
+        },
+        {
+            "name": "HR Strategy"
+        },
+        {
+            "name": "Empathetic Leadership"
+        },
+        {
+            "name": "Relationship Building"
+        },
+        {
+            "name": "Employee Engagement"
+        },
+        {
+            "name": "Positive Team Culture"
+        },
+        {
+            "name": "Collaborative Leadership"
+        },
+        {
+            "name": "Market Research"
+        },
+        {
+            "name": "Action Oriented"
+        },
+        {
+            "name": "Human Resources Information Systems (HRIS)"
+        },
+        {
+            "name": "HR Project Management"
+        },
+        {
+            "name": "Human Resource Development"
+        },
+        {
+            "name": "Onboarding"
+        },
+        {
+            "name": "HR Operations"
+        },
+        {
+            "name": "Training"
+        },
+        {
+            "name": "Time Management"
+        },
+        {
+            "name": "English"
+        },
+        {
+            "name": "Microsoft Office"
+        },
+        {
+            "name": "Personnel Management"
+        },
+        {
+            "name": "High Performance Teams"
+        },
+        {
+            "name": "Leadership Development"
+        },
+        {
+            "name": "Social Media"
+        },
+        {
+            "name": "HR Management"
+        },
+        {
+            "name": "HR Policies"
+        },
+        {
+            "name": "HR Analytics"
+        }
+    ]
+}
