@@ -1,0 +1,203 @@
+{
+    "profile": {
+        "summary": "I am a Post graduate in field of Electronics and communication engineering, my areas of interest are Computer vision, Iot, and Embedded Systems. \nAlways looking forward for adventures and hoping for a better tomorrow.",
+        "industryName": "Security and Investigations",
+        "lastName": "Das",
+        "locationName": "India",
+        "student": false,
+        "geoCountryName": "India",
+        "geoCountryUrn": "urn:li:fs_geo:102713980",
+        "geoLocationBackfilled": false,
+        "elt": true,
+        "industryUrn": "urn:li:fs_industry:121",
+        "firstName": "Pallab",
+        "entityUrn": "urn:li:fs_profile:ACoAABLHUvgBmMKOg4WfuZin9yqU6CiApUmBaUk",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:105607401"
+        },
+        "geoLocationName": "Guwahati, Assam",
+        "location": {
+            "basicLocation": {
+                "countryCode": "in"
+            }
+        },
+        "headline": "Embedded Developer at Carrier",
+        "displayPictureUrl": "https://media-exp1.licdn.com/dms/image/D4E35AQFVmDenbIEc9w/profile-framedphoto-shrink_",
+        "img_200_200": "200_200/0/1634909671263?e=1652396400&v=beta&t=jiUs9m_IIEf0rG2nhcvW5GibenoVQnRhG_Y_Wj_SfpE",
+        "img_400_400": "400_400/0/1634909671263?e=1652396400&v=beta&t=ac5CZPO-mfizm7Fq2PfyEt2tliEaUvvG8d9Ug_l2odw",
+        "img_800_800": "800_800/0/1634909671263?e=1652396400&v=beta&t=KrWmmhIwSb_ryPkKz5nZzwbQZd5sSgYYjaEcnooaRSg",
+        "img_100_100": "100_100/0/1634909671263?e=1652396400&v=beta&t=m4ZxM8Rg1fpgcuViYQPTZbNXj_QNlUIDRD1Wo37CNpQ",
+        "profile_id": "ACoAABLHUvgBmMKOg4WfuZin9yqU6CiApUmBaUk",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAABLHUvgBmMKOg4WfuZin9yqU6CiApUmBaUk",
+        "member_urn": "urn:li:member:315052792",
+        "experience": [
+            {
+                "locationName": "Hyderabad, Telangana, India",
+                "entityUrn": "urn:li:fs_position:(ACoAABLHUvgBmMKOg4WfuZin9yqU6CiApUmBaUk,1752898277)",
+                "geoLocationName": "Hyderabad, Telangana, India",
+                "geoUrn": "urn:li:fs_geo:105556991",
+                "companyName": "Carrier",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 11,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 3,
+                        "year": 2021
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Building Materials"
+                    ]
+                },
+                "title": "Associate Engineer",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:12991711",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQHn21AU0U42Rw/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAABLHUvgBmMKOg4WfuZin9yqU6CiApUmBaUk,645302372)",
+                "school": {
+                    "objectUrn": "urn:li:school:3154503",
+                    "entityUrn": "urn:li:fs_miniSchool:3154503",
+                    "active": true,
+                    "schoolName": "Centre for Development of Advanced Computing (C-DAC)",
+                    "trackingId": "Fr9XCyqPSoiShjBkAWpUvA==",
+                    "logoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQGa2DKE0PTaIg/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "year": 2020
+                    }
+                },
+                "degreeName": "PG Diploma",
+                "schoolName": "Centre for Development of Advanced Computing",
+                "fieldOfStudy": "Embedded System Design",
+                "schoolUrn": "urn:li:fs_miniSchool:3154503"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAABLHUvgBmMKOg4WfuZin9yqU6CiApUmBaUk,285690963)",
+                "school": {
+                    "objectUrn": "urn:li:school:206183",
+                    "entityUrn": "urn:li:fs_miniSchool:206183",
+                    "active": true,
+                    "schoolName": "Assam Don Bosco University, Guwahati",
+                    "trackingId": "wwN2QWTrSDqhuE5n50FFLg==",
+                    "logoUrl": "https://media-exp1.licdn.com/dms/image/C510BAQF9YbRGZb8a9w/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "year": 2015
+                    }
+                },
+                "description": "College",
+                "degreeName": "Bachelor of Technology (BTech)",
+                "schoolName": "Assam Don Bosco University, Guwahati",
+                "fieldOfStudy": "Electronics & Communication Engineering",
+                "schoolUrn": "urn:li:fs_miniSchool:206183"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAABLHUvgBmMKOg4WfuZin9yqU6CiApUmBaUk,201754619)",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2014
+                    },
+                    "startDate": {
+                        "year": 2002
+                    }
+                },
+                "description": "High School",
+                "schoolName": "Kendriya vidyalaya maligaon"
+            }
+        ],
+        "languages": [],
+        "publications": [],
+        "certifications": [],
+        "volunteer": [],
+        "honors": [],
+        "projects": []
+    },
+    "contact_info": {
+        "email_address": null,
+        "websites": [],
+        "twitter": [],
+        "birthdate": null,
+        "ims": null,
+        "phone_numbers": []
+    },
+    "skills": [
+        {
+            "name": "C++"
+        },
+        {
+            "name": "Java"
+        },
+        {
+            "name": "VHDL",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:2220",
+            "standardizedSkill": {
+                "name": "VHDL",
+                "entityUrn": "urn:li:fs_miniSkill:2220"
+            }
+        },
+        {
+            "name": "Computer Vision"
+        },
+        {
+            "name": "Circuit Design"
+        },
+        {
+            "name": "Python (Programming Language)"
+        },
+        {
+            "name": "HTML"
+        },
+        {
+            "name": "Arduino"
+        },
+        {
+            "name": "Matlab",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:1442",
+            "standardizedSkill": {
+                "name": "MATLAB",
+                "entityUrn": "urn:li:fs_miniSkill:1442"
+            }
+        },
+        {
+            "name": "OpenCV",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:10145",
+            "standardizedSkill": {
+                "name": "OpenCV",
+                "entityUrn": "urn:li:fs_miniSkill:10145"
+            }
+        },
+        {
+            "name": "Raspberry Pi"
+        },
+        {
+            "name": "C (Programming Language)"
+        },
+        {
+            "name": "Image Processing"
+        },
+        {
+            "name": "Artificial Intelligence (AI)"
+        },
+        {
+            "name": "Embedded Systems"
+        }
+    ]
+}

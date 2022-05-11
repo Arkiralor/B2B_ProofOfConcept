@@ -105,6 +105,53 @@ class LinkedInAPI:
             logging.info(f"[{datetime.now()}]   WRITING SEARCH INFO for: {company}")
             data_file.write(data)
 
+    def get_people(
+                    self,
+                    keywords=None,
+                    current_company=None,
+                    past_companies=None,
+                    regions=None,
+                    industries=None,
+                    schools=None,
+                    profile_languages=None,
+                    contact_interests=None,
+                    service_categories=None,
+                    network_depths=["F", "S", "O"],
+                    include_private_profiles=None,
+                    keyword_first_name=None,
+                    keyword_last_name=None,
+                    keyword_title=None,
+                    keyword_company=None,
+                    keyword_school=None,
+                    connection_of=None
+                ):
+        people = self.api.search_people(
+            keywords,
+            current_company,
+            past_companies,
+            regions,
+            industries,
+            schools,
+            profile_languages,
+            contact_interests,
+            service_categories,
+            network_depths,
+            include_private_profiles,
+            keyword_first_name,
+            keyword_last_name,
+            keyword_title,
+            keyword_company,
+            keyword_school,
+            connection_of
+        )
+
+        with open(f"raw_data{sep}search_results{sep}people{sep}{keywords}_people.json", "w+t", encoding="utf-8") as data_file:
+            data = dumps(people, indent=4)
+            logging.info(f"[{datetime.now()}]   WRITING SEARCH INFO for: {people}")
+            data_file.write(data)
+
+
+
 
 if __name__ == "__main__":
     pass

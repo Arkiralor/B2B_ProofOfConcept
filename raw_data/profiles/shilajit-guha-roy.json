@@ -1,0 +1,443 @@
+{
+    "profile": {
+        "industryName": "Software Development",
+        "lastName": "Guha Roy",
+        "locationName": "India",
+        "student": false,
+        "geoCountryName": "India",
+        "geoCountryUrn": "urn:li:fs_geo:102713980",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "industryUrn": "urn:li:fs_industry:4",
+        "firstName": "Shilajit",
+        "entityUrn": "urn:li:fs_profile:ACoAACpm-5wBcAsXKFzaOtYYVPiAh4biVovCjdI",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:105214831"
+        },
+        "geoLocationName": "Bengaluru, Karnataka",
+        "location": {
+            "basicLocation": {
+                "countryCode": "in"
+            }
+        },
+        "headline": "Software Engineer at Zmanda - BETSOL | Python | Django | Docker",
+        "displayPictureUrl": "https://media-exp1.licdn.com/dms/image/C4E03AQFFwD0Ly8FXpw/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/0/1642318351699?e=1657756800&v=beta&t=TRI1iUQHHAelb6GLXo0raNU8LDJoOfEFU5XoloENHsw",
+        "img_200_200": "200_200/0/1642318351699?e=1657756800&v=beta&t=Bmn0AvxiY4m4d4MVxyCVlSmCRWBL1v0dAdmb_l5Btu8",
+        "img_400_400": "400_400/0/1642318351699?e=1657756800&v=beta&t=5kKMK6XHwV0AsnBwuPxgM454iDncGLEa422imNrETvM",
+        "img_800_800": "800_800/0/1642318351699?e=1657756800&v=beta&t=Ni9fyAWm-zhas9ifxW-T1lG3MT3AhhzbcF016oNKsD8",
+        "profile_id": "ACoAACpm-5wBcAsXKFzaOtYYVPiAh4biVovCjdI",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAACpm-5wBcAsXKFzaOtYYVPiAh4biVovCjdI",
+        "member_urn": "urn:li:member:711392156",
+        "experience": [
+            {
+                "locationName": "Bengaluru, Karnataka, India",
+                "entityUrn": "urn:li:fs_position:(ACoAACpm-5wBcAsXKFzaOtYYVPiAh4biVovCjdI,1898349639)",
+                "geoLocationName": "Bengaluru, Karnataka, India",
+                "geoUrn": "urn:li:fs_geo:105214831",
+                "companyName": "BETSOL",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 1,
+                        "year": 2022
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 501,
+                        "end": 1000
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Software Engineer",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:3051933",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHkXFm-YuCk9A/company-logo_"
+            },
+            {
+                "locationName": "Bengaluru, Karnataka, India",
+                "entityUrn": "urn:li:fs_position:(ACoAACpm-5wBcAsXKFzaOtYYVPiAh4biVovCjdI,1653372925)",
+                "geoLocationName": "Bengaluru, Karnataka, India",
+                "geoUrn": "urn:li:fs_geo:105214831",
+                "companyName": "BETSOL",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 8,
+                        "year": 2020
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 501,
+                        "end": 1000
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Associate Software Engineer",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:3051933",
+                "honors": [
+                    "urn:li:fs_honor:(ACoAACpm-5wBcAsXKFzaOtYYVPiAh4biVovCjdI,2084140103)"
+                ],
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHkXFm-YuCk9A/company-logo_"
+            },
+            {
+                "locationName": "Bengaluru, Karnataka, India",
+                "entityUrn": "urn:li:fs_position:(ACoAACpm-5wBcAsXKFzaOtYYVPiAh4biVovCjdI,1724669956)",
+                "geoLocationName": "Bengaluru, Karnataka, India",
+                "geoUrn": "urn:li:fs_geo:109710172",
+                "companyName": "BETSOL",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 7,
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2020
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 501,
+                        "end": 1000
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Software Engineer Intern",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:3051933",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHkXFm-YuCk9A/company-logo_"
+            },
+            {
+                "locationName": "Tezpur Area, India",
+                "entityUrn": "urn:li:fs_position:(ACoAACpm-5wBcAsXKFzaOtYYVPiAh4biVovCjdI,1506163057)",
+                "geoLocationName": "Tezpur Area, India",
+                "geoUrn": "urn:li:fs_geo:103536900",
+                "companyName": "Tezpur University",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 7,
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2019
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 1001,
+                        "end": 5000
+                    },
+                    "industries": [
+                        "Research"
+                    ]
+                },
+                "title": "Student Placement Coordinator",
+                "region": "urn:li:fs_region:(in,7085)",
+                "companyUrn": "urn:li:fs_miniCompany:711389",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQGdv3IR3tOUdw/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAACpm-5wBcAsXKFzaOtYYVPiAh4biVovCjdI,575493610)",
+                "school": {
+                    "objectUrn": "urn:li:school:13644",
+                    "entityUrn": "urn:li:fs_miniSchool:13644",
+                    "active": true,
+                    "schoolName": "Tezpur University",
+                    "trackingId": "Xkc4JAb5SFeYekXhyrlGmg==",
+                    "logoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQGdv3IR3tOUdw/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "year": 2017
+                    }
+                },
+                "degreeName": "Master of Computer Applications - MCA",
+                "schoolName": "Tezpur University",
+                "fieldOfStudy": "MCA",
+                "degreeUrn": "urn:li:fs_degree:594",
+                "schoolUrn": "urn:li:fs_miniSchool:13644"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAACpm-5wBcAsXKFzaOtYYVPiAh4biVovCjdI,604165777)",
+                "school": {
+                    "objectUrn": "urn:li:school:196635",
+                    "entityUrn": "urn:li:fs_miniSchool:196635",
+                    "active": true,
+                    "schoolName": "COTTON COLLEGE STATE UNIVERSITY",
+                    "trackingId": "y1Uk3x4sSkCW4+XwmWLYfw=="
+                },
+                "grade": "7.28",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2017
+                    },
+                    "startDate": {
+                        "year": 2014
+                    }
+                },
+                "degreeName": "BCA",
+                "schoolName": "COTTON COLLEGE STATE UNIVERSITY",
+                "schoolUrn": "urn:li:fs_miniSchool:196635"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAACpm-5wBcAsXKFzaOtYYVPiAh4biVovCjdI,604167187)",
+                "school": {
+                    "objectUrn": "urn:li:school:3236372",
+                    "entityUrn": "urn:li:fs_miniSchool:3236372",
+                    "active": true,
+                    "schoolName": "South Point School - India",
+                    "trackingId": "wiGPnTFnSHeJ9jgUzHjJ4Q=="
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2013
+                    },
+                    "startDate": {
+                        "year": 2011
+                    }
+                },
+                "degreeName": "HS",
+                "schoolName": "South Point School - India",
+                "fieldOfStudy": "Science",
+                "schoolUrn": "urn:li:fs_miniSchool:3236372"
+            }
+        ],
+        "languages": [],
+        "publications": [],
+        "certifications": [
+            {
+                "authority": "Udemy",
+                "name": "Go: The Complete Developer's Guide (Golang)",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 12,
+                        "year": 2021
+                    }
+                },
+                "licenseNumber": "UC-efa71cdf-1ee6-4f5f-b8ba-7c6d583a6996",
+                "company": {
+                    "objectUrn": "urn:li:company:822535",
+                    "entityUrn": "urn:li:fs_miniCompany:822535",
+                    "name": "Udemy",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1626275253364?e=1660176000&v=beta&t=hNmtDdN4pnwTuJsDQsvaI2SOIkRq2BCrfWF7YKlNaM4",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1626275253364?e=1660176000&v=beta&t=bZ9FL43L79ghc74x71A2lY51dAogHCVQKWAZH1-YcuM",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1626275253364?e=1660176000&v=beta&t=7EyDsPVIShmG1t96OAsrJK6AWUi0vObIpIVqPL4hc6E",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQFQr9e68bBOPQ/company-logo_"
+                        }
+                    },
+                    "universalName": "udemy",
+                    "dashCompanyUrn": "urn:li:fsd_company:822535",
+                    "trackingId": "k9qFx+isSeyodoCAJPx19A=="
+                },
+                "displaySource": "udemy.com",
+                "companyUrn": "urn:li:fs_miniCompany:822535",
+                "url": "https://www.udemy.com/certificate/UC-efa71cdf-1ee6-4f5f-b8ba-7c6d583a6996/"
+            },
+            {
+                "authority": "Udemy",
+                "name": "gRPC [Golang] Master Class: Build Modern API & Microservices",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 1,
+                        "year": 2022
+                    }
+                },
+                "licenseNumber": "UC-1dea43d1-15d6-4570-9653-65ded830566d",
+                "company": {
+                    "objectUrn": "urn:li:company:822535",
+                    "entityUrn": "urn:li:fs_miniCompany:822535",
+                    "name": "Udemy",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1626275253364?e=1660176000&v=beta&t=hNmtDdN4pnwTuJsDQsvaI2SOIkRq2BCrfWF7YKlNaM4",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1626275253364?e=1660176000&v=beta&t=bZ9FL43L79ghc74x71A2lY51dAogHCVQKWAZH1-YcuM",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1626275253364?e=1660176000&v=beta&t=7EyDsPVIShmG1t96OAsrJK6AWUi0vObIpIVqPL4hc6E",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQFQr9e68bBOPQ/company-logo_"
+                        }
+                    },
+                    "universalName": "udemy",
+                    "dashCompanyUrn": "urn:li:fsd_company:822535",
+                    "trackingId": "nLqtZzozToG2GCe4d6QeUg=="
+                },
+                "displaySource": "udemy.com",
+                "companyUrn": "urn:li:fs_miniCompany:822535",
+                "url": "http://www.udemy.com/certificate/UC-1dea43d1-15d6-4570-9653-65ded830566d/"
+            },
+            {
+                "authority": "HackerRank",
+                "name": "Go (Basic) Certificate",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 1,
+                        "year": 2022
+                    }
+                },
+                "licenseNumber": "2c7771746b0f",
+                "company": {
+                    "objectUrn": "urn:li:company:435210",
+                    "entityUrn": "urn:li:fs_miniCompany:435210",
+                    "name": "HackerRank",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1641202397642?e=1660176000&v=beta&t=Ix11l-5N4KcRtRth48ZPACX6rW1IZzJoWzAy9_4bxo4",
+                                    "expiresAt": 1660176000000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1641202397642?e=1660176000&v=beta&t=1wEUWwbPAJE5oClfZksATmGN7fbvC3TkUOx8x6dlOFE",
+                                    "expiresAt": 1660176000000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1641202397642?e=1660176000&v=beta&t=7yI0595xh0aic_daPziBqKaN35HhJqHMSSzx5NCGEwg",
+                                    "expiresAt": 1660176000000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHneWLNCPQgDA/company-logo_"
+                        }
+                    },
+                    "universalName": "hackerrank",
+                    "dashCompanyUrn": "urn:li:fsd_company:435210",
+                    "trackingId": "g3MaVTcKQ3SqX1BlDw+NTQ=="
+                },
+                "displaySource": "hackerrank.com",
+                "companyUrn": "urn:li:fs_miniCompany:435210",
+                "url": "https://www.hackerrank.com/certificates/2c7771746b0f"
+            }
+        ],
+        "volunteer": [],
+        "honors": [
+            {
+                "description": "I was awarded \"Above and beyond\" by BETSOL, in recognition of my efforts and swiftness in resolving the requirement of containerizing our enterprise backup software named Zmanda 4.0.",
+                "occupation": "urn:li:fs_position:(ACoAACpm-5wBcAsXKFzaOtYYVPiAh4biVovCjdI,1653372925)",
+                "title": "Above and Beyond",
+                "issueDate": {
+                    "month": 10,
+                    "year": 2021
+                },
+                "issuer": "BETSOL Pvt. Ltd."
+            }
+        ],
+        "projects": []
+    },
+    "contact_info": {
+        "email_address": null,
+        "websites": [],
+        "twitter": [],
+        "birthdate": null,
+        "ims": null,
+        "phone_numbers": []
+    },
+    "skills": [
+        {
+            "name": "Python (Programming Language)"
+        },
+        {
+            "name": "C (Programming Language)",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:438",
+            "standardizedSkill": {
+                "name": "C (Programming Language)",
+                "entityUrn": "urn:li:fs_miniSkill:438"
+            }
+        },
+        {
+            "name": "Django REST Framework"
+        },
+        {
+            "name": "Data Structures"
+        },
+        {
+            "name": "Docker"
+        },
+        {
+            "name": "Git"
+        },
+        {
+            "name": "Amazon Web Services (AWS)"
+        },
+        {
+            "name": "Core Java",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:3409",
+            "standardizedSkill": {
+                "name": "Core Java",
+                "entityUrn": "urn:li:fs_miniSkill:3409"
+            }
+        },
+        {
+            "name": "Management",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:19",
+            "standardizedSkill": {
+                "name": "Management",
+                "entityUrn": "urn:li:fs_miniSkill:19"
+            }
+        },
+        {
+            "name": "Go (Programming Language)"
+        },
+        {
+            "name": "gRPC"
+        }
+    ]
+}

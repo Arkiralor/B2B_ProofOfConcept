@@ -1,0 +1,645 @@
+{
+    "profile": {
+        "summary": "Passionate Application Developer in Android applications. Particularly interested in developing and designing Android Apps. Always interested in migration projects and learning new things !!",
+        "industryName": "IT Services and IT Consulting",
+        "lastName": "Deb",
+        "locationName": "India",
+        "student": false,
+        "geoCountryName": "India",
+        "geoCountryUrn": "urn:li:fs_geo:102713980",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "industryUrn": "urn:li:fs_industry:96",
+        "firstName": "Subhrajit",
+        "entityUrn": "urn:li:fs_profile:ACoAACxnFd4BaTMRuuNu1Dlw9w2i9aeQ49caapw",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:105607401"
+        },
+        "geoLocationName": "Guwahati, Assam",
+        "location": {
+            "basicLocation": {
+                "countryCode": "in"
+            }
+        },
+        "headline": "Android | Kotlin | Java | Software Developer at Ekodus technologies",
+        "displayPictureUrl": "https://media-exp1.licdn.com/dms/image/C5103AQG_Ouk76K2oBg/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/0/1565930944640?e=1657756800&v=beta&t=xZooz5mg2no34yFjPFI24XCNGcBRWUqO0P-wnEg3FHM",
+        "img_200_200": "200_200/0/1565930944640?e=1657756800&v=beta&t=_2SZQzV8x-6l9qeu3PCH9gHtnOmL_6LeGarjyd8Fj3Q",
+        "img_400_400": "400_400/0/1565930944640?e=1657756800&v=beta&t=sKM-BSjDLKNwmyGSZZUmcQzsaaIxvaYkkJZz4FUgDRY",
+        "img_800_800": "800_800/0/1565930944640?e=1657756800&v=beta&t=9sGf1TT2ruxkcBLxQTlvKsCXtIPFrK3PRFHnFpyjZfM",
+        "profile_id": "ACoAACxnFd4BaTMRuuNu1Dlw9w2i9aeQ49caapw",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAACxnFd4BaTMRuuNu1Dlw9w2i9aeQ49caapw",
+        "member_urn": "urn:li:member:744953310",
+        "experience": [
+            {
+                "locationName": "Guwahati, Assam, India",
+                "entityUrn": "urn:li:fs_position:(ACoAACxnFd4BaTMRuuNu1Dlw9w2i9aeQ49caapw,1929464089)",
+                "geoLocationName": "Guwahati, Assam, India",
+                "geoUrn": "urn:li:fs_geo:105607401",
+                "companyName": "Ekodus INC.",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 2,
+                        "year": 2022
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 51,
+                        "end": 200
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Android Developer",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:13720472",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQEsmFCjzcL3oA/company-logo_"
+            },
+            {
+                "locationName": "Gurugram, Haryana, India",
+                "entityUrn": "urn:li:fs_position:(ACoAACxnFd4BaTMRuuNu1Dlw9w2i9aeQ49caapw,1853541224)",
+                "geoLocationName": "Gurugram, Haryana, India",
+                "geoUrn": "urn:li:fs_geo:106442238",
+                "companyName": "Quytech - Mobile Apps | AR | VR | AI ",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 1,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 10,
+                        "year": 2021
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 51,
+                        "end": 200
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Software Developer",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:1638743",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQFX0EP0lRqxrg/company-logo_"
+            },
+            {
+                "locationName": "Guwahati, Assam, India",
+                "projects": [
+                    "urn:li:fs_project:(ACoAACxnFd4BaTMRuuNu1Dlw9w2i9aeQ49caapw,417316822)",
+                    "urn:li:fs_project:(ACoAACxnFd4BaTMRuuNu1Dlw9w2i9aeQ49caapw,1580721617)"
+                ],
+                "entityUrn": "urn:li:fs_position:(ACoAACxnFd4BaTMRuuNu1Dlw9w2i9aeQ49caapw,1667820811)",
+                "geoLocationName": "Guwahati, Assam, India",
+                "geoUrn": "urn:li:fs_geo:105607401",
+                "companyName": "SIQES",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 9,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 2,
+                        "year": 2020
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 51,
+                        "end": 200
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Software Engineer",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:128868",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQGe5oaRenP-lg/company-logo_"
+            },
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAACxnFd4BaTMRuuNu1Dlw9w2i9aeQ49caapw,1474397848)",
+                "$anti_abuse_metadata": {
+                    "/geoUrn": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:744953310"
+                        }
+                    },
+                    "/companyName": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:744953310"
+                        }
+                    },
+                    "/companyUrn": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:744953310"
+                        }
+                    },
+                    "/entityUrn": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:744953310"
+                        }
+                    },
+                    "/geoLocationName": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:744953310"
+                        }
+                    },
+                    "/promotion": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:744953310"
+                        }
+                    },
+                    "/title": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:744953310"
+                        }
+                    },
+                    "/region": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:744953310"
+                        }
+                    },
+                    "/locationName": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:744953310"
+                        }
+                    },
+                    "/description": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:744953310"
+                        }
+                    }
+                },
+                "companyName": "XiPaar Solutions Pvt. Ltd.",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 1,
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "month": 6,
+                        "year": 2019
+                    }
+                },
+                "title": "Software Developer"
+            }
+        ],
+        "education": [
+            {
+                "projects": [
+                    "urn:li:fs_project:(ACoAACxnFd4BaTMRuuNu1Dlw9w2i9aeQ49caapw,417167924)"
+                ],
+                "entityUrn": "urn:li:fs_education:(ACoAACxnFd4BaTMRuuNu1Dlw9w2i9aeQ49caapw,607995546)",
+                "school": {
+                    "objectUrn": "urn:li:school:195943",
+                    "entityUrn": "urn:li:fs_miniSchool:195943",
+                    "active": true,
+                    "schoolName": "ASSAM DOWN TOWN UNIVERSITY",
+                    "trackingId": "CUGXsw1ZTm6fX69eXKPkvw==",
+                    "logoUrl": "https://media-exp1.licdn.com/dms/image/C560BAQGbIttd0Pv-HQ/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "year": 2016
+                    }
+                },
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100176",
+                "degreeName": "Bachelor of Science - BS",
+                "schoolName": "ASSAM DOWN TOWN UNIVERSITY",
+                "fieldOfStudy": "Information Technology",
+                "degreeUrn": "urn:li:fs_degree:400",
+                "schoolUrn": "urn:li:fs_miniSchool:195943"
+            }
+        ],
+        "languages": [
+            {
+                "name": "Assamese",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "Bengali",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "English",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "Hindi",
+                "proficiency": "PROFESSIONAL_WORKING"
+            }
+        ],
+        "publications": [],
+        "certifications": [],
+        "volunteer": [],
+        "honors": [],
+        "projects": [
+            {
+                "occupation": "urn:li:fs_position:(ACoAACxnFd4BaTMRuuNu1Dlw9w2i9aeQ49caapw,1667820811)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Subhrajit",
+                            "lastName": "Deb",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACxnFd4BaTMRuuNu1Dlw9w2i9aeQ49caapw",
+                            "occupation": "Android | Kotlin | Java | Software Developer at Ekodus technologies",
+                            "objectUrn": "urn:li:member:744953310",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACxnFd4BaTMRuuNu1Dlw9w2i9aeQ49caapw",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1569395095913?e=1657756800&v=beta&t=hfBkmsCfCKe3YJWxoI7-RNQcCAPlIibJF1Jojl_Z6BU",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1569395095913?e=1657756800&v=beta&t=SuLmsw5kDi8fovFzICxQrLzB_RDTjyyiEJk4lSEDRuo",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5116AQFvPbV7SHu4aA/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "subhrajit-deb-2a6597189",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1565930944640?e=1657756800&v=beta&t=xZooz5mg2no34yFjPFI24XCNGcBRWUqO0P-wnEg3FHM",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1565930944640?e=1657756800&v=beta&t=_2SZQzV8x-6l9qeu3PCH9gHtnOmL_6LeGarjyd8Fj3Q",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1565930944640?e=1657756800&v=beta&t=sKM-BSjDLKNwmyGSZZUmcQzsaaIxvaYkkJZz4FUgDRY",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1565930944640?e=1657756800&v=beta&t=9sGf1TT2ruxkcBLxQTlvKsCXtIPFrK3PRFHnFpyjZfM",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5103AQG_Ouk76K2oBg/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "4PzUabXYQfKZ8ZiEL2PhAA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAACxnFd4BaTMRuuNu1Dlw9w2i9aeQ49caapw,417316822,234506839)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACxnFd4BaTMRuuNu1Dlw9w2i9aeQ49caapw"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 7,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 7,
+                        "year": 2021
+                    }
+                },
+                "description": "It is an android chat application, besides one to one chatting this app also has group chat feature,status update etc.\nlanguage :kotlin\nLibraries : Android jetpack, room, Socket.io etc\nFramework : MVVM\nRest api library : Retrofit",
+                "title": "Chat application"
+            },
+            {
+                "occupation": "urn:li:fs_position:(ACoAACxnFd4BaTMRuuNu1Dlw9w2i9aeQ49caapw,1667820811)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Subhrajit",
+                            "lastName": "Deb",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACxnFd4BaTMRuuNu1Dlw9w2i9aeQ49caapw",
+                            "occupation": "Android | Kotlin | Java | Software Developer at Ekodus technologies",
+                            "objectUrn": "urn:li:member:744953310",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACxnFd4BaTMRuuNu1Dlw9w2i9aeQ49caapw",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1569395095913?e=1657756800&v=beta&t=hfBkmsCfCKe3YJWxoI7-RNQcCAPlIibJF1Jojl_Z6BU",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1569395095913?e=1657756800&v=beta&t=SuLmsw5kDi8fovFzICxQrLzB_RDTjyyiEJk4lSEDRuo",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5116AQFvPbV7SHu4aA/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "subhrajit-deb-2a6597189",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1565930944640?e=1657756800&v=beta&t=xZooz5mg2no34yFjPFI24XCNGcBRWUqO0P-wnEg3FHM",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1565930944640?e=1657756800&v=beta&t=_2SZQzV8x-6l9qeu3PCH9gHtnOmL_6LeGarjyd8Fj3Q",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1565930944640?e=1657756800&v=beta&t=sKM-BSjDLKNwmyGSZZUmcQzsaaIxvaYkkJZz4FUgDRY",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1565930944640?e=1657756800&v=beta&t=9sGf1TT2ruxkcBLxQTlvKsCXtIPFrK3PRFHnFpyjZfM",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5103AQG_Ouk76K2oBg/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "4PzUabXYQfKZ8ZiEL2PhAA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAACxnFd4BaTMRuuNu1Dlw9w2i9aeQ49caapw,1580721617,280129495)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACxnFd4BaTMRuuNu1Dlw9w2i9aeQ49caapw"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 2,
+                        "year": 2020
+                    }
+                },
+                "description": "E-Learning Platform for students in Android providing video courses, quizzes, online tests, analysis of student performance and a parent app to monitor the child\u2019s activity and a teacher\u2019s app\nto clear a student\u2019s doubt.",
+                "title": "Eduaid",
+                "url": "https://play.google.com/store/apps/details?id=com.eduaid.child"
+            },
+            {
+                "occupation": "urn:li:fs_education:(ACoAACxnFd4BaTMRuuNu1Dlw9w2i9aeQ49caapw,607995546)",
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Subhrajit",
+                            "lastName": "Deb",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACxnFd4BaTMRuuNu1Dlw9w2i9aeQ49caapw",
+                            "occupation": "Android | Kotlin | Java | Software Developer at Ekodus technologies",
+                            "objectUrn": "urn:li:member:744953310",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACxnFd4BaTMRuuNu1Dlw9w2i9aeQ49caapw",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1569395095913?e=1657756800&v=beta&t=hfBkmsCfCKe3YJWxoI7-RNQcCAPlIibJF1Jojl_Z6BU",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1569395095913?e=1657756800&v=beta&t=SuLmsw5kDi8fovFzICxQrLzB_RDTjyyiEJk4lSEDRuo",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5116AQFvPbV7SHu4aA/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "subhrajit-deb-2a6597189",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1565930944640?e=1657756800&v=beta&t=xZooz5mg2no34yFjPFI24XCNGcBRWUqO0P-wnEg3FHM",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1565930944640?e=1657756800&v=beta&t=_2SZQzV8x-6l9qeu3PCH9gHtnOmL_6LeGarjyd8Fj3Q",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1565930944640?e=1657756800&v=beta&t=sKM-BSjDLKNwmyGSZZUmcQzsaaIxvaYkkJZz4FUgDRY",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1565930944640?e=1657756800&v=beta&t=9sGf1TT2ruxkcBLxQTlvKsCXtIPFrK3PRFHnFpyjZfM",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5103AQG_Ouk76K2oBg/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "4PzUabXYQfKZ8ZiEL2PhAA=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAACxnFd4BaTMRuuNu1Dlw9w2i9aeQ49caapw,417167924,234505992)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACxnFd4BaTMRuuNu1Dlw9w2i9aeQ49caapw"
+                    },
+                    {
+                        "member": {
+                            "firstName": "Bhargav",
+                            "lastName": "Nath",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAACqYkFkBjl3KUNQB2y3KYAhLWj9WFIl1UZY",
+                            "occupation": "Software Developer",
+                            "objectUrn": "urn:li:member:714641497",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAACqYkFkBjl3KUNQB2y3KYAhLWj9WFIl1UZY",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1569394997511?e=1657756800&v=beta&t=1gd79bA9g6LK0xGw6uvi9WKXqTVrQzBy1W-mS3kgnCo",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1569394997511?e=1657756800&v=beta&t=5Z6shDcPYGd1ZIbCRNfMUo5Snl7ppH9YMSI2aGr2Czw",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5116AQFYccMRkC6qCw/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "iambhargavnath",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1559379415340?e=1657756800&v=beta&t=voT5KiDktxQDX3TKaPn4hkAcj3fIjgGa5XME02brfZ0",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1559379415340?e=1657756800&v=beta&t=q0IygIIP_inYiRUNQThmhxRefWAXsIYnG9BDaGUREWQ",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1559379415340?e=1657756800&v=beta&t=eg8tSHeN2I-bd19hoQSy2IXcqkXMCqO_S55W6QMiVAQ",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1559379415340?e=1657756800&v=beta&t=vZKebcla885n04ehX4N9Oqpef7xD7FICDvZ8aAx7m0k",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5103AQHHFxWY14ijlg/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "M5HBo7RMQO2vRhM6/p+1aQ=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAACxnFd4BaTMRuuNu1Dlw9w2i9aeQ49caapw,417167924,234507775)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAACqYkFkBjl3KUNQB2y3KYAhLWj9WFIl1UZY"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2019
+                    }
+                },
+                "description": "This project uses IOT (Internet Of Things) to automate the entrance security system of any organization or office by scanning a unique QR Code of each employee. It also gives attendance of each employee.\n\n\u2022\tOS used: Windows 10, mac OSX\n\u2022\tSoftware used: Android Studio 3.3.0, PhpStorm\n\u2022\tAndroid SDK version: minSdkVersion 19 (kitkat), targetSdk Version28\n\u2022\tAPI used: Google Mobile Vision, Zxing, Volley API\n\u2022\tHardware used: Arduino UNO R3, Bluetooth Module HC 05, Motor Driver Module L298N, DC Motor, \nBettary (9v DC), Android Smart Phone\n\u2022\tTeam Size: two\n\u2022\tDuration: January 2019 to April 2019\n",
+                "title": "Developing of an Android based Security and Attendance System using Internet of Things",
+                "url": "http://smartoandroid.000webhostapp.com/"
+            }
+        ]
+    },
+    "contact_info": {
+        "email_address": null,
+        "websites": [],
+        "twitter": [],
+        "birthdate": null,
+        "ims": null,
+        "phone_numbers": []
+    },
+    "skills": [
+        {
+            "name": "Java"
+        },
+        {
+            "name": "Android Development",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:26904",
+            "standardizedSkill": {
+                "name": "Android Development",
+                "entityUrn": "urn:li:fs_miniSkill:26904"
+            }
+        },
+        {
+            "name": "kotlin"
+        },
+        {
+            "name": "Web Development",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:764",
+            "standardizedSkill": {
+                "name": "Web Development",
+                "entityUrn": "urn:li:fs_miniSkill:764"
+            }
+        },
+        {
+            "name": "iOS Development"
+        },
+        {
+            "name": "C (Programming Language)",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:438",
+            "standardizedSkill": {
+                "name": "C (Programming Language)",
+                "entityUrn": "urn:li:fs_miniSkill:438"
+            }
+        },
+        {
+            "name": "C++",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:198",
+            "standardizedSkill": {
+                "name": "C++",
+                "entityUrn": "urn:li:fs_miniSkill:198"
+            }
+        },
+        {
+            "name": "PHP",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:261",
+            "standardizedSkill": {
+                "name": "PHP",
+                "entityUrn": "urn:li:fs_miniSkill:261"
+            }
+        },
+        {
+            "name": "MySQL",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:380",
+            "standardizedSkill": {
+                "name": "MySQL",
+                "entityUrn": "urn:li:fs_miniSkill:380"
+            }
+        },
+        {
+            "name": "Arduino",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:12572",
+            "standardizedSkill": {
+                "name": "Arduino",
+                "entityUrn": "urn:li:fs_miniSkill:12572"
+            }
+        },
+        {
+            "name": "Python (Programming Language)",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:1346",
+            "standardizedSkill": {
+                "name": "Python (Programming Language)",
+                "entityUrn": "urn:li:fs_miniSkill:1346"
+            }
+        },
+        {
+            "name": "PostgreSQL"
+        },
+        {
+            "name": "Django REST Framework"
+        }
+    ]
+}
