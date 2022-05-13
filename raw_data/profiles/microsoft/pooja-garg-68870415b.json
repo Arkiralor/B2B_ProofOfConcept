@@ -1,0 +1,106 @@
+{
+    "profile": {
+        "summary": "SDE at Microsoft\nFormer Software Developer Intern at SAP Labs , Bangalore",
+        "industryName": "Software Development",
+        "lastName": "GARG",
+        "locationName": "India",
+        "student": false,
+        "geoCountryName": "India",
+        "geoCountryUrn": "urn:li:fs_geo:102713980",
+        "geoLocationBackfilled": false,
+        "elt": true,
+        "industryUrn": "urn:li:fs_industry:4",
+        "firstName": "POOJA",
+        "entityUrn": "urn:li:fs_profile:ACoAACZeosgBi7CGRUh2YHtnHt2AzSAV5SyB4iE",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:100108336"
+        },
+        "geoLocationName": "Karnal, Haryana",
+        "location": {
+            "basicLocation": {
+                "countryCode": "in"
+            }
+        },
+        "headline": "Software Engineer at Microsoft",
+        "displayPictureUrl": "https://media-exp1.licdn.com/dms/image/C5603AQFvKqV2ubQFnQ/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/0/1624946967015?e=1657756800&v=beta&t=qMMEcIuXMQYg2eXlQnL_lbepKuX6cKbT2Vm8KHDdoz4",
+        "img_200_200": "200_200/0/1624946967015?e=1657756800&v=beta&t=zhHG5k8l0BcyeRNWahAafSlQSbuhe9J7j-GVZEYCJnw",
+        "img_400_400": "400_400/0/1624946967015?e=1657756800&v=beta&t=cYRlhxfZibMhszr8aeZzGpcsnlBOb8uT67hs3to8EFA",
+        "img_800_800": "800_800/0/1624946967015?e=1657756800&v=beta&t=reSo7OBKw-CnI35aGkit7sbeGAtk9DaFdgcFqbnGGzM",
+        "profile_id": "ACoAACZeosgBi7CGRUh2YHtnHt2AzSAV5SyB4iE",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAACZeosgBi7CGRUh2YHtnHt2AzSAV5SyB4iE",
+        "member_urn": "urn:li:member:643736264",
+        "experience": [
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAACZeosgBi7CGRUh2YHtnHt2AzSAV5SyB4iE,1801234502)",
+                "companyName": "Microsoft",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 6,
+                        "year": 2021
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Computer Software"
+                    ]
+                },
+                "title": "Software Engineer",
+                "companyUrn": "urn:li:fs_miniCompany:1035",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C560BAQE88xCsONDULQ/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAACZeosgBi7CGRUh2YHtnHt2AzSAV5SyB4iE,503315307)",
+                "school": {
+                    "objectUrn": "urn:li:school:13574",
+                    "entityUrn": "urn:li:fs_miniSchool:13574",
+                    "active": true,
+                    "schoolName": "National Institute of Technology Kurukshetra",
+                    "trackingId": "2aF+wXNlQ4GHSLYfVI5pzg==",
+                    "logoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQF-TwKGUdiOag/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "year": 2017
+                    }
+                },
+                "degreeName": "Bachelor of Technology",
+                "schoolName": "National Institute of Technology Kurukshetra",
+                "fieldOfStudy": "cs",
+                "degreeUrn": "urn:li:fs_degree:250",
+                "schoolUrn": "urn:li:fs_miniSchool:13574"
+            }
+        ],
+        "languages": [],
+        "publications": [],
+        "certifications": [],
+        "volunteer": [],
+        "honors": [],
+        "projects": []
+    },
+    "contact_info": {
+        "email_address": null,
+        "websites": [],
+        "twitter": [],
+        "birthdate": null,
+        "ims": null,
+        "phone_numbers": []
+    },
+    "connections": [
+        {
+            "urn_id": "ACoAADZ9mPoBBWha8sl8ryS_FeGMwpi6kGUzbzk",
+            "distance": "DISTANCE_1",
+            "public_id": "raj-prasad-4a21b7216",
+            "tracking_id": "914200826"
+        }
+    ],
+    "skills": []
+}

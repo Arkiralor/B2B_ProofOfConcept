@@ -1,0 +1,2038 @@
+{
+    "staffingCompany": false,
+    "companyIndustries": [
+        {
+            "localizedName": "Computer Software",
+            "entityUrn": "urn:li:fs_industry:4"
+        }
+    ],
+    "callToAction": {
+        "callToActionType": "LEARN_MORE",
+        "visible": true,
+        "callToActionMessage": {
+            "textDirection": "USER_LOCALE",
+            "text": "Learn more"
+        },
+        "url": "http://news.microsoft.com/"
+    },
+    "staffCount": 226690,
+    "adsRule": "REDUCED",
+    "companyEmployeesSearchPageUrl": "https://www.linkedin.com/vsearch/p?f_CC=1035",
+    "viewerFollowingJobsUpdates": false,
+    "staffCountRange": {
+        "start": 10001
+    },
+    "permissions": {
+        "landingPageAdmin": false,
+        "admin": false,
+        "adAccountHolder": false
+    },
+    "logo": {
+        "image": {
+            "com.linkedin.common.VectorImage": {
+                "artifacts": [
+                    {
+                        "width": 200,
+                        "fileIdentifyingUrlPathSegment": "200_200/0/1618231291419?e=1660780800&v=beta&t=4ZIOm9ehuT_DOyq44KKJz51Jjh1z0-zZSntgSS5gVvc",
+                        "expiresAt": 1660780800000,
+                        "height": 200
+                    },
+                    {
+                        "width": 100,
+                        "fileIdentifyingUrlPathSegment": "100_100/0/1618231291419?e=1660780800&v=beta&t=HH3CCS8kb8Ccq2lh3RCHTQ0nh070nf0L0yqRWSWVtm4",
+                        "expiresAt": 1660780800000,
+                        "height": 100
+                    },
+                    {
+                        "width": 400,
+                        "fileIdentifyingUrlPathSegment": "400_400/0/1618231291419?e=1660780800&v=beta&t=MLCLA7EabafvJO_aMRYSdoA9XYZ4avzdUp8_nvE1Ois",
+                        "expiresAt": 1660780800000,
+                        "height": 400
+                    }
+                ],
+                "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQE88xCsONDULQ/company-logo_"
+            }
+        },
+        "type": "SQUARE_LOGO"
+    },
+    "claimable": false,
+    "affiliatedCompaniesResolutionResults": {
+        "urn:li:fs_normalized_company:18612750": {
+            "followingInfo": {
+                "entityUrn": "urn:li:fs_followingInfo:urn:li:company:18612750",
+                "dashFollowingStateUrn": "urn:li:fsd_followingState:urn:li:fsd_company:18612750",
+                "following": false,
+                "followingType": "DEFAULT",
+                "followerCount": 30546
+            },
+            "description": "M12, Microsoft\u2019s venture fund, invests in early-stage enterprise software companies with a focus on applied AI, business applications, infrastructure, security, and vanguard technologies. Since 2016, M12 has invested in over 100 companies, helping startups accelerate growth with unparalleled access to Microsoft. With offices in San Francisco, Seattle, London, Tel Aviv, and Bengaluru, M12 has the team and resources to support entrepreneurs globally. M12 is a return-driven fund investing independently of Microsoft's business units and technology offerings.",
+            "companyIndustries": [
+                {
+                    "localizedName": "Venture Capital & Private Equity",
+                    "entityUrn": "urn:li:fs_industry:106"
+                }
+            ],
+            "url": "https://www.linkedin.com/company/m12vc",
+            "entityUrn": "urn:li:fs_normalized_company:18612750",
+            "name": "M12 - Microsoft's Venture Fund",
+            "logo": {
+                "image": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1619208193585?e=1660780800&v=beta&t=w1zinLSeremG0hic532DzsQstLU537YHO64ZWCZJG84",
+                                "expiresAt": 1660780800000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1619208193585?e=1660780800&v=beta&t=OtZ_qX2f73qIDkTrO3HNOxnDcIzizE6FwXfILdMcCAI",
+                                "expiresAt": 1660780800000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1619208193585?e=1660780800&v=beta&t=BssiG4amBYDtjSOcCOXPQBvw4DoWBhqtSZi3cSCRnoI",
+                                "expiresAt": 1660780800000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQEuHd59KZHNaQ/company-logo_"
+                    }
+                },
+                "type": "SQUARE_LOGO"
+            },
+            "paidCompany": false,
+            "showcase": false,
+            "$recipeType": "com.linkedin.voyager.deco.organization.web.WebCompanyCard",
+            "universalName": "m12vc"
+        },
+        "urn:li:fs_normalized_company:10957831": {
+            "followingInfo": {
+                "entityUrn": "urn:li:fs_followingInfo:urn:li:company:10957831",
+                "dashFollowingStateUrn": "urn:li:fsd_followingState:urn:li:fsd_company:10957831",
+                "following": false,
+                "followingType": "DEFAULT",
+                "followerCount": 18299
+            },
+            "description": "Explore the messy middle of learning, discover new passions and hobbies, and connect with people who share your interests. \n\nJoin an amazing community of millions around the world who are making learning more fun, fulfilling, and empowering, or start your own community today! ",
+            "companyIndustries": [
+                {
+                    "localizedName": "E-learning",
+                    "entityUrn": "urn:li:fs_industry:132"
+                }
+            ],
+            "url": "https://www.linkedin.com/company/flipgrid",
+            "entityUrn": "urn:li:fs_normalized_company:10957831",
+            "name": "Flipgrid",
+            "logo": {
+                "image": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1594743126563?e=1660780800&v=beta&t=Kwv755XJNphGg75Cc6j4FUyKJjlY8tlKyxnxg7S22wM",
+                                "expiresAt": 1660780800000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1594743126563?e=1660780800&v=beta&t=sqN-XRpPrCFMPBNU2fT00y8mrxC3KFBsr3bkWZKSjyM",
+                                "expiresAt": 1660780800000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1594743126563?e=1660780800&v=beta&t=3NhFWUKTt7Myun56klEEN4VdlNBJKW4N054jAzkSiRk",
+                                "expiresAt": 1660780800000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQEDy1ftx1fxmA/company-logo_"
+                    }
+                },
+                "type": "SQUARE_LOGO"
+            },
+            "paidCompany": false,
+            "showcase": false,
+            "$recipeType": "com.linkedin.voyager.deco.organization.web.WebCompanyCard",
+            "universalName": "flipgrid"
+        },
+        "urn:li:fs_normalized_company:164951": {
+            "followingInfo": {
+                "entityUrn": "urn:li:fs_followingInfo:urn:li:company:164951",
+                "dashFollowingStateUrn": "urn:li:fsd_followingState:urn:li:fsd_company:164951",
+                "following": false,
+                "followingType": "DEFAULT",
+                "followerCount": 21618
+            },
+            "description": "Metaswitch is a recognized leader in the development of ultra-high-performance, cloud native communications software.  Metaswitch products are designed to run on the customer premises, or in private, public and hybrid clouds.  Our award-winning solutions power more than 750 fixed, mobile and converged service providers worldwide.\n\nMetaswitch is a Microsoft company. \n\nFor more information, please visit: http//www.metaswitch.com  ",
+            "companyIndustries": [
+                {
+                    "localizedName": "Telecommunications",
+                    "entityUrn": "urn:li:fs_industry:8"
+                }
+            ],
+            "url": "https://www.linkedin.com/company/metaswitch-networks",
+            "entityUrn": "urn:li:fs_normalized_company:164951",
+            "name": "Metaswitch Networks",
+            "logo": {
+                "image": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1519870948625?e=1660780800&v=beta&t=ExXhWFk3TlbXiaWz5A_QJbTCQyn3AotjxRYiwJggduQ",
+                                "expiresAt": 1660780800000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1519870948625?e=1660780800&v=beta&t=-VWzmD2Evu8x2WuNFG1Lq1GDUsSXuraoRc_tDwB2ajU",
+                                "expiresAt": 1660780800000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1519870948625?e=1660780800&v=beta&t=_M-DXATa5elkDXg1SVO4idP6uvzcDHBzQZrkTWL2dnk",
+                                "expiresAt": 1660780800000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQHXl6SOA3aGDw/company-logo_"
+                    }
+                },
+                "type": "SQUARE_LOGO"
+            },
+            "paidCompany": false,
+            "showcase": false,
+            "$recipeType": "com.linkedin.voyager.deco.organization.web.WebCompanyCard",
+            "universalName": "metaswitch-networks"
+        },
+        "urn:li:fs_normalized_company:1418841": {
+            "followingInfo": {
+                "entityUrn": "urn:li:fs_followingInfo:urn:li:company:1418841",
+                "dashFollowingStateUrn": "urn:li:fsd_followingState:urn:li:fsd_company:1418841",
+                "following": false,
+                "followingType": "DEFAULT",
+                "followerCount": 2512714
+            },
+            "description": "GitHub is the best place to share code with friends, co-workers, classmates, and complete strangers. Over 73 million people use GitHub to build amazing things together across 200+ million repositories. With all the collaborative features of GitHub, it has never been easier for individuals and teams to write faster, better code.\n",
+            "companyIndustries": [
+                {
+                    "localizedName": "Computer Software",
+                    "entityUrn": "urn:li:fs_industry:4"
+                }
+            ],
+            "url": "https://www.linkedin.com/company/github",
+            "entityUrn": "urn:li:fs_normalized_company:1418841",
+            "name": "GitHub",
+            "logo": {
+                "image": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1626195279622?e=1660780800&v=beta&t=i6CVaQLQ_wUDk7rWivx82yLxp7mKrGjbR_vI0awnruM",
+                                "expiresAt": 1660780800000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1626195279622?e=1660780800&v=beta&t=jXTw3h1cKE9AV4Qd_JZ5TAgWn7p3Lh6XSRni6oLh7Cs",
+                                "expiresAt": 1660780800000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1626195279622?e=1660780800&v=beta&t=oShNcTgBBMqcxw38FHD3C31CaXjlIMK61W5RltjPa0U",
+                                "expiresAt": 1660780800000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQFY3BGhoMwEEA/company-logo_"
+                    }
+                },
+                "type": "SQUARE_LOGO"
+            },
+            "paidCompany": true,
+            "showcase": false,
+            "$recipeType": "com.linkedin.voyager.deco.organization.web.WebCompanyCard",
+            "universalName": "github"
+        },
+        "urn:li:fs_normalized_company:19053704": {
+            "followingInfo": {
+                "entityUrn": "urn:li:fs_followingInfo:urn:li:company:19053704",
+                "dashFollowingStateUrn": "urn:li:fsd_followingState:urn:li:fsd_company:19053704",
+                "following": false,
+                "followingType": "DEFAULT",
+                "followerCount": 7746
+            },
+            "description": "As the complexity of video games has perpetually grown, the Studios Quality team has continued to evolve our approach to testing them. \n\nIn early 2017, we made the shift to a Quality team to deliver a greater impact on games that were becoming more service-centric. This strategic shift was centered around leveraging telemetry to validate feature health, drive test coverage, and increase confidence in our release readiness assessments. \n\nToday we continue to invest in emerging technologies that decrease the time required to reach test coverage targets and increase resource efficiency across our entire portfolio. \n\n",
+            "companyIndustries": [
+                {
+                    "localizedName": "Computer Games",
+                    "entityUrn": "urn:li:fs_industry:109"
+                }
+            ],
+            "url": "https://www.linkedin.com/company/studios-quality",
+            "entityUrn": "urn:li:fs_normalized_company:19053704",
+            "name": "Studios Quality - Xbox Game Studios",
+            "logo": {
+                "image": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1646353493157?e=1660780800&v=beta&t=8bCBPYRb21hx58q7E7eUCVGKGYEwNEtN64BAbrbna3s",
+                                "expiresAt": 1660780800000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1646353493157?e=1660780800&v=beta&t=Eydvcyy-tvKVnlb0I12V5mZlHr8Zd1DkxspWcRcwenQ",
+                                "expiresAt": 1660780800000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1646353493157?e=1660780800&v=beta&t=v1aHszIgd5vpmssl64bHJNzwBKiFEnM7MAVBz1Y5aE8",
+                                "expiresAt": 1660780800000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQH44KKoOXzI-A/company-logo_"
+                    }
+                },
+                "type": "SQUARE_LOGO"
+            },
+            "paidCompany": false,
+            "showcase": false,
+            "$recipeType": "com.linkedin.voyager.deco.organization.web.WebCompanyCard",
+            "universalName": "studios-quality"
+        }
+    },
+    "specialities": [
+        "Business Software",
+        "Developer Tools",
+        "Home & Educational Software",
+        "Tablets",
+        "Search",
+        "Advertising",
+        "Servers",
+        "Windows Operating System",
+        "Windows Applications & Platforms",
+        "Smartphones",
+        "Cloud Computing",
+        "Quantum Computing",
+        "Future of Work",
+        "Productivity",
+        "AI",
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Laptops",
+        "Mixed Reality",
+        "Virtual Reality",
+        "Gaming",
+        "Developers",
+        "IT Professional"
+    ],
+    "confirmedLocations": [
+        {
+            "country": "US",
+            "geographicArea": "Washington",
+            "city": "Redmond",
+            "postalCode": "98052",
+            "streetAddressOptOut": false,
+            "headquarter": true,
+            "line1": "1 Microsoft Way"
+        },
+        {
+            "country": "AU",
+            "geographicArea": "NSW",
+            "city": "North Sydney",
+            "postalCode": "2060",
+            "streetAddressOptOut": false,
+            "headquarter": false,
+            "line1": "1 Denison Street "
+        },
+        {
+            "country": "CA",
+            "geographicArea": "Ontario",
+            "city": "Mississauga",
+            "postalCode": "L5N 8L9",
+            "streetAddressOptOut": false,
+            "headquarter": false,
+            "line1": "1950 Meadowvale Blvd"
+        },
+        {
+            "country": "FR",
+            "geographicArea": "\u00cele-de-France",
+            "city": "Issy-les-Moulineaux",
+            "postalCode": "92130",
+            "streetAddressOptOut": false,
+            "headquarter": false,
+            "line1": "39, Quai du Pr\u00e9sident Roosevelt"
+        },
+        {
+            "streetAddressOptOut": false,
+            "country": "DE",
+            "city": "M\u00fcnchen",
+            "headquarter": false,
+            "postalCode": "80807",
+            "line1": "Walter-Gropius-Stra\u00dfe 5"
+        },
+        {
+            "country": "JP",
+            "geographicArea": "Tokyo",
+            "city": "Minato-ku",
+            "postalCode": "108-0075",
+            "streetAddressOptOut": false,
+            "headquarter": false,
+            "line1": "2-16-3 Konan"
+        },
+        {
+            "country": "GB",
+            "geographicArea": "Berkshire",
+            "city": "Reading",
+            "postalCode": "RG6 1WG",
+            "streetAddressOptOut": false,
+            "headquarter": false,
+            "line1": "Thames Valley Park Drive"
+        },
+        {
+            "streetAddressOptOut": false,
+            "country": "DK",
+            "city": "2800 Kongens Lyngby",
+            "headquarter": false,
+            "line1": "Kanalvej 7"
+        },
+        {
+            "country": "BE",
+            "geographicArea": "Flemish Region",
+            "city": "Zaventem",
+            "postalCode": "1930",
+            "streetAddressOptOut": false,
+            "headquarter": false,
+            "line1": "Luchthavenlaan 1k"
+        },
+        {
+            "streetAddressOptOut": false,
+            "country": "FI",
+            "city": "Espoo",
+            "headquarter": false,
+            "postalCode": "02150",
+            "line1": "Keilalahdentie 2-4"
+        },
+        {
+            "country": "IT",
+            "geographicArea": "Lombardy",
+            "city": "Milan",
+            "postalCode": "20154",
+            "streetAddressOptOut": false,
+            "headquarter": false,
+            "line1": "Viale Pasubio, 21"
+        },
+        {
+            "streetAddressOptOut": false,
+            "country": "KR",
+            "geographicArea": "Seoul",
+            "city": "Jongno-gu",
+            "headquarter": false,
+            "line1": "50, Jongro 1-gil"
+        },
+        {
+            "country": "NL",
+            "geographicArea": "North Holland",
+            "city": "Schiphol",
+            "postalCode": "1118 CZ",
+            "streetAddressOptOut": false,
+            "headquarter": false,
+            "line1": "Evert van de Beekstraat 354"
+        },
+        {
+            "streetAddressOptOut": false,
+            "country": "NO",
+            "city": "Oslo",
+            "headquarter": false,
+            "postalCode": "0194",
+            "line1": "Dronning Eufemia gate 71"
+        },
+        {
+            "country": "ES",
+            "city": "Pozuelo de Alarc\u00f3n",
+            "postalCode": "28223",
+            "streetAddressOptOut": false,
+            "headquarter": false,
+            "line2": "Centro Empresarial La Finca - Edificio 1",
+            "line1": "Paseo del Club Deportivo, 1"
+        },
+        {
+            "streetAddressOptOut": false,
+            "country": "SE",
+            "city": "Stockholm",
+            "headquarter": false,
+            "postalCode": "111 53",
+            "line1": "Regeringsgatan 25"
+        },
+        {
+            "streetAddressOptOut": false,
+            "country": "CH",
+            "city": "Z\u00fcrich",
+            "headquarter": false,
+            "line2": "The Circle 02",
+            "line1": "8058 Z\u00fcrich-Flughafen"
+        },
+        {
+            "streetAddressOptOut": false,
+            "country": "BR",
+            "city": "Sao Paulo",
+            "headquarter": false,
+            "postalCode": "04551-065",
+            "line1": "Av. President Juscelino Kubitscheck, 1909"
+        },
+        {
+            "streetAddressOptOut": false,
+            "country": "CN",
+            "city": "\u4e2d\u56fd",
+            "headquarter": false,
+            "postalCode": "100080",
+            "line1": "\u6d77\u6dc0\u533a\uff0c\u4e39\u68f1\u88575\u53f7"
+        },
+        {
+            "streetAddressOptOut": false,
+            "country": "IN",
+            "city": "Gurgaon",
+            "headquarter": false,
+            "postalCode": "122002",
+            "line1": "DLF Building No.5 (Epitome), Cyber City, DLF Phase III"
+        },
+        {
+            "country": "MX",
+            "city": "Del \u00c1lvaro Obreg\u00f3n",
+            "postalCode": "01210",
+            "streetAddressOptOut": false,
+            "headquarter": false,
+            "line2": "Col. Centro de Ciudad Santa Fe",
+            "line1": "Av. Vasco de Quiroga 3200"
+        },
+        {
+            "streetAddressOptOut": false,
+            "country": "RU",
+            "city": "\u041c\u043e\u0441\u043a\u0432\u0430",
+            "headquarter": false,
+            "postalCode": "121614",
+            "line1": "\u0423\u043b. \u041a\u0440\u044b\u043b\u0430\u0442\u0441\u043a\u0430\u044f, 17"
+        },
+        {
+            "country": "ZA",
+            "geographicArea": "Gauteng",
+            "city": "Johannesburg",
+            "postalCode": "2191",
+            "streetAddressOptOut": false,
+            "headquarter": false,
+            "line1": "3012 William Nicol Drive"
+        },
+        {
+            "country": "TR",
+            "city": "\u0130stanbul",
+            "postalCode": "34340",
+            "streetAddressOptOut": false,
+            "headquarter": false,
+            "line2": "Bellevue Residences, Levent Mahallesi",
+            "line1": "Ayd\u0131n Sokak No:7"
+        },
+        {
+            "streetAddressOptOut": false,
+            "country": "AT",
+            "city": "Vienna",
+            "headquarter": false,
+            "postalCode": "1120",
+            "line1": "Am Europlatz 3"
+        },
+        {
+            "streetAddressOptOut": false,
+            "country": "HK",
+            "city": "Hong Kong",
+            "headquarter": false,
+            "line2": "15/F, Cyberport 2",
+            "line1": "100 Cyberport Road"
+        },
+        {
+            "country": "IE",
+            "geographicArea": "Dublin",
+            "city": "Leopardstown",
+            "postalCode": "18 D18",
+            "streetAddressOptOut": false,
+            "headquarter": false,
+            "line2": "South County Business Park",
+            "line1": "One Microsoft Place"
+        },
+        {
+            "streetAddressOptOut": false,
+            "country": "IL",
+            "city": "\u05e8\u05e2\u05e0\u05e0\u05d4",
+            "headquarter": false,
+            "postalCode": "43107",
+            "line1": "\u05e8\u05d7\u05d5\u05d1 \u05d4\u05e4\u05e0\u05d9\u05e0\u05d4 2"
+        },
+        {
+            "streetAddressOptOut": false,
+            "country": "NZ",
+            "city": "Auckland",
+            "headquarter": false,
+            "line1": "22 Viaduct Harbour Avenue"
+        },
+        {
+            "streetAddressOptOut": false,
+            "country": "PL",
+            "city": "Warszawa",
+            "headquarter": false,
+            "postalCode": "02-222",
+            "line1": "Al. Jerozolimskie 195a"
+        },
+        {
+            "streetAddressOptOut": false,
+            "country": "PT",
+            "city": "Lisboa",
+            "headquarter": false,
+            "postalCode": "1990 \u2013 110",
+            "line1": "Rua do Fogo de Santelmo, Lote 2.07.02"
+        },
+        {
+            "streetAddressOptOut": false,
+            "country": "SA",
+            "city": "Riyadh",
+            "headquarter": false,
+            "postalCode": "11552",
+            "line1": "The Business Gate, Building A2 Airport Road, Cordobah"
+        },
+        {
+            "country": "SG",
+            "city": "Singapore",
+            "postalCode": "069547",
+            "streetAddressOptOut": false,
+            "headquarter": false,
+            "line2": "#13-01 Frasers Tower",
+            "line1": "182 Cecil Street"
+        },
+        {
+            "country": "SK",
+            "city": "Bratislava",
+            "postalCode": "821 08",
+            "streetAddressOptOut": false,
+            "headquarter": false,
+            "line2": "Sv\u00e4toplukova 2A",
+            "line1": "Pradiare\u0148 1900"
+        },
+        {
+            "streetAddressOptOut": false,
+            "country": "TW",
+            "geographicArea": "Taipei City",
+            "city": "Xinyi District",
+            "headquarter": false,
+            "line1": "Zhongxiao East Road Section 5 No. 68"
+        },
+        {
+            "country": "AE",
+            "city": "Dubai",
+            "postalCode": "52244",
+            "streetAddressOptOut": false,
+            "headquarter": false,
+            "line2": "Dubai Internet City, Building No 8",
+            "line1": "Sheikh Zayed Road"
+        },
+        {
+            "streetAddressOptOut": false,
+            "country": "AR",
+            "city": "Buenos Aires",
+            "headquarter": false,
+            "line2": "Bouchard 710",
+            "line1": "1106 Federal Capital"
+        },
+        {
+            "streetAddressOptOut": false,
+            "country": "CL",
+            "city": "Santiago",
+            "headquarter": false,
+            "line1": "Av. Vitacura 6844"
+        },
+        {
+            "streetAddressOptOut": false,
+            "country": "CO",
+            "city": "Bogota",
+            "headquarter": false,
+            "line1": "Calle 92 # 11 \u2013 51"
+        },
+        {
+            "streetAddressOptOut": false,
+            "country": "EG",
+            "city": "Cairo",
+            "headquarter": false,
+            "line2": "Abou Rawash",
+            "line1": "Kilo 28, Cairo/Alex Desert Road"
+        },
+        {
+            "country": "ID",
+            "city": "Jakarta",
+            "postalCode": "12190",
+            "streetAddressOptOut": false,
+            "headquarter": false,
+            "line2": "Jakarta Stock Exchange Building Tower II",
+            "line1": "Jl. Jend. Sudirman Kav. 52-53"
+        },
+        {
+            "country": "MY",
+            "city": "Kuala Lumpur",
+            "postalCode": "50470",
+            "streetAddressOptOut": false,
+            "headquarter": false,
+            "line2": "Menara Shell",
+            "line1": "No. 211, Jalan Tun Sambanthan"
+        },
+        {
+            "country": "PH",
+            "city": "Makati City",
+            "postalCode": "1223",
+            "streetAddressOptOut": false,
+            "headquarter": false,
+            "line2": "11F, One Ayala East Tower ",
+            "line1": "Ayala Avenue cor Edsa, Brgy. San Lorenzo,"
+        },
+        {
+            "country": "RO",
+            "city": "Bucure\u0219ti",
+            "postalCode": "061103",
+            "streetAddressOptOut": false,
+            "headquarter": false,
+            "line2": "Cl\u0103direa Campus 6.2",
+            "line1": "Bulevardul Iuliu Maniu nr. 6P"
+        },
+        {
+            "country": "TH",
+            "city": "\u0e40\u0e02\u0e15\u0e1b\u0e17\u0e38\u0e21\u0e27\u0e31\u0e19 \u0e01\u0e23\u0e38\u0e07\u0e40\u0e17\u0e1e\u0e2f",
+            "postalCode": "10330",
+            "streetAddressOptOut": false,
+            "headquarter": false,
+            "line2": "\u0e15\u0e36\u0e01 CRC Tower \u0e2d\u0e2d\u0e25\u0e0b\u0e35\u0e0b\u0e31\u0e19\u0e2a\u0e4c\u0e40\u0e1e\u0e25\u0e2a",
+            "line1": "87/2 \u0e16\u0e19\u0e19\u0e27\u0e34\u0e17\u0e22\u0e38 \u0e41\u0e02\u0e27\u0e07\u0e25\u0e38\u0e21\u0e1e\u0e34\u0e19\u0e35"
+        }
+    ],
+    "followingInfo": {
+        "entityUrn": "urn:li:fs_followingInfo:urn:li:company:1035",
+        "dashFollowingStateUrn": "urn:li:fsd_followingState:urn:li:fsd_company:1035",
+        "following": false,
+        "followingType": "DEFAULT",
+        "followerCount": 16874298
+    },
+    "viewerEmployee": false,
+    "affiliatedCompaniesWithEmployeesRollup": [
+        "urn:li:fs_normalized_company:10073178",
+        "urn:li:fs_normalized_company:589037",
+        "urn:li:fs_normalized_company:3238203",
+        "urn:li:fs_normalized_company:3178875",
+        "urn:li:fs_normalized_company:1418841",
+        "urn:li:fs_normalized_company:692068",
+        "urn:li:fs_normalized_company:19537",
+        "urn:li:fs_normalized_company:3290211",
+        "urn:li:fs_normalized_company:2270931",
+        "urn:li:fs_normalized_company:3763403",
+        "urn:li:fs_normalized_company:18612750",
+        "urn:li:fs_normalized_company:11206713",
+        "urn:li:fs_normalized_company:1148098",
+        "urn:li:fs_normalized_company:1889423",
+        "urn:li:fs_normalized_company:164951",
+        "urn:li:fs_normalized_company:3641570",
+        "urn:li:fs_normalized_company:165397",
+        "urn:li:fs_normalized_company:1638785",
+        "urn:li:fs_normalized_company:5097047",
+        "urn:li:fs_normalized_company:30203",
+        "urn:li:fs_normalized_company:2446424",
+        "urn:li:fs_normalized_company:18086638",
+        "urn:li:fs_normalized_company:1386954",
+        "urn:li:fs_normalized_company:263515"
+    ],
+    "lcpTreatment": true,
+    "affiliatedCompaniesWithJobsRollup": [
+        "urn:li:fs_normalized_company:10073178",
+        "urn:li:fs_normalized_company:589037",
+        "urn:li:fs_normalized_company:19053704",
+        "urn:li:fs_normalized_company:3238203",
+        "urn:li:fs_normalized_company:3178875",
+        "urn:li:fs_normalized_company:1418841",
+        "urn:li:fs_normalized_company:692068",
+        "urn:li:fs_normalized_company:19537",
+        "urn:li:fs_normalized_company:3290211",
+        "urn:li:fs_normalized_company:2270931",
+        "urn:li:fs_normalized_company:3763403",
+        "urn:li:fs_normalized_company:11206713",
+        "urn:li:fs_normalized_company:1148098",
+        "urn:li:fs_normalized_company:1889423",
+        "urn:li:fs_normalized_company:164951",
+        "urn:li:fs_normalized_company:3641570",
+        "urn:li:fs_normalized_company:165397",
+        "urn:li:fs_normalized_company:1638785",
+        "urn:li:fs_normalized_company:5097047",
+        "urn:li:fs_normalized_company:30203",
+        "urn:li:fs_normalized_company:2446424",
+        "urn:li:fs_normalized_company:18086638",
+        "urn:li:fs_normalized_company:1386954",
+        "urn:li:fs_normalized_company:263515"
+    ],
+    "associatedHashtagsResolutionResults": {
+        "urn:li:fs_contentTopicData:urn:li:hashtag:microsoft": {
+            "feedTopic": {
+                "topic": {
+                    "trending": false,
+                    "name": "#microsoft",
+                    "useCase": "HASHTAG_FEED",
+                    "recommendationTrackingId": "\u00f5\u001fM\u0092\u00c90@\u0097\u00a0n\u00b8\u00f8\b9\u00b8\u00f1",
+                    "backendUrn": "urn:li:hashtag:microsoft"
+                },
+                "tracking": {
+                    "trackingId": "9R9NkskwQJegbrj4CDm48Q=="
+                },
+                "entityUrn": "urn:li:fs_feedTopic:(urn:li:hashtag:microsoft,HASHTAG_FEED)"
+            },
+            "$recipeType": "com.linkedin.voyager.deco.organization.web.WebContentTopicDataCard",
+            "entityUrn": "urn:li:fs_contentTopicData:urn:li:hashtag:microsoft",
+            "followAction": {
+                "followingInfo": {
+                    "followingType": "DEFAULT",
+                    "entityUrn": "urn:li:fs_followingInfo:urn:li:hashtag:microsoft",
+                    "followerCount": 247463,
+                    "dashFollowingStateUrn": "urn:li:fsd_followingState:urn:li:fsd_hashtag:microsoft",
+                    "following": false,
+                    "trackingUrn": "urn:li:hashtag:microsoft"
+                },
+                "unfollowTrackingActionType": "unfollowTopic",
+                "followTrackingActionType": "followTopic",
+                "type": "FOLLOW_TOGGLE",
+                "trackingActionType": "followTopic"
+            }
+        },
+        "urn:li:fs_contentTopicData:urn:li:hashtag:microsoftlife": {
+            "feedTopic": {
+                "topic": {
+                    "trending": false,
+                    "name": "#microsoftlife",
+                    "useCase": "HASHTAG_FEED",
+                    "recommendationTrackingId": "\u00f5\u00bc\u00ae\u009a\u00ed\u00cbJ\u0092\u009c\u00d6Z\u00d0\u00ffW\u001b\u0086",
+                    "backendUrn": "urn:li:hashtag:microsoftlife"
+                },
+                "tracking": {
+                    "trackingId": "9byumu3LSpKc1lrQ/1cbhg=="
+                },
+                "entityUrn": "urn:li:fs_feedTopic:(urn:li:hashtag:microsoftlife,HASHTAG_FEED)"
+            },
+            "$recipeType": "com.linkedin.voyager.deco.organization.web.WebContentTopicDataCard",
+            "entityUrn": "urn:li:fs_contentTopicData:urn:li:hashtag:microsoftlife",
+            "followAction": {
+                "followingInfo": {
+                    "followingType": "DEFAULT",
+                    "entityUrn": "urn:li:fs_followingInfo:urn:li:hashtag:microsoftlife",
+                    "followerCount": 10218,
+                    "dashFollowingStateUrn": "urn:li:fsd_followingState:urn:li:fsd_hashtag:microsoftlife",
+                    "following": false,
+                    "trackingUrn": "urn:li:hashtag:microsoftlife"
+                },
+                "unfollowTrackingActionType": "unfollowTopic",
+                "followTrackingActionType": "followTopic",
+                "type": "FOLLOW_TOGGLE",
+                "trackingActionType": "followTopic"
+            }
+        }
+    },
+    "name": "Microsoft",
+    "$recipeType": "com.linkedin.voyager.deco.organization.web.WebFullCompanyMain",
+    "fundingData": {
+        "fundingRoundListCrunchbaseUrl": "https://www.crunchbase.com/organization/microsoft/funding_rounds/funding_rounds_list?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=all_fundings",
+        "lastFundingRound": {
+            "investorsCrunchbaseUrl": "https://www.crunchbase.com/funding_round/microsoft-series-unknown--21659f1f?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=all_investors",
+            "leadInvestors": [
+                {
+                    "name": {
+                        "text": "Technology Venture Investors"
+                    },
+                    "investorCrunchbaseUrl": "https://www.crunchbase.com/organization/technology-venture-investors-2?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=investor",
+                    "image": {
+                        "attributes": [
+                            {
+                                "sourceType": "URL",
+                                "imageUrl": "https://media-exp1.licdn.com/dms/image/sync/C5638AQH9g0vhVD88RA/crunchbase_investor_logo_100/0/1652314239855?e=1653044400&v=beta&t=seTrX_HKiZQYLqafhoQu4RDCZFaoSbFPyoF9S7aUJcU"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "fundingRoundCrunchbaseUrl": "https://www.crunchbase.com/funding_round/microsoft-series-unknown--21659f1f?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=last_funding",
+            "fundingType": "SERIES_UNKNOWN",
+            "moneyRaised": {
+                "currencyCode": "USD",
+                "amount": "1000000"
+            },
+            "numOtherInvestors": 0,
+            "announcedOn": {
+                "month": 9,
+                "day": 1,
+                "year": 1981
+            }
+        },
+        "companyCrunchbaseUrl": "https://www.crunchbase.com/organization/microsoft?utm_source=linkedin&utm_medium=referral&utm_campaign=linkedin_companies&utm_content=profile_cta",
+        "numFundingRounds": 1,
+        "updatedAt": 1625867202
+    },
+    "overviewPhoto": {
+        "com.linkedin.common.VectorImage": {
+            "artifacts": [
+                {
+                    "width": 900,
+                    "fileIdentifyingUrlPathSegment": "https://media-exp1.licdn.com/dms/image/C4D1CAQHSn_eu3BQajg/company-overview_900_300/0/1519842361265?e=1653044400&v=beta&t=saNaCDHYSPMeIcWAMz6nMqSG91wemc66UVQ3VWBycps",
+                    "expiresAt": 1653044400000,
+                    "height": 300
+                }
+            ],
+            "rootUrl": ""
+        }
+    },
+    "description": "Every company has a mission. What's ours? To empower every person and every organization to achieve more. We believe technology can and should be a force for good and that meaningful innovation contributes to a brighter world in the future and today. Our culture doesn\u2019t just encourage curiosity; it embraces it. Each day we make progress together by showing up as our authentic selves. We show up with a learn-it-all mentality. We show up cheering on others, knowing their success doesn't diminish our own. We show up every day open to learning our own biases, changing our behavior, and inviting in differences. When we show up, we achieve more together. \n\nMicrosoft operates in 190 countries and is made up of 181,000 passionate employees worldwide.",
+    "entityUrn": "urn:li:fs_normalized_company:1035",
+    "headquarter": {
+        "country": "US",
+        "geographicArea": "Washington",
+        "city": "Redmond",
+        "postalCode": "98052",
+        "line1": "1 Microsoft Way"
+    },
+    "showcasePagesResolutionResults": {
+        "urn:li:fs_normalized_company:10065572": {
+            "followingInfo": {
+                "entityUrn": "urn:li:fs_followingInfo:urn:li:company:10065572",
+                "dashFollowingStateUrn": "urn:li:fsd_followingState:urn:li:fsd_company:10065572",
+                "following": false,
+                "followingType": "DEFAULT",
+                "followerCount": 37682
+            },
+            "description": "At Microsoft and with our health industry partners, we strive to achieve the goal of better health globally; offering people-first solutions to empower organizations, patients, and care providers.  Using Microsoft platforms and technologies, Microsoft for Healthcare products range from Patient Engagement solutions which offer new ways for caregivers to connect with patients to Operational Analytics which utilize data improve the delivery of care provided by your organization. Learn more about our trusted cloud solutions that help ensure your healthcare organization\u2019s data is managed, protected, and kept private.",
+            "companyIndustries": [
+                {
+                    "localizedName": "Computer Software",
+                    "entityUrn": "urn:li:fs_industry:4"
+                }
+            ],
+            "url": "https://www.linkedin.com/showcase/microsoft-health",
+            "entityUrn": "urn:li:fs_normalized_company:10065572",
+            "name": "Microsoft for Healthcare",
+            "logo": {
+                "image": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1611876579807?e=1660780800&v=beta&t=myDDa0_hZgcG_A5IvDFnWmoKdSSMniUIyQ82mF9Gh-I",
+                                "expiresAt": 1660780800000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1611876579807?e=1660780800&v=beta&t=pr_-z2tBdwqKeUpQbXwj0tmaKaIma6J9ElVoHXHTiBU",
+                                "expiresAt": 1660780800000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1611876579807?e=1660780800&v=beta&t=fsjzyZRs5FoAbzmwliwh0iA-KEmvKuLRGZ0EHCZfoYY",
+                                "expiresAt": 1660780800000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQE3F1kFwxSqCg/company-logo_"
+                    }
+                },
+                "type": "SQUARE_LOGO"
+            },
+            "paidCompany": false,
+            "showcase": true,
+            "$recipeType": "com.linkedin.voyager.deco.organization.web.WebCompanyCard",
+            "universalName": "microsoft-health"
+        },
+        "urn:li:fs_normalized_company:3634496": {
+            "followingInfo": {
+                "entityUrn": "urn:li:fs_followingInfo:urn:li:company:3634496",
+                "dashFollowingStateUrn": "urn:li:fsd_followingState:urn:li:fsd_company:3634496",
+                "following": false,
+                "followingType": "DEFAULT",
+                "followerCount": 133845
+            },
+            "description": "The Microsoft Partner Network is a true business partner for our members, providing actionable guidance and resources that leads them to greater success today and valuable future opportunities. Microsoft partner news, information, success stories, and resources empowering your business to do and achieve more. ",
+            "companyIndustries": [
+                {
+                    "localizedName": "Information Technology & Services",
+                    "entityUrn": "urn:li:fs_industry:96"
+                }
+            ],
+            "url": "https://www.linkedin.com/showcase/microsoft-partner-network",
+            "entityUrn": "urn:li:fs_normalized_company:3634496",
+            "name": "Microsoft Partner Network",
+            "logo": {
+                "image": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1542223950704?e=1660780800&v=beta&t=lbMA4pYS2WEyyG1yGU2gSl69E-KMrZ5Htg9AvcLXdTo",
+                                "expiresAt": 1660780800000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1542223950704?e=1660780800&v=beta&t=e54wzTJ4s9LqVCmHkjchW6RQVYOV7mfp7ZzuPNiWLZs",
+                                "expiresAt": 1660780800000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1542223950704?e=1660780800&v=beta&t=Hk9WNrb98gq39rykc_pRHxV1yuh7sZbV-Eoj8jg-5dg",
+                                "expiresAt": 1660780800000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQF-MwAnNIx7lQ/company-logo_"
+                    }
+                },
+                "type": "SQUARE_LOGO"
+            },
+            "paidCompany": false,
+            "showcase": true,
+            "$recipeType": "com.linkedin.voyager.deco.organization.web.WebCompanyCard",
+            "universalName": "microsoft-partner-network"
+        },
+        "urn:li:fs_normalized_company:71326020": {
+            "followingInfo": {
+                "entityUrn": "urn:li:fs_followingInfo:urn:li:company:71326020",
+                "dashFollowingStateUrn": "urn:li:fsd_followingState:urn:li:fsd_company:71326020",
+                "following": false,
+                "followingType": "DEFAULT",
+                "followerCount": 29485
+            },
+            "description": "News and perspectives on the future of tech, public policy and philanthropic topics for #Microsoft. \u27a1\ufe0f https://news.microsoft.com/on-the-issues/",
+            "companyIndustries": [
+                {
+                    "localizedName": "Computer Software",
+                    "entityUrn": "urn:li:fs_industry:4"
+                }
+            ],
+            "url": "https://www.linkedin.com/showcase/microsoft-on-the-issues",
+            "entityUrn": "urn:li:fs_normalized_company:71326020",
+            "name": "Microsoft On the Issues",
+            "logo": {
+                "image": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1610742569405?e=1660780800&v=beta&t=KIjs6IoAuCtFllcZrXAy1ZBaHhu6oUL_ZIUTfZAEbTw",
+                                "expiresAt": 1660780800000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1610742569405?e=1660780800&v=beta&t=jFj_3JKbSJURilKWjUNCOtiseaYgbF0Y5Vh5K243bQY",
+                                "expiresAt": 1660780800000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1610742569405?e=1660780800&v=beta&t=Pw7LJo3SSf18OYK05gFXRU2FivL0tERqmvaLOmAXBT4",
+                                "expiresAt": 1660780800000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQGXFnlAv3dOQQ/company-logo_"
+                    }
+                },
+                "type": "SQUARE_LOGO"
+            },
+            "paidCompany": false,
+            "showcase": true,
+            "$recipeType": "com.linkedin.voyager.deco.organization.web.WebCompanyCard",
+            "universalName": "microsoft-on-the-issues"
+        },
+        "urn:li:fs_normalized_company:3509297": {
+            "followingInfo": {
+                "entityUrn": "urn:li:fs_followingInfo:urn:li:company:3509297",
+                "dashFollowingStateUrn": "urn:li:fsd_followingState:urn:li:fsd_company:3509297",
+                "following": false,
+                "followingType": "DEFAULT",
+                "followerCount": 187988
+            },
+            "description": "Keep up on the latest news and events for Microsoft Dynamics 365, the only portfolio of intelligent business applications that gives you the agility to deliver operational excellence and delight every customer. ",
+            "companyIndustries": [
+                {
+                    "localizedName": "Computer Software",
+                    "entityUrn": "urn:li:fs_industry:4"
+                }
+            ],
+            "url": "https://www.linkedin.com/showcase/microsoft-dynamics",
+            "entityUrn": "urn:li:fs_normalized_company:3509297",
+            "name": "Microsoft Dynamics 365",
+            "logo": {
+                "image": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1611876333751?e=1660780800&v=beta&t=J_VU1mGjRgGr92REb2H3zpmZ8e1BbsASh6P2aZweZLw",
+                                "expiresAt": 1660780800000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1611876333751?e=1660780800&v=beta&t=Sw2PW95qMdkobGTtCi2KVm90xAo3sMIAmJn5mwmScck",
+                                "expiresAt": 1660780800000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1611876333751?e=1660780800&v=beta&t=IobKOB3TVtduComahHQ3PrwphuVZXD2CpsrEbKhLhyU",
+                                "expiresAt": 1660780800000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQFXmfZJomhCcg/company-logo_"
+                    }
+                },
+                "type": "SQUARE_LOGO"
+            },
+            "paidCompany": false,
+            "showcase": true,
+            "$recipeType": "com.linkedin.voyager.deco.organization.web.WebCompanyCard",
+            "universalName": "microsoft-dynamics"
+        },
+        "urn:li:fs_normalized_company:79153021": {
+            "followingInfo": {
+                "entityUrn": "urn:li:fs_followingInfo:urn:li:company:79153021",
+                "dashFollowingStateUrn": "urn:li:fsd_followingState:urn:li:fsd_company:79153021",
+                "following": false,
+                "followingType": "DEFAULT",
+                "followerCount": 4503
+            },
+            "description": "At Microsoft Research, we accelerate scientific discovery and technology innovation to empower every person and organization on the planet to achieve more. We do this by bringing together the best minds across diverse disciplines and backgrounds to take on the most pressing research challenges for Microsoft and for society.",
+            "companyIndustries": [
+                {
+                    "localizedName": "Research",
+                    "entityUrn": "urn:li:fs_industry:70"
+                }
+            ],
+            "url": "https://www.linkedin.com/showcase/microsoftresearch",
+            "entityUrn": "urn:li:fs_normalized_company:79153021",
+            "name": "Microsoft Research",
+            "logo": {
+                "image": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1646152930362?e=1660780800&v=beta&t=5YJOMeaXHfhggcCPA61innFQuh0OA2XIU5tzLJ5lXFM",
+                                "expiresAt": 1660780800000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1646152930362?e=1660780800&v=beta&t=Z-WzRphLMsvdDmDvMgmv8TzF93s6-9NAlHtPFI2tT-c",
+                                "expiresAt": 1660780800000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1646152930362?e=1660780800&v=beta&t=xvgSNJ8OeswF5bxAopg8eeHAwePcY5qZqDeOaUwhENM",
+                                "expiresAt": 1660780800000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQFraqOThHQ0Kg/company-logo_"
+                    }
+                },
+                "type": "SQUARE_LOGO"
+            },
+            "paidCompany": false,
+            "showcase": true,
+            "$recipeType": "com.linkedin.voyager.deco.organization.web.WebCompanyCard",
+            "universalName": "microsoftresearch"
+        },
+        "urn:li:fs_normalized_company:71645756": {
+            "followingInfo": {
+                "entityUrn": "urn:li:fs_followingInfo:urn:li:company:71645756",
+                "dashFollowingStateUrn": "urn:li:fsd_followingState:urn:li:fsd_company:71645756",
+                "following": false,
+                "followingType": "DEFAULT",
+                "followerCount": 21407
+            },
+            "description": "The official LinkedIn page for Microsoft Viva. Join us for news, updates, and much more.",
+            "companyIndustries": [
+                {
+                    "localizedName": "Computer Software",
+                    "entityUrn": "urn:li:fs_industry:4"
+                }
+            ],
+            "url": "https://www.linkedin.com/showcase/microsoft-viva",
+            "entityUrn": "urn:li:fs_normalized_company:71645756",
+            "name": "Microsoft Viva",
+            "logo": {
+                "image": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1612447676517?e=1660780800&v=beta&t=NXluBluvhpz4qXQGjHxNObii1TAIs7GA6dliE9lxQus",
+                                "expiresAt": 1660780800000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1612447676517?e=1660780800&v=beta&t=hgXo4R3Bwng_d_-qsHNsfDKR_QRzQLD6F0DMz8t7pe0",
+                                "expiresAt": 1660780800000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1612447676517?e=1660780800&v=beta&t=veQSYTBgrRfjI7UX15hKH2SPH6MOunRbobINsedS744",
+                                "expiresAt": 1660780800000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQGG3XtXdaoYQg/company-logo_"
+                    }
+                },
+                "type": "SQUARE_LOGO"
+            },
+            "paidCompany": false,
+            "showcase": true,
+            "$recipeType": "com.linkedin.voyager.deco.organization.web.WebCompanyCard",
+            "universalName": "microsoft-viva"
+        },
+        "urn:li:fs_normalized_company:16188386": {
+            "followingInfo": {
+                "entityUrn": "urn:li:fs_followingInfo:urn:li:company:16188386",
+                "dashFollowingStateUrn": "urn:li:fsd_followingState:urn:li:fsd_company:16188386",
+                "following": false,
+                "followingType": "DEFAULT",
+                "followerCount": 186189
+            },
+            "description": "Welcome to the Microsoft Developer LinkedIn page. Invent with purpose with Microsoft Azure. Be the first to learn about our training resources, events, and news relevant to you.",
+            "companyIndustries": [
+                {
+                    "localizedName": "Computer Software",
+                    "entityUrn": "urn:li:fs_industry:4"
+                }
+            ],
+            "url": "https://www.linkedin.com/showcase/microsoft-developers",
+            "entityUrn": "urn:li:fs_normalized_company:16188386",
+            "name": "Microsoft Developers",
+            "logo": {
+                "image": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1611876406825?e=1660780800&v=beta&t=uxaJMqInWizPhMd2l3Lmvs94kMRYSkoAUfHMcNfemd4",
+                                "expiresAt": 1660780800000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1611876406825?e=1660780800&v=beta&t=LNxcYULfA76B13kNUEif6jexu3pqMezRzvcKAbiFsxU",
+                                "expiresAt": 1660780800000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1611876406825?e=1660780800&v=beta&t=gCMjX6mVZrWruitObJiY6EzGfHGGqoKYZzBa1OuOj7M",
+                                "expiresAt": 1660780800000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQF24alvibxXsA/company-logo_"
+                    }
+                },
+                "type": "SQUARE_LOGO"
+            },
+            "paidCompany": false,
+            "showcase": true,
+            "$recipeType": "com.linkedin.voyager.deco.organization.web.WebCompanyCard",
+            "universalName": "microsoft-developers"
+        },
+        "urn:li:fs_normalized_company:64980219": {
+            "followingInfo": {
+                "entityUrn": "urn:li:fs_followingInfo:urn:li:company:64980219",
+                "dashFollowingStateUrn": "urn:li:fsd_followingState:urn:li:fsd_company:64980219",
+                "following": false,
+                "followingType": "DEFAULT",
+                "followerCount": 22011
+            },
+            "description": "As businesses of all sizes grapple with the same key questions in the wake of COVID-19, the purpose of this community is to bring people together to share what they're learning and how they're managing through change during this time. Ask questions on the topics that matter to your business right now - employee and customer communication, work from home guidance, business continuity plans and moving physical events to be virtual. We will share our learnings and look forward to learning from you as well.\n\nWe will moderate the discussion and delete any posts that are not professional and respectful in tone.\n\n",
+            "companyIndustries": [
+                {
+                    "localizedName": "Computer Software",
+                    "entityUrn": "urn:li:fs_industry:4"
+                }
+            ],
+            "url": "https://www.linkedin.com/showcase/covid19-business-resource-center",
+            "entityUrn": "urn:li:fs_normalized_company:64980219",
+            "name": "COVID-19 Business Resource Center",
+            "logo": {
+                "image": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1584400097141?e=1660780800&v=beta&t=7eIzUPuizJScDEY97MVSFr3eXHZX5w82Xcsb5B-pvOE",
+                                "expiresAt": 1660780800000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1584400097141?e=1660780800&v=beta&t=OO4osAzJ-XUUZfmaf4tibRcdUFOOst4g2ox-eoJadCc",
+                                "expiresAt": 1660780800000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1584400097141?e=1660780800&v=beta&t=V0ZAWDT_kQLh76ZhLVN4qvpHhx2XZrrih8r1Wjj-ypw",
+                                "expiresAt": 1660780800000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQH8nxk6Y9ocbg/company-logo_"
+                    }
+                },
+                "type": "SQUARE_LOGO"
+            },
+            "paidCompany": false,
+            "showcase": true,
+            "$recipeType": "com.linkedin.voyager.deco.organization.web.WebCompanyCard",
+            "universalName": "covid19-business-resource-center"
+        },
+        "urn:li:fs_normalized_company:85932444": {
+            "followingInfo": {
+                "entityUrn": "urn:li:fs_followingInfo:urn:li:company:85932444",
+                "dashFollowingStateUrn": "urn:li:fsd_followingState:urn:li:fsd_company:85932444",
+                "following": false,
+                "followingType": "DEFAULT",
+                "followerCount": 181
+            },
+            "description": "Microsoft Military Affairs works to inspire the veteran community to transform their lives through meaningful opportunities in today\u2019s digital economy. At Microsoft, we\u2019re passionate about the work our veteran community does, and we\u2019ve taken a holistic approach to supporting them through their journey \u2013 from active duty to veterans, Reserves, and Guard. Microsoft\u2019s veteran commitment takes many forms \u2013 from career training programs and hiring efforts to ongoing community and citizenship activities.",
+            "companyIndustries": [
+                {
+                    "localizedName": "Information Technology & Services",
+                    "entityUrn": "urn:li:fs_industry:96"
+                }
+            ],
+            "url": "https://www.linkedin.com/showcase/microsoft-military-affairs",
+            "entityUrn": "urn:li:fs_normalized_company:85932444",
+            "name": "Microsoft Military Affairs",
+            "logo": {
+                "image": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1651805447404?e=1660780800&v=beta&t=_rZiuQoQU-riGUGQ75LF4zpwFg53I-tCPZTUZaRzyuA",
+                                "expiresAt": 1660780800000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1651805447404?e=1660780800&v=beta&t=iEENwrH7Z29Cg0XfHSf9MtpDfRXwf1MdrCAvqKqMaQU",
+                                "expiresAt": 1660780800000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1651805447404?e=1660780800&v=beta&t=LX5ZV2WRoqaZaqn3sOfDDeYFnjoa2G_R6G1lQFCS5LU",
+                                "expiresAt": 1660780800000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQEwDnqpYgYDKA/company-logo_"
+                    }
+                },
+                "type": "SQUARE_LOGO"
+            },
+            "paidCompany": false,
+            "showcase": true,
+            "$recipeType": "com.linkedin.voyager.deco.organization.web.WebCompanyCard",
+            "universalName": "microsoft-military-affairs"
+        },
+        "urn:li:fs_normalized_company:4998717": {
+            "followingInfo": {
+                "entityUrn": "urn:li:fs_followingInfo:urn:li:company:4998717",
+                "dashFollowingStateUrn": "urn:li:fsd_followingState:urn:li:fsd_company:4998717",
+                "following": false,
+                "followingType": "DEFAULT",
+                "followerCount": 208185
+            },
+            "description": "A comprehensive collection of integrated software and services that help you connect your dev projects, teams, and stakeholders to create a wide variety of apps that will transform the world.",
+            "companyIndustries": [
+                {
+                    "localizedName": "Computer Software",
+                    "entityUrn": "urn:li:fs_industry:4"
+                }
+            ],
+            "url": "https://www.linkedin.com/showcase/microsoft-visual-studio",
+            "entityUrn": "urn:li:fs_normalized_company:4998717",
+            "name": "Microsoft Visual Studio",
+            "logo": {
+                "image": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1616022493304?e=1660780800&v=beta&t=CNkMYnTNQQD-jeU6lWjMvXWutLIY8EQe5Hw9_Vk5Rr4",
+                                "expiresAt": 1660780800000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1616022493304?e=1660780800&v=beta&t=3BLpAGBi4FbQ6mE8RQu7NHX68jA5QCHXcLUqzLewYjw",
+                                "expiresAt": 1660780800000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1616022493304?e=1660780800&v=beta&t=vHDVkOtKDitASSsBvWglB32JY42Q0Cau7HEx5MAQEdA",
+                                "expiresAt": 1660780800000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQGWieE0kDJQ4w/company-logo_"
+                    }
+                },
+                "type": "SQUARE_LOGO"
+            },
+            "paidCompany": false,
+            "showcase": true,
+            "$recipeType": "com.linkedin.voyager.deco.organization.web.WebCompanyCard",
+            "universalName": "microsoft-visual-studio"
+        },
+        "urn:li:fs_normalized_company:18342761": {
+            "followingInfo": {
+                "entityUrn": "urn:li:fs_followingInfo:urn:li:company:18342761",
+                "dashFollowingStateUrn": "urn:li:fsd_followingState:urn:li:fsd_company:18342761",
+                "following": false,
+                "followingType": "DEFAULT",
+                "followerCount": 80731
+            },
+            "description": "Unleash the power of your data\u2014on-premises, in the cloud, or at the edge\u2014and reveal insights and opportunities to transform your business. Join us for #AzureSQL and #SQLServer news & more.",
+            "companyIndustries": [
+                {
+                    "localizedName": "Computer Software",
+                    "entityUrn": "urn:li:fs_industry:4"
+                }
+            ],
+            "url": "https://www.linkedin.com/showcase/msft-sql-server",
+            "entityUrn": "urn:li:fs_normalized_company:18342761",
+            "name": "Microsoft SQL Server",
+            "logo": {
+                "image": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1611876450982?e=1660780800&v=beta&t=qVs-jZxZ2NPxxMu2i68wQQ4VGeCVig5PtppaXjEHIfQ",
+                                "expiresAt": 1660780800000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1611876450982?e=1660780800&v=beta&t=e0eLsNNAyvKjuH5PfJgDEmLYTAOJBW1hzVXCQ040S3s",
+                                "expiresAt": 1660780800000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1611876450982?e=1660780800&v=beta&t=Z3ViGlCTkkwXV_f5IF89S6M5WoKhwVP9-5LALmF9E50",
+                                "expiresAt": 1660780800000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQF5T681p2C_JQ/company-logo_"
+                    }
+                },
+                "type": "SQUARE_LOGO"
+            },
+            "paidCompany": false,
+            "showcase": true,
+            "$recipeType": "com.linkedin.voyager.deco.organization.web.WebCompanyCard",
+            "universalName": "msft-sql-server"
+        },
+        "urn:li:fs_normalized_company:3854876": {
+            "followingInfo": {
+                "entityUrn": "urn:li:fs_followingInfo:urn:li:company:3854876",
+                "dashFollowingStateUrn": "urn:li:fsd_followingState:urn:li:fsd_company:3854876",
+                "following": false,
+                "followingType": "DEFAULT",
+                "followerCount": 54472
+            },
+            "description": "The dawn of a new workplace is here. It\u2019s full of empowering technology, and inspiring what comes next. It\u2019s filled with boundless connections. And connections yet to be discovered. This is the official LinkedIn space for Microsoft Surface, the devices designed for the future of work.",
+            "companyIndustries": [
+                {
+                    "localizedName": "Computer Hardware",
+                    "entityUrn": "urn:li:fs_industry:3"
+                }
+            ],
+            "url": "https://www.linkedin.com/showcase/microsoft-surface",
+            "entityUrn": "urn:li:fs_normalized_company:3854876",
+            "name": "Microsoft Surface",
+            "logo": {
+                "image": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1519922081127?e=1660780800&v=beta&t=1SZIx_j_hnTVAjldJ9f158wkRe-Ew2rSJM7n0aceOTY",
+                                "expiresAt": 1660780800000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1519922081127?e=1660780800&v=beta&t=VqUjbS0oXv5TgSe3W17twNJTruVZGnAV3q8yx_fWVz0",
+                                "expiresAt": 1660780800000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1519922081127?e=1660780800&v=beta&t=qjTSqT7sCotYUktAF0LvfSE9CPI1KFuCAyVJ6SnElA0",
+                                "expiresAt": 1660780800000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQFWvpWa8YNxyw/company-logo_"
+                    }
+                },
+                "type": "SQUARE_LOGO"
+            },
+            "paidCompany": false,
+            "showcase": true,
+            "$recipeType": "com.linkedin.voyager.deco.organization.web.WebCompanyCard",
+            "universalName": "microsoft-surface"
+        },
+        "urn:li:fs_normalized_company:38124216": {
+            "followingInfo": {
+                "entityUrn": "urn:li:fs_followingInfo:urn:li:company:38124216",
+                "dashFollowingStateUrn": "urn:li:fsd_followingState:urn:li:fsd_company:38124216",
+                "following": false,
+                "followingType": "DEFAULT",
+                "followerCount": 88649
+            },
+            "description": "Drive business productivity and innovation across your organization with Microsoft Power Platform\u2014Power BI, Power Apps, Power Automate, and Power Virtual Agents.",
+            "companyIndustries": [
+                {
+                    "localizedName": "Computer Software",
+                    "entityUrn": "urn:li:fs_industry:4"
+                }
+            ],
+            "url": "https://www.linkedin.com/showcase/microsoft-power-platform",
+            "entityUrn": "urn:li:fs_normalized_company:38124216",
+            "name": "Microsoft Power Platform",
+            "logo": {
+                "image": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1611876495480?e=1660780800&v=beta&t=Y4E4GipkxLJql2r6p65dZVXQpS0fhUZaVZ_Rw45TKcA",
+                                "expiresAt": 1660780800000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1611876495480?e=1660780800&v=beta&t=Xt7UO-7XAKwrlW2vM3-P2cj8KS8T54_FepwbTX2nvqE",
+                                "expiresAt": 1660780800000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1611876495480?e=1660780800&v=beta&t=roEVvlXJE1srA5AEfWpkI8Na8zzqZKa3kjPeSHnwGKU",
+                                "expiresAt": 1660780800000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQFp5vD_sK_-gQ/company-logo_"
+                    }
+                },
+                "type": "SQUARE_LOGO"
+            },
+            "paidCompany": false,
+            "showcase": true,
+            "$recipeType": "com.linkedin.voyager.deco.organization.web.WebCompanyCard",
+            "universalName": "microsoft-power-platform"
+        },
+        "urn:li:fs_normalized_company:3627496": {
+            "followingInfo": {
+                "entityUrn": "urn:li:fs_followingInfo:urn:li:company:3627496",
+                "dashFollowingStateUrn": "urn:li:fsd_followingState:urn:li:fsd_company:3627496",
+                "following": false,
+                "followingType": "DEFAULT",
+                "followerCount": 451185
+            },
+            "description": "With more apps, devices and data than ever, you need more efficient and valuable IT. Discover Microsoft\u2019s answer, the trusted cloud platform that fits your business.",
+            "companyIndustries": [
+                {
+                    "localizedName": "Computer Software",
+                    "entityUrn": "urn:li:fs_industry:4"
+                }
+            ],
+            "url": "https://www.linkedin.com/showcase/microsoft-cloud-platform",
+            "entityUrn": "urn:li:fs_normalized_company:3627496",
+            "name": "Microsoft Cloud",
+            "logo": {
+                "image": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1611876300022?e=1660780800&v=beta&t=vLCJgAZg9bijwVPyoqUwalYADfeTgMWDVlexI49slUY",
+                                "expiresAt": 1660780800000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1611876300022?e=1660780800&v=beta&t=EkJQ1_d6vL5o534iv4vxD4xQMjlBo8GAt0i7tMXjzu8",
+                                "expiresAt": 1660780800000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1611876300022?e=1660780800&v=beta&t=QumU81OOcvnoBhbT_2HRJ1s6Tab6pThQD_OXxcvAJaA",
+                                "expiresAt": 1660780800000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQHdEMUMPxcjxQ/company-logo_"
+                    }
+                },
+                "type": "SQUARE_LOGO"
+            },
+            "paidCompany": false,
+            "showcase": true,
+            "$recipeType": "com.linkedin.voyager.deco.organization.web.WebCompanyCard",
+            "universalName": "microsoft-cloud-platform"
+        },
+        "urn:li:fs_normalized_company:3603566": {
+            "followingInfo": {
+                "entityUrn": "urn:li:fs_followingInfo:urn:li:company:3603566",
+                "dashFollowingStateUrn": "urn:li:fsd_followingState:urn:li:fsd_company:3603566",
+                "following": false,
+                "followingType": "DEFAULT",
+                "followerCount": 40747
+            },
+            "description": "Connect with people at the right moments across work and life, reaching audiences who are ready to engage and purchase online. With Microsoft Advertising, build smarter customer journeys using rich audience intelligence and open solutions that help you improve campaign performance. Microsoft Advertising. Great relationships start here.\n\nFollow \u27a1 #MSFTAds for official Microsoft Advertising updates \u2022 Digital Advertising \u2022 Marketing with Purpose \u2022 Audience Targeting \u2022 Strategic Trends and Insights.\n\n\ud83d\udce3 Official Microsoft Advertising blog \u2192 https://MicrosoftAdvertising.com/blog\n\ud83d\udc65 Sign up to Microsoft Advertising blog Newsletter \u2192 https://about.ads.microsoft.com/en-gb/blog/microsoft-advertising-newsletter-sign-up\n\ud83d\udcd8 Microsoft Advertising Learning Lab \u2192 https://learninglab.about.ads.microsoft.com",
+            "companyIndustries": [
+                {
+                    "localizedName": "Marketing & Advertising",
+                    "entityUrn": "urn:li:fs_industry:80"
+                }
+            ],
+            "url": "https://www.linkedin.com/showcase/microsoft-advertising",
+            "entityUrn": "urn:li:fs_normalized_company:3603566",
+            "name": "Microsoft Advertising",
+            "logo": {
+                "image": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1556546874619?e=1660780800&v=beta&t=lbQJQmr9z9aSR_SuozD0KwT294PpdzngZ2ILALL027k",
+                                "expiresAt": 1660780800000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1556546874619?e=1660780800&v=beta&t=jFmHfp-oiNk1Zg4SFM5YMoarM2pNPeuKIxmsPQBXNZI",
+                                "expiresAt": 1660780800000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1556546874619?e=1660780800&v=beta&t=070ZOrGFMIhzHFfHXxTbOUw1-ktiywu0EFiXeCuL-w0",
+                                "expiresAt": 1660780800000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQGCzRbSOXB2wQ/company-logo_"
+                    }
+                },
+                "type": "SQUARE_LOGO"
+            },
+            "paidCompany": false,
+            "showcase": true,
+            "$recipeType": "com.linkedin.voyager.deco.organization.web.WebCompanyCard",
+            "universalName": "microsoft-advertising"
+        },
+        "urn:li:fs_normalized_company:3626505": {
+            "followingInfo": {
+                "entityUrn": "urn:li:fs_followingInfo:urn:li:company:3626505",
+                "dashFollowingStateUrn": "urn:li:fsd_followingState:urn:li:fsd_company:3626505",
+                "following": false,
+                "followingType": "DEFAULT",
+                "followerCount": 413078
+            },
+            "description": "Your trusted source for all things related to Microsoft training & certification. Upgrade your career by taking your skills to the next level with self-paced learning, instructor-led training, and certification.",
+            "companyIndustries": [
+                {
+                    "localizedName": "Information Technology & Services",
+                    "entityUrn": "urn:li:fs_industry:96"
+                }
+            ],
+            "url": "https://www.linkedin.com/showcase/microsoftlearn",
+            "entityUrn": "urn:li:fs_normalized_company:3626505",
+            "name": "Microsoft Learn",
+            "logo": {
+                "image": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1599177532159?e=1660780800&v=beta&t=_aP5woriIz2GdBAdL6-OVzs9FMt7Sk9IcvdLAMaiyaw",
+                                "expiresAt": 1660780800000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1599177532159?e=1660780800&v=beta&t=xFfikJe0xSJJ6hIE_G7zNLWrWbRpN5EvmPnnssiNiQ4",
+                                "expiresAt": 1660780800000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1599177532159?e=1660780800&v=beta&t=FWrd9SsjGtNdYZd29ebqYcn2MfGkcEntl5aT3p6iKhw",
+                                "expiresAt": 1660780800000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQHocAMV88or8g/company-logo_"
+                    }
+                },
+                "type": "SQUARE_LOGO"
+            },
+            "paidCompany": false,
+            "showcase": true,
+            "$recipeType": "com.linkedin.voyager.deco.organization.web.WebCompanyCard",
+            "universalName": "microsoftlearn"
+        },
+        "urn:li:fs_normalized_company:25050509": {
+            "followingInfo": {
+                "entityUrn": "urn:li:fs_followingInfo:urn:li:company:25050509",
+                "dashFollowingStateUrn": "urn:li:fsd_followingState:urn:li:fsd_company:25050509",
+                "following": false,
+                "followingType": "DEFAULT",
+                "followerCount": 21633
+            },
+            "description": "Welcome to the official LinkedIn page for Microsoft Windows.\nWindows\u00a010 Pro and Enterprise \u2014 built for digital transformation.",
+            "companyIndustries": [
+                {
+                    "localizedName": "Computer Software",
+                    "entityUrn": "urn:li:fs_industry:4"
+                }
+            ],
+            "url": "https://www.linkedin.com/showcase/microsoft-windows",
+            "entityUrn": "urn:li:fs_normalized_company:25050509",
+            "name": "Microsoft Windows",
+            "logo": {
+                "image": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1519893085342?e=1660780800&v=beta&t=UylR6s4UPwsEMR--xoUiVCw8OpwQa6uGrgeKvWiVIws",
+                                "expiresAt": 1660780800000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1519893085342?e=1660780800&v=beta&t=vqdaY-80SIahYCSTm-yJxSZ1SsawinbiEDmqu4k7rHE",
+                                "expiresAt": 1660780800000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1519893085342?e=1660780800&v=beta&t=fCSNIs5_FRtr5uRPucgpQ6pLX0sg0xd6lysdS0XMbVc",
+                                "expiresAt": 1660780800000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQHF5RtbShjjiA/company-logo_"
+                    }
+                },
+                "type": "SQUARE_LOGO"
+            },
+            "paidCompany": false,
+            "showcase": true,
+            "$recipeType": "com.linkedin.voyager.deco.organization.web.WebCompanyCard",
+            "universalName": "microsoft-windows"
+        },
+        "urn:li:fs_normalized_company:3509299": {
+            "followingInfo": {
+                "entityUrn": "urn:li:fs_followingInfo:urn:li:company:3509299",
+                "dashFollowingStateUrn": "urn:li:fsd_followingState:urn:li:fsd_company:3509299",
+                "following": false,
+                "followingType": "DEFAULT",
+                "followerCount": 367816
+            },
+            "description": "Microsoft 365 is the productivity cloud that combines best-in-class productivity apps with intelligent cloud services that transform the way you work.",
+            "companyIndustries": [
+                {
+                    "localizedName": "Information Technology & Services",
+                    "entityUrn": "urn:li:fs_industry:96"
+                }
+            ],
+            "url": "https://www.linkedin.com/showcase/microsoft-365",
+            "entityUrn": "urn:li:fs_normalized_company:3509299",
+            "name": "Microsoft 365",
+            "logo": {
+                "image": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1542223938284?e=1660780800&v=beta&t=LVMYYxt74otq9zhT7fpaW2Bn4SAXWaGx8DjLG8HRRU8",
+                                "expiresAt": 1660780800000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1542223938284?e=1660780800&v=beta&t=yzThrj3wOcoGD7iSrAauOo01p-RF47zWY5FaU0updhQ",
+                                "expiresAt": 1660780800000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1542223938284?e=1660780800&v=beta&t=0AeWl9bCJf7mZcMS_omAZUhjBMEHlQsFXWGD7dLRwkI",
+                                "expiresAt": 1660780800000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQGG-2Kb6o7o4A/company-logo_"
+                    }
+                },
+                "type": "SQUARE_LOGO"
+            },
+            "paidCompany": false,
+            "showcase": true,
+            "$recipeType": "com.linkedin.voyager.deco.organization.web.WebCompanyCard",
+            "universalName": "microsoft-365"
+        },
+        "urn:li:fs_normalized_company:28890237": {
+            "followingInfo": {
+                "entityUrn": "urn:li:fs_followingInfo:urn:li:company:28890237",
+                "dashFollowingStateUrn": "urn:li:fsd_followingState:urn:li:fsd_company:28890237",
+                "following": false,
+                "followingType": "DEFAULT",
+                "followerCount": 141878
+            },
+            "description": "Comprehensive security solutions that help you strive with no compromise. #BeFearless",
+            "companyIndustries": [
+                {
+                    "localizedName": "Information Technology & Services",
+                    "entityUrn": "urn:li:fs_industry:96"
+                }
+            ],
+            "url": "https://www.linkedin.com/showcase/microsoft-security",
+            "entityUrn": "urn:li:fs_normalized_company:28890237",
+            "name": "Microsoft Security",
+            "logo": {
+                "image": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1570639057979?e=1660780800&v=beta&t=03LInTyqRtscZCbL5tTjsv5mRspe0HPxUHYJA-hADSU",
+                                "expiresAt": 1660780800000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1570639057979?e=1660780800&v=beta&t=OeWWOCnT6MpuE7QH3NxBBuYiw8Jwbm9HeHS4H9HHnRg",
+                                "expiresAt": 1660780800000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1570639057979?e=1660780800&v=beta&t=If7FX6Znp4n8vjRTCYLdTGwrwnwe8hWPUtYUQFz8JdA",
+                                "expiresAt": 1660780800000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHr5AsI6ik8QA/company-logo_"
+                    }
+                },
+                "type": "SQUARE_LOGO"
+            },
+            "paidCompany": false,
+            "showcase": true,
+            "$recipeType": "com.linkedin.voyager.deco.organization.web.WebCompanyCard",
+            "universalName": "microsoft-security"
+        },
+        "urn:li:fs_normalized_company:3720664": {
+            "followingInfo": {
+                "entityUrn": "urn:li:fs_followingInfo:urn:li:company:3720664",
+                "dashFollowingStateUrn": "urn:li:fsd_followingState:urn:li:fsd_company:3720664",
+                "following": false,
+                "followingType": "DEFAULT",
+                "followerCount": 39685
+            },
+            "description": "Highlighting public sector issues, insights, and innovations for federal, state, and local policymakers throughout the world.",
+            "companyIndustries": [
+                {
+                    "localizedName": "Computer Software",
+                    "entityUrn": "urn:li:fs_industry:4"
+                }
+            ],
+            "url": "https://www.linkedin.com/showcase/microsoft-in-government",
+            "entityUrn": "urn:li:fs_normalized_company:3720664",
+            "name": "Microsoft in Government",
+            "logo": {
+                "image": {
+                    "com.linkedin.common.VectorImage": {
+                        "artifacts": [
+                            {
+                                "width": 200,
+                                "fileIdentifyingUrlPathSegment": "200_200/0/1611876596342?e=1660780800&v=beta&t=V0DoJL72y0OyAFETAFlog6Htm7RhEjzucUgr2o45Ysg",
+                                "expiresAt": 1660780800000,
+                                "height": 200
+                            },
+                            {
+                                "width": 100,
+                                "fileIdentifyingUrlPathSegment": "100_100/0/1611876596342?e=1660780800&v=beta&t=weJjt0MIua24z-_7QhIBnlMT7BK1RlioCoeyZ7tvHCo",
+                                "expiresAt": 1660780800000,
+                                "height": 100
+                            },
+                            {
+                                "width": 400,
+                                "fileIdentifyingUrlPathSegment": "400_400/0/1611876596342?e=1660780800&v=beta&t=TP7vw3SS-39oQ-ZKiJ7dhf4hJTdH7_r_EqEtImGwq7I",
+                                "expiresAt": 1660780800000,
+                                "height": 400
+                            }
+                        ],
+                        "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQH4e_Lp3HTBYw/company-logo_"
+                    }
+                },
+                "type": "SQUARE_LOGO"
+            },
+            "paidCompany": false,
+            "showcase": true,
+            "$recipeType": "com.linkedin.voyager.deco.organization.web.WebCompanyCard",
+            "universalName": "microsoft-in-government"
+        }
+    },
+    "paidCompany": true,
+    "universalName": "microsoft",
+    "viewerPendingAdministrator": false,
+    "companyPageUrl": "https://news.microsoft.com/",
+    "viewerConnectedToAdministrator": false,
+    "affiliatedCompanies": [
+        "urn:li:fs_normalized_company:10957831",
+        "urn:li:fs_normalized_company:18612750",
+        "urn:li:fs_normalized_company:164951",
+        "urn:li:fs_normalized_company:19053704",
+        "urn:li:fs_normalized_company:1418841"
+    ],
+    "dataVersion": -1,
+    "companyType": {
+        "localizedName": "Public Company",
+        "code": "PUBLIC_COMPANY"
+    },
+    "coverPhoto": {
+        "com.linkedin.voyager.common.MediaProcessorImage": {
+            "id": "/AAEAAQAAAAAAAAXOAAAAJDFhOTcyOWE5LTQ3ZTMtNDM4Ny1iNWRiLWQxMGYyZjA2YmUyOQ.png"
+        }
+    },
+    "associatedHashtags": [
+        "urn:li:fs_contentTopicData:urn:li:hashtag:microsoftlife",
+        "urn:li:fs_contentTopicData:urn:li:hashtag:microsoft"
+    ],
+    "groups": [],
+    "url": "https://www.linkedin.com/company/microsoft",
+    "showcasePages": [
+        "urn:li:fs_normalized_company:85932444",
+        "urn:li:fs_normalized_company:71326020",
+        "urn:li:fs_normalized_company:3509297",
+        "urn:li:fs_normalized_company:3509299",
+        "urn:li:fs_normalized_company:3580479",
+        "urn:li:fs_normalized_company:3698995",
+        "urn:li:fs_normalized_company:3962024",
+        "urn:li:fs_normalized_company:16188386",
+        "urn:li:fs_normalized_company:64980219",
+        "urn:li:fs_normalized_company:3854876",
+        "urn:li:fs_normalized_company:15236416",
+        "urn:li:fs_normalized_company:10102322",
+        "urn:li:fs_normalized_company:3557532",
+        "urn:li:fs_normalized_company:10351399",
+        "urn:li:fs_normalized_company:10065572",
+        "urn:li:fs_normalized_company:10181157",
+        "urn:li:fs_normalized_company:3626505",
+        "urn:li:fs_normalized_company:18365400",
+        "urn:li:fs_normalized_company:18365401",
+        "urn:li:fs_normalized_company:3580149",
+        "urn:li:fs_normalized_company:28890237",
+        "urn:li:fs_normalized_company:9433161",
+        "urn:li:fs_normalized_company:79153021",
+        "urn:li:fs_normalized_company:10885483",
+        "urn:li:fs_normalized_company:5087104",
+        "urn:li:fs_normalized_company:19143031",
+        "urn:li:fs_normalized_company:42736724",
+        "urn:li:fs_normalized_company:3603566",
+        "urn:li:fs_normalized_company:3627496",
+        "urn:li:fs_normalized_company:13175465",
+        "urn:li:fs_normalized_company:3720664",
+        "urn:li:fs_normalized_company:3555669",
+        "urn:li:fs_normalized_company:9215335",
+        "urn:li:fs_normalized_company:4998717",
+        "urn:li:fs_normalized_company:25050509",
+        "urn:li:fs_normalized_company:3634496",
+        "urn:li:fs_normalized_company:71645756",
+        "urn:li:fs_normalized_company:38124216",
+        "urn:li:fs_normalized_company:18364773",
+        "urn:li:fs_normalized_company:18342761",
+        "urn:li:fs_normalized_company:3580488"
+    ],
+    "claimableByViewer": false,
+    "jobSearchPageUrl": "https://www.linkedin.com/jobs/search?geoId=92000000&f_C=1035%2C10073178%2C589037%2C3238203%2C19053704%2C3178875%2C1418841%2C692068%2C3290211%2C19537%2C2270931%2C11206713%2C3763403%2C1889423%2C1148098%2C3641570%2C164951%2C165397%2C1638785%2C5097047%2C30203%2C18086638%2C2446424%2C1386954%2C263515",
+    "showcase": false,
+    "autoGenerated": false,
+    "backgroundCoverImage": {
+        "image": {
+            "com.linkedin.common.VectorImage": {
+                "artifacts": [
+                    {
+                        "width": 10000,
+                        "fileIdentifyingUrlPathSegment": "10000/0/1649867843118?e=1653044400&v=beta&t=wEgN55ANeMq2P4fNJkdlsJFMttYSarQUCCSAQFygP00",
+                        "expiresAt": 1653044400000,
+                        "height": 10000
+                    },
+                    {
+                        "width": 400,
+                        "fileIdentifyingUrlPathSegment": "400/0/1649867843118?e=1653044400&v=beta&t=Ta7zB8I9D2GIMlRuEyyq3inFmLggZBrIQ8cGCIN2Xh0",
+                        "expiresAt": 1653044400000,
+                        "height": 400
+                    },
+                    {
+                        "width": 200,
+                        "fileIdentifyingUrlPathSegment": "200/0/1649867843118?e=1653044400&v=beta&t=PCmYWOCTZUAsh3m5_nDqi5pRLyIGUi3JmepcHLvBIwk",
+                        "expiresAt": 1653044400000,
+                        "height": 200
+                    }
+                ],
+                "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E1BAQHaIwXiBIfneg/company-background_"
+            }
+        },
+        "cropInfo": {
+            "x": 0,
+            "width": 4700,
+            "y": 0,
+            "height": 795
+        }
+    }
+}

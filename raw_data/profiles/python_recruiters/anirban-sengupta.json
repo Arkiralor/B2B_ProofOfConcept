@@ -1,0 +1,576 @@
+{
+    "profile": {
+        "summary": "Technical recruiter with understanding of business needs having 10 year's of international technical IT hiring expertise. Energetic, self-motivated and results driven with strong communication, business acumen on stakeholder management, recruitment plans & to drive an effective solution. Expert in identifying potential candidates & generating candidate pipeline for future needs  across Europe & Nearshore.",
+        "industryName": "Human Resources Services",
+        "lastName": "Sengupta",
+        "locationName": "Poland",
+        "student": false,
+        "geoCountryName": "Poland",
+        "geoCountryUrn": "urn:li:fs_geo:105072130",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "birthDate": {
+            "month": 5,
+            "day": 8
+        },
+        "industryUrn": "urn:li:fs_industry:137",
+        "firstName": "Anirban",
+        "entityUrn": "urn:li:fs_profile:ACoAAASU698BHGhdJf3n2pJFLT2wGzp9aq49nyc",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:102560051"
+        },
+        "geoLocationName": "Warsaw, Mazowieckie",
+        "location": {
+            "basicLocation": {
+                "countryCode": "pl"
+            }
+        },
+        "headline": "Sr. Specialist-Talent Acquisition  at Capgemini",
+        "displayPictureUrl": "https://media-exp1.licdn.com/dms/image/C5603AQHlUILjRmpWWw/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/0/1621839776836?e=1657756800&v=beta&t=3Ri7HQnLkcCkcaXPzSbQ0cbpb6wFLDBg4bKVyh2qkuo",
+        "img_200_200": "200_200/0/1621839776836?e=1657756800&v=beta&t=KO2XtDvm_NbMe3_H0LWMBbUP3-eP2o8a175-We7qeKU",
+        "img_400_400": "400_400/0/1621839776836?e=1657756800&v=beta&t=CcAF4ccSYazVpsnzIUZGYa_CUuPJrJmhb0dNLUauHM8",
+        "img_800_800": "800_800/0/1621839776836?e=1657756800&v=beta&t=HcW3pzSZYZskIEaMm1alAfcAMN1jFYqWiSMZKbY5t6A",
+        "profile_id": "ACoAAASU698BHGhdJf3n2pJFLT2wGzp9aq49nyc",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAAASU698BHGhdJf3n2pJFLT2wGzp9aq49nyc",
+        "member_urn": "urn:li:member:76868575",
+        "experience": [
+            {
+                "locationName": "Warsaw, Mazowieckie, Poland",
+                "entityUrn": "urn:li:fs_position:(ACoAAASU698BHGhdJf3n2pJFLT2wGzp9aq49nyc,1949073239)",
+                "geoLocationName": "Warsaw, Mazowieckie, Poland",
+                "geoUrn": "urn:li:fs_geo:105076658",
+                "companyName": "Capgemini",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 4,
+                        "year": 2022
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Sr. Recruitment Specialist (Europe Hiring)",
+                "region": "urn:li:fs_region:(pl,8150)",
+                "companyUrn": "urn:li:fs_miniCompany:157240",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQFWzOAVgGjUUA/company-logo_"
+            },
+            {
+                "locationName": "Warsaw, Mazowieckie, Poland",
+                "entityUrn": "urn:li:fs_position:(ACoAAASU698BHGhdJf3n2pJFLT2wGzp9aq49nyc,1763807654)",
+                "geoLocationName": "Warsaw, Mazowieckie, Poland",
+                "geoUrn": "urn:li:fs_geo:105076658",
+                "companyName": "LTI - Larsen & Toubro Infotech",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 4,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 3,
+                        "year": 2021
+                    }
+                },
+                "description": "\u2022Managing technology hiring for Nordics , Switzerland, Germany, Hungary, Spain, Czechia \n\u2022Responsible for requirement gathering & stakeholder management for multiple \n   accounts\n\u2022 Handling major escalations in accounts\n   wrt offers, contract conversions, onboardings with different  sub user groups  \n\u2022Managing vendors across location in empanelment's with procurement team\n\u2022Hiring cloud consultants on both public cloud & on prim cloud migration projects\n\u2022Account management from scratch till offer  roll-outs\n\u2022Engaging with onboarding team for smooth & seamless process flows",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Specialist-Talent Acquisition (Nordics & Rest Of Europe)",
+                "region": "urn:li:fs_region:(pl,8150)",
+                "companyUrn": "urn:li:fs_miniCompany:4500",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQEtryuFS9S6Sw/company-logo_"
+            },
+            {
+                "locationName": "Bengaluru, Karnataka",
+                "entityUrn": "urn:li:fs_position:(ACoAAASU698BHGhdJf3n2pJFLT2wGzp9aq49nyc,1598162595)",
+                "geoLocationName": "Bengaluru, Karnataka",
+                "geoUrn": "urn:li:fs_geo:105214831",
+                "companyName": "Capco",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "month": 12,
+                        "year": 2019
+                    }
+                },
+                "description": "\u2022Expert in hiring candidates for Eastern Europe & India\n\u2022Hands on with direct sourcing & Vendor management.\n\u2022Strong understanding of Murex hiring. Hired murex candidates for Front office & Back office \n   application. \n\u2022Managed Stakeholders with multiple Business lines\n  & published reports within weekly & monthly\n   timelines\n\u2022Partnering with management internally to share   \n  regular updates on hiring status. \n\u2022Hands on with sourcing candidates from various\n  channels. \n\u2022Very good understanding of  Interest Rate\n  Derivatives, Credit Derivatives, Currency Derivatives,   \n  Swaps, Futures, \n\u2022Directly involved in daily  rate negotiations with candidates & agencies.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 1001,
+                        "end": 5000
+                    },
+                    "industries": [
+                        "Financial Services"
+                    ]
+                },
+                "title": "Recruitment Lead (Rest Of Europe)",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:5470",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQGP7MwzwS4eJQ/company-logo_"
+            },
+            {
+                "locationName": "Bengaluru North, Karnataka, India",
+                "entityUrn": "urn:li:fs_position:(ACoAAASU698BHGhdJf3n2pJFLT2wGzp9aq49nyc,1662867230)",
+                "geoLocationName": "Bengaluru North, Karnataka, India",
+                "geoUrn": "urn:li:fs_geo:108191244",
+                "companyName": "Societe Generale Global Solution Centre",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 11,
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "month": 12,
+                        "year": 2018
+                    }
+                },
+                "description": "Responsibilities:\n\n  \u2022\tWorking closely with multiple stakeholders to understand business needs & plan candidate pipeline\n\u2022\tGood understanding of Visa & tax terms for locations hired for. \n\u2022\tSynchronize & meeting regularly with hiring managers to plan & update them on different market trends & provide data on Market intelligence\n\u2022\tInvolved in Salary /Rate negotiations with the employers /vendors for the candidates indentified \n        and closing the deal\n\u2022\tResponsible to drive Big data hiring across business lines for Romania &  France center\u2019s\n\u2022\tManaging hackathons for diff erent technology needs\n\u2022\tManaging vendors to drive staff- Aug model for hiring needs\n",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 5001,
+                        "end": 10000
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Sr Recruiter (Eastern Europe Region)",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:9371944",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C510BAQFwBvGQK2NyEA/company-logo_"
+            },
+            {
+                "locationName": "Bengaluru Area, India/ New York,NY",
+                "entityUrn": "urn:li:fs_position:(ACoAAASU698BHGhdJf3n2pJFLT2wGzp9aq49nyc,993422218)",
+                "geoLocationName": "Bengaluru Area, India/ New York,NY",
+                "companyName": "Synechron",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 4,
+                        "year": 2018
+                    },
+                    "startDate": {
+                        "month": 4,
+                        "year": 2017
+                    }
+                },
+                "description": "Synechron, one of the fastest-growing digital, business consulting & technology services providers, is a $500 million firm based in New York. Since inception in 2001, Synechron has been on a steep growth trajectory. With 8,000+ professionals operating in 18 countries across the world.\n\nResponsibilities:\n\u2022\tConsistently delivering high quality work across USA, Singapore, Canada & and India region in a \n         high-paced dynamic environment.\n\u2022\tExpert in fin-tech technology recruiting for USA & Singapore regions.\n\u2022\tExpert in hiring Full stack developers for different financial clients\n\u2022\tHands on experience hiring Core Java , Web services,C#,developers  & Architects\n\u2022\tHired a team of Angular Js, Angular 2 developers Sr. developers for a reputed financialbank.\n\u2022\tHired a team of in house Java Scala developers/Sr. developers for a reputed Bank\n\u2022\tDeveloped effective interviewing and on boarding withstakeholders\n\u2022\tAssess candidates using the available information, references, and technical screens.\n\u2022\tPartnering closely with different stakeholders to ensure smooth interview process and provide \n        great candidate experience.\n\u2022\tDeveloped and implement recruitment strategy to drive the process from selection to closure for \n        different niche positions\n\u2022\tMarket Analysis on skills for better recruitment strategy & to gather the market scenarios on \n         current salary trends\n\u2022\tContinuous updates to the business on hiring by generating reports\n\u2022\tExtensively used Social Media (LinkedIn, Face book, Twitter, Google X-Ray search, \n        MEETUPgroups,indeed).\n",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Financial Services"
+                    ]
+                },
+                "title": "Recruitment Lead (Investment Banking / Capital Markets  ( NORDICS/BENELUX)",
+                "companyUrn": "urn:li:fs_miniCompany:15506",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C560BAQFk7ziUn7vRTA/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAASU698BHGhdJf3n2pJFLT2wGzp9aq49nyc,96209293)",
+                "school": {
+                    "objectUrn": "urn:li:school:13596",
+                    "entityUrn": "urn:li:fs_miniSchool:13596",
+                    "active": true,
+                    "schoolName": "Punjab Technical University",
+                    "trackingId": "/L/PRMQ/SzKCaPMNYyuPpQ==",
+                    "logoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQGQnCyBiC1ZJw/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2010
+                    },
+                    "startDate": {
+                        "year": 2006
+                    }
+                },
+                "degreeName": "B.S.C",
+                "schoolName": "Punjab Technical University",
+                "fieldOfStudy": "IT",
+                "schoolUrn": "urn:li:fs_miniSchool:13596"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAASU698BHGhdJf3n2pJFLT2wGzp9aq49nyc,605901221)",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "year": 2019
+                    }
+                },
+                "description": "Completed",
+                "degreeName": "MS.Data Science /ML",
+                "schoolName": "Imarticus Learning",
+                "fieldOfStudy": "Data Science (R,Python,SAAS) "
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "proficiency": "FULL_PROFESSIONAL"
+            },
+            {
+                "name": "Hindi",
+                "proficiency": "LIMITED_WORKING"
+            }
+        ],
+        "publications": [],
+        "certifications": [],
+        "volunteer": [],
+        "honors": [],
+        "projects": []
+    },
+    "contact_info": {
+        "email_address": null,
+        "websites": [],
+        "twitter": [],
+        "birthdate": {
+            "month": 5,
+            "day": 8
+        },
+        "ims": null,
+        "phone_numbers": []
+    },
+    "connections": [
+        {
+            "urn_id": "ACoAAByhqogBLFVDJbqojrVMhtKfC3o3hRfEcjg",
+            "distance": "DISTANCE_1",
+            "public_id": "biki-talukdar-460a54114",
+            "tracking_id": "480357000"
+        },
+        {
+            "urn_id": "ACoAABr4jt0BoOUmisITdRo1gR4CumG5I4jjZIw",
+            "distance": "DISTANCE_1",
+            "public_id": "samudra-deka-911659107",
+            "tracking_id": "452497117"
+        },
+        {
+            "urn_id": "ACoAADLJzxsBizdB0nN5NZBCM41Q-z6-7ef5gyI",
+            "distance": "DISTANCE_1",
+            "public_id": "deepjyoti-kalita-78b4411b9",
+            "tracking_id": "852086555"
+        },
+        {
+            "urn_id": "ACoAAC24GToBKzC8vS7jZaCEqoq3Jse_M2Tson8",
+            "distance": "DISTANCE_1",
+            "public_id": "abhijit-paul-936a68194",
+            "tracking_id": "767039802"
+        },
+        {
+            "urn_id": "ACoAADe3CFYBsoFdtSEajXbg51HDagdpBEb3kx4",
+            "distance": "DISTANCE_1",
+            "public_id": "binud-panging-872062221",
+            "tracking_id": "934742102"
+        },
+        {
+            "urn_id": "ACoAADZmR9QB1zOH_PmrzQQw2wQmTJRTcNGU7CE",
+            "distance": "DISTANCE_1",
+            "public_id": "bkalita",
+            "tracking_id": "912672724"
+        },
+        {
+            "urn_id": "ACoAADbmf6QBc8hqz1SYgWY92D5X-_ijayWyiQM",
+            "distance": "DISTANCE_1",
+            "public_id": "arindam-bhowal-10",
+            "tracking_id": "921075620"
+        },
+        {
+            "urn_id": "ACoAAC2aUPYBGPB-T9xDu2Hjrq7OgzRPu5nTvyE",
+            "distance": "DISTANCE_1",
+            "public_id": "jintudas",
+            "tracking_id": "765087990"
+        },
+        {
+            "urn_id": "ACoAACT67ZEBgw1Aprl8Aqy8zWMavdTyaWs7J3w",
+            "distance": "DISTANCE_1",
+            "public_id": "titikshya-das-015942153",
+            "tracking_id": "620424593"
+        },
+        {
+            "urn_id": "ACoAAAjgx0kBxJoPu_7t3kS1NbDizQekjIIzMbE",
+            "distance": "DISTANCE_1",
+            "public_id": "lakheswar-nath-289a7141",
+            "tracking_id": "148948809"
+        },
+        {
+            "urn_id": "ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE",
+            "distance": "DISTANCE_1",
+            "public_id": "prithoo11335",
+            "tracking_id": "231212168"
+        },
+        {
+            "urn_id": "ACoAACbTg-gBtT_YqZc-FG2lIVBv13QTx8UUB8E",
+            "distance": "DISTANCE_1",
+            "public_id": "mridul24",
+            "tracking_id": "651396072"
+        },
+        {
+            "urn_id": "ACoAACr0GSwBcmPDh22HqivG9h0JwG-eahXSYW8",
+            "distance": "DISTANCE_1",
+            "public_id": "nihar-kashyap98",
+            "tracking_id": "720640300"
+        },
+        {
+            "urn_id": "ACoAACzP6KMBcLKqKnFRpIudaukkoW4NoqstgrM",
+            "distance": "DISTANCE_1",
+            "public_id": "pranit-prakash-sahu",
+            "tracking_id": "751823011"
+        },
+        {
+            "urn_id": "ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY",
+            "distance": "DISTANCE_1",
+            "public_id": "tridip-das-b5837911b",
+            "tracking_id": "499568180"
+        },
+        {
+            "urn_id": "ACoAAC8MNEkBeOfT5XsGjm2znOBKa5A1eZma5Bw",
+            "distance": "DISTANCE_1",
+            "public_id": "jyotishmoy-deka-7214171a0",
+            "tracking_id": "789328969"
+        },
+        {
+            "urn_id": "ACoAACeXhGEBEVCUXmKi5rowUSeFZNerPjvzQsc",
+            "distance": "DISTANCE_1",
+            "public_id": "mahbubul-haque-a55552166",
+            "tracking_id": "664241249"
+        },
+        {
+            "urn_id": "ACoAAAI9wXoBijRhLoxf7BO8UTK0DX-7KexJV30",
+            "distance": "DISTANCE_1",
+            "public_id": "boren-ghosh-27671410",
+            "tracking_id": "37601658"
+        },
+        {
+            "urn_id": "ACoAACZxhUQBl1V8kpLj4ACrE2LzpatGvVzEgSA",
+            "distance": "DISTANCE_1",
+            "public_id": "nabajyoti-borah-944000160",
+            "tracking_id": "644973892"
+        },
+        {
+            "urn_id": "ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8",
+            "distance": "DISTANCE_1",
+            "public_id": "sivaranjan-goswami-790b4523",
+            "tracking_id": "83451420"
+        },
+        {
+            "urn_id": "ACoAACHlA7IB_d9MYYVP_4JgPjZfqJiP0PpAAk0",
+            "distance": "DISTANCE_1",
+            "public_id": "parthava-borah-98253713a",
+            "tracking_id": "568656818"
+        },
+        {
+            "urn_id": "ACoAACTFIIYB1cK_syRcCXEc0o8RTm4JMlhYcHA",
+            "distance": "DISTANCE_1",
+            "public_id": "arun-kumar-nath-686721152",
+            "tracking_id": "616898694"
+        },
+        {
+            "urn_id": "ACoAABYq8T8ByHFGBUFRrHT5iKBI2u4YZjTLHFc",
+            "distance": "DISTANCE_1",
+            "public_id": "netranjit-borgohain-53b677a4",
+            "tracking_id": "371913023"
+        },
+        {
+            "urn_id": "ACoAAC-mfboBv3YCLG2TYdY8DDGcxvth-aLDFXU",
+            "distance": "DISTANCE_1",
+            "public_id": "bhargov-jyoti-das-0a28931a3",
+            "tracking_id": "799440314"
+        },
+        {
+            "urn_id": "ACoAACDVs-sB_IgxPBMHMRBfR6is3jmwwV_OvTE",
+            "distance": "DISTANCE_1",
+            "public_id": "swapnil-bhattacharjee-ghy",
+            "tracking_id": "550876139"
+        },
+        {
+            "urn_id": "ACoAAC4efLABFBv0f30-SDGDgLSf1gXTlkpJTfc",
+            "distance": "DISTANCE_1",
+            "public_id": "shawan-mandal",
+            "tracking_id": "773749936"
+        },
+        {
+            "urn_id": "ACoAACUEZ3QB2Xm0OWR0cqoc_u-o4KW_OENO1_8",
+            "distance": "DISTANCE_1",
+            "public_id": "rajan-sahu",
+            "tracking_id": "621045620"
+        },
+        {
+            "urn_id": "ACoAAC12ZqEBCx9JN_YIi1eF1FPPDif3mXI3fyc",
+            "distance": "DISTANCE_1",
+            "public_id": "abinash-panigrahi-169531193",
+            "tracking_id": "762734241"
+        },
+        {
+            "urn_id": "ACoAACYmrvgBRdvWxItbY_KP_fyrEgZ9U-QKJqk",
+            "distance": "DISTANCE_1",
+            "public_id": "rtsu",
+            "tracking_id": "640069368"
+        },
+        {
+            "urn_id": "ACoAADRMKTMBj76XTPRfB9R5rvfwNOXP2n93n4c",
+            "distance": "DISTANCE_1",
+            "public_id": "manash-deka-497a12205",
+            "tracking_id": "877406515"
+        },
+        {
+            "urn_id": "ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc",
+            "distance": "DISTANCE_1",
+            "public_id": "ratnadeep-bhattacharjee",
+            "tracking_id": "135079003"
+        },
+        {
+            "urn_id": "ACoAAAR5v8MBjPwCvp8TP9RWZyGSeNYNiJ1wKJE",
+            "distance": "DISTANCE_1",
+            "public_id": "nilotpal-boruah",
+            "tracking_id": "75087811"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Technical Recruiting"
+        },
+        {
+            "name": "Sourcing"
+        },
+        {
+            "name": "Recruiting"
+        },
+        {
+            "name": "Screening"
+        },
+        {
+            "name": "Benefits Negotiation"
+        },
+        {
+            "name": "Vendor Management"
+        },
+        {
+            "name": "Business Intelligence"
+        },
+        {
+            "name": "Hiring"
+        },
+        {
+            "name": "Internet Recruiting"
+        },
+        {
+            "name": "Requirements Analysis"
+        },
+        {
+            "name": "IT Recruitment"
+        },
+        {
+            "name": "Resource Management"
+        },
+        {
+            "name": "Screening Resumes"
+        },
+        {
+            "name": "SDLC"
+        },
+        {
+            "name": "Staffing Services"
+        },
+        {
+            "name": "Contract Recruitment"
+        },
+        {
+            "name": "Staff Augmentation"
+        },
+        {
+            "name": "Job Descriptions"
+        },
+        {
+            "name": "Analysis"
+        },
+        {
+            "name": "Temporary Placement"
+        },
+        {
+            "name": "Permanent Placement"
+        },
+        {
+            "name": "Software Documentation"
+        },
+        {
+            "name": "Planning"
+        },
+        {
+            "name": "Oracle"
+        },
+        {
+            "name": "Java"
+        },
+        {
+            "name": "Applicant Tracking Systems"
+        },
+        {
+            "name": "SharePoint"
+        },
+        {
+            "name": "J2EE"
+        },
+        {
+            "name": "Visual Basic"
+        },
+        {
+            "name": "ASP.NET"
+        },
+        {
+            "name": "C#"
+        },
+        {
+            "name": "Interviews"
+        },
+        {
+            "name": "Management"
+        },
+        {
+            "name": "Talent Management"
+        },
+        {
+            "name": "Interviewing"
+        },
+        {
+            "name": "Employee Relations"
+        },
+        {
+            "name": "Negotiation"
+        },
+        {
+            "name": "Problem Solving"
+        },
+        {
+            "name": "Contract Negotiation"
+        },
+        {
+            "name": "Resume"
+        },
+        {
+            "name": "Talent Acquisition"
+        },
+        {
+            "name": "Recruitments"
+        },
+        {
+            "name": "Coordination"
+        }
+    ]
+}

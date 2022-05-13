@@ -1,0 +1,527 @@
+{
+    "profile": {
+        "lastName": "G",
+        "locationName": "India",
+        "student": false,
+        "geoCountryName": "India",
+        "geoCountryUrn": "urn:li:fs_geo:102713980",
+        "geoLocationBackfilled": false,
+        "elt": true,
+        "firstName": "Abinesh",
+        "entityUrn": "urn:li:fs_profile:ACoAADXOx6YB3BlLHJBQjnRE1F3F_ngP0YDP90Q",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:102439246"
+        },
+        "geoLocationName": "Chennai, Tamil Nadu",
+        "location": {
+            "basicLocation": {
+                "countryCode": "in"
+            }
+        },
+        "headline": "Microsoft Power BI | Python",
+        "displayPictureUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQHfmQpEVX0FgA/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/0/1621352262906?e=1657756800&v=beta&t=c6lZhDnuTCkXqHIDPgjpD6dqWAWKhsZGhrAAJtVXY2g",
+        "img_200_200": "200_200/0/1621352262906?e=1657756800&v=beta&t=N9Hnr5SlUZCtLv1cY5-AqFCSQcu5aJ0T7k317RM8Qpw",
+        "img_400_400": "400_400/0/1621352262906?e=1657756800&v=beta&t=hvKQ9IGKnjUOJkXpDfepC452B7nbxtlmgzTWcG5U1To",
+        "img_800_800": "800_800/0/1621352262906?e=1657756800&v=beta&t=MS1dDQFwoPbhJPgJEZNdScWdHljJjnZRpejXuFZJ8gU",
+        "profile_id": "ACoAADXOx6YB3BlLHJBQjnRE1F3F_ngP0YDP90Q",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAADXOx6YB3BlLHJBQjnRE1F3F_ngP0YDP90Q",
+        "member_urn": "urn:li:member:902743974",
+        "experience": [],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAADXOx6YB3BlLHJBQjnRE1F3F_ngP0YDP90Q,723784937)",
+                "school": {
+                    "objectUrn": "urn:li:school:40478",
+                    "entityUrn": "urn:li:fs_miniSchool:40478",
+                    "active": true,
+                    "schoolName": "Misrimal Navajee Munoth Jain Engineering College",
+                    "trackingId": "mEUrfYV0SuSrIWFEvxT+2w=="
+                },
+                "grade": "First Class",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2017
+                    }
+                },
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100360",
+                "degreeName": "Bachelor of Engineering - BE",
+                "schoolName": "Misrimal Navajee Munoth Jain Engineering College",
+                "fieldOfStudy": "Mechanical Engineering",
+                "degreeUrn": "urn:li:fs_degree:269",
+                "schoolUrn": "urn:li:fs_miniSchool:40478"
+            }
+        ],
+        "languages": [],
+        "publications": [],
+        "certifications": [
+            {
+                "authority": "Cognitive Class",
+                "name": "Python 101 for Data Science",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 7,
+                        "year": 2021
+                    }
+                },
+                "licenseNumber": "12d3604edd394fa494fb12a32ee33960",
+                "company": {
+                    "objectUrn": "urn:li:company:18063035",
+                    "entityUrn": "urn:li:fs_miniCompany:18063035",
+                    "name": "Cognitive Class",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1584553487571?e=1660780800&v=beta&t=SlApUJt6OuMQeT8Srw7s2OL7WTjoPOF2uxBBnj08Mro",
+                                    "expiresAt": 1660780800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1584553487571?e=1660780800&v=beta&t=SyW6UTyV6wqh_Au0ZzmIjo160QL4NDJZKrn3xhX1XHM",
+                                    "expiresAt": 1660780800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1584553487571?e=1660780800&v=beta&t=e_mu4_P2MiKLin4hDDkPbEWt3Z-H_hMTNk9pi_asYAQ",
+                                    "expiresAt": 1660780800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQEX7g0rTXKKKw/company-logo_"
+                        }
+                    },
+                    "universalName": "cognitiveclass",
+                    "dashCompanyUrn": "urn:li:fsd_company:18063035",
+                    "trackingId": "/mKg4870Slmg2LqKLe6Trg=="
+                },
+                "displaySource": "cognitiveclass.ai",
+                "companyUrn": "urn:li:fs_miniCompany:18063035",
+                "url": "https://courses.cognitiveclass.ai/certificates/12d3604edd394fa494fb12a32ee33960"
+            },
+            {
+                "authority": "MRI Computer Education ",
+                "name": "Diploma in Mechanical CAD ",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 1,
+                        "year": 2020
+                    }
+                },
+                "licenseNumber": "MRI/2020/321"
+            },
+            {
+                "authority": "Kaggle",
+                "name": "Python",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 8,
+                        "year": 2021
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:1061689",
+                    "entityUrn": "urn:li:fs_miniCompany:1061689",
+                    "name": "Kaggle",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1519900543144?e=1660780800&v=beta&t=r9GoXbyDvlb16OUVCJnrxhnCs6ZyELsu1vuclQIkWUI",
+                                    "expiresAt": 1660780800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1519900543144?e=1660780800&v=beta&t=_XUJz1LL1s8qFdNCQXd-UdQojqMyQNlCYNAXNzSkiHo",
+                                    "expiresAt": 1660780800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1519900543144?e=1660780800&v=beta&t=rmxBhGjSXG2XGN1PRrmd7Fg7_ElQ2Tfit4ycgKdLKRQ",
+                                    "expiresAt": 1660780800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQGbmegZ9h1otw/company-logo_"
+                        }
+                    },
+                    "universalName": "kaggle",
+                    "dashCompanyUrn": "urn:li:fsd_company:1061689",
+                    "trackingId": "9I73+XnxT/aMcxI7STjj0g=="
+                },
+                "displaySource": "google.com",
+                "companyUrn": "urn:li:fs_miniCompany:1061689",
+                "url": "https://notifications.google.com/g/p/AD-FnEzEq0lDO0YD2vVFg7orxYrm_knAvFotgcBhEkN3p0N8pYQgf_qZ4Y02m9XCOTmzpzR_jutRBYYyYQZd6cmrjLJ94gG56o-LShpfAEyER86L1MdWUPlW3iWSOchOMMRTZQ"
+            },
+            {
+                "authority": "Skyfi Labs",
+                "name": "IC ENGINE AND AUTOMOBILE PROTOTYPING ",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 6,
+                        "year": 2019
+                    }
+                },
+                "licenseNumber": "51360002",
+                "company": {
+                    "objectUrn": "urn:li:company:2642456",
+                    "entityUrn": "urn:li:fs_miniCompany:2642456",
+                    "name": "Skyfi Labs",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1589830639120?e=1660780800&v=beta&t=XlcfxO2xnZPfcKPmNWJaDvoB31wxAWjDHux1o1TlenA",
+                                    "expiresAt": 1660780800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1589830639120?e=1660780800&v=beta&t=SsDMF9vpy1DB_vJTo_05JBRSNyvIvHEqIg6yK-823lU",
+                                    "expiresAt": 1660780800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1589830639120?e=1660780800&v=beta&t=kzatoL9rqnZ6hU7WF4ObmNquHIWdHUFa_O0gbalXHiw",
+                                    "expiresAt": 1660780800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQEIc6SMP8A0hA/company-logo_"
+                        }
+                    },
+                    "universalName": "skyfilabs",
+                    "dashCompanyUrn": "urn:li:fsd_company:2642456",
+                    "trackingId": "es8xKwLQTM+1aaxRApEoMA=="
+                },
+                "displaySource": "skyfilabs.com",
+                "companyUrn": "urn:li:fs_miniCompany:2642456",
+                "url": "http://www.skyfilabs.com/verify-certificate/51360002"
+            },
+            {
+                "authority": "Alison - Free Online Learning",
+                "name": "Diploma in Python Programming",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 8,
+                        "year": 2021
+                    }
+                },
+                "licenseNumber": "1535-21705456?utm_campaign=just_certified_dip",
+                "company": {
+                    "objectUrn": "urn:li:company:668016",
+                    "entityUrn": "urn:li:fs_miniCompany:668016",
+                    "name": "Alison - Empower Yourself",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1519890154193?e=1660780800&v=beta&t=3UOV4CtSW96X_5MXZ606EWACGHOQks4JduILtFsExD4",
+                                    "expiresAt": 1660780800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1519890154193?e=1660780800&v=beta&t=4tfbdmtpeBqA82QVqJwo_Hd0BO0KW5qMDxfKZYsKgqk",
+                                    "expiresAt": 1660780800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1519890154193?e=1660780800&v=beta&t=KRYrg8e-Q3OZTsP5G-1Vmcc8mmed30Y9i105jIpJffY",
+                                    "expiresAt": 1660780800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQGsbLNniHYvyg/company-logo_"
+                        }
+                    },
+                    "universalName": "alison-learning",
+                    "dashCompanyUrn": "urn:li:fsd_company:668016",
+                    "trackingId": "3ErrpFC9TP6C9JkT/i1T+g=="
+                },
+                "displaySource": "alison.com",
+                "companyUrn": "urn:li:fs_miniCompany:668016",
+                "url": "http://alison.com/user/learner-verification/21705456/1535"
+            }
+        ],
+        "volunteer": [],
+        "honors": [],
+        "projects": []
+    },
+    "contact_info": {
+        "email_address": null,
+        "websites": [],
+        "twitter": [],
+        "birthdate": null,
+        "ims": null,
+        "phone_numbers": []
+    },
+    "connections": [
+        {
+            "urn_id": "ACoAAByhqogBLFVDJbqojrVMhtKfC3o3hRfEcjg",
+            "distance": "DISTANCE_1",
+            "public_id": "biki-talukdar-460a54114",
+            "tracking_id": "480357000"
+        },
+        {
+            "urn_id": "ACoAABr4jt0BoOUmisITdRo1gR4CumG5I4jjZIw",
+            "distance": "DISTANCE_1",
+            "public_id": "samudra-deka-911659107",
+            "tracking_id": "452497117"
+        },
+        {
+            "urn_id": "ACoAADLJzxsBizdB0nN5NZBCM41Q-z6-7ef5gyI",
+            "distance": "DISTANCE_1",
+            "public_id": "deepjyoti-kalita-78b4411b9",
+            "tracking_id": "852086555"
+        },
+        {
+            "urn_id": "ACoAAC24GToBKzC8vS7jZaCEqoq3Jse_M2Tson8",
+            "distance": "DISTANCE_1",
+            "public_id": "abhijit-paul-936a68194",
+            "tracking_id": "767039802"
+        },
+        {
+            "urn_id": "ACoAADe3CFYBsoFdtSEajXbg51HDagdpBEb3kx4",
+            "distance": "DISTANCE_1",
+            "public_id": "binud-panging-872062221",
+            "tracking_id": "934742102"
+        },
+        {
+            "urn_id": "ACoAADZmR9QB1zOH_PmrzQQw2wQmTJRTcNGU7CE",
+            "distance": "DISTANCE_1",
+            "public_id": "bkalita",
+            "tracking_id": "912672724"
+        },
+        {
+            "urn_id": "ACoAAC2aUPYBGPB-T9xDu2Hjrq7OgzRPu5nTvyE",
+            "distance": "DISTANCE_1",
+            "public_id": "jintudas",
+            "tracking_id": "765087990"
+        },
+        {
+            "urn_id": "ACoAADbmf6QBc8hqz1SYgWY92D5X-_ijayWyiQM",
+            "distance": "DISTANCE_1",
+            "public_id": "arindam-bhowal-10",
+            "tracking_id": "921075620"
+        },
+        {
+            "urn_id": "ACoAACT67ZEBgw1Aprl8Aqy8zWMavdTyaWs7J3w",
+            "distance": "DISTANCE_1",
+            "public_id": "titikshya-das-015942153",
+            "tracking_id": "620424593"
+        },
+        {
+            "urn_id": "ACoAABlgPxsBN_TuPsno84LiwT35FxylJ83tcBw",
+            "distance": "DISTANCE_1",
+            "public_id": "biraj-das-1b76b4ba",
+            "tracking_id": "425738011"
+        },
+        {
+            "urn_id": "ACoAAAjgx0kBxJoPu_7t3kS1NbDizQekjIIzMbE",
+            "distance": "DISTANCE_1",
+            "public_id": "lakheswar-nath-289a7141",
+            "tracking_id": "148948809"
+        },
+        {
+            "urn_id": "ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE",
+            "distance": "DISTANCE_1",
+            "public_id": "prithoo11335",
+            "tracking_id": "231212168"
+        },
+        {
+            "urn_id": "ACoAACbTg-gBtT_YqZc-FG2lIVBv13QTx8UUB8E",
+            "distance": "DISTANCE_1",
+            "public_id": "mridul24",
+            "tracking_id": "651396072"
+        },
+        {
+            "urn_id": "ACoAACr0GSwBcmPDh22HqivG9h0JwG-eahXSYW8",
+            "distance": "DISTANCE_1",
+            "public_id": "nihar-kashyap98",
+            "tracking_id": "720640300"
+        },
+        {
+            "urn_id": "ACoAACzP6KMBcLKqKnFRpIudaukkoW4NoqstgrM",
+            "distance": "DISTANCE_1",
+            "public_id": "pranit-prakash-sahu",
+            "tracking_id": "751823011"
+        },
+        {
+            "urn_id": "ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY",
+            "distance": "DISTANCE_1",
+            "public_id": "tridip-das-b5837911b",
+            "tracking_id": "499568180"
+        },
+        {
+            "urn_id": "ACoAAC8MNEkBeOfT5XsGjm2znOBKa5A1eZma5Bw",
+            "distance": "DISTANCE_1",
+            "public_id": "jyotishmoy-deka-7214171a0",
+            "tracking_id": "789328969"
+        },
+        {
+            "urn_id": "ACoAACeXhGEBEVCUXmKi5rowUSeFZNerPjvzQsc",
+            "distance": "DISTANCE_1",
+            "public_id": "mahbubul-haque-a55552166",
+            "tracking_id": "664241249"
+        },
+        {
+            "urn_id": "ACoAAAI9wXoBijRhLoxf7BO8UTK0DX-7KexJV30",
+            "distance": "DISTANCE_1",
+            "public_id": "boren-ghosh-27671410",
+            "tracking_id": "37601658"
+        },
+        {
+            "urn_id": "ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8",
+            "distance": "DISTANCE_1",
+            "public_id": "sivaranjan-goswami-790b4523",
+            "tracking_id": "83451420"
+        },
+        {
+            "urn_id": "ACoAACZxhUQBl1V8kpLj4ACrE2LzpatGvVzEgSA",
+            "distance": "DISTANCE_1",
+            "public_id": "nabajyoti-borah-944000160",
+            "tracking_id": "644973892"
+        },
+        {
+            "urn_id": "ACoAACHlA7IB_d9MYYVP_4JgPjZfqJiP0PpAAk0",
+            "distance": "DISTANCE_1",
+            "public_id": "parthava-borah-98253713a",
+            "tracking_id": "568656818"
+        },
+        {
+            "urn_id": "ACoAACTFIIYB1cK_syRcCXEc0o8RTm4JMlhYcHA",
+            "distance": "DISTANCE_1",
+            "public_id": "arun-kumar-nath-686721152",
+            "tracking_id": "616898694"
+        },
+        {
+            "urn_id": "ACoAABYq8T8ByHFGBUFRrHT5iKBI2u4YZjTLHFc",
+            "distance": "DISTANCE_1",
+            "public_id": "netranjit-borgohain-53b677a4",
+            "tracking_id": "371913023"
+        },
+        {
+            "urn_id": "ACoAAC-mfboBv3YCLG2TYdY8DDGcxvth-aLDFXU",
+            "distance": "DISTANCE_1",
+            "public_id": "bhargov-jyoti-das-0a28931a3",
+            "tracking_id": "799440314"
+        },
+        {
+            "urn_id": "ACoAACDVs-sB_IgxPBMHMRBfR6is3jmwwV_OvTE",
+            "distance": "DISTANCE_1",
+            "public_id": "swapnil-bhattacharjee-ghy",
+            "tracking_id": "550876139"
+        },
+        {
+            "urn_id": "ACoAACUEZ3QB2Xm0OWR0cqoc_u-o4KW_OENO1_8",
+            "distance": "DISTANCE_1",
+            "public_id": "rajan-sahu",
+            "tracking_id": "621045620"
+        },
+        {
+            "urn_id": "ACoAAC4efLABFBv0f30-SDGDgLSf1gXTlkpJTfc",
+            "distance": "DISTANCE_1",
+            "public_id": "shawan-mandal",
+            "tracking_id": "773749936"
+        },
+        {
+            "urn_id": "ACoAAC12ZqEBCx9JN_YIi1eF1FPPDif3mXI3fyc",
+            "distance": "DISTANCE_1",
+            "public_id": "abinash-panigrahi-169531193",
+            "tracking_id": "762734241"
+        },
+        {
+            "urn_id": "ACoAACYmrvgBRdvWxItbY_KP_fyrEgZ9U-QKJqk",
+            "distance": "DISTANCE_1",
+            "public_id": "rtsu",
+            "tracking_id": "640069368"
+        },
+        {
+            "urn_id": "ACoAADRMKTMBj76XTPRfB9R5rvfwNOXP2n93n4c",
+            "distance": "DISTANCE_1",
+            "public_id": "manash-deka-497a12205",
+            "tracking_id": "877406515"
+        },
+        {
+            "urn_id": "ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc",
+            "distance": "DISTANCE_1",
+            "public_id": "ratnadeep-bhattacharjee",
+            "tracking_id": "135079003"
+        },
+        {
+            "urn_id": "ACoAAClGHl8Bkg1-FBWeyXHlveDeXDBovpxKYtw",
+            "distance": "DISTANCE_1",
+            "public_id": "raju-moni-borah-9bbaa1173",
+            "tracking_id": "692461151"
+        },
+        {
+            "urn_id": "ACoAADZ9mPoBBWha8sl8ryS_FeGMwpi6kGUzbzk",
+            "distance": "DISTANCE_1",
+            "public_id": "raj-prasad-4a21b7216",
+            "tracking_id": "914200826"
+        },
+        {
+            "urn_id": "ACoAAAR5v8MBjPwCvp8TP9RWZyGSeNYNiJ1wKJE",
+            "distance": "DISTANCE_1",
+            "public_id": "nilotpal-boruah",
+            "tracking_id": "75087811"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Microsoft Power BI",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:55030",
+            "standardizedSkill": {
+                "name": "Microsoft Power BI",
+                "entityUrn": "urn:li:fs_miniSkill:55030"
+            }
+        },
+        {
+            "name": "Python (Programming Language)",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:1346",
+            "standardizedSkill": {
+                "name": "Python (Programming Language)",
+                "entityUrn": "urn:li:fs_miniSkill:1346"
+            }
+        },
+        {
+            "name": "AutoCAD"
+        },
+        {
+            "name": "Engineering"
+        },
+        {
+            "name": "Problem Solving"
+        },
+        {
+            "name": "Management"
+        },
+        {
+            "name": "Mechanical cad"
+        }
+    ]
+}

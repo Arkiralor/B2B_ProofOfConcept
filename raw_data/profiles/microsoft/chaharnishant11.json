@@ -1,0 +1,654 @@
+{
+    "profile": {
+        "summary": "I am a Software Engineer @Microsoft, Graduated from NSIT. I have interned at Samsung Research Institute Bangalore and I have also won SIH'20. \n\nI like to explore new things and in this journey i have a YouTube channel with 100k+ Subscribers.Do check it out!",
+        "industryName": "Software Development",
+        "lastName": "Chahar",
+        "locationName": "India",
+        "student": false,
+        "geoCountryName": "India",
+        "geoCountryUrn": "urn:li:fs_geo:102713980",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "birthDate": {
+            "month": 9,
+            "day": 11
+        },
+        "industryUrn": "urn:li:fs_industry:4",
+        "firstName": "Nishant",
+        "entityUrn": "urn:li:fs_profile:ACoAAClor3cBTUD2rwBWf_KvA74lZjZG_BB4_jQ",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:106777151"
+        },
+        "geoLocationName": "Delhi",
+        "location": {
+            "basicLocation": {
+                "countryCode": "in"
+            }
+        },
+        "headline": "SDE @ Microsoft  | 100k+ Subs on YT | NSIT",
+        "displayPictureUrl": "https://media-exp1.licdn.com/dms/image/C4E03AQEujoUun6TPgA/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/0/1629724131794?e=1657756800&v=beta&t=-t5yYgf9cmDsdOY_AbU02xp0L11RFBRxJClM6RGSSio",
+        "img_200_200": "200_200/0/1629724131794?e=1657756800&v=beta&t=bv8xQ2XtPk1YVX6UynVbpxffiOHseE-7Xmoy6l9RjwE",
+        "img_400_400": "400_400/0/1629724131794?e=1657756800&v=beta&t=zbx7dAmqK5yoL5-rSDiF0n-gMHhSGZpzPS-2JfYOLmE",
+        "img_800_800": "800_800/0/1629724131794?e=1657756800&v=beta&t=C0pllUM1__9SFDOychehWZA0Ujt4ACPin1gITuVXt6Q",
+        "profile_id": "ACoAAClor3cBTUD2rwBWf_KvA74lZjZG_BB4_jQ",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAAClor3cBTUD2rwBWf_KvA74lZjZG_BB4_jQ",
+        "member_urn": "urn:li:member:694726519",
+        "experience": [
+            {
+                "locationName": "India",
+                "entityUrn": "urn:li:fs_position:(ACoAAClor3cBTUD2rwBWf_KvA74lZjZG_BB4_jQ,1807912366)",
+                "geoLocationName": "India",
+                "geoUrn": "urn:li:fs_geo:102713980",
+                "companyName": "Microsoft",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 7,
+                        "year": 2021
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Computer Software"
+                    ]
+                },
+                "title": "Software Engineer",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:1035",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C560BAQE88xCsONDULQ/company-logo_"
+            },
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAAClor3cBTUD2rwBWf_KvA74lZjZG_BB4_jQ,1699007976)",
+                "companyName": "YouTube",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 9,
+                        "year": 2020
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 1001,
+                        "end": 5000
+                    },
+                    "industries": [
+                        "Internet"
+                    ]
+                },
+                "title": "Digital Creator",
+                "companyUrn": "urn:li:fs_miniCompany:16140",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQEfoRsyU4yUzg/company-logo_"
+            },
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAAClor3cBTUD2rwBWf_KvA74lZjZG_BB4_jQ,1644397823)",
+                "companyName": "Crosslinks NSUT",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 7,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 7,
+                        "year": 2020
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Public Relations and Communications"
+                    ]
+                },
+                "title": "President",
+                "companyUrn": "urn:li:fs_miniCompany:72995931",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C560BAQEZL7PC6K136g/company-logo_"
+            },
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAAClor3cBTUD2rwBWf_KvA74lZjZG_BB4_jQ,1777690887)",
+                "companyName": "CodeChef",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 5,
+                        "year": 2021
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 1001,
+                        "end": 5000
+                    },
+                    "industries": [
+                        "Computer Software"
+                    ]
+                },
+                "title": "Educator",
+                "companyUrn": "urn:li:fs_miniCompany:3999392",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C560BAQGqbQqGLrllzQ/company-logo_"
+            },
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAAClor3cBTUD2rwBWf_KvA74lZjZG_BB4_jQ,1620580320)",
+                "companyName": "A.R.E.S. Robotics",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 4,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 5,
+                        "year": 2020
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Defense & Space"
+                    ]
+                },
+                "title": "President",
+                "companyUrn": "urn:li:fs_miniCompany:35600988",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQGcIpZTXxPRNg/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAClor3cBTUD2rwBWf_KvA74lZjZG_BB4_jQ,560397627)",
+                "school": {
+                    "objectUrn": "urn:li:school:21208",
+                    "entityUrn": "urn:li:fs_miniSchool:21208",
+                    "active": true,
+                    "schoolName": "Netaji Subhas Institute of Technology",
+                    "trackingId": "/a3xFJpDTWqRDvVzOvu1Qg==",
+                    "logoUrl": "https://media-exp1.licdn.com/dms/image/C560BAQFCKMey0N4bag/company-logo_"
+                },
+                "activities": "President at Ares Robotics, Crosslinks and The Alliance ",
+                "grade": "8.53",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "year": 2017
+                    }
+                },
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100347",
+                "degreeName": "Bachelor of Technology - BTech",
+                "schoolName": "Netaji Subhas Institute of Technology",
+                "fieldOfStudy": "Computer Engineering",
+                "degreeUrn": "urn:li:fs_degree:250",
+                "schoolUrn": "urn:li:fs_miniSchool:21208"
+            }
+        ],
+        "languages": [],
+        "publications": [],
+        "certifications": [
+            {
+                "authority": "Udemy",
+                "name": "Full Stack Web Delevlopment",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 3,
+                        "year": 2019
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:822535",
+                    "entityUrn": "urn:li:fs_miniCompany:822535",
+                    "name": "Udemy",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1626275253364?e=1660780800&v=beta&t=8ncdc7ddscHa3JHSykZWtdTUaHgyz-aUHFEUaG7Sn7k",
+                                    "expiresAt": 1660780800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1626275253364?e=1660780800&v=beta&t=1O7HeueUDAa8UYEy529TuAiMjCkBZKo2sISVq25vU5Q",
+                                    "expiresAt": 1660780800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1626275253364?e=1660780800&v=beta&t=CTu5FfdRE-d9USfU-DA7BYmjuwPsubVd1gRr-HjgdVQ",
+                                    "expiresAt": 1660780800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQFQr9e68bBOPQ/company-logo_"
+                        }
+                    },
+                    "universalName": "udemy",
+                    "dashCompanyUrn": "urn:li:fsd_company:822535",
+                    "trackingId": "HKoHj/8hTJaP97dwMqLJsw=="
+                },
+                "displaySource": "google.com",
+                "companyUrn": "urn:li:fs_miniCompany:822535",
+                "url": "https://drive.google.com/file/d/1DBow73xeSQEoQq20SEB8lSJDKa3wZADa/view?usp=sharing"
+            },
+            {
+                "authority": "Coding Ninjas India",
+                "name": "C++ & Data Structures",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 9,
+                        "year": 2018
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:13195135",
+                    "entityUrn": "urn:li:fs_miniCompany:13195135",
+                    "name": "Coding Ninjas",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1641196363582?e=1660780800&v=beta&t=ZAH3Ta2ZTFubrR0sD6bARHgXnCF8NHskT4OUMOhPHLs",
+                                    "expiresAt": 1660780800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1641196363582?e=1660780800&v=beta&t=Eh5XJ6o7hMX_MoKsm0Cvvgr8wnzk9iK_HSRLgAtvJhI",
+                                    "expiresAt": 1660780800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1641196363582?e=1660780800&v=beta&t=X7pBwdmFngyPIfLNLBLJyR-UbBqb7P-NPJjKhLq2mCk",
+                                    "expiresAt": 1660780800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQHYdFLYEMWVng/company-logo_"
+                        }
+                    },
+                    "universalName": "codingninjas",
+                    "dashCompanyUrn": "urn:li:fsd_company:13195135",
+                    "trackingId": "v49+h/0LQTe8EnRv25A6lA=="
+                },
+                "displaySource": "google.com",
+                "companyUrn": "urn:li:fs_miniCompany:13195135",
+                "url": "https://drive.google.com/file/d/1DW9bW-9dyYJydr2GBI6br2N2Re9gl31F/view?usp=sharing"
+            }
+        ],
+        "volunteer": [
+            {
+                "role": "Secretary",
+                "companyName": "Interact",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 4,
+                        "year": 2015
+                    },
+                    "startDate": {
+                        "month": 4,
+                        "year": 2014
+                    }
+                },
+                "cause": "SOCIAL_SERVICES",
+                "company": {
+                    "miniCompany": {
+                        "objectUrn": "urn:li:company:1004919",
+                        "entityUrn": "urn:li:fs_miniCompany:1004919",
+                        "name": "InterAct of Wake",
+                        "showcase": false,
+                        "active": true,
+                        "logo": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1649707628015?e=1660780800&v=beta&t=3KgGYqqm-uWZqKZyG_x-lOx1WRtHonnxuCR-hAA_Q00",
+                                        "expiresAt": 1660780800000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1649707628015?e=1660780800&v=beta&t=BFkTvW7Q8yKZzt_tu9cZWIlzzN8CkQOCzv0HHFJJWCQ",
+                                        "expiresAt": 1660780800000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1649707628015?e=1660780800&v=beta&t=uiXQTOFuMZlUOjlQJ9hWTtDeRoCL87X_BIhA4nQyPt0",
+                                        "expiresAt": 1660780800000,
+                                        "height": 400
+                                    }
+                                ],
+                                "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQEogtUzGNFI-g/company-logo_"
+                            }
+                        },
+                        "universalName": "interactofwake",
+                        "dashCompanyUrn": "urn:li:fsd_company:1004919",
+                        "trackingId": "ACwAlgNXTSiajxG1yT0WRg=="
+                    }
+                },
+                "companyUrn": "urn:li:fs_miniCompany:1004919"
+            }
+        ],
+        "honors": [],
+        "projects": []
+    },
+    "contact_info": {
+        "email_address": null,
+        "websites": [],
+        "twitter": [],
+        "birthdate": {
+            "month": 9,
+            "day": 11
+        },
+        "ims": null,
+        "phone_numbers": []
+    },
+    "connections": [
+        {
+            "urn_id": "ACoAAByhqogBLFVDJbqojrVMhtKfC3o3hRfEcjg",
+            "distance": "DISTANCE_1",
+            "public_id": "biki-talukdar-460a54114",
+            "tracking_id": "480357000"
+        },
+        {
+            "urn_id": "ACoAABr4jt0BoOUmisITdRo1gR4CumG5I4jjZIw",
+            "distance": "DISTANCE_1",
+            "public_id": "samudra-deka-911659107",
+            "tracking_id": "452497117"
+        },
+        {
+            "urn_id": "ACoAADLJzxsBizdB0nN5NZBCM41Q-z6-7ef5gyI",
+            "distance": "DISTANCE_1",
+            "public_id": "deepjyoti-kalita-78b4411b9",
+            "tracking_id": "852086555"
+        },
+        {
+            "urn_id": "ACoAAC24GToBKzC8vS7jZaCEqoq3Jse_M2Tson8",
+            "distance": "DISTANCE_1",
+            "public_id": "abhijit-paul-936a68194",
+            "tracking_id": "767039802"
+        },
+        {
+            "urn_id": "ACoAADe3CFYBsoFdtSEajXbg51HDagdpBEb3kx4",
+            "distance": "DISTANCE_1",
+            "public_id": "binud-panging-872062221",
+            "tracking_id": "934742102"
+        },
+        {
+            "urn_id": "ACoAADZmR9QB1zOH_PmrzQQw2wQmTJRTcNGU7CE",
+            "distance": "DISTANCE_1",
+            "public_id": "bkalita",
+            "tracking_id": "912672724"
+        },
+        {
+            "urn_id": "ACoAAC2aUPYBGPB-T9xDu2Hjrq7OgzRPu5nTvyE",
+            "distance": "DISTANCE_1",
+            "public_id": "jintudas",
+            "tracking_id": "765087990"
+        },
+        {
+            "urn_id": "ACoAADbmf6QBc8hqz1SYgWY92D5X-_ijayWyiQM",
+            "distance": "DISTANCE_1",
+            "public_id": "arindam-bhowal-10",
+            "tracking_id": "921075620"
+        },
+        {
+            "urn_id": "ACoAACT67ZEBgw1Aprl8Aqy8zWMavdTyaWs7J3w",
+            "distance": "DISTANCE_1",
+            "public_id": "titikshya-das-015942153",
+            "tracking_id": "620424593"
+        },
+        {
+            "urn_id": "ACoAABlgPxsBN_TuPsno84LiwT35FxylJ83tcBw",
+            "distance": "DISTANCE_1",
+            "public_id": "biraj-das-1b76b4ba",
+            "tracking_id": "425738011"
+        },
+        {
+            "urn_id": "ACoAAAjgx0kBxJoPu_7t3kS1NbDizQekjIIzMbE",
+            "distance": "DISTANCE_1",
+            "public_id": "lakheswar-nath-289a7141",
+            "tracking_id": "148948809"
+        },
+        {
+            "urn_id": "ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE",
+            "distance": "DISTANCE_1",
+            "public_id": "prithoo11335",
+            "tracking_id": "231212168"
+        },
+        {
+            "urn_id": "ACoAACbTg-gBtT_YqZc-FG2lIVBv13QTx8UUB8E",
+            "distance": "DISTANCE_1",
+            "public_id": "mridul24",
+            "tracking_id": "651396072"
+        },
+        {
+            "urn_id": "ACoAACr0GSwBcmPDh22HqivG9h0JwG-eahXSYW8",
+            "distance": "DISTANCE_1",
+            "public_id": "nihar-kashyap98",
+            "tracking_id": "720640300"
+        },
+        {
+            "urn_id": "ACoAACzP6KMBcLKqKnFRpIudaukkoW4NoqstgrM",
+            "distance": "DISTANCE_1",
+            "public_id": "pranit-prakash-sahu",
+            "tracking_id": "751823011"
+        },
+        {
+            "urn_id": "ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY",
+            "distance": "DISTANCE_1",
+            "public_id": "tridip-das-b5837911b",
+            "tracking_id": "499568180"
+        },
+        {
+            "urn_id": "ACoAAC8MNEkBeOfT5XsGjm2znOBKa5A1eZma5Bw",
+            "distance": "DISTANCE_1",
+            "public_id": "jyotishmoy-deka-7214171a0",
+            "tracking_id": "789328969"
+        },
+        {
+            "urn_id": "ACoAACeXhGEBEVCUXmKi5rowUSeFZNerPjvzQsc",
+            "distance": "DISTANCE_1",
+            "public_id": "mahbubul-haque-a55552166",
+            "tracking_id": "664241249"
+        },
+        {
+            "urn_id": "ACoAAAI9wXoBijRhLoxf7BO8UTK0DX-7KexJV30",
+            "distance": "DISTANCE_1",
+            "public_id": "boren-ghosh-27671410",
+            "tracking_id": "37601658"
+        },
+        {
+            "urn_id": "ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8",
+            "distance": "DISTANCE_1",
+            "public_id": "sivaranjan-goswami-790b4523",
+            "tracking_id": "83451420"
+        },
+        {
+            "urn_id": "ACoAACZxhUQBl1V8kpLj4ACrE2LzpatGvVzEgSA",
+            "distance": "DISTANCE_1",
+            "public_id": "nabajyoti-borah-944000160",
+            "tracking_id": "644973892"
+        },
+        {
+            "urn_id": "ACoAACHlA7IB_d9MYYVP_4JgPjZfqJiP0PpAAk0",
+            "distance": "DISTANCE_1",
+            "public_id": "parthava-borah-98253713a",
+            "tracking_id": "568656818"
+        },
+        {
+            "urn_id": "ACoAACTFIIYB1cK_syRcCXEc0o8RTm4JMlhYcHA",
+            "distance": "DISTANCE_1",
+            "public_id": "arun-kumar-nath-686721152",
+            "tracking_id": "616898694"
+        },
+        {
+            "urn_id": "ACoAABYq8T8ByHFGBUFRrHT5iKBI2u4YZjTLHFc",
+            "distance": "DISTANCE_1",
+            "public_id": "netranjit-borgohain-53b677a4",
+            "tracking_id": "371913023"
+        },
+        {
+            "urn_id": "ACoAAC-mfboBv3YCLG2TYdY8DDGcxvth-aLDFXU",
+            "distance": "DISTANCE_1",
+            "public_id": "bhargov-jyoti-das-0a28931a3",
+            "tracking_id": "799440314"
+        },
+        {
+            "urn_id": "ACoAACDVs-sB_IgxPBMHMRBfR6is3jmwwV_OvTE",
+            "distance": "DISTANCE_1",
+            "public_id": "swapnil-bhattacharjee-ghy",
+            "tracking_id": "550876139"
+        },
+        {
+            "urn_id": "ACoAACUEZ3QB2Xm0OWR0cqoc_u-o4KW_OENO1_8",
+            "distance": "DISTANCE_1",
+            "public_id": "rajan-sahu",
+            "tracking_id": "621045620"
+        },
+        {
+            "urn_id": "ACoAAC4efLABFBv0f30-SDGDgLSf1gXTlkpJTfc",
+            "distance": "DISTANCE_1",
+            "public_id": "shawan-mandal",
+            "tracking_id": "773749936"
+        },
+        {
+            "urn_id": "ACoAAC12ZqEBCx9JN_YIi1eF1FPPDif3mXI3fyc",
+            "distance": "DISTANCE_1",
+            "public_id": "abinash-panigrahi-169531193",
+            "tracking_id": "762734241"
+        },
+        {
+            "urn_id": "ACoAACYmrvgBRdvWxItbY_KP_fyrEgZ9U-QKJqk",
+            "distance": "DISTANCE_1",
+            "public_id": "rtsu",
+            "tracking_id": "640069368"
+        },
+        {
+            "urn_id": "ACoAADRMKTMBj76XTPRfB9R5rvfwNOXP2n93n4c",
+            "distance": "DISTANCE_1",
+            "public_id": "manash-deka-497a12205",
+            "tracking_id": "877406515"
+        },
+        {
+            "urn_id": "ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc",
+            "distance": "DISTANCE_1",
+            "public_id": "ratnadeep-bhattacharjee",
+            "tracking_id": "135079003"
+        },
+        {
+            "urn_id": "ACoAAClGHl8Bkg1-FBWeyXHlveDeXDBovpxKYtw",
+            "distance": "DISTANCE_1",
+            "public_id": "raju-moni-borah-9bbaa1173",
+            "tracking_id": "692461151"
+        },
+        {
+            "urn_id": "ACoAADZ9mPoBBWha8sl8ryS_FeGMwpi6kGUzbzk",
+            "distance": "DISTANCE_1",
+            "public_id": "raj-prasad-4a21b7216",
+            "tracking_id": "914200826"
+        },
+        {
+            "urn_id": "ACoAAAR5v8MBjPwCvp8TP9RWZyGSeNYNiJ1wKJE",
+            "distance": "DISTANCE_1",
+            "public_id": "nilotpal-boruah",
+            "tracking_id": "75087811"
+        }
+    ],
+    "skills": [
+        {
+            "name": "C++"
+        },
+        {
+            "name": "Python (Programming Language)"
+        },
+        {
+            "name": "MySQL"
+        },
+        {
+            "name": "java"
+        },
+        {
+            "name": "Database Management System (DBMS)"
+        },
+        {
+            "name": "Data Structures"
+        },
+        {
+            "name": "Algorithms"
+        },
+        {
+            "name": "python"
+        },
+        {
+            "name": "C (Programming Language)"
+        },
+        {
+            "name": "Leadership"
+        },
+        {
+            "name": "Cascading Style Sheets (CSS)"
+        },
+        {
+            "name": "Management"
+        },
+        {
+            "name": "JavaScript"
+        },
+        {
+            "name": "HTML"
+        },
+        {
+            "name": "Node.js"
+        },
+        {
+            "name": "MongoDB"
+        },
+        {
+            "name": "SQL"
+        },
+        {
+            "name": "React.js"
+        },
+        {
+            "name": "Programming"
+        },
+        {
+            "name": "Linux"
+        },
+        {
+            "name": "Web Development"
+        },
+        {
+            "name": "HTML5"
+        },
+        {
+            "name": "Bootstrap"
+        },
+        {
+            "name": "Blockchain"
+        },
+        {
+            "name": "Solidity"
+        },
+        {
+            "name": "Ethereum"
+        }
+    ]
+}

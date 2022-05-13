@@ -1,0 +1,573 @@
+{
+    "profile": {
+        "summary": "Established in 1989, Motion Recruitment Partners LLC (MRP) is the parent company to a group of leading global talent solution providers including: \u2018Motion Recruitment\u2019 (IT Staffing & Managed Solutions), \u2018Sevenstep\u2019 (Enterprise & Project RPO, Managed Service Provider - MSP & Talent Data Analytics) and \u2018The Goal\u2019 (Tech Consulting & IT Teaming partnerships for the Federal marketplace). \nMRP\u2019s companies help businesses create breakthrough talent acquisition outcomes through a unique team-based approach, deep and proven marketplace expertise, and a relentless focus on partnership.\n\nWe\u2019re also the proud creators of Tech in Motion and the Timmy Awards, our North American events and award series that connects over 250,000 tech enthusiasts to meet, learn, and innovate.\n\nIf your company is in need of talented W2 full-time or W2 contract Data Scientists, Data Engineers, Machine Learning Engineers, and Python Engineers - shoot me a message and I will get you quality candidates lighting fast!\n\nI manage a team of six recruiters that specializes in placing Data Scientists, Data Engineers, Machine Learning Engineers, and Python Engineers in and around the city of Chicago.\n\nFeel free to send me a quick message!",
+        "industryName": "Staffing and Recruiting",
+        "lastName": "Medina",
+        "locationName": "United States",
+        "student": false,
+        "geoCountryName": "United States",
+        "geoCountryUrn": "urn:li:fs_geo:103644278",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "industryUrn": "urn:li:fs_industry:104",
+        "firstName": "Esteban",
+        "entityUrn": "urn:li:fs_profile:ACoAABt6goYBxq-bMxkMAnqJwPF6_KhJbCMcwTE",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:103112676"
+        },
+        "geoLocationName": "Chicago, Illinois",
+        "location": {
+            "basicLocation": {
+                "countryCode": "us"
+            }
+        },
+        "headline": "Team Manager, Staffing - Python Engineering | Data Engineering | Data Science | Machine Learning",
+        "displayPictureUrl": "https://media-exp1.licdn.com/dms/image/C4E03AQH1JwNFeCCAoA/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/0/1638979340456?e=1657756800&v=beta&t=hbF1v_MUPKCkxe5g2a4c96c2hZ8nGC8YoWpia0PSpTE",
+        "img_200_200": "200_200/0/1638979340456?e=1657756800&v=beta&t=C4XY8dZZmjNUcGtvknaKv7hQPjoNAWhN0yj6UVyEgI8",
+        "img_400_400": "400_400/0/1638979340456?e=1657756800&v=beta&t=kEN-CAuaKjKP88YMfZ0_qh9UFfVgouilS6Y_K4GQTUA",
+        "img_800_800": "800_800/0/1638979340456?e=1657756800&v=beta&t=eRLmKEL7Z7cS-quATE6JuPZP-HYZKsV9Ac5nB10H2OQ",
+        "profile_id": "ACoAABt6goYBxq-bMxkMAnqJwPF6_KhJbCMcwTE",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAABt6goYBxq-bMxkMAnqJwPF6_KhJbCMcwTE",
+        "member_urn": "urn:li:member:461013638",
+        "experience": [
+            {
+                "locationName": "Chicago, Illinois, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAABt6goYBxq-bMxkMAnqJwPF6_KhJbCMcwTE,1927145187)",
+                "geoLocationName": "Chicago, Illinois, United States",
+                "geoUrn": "urn:li:fs_geo:103112676",
+                "companyName": "Motion Recruitment",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 3,
+                        "year": 2022
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 501,
+                        "end": 1000
+                    },
+                    "industries": [
+                        "Staffing and Recruiting"
+                    ]
+                },
+                "title": "Team Manager, Staffing - Python Engineering | Data Engineering | Data Science | Machine Learning",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:5887",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQHUmO7QFJkx6A/company-logo_"
+            },
+            {
+                "locationName": "Greater Chicago Area",
+                "entityUrn": "urn:li:fs_position:(ACoAABt6goYBxq-bMxkMAnqJwPF6_KhJbCMcwTE,1644808282)",
+                "geoLocationName": "Greater Chicago Area",
+                "geoUrn": "urn:li:fs_geo:90000014",
+                "companyName": "Motion Recruitment (Previously DBA Workbridge/Jobspring)",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 3,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 10,
+                        "year": 2020
+                    }
+                },
+                "description": "Motion Recruitment (Previously DBA Workbridge/Jobspring) provides IT Staffing Solutions (Contract, Contract-to-Hire, and Direct Hire) for mission-critical positions across North America. Our high-touch, specialized, team-based recruitment model\u2019s success is proven through our exemplary track record in filling the most challenging IT positions for startup and enterprise clients alike. Our hyper-specialized tech focus results in a truly consultative approach for both our clients and candidates, within our recruiting areas of expertise: Software, Mobile, Data, Infrastructure, Cybersecurity, Product + UX and Functional. \n\nWe\u2019re also the proud creators of Tech in Motion and the Timmy Awards, our North American events and award series that connects over 250,000 tech enthusiasts to meet, learn, and innovate. ",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 501,
+                        "end": 1000
+                    },
+                    "industries": [
+                        "Staffing and Recruiting"
+                    ]
+                },
+                "title": "Team Lead, Staffing - Java | Scala | Clojure | Golang",
+                "region": "urn:li:fs_region:(us,14)",
+                "companyUrn": "urn:li:fs_miniCompany:5887",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQHUmO7QFJkx6A/company-logo_"
+            },
+            {
+                "locationName": "Chicago, Illinois, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAABt6goYBxq-bMxkMAnqJwPF6_KhJbCMcwTE,1687622413)",
+                "geoLocationName": "Chicago, Illinois, United States",
+                "geoUrn": "urn:li:fs_geo:103112676",
+                "companyName": "Workbridge Associates",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 10,
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "month": 7,
+                        "year": 2020
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 201,
+                        "end": 500
+                    },
+                    "industries": [
+                        "Staffing and Recruiting"
+                    ]
+                },
+                "title": "Lead Recruiter",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:243339",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQElObe0WQf2WA/company-logo_"
+            },
+            {
+                "locationName": "Chicago",
+                "entityUrn": "urn:li:fs_position:(ACoAABt6goYBxq-bMxkMAnqJwPF6_KhJbCMcwTE,1399103275)",
+                "geoLocationName": "Chicago",
+                "companyName": "Workbridge Associates",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 7,
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "month": 12,
+                        "year": 2018
+                    }
+                },
+                "description": "I specialize in placing Python, R, Java, Data Engineers, and Data Scientists!\n\nWorkbridge Associates is a professional IT recruitment agency that specializes in matching top IT professionals with organizations of all sizes that offer rewarding full-time and contract career opportunities. With a deep understanding of the most promising technologies being used in today\u2019s world, we fit seamlessly in the technology markets of the ten major North American cities we operate in. Unlike typical IT staffing agencies, we go the extra mile to show not only our commitment to candidates looking to progress their careers, but to the tech community as a whole. \n\nWorkbridge is a proud creator of Tech in Motion, a national event series that connects tech enthusiasts in the cities we operate in. Tech in Motion helps make real, human connections between tech companies and the candidates they are looking for. In every engagement, we take a personalized recruitment approach and meet with each candidate individually to understand their needs for a successful match. We pride ourselves in becoming an extended resource for you to further progress in your profession, so let our tech recruitment expertise assist you in taking the next step in your career.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 201,
+                        "end": 500
+                    },
+                    "industries": [
+                        "Staffing and Recruiting"
+                    ]
+                },
+                "title": "Recruiter",
+                "companyUrn": "urn:li:fs_miniCompany:243339",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQElObe0WQf2WA/company-logo_"
+            },
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAABt6goYBxq-bMxkMAnqJwPF6_KhJbCMcwTE,1380995571)",
+                "companyName": "Loyola Medicine",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2018
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2018
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 5001,
+                        "end": 10000
+                    },
+                    "industries": [
+                        "Hospital & Health Care"
+                    ]
+                },
+                "title": "Human Resources Specialist",
+                "companyUrn": "urn:li:fs_miniCompany:6476",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQGhAmF8_xPgDg/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAABt6goYBxq-bMxkMAnqJwPF6_KhJbCMcwTE,314231922)",
+                "school": {
+                    "objectUrn": "urn:li:school:18266",
+                    "entityUrn": "urn:li:fs_miniSchool:18266",
+                    "active": true,
+                    "schoolName": "Illinois State University",
+                    "trackingId": "HRbuDmhiRA+rydYEY9P5CA==",
+                    "logoUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQFPU2MERZQbWg/company-logo_"
+                },
+                "activities": "Former member of the Louis Stokes Alliance for Minority Participation program.\nFormer Ambassador at Illinois State University Office of Admissions",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2016
+                    },
+                    "startDate": {
+                        "year": 2012
+                    }
+                },
+                "description": "Graduated with discipline in Industrial/Organizational Psychology.",
+                "degreeName": "Bachelor's of Science (B.S.)",
+                "schoolName": "Illinois State University",
+                "fieldOfStudy": "Industrial and Organizational Psychology",
+                "honors": [
+                    "urn:li:fs_honor:(ACoAABt6goYBxq-bMxkMAnqJwPF6_KhJbCMcwTE,631703714)"
+                ],
+                "schoolUrn": "urn:li:fs_miniSchool:18266"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            },
+            {
+                "name": "Spanish",
+                "proficiency": "NATIVE_OR_BILINGUAL"
+            }
+        ],
+        "publications": [],
+        "certifications": [],
+        "volunteer": [],
+        "honors": [
+            {
+                "description": "Completed a sequence of courses designated by the College of Arts and Science to accredit my additional knowledge in the Human Resources Management field. ",
+                "occupation": "urn:li:fs_education:(ACoAABt6goYBxq-bMxkMAnqJwPF6_KhJbCMcwTE,314231922)",
+                "title": "Career Enhancement Competency in Human Resources Managment",
+                "issueDate": {
+                    "month": 1,
+                    "year": 2016
+                },
+                "issuer": "Illinois State University"
+            }
+        ],
+        "projects": []
+    },
+    "contact_info": {
+        "email_address": null,
+        "websites": [],
+        "twitter": [],
+        "birthdate": null,
+        "ims": null,
+        "phone_numbers": []
+    },
+    "connections": [
+        {
+            "urn_id": "ACoAAByhqogBLFVDJbqojrVMhtKfC3o3hRfEcjg",
+            "distance": "DISTANCE_1",
+            "public_id": "biki-talukdar-460a54114",
+            "tracking_id": "480357000"
+        },
+        {
+            "urn_id": "ACoAABr4jt0BoOUmisITdRo1gR4CumG5I4jjZIw",
+            "distance": "DISTANCE_1",
+            "public_id": "samudra-deka-911659107",
+            "tracking_id": "452497117"
+        },
+        {
+            "urn_id": "ACoAADLJzxsBizdB0nN5NZBCM41Q-z6-7ef5gyI",
+            "distance": "DISTANCE_1",
+            "public_id": "deepjyoti-kalita-78b4411b9",
+            "tracking_id": "852086555"
+        },
+        {
+            "urn_id": "ACoAAC24GToBKzC8vS7jZaCEqoq3Jse_M2Tson8",
+            "distance": "DISTANCE_1",
+            "public_id": "abhijit-paul-936a68194",
+            "tracking_id": "767039802"
+        },
+        {
+            "urn_id": "ACoAADe3CFYBsoFdtSEajXbg51HDagdpBEb3kx4",
+            "distance": "DISTANCE_1",
+            "public_id": "binud-panging-872062221",
+            "tracking_id": "934742102"
+        },
+        {
+            "urn_id": "ACoAADZmR9QB1zOH_PmrzQQw2wQmTJRTcNGU7CE",
+            "distance": "DISTANCE_1",
+            "public_id": "bkalita",
+            "tracking_id": "912672724"
+        },
+        {
+            "urn_id": "ACoAADbmf6QBc8hqz1SYgWY92D5X-_ijayWyiQM",
+            "distance": "DISTANCE_1",
+            "public_id": "arindam-bhowal-10",
+            "tracking_id": "921075620"
+        },
+        {
+            "urn_id": "ACoAAC2aUPYBGPB-T9xDu2Hjrq7OgzRPu5nTvyE",
+            "distance": "DISTANCE_1",
+            "public_id": "jintudas",
+            "tracking_id": "765087990"
+        },
+        {
+            "urn_id": "ACoAACT67ZEBgw1Aprl8Aqy8zWMavdTyaWs7J3w",
+            "distance": "DISTANCE_1",
+            "public_id": "titikshya-das-015942153",
+            "tracking_id": "620424593"
+        },
+        {
+            "urn_id": "ACoAAAjgx0kBxJoPu_7t3kS1NbDizQekjIIzMbE",
+            "distance": "DISTANCE_1",
+            "public_id": "lakheswar-nath-289a7141",
+            "tracking_id": "148948809"
+        },
+        {
+            "urn_id": "ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE",
+            "distance": "DISTANCE_1",
+            "public_id": "prithoo11335",
+            "tracking_id": "231212168"
+        },
+        {
+            "urn_id": "ACoAACbTg-gBtT_YqZc-FG2lIVBv13QTx8UUB8E",
+            "distance": "DISTANCE_1",
+            "public_id": "mridul24",
+            "tracking_id": "651396072"
+        },
+        {
+            "urn_id": "ACoAACr0GSwBcmPDh22HqivG9h0JwG-eahXSYW8",
+            "distance": "DISTANCE_1",
+            "public_id": "nihar-kashyap98",
+            "tracking_id": "720640300"
+        },
+        {
+            "urn_id": "ACoAACzP6KMBcLKqKnFRpIudaukkoW4NoqstgrM",
+            "distance": "DISTANCE_1",
+            "public_id": "pranit-prakash-sahu",
+            "tracking_id": "751823011"
+        },
+        {
+            "urn_id": "ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY",
+            "distance": "DISTANCE_1",
+            "public_id": "tridip-das-b5837911b",
+            "tracking_id": "499568180"
+        },
+        {
+            "urn_id": "ACoAAC8MNEkBeOfT5XsGjm2znOBKa5A1eZma5Bw",
+            "distance": "DISTANCE_1",
+            "public_id": "jyotishmoy-deka-7214171a0",
+            "tracking_id": "789328969"
+        },
+        {
+            "urn_id": "ACoAACeXhGEBEVCUXmKi5rowUSeFZNerPjvzQsc",
+            "distance": "DISTANCE_1",
+            "public_id": "mahbubul-haque-a55552166",
+            "tracking_id": "664241249"
+        },
+        {
+            "urn_id": "ACoAAAI9wXoBijRhLoxf7BO8UTK0DX-7KexJV30",
+            "distance": "DISTANCE_1",
+            "public_id": "boren-ghosh-27671410",
+            "tracking_id": "37601658"
+        },
+        {
+            "urn_id": "ACoAACZxhUQBl1V8kpLj4ACrE2LzpatGvVzEgSA",
+            "distance": "DISTANCE_1",
+            "public_id": "nabajyoti-borah-944000160",
+            "tracking_id": "644973892"
+        },
+        {
+            "urn_id": "ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8",
+            "distance": "DISTANCE_1",
+            "public_id": "sivaranjan-goswami-790b4523",
+            "tracking_id": "83451420"
+        },
+        {
+            "urn_id": "ACoAACHlA7IB_d9MYYVP_4JgPjZfqJiP0PpAAk0",
+            "distance": "DISTANCE_1",
+            "public_id": "parthava-borah-98253713a",
+            "tracking_id": "568656818"
+        },
+        {
+            "urn_id": "ACoAACTFIIYB1cK_syRcCXEc0o8RTm4JMlhYcHA",
+            "distance": "DISTANCE_1",
+            "public_id": "arun-kumar-nath-686721152",
+            "tracking_id": "616898694"
+        },
+        {
+            "urn_id": "ACoAABYq8T8ByHFGBUFRrHT5iKBI2u4YZjTLHFc",
+            "distance": "DISTANCE_1",
+            "public_id": "netranjit-borgohain-53b677a4",
+            "tracking_id": "371913023"
+        },
+        {
+            "urn_id": "ACoAAC-mfboBv3YCLG2TYdY8DDGcxvth-aLDFXU",
+            "distance": "DISTANCE_1",
+            "public_id": "bhargov-jyoti-das-0a28931a3",
+            "tracking_id": "799440314"
+        },
+        {
+            "urn_id": "ACoAACDVs-sB_IgxPBMHMRBfR6is3jmwwV_OvTE",
+            "distance": "DISTANCE_1",
+            "public_id": "swapnil-bhattacharjee-ghy",
+            "tracking_id": "550876139"
+        },
+        {
+            "urn_id": "ACoAAC4efLABFBv0f30-SDGDgLSf1gXTlkpJTfc",
+            "distance": "DISTANCE_1",
+            "public_id": "shawan-mandal",
+            "tracking_id": "773749936"
+        },
+        {
+            "urn_id": "ACoAACUEZ3QB2Xm0OWR0cqoc_u-o4KW_OENO1_8",
+            "distance": "DISTANCE_1",
+            "public_id": "rajan-sahu",
+            "tracking_id": "621045620"
+        },
+        {
+            "urn_id": "ACoAAC12ZqEBCx9JN_YIi1eF1FPPDif3mXI3fyc",
+            "distance": "DISTANCE_1",
+            "public_id": "abinash-panigrahi-169531193",
+            "tracking_id": "762734241"
+        },
+        {
+            "urn_id": "ACoAACYmrvgBRdvWxItbY_KP_fyrEgZ9U-QKJqk",
+            "distance": "DISTANCE_1",
+            "public_id": "rtsu",
+            "tracking_id": "640069368"
+        },
+        {
+            "urn_id": "ACoAADRMKTMBj76XTPRfB9R5rvfwNOXP2n93n4c",
+            "distance": "DISTANCE_1",
+            "public_id": "manash-deka-497a12205",
+            "tracking_id": "877406515"
+        },
+        {
+            "urn_id": "ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc",
+            "distance": "DISTANCE_1",
+            "public_id": "ratnadeep-bhattacharjee",
+            "tracking_id": "135079003"
+        },
+        {
+            "urn_id": "ACoAAAR5v8MBjPwCvp8TP9RWZyGSeNYNiJ1wKJE",
+            "distance": "DISTANCE_1",
+            "public_id": "nilotpal-boruah",
+            "tracking_id": "75087811"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Organization Skills"
+        },
+        {
+            "name": "Customer Service"
+        },
+        {
+            "name": "Microsoft Office"
+        },
+        {
+            "name": "IBM SPSS Statistics software"
+        },
+        {
+            "name": "Public Speaking"
+        },
+        {
+            "name": "Time Management"
+        },
+        {
+            "name": "Research"
+        },
+        {
+            "name": "Leadership"
+        },
+        {
+            "name": "Project Management"
+        },
+        {
+            "name": "Strategic Planning"
+        },
+        {
+            "name": "Teamwork"
+        },
+        {
+            "name": "Communication"
+        },
+        {
+            "name": "Interviews"
+        },
+        {
+            "name": "Strategic Sourcing"
+        },
+        {
+            "name": "Temporary Placement"
+        },
+        {
+            "name": "Permanent Placement"
+        },
+        {
+            "name": "Contract Negotiation"
+        },
+        {
+            "name": "Data Entry"
+        },
+        {
+            "name": "Reporting & Analysis"
+        },
+        {
+            "name": "CPR Certified"
+        },
+        {
+            "name": "Screening Resumes"
+        },
+        {
+            "name": "Relationship Building",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:50125",
+            "standardizedSkill": {
+                "name": "Relationship Building",
+                "entityUrn": "urn:li:fs_miniSkill:50125"
+            }
+        },
+        {
+            "name": "Recruiting",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:44",
+            "standardizedSkill": {
+                "name": "Recruiting",
+                "entityUrn": "urn:li:fs_miniSkill:44"
+            }
+        },
+        {
+            "name": "Team Building",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:1165",
+            "standardizedSkill": {
+                "name": "Team Building",
+                "entityUrn": "urn:li:fs_miniSkill:1165"
+            }
+        },
+        {
+            "name": "Hiring",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:730",
+            "standardizedSkill": {
+                "name": "Hiring",
+                "entityUrn": "urn:li:fs_miniSkill:730"
+            }
+        },
+        {
+            "name": "New Hire Orientations",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:5993",
+            "standardizedSkill": {
+                "name": "New Hire Orientations",
+                "entityUrn": "urn:li:fs_miniSkill:5993"
+            }
+        },
+        {
+            "name": "Applicant Tracking Systems",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:2711",
+            "standardizedSkill": {
+                "name": "Applicant Tracking Systems",
+                "entityUrn": "urn:li:fs_miniSkill:2711"
+            }
+        },
+        {
+            "name": "Onboarding",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:1776",
+            "standardizedSkill": {
+                "name": "Onboarding",
+                "entityUrn": "urn:li:fs_miniSkill:1776"
+            }
+        },
+        {
+            "name": "Cold Calling",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:1223",
+            "standardizedSkill": {
+                "name": "Cold Calling",
+                "entityUrn": "urn:li:fs_miniSkill:1223"
+            }
+        },
+        {
+            "name": "Microsoft Outlook",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:828",
+            "standardizedSkill": {
+                "name": "Microsoft Outlook",
+                "entityUrn": "urn:li:fs_miniSkill:828"
+            }
+        }
+    ]
+}

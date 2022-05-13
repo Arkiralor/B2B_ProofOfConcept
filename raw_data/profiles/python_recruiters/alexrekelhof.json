@@ -1,0 +1,567 @@
+{
+    "profile": {
+        "summary": "Specialties: \nJava / .NET / PHP / Python / Front-end / Javascript / Android / iOS / Testing / C++ / Scrum Master\n\nManaging personal accounts, maximising the business from the corporate sales team and identifying and investigating new areas of business.\n\nBeing aware of the market trends, acting on this knowledge.\n\nUnderstanding and implementing the sales process in accordance with the company rules and parameters.\n\nAchievement of personal goals through daily weekly and monthly plans\n\nSelf development through daily, weekly, monthly reviews, identification of training needs and engaging in appropriate training.\n\nImplementing company strategy and communicating corporate message to Clients\n\nAerospace and Defence, Automotive, Banking, Chemicals, Consumer Products, Defence & Security, Engineering and Construction, Financial Service Provider, Healthcare, Higher Education and Research, High Tech, Industrial Machinery & Components, Insurance, Life Sciences, Media, Mill Products, Mining, Oil & Gas, Pharmaceuticals, Professional Services, Public Sector, Real Estate, Retail, Telecommunications, Travel & Logistics Services, Utilities, Wholesale Distribution\n\nPlease contact: \n+31655414677\nAlexander@HoffConsult.com",
+        "industryName": "Internet Publishing",
+        "lastName": "Rekelhof",
+        "locationName": "Netherlands",
+        "student": false,
+        "geoCountryName": "Netherlands",
+        "geoCountryUrn": "urn:li:fs_geo:102890719",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "birthDate": {
+            "month": 3,
+            "day": 25
+        },
+        "industryUrn": "urn:li:fs_industry:6",
+        "firstName": "Alexander",
+        "entityUrn": "urn:li:fs_profile:ACoAAAD_unsBRydOh2rXeGs5ILXE8ZrRnlyB8iU",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:103100785"
+        },
+        "geoLocationName": "Amsterdam, North Holland",
+        "location": {
+            "basicLocation": {
+                "countryCode": "nl"
+            }
+        },
+        "headline": "Technical interim recruiter",
+        "displayPictureUrl": "https://media-exp1.licdn.com/dms/image/D4E35AQFDkQXr02dAnA/profile-framedphoto-shrink_",
+        "img_200_200": "200_200/0/1648813240174?e=1653030000&v=beta&t=OJmGatdttuYIctAZiE679U3MArsI4PIqg-hY__OcqiA",
+        "img_400_400": "400_400/0/1648813240174?e=1653030000&v=beta&t=yr8-CLPrOTziNX3X747c0C5n5OwDTLiQwhyJzJkX--c",
+        "img_800_800": "800_800/0/1648813240174?e=1653030000&v=beta&t=VJam-lrgB8FDRsi2daF3jgQIDgVve52lOHR5XL33DVY",
+        "img_100_100": "100_100/0/1648813240174?e=1653030000&v=beta&t=Udxexpzx0VWJ2nY27YKvfv0P-DkgqOK0Wylx6erM5hs",
+        "profile_id": "ACoAAAD_unsBRydOh2rXeGs5ILXE8ZrRnlyB8iU",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAAAD_unsBRydOh2rXeGs5ILXE8ZrRnlyB8iU",
+        "member_urn": "urn:li:member:16759419",
+        "experience": [
+            {
+                "locationName": "Amsterdam, North Holland, Netherlands",
+                "entityUrn": "urn:li:fs_position:(ACoAAAD_unsBRydOh2rXeGs5ILXE8ZrRnlyB8iU,1809342693)",
+                "geoLocationName": "Amsterdam, North Holland, Netherlands",
+                "geoUrn": "urn:li:fs_geo:102011674",
+                "companyName": "TomTom",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 7,
+                        "year": 2021
+                    }
+                },
+                "description": "- Partnering with hiring managers to fulfill vacancies with the most talented technical people \n- Screening and selecting candidates based on TomTom selection, scheduling interviews;\n- Cooperation with payroll and administration department in drafting new contracts and documents for new hires, and managing existing ones;\n\nFocused on IT roles for Autonomous Driving projects in TomTom. As a consultant, apart from sourcing candidates, I provide market insights to the business, help setting strategies and advise on best practices.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 1001,
+                        "end": 5000
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Senior Technical Recruiter",
+                "region": "urn:li:fs_region:(nl,0)",
+                "companyUrn": "urn:li:fs_miniCompany:166474",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQHVN9JI46r7sg/company-logo_"
+            },
+            {
+                "locationName": "Amsterdam, North Holland, Netherlands",
+                "entityUrn": "urn:li:fs_position:(ACoAAAD_unsBRydOh2rXeGs5ILXE8ZrRnlyB8iU,1809343498)",
+                "geoLocationName": "Amsterdam, North Holland, Netherlands",
+                "geoUrn": "urn:li:fs_geo:102011674",
+                "companyName": "felyx - Now hiring! \u26a1\ufe0f",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 3,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 7,
+                        "year": 2021
+                    }
+                },
+                "description": "\ud83d\udef5felyx is a fast, convenient and sustainable way to move through the city\n\n\u26a1\ufe0fWe are hiring!\n\ud83d\udd0eHave a look at the job openings: https://careers.felyx.nl/\n\u2709\ufe0f Please contact me when you are or know the perfect fit!",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 201,
+                        "end": 500
+                    },
+                    "industries": [
+                        "Internet"
+                    ]
+                },
+                "title": "Senior Technical Recruiter",
+                "region": "urn:li:fs_region:(nl,0)",
+                "companyUrn": "urn:li:fs_miniCompany:15155772",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQFZjYoyhiAIYg/company-logo_"
+            },
+            {
+                "locationName": "Amsterdam",
+                "entityUrn": "urn:li:fs_position:(ACoAAAD_unsBRydOh2rXeGs5ILXE8ZrRnlyB8iU,239750057)",
+                "geoLocationName": "Amsterdam",
+                "companyName": "HoFFConsult",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 3,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 12,
+                        "year": 2011
+                    }
+                },
+                "description": "Het verstrekken van werving en selectie diensten aan meerdere multinationals in verschillende sectoren.\nInterim Recruitment voor IT ondernemingen, het genereren van toestroom van kandidaten, interviewen van kandidaten en het managen van bestaande FTE.\nEen netwerk uitbreiden binnen Recruitment en IT.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 2,
+                        "end": 10
+                    },
+                    "industries": [
+                        "Human Resources"
+                    ]
+                },
+                "title": "Owner and Founder of Hoff Consult",
+                "companyUrn": "urn:li:fs_miniCompany:17956893"
+            },
+            {
+                "locationName": "Amsterdam Area, Netherlands",
+                "entityUrn": "urn:li:fs_position:(ACoAAAD_unsBRydOh2rXeGs5ILXE8ZrRnlyB8iU,1574236161)",
+                "geoLocationName": "Amsterdam Area, Netherlands",
+                "geoUrn": "urn:li:fs_geo:90009706",
+                "companyName": "FreshBooks",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2020
+                    }
+                },
+                "description": "At FreshBooks our philosophy is to Execute Extraordinary Experiences Everyday. This permeates into everything we do, from our award-winning customer support to how we design our product and the values we live everyday as FreshBookers.\n\n- Currently focussing on scaling the Dutch Office",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 201,
+                        "end": 500
+                    },
+                    "industries": [
+                        "Computer Software"
+                    ]
+                },
+                "title": "Senior Talent Acquisition Specialist",
+                "region": "urn:li:fs_region:(nl,5664)",
+                "companyUrn": "urn:li:fs_miniCompany:116468",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQF2TxrAaOUtag/company-logo_"
+            },
+            {
+                "locationName": "Amsterdam Area, Netherlands",
+                "entityUrn": "urn:li:fs_position:(ACoAAAD_unsBRydOh2rXeGs5ILXE8ZrRnlyB8iU,1519475660)",
+                "geoLocationName": "Amsterdam Area, Netherlands",
+                "geoUrn": "urn:li:fs_geo:90009706",
+                "companyName": "Booking.com",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2019
+                    }
+                },
+                "description": "We are the planet\u2019s #1 accommodation site. Our diverse team consists of more than 15,000 people and is united by a single mission: to empower people to experience the world. We help our customers to make over one million bookings every day.\n\nOur tech team is based in the heart of Amsterdam and comprised of talented designers and developers working collaboratively to make booking a room even easier.\n\nWe're growing quickly and are always on the look out for new additions to our Tech team. If you enjoy working in a diverse, fast-paced environment where people are encouraged to pursue their own ideas, then Booking.com might be a great place for you",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Internet"
+                    ]
+                },
+                "title": "Recruitment Partner a.i.",
+                "region": "urn:li:fs_region:(nl,5664)",
+                "companyUrn": "urn:li:fs_miniCompany:11348",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQEgzF5azm3fNA/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAAD_unsBRydOh2rXeGs5ILXE8ZrRnlyB8iU,367332380)",
+                "grade": "HBO",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2007
+                    },
+                    "startDate": {
+                        "year": 2003
+                    }
+                },
+                "schoolName": "HVA",
+                "fieldOfStudy": "Commerci\u00eble Economie"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAAD_unsBRydOh2rXeGs5ILXE8ZrRnlyB8iU,13808420)",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2002
+                    },
+                    "startDate": {
+                        "year": 1998
+                    }
+                },
+                "degreeName": "Gymnasium",
+                "schoolName": "Ignatius"
+            }
+        ],
+        "languages": [],
+        "publications": [],
+        "certifications": [],
+        "volunteer": [],
+        "honors": [],
+        "projects": []
+    },
+    "contact_info": {
+        "email_address": null,
+        "websites": [],
+        "twitter": [],
+        "birthdate": {
+            "month": 3,
+            "day": 25
+        },
+        "ims": null,
+        "phone_numbers": []
+    },
+    "connections": [
+        {
+            "urn_id": "ACoAAByhqogBLFVDJbqojrVMhtKfC3o3hRfEcjg",
+            "distance": "DISTANCE_1",
+            "public_id": "biki-talukdar-460a54114",
+            "tracking_id": "480357000"
+        },
+        {
+            "urn_id": "ACoAABr4jt0BoOUmisITdRo1gR4CumG5I4jjZIw",
+            "distance": "DISTANCE_1",
+            "public_id": "samudra-deka-911659107",
+            "tracking_id": "452497117"
+        },
+        {
+            "urn_id": "ACoAADLJzxsBizdB0nN5NZBCM41Q-z6-7ef5gyI",
+            "distance": "DISTANCE_1",
+            "public_id": "deepjyoti-kalita-78b4411b9",
+            "tracking_id": "852086555"
+        },
+        {
+            "urn_id": "ACoAAC24GToBKzC8vS7jZaCEqoq3Jse_M2Tson8",
+            "distance": "DISTANCE_1",
+            "public_id": "abhijit-paul-936a68194",
+            "tracking_id": "767039802"
+        },
+        {
+            "urn_id": "ACoAADe3CFYBsoFdtSEajXbg51HDagdpBEb3kx4",
+            "distance": "DISTANCE_1",
+            "public_id": "binud-panging-872062221",
+            "tracking_id": "934742102"
+        },
+        {
+            "urn_id": "ACoAADZmR9QB1zOH_PmrzQQw2wQmTJRTcNGU7CE",
+            "distance": "DISTANCE_1",
+            "public_id": "bkalita",
+            "tracking_id": "912672724"
+        },
+        {
+            "urn_id": "ACoAADbmf6QBc8hqz1SYgWY92D5X-_ijayWyiQM",
+            "distance": "DISTANCE_1",
+            "public_id": "arindam-bhowal-10",
+            "tracking_id": "921075620"
+        },
+        {
+            "urn_id": "ACoAAC2aUPYBGPB-T9xDu2Hjrq7OgzRPu5nTvyE",
+            "distance": "DISTANCE_1",
+            "public_id": "jintudas",
+            "tracking_id": "765087990"
+        },
+        {
+            "urn_id": "ACoAACT67ZEBgw1Aprl8Aqy8zWMavdTyaWs7J3w",
+            "distance": "DISTANCE_1",
+            "public_id": "titikshya-das-015942153",
+            "tracking_id": "620424593"
+        },
+        {
+            "urn_id": "ACoAAAjgx0kBxJoPu_7t3kS1NbDizQekjIIzMbE",
+            "distance": "DISTANCE_1",
+            "public_id": "lakheswar-nath-289a7141",
+            "tracking_id": "148948809"
+        },
+        {
+            "urn_id": "ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE",
+            "distance": "DISTANCE_1",
+            "public_id": "prithoo11335",
+            "tracking_id": "231212168"
+        },
+        {
+            "urn_id": "ACoAACbTg-gBtT_YqZc-FG2lIVBv13QTx8UUB8E",
+            "distance": "DISTANCE_1",
+            "public_id": "mridul24",
+            "tracking_id": "651396072"
+        },
+        {
+            "urn_id": "ACoAACr0GSwBcmPDh22HqivG9h0JwG-eahXSYW8",
+            "distance": "DISTANCE_1",
+            "public_id": "nihar-kashyap98",
+            "tracking_id": "720640300"
+        },
+        {
+            "urn_id": "ACoAACzP6KMBcLKqKnFRpIudaukkoW4NoqstgrM",
+            "distance": "DISTANCE_1",
+            "public_id": "pranit-prakash-sahu",
+            "tracking_id": "751823011"
+        },
+        {
+            "urn_id": "ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY",
+            "distance": "DISTANCE_1",
+            "public_id": "tridip-das-b5837911b",
+            "tracking_id": "499568180"
+        },
+        {
+            "urn_id": "ACoAAC8MNEkBeOfT5XsGjm2znOBKa5A1eZma5Bw",
+            "distance": "DISTANCE_1",
+            "public_id": "jyotishmoy-deka-7214171a0",
+            "tracking_id": "789328969"
+        },
+        {
+            "urn_id": "ACoAACeXhGEBEVCUXmKi5rowUSeFZNerPjvzQsc",
+            "distance": "DISTANCE_1",
+            "public_id": "mahbubul-haque-a55552166",
+            "tracking_id": "664241249"
+        },
+        {
+            "urn_id": "ACoAAAI9wXoBijRhLoxf7BO8UTK0DX-7KexJV30",
+            "distance": "DISTANCE_1",
+            "public_id": "boren-ghosh-27671410",
+            "tracking_id": "37601658"
+        },
+        {
+            "urn_id": "ACoAACZxhUQBl1V8kpLj4ACrE2LzpatGvVzEgSA",
+            "distance": "DISTANCE_1",
+            "public_id": "nabajyoti-borah-944000160",
+            "tracking_id": "644973892"
+        },
+        {
+            "urn_id": "ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8",
+            "distance": "DISTANCE_1",
+            "public_id": "sivaranjan-goswami-790b4523",
+            "tracking_id": "83451420"
+        },
+        {
+            "urn_id": "ACoAACHlA7IB_d9MYYVP_4JgPjZfqJiP0PpAAk0",
+            "distance": "DISTANCE_1",
+            "public_id": "parthava-borah-98253713a",
+            "tracking_id": "568656818"
+        },
+        {
+            "urn_id": "ACoAACTFIIYB1cK_syRcCXEc0o8RTm4JMlhYcHA",
+            "distance": "DISTANCE_1",
+            "public_id": "arun-kumar-nath-686721152",
+            "tracking_id": "616898694"
+        },
+        {
+            "urn_id": "ACoAABYq8T8ByHFGBUFRrHT5iKBI2u4YZjTLHFc",
+            "distance": "DISTANCE_1",
+            "public_id": "netranjit-borgohain-53b677a4",
+            "tracking_id": "371913023"
+        },
+        {
+            "urn_id": "ACoAAC-mfboBv3YCLG2TYdY8DDGcxvth-aLDFXU",
+            "distance": "DISTANCE_1",
+            "public_id": "bhargov-jyoti-das-0a28931a3",
+            "tracking_id": "799440314"
+        },
+        {
+            "urn_id": "ACoAACDVs-sB_IgxPBMHMRBfR6is3jmwwV_OvTE",
+            "distance": "DISTANCE_1",
+            "public_id": "swapnil-bhattacharjee-ghy",
+            "tracking_id": "550876139"
+        },
+        {
+            "urn_id": "ACoAAC4efLABFBv0f30-SDGDgLSf1gXTlkpJTfc",
+            "distance": "DISTANCE_1",
+            "public_id": "shawan-mandal",
+            "tracking_id": "773749936"
+        },
+        {
+            "urn_id": "ACoAACUEZ3QB2Xm0OWR0cqoc_u-o4KW_OENO1_8",
+            "distance": "DISTANCE_1",
+            "public_id": "rajan-sahu",
+            "tracking_id": "621045620"
+        },
+        {
+            "urn_id": "ACoAAC12ZqEBCx9JN_YIi1eF1FPPDif3mXI3fyc",
+            "distance": "DISTANCE_1",
+            "public_id": "abinash-panigrahi-169531193",
+            "tracking_id": "762734241"
+        },
+        {
+            "urn_id": "ACoAACYmrvgBRdvWxItbY_KP_fyrEgZ9U-QKJqk",
+            "distance": "DISTANCE_1",
+            "public_id": "rtsu",
+            "tracking_id": "640069368"
+        },
+        {
+            "urn_id": "ACoAADRMKTMBj76XTPRfB9R5rvfwNOXP2n93n4c",
+            "distance": "DISTANCE_1",
+            "public_id": "manash-deka-497a12205",
+            "tracking_id": "877406515"
+        },
+        {
+            "urn_id": "ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc",
+            "distance": "DISTANCE_1",
+            "public_id": "ratnadeep-bhattacharjee",
+            "tracking_id": "135079003"
+        },
+        {
+            "urn_id": "ACoAAAR5v8MBjPwCvp8TP9RWZyGSeNYNiJ1wKJE",
+            "distance": "DISTANCE_1",
+            "public_id": "nilotpal-boruah",
+            "tracking_id": "75087811"
+        }
+    ],
+    "skills": [
+        {
+            "name": ".net"
+        },
+        {
+            "name": "java"
+        },
+        {
+            "name": "PHP"
+        },
+        {
+            "name": "C#"
+        },
+        {
+            "name": "C++"
+        },
+        {
+            "name": "CSS"
+        },
+        {
+            "name": "HTML/XML"
+        },
+        {
+            "name": "Drupal"
+        },
+        {
+            "name": "Oracle Developer 2000"
+        },
+        {
+            "name": "Oracle Apex"
+        },
+        {
+            "name": "ASP.NET"
+        },
+        {
+            "name": "Python"
+        },
+        {
+            "name": "Lotus Notes"
+        },
+        {
+            "name": "ABAP"
+        },
+        {
+            "name": "Delphi"
+        },
+        {
+            "name": "OOP"
+        },
+        {
+            "name": "ERP"
+        },
+        {
+            "name": "Sales Management"
+        },
+        {
+            "name": "Technical Recruiting"
+        },
+        {
+            "name": "PL/SQL"
+        },
+        {
+            "name": "VB.NET"
+        },
+        {
+            "name": "JavaScript"
+        },
+        {
+            "name": "SQL"
+        },
+        {
+            "name": "MySQL"
+        },
+        {
+            "name": "Web Services"
+        },
+        {
+            "name": "mobile development"
+        },
+        {
+            "name": "agile"
+        },
+        {
+            "name": "scrum"
+        },
+        {
+            "name": "Scrum"
+        },
+        {
+            "name": "Databases"
+        },
+        {
+            "name": "Java"
+        },
+        {
+            "name": "Networking"
+        },
+        {
+            "name": ".NET"
+        },
+        {
+            "name": "Agile Methodologies"
+        },
+        {
+            "name": "IT Service Management"
+        },
+        {
+            "name": "IT Recruitment"
+        },
+        {
+            "name": "Hibernate"
+        },
+        {
+            "name": "Cloud Computing"
+        },
+        {
+            "name": "Enterprise Resource Planning (ERP)"
+        },
+        {
+            "name": "Business Intelligence"
+        },
+        {
+            "name": ".NET Framework"
+        },
+        {
+            "name": "Software as a Service (SaaS)"
+        },
+        {
+            "name": "Consulting"
+        },
+        {
+            "name": "Oracle"
+        },
+        {
+            "name": "Cascading Style Sheets (CSS)"
+        },
+        {
+            "name": "Virtualization"
+        }
+    ]
+}

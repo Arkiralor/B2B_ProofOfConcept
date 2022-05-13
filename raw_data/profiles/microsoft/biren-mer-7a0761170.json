@@ -1,0 +1,249 @@
+{
+    "profile": {
+        "summary": "Currently pursuing B.E. Computer Engineering at Sal Engineering and Technical Institute , at Ahmedabad India. And also a Microsoft Student Ambassador.",
+        "industryName": "Software Development",
+        "lastName": "Mer",
+        "locationName": "India",
+        "student": false,
+        "geoCountryName": "India",
+        "geoCountryUrn": "urn:li:fs_geo:102713980",
+        "geoLocationBackfilled": false,
+        "elt": true,
+        "birthDate": {
+            "month": 5,
+            "day": 5
+        },
+        "industryUrn": "urn:li:fs_industry:4",
+        "firstName": "Biren",
+        "entityUrn": "urn:li:fs_profile:ACoAACiwxSgBvL2DlhHkbG7Ci7jHDKrFeIFSnZE",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:101588871"
+        },
+        "geoLocationName": "Gujarat",
+        "location": {
+            "basicLocation": {
+                "countryCode": "in"
+            }
+        },
+        "headline": "\u03b2 Microsoft Learn Student Ambassadors at Microsoft \nComputer Engineer - AI and ML Enthusiastic",
+        "displayPictureUrl": "https://media-exp1.licdn.com/dms/image/C5603AQEELkm-BtKreg/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/0/1626892093260?e=1657756800&v=beta&t=ZThc5Ih8IXJrkqPtWNi2MJcZDgCp02fOX7LKIbAMxEU",
+        "img_200_200": "200_200/0/1626892093260?e=1657756800&v=beta&t=CL9Hg-BTGPwAK0Mn6EGNiErDflrxktRpxMp9i74V4Xs",
+        "img_400_400": "400_400/0/1626892093260?e=1657756800&v=beta&t=cEC90eltKjuUqemHE7Qb5MdnoPv2fX-blZ-alwjN-dU",
+        "img_800_800": "800_800/0/1626892093260?e=1657756800&v=beta&t=GjiHlQ2QTZIvD419XxqDbUEG3nsIEtHo8sc_JlrLQ4Q",
+        "profile_id": "ACoAACiwxSgBvL2DlhHkbG7Ci7jHDKrFeIFSnZE",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAACiwxSgBvL2DlhHkbG7Ci7jHDKrFeIFSnZE",
+        "member_urn": "urn:li:member:682673448",
+        "experience": [],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAACiwxSgBvL2DlhHkbG7Ci7jHDKrFeIFSnZE,612453814)",
+                "school": {
+                    "objectUrn": "urn:li:school:215300",
+                    "entityUrn": "urn:li:fs_miniSchool:215300",
+                    "active": true,
+                    "schoolName": "SAL ENGINEERING AND TECHNICAL INSTITUTE",
+                    "trackingId": "QLefmACmQLy5v2/XCVoNQg=="
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2023
+                    },
+                    "startDate": {
+                        "year": 2019
+                    }
+                },
+                "description": "I have recently entered in B.E. COMPUTER ENGINEERING an I am exploring the new stuff about the language and hardware of the computers and Enjoying the studies and coding..",
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100175",
+                "degreeName": "Computer engineering ",
+                "schoolName": "SAL ENGINEERING AND TECHNICAL INSTITUTE",
+                "fieldOfStudy": "Artificial Intelligence",
+                "schoolUrn": "urn:li:fs_miniSchool:215300"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAACiwxSgBvL2DlhHkbG7Ci7jHDKrFeIFSnZE,595440741)",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "year": 2017
+                    }
+                },
+                "degreeName": "H.S.C",
+                "schoolName": "St Mary's school",
+                "fieldOfStudy": "SCIENCE A STREM"
+            }
+        ],
+        "languages": [],
+        "publications": [],
+        "certifications": [],
+        "volunteer": [],
+        "honors": [],
+        "projects": []
+    },
+    "contact_info": {
+        "email_address": null,
+        "websites": [],
+        "twitter": [],
+        "birthdate": {
+            "month": 5,
+            "day": 5
+        },
+        "ims": null,
+        "phone_numbers": []
+    },
+    "connections": [
+        {
+            "urn_id": "ACoAACTFIIYB1cK_syRcCXEc0o8RTm4JMlhYcHA",
+            "distance": "DISTANCE_1",
+            "public_id": "arun-kumar-nath-686721152",
+            "tracking_id": "616898694"
+        }
+    ],
+    "skills": [
+        {
+            "name": "C++",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:198",
+            "standardizedSkill": {
+                "name": "C++",
+                "entityUrn": "urn:li:fs_miniSkill:198"
+            }
+        },
+        {
+            "name": "C (Programming Language)",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:438",
+            "standardizedSkill": {
+                "name": "C (Programming Language)",
+                "entityUrn": "urn:li:fs_miniSkill:438"
+            }
+        },
+        {
+            "name": "HTML5",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:8638",
+            "standardizedSkill": {
+                "name": "HTML5",
+                "entityUrn": "urn:li:fs_miniSkill:8638"
+            }
+        },
+        {
+            "name": "Cascading Style Sheets (CSS)",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:307",
+            "standardizedSkill": {
+                "name": "Cascading Style Sheets (CSS)",
+                "entityUrn": "urn:li:fs_miniSkill:307"
+            }
+        },
+        {
+            "name": "SQL",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:483",
+            "standardizedSkill": {
+                "name": "SQL",
+                "entityUrn": "urn:li:fs_miniSkill:483"
+            }
+        },
+        {
+            "name": "JavaScript",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:218",
+            "standardizedSkill": {
+                "name": "JavaScript",
+                "entityUrn": "urn:li:fs_miniSkill:218"
+            }
+        },
+        {
+            "name": "Java",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:147",
+            "standardizedSkill": {
+                "name": "Java",
+                "entityUrn": "urn:li:fs_miniSkill:147"
+            }
+        },
+        {
+            "name": "Python (Programming Language)",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:1346",
+            "standardizedSkill": {
+                "name": "Python (Programming Language)",
+                "entityUrn": "urn:li:fs_miniSkill:1346"
+            }
+        },
+        {
+            "name": "Microsoft Excel",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:163",
+            "standardizedSkill": {
+                "name": "Microsoft Excel",
+                "entityUrn": "urn:li:fs_miniSkill:163"
+            }
+        },
+        {
+            "name": "Microsoft Office",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:366",
+            "standardizedSkill": {
+                "name": "Microsoft Office",
+                "entityUrn": "urn:li:fs_miniSkill:366"
+            }
+        },
+        {
+            "name": "Microsoft Word",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:260",
+            "standardizedSkill": {
+                "name": "Microsoft Word",
+                "entityUrn": "urn:li:fs_miniSkill:260"
+            }
+        },
+        {
+            "name": "Microsoft PowerPoint",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:310",
+            "standardizedSkill": {
+                "name": "Microsoft PowerPoint",
+                "entityUrn": "urn:li:fs_miniSkill:310"
+            }
+        },
+        {
+            "name": "Microsoft Outlook",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:828",
+            "standardizedSkill": {
+                "name": "Microsoft Outlook",
+                "entityUrn": "urn:li:fs_miniSkill:828"
+            }
+        },
+        {
+            "name": "Database Design",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:1471",
+            "standardizedSkill": {
+                "name": "Database Design",
+                "entityUrn": "urn:li:fs_miniSkill:1471"
+            }
+        },
+        {
+            "name": "MySQL",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:380",
+            "standardizedSkill": {
+                "name": "MySQL",
+                "entityUrn": "urn:li:fs_miniSkill:380"
+            }
+        },
+        {
+            "name": "Database Management System (DBMS)",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:14012",
+            "standardizedSkill": {
+                "name": "Database Management System (DBMS)",
+                "entityUrn": "urn:li:fs_miniSkill:14012"
+            }
+        },
+        {
+            "name": "R (Programming Language)"
+        },
+        {
+            "name": "Computer Vision"
+        },
+        {
+            "name": "PHP"
+        },
+        {
+            "name": "HTML"
+        },
+        {
+            "name": "Web Development"
+        }
+    ]
+}

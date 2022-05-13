@@ -1,0 +1,742 @@
+{
+    "profile": {
+        "summary": "Currently working as a Associate Recruiter at Vbeyond Corporation. Graduated in B.Tech Computer Science from SHRI RAMSWAROOP MEMORIAL UNIVERSITY, Lucknow. I have done internships at Pie Infocomm in java technology, python and MBA(HR) and certified in C from IIT BOMBAY.",
+        "industryName": "Human Resources Services",
+        "lastName": "Eden",
+        "locationName": "India",
+        "student": false,
+        "geoCountryName": "India",
+        "geoCountryUrn": "urn:li:fs_geo:102713980",
+        "geoLocationBackfilled": false,
+        "elt": true,
+        "industryUrn": "urn:li:fs_industry:137",
+        "firstName": "Jasbir",
+        "entityUrn": "urn:li:fs_profile:ACoAADBRkxgB3Cf-dYKOkqSsbVoirCL8vrM4UPc",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:102335936"
+        },
+        "geoLocationName": "Lucknow, Uttar Pradesh",
+        "location": {
+            "basicLocation": {
+                "countryCode": "in"
+            }
+        },
+        "headline": "Hiring for Ocean Plugin developer|| DoF || HCA,EC || RightAngle Developer||OSI PI || AspenTech(IP21) || Oracle CC&B || .net developer || Angular UI || Azure/ML data engineering ||   Share your resume on JEden@Vbeyond.com",
+        "displayPictureUrl": "https://media-exp1.licdn.com/dms/image/C5603AQEFzwhipufTcg/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/0/1635691038624?e=1657756800&v=beta&t=oR0tELOki7sFNugz_ciKPzm3NLXoW7mW5ORHPCS3Dmc",
+        "img_200_200": "200_200/0/1635691038624?e=1657756800&v=beta&t=r-NB6XPqZJJ48JOe-pb1OsLRvqKqmgsk9F8iX1ZSI4w",
+        "img_400_400": "400_400/0/1635691038624?e=1657756800&v=beta&t=XDsz45QJWjaT89pV03MVF1rZGmOQK56hTGBpgMJxMyA",
+        "img_800_800": "800_800/0/1635691038624?e=1657756800&v=beta&t=qAKPSEnEjY6PSRDZC2GFsdU8kgOFbDVanVhSXkML5mM",
+        "profile_id": "ACoAADBRkxgB3Cf-dYKOkqSsbVoirCL8vrM4UPc",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAADBRkxgB3Cf-dYKOkqSsbVoirCL8vrM4UPc",
+        "member_urn": "urn:li:member:810652440",
+        "experience": [
+            {
+                "locationName": "Lucknow, Uttar Pradesh, India",
+                "entityUrn": "urn:li:fs_position:(ACoAADBRkxgB3Cf-dYKOkqSsbVoirCL8vrM4UPc,1932054505)",
+                "geoLocationName": "Lucknow, Uttar Pradesh, India",
+                "geoUrn": "urn:li:fs_geo:102335936",
+                "companyName": "VBeyond Corporation",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 3,
+                        "year": 2022
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 201,
+                        "end": 500
+                    },
+                    "industries": [
+                        "Staffing and Recruiting"
+                    ]
+                },
+                "title": "Associate Recruiter",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:1284511",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C560BAQG2W6BoqD8MNg/company-logo_"
+            },
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAADBRkxgB3Cf-dYKOkqSsbVoirCL8vrM4UPc,1839939772)",
+                "companyName": "BYJU'S",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 2,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 9,
+                        "year": 2021
+                    }
+                },
+                "description": "1. Assessed customer needs and made arrangements adhering to company policies. \n2. Handled upset and escalated calls.\n3. Ensured all new admission call activities are maintained according to guidelines. \n4. Maintained and updated outbound call reports.\n5. Assisted sales team with incoming requests for new services.\n6. Updated customer accounts and maintained the database using Salesforce.\n7. Adhered to and exceed company set metrics on a monthly basis.\n8. Mentoring, Consulting and Guiding the students about the educational services/ products dispensed by BYJUS for learning purposes.\n9. Ensuring speedy resolution of technical issues, contributing towards maintaining high customer satisfaction and quality scores.\n10.Hands on experience in Salesforce, Lead squared, Fresh desk, OMS, CRM.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "E-Learning"
+                    ]
+                },
+                "title": "Customer Success Expert",
+                "companyUrn": "urn:li:fs_miniCompany:2395365",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C560BAQFT0ygNCprpAA/company-logo_"
+            },
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAADBRkxgB3Cf-dYKOkqSsbVoirCL8vrM4UPc,1862057059)",
+                "companyName": "Jconnect Infotech Inc",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 8,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 7,
+                        "year": 2021
+                    }
+                },
+                "description": "1.Create announcements for open job positions; post announcements on major job posting websites such as Naukari, Monster, and LinkedIn to attract interested candidates. Screening applications and sourcing suitable candidates for job interviews.\n2.Screening potential job applicants to assess qualifications and capabilities; guide candidates through application process, interview rounds and notify candidates of results for each open position and help to recruit top talent for many MNCs.\n3.Successfully placed 5 employees in a span of two months.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 51,
+                        "end": 200
+                    },
+                    "industries": [
+                        "Staffing and Recruiting"
+                    ]
+                },
+                "title": "Technical Recruiter",
+                "companyUrn": "urn:li:fs_miniCompany:14454652",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C510BAQG2qdRZwbGk-g/company-logo_"
+            },
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAADBRkxgB3Cf-dYKOkqSsbVoirCL8vrM4UPc,1862050947)",
+                "companyName": "WhiteHat Jr",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 6,
+                        "year": 2021
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 5001,
+                        "end": 10000
+                    },
+                    "industries": [
+                        "E-Learning"
+                    ]
+                },
+                "title": "Pre-sales internship",
+                "companyUrn": "urn:li:fs_miniCompany:14505919",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQFLb50MjbgEbA/company-logo_"
+            },
+            {
+                "locationName": "Lucknow, Uttar Pradesh, India",
+                "entityUrn": "urn:li:fs_position:(ACoAADBRkxgB3Cf-dYKOkqSsbVoirCL8vrM4UPc,1664289715)",
+                "geoLocationName": "Lucknow, Uttar Pradesh, India",
+                "geoUrn": "urn:li:fs_geo:102335936",
+                "companyName": "Pie Infocomm Pvt. Ltd.",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "month": 6,
+                        "year": 2020
+                    }
+                },
+                "description": "Internship in python",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 201,
+                        "end": 500
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Summer Intern",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:31280425",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C510BAQHTUTKiMOSbyw/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAADBRkxgB3Cf-dYKOkqSsbVoirCL8vrM4UPc,757006279)",
+                "school": {
+                    "objectUrn": "urn:li:school:204059",
+                    "entityUrn": "urn:li:fs_miniSchool:204059",
+                    "active": true,
+                    "schoolName": "CHANDIGARH UNIVERSITY",
+                    "trackingId": "+rFYezmYT1mi00qMM/zkWQ==",
+                    "logoUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQEmJ1x0JWWf6Q/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "month": 8,
+                        "year": 2023
+                    },
+                    "startDate": {
+                        "month": 7,
+                        "year": 2021
+                    }
+                },
+                "degreeName": "Master of Business Administration - MBA",
+                "schoolName": "CHANDIGARH UNIVERSITY",
+                "degreeUrn": "urn:li:fs_degree:700",
+                "schoolUrn": "urn:li:fs_miniSchool:204059"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAADBRkxgB3Cf-dYKOkqSsbVoirCL8vrM4UPc,648588881)",
+                "school": {
+                    "objectUrn": "urn:li:school:219718",
+                    "entityUrn": "urn:li:fs_miniSchool:219718",
+                    "active": true,
+                    "schoolName": "SHRI RAMSWAROOP MEMORIAL UNIVERSITY",
+                    "trackingId": "N7fOIfteSiyOvR33pThklQ==",
+                    "logoUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQFy39GCSOogeA/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "year": 2017
+                    }
+                },
+                "degreeName": "Bachelor of Technology - BTech",
+                "schoolName": "SHRI RAMSWAROOP MEMORIAL UNIVERSITY",
+                "fieldOfStudy": "Computer Science",
+                "schoolUrn": "urn:li:fs_miniSchool:219718"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAADBRkxgB3Cf-dYKOkqSsbVoirCL8vrM4UPc,648590855)",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2017
+                    },
+                    "startDate": {
+                        "year": 2015
+                    }
+                },
+                "description": "schooling",
+                "degreeName": "12",
+                "schoolName": "Spring Dale College",
+                "fieldOfStudy": "Mathematics and Computer Science"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "proficiency": "PROFESSIONAL_WORKING"
+            },
+            {
+                "name": "Hindi",
+                "proficiency": "PROFESSIONAL_WORKING"
+            },
+            {
+                "name": "Punjabi",
+                "proficiency": "FULL_PROFESSIONAL"
+            }
+        ],
+        "publications": [],
+        "certifications": [
+            {
+                "authority": "Indian Institute of Technology, Bombay",
+                "name": "Certificate for completion of C Training",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 11,
+                        "year": 2018
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:157266",
+                    "entityUrn": "urn:li:fs_miniCompany:157266",
+                    "name": "Indian Institute of Technology, Bombay",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1519882262216?e=1660780800&v=beta&t=htYCY8YAnqfS42m4Cs0-Szfc0xuuN-Y9r6t5E-bMIU0",
+                                    "expiresAt": 1660780800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1519882262216?e=1660780800&v=beta&t=mn_Bvl808R6TcHqwaGiLQUrW8Bns6n1zVg5FXR5GevA",
+                                    "expiresAt": 1660780800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1519882262216?e=1660780800&v=beta&t=FE9DDIieuEkSJNg5sjR7WltYtIcIxQtQ1h4rFfBrpyo",
+                                    "expiresAt": 1660780800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQFd0YbG4efCfg/company-logo_"
+                        }
+                    },
+                    "universalName": "indian-institute-of-technology-bombay",
+                    "dashCompanyUrn": "urn:li:fsd_company:157266",
+                    "trackingId": "1XftWHngTKmY1ochZnUwAQ=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:157266"
+            },
+            {
+                "authority": "SHRI RAMSWAROOP MEMORIAL UNIVERSITY",
+                "name": "National conference on RAICS-2k18",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 11,
+                        "year": 2018
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:15123294",
+                    "entityUrn": "urn:li:fs_miniCompany:15123294",
+                    "name": "SHRI RAMSWAROOP MEMORIAL UNIVERSITY",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1593424701943?e=1660780800&v=beta&t=R2WLU6Cq7otUxe7Bn0eHOma3loefNGGrdRoECNVg1wQ",
+                                    "expiresAt": 1660780800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1593424701943?e=1660780800&v=beta&t=336ZvR7kDMC2RpJuvPkOhzJB8m45euiTEk9YpMPAy9s",
+                                    "expiresAt": 1660780800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1593424701943?e=1660780800&v=beta&t=VhQUbzyjzwuQB-0K3OndCCFzP9LREhmgM0om6F5A2Ns",
+                                    "expiresAt": 1660780800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQFy39GCSOogeA/company-logo_"
+                        }
+                    },
+                    "universalName": "shri-ramswaroop-memorial-university",
+                    "dashCompanyUrn": "urn:li:fsd_company:15123294",
+                    "trackingId": "IJM0HamrSZiiYVpCj3UjFA=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:15123294"
+            },
+            {
+                "authority": "Udemy",
+                "name": "Website Hacking/penetration Testing & Bug Bounty",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 11,
+                        "year": 2020
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:822535",
+                    "entityUrn": "urn:li:fs_miniCompany:822535",
+                    "name": "Udemy",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1626275253364?e=1660780800&v=beta&t=8ncdc7ddscHa3JHSykZWtdTUaHgyz-aUHFEUaG7Sn7k",
+                                    "expiresAt": 1660780800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1626275253364?e=1660780800&v=beta&t=1O7HeueUDAa8UYEy529TuAiMjCkBZKo2sISVq25vU5Q",
+                                    "expiresAt": 1660780800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1626275253364?e=1660780800&v=beta&t=CTu5FfdRE-d9USfU-DA7BYmjuwPsubVd1gRr-HjgdVQ",
+                                    "expiresAt": 1660780800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQFQr9e68bBOPQ/company-logo_"
+                        }
+                    },
+                    "universalName": "udemy",
+                    "dashCompanyUrn": "urn:li:fsd_company:822535",
+                    "trackingId": "hrS32YtZQCWeUcDX1eUJHg=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:822535"
+            }
+        ],
+        "volunteer": [
+            {
+                "role": "event organiser",
+                "companyName": "SHAAN E AWADH(Talent hunt show)",
+                "cause": "ARTS_AND_CULTURE"
+            },
+            {
+                "role": "Volunteer",
+                "companyName": "Robin Hood",
+                "cause": "EDUCATION",
+                "company": {
+                    "miniCompany": {
+                        "objectUrn": "urn:li:company:24643",
+                        "entityUrn": "urn:li:fs_miniCompany:24643",
+                        "name": "Robin Hood",
+                        "showcase": false,
+                        "active": true,
+                        "logo": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1519856372457?e=1660780800&v=beta&t=AT190YlpwA8XHU8Y99uVbGhtJteTdSp3SzbWu6iwXaw",
+                                        "expiresAt": 1660780800000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1519856372457?e=1660780800&v=beta&t=tRu7qhdbufBCt4aptaCRWS603bSotk1mZz1oYX5B0EU",
+                                        "expiresAt": 1660780800000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1519856372457?e=1660780800&v=beta&t=W-3m0fSL34Vp0p14-KXHF7kAeVOdAEetcEtQCdjnAEo",
+                                        "expiresAt": 1660780800000,
+                                        "height": 400
+                                    }
+                                ],
+                                "rootUrl": "https://media-exp1.licdn.com/dms/image/C510BAQEONGBeLTc2Yw/company-logo_"
+                            }
+                        },
+                        "universalName": "robin-hood",
+                        "dashCompanyUrn": "urn:li:fsd_company:24643",
+                        "trackingId": "ylbPP0dvQ/aw4rdAnolWkA=="
+                    }
+                },
+                "companyUrn": "urn:li:fs_miniCompany:24643"
+            }
+        ],
+        "honors": [],
+        "projects": []
+    },
+    "contact_info": {
+        "email_address": null,
+        "websites": [],
+        "twitter": [],
+        "birthdate": null,
+        "ims": null,
+        "phone_numbers": []
+    },
+    "connections": [
+        {
+            "urn_id": "ACoAAByhqogBLFVDJbqojrVMhtKfC3o3hRfEcjg",
+            "distance": "DISTANCE_1",
+            "public_id": "biki-talukdar-460a54114",
+            "tracking_id": "480357000"
+        },
+        {
+            "urn_id": "ACoAABr4jt0BoOUmisITdRo1gR4CumG5I4jjZIw",
+            "distance": "DISTANCE_1",
+            "public_id": "samudra-deka-911659107",
+            "tracking_id": "452497117"
+        },
+        {
+            "urn_id": "ACoAADLJzxsBizdB0nN5NZBCM41Q-z6-7ef5gyI",
+            "distance": "DISTANCE_1",
+            "public_id": "deepjyoti-kalita-78b4411b9",
+            "tracking_id": "852086555"
+        },
+        {
+            "urn_id": "ACoAAC24GToBKzC8vS7jZaCEqoq3Jse_M2Tson8",
+            "distance": "DISTANCE_1",
+            "public_id": "abhijit-paul-936a68194",
+            "tracking_id": "767039802"
+        },
+        {
+            "urn_id": "ACoAADe3CFYBsoFdtSEajXbg51HDagdpBEb3kx4",
+            "distance": "DISTANCE_1",
+            "public_id": "binud-panging-872062221",
+            "tracking_id": "934742102"
+        },
+        {
+            "urn_id": "ACoAADZmR9QB1zOH_PmrzQQw2wQmTJRTcNGU7CE",
+            "distance": "DISTANCE_1",
+            "public_id": "bkalita",
+            "tracking_id": "912672724"
+        },
+        {
+            "urn_id": "ACoAADbmf6QBc8hqz1SYgWY92D5X-_ijayWyiQM",
+            "distance": "DISTANCE_1",
+            "public_id": "arindam-bhowal-10",
+            "tracking_id": "921075620"
+        },
+        {
+            "urn_id": "ACoAAC2aUPYBGPB-T9xDu2Hjrq7OgzRPu5nTvyE",
+            "distance": "DISTANCE_1",
+            "public_id": "jintudas",
+            "tracking_id": "765087990"
+        },
+        {
+            "urn_id": "ACoAACT67ZEBgw1Aprl8Aqy8zWMavdTyaWs7J3w",
+            "distance": "DISTANCE_1",
+            "public_id": "titikshya-das-015942153",
+            "tracking_id": "620424593"
+        },
+        {
+            "urn_id": "ACoAAAjgx0kBxJoPu_7t3kS1NbDizQekjIIzMbE",
+            "distance": "DISTANCE_1",
+            "public_id": "lakheswar-nath-289a7141",
+            "tracking_id": "148948809"
+        },
+        {
+            "urn_id": "ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE",
+            "distance": "DISTANCE_1",
+            "public_id": "prithoo11335",
+            "tracking_id": "231212168"
+        },
+        {
+            "urn_id": "ACoAACbTg-gBtT_YqZc-FG2lIVBv13QTx8UUB8E",
+            "distance": "DISTANCE_1",
+            "public_id": "mridul24",
+            "tracking_id": "651396072"
+        },
+        {
+            "urn_id": "ACoAACr0GSwBcmPDh22HqivG9h0JwG-eahXSYW8",
+            "distance": "DISTANCE_1",
+            "public_id": "nihar-kashyap98",
+            "tracking_id": "720640300"
+        },
+        {
+            "urn_id": "ACoAACzP6KMBcLKqKnFRpIudaukkoW4NoqstgrM",
+            "distance": "DISTANCE_1",
+            "public_id": "pranit-prakash-sahu",
+            "tracking_id": "751823011"
+        },
+        {
+            "urn_id": "ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY",
+            "distance": "DISTANCE_1",
+            "public_id": "tridip-das-b5837911b",
+            "tracking_id": "499568180"
+        },
+        {
+            "urn_id": "ACoAAC8MNEkBeOfT5XsGjm2znOBKa5A1eZma5Bw",
+            "distance": "DISTANCE_1",
+            "public_id": "jyotishmoy-deka-7214171a0",
+            "tracking_id": "789328969"
+        },
+        {
+            "urn_id": "ACoAACeXhGEBEVCUXmKi5rowUSeFZNerPjvzQsc",
+            "distance": "DISTANCE_1",
+            "public_id": "mahbubul-haque-a55552166",
+            "tracking_id": "664241249"
+        },
+        {
+            "urn_id": "ACoAAAI9wXoBijRhLoxf7BO8UTK0DX-7KexJV30",
+            "distance": "DISTANCE_1",
+            "public_id": "boren-ghosh-27671410",
+            "tracking_id": "37601658"
+        },
+        {
+            "urn_id": "ACoAACZxhUQBl1V8kpLj4ACrE2LzpatGvVzEgSA",
+            "distance": "DISTANCE_1",
+            "public_id": "nabajyoti-borah-944000160",
+            "tracking_id": "644973892"
+        },
+        {
+            "urn_id": "ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8",
+            "distance": "DISTANCE_1",
+            "public_id": "sivaranjan-goswami-790b4523",
+            "tracking_id": "83451420"
+        },
+        {
+            "urn_id": "ACoAACHlA7IB_d9MYYVP_4JgPjZfqJiP0PpAAk0",
+            "distance": "DISTANCE_1",
+            "public_id": "parthava-borah-98253713a",
+            "tracking_id": "568656818"
+        },
+        {
+            "urn_id": "ACoAACTFIIYB1cK_syRcCXEc0o8RTm4JMlhYcHA",
+            "distance": "DISTANCE_1",
+            "public_id": "arun-kumar-nath-686721152",
+            "tracking_id": "616898694"
+        },
+        {
+            "urn_id": "ACoAABYq8T8ByHFGBUFRrHT5iKBI2u4YZjTLHFc",
+            "distance": "DISTANCE_1",
+            "public_id": "netranjit-borgohain-53b677a4",
+            "tracking_id": "371913023"
+        },
+        {
+            "urn_id": "ACoAAC-mfboBv3YCLG2TYdY8DDGcxvth-aLDFXU",
+            "distance": "DISTANCE_1",
+            "public_id": "bhargov-jyoti-das-0a28931a3",
+            "tracking_id": "799440314"
+        },
+        {
+            "urn_id": "ACoAACDVs-sB_IgxPBMHMRBfR6is3jmwwV_OvTE",
+            "distance": "DISTANCE_1",
+            "public_id": "swapnil-bhattacharjee-ghy",
+            "tracking_id": "550876139"
+        },
+        {
+            "urn_id": "ACoAAC4efLABFBv0f30-SDGDgLSf1gXTlkpJTfc",
+            "distance": "DISTANCE_1",
+            "public_id": "shawan-mandal",
+            "tracking_id": "773749936"
+        },
+        {
+            "urn_id": "ACoAACUEZ3QB2Xm0OWR0cqoc_u-o4KW_OENO1_8",
+            "distance": "DISTANCE_1",
+            "public_id": "rajan-sahu",
+            "tracking_id": "621045620"
+        },
+        {
+            "urn_id": "ACoAAC12ZqEBCx9JN_YIi1eF1FPPDif3mXI3fyc",
+            "distance": "DISTANCE_1",
+            "public_id": "abinash-panigrahi-169531193",
+            "tracking_id": "762734241"
+        },
+        {
+            "urn_id": "ACoAACYmrvgBRdvWxItbY_KP_fyrEgZ9U-QKJqk",
+            "distance": "DISTANCE_1",
+            "public_id": "rtsu",
+            "tracking_id": "640069368"
+        },
+        {
+            "urn_id": "ACoAADRMKTMBj76XTPRfB9R5rvfwNOXP2n93n4c",
+            "distance": "DISTANCE_1",
+            "public_id": "manash-deka-497a12205",
+            "tracking_id": "877406515"
+        },
+        {
+            "urn_id": "ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc",
+            "distance": "DISTANCE_1",
+            "public_id": "ratnadeep-bhattacharjee",
+            "tracking_id": "135079003"
+        },
+        {
+            "urn_id": "ACoAAAR5v8MBjPwCvp8TP9RWZyGSeNYNiJ1wKJE",
+            "distance": "DISTANCE_1",
+            "public_id": "nilotpal-boruah",
+            "tracking_id": "75087811"
+        }
+    ],
+    "skills": [
+        {
+            "name": "C (Programming Language)",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:438",
+            "standardizedSkill": {
+                "name": "C (Programming Language)",
+                "entityUrn": "urn:li:fs_miniSkill:438"
+            }
+        },
+        {
+            "name": "Python (Programming Language)",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:1346",
+            "standardizedSkill": {
+                "name": "Python (Programming Language)",
+                "entityUrn": "urn:li:fs_miniSkill:1346"
+            }
+        },
+        {
+            "name": "Java"
+        },
+        {
+            "name": "Computer Science"
+        },
+        {
+            "name": "Web Technologies"
+        },
+        {
+            "name": "Core Java",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:3409",
+            "standardizedSkill": {
+                "name": "Core Java",
+                "entityUrn": "urn:li:fs_miniSkill:3409"
+            }
+        },
+        {
+            "name": "SQL",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:483",
+            "standardizedSkill": {
+                "name": "SQL",
+                "entityUrn": "urn:li:fs_miniSkill:483"
+            }
+        },
+        {
+            "name": "HTML",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:280",
+            "standardizedSkill": {
+                "name": "HTML",
+                "entityUrn": "urn:li:fs_miniSkill:280"
+            }
+        },
+        {
+            "name": "Linux"
+        },
+        {
+            "name": "Oracle Database"
+        },
+        {
+            "name": "Communication"
+        },
+        {
+            "name": "Teamwork"
+        },
+        {
+            "name": "Leadership"
+        },
+        {
+            "name": "Public Speaking"
+        },
+        {
+            "name": "Microsoft Excel"
+        },
+        {
+            "name": "Programming Languages"
+        },
+        {
+            "name": "Management"
+        },
+        {
+            "name": "Interpersonal Skills"
+        },
+        {
+            "name": "Microsoft Office"
+        },
+        {
+            "name": "Technical Recruiting"
+        },
+        {
+            "name": "Recruiting"
+        },
+        {
+            "name": "IT Recruitment"
+        },
+        {
+            "name": "Customer Success"
+        }
+    ]
+}

@@ -1,0 +1,1031 @@
+{
+    "profile": {
+        "summary": "I'm a Computer Applications Graduate currently pursuing my Masters in Computer Applications at Shri Ramswaroop Memorial University, Lucknow. I'm passionate about Software Development, Businesses, Travelling, and Stock Markets. I exhibit a Progressive mindset and I'm eager to learn and adapt to different Learning and Performing environments.",
+        "industryName": "Financial Services",
+        "lastName": "Yadav",
+        "locationName": "India",
+        "student": false,
+        "geoCountryName": "India",
+        "geoCountryUrn": "urn:li:fs_geo:102713980",
+        "geoLocationBackfilled": false,
+        "elt": true,
+        "birthDate": {
+            "month": 1,
+            "day": 28
+        },
+        "industryUrn": "urn:li:fs_industry:43",
+        "firstName": "Mr. Abhinav",
+        "entityUrn": "urn:li:fs_profile:ACoAACub2kUBjQntYuEQvtEzR5yYCAkM5-Xs3VI",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:102335936"
+        },
+        "geoLocationName": "Lucknow, Uttar Pradesh",
+        "location": {
+            "basicLocation": {
+                "countryCode": "in"
+            }
+        },
+        "headline": "Technical Recruiter || Sub-Broking Partner",
+        "displayPictureUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQGMW8eZCh-xbg/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/0/1651597764647?e=1657756800&v=beta&t=-3yQFMuTwbONQDKh2-JNCzwtHHOIfK6049nmGUTIA5U",
+        "img_200_200": "200_200/0/1651597764647?e=1657756800&v=beta&t=WwQNesDi1uPKjKFdPE9ERrZRF3UEX91b5MiY1iLPheo",
+        "img_400_400": "400_400/0/1651597764647?e=1657756800&v=beta&t=-H8hZqHRHX4QsCi2zM2kDie7OuA5BnWI-0pHnARpf74",
+        "img_800_800": "800_800/0/1651597764647?e=1657756800&v=beta&t=k6m4XAapDFIjs57meu3ErOgyEHicC8a-7fKscePD2w4",
+        "profile_id": "ACoAACub2kUBjQntYuEQvtEzR5yYCAkM5-Xs3VI",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAACub2kUBjQntYuEQvtEzR5yYCAkM5-Xs3VI",
+        "member_urn": "urn:li:member:731634245",
+        "experience": [
+            {
+                "locationName": "Minnesota, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAACub2kUBjQntYuEQvtEzR5yYCAkM5-Xs3VI,1928147449)",
+                "geoLocationName": "Minnesota, United States",
+                "geoUrn": "urn:li:fs_geo:103411167",
+                "companyName": "TALENT Software Services",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 3,
+                        "year": 2022
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 51,
+                        "end": 200
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Associate Recruiter",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:21279",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQF3GNTy_v5o-g/company-logo_"
+            },
+            {
+                "locationName": "Lucknow, Uttar Pradesh, India",
+                "entityUrn": "urn:li:fs_position:(ACoAACub2kUBjQntYuEQvtEzR5yYCAkM5-Xs3VI,1950865671)",
+                "geoLocationName": "Lucknow, Uttar Pradesh, India",
+                "geoUrn": "urn:li:fs_geo:102335936",
+                "companyName": "IIFL Securities",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 4,
+                        "year": 2022
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 51,
+                        "end": 200
+                    },
+                    "industries": [
+                        "Financial Services"
+                    ]
+                },
+                "title": "Business Partner",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:67508376",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C560BAQExUkpx_acDJA/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAACub2kUBjQntYuEQvtEzR5yYCAkM5-Xs3VI,731671726)",
+                "school": {
+                    "objectUrn": "urn:li:school:219718",
+                    "entityUrn": "urn:li:fs_miniSchool:219718",
+                    "active": true,
+                    "schoolName": "SHRI RAMSWAROOP MEMORIAL UNIVERSITY",
+                    "trackingId": "CUFoAcMTTv+VbNE/Bdt/cg==",
+                    "logoUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQFy39GCSOogeA/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "month": 10,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 10,
+                        "year": 2020
+                    }
+                },
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100189",
+                "degreeName": "Master of Computer Applications - MCA",
+                "schoolName": "SHRI RAMSWAROOP MEMORIAL UNIVERSITY",
+                "fieldOfStudy": "Computer Science",
+                "degreeUrn": "urn:li:fs_degree:594",
+                "schoolUrn": "urn:li:fs_miniSchool:219718"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAACub2kUBjQntYuEQvtEzR5yYCAkM5-Xs3VI,591356577)",
+                "school": {
+                    "objectUrn": "urn:li:school:219718",
+                    "entityUrn": "urn:li:fs_miniSchool:219718",
+                    "active": true,
+                    "schoolName": "SHRI RAMSWAROOP MEMORIAL UNIVERSITY",
+                    "trackingId": "xAxCIAXiRwGznF55+5bc1g==",
+                    "logoUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQFy39GCSOogeA/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "year": 2017
+                    }
+                },
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100189",
+                "degreeName": "Bachelor Of Computer Applications",
+                "schoolName": "SHRI RAMSWAROOP MEMORIAL UNIVERSITY",
+                "fieldOfStudy": "Computer Science",
+                "schoolUrn": "urn:li:fs_miniSchool:219718"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "proficiency": "PROFESSIONAL_WORKING"
+            }
+        ],
+        "publications": [],
+        "certifications": [
+            {
+                "authority": "Aspiring Minds",
+                "name": "Data Processing Specialist",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 9,
+                        "year": 2019
+                    }
+                },
+                "licenseNumber": "12530527-211",
+                "company": {
+                    "objectUrn": "urn:li:company:838197",
+                    "entityUrn": "urn:li:fs_miniCompany:838197",
+                    "name": "Aspiring Minds",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1588132864668?e=1660780800&v=beta&t=AsHcrpc-OJlnan-iToq3l6yxtIXJGpWJxz345Eqw_kQ",
+                                    "expiresAt": 1660780800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1588132864668?e=1660780800&v=beta&t=WrS51e6lB_6bqaTPWs-sK5DC8n1IMdXcsl4VWVIZbOw",
+                                    "expiresAt": 1660780800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1588132864668?e=1660780800&v=beta&t=65gwixAvsLZAJNN331NTdQdqcWu52eIhXkUyFN5etMw",
+                                    "expiresAt": 1660780800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQGv-bQANStG4g/company-logo_"
+                        }
+                    },
+                    "universalName": "aspiring-minds",
+                    "dashCompanyUrn": "urn:li:fsd_company:838197",
+                    "trackingId": "+ZrX2w/hRiuIaRr6xI4LjA=="
+                },
+                "displaySource": "myamcat.com",
+                "companyUrn": "urn:li:fs_miniCompany:838197",
+                "url": "https://www.myamcat.com/certificate/12530527/data-processing-specialist/211"
+            },
+            {
+                "authority": "Aspiring Minds",
+                "name": "Creative Content Developer",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 9,
+                        "year": 2019
+                    }
+                },
+                "licenseNumber": "12530527-209",
+                "company": {
+                    "objectUrn": "urn:li:company:838197",
+                    "entityUrn": "urn:li:fs_miniCompany:838197",
+                    "name": "Aspiring Minds",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1588132864668?e=1660780800&v=beta&t=AsHcrpc-OJlnan-iToq3l6yxtIXJGpWJxz345Eqw_kQ",
+                                    "expiresAt": 1660780800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1588132864668?e=1660780800&v=beta&t=WrS51e6lB_6bqaTPWs-sK5DC8n1IMdXcsl4VWVIZbOw",
+                                    "expiresAt": 1660780800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1588132864668?e=1660780800&v=beta&t=65gwixAvsLZAJNN331NTdQdqcWu52eIhXkUyFN5etMw",
+                                    "expiresAt": 1660780800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQGv-bQANStG4g/company-logo_"
+                        }
+                    },
+                    "universalName": "aspiring-minds",
+                    "dashCompanyUrn": "urn:li:fsd_company:838197",
+                    "trackingId": "b8uCBjDtQgqVVX/gp/e5TQ=="
+                },
+                "displaySource": "myamcat.com",
+                "companyUrn": "urn:li:fs_miniCompany:838197",
+                "url": "https://www.myamcat.com/certificate/12530527/creative-content-developer/209"
+            },
+            {
+                "authority": "Aspiring Minds",
+                "name": "Corporate Communications Professional",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 9,
+                        "year": 2019
+                    }
+                },
+                "licenseNumber": "12530527-207",
+                "company": {
+                    "objectUrn": "urn:li:company:838197",
+                    "entityUrn": "urn:li:fs_miniCompany:838197",
+                    "name": "Aspiring Minds",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1588132864668?e=1660780800&v=beta&t=AsHcrpc-OJlnan-iToq3l6yxtIXJGpWJxz345Eqw_kQ",
+                                    "expiresAt": 1660780800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1588132864668?e=1660780800&v=beta&t=WrS51e6lB_6bqaTPWs-sK5DC8n1IMdXcsl4VWVIZbOw",
+                                    "expiresAt": 1660780800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1588132864668?e=1660780800&v=beta&t=65gwixAvsLZAJNN331NTdQdqcWu52eIhXkUyFN5etMw",
+                                    "expiresAt": 1660780800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQGv-bQANStG4g/company-logo_"
+                        }
+                    },
+                    "universalName": "aspiring-minds",
+                    "dashCompanyUrn": "urn:li:fsd_company:838197",
+                    "trackingId": "i26YNBPSTTmh0dlRoILr8g=="
+                },
+                "displaySource": "myamcat.com",
+                "companyUrn": "urn:li:fs_miniCompany:838197",
+                "url": "https://www.myamcat.com/certificate/12530527/corporate-communications-professional/207"
+            },
+            {
+                "authority": "Aspiring Minds",
+                "name": "Certified Customer Service Specialist (CSS)",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 9,
+                        "year": 2019
+                    }
+                },
+                "licenseNumber": "12530527-210",
+                "company": {
+                    "objectUrn": "urn:li:company:838197",
+                    "entityUrn": "urn:li:fs_miniCompany:838197",
+                    "name": "Aspiring Minds",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1588132864668?e=1660780800&v=beta&t=AsHcrpc-OJlnan-iToq3l6yxtIXJGpWJxz345Eqw_kQ",
+                                    "expiresAt": 1660780800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1588132864668?e=1660780800&v=beta&t=WrS51e6lB_6bqaTPWs-sK5DC8n1IMdXcsl4VWVIZbOw",
+                                    "expiresAt": 1660780800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1588132864668?e=1660780800&v=beta&t=65gwixAvsLZAJNN331NTdQdqcWu52eIhXkUyFN5etMw",
+                                    "expiresAt": 1660780800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQGv-bQANStG4g/company-logo_"
+                        }
+                    },
+                    "universalName": "aspiring-minds",
+                    "dashCompanyUrn": "urn:li:fsd_company:838197",
+                    "trackingId": "dje/2lnsSwmayS16lV1xPw=="
+                },
+                "displaySource": "myamcat.com",
+                "companyUrn": "urn:li:fs_miniCompany:838197",
+                "url": "https://www.myamcat.com/certificate/12530527/customer-service-specialist/210"
+            },
+            {
+                "authority": "Aspiring Minds",
+                "name": "Proficiency in English",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 9,
+                        "year": 2019
+                    }
+                },
+                "licenseNumber": "12530527-284",
+                "company": {
+                    "objectUrn": "urn:li:company:838197",
+                    "entityUrn": "urn:li:fs_miniCompany:838197",
+                    "name": "Aspiring Minds",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1588132864668?e=1660780800&v=beta&t=AsHcrpc-OJlnan-iToq3l6yxtIXJGpWJxz345Eqw_kQ",
+                                    "expiresAt": 1660780800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1588132864668?e=1660780800&v=beta&t=WrS51e6lB_6bqaTPWs-sK5DC8n1IMdXcsl4VWVIZbOw",
+                                    "expiresAt": 1660780800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1588132864668?e=1660780800&v=beta&t=65gwixAvsLZAJNN331NTdQdqcWu52eIhXkUyFN5etMw",
+                                    "expiresAt": 1660780800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQGv-bQANStG4g/company-logo_"
+                        }
+                    },
+                    "universalName": "aspiring-minds",
+                    "dashCompanyUrn": "urn:li:fsd_company:838197",
+                    "trackingId": "Uqoy0+hyQBK6qqIAFOz1rw=="
+                },
+                "displaySource": "myamcat.com",
+                "companyUrn": "urn:li:fs_miniCompany:838197",
+                "url": "https://www.myamcat.com/certificate/12530527/proficiency-in-english/284"
+            },
+            {
+                "authority": "CETPA Infotech Pvt. ltd.",
+                "name": "Introduction to Programming Using Python",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 11,
+                        "year": 2019
+                    }
+                },
+                "licenseNumber": "Pyt181020194 715915",
+                "company": {
+                    "objectUrn": "urn:li:company:1084190",
+                    "entityUrn": "urn:li:fs_miniCompany:1084190",
+                    "name": "CETPA Infotech Pvt. ltd.",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1519874104200?e=1660780800&v=beta&t=ZT3kkRj2vxYligU43MWdikRq8zvto2P-Pk1jM7kdiQo",
+                                    "expiresAt": 1660780800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1519874104200?e=1660780800&v=beta&t=Umppl3PJDrmEGOf-GhN1UWnX2MEPT8ePhfImkwuGxgM",
+                                    "expiresAt": 1660780800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1519874104200?e=1660780800&v=beta&t=Ebr6b_Y_bSq7LCpK9e7ltAFBDvi6l8dDbh0KaB8iL2c",
+                                    "expiresAt": 1660780800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQFm6QTG1UKjOA/company-logo_"
+                        }
+                    },
+                    "universalName": "cetpainfotech",
+                    "dashCompanyUrn": "urn:li:fsd_company:1084190",
+                    "trackingId": "noh2y1ZXR/66SMLp2RoVPQ=="
+                },
+                "displaySource": "cetpainfotech.com",
+                "companyUrn": "urn:li:fs_miniCompany:1084190",
+                "url": "http://www.cetpainfotech.com"
+            },
+            {
+                "authority": "Google Analytics for Business",
+                "name": "Google Analytics for Beginners",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 2,
+                        "year": 2023
+                    },
+                    "startDate": {
+                        "month": 2,
+                        "year": 2020
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:18234053",
+                    "entityUrn": "urn:li:fs_miniCompany:18234053",
+                    "name": "Google Analytics for Business",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1570094150727?e=1660780800&v=beta&t=-MUeCpK2dasp1WQZKU2hBJZC-Mkk8z9DNNtODoAWyyg",
+                                    "expiresAt": 1660780800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1570094150727?e=1660780800&v=beta&t=zGP5oY7RyvBeNLR-J5W9JSZOBIzOvlKwSw0_e0bTfGc",
+                                    "expiresAt": 1660780800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1570094150727?e=1660780800&v=beta&t=p0xP-pYf6pLEd3TuADYEGKTepkkoiq_xTec8twaiofk",
+                                    "expiresAt": 1660780800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C510BAQG5CX7RTbHDnw/company-logo_"
+                        }
+                    },
+                    "universalName": "google-analytics-for-business",
+                    "dashCompanyUrn": "urn:li:fsd_company:18234053",
+                    "trackingId": "HWcww1z1Rs21fbe478Fq2A=="
+                },
+                "displaySource": "google.com",
+                "companyUrn": "urn:li:fs_miniCompany:18234053",
+                "url": "https://analytics.google.com/analytics/academy/certificate/uFKs30_tTMy6EJAWAkQ-cg"
+            },
+            {
+                "authority": "Google Analytics for Business",
+                "name": "Advanced Google Analytics",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 2,
+                        "year": 2023
+                    },
+                    "startDate": {
+                        "month": 2,
+                        "year": 2020
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:18234053",
+                    "entityUrn": "urn:li:fs_miniCompany:18234053",
+                    "name": "Google Analytics for Business",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1570094150727?e=1660780800&v=beta&t=-MUeCpK2dasp1WQZKU2hBJZC-Mkk8z9DNNtODoAWyyg",
+                                    "expiresAt": 1660780800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1570094150727?e=1660780800&v=beta&t=zGP5oY7RyvBeNLR-J5W9JSZOBIzOvlKwSw0_e0bTfGc",
+                                    "expiresAt": 1660780800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1570094150727?e=1660780800&v=beta&t=p0xP-pYf6pLEd3TuADYEGKTepkkoiq_xTec8twaiofk",
+                                    "expiresAt": 1660780800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C510BAQG5CX7RTbHDnw/company-logo_"
+                        }
+                    },
+                    "universalName": "google-analytics-for-business",
+                    "dashCompanyUrn": "urn:li:fsd_company:18234053",
+                    "trackingId": "6QSEq5/IQha3/068++zDHQ=="
+                },
+                "displaySource": "google.com",
+                "companyUrn": "urn:li:fs_miniCompany:18234053",
+                "url": "https://analytics.google.com/analytics/academy/certificate/VBXu34jwQ0SOeHM6qUT2Ug"
+            },
+            {
+                "authority": "Google Ads",
+                "name": "Google Ads Search Certification",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 2,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 2,
+                        "year": 2020
+                    }
+                },
+                "licenseNumber": "45582350",
+                "company": {
+                    "objectUrn": "urn:li:company:18718871",
+                    "entityUrn": "urn:li:fs_miniCompany:18718871",
+                    "name": "Google Ads",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1531478417015?e=1660780800&v=beta&t=aK660OfHPDcOmEvrogt6fD1uDfxH-ZLO-f7EetI0ilA",
+                                    "expiresAt": 1660780800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1531478417015?e=1660780800&v=beta&t=8mCOy6uLrU79L_XAcwxYQeyaBNz2RQr12SfEmmWdP8Y",
+                                    "expiresAt": 1660780800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1531478417015?e=1660780800&v=beta&t=Ko6O-F4b3aJC5aKun4u2EcgV6Jow8YXzjgfWXJ7Qo2Y",
+                                    "expiresAt": 1660780800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQFDgrW8e-McSQ/company-logo_"
+                        }
+                    },
+                    "universalName": "goog-ads",
+                    "dashCompanyUrn": "urn:li:fsd_company:18718871",
+                    "trackingId": "DzY/Zm9mQwqjHg6+U/rJSA=="
+                },
+                "displaySource": "exceedlms.com",
+                "companyUrn": "urn:li:fs_miniCompany:18718871",
+                "url": "https://skillshop.exceedlms.com/student/award/45582350"
+            },
+            {
+                "authority": "Sanbun Investments",
+                "name": "FTTP Stock Market Course ",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 3,
+                        "year": 2021
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:53539741",
+                    "entityUrn": "urn:li:fs_miniCompany:53539741",
+                    "name": "Sanbun Investments",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1591708089903?e=1660780800&v=beta&t=ZWHgcd1VzOnFq1fkiIrHrFYpAbgw2gMJkZheZ24b_-Y",
+                                    "expiresAt": 1660780800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1591708089903?e=1660780800&v=beta&t=NMYEreKs-Zkn1L9zXh_8C2Hq4Y5h0UrimpBSRx18uZ0",
+                                    "expiresAt": 1660780800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1591708089903?e=1660780800&v=beta&t=tOcsOWRE2X9eUgTCLr-dgc7vtRVe9CFxrkBRg6nwHqM",
+                                    "expiresAt": 1660780800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQEFtoMUQVvX4g/company-logo_"
+                        }
+                    },
+                    "universalName": "sanbun-investments",
+                    "dashCompanyUrn": "urn:li:fsd_company:53539741",
+                    "trackingId": "6XH/NJVYSzGuA55Z/SJzMw=="
+                },
+                "displaySource": "google.com",
+                "companyUrn": "urn:li:fs_miniCompany:53539741",
+                "url": "https://drive.google.com/file/d/1l8GM1kbPOc8bK_lhPdxfUCp3yV4O69gl/view?usp=sharing"
+            }
+        ],
+        "volunteer": [],
+        "honors": [],
+        "projects": []
+    },
+    "contact_info": {
+        "email_address": null,
+        "websites": [],
+        "twitter": [],
+        "birthdate": {
+            "month": 1,
+            "day": 28
+        },
+        "ims": null,
+        "phone_numbers": []
+    },
+    "connections": [
+        {
+            "urn_id": "ACoAAByhqogBLFVDJbqojrVMhtKfC3o3hRfEcjg",
+            "distance": "DISTANCE_1",
+            "public_id": "biki-talukdar-460a54114",
+            "tracking_id": "480357000"
+        },
+        {
+            "urn_id": "ACoAABr4jt0BoOUmisITdRo1gR4CumG5I4jjZIw",
+            "distance": "DISTANCE_1",
+            "public_id": "samudra-deka-911659107",
+            "tracking_id": "452497117"
+        },
+        {
+            "urn_id": "ACoAADLJzxsBizdB0nN5NZBCM41Q-z6-7ef5gyI",
+            "distance": "DISTANCE_1",
+            "public_id": "deepjyoti-kalita-78b4411b9",
+            "tracking_id": "852086555"
+        },
+        {
+            "urn_id": "ACoAAC24GToBKzC8vS7jZaCEqoq3Jse_M2Tson8",
+            "distance": "DISTANCE_1",
+            "public_id": "abhijit-paul-936a68194",
+            "tracking_id": "767039802"
+        },
+        {
+            "urn_id": "ACoAADe3CFYBsoFdtSEajXbg51HDagdpBEb3kx4",
+            "distance": "DISTANCE_1",
+            "public_id": "binud-panging-872062221",
+            "tracking_id": "934742102"
+        },
+        {
+            "urn_id": "ACoAADZmR9QB1zOH_PmrzQQw2wQmTJRTcNGU7CE",
+            "distance": "DISTANCE_1",
+            "public_id": "bkalita",
+            "tracking_id": "912672724"
+        },
+        {
+            "urn_id": "ACoAADbmf6QBc8hqz1SYgWY92D5X-_ijayWyiQM",
+            "distance": "DISTANCE_1",
+            "public_id": "arindam-bhowal-10",
+            "tracking_id": "921075620"
+        },
+        {
+            "urn_id": "ACoAAC2aUPYBGPB-T9xDu2Hjrq7OgzRPu5nTvyE",
+            "distance": "DISTANCE_1",
+            "public_id": "jintudas",
+            "tracking_id": "765087990"
+        },
+        {
+            "urn_id": "ACoAACT67ZEBgw1Aprl8Aqy8zWMavdTyaWs7J3w",
+            "distance": "DISTANCE_1",
+            "public_id": "titikshya-das-015942153",
+            "tracking_id": "620424593"
+        },
+        {
+            "urn_id": "ACoAAAjgx0kBxJoPu_7t3kS1NbDizQekjIIzMbE",
+            "distance": "DISTANCE_1",
+            "public_id": "lakheswar-nath-289a7141",
+            "tracking_id": "148948809"
+        },
+        {
+            "urn_id": "ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE",
+            "distance": "DISTANCE_1",
+            "public_id": "prithoo11335",
+            "tracking_id": "231212168"
+        },
+        {
+            "urn_id": "ACoAACbTg-gBtT_YqZc-FG2lIVBv13QTx8UUB8E",
+            "distance": "DISTANCE_1",
+            "public_id": "mridul24",
+            "tracking_id": "651396072"
+        },
+        {
+            "urn_id": "ACoAACr0GSwBcmPDh22HqivG9h0JwG-eahXSYW8",
+            "distance": "DISTANCE_1",
+            "public_id": "nihar-kashyap98",
+            "tracking_id": "720640300"
+        },
+        {
+            "urn_id": "ACoAACzP6KMBcLKqKnFRpIudaukkoW4NoqstgrM",
+            "distance": "DISTANCE_1",
+            "public_id": "pranit-prakash-sahu",
+            "tracking_id": "751823011"
+        },
+        {
+            "urn_id": "ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY",
+            "distance": "DISTANCE_1",
+            "public_id": "tridip-das-b5837911b",
+            "tracking_id": "499568180"
+        },
+        {
+            "urn_id": "ACoAAC8MNEkBeOfT5XsGjm2znOBKa5A1eZma5Bw",
+            "distance": "DISTANCE_1",
+            "public_id": "jyotishmoy-deka-7214171a0",
+            "tracking_id": "789328969"
+        },
+        {
+            "urn_id": "ACoAACeXhGEBEVCUXmKi5rowUSeFZNerPjvzQsc",
+            "distance": "DISTANCE_1",
+            "public_id": "mahbubul-haque-a55552166",
+            "tracking_id": "664241249"
+        },
+        {
+            "urn_id": "ACoAAAI9wXoBijRhLoxf7BO8UTK0DX-7KexJV30",
+            "distance": "DISTANCE_1",
+            "public_id": "boren-ghosh-27671410",
+            "tracking_id": "37601658"
+        },
+        {
+            "urn_id": "ACoAACZxhUQBl1V8kpLj4ACrE2LzpatGvVzEgSA",
+            "distance": "DISTANCE_1",
+            "public_id": "nabajyoti-borah-944000160",
+            "tracking_id": "644973892"
+        },
+        {
+            "urn_id": "ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8",
+            "distance": "DISTANCE_1",
+            "public_id": "sivaranjan-goswami-790b4523",
+            "tracking_id": "83451420"
+        },
+        {
+            "urn_id": "ACoAACHlA7IB_d9MYYVP_4JgPjZfqJiP0PpAAk0",
+            "distance": "DISTANCE_1",
+            "public_id": "parthava-borah-98253713a",
+            "tracking_id": "568656818"
+        },
+        {
+            "urn_id": "ACoAACTFIIYB1cK_syRcCXEc0o8RTm4JMlhYcHA",
+            "distance": "DISTANCE_1",
+            "public_id": "arun-kumar-nath-686721152",
+            "tracking_id": "616898694"
+        },
+        {
+            "urn_id": "ACoAABYq8T8ByHFGBUFRrHT5iKBI2u4YZjTLHFc",
+            "distance": "DISTANCE_1",
+            "public_id": "netranjit-borgohain-53b677a4",
+            "tracking_id": "371913023"
+        },
+        {
+            "urn_id": "ACoAAC-mfboBv3YCLG2TYdY8DDGcxvth-aLDFXU",
+            "distance": "DISTANCE_1",
+            "public_id": "bhargov-jyoti-das-0a28931a3",
+            "tracking_id": "799440314"
+        },
+        {
+            "urn_id": "ACoAACDVs-sB_IgxPBMHMRBfR6is3jmwwV_OvTE",
+            "distance": "DISTANCE_1",
+            "public_id": "swapnil-bhattacharjee-ghy",
+            "tracking_id": "550876139"
+        },
+        {
+            "urn_id": "ACoAAC4efLABFBv0f30-SDGDgLSf1gXTlkpJTfc",
+            "distance": "DISTANCE_1",
+            "public_id": "shawan-mandal",
+            "tracking_id": "773749936"
+        },
+        {
+            "urn_id": "ACoAACUEZ3QB2Xm0OWR0cqoc_u-o4KW_OENO1_8",
+            "distance": "DISTANCE_1",
+            "public_id": "rajan-sahu",
+            "tracking_id": "621045620"
+        },
+        {
+            "urn_id": "ACoAAC12ZqEBCx9JN_YIi1eF1FPPDif3mXI3fyc",
+            "distance": "DISTANCE_1",
+            "public_id": "abinash-panigrahi-169531193",
+            "tracking_id": "762734241"
+        },
+        {
+            "urn_id": "ACoAACYmrvgBRdvWxItbY_KP_fyrEgZ9U-QKJqk",
+            "distance": "DISTANCE_1",
+            "public_id": "rtsu",
+            "tracking_id": "640069368"
+        },
+        {
+            "urn_id": "ACoAADRMKTMBj76XTPRfB9R5rvfwNOXP2n93n4c",
+            "distance": "DISTANCE_1",
+            "public_id": "manash-deka-497a12205",
+            "tracking_id": "877406515"
+        },
+        {
+            "urn_id": "ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc",
+            "distance": "DISTANCE_1",
+            "public_id": "ratnadeep-bhattacharjee",
+            "tracking_id": "135079003"
+        },
+        {
+            "urn_id": "ACoAAAR5v8MBjPwCvp8TP9RWZyGSeNYNiJ1wKJE",
+            "distance": "DISTANCE_1",
+            "public_id": "nilotpal-boruah",
+            "tracking_id": "75087811"
+        }
+    ],
+    "skills": [
+        {
+            "name": "C (Programming Language)"
+        },
+        {
+            "name": "HTML"
+        },
+        {
+            "name": "Object-Oriented Programming (OOP)"
+        },
+        {
+            "name": "Research",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:176",
+            "standardizedSkill": {
+                "name": "Research",
+                "entityUrn": "urn:li:fs_miniSkill:176"
+            }
+        },
+        {
+            "name": "Electronic Data Interchange (EDI)",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:3784",
+            "standardizedSkill": {
+                "name": "Electronic Data Interchange (EDI)",
+                "entityUrn": "urn:li:fs_miniSkill:3784"
+            }
+        },
+        {
+            "name": "Data Management",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:4446",
+            "standardizedSkill": {
+                "name": "Data Management",
+                "entityUrn": "urn:li:fs_miniSkill:4446"
+            }
+        },
+        {
+            "name": "Customer Relationship Management (CRM)"
+        },
+        {
+            "name": "Business Process Improvement"
+        },
+        {
+            "name": "Web Development"
+        },
+        {
+            "name": "Software Project Management"
+        },
+        {
+            "name": "Python (Programming Language)"
+        },
+        {
+            "name": "Microsoft Office",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:366",
+            "standardizedSkill": {
+                "name": "Microsoft Office",
+                "entityUrn": "urn:li:fs_miniSkill:366"
+            }
+        },
+        {
+            "name": "Microsoft Word",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:260",
+            "standardizedSkill": {
+                "name": "Microsoft Word",
+                "entityUrn": "urn:li:fs_miniSkill:260"
+            }
+        },
+        {
+            "name": "Oracle Database"
+        },
+        {
+            "name": "Leadership",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:154",
+            "standardizedSkill": {
+                "name": "Leadership",
+                "entityUrn": "urn:li:fs_miniSkill:154"
+            }
+        },
+        {
+            "name": "Customer Service",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:99",
+            "standardizedSkill": {
+                "name": "Customer Service",
+                "entityUrn": "urn:li:fs_miniSkill:99"
+            }
+        },
+        {
+            "name": "Public Speaking",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:1101",
+            "standardizedSkill": {
+                "name": "Public Speaking",
+                "entityUrn": "urn:li:fs_miniSkill:1101"
+            }
+        },
+        {
+            "name": "Presentation Skills"
+        },
+        {
+            "name": "Problem Solving"
+        },
+        {
+            "name": "Team Leadership"
+        },
+        {
+            "name": "Decision-Making"
+        },
+        {
+            "name": "Communication"
+        },
+        {
+            "name": "Team Motivation"
+        },
+        {
+            "name": "Management"
+        },
+        {
+            "name": "Team Mentoring",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:41527",
+            "standardizedSkill": {
+                "name": "Team Mentoring",
+                "entityUrn": "urn:li:fs_miniSkill:41527"
+            }
+        },
+        {
+            "name": "XAMPP"
+        },
+        {
+            "name": "Data Analytics"
+        },
+        {
+            "name": "Investigation"
+        },
+        {
+            "name": "Stock Market"
+        },
+        {
+            "name": "Team Coordination"
+        },
+        {
+            "name": "Databases"
+        },
+        {
+            "name": "Microsoft Excel"
+        },
+        {
+            "name": "Technical Recruiting"
+        },
+        {
+            "name": "Recruiting"
+        },
+        {
+            "name": "Human Resources (HR)"
+        },
+        {
+            "name": "Hiring"
+        },
+        {
+            "name": "Foreign Exchange (FX) Trading"
+        },
+        {
+            "name": "Equity Trading"
+        },
+        {
+            "name": "Trading"
+        },
+        {
+            "name": "Investment"
+        },
+        {
+            "name": "Wealth Management Services"
+        }
+    ]
+}

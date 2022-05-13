@@ -1,0 +1,721 @@
+{
+    "profile": {
+        "industryName": "Non-profit Organizations",
+        "lastName": "Chutia",
+        "student": false,
+        "geoCountryName": "India",
+        "geoCountryUrn": "urn:li:fs_geo:102713980",
+        "geoLocationBackfilled": false,
+        "elt": true,
+        "birthDate": {
+            "month": 11,
+            "day": 18
+        },
+        "industryUrn": "urn:li:fs_industry:100",
+        "firstName": "Bedanga",
+        "entityUrn": "urn:li:fs_profile:ACoAADClIFIBjJ-fU8waRCuJO3Cw-0qKjS1rH0c",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:105547243"
+        },
+        "geoLocationName": "Assam",
+        "location": {
+            "basicLocation": {
+                "countryCode": "in"
+            }
+        },
+        "headline": "Member at National Institute For Technical Training & Skill Development.",
+        "displayPictureUrl": "https://media-exp1.licdn.com/dms/image/C4E03AQFZ1cdYe5WBIg/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/0/1638862132542?e=1657756800&v=beta&t=rE2Tu3k8WzxdtScx345SRpuKcv-ac6kLqGK4lus_MIs",
+        "img_200_200": "200_200/0/1638862132542?e=1657756800&v=beta&t=LG3UdyNxoktJuqBxOEap1OHzoNnf01YYrttTBiRGKzs",
+        "img_400_400": "400_400/0/1638862132542?e=1657756800&v=beta&t=b3gnhT5Xt9DPS67yznDU8NdlVroSrzy8UjgSn4GS_gM",
+        "img_800_800": "800_800/0/1638862132542?e=1657756800&v=beta&t=hztXZf19mykR2oFXVTGddEHZwBrPXiGgdlTchEP2aDg",
+        "profile_id": "ACoAADClIFIBjJ-fU8waRCuJO3Cw-0qKjS1rH0c",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAADClIFIBjJ-fU8waRCuJO3Cw-0qKjS1rH0c",
+        "member_urn": "urn:li:member:816128082",
+        "experience": [
+            {
+                "locationName": "Guwahati, Assam, India",
+                "entityUrn": "urn:li:fs_position:(ACoAADClIFIBjJ-fU8waRCuJO3Cw-0qKjS1rH0c,1656505494)",
+                "geoLocationName": "Guwahati, Assam, India",
+                "geoUrn": "urn:li:fs_geo:105607401",
+                "companyName": "digital one portal",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 8,
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "month": 5,
+                        "year": 2020
+                    }
+                },
+                "company": {},
+                "title": "freelancer data entry",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:13386889"
+            },
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAADClIFIBjJ-fU8waRCuJO3Cw-0qKjS1rH0c,1656507236)",
+                "companyName": "John Holland",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 7,
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "month": 7,
+                        "year": 2020
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 5001,
+                        "end": 10000
+                    },
+                    "industries": [
+                        "Construction"
+                    ]
+                },
+                "title": "Virtual Internship",
+                "companyUrn": "urn:li:fs_miniCompany:18856",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C560BAQEPQW2FvbMfEQ/company-logo_"
+            },
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAADClIFIBjJ-fU8waRCuJO3Cw-0qKjS1rH0c,1656505546)",
+                "companyName": "Microsoft",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 7,
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "month": 6,
+                        "year": 2020
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Computer Software"
+                    ]
+                },
+                "title": "Engineering: Undergraduate & Masters Virtual Internship Platform",
+                "companyUrn": "urn:li:fs_miniCompany:1035",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C560BAQE88xCsONDULQ/company-logo_"
+            },
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAADClIFIBjJ-fU8waRCuJO3Cw-0qKjS1rH0c,1656505555)",
+                "companyName": "Citi",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 7,
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "month": 6,
+                        "year": 2020
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Financial Services"
+                    ]
+                },
+                "title": "Global Customer Banking Virtual Internship Program",
+                "companyUrn": "urn:li:fs_miniCompany:11448",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C560BAQEUQ2ki2bwfQQ/company-logo_"
+            },
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAADClIFIBjJ-fU8waRCuJO3Cw-0qKjS1rH0c,1656505611)",
+                "companyName": "Accenture",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "month": 6,
+                        "year": 2020
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Accenture Discovery Program",
+                "companyUrn": "urn:li:fs_miniCompany:1033",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQHjvfNL_2AXIw/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAADClIFIBjJ-fU8waRCuJO3Cw-0qKjS1rH0c,658012026)",
+                "school": {
+                    "objectUrn": "urn:li:school:3241817",
+                    "entityUrn": "urn:li:fs_miniSchool:3241817",
+                    "active": true,
+                    "schoolName": "Assam Engineering College, (A.E.C)",
+                    "trackingId": "6SAawb08SkW7DgkUgNjTIw==",
+                    "logoUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQF2c8H0frv_Dw/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2023
+                    },
+                    "startDate": {
+                        "year": 2019
+                    }
+                },
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100331",
+                "degreeName": "B.TECH",
+                "schoolName": "Assam Engineering College, (A.E.C)",
+                "fieldOfStudy": "Engineering",
+                "schoolUrn": "urn:li:fs_miniSchool:3241817"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAADClIFIBjJ-fU8waRCuJO3Cw-0qKjS1rH0c,666394923)",
+                "school": {
+                    "objectUrn": "urn:li:school:3243544",
+                    "entityUrn": "urn:li:fs_miniSchool:3243544",
+                    "active": true,
+                    "schoolName": "Salt Brook Academy - India",
+                    "trackingId": "QgeDMkB6Sbi787nxfbbjjQ=="
+                },
+                "degreeName": "H.S.",
+                "schoolName": "Salt Brook Academy, Dibrugarh",
+                "fieldOfStudy": "Science stream",
+                "schoolUrn": "urn:li:fs_miniSchool:3243544"
+            }
+        ],
+        "languages": [],
+        "publications": [],
+        "certifications": [
+            {
+                "authority": "Google",
+                "name": "digital marketing",
+                "company": {
+                    "objectUrn": "urn:li:company:1441",
+                    "entityUrn": "urn:li:fs_miniCompany:1441",
+                    "name": "Google",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1519856215226?e=1660780800&v=beta&t=VMlo9cPDTdFa6ghrwsF9ugKTm5PLNBQ6QLKoOZPj8DU",
+                                    "expiresAt": 1660780800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1519856215226?e=1660780800&v=beta&t=msgyG4RSeCFZ3a2ONyKehbAhsJHClTtDqs1Qhtu7NVA",
+                                    "expiresAt": 1660780800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1519856215226?e=1660780800&v=beta&t=5T2iaeo-WZAlVH--lwTeQTAzdqgAnbuqyZBSKrJVuZY",
+                                    "expiresAt": 1660780800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQHiNSL4Or29cg/company-logo_"
+                        }
+                    },
+                    "universalName": "google",
+                    "dashCompanyUrn": "urn:li:fsd_company:1441",
+                    "trackingId": "Vt9I614TRYuXHa3C/m0xyw=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:1441"
+            },
+            {
+                "authority": "The International Association for Chemical Safety\u2122",
+                "name": "The COSHH Risk Assessor Certification\u2122",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 6,
+                        "year": 2020
+                    }
+                },
+                "licenseNumber": "19325630",
+                "company": {
+                    "objectUrn": "urn:li:company:42719708",
+                    "entityUrn": "urn:li:fs_miniCompany:42719708",
+                    "name": "The International Association for Chemical Safety\u2122",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1643272398502?e=1660780800&v=beta&t=zcQznsBNlFx6crRTBHVGnrag9ALTh_qe8Mf6yCbFm5M",
+                                    "expiresAt": 1660780800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1643272398502?e=1660780800&v=beta&t=kjRgc5B0dTmy0RYBnQW1y4JagzpKpdiJUfDA0oDJE3Q",
+                                    "expiresAt": 1660780800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1643272398502?e=1660780800&v=beta&t=uHaCXXLPl4RKgif_gqkoINPDYCngNq0_r1JYPs3dyEI",
+                                    "expiresAt": 1660780800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQE6ww_TiywWFw/company-logo_"
+                        }
+                    },
+                    "universalName": "thechemicalsafetyassociation",
+                    "dashCompanyUrn": "urn:li:fsd_company:42719708",
+                    "trackingId": "4jMDkTRATma1k7DTze5imw=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:42719708"
+            },
+            {
+                "authority": "University of Wollongong",
+                "name": "The power of podcasting for storytelling",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 6,
+                        "year": 2020
+                    }
+                },
+                "licenseNumber": "https://www.futurelearn.com/certificates/swlr7j1",
+                "company": {
+                    "objectUrn": "urn:li:company:9727",
+                    "entityUrn": "urn:li:fs_miniCompany:9727",
+                    "name": "University of Wollongong",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1648508742096?e=1660780800&v=beta&t=Sl5Yu0fCDWdOuOjFOycoglcTq-8xR3FkFM0gKzp9lsc",
+                                    "expiresAt": 1660780800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1648508742096?e=1660780800&v=beta&t=vJGn91sJU_TI7mLf2sAYirRGtaa9XKrMd5ClNxDo24k",
+                                    "expiresAt": 1660780800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1648508742096?e=1660780800&v=beta&t=jURLxuGfn2r7ixo66SvvdnPbbp2vJhw6Ev6tNz7FIcE",
+                                    "expiresAt": 1660780800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQGAnQ0Lt5LK1g/company-logo_"
+                        }
+                    },
+                    "universalName": "university-of-wollongong",
+                    "dashCompanyUrn": "urn:li:fsd_company:9727",
+                    "trackingId": "kIbsNuDORPCsrmyMGMVvjw=="
+                },
+                "displaySource": "futurelearn.com",
+                "companyUrn": "urn:li:fs_miniCompany:9727",
+                "url": "https://www.futurelearn.com/certificates/swlr7j1"
+            },
+            {
+                "authority": "Microsoft",
+                "name": "Microsoft advertising certified professional",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 6,
+                        "year": 2020
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:1035",
+                    "entityUrn": "urn:li:fs_miniCompany:1035",
+                    "name": "Microsoft",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1618231291419?e=1660780800&v=beta&t=4ZIOm9ehuT_DOyq44KKJz51Jjh1z0-zZSntgSS5gVvc",
+                                    "expiresAt": 1660780800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1618231291419?e=1660780800&v=beta&t=HH3CCS8kb8Ccq2lh3RCHTQ0nh070nf0L0yqRWSWVtm4",
+                                    "expiresAt": 1660780800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1618231291419?e=1660780800&v=beta&t=MLCLA7EabafvJO_aMRYSdoA9XYZ4avzdUp8_nvE1Ois",
+                                    "expiresAt": 1660780800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQE88xCsONDULQ/company-logo_"
+                        }
+                    },
+                    "universalName": "microsoft",
+                    "dashCompanyUrn": "urn:li:fsd_company:1035",
+                    "trackingId": "2pkKZ+28SHKWDKqTWSh9dw=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:1035"
+            },
+            {
+                "authority": "Deakin University",
+                "name": "What Is Leadership",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 6,
+                        "year": 2020
+                    }
+                },
+                "licenseNumber": "https://www.futurelearn.com/certificates/2ox8tyr",
+                "company": {
+                    "objectUrn": "urn:li:company:11710",
+                    "entityUrn": "urn:li:fs_miniCompany:11710",
+                    "name": "Deakin University",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1519856453456?e=1660780800&v=beta&t=3PRwwGrd07Gs-h9KFbQn8uQDCEOYnKJkQIo_0FpT42I",
+                                    "expiresAt": 1660780800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1519856453456?e=1660780800&v=beta&t=Q8DOmw7ZRsTaXVAum29z6Mur1LTVlGCoZlB0HsHVvmM",
+                                    "expiresAt": 1660780800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1519856453456?e=1660780800&v=beta&t=KmS0p8fihNF24Mf-jZzUzQW8ef1Hr5PI0BB-jhXI8pQ",
+                                    "expiresAt": 1660780800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C510BAQF6gLLzLAOGoA/company-logo_"
+                        }
+                    },
+                    "universalName": "deakin-university",
+                    "dashCompanyUrn": "urn:li:fsd_company:11710",
+                    "trackingId": "B3nbiWa1SUuewfW1CnXNfA=="
+                },
+                "displaySource": "futurelearn.com",
+                "companyUrn": "urn:li:fs_miniCompany:11710",
+                "url": "https://www.futurelearn.com/certificates/2ox8tyr"
+            },
+            {
+                "authority": "Monash University",
+                "name": "Introduction to psychology: The Psychology Of Learning",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 6,
+                        "year": 2020
+                    }
+                },
+                "licenseNumber": "https://www.futurelearn.com/certificates/cwypb44",
+                "company": {
+                    "objectUrn": "urn:li:company:5663",
+                    "entityUrn": "urn:li:fs_miniCompany:5663",
+                    "name": "Monash University",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1640136483646?e=1660780800&v=beta&t=jI_0E10IDJQnjqflUEVSPaNsOK4SCYVIj1b3EMsSA3s",
+                                    "expiresAt": 1660780800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1640136483646?e=1660780800&v=beta&t=Vm7Rhv3gTg_C4ce8gR7GZd1oOkpgoR7tkiuYw6l0eis",
+                                    "expiresAt": 1660780800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1640136483646?e=1660780800&v=beta&t=9R0MLgmSKPPr8Yd-rwp0PNz-s9N14iw0ahtSNjgnr9s",
+                                    "expiresAt": 1660780800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQGQ17wssGVZeA/company-logo_"
+                        }
+                    },
+                    "universalName": "monash-university",
+                    "dashCompanyUrn": "urn:li:fsd_company:5663",
+                    "trackingId": "jkEh/TmqQNa1OzlERZcuzw=="
+                },
+                "displaySource": "futurelearn.com",
+                "companyUrn": "urn:li:fs_miniCompany:5663",
+                "url": "https://www.futurelearn.com/certificates/cwypb44"
+            },
+            {
+                "authority": "Duke University",
+                "name": "Data Science Maths Skills",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 6,
+                        "year": 2020
+                    }
+                },
+                "licenseNumber": "https://coursera.org/share/af7ee2ccc524f47cd4cdf25b0898ce97",
+                "company": {
+                    "objectUrn": "urn:li:company:3356",
+                    "entityUrn": "urn:li:fs_miniCompany:3356",
+                    "name": "Duke University",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1547069414882?e=1660780800&v=beta&t=bu_8fIfiO8W0dHr0zaMjlY42gI1Z_sJJBaCPZxMw5bg",
+                                    "expiresAt": 1660780800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1547069414882?e=1660780800&v=beta&t=VSWhTQwVneqWyRTlU7XUqbfCX5bH_tql8cefv7YNzKE",
+                                    "expiresAt": 1660780800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1547069414882?e=1660780800&v=beta&t=JR7K97x_hlxct8c2C1XKLMMVnsZ7m8yruYCocR2lcpc",
+                                    "expiresAt": 1660780800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQGXW0yOhYBbCg/company-logo_"
+                        }
+                    },
+                    "universalName": "duke-university",
+                    "dashCompanyUrn": "urn:li:fsd_company:3356",
+                    "trackingId": "JPBOEnJ/T/aWFjRMa7whJA=="
+                },
+                "displaySource": "coursera.org",
+                "companyUrn": "urn:li:fs_miniCompany:3356",
+                "url": "https://coursera.org/share/af7ee2ccc524f47cd4cdf25b0898ce97"
+            },
+            {
+                "authority": "GUVI Geek Networks, IITM Research Park",
+                "name": "Step into robotic process of automation",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 7,
+                        "year": 2020
+                    }
+                },
+                "licenseNumber": "4Km9y1S468zd1871u5",
+                "company": {
+                    "objectUrn": "urn:li:company:6586903",
+                    "entityUrn": "urn:li:fs_miniCompany:6586903",
+                    "name": "GUVI Geek Networks, IITM Research Park",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1635344022384?e=1660780800&v=beta&t=A4wvf42LwIEKKdvLe9wNCrleONStGuSu10kmsBT-l2M",
+                                    "expiresAt": 1660780800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1635344022384?e=1660780800&v=beta&t=wfm_P-vN1WlhmZMFKHHQgKt59fn3PQrJVhLzhpOIYlA",
+                                    "expiresAt": 1660780800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1635344022384?e=1660780800&v=beta&t=EHgBTS7azBBbR_SeizLI7CJzC-iI4MN5EDUJGn9rjKg",
+                                    "expiresAt": 1660780800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQE11S3JxIasLg/company-logo_"
+                        }
+                    },
+                    "universalName": "guviofficial",
+                    "dashCompanyUrn": "urn:li:fsd_company:6586903",
+                    "trackingId": "zzIhY0hpTLy5OoKOiP/HRg=="
+                },
+                "displaySource": "guvi.in",
+                "companyUrn": "urn:li:fs_miniCompany:6586903",
+                "url": "https://www.guvi.in/verify-certificate?id=4Km9y1S468zd1871u5"
+            },
+            {
+                "authority": "GUVI Geek Networks, IITM Research Park",
+                "name": "Game development using pygame",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 7,
+                        "year": 2020
+                    }
+                },
+                "licenseNumber": "491915x3Si24lqA108",
+                "company": {
+                    "objectUrn": "urn:li:company:6586903",
+                    "entityUrn": "urn:li:fs_miniCompany:6586903",
+                    "name": "GUVI Geek Networks, IITM Research Park",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1635344022384?e=1660780800&v=beta&t=A4wvf42LwIEKKdvLe9wNCrleONStGuSu10kmsBT-l2M",
+                                    "expiresAt": 1660780800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1635344022384?e=1660780800&v=beta&t=wfm_P-vN1WlhmZMFKHHQgKt59fn3PQrJVhLzhpOIYlA",
+                                    "expiresAt": 1660780800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1635344022384?e=1660780800&v=beta&t=EHgBTS7azBBbR_SeizLI7CJzC-iI4MN5EDUJGn9rjKg",
+                                    "expiresAt": 1660780800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQE11S3JxIasLg/company-logo_"
+                        }
+                    },
+                    "universalName": "guviofficial",
+                    "dashCompanyUrn": "urn:li:fsd_company:6586903",
+                    "trackingId": "k2Y5S1FSTfC5QSTR1I46qQ=="
+                },
+                "displaySource": "guvi.in",
+                "companyUrn": "urn:li:fs_miniCompany:6586903",
+                "url": "https://www.guvi.in/verify-certificate?id=491915x3Si24lqA108"
+            },
+            {
+                "authority": "Accenture",
+                "name": "Digital Skill: Mobile\n",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 7,
+                        "year": 2020
+                    }
+                },
+                "licenseNumber": "https://www.futurelearn.com/certificates/0c58iao",
+                "company": {
+                    "objectUrn": "urn:li:company:1033",
+                    "entityUrn": "urn:li:fs_miniCompany:1033",
+                    "name": "Accenture",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1628018657141?e=1660780800&v=beta&t=45BMFb3Qp56JaArlNk5Z8sAMd0AqmSM16lF-uxbsoi0",
+                                    "expiresAt": 1660780800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1628018657141?e=1660780800&v=beta&t=3Xk8c6NIrX4923XbkjTwlqREtllO11NJieZfxKfP-iA",
+                                    "expiresAt": 1660780800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1628018657141?e=1660780800&v=beta&t=CKaT8w-9YO6iuTYoitndBeQ8DTX-4KXuUxo5S1ALq68",
+                                    "expiresAt": 1660780800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQHjvfNL_2AXIw/company-logo_"
+                        }
+                    },
+                    "universalName": "accenture",
+                    "dashCompanyUrn": "urn:li:fsd_company:1033",
+                    "trackingId": "dpJOsU9HTVyJiqyadjbrkw=="
+                },
+                "displaySource": "futurelearn.com",
+                "companyUrn": "urn:li:fs_miniCompany:1033",
+                "url": "https://www.futurelearn.com/certificates/0c58iao"
+            }
+        ],
+        "volunteer": [],
+        "honors": [],
+        "projects": []
+    },
+    "contact_info": {
+        "email_address": null,
+        "websites": [],
+        "twitter": [],
+        "birthdate": {
+            "month": 11,
+            "day": 18
+        },
+        "ims": null,
+        "phone_numbers": []
+    },
+    "connections": [
+        {
+            "urn_id": "ACoAADbmf6QBc8hqz1SYgWY92D5X-_ijayWyiQM",
+            "distance": "DISTANCE_1",
+            "public_id": "arindam-bhowal-10",
+            "tracking_id": "921075620"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Digital Marketing",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:1836",
+            "standardizedSkill": {
+                "name": "Digital Marketing",
+                "entityUrn": "urn:li:fs_miniSkill:1836"
+            }
+        },
+        {
+            "name": "Image Editing"
+        },
+        {
+            "name": "Adobe Photoshop"
+        },
+        {
+            "name": "photo editing"
+        }
+    ]
+}

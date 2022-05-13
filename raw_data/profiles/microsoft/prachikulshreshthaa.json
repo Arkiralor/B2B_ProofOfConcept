@@ -1,0 +1,351 @@
+{
+    "profile": {
+        "summary": "Talent Hunter and Advisor with good experience in recruiting the right talent. Has a close partnership with Hiring Managers and Business Leaders across IDC for Sales and Engineering Org's. Experience in Developing recruitment Plans to target strong candidate. \n\nMy professional mission statement is, \"To impact people in a positive way.\" I work towards this goal by striving to improve how we hire and how we treat people throughout the process; coaching individuals on how to transform their careers, advising and partnering with hiring managers, and when there's time left over, sharing useful knowledge about these things more broadly.\n\nPost Graduated from Asia Pacific Institute of Management, Delhi",
+        "industryName": "IT Services and IT Consulting",
+        "lastName": "Kulshreshtha",
+        "locationName": "India",
+        "student": false,
+        "geoCountryName": "India",
+        "geoCountryUrn": "urn:li:fs_geo:102713980",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "industryUrn": "urn:li:fs_industry:96",
+        "firstName": "Prachi",
+        "entityUrn": "urn:li:fs_profile:ACoAAATRFaoBGdXMHNoWBOcH80nWAc7bQo4d2P0",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:104793846"
+        },
+        "geoLocationName": "Gurgaon, Haryana",
+        "location": {
+            "basicLocation": {
+                "countryCode": "in"
+            }
+        },
+        "headline": "Global Talent  Acquisition - Client Aligned Senior Recruiter",
+        "displayPictureUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQEmPDlshRTzQA/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/0/1648540265813?e=1657756800&v=beta&t=WjUzpjcOYOTOwoAGdzJ_KXbaXrO5hsCQ100U1tOZuqM",
+        "img_200_200": "200_200/0/1648540265813?e=1657756800&v=beta&t=XOcOkroa0z8hBtS_CNKJ3GcSIL_tkSFLStwGdkGlAF4",
+        "img_400_400": "400_400/0/1648540265813?e=1657756800&v=beta&t=3-x-4IvzTN_Ws8AOxPRRJysTd3Gn6JAVdDl83GXHhe4",
+        "img_800_800": "800_800/0/1648540265813?e=1657756800&v=beta&t=8gfqhLhj9R4UQd3QiQCHnB4mOe1DyZCRtydLeBgHYwM",
+        "profile_id": "ACoAAATRFaoBGdXMHNoWBOcH80nWAc7bQo4d2P0",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAAATRFaoBGdXMHNoWBOcH80nWAc7bQo4d2P0",
+        "member_urn": "urn:li:member:80811434",
+        "experience": [
+            {
+                "locationName": "Noida, Uttar Pradesh, India",
+                "entityUrn": "urn:li:fs_position:(ACoAAATRFaoBGdXMHNoWBOcH80nWAc7bQo4d2P0,1932757840)",
+                "geoLocationName": "Noida, Uttar Pradesh, India",
+                "geoUrn": "urn:li:fs_geo:104869687",
+                "companyName": "Microsoft",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 3,
+                        "year": 2022
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Computer Software"
+                    ]
+                },
+                "title": "Client Aligned Senior Recruiter- Global Talent  Acquisition ",
+                "region": "urn:li:fs_region:(in,7392)",
+                "companyUrn": "urn:li:fs_miniCompany:1035",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C560BAQE88xCsONDULQ/company-logo_"
+            },
+            {
+                "locationName": "Gurgaon, India",
+                "entityUrn": "urn:li:fs_position:(ACoAAATRFaoBGdXMHNoWBOcH80nWAc7bQo4d2P0,1207405018)",
+                "geoLocationName": "Gurgaon, India",
+                "geoUrn": "urn:li:fs_geo:100899423",
+                "companyName": "Oracle",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 3,
+                        "year": 2022
+                    },
+                    "startDate": {
+                        "month": 2,
+                        "year": 2018
+                    }
+                },
+                "description": "Extensively hired Sales and OCI Development hiring - PAN India",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Principal Talent Advisor - Sales ",
+                "region": "urn:li:fs_region:(in,7391)",
+                "companyUrn": "urn:li:fs_miniCompany:1028",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C560BAQG1QEQ426NXTw/company-logo_"
+            },
+            {
+                "locationName": "Gurgaon, India",
+                "entityUrn": "urn:li:fs_position:(ACoAAATRFaoBGdXMHNoWBOcH80nWAc7bQo4d2P0,773104941)",
+                "geoLocationName": "Gurgaon, India",
+                "geoUrn": "urn:li:fs_geo:100899423",
+                "companyName": "IBM India",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 2,
+                        "year": 2018
+                    },
+                    "startDate": {
+                        "month": 3,
+                        "year": 2016
+                    }
+                },
+                "description": "My current role encompasses every aspect of social media hiring, planning and management. Working on leadership hiring with a specialty in product, technology and general management functions through Social Channels. In Addition, exposed to generic as well as complex and hard to find technology skills.\nLeverage LinkedIn data and relationships to innovate both how we recruit and the products we use to recruit.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Senior Recruiter: Sales Hiring",
+                "region": "urn:li:fs_region:(in,7391)",
+                "companyUrn": "urn:li:fs_miniCompany:1009",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQHnDb1Rq_7PNQ/company-logo_"
+            },
+            {
+                "locationName": "Noida",
+                "entityUrn": "urn:li:fs_position:(ACoAAATRFaoBGdXMHNoWBOcH80nWAc7bQo4d2P0,131145436)",
+                "geoLocationName": "Noida",
+                "companyName": "HCL Technologies Ltd",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 3,
+                        "year": 2016
+                    },
+                    "startDate": {
+                        "month": 6,
+                        "year": 2010
+                    }
+                },
+                "description": "Talent Hunter with more than 7 Years Experience, Currently Hiring Sales and Marketing and IT Experts.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Deputy Manager - Sales and Leadership hiring",
+                "companyUrn": "urn:li:fs_miniCompany:1756",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQGzgqPTjiDuMQ/company-logo_"
+            },
+            {
+                "locationName": "Gurgaon",
+                "entityUrn": "urn:li:fs_position:(ACoAAATRFaoBGdXMHNoWBOcH80nWAc7bQo4d2P0,130531327)",
+                "geoLocationName": "Gurgaon",
+                "companyName": "Royal Bank of Scotland",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 1,
+                        "year": 2010
+                    },
+                    "startDate": {
+                        "month": 10,
+                        "year": 2008
+                    }
+                },
+                "description": "Worked on IT recruitment.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 0,
+                        "end": 1
+                    },
+                    "industries": [
+                        "Banking"
+                    ]
+                },
+                "title": "Senior Executive - Recruitments",
+                "companyUrn": "urn:li:fs_miniCompany:1730",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQFl6h2O456oYg/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAATRFaoBGdXMHNoWBOcH80nWAc7bQo4d2P0,52187666)",
+                "school": {
+                    "objectUrn": "urn:li:school:40657",
+                    "entityUrn": "urn:li:fs_miniSchool:40657",
+                    "active": true,
+                    "schoolName": "Asia Pacific Institute Of Management",
+                    "trackingId": "eKud2CUCSD+IP80QRoqFJw==",
+                    "logoUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQF6ydi7BW_iIQ/company-logo_"
+                },
+                "activities": "Team Debate",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2008
+                    },
+                    "startDate": {
+                        "year": 2006
+                    }
+                },
+                "degreeName": "MBA",
+                "schoolName": "Asia Pacific Institute Of Management",
+                "fieldOfStudy": "HR",
+                "schoolUrn": "urn:li:fs_miniSchool:40657"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAATRFaoBGdXMHNoWBOcH80nWAc7bQo4d2P0,52187681)",
+                "school": {
+                    "objectUrn": "urn:li:school:13547",
+                    "entityUrn": "urn:li:fs_miniSchool:13547",
+                    "active": true,
+                    "schoolName": "Maharshi Dayanand University",
+                    "trackingId": "/j9ZheMbSa6ho4z0qE2XGg==",
+                    "logoUrl": "https://media-exp1.licdn.com/dms/image/C560BAQE_mUUW5ZxHUQ/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2006
+                    },
+                    "startDate": {
+                        "year": 2002
+                    }
+                },
+                "degreeName": "BBA IT",
+                "schoolName": "Maharshi Dayanand University",
+                "fieldOfStudy": "IT",
+                "schoolUrn": "urn:li:fs_miniSchool:13547"
+            }
+        ],
+        "languages": [],
+        "publications": [],
+        "certifications": [],
+        "volunteer": [],
+        "honors": [],
+        "projects": []
+    },
+    "contact_info": {
+        "email_address": null,
+        "websites": [],
+        "twitter": [
+            {
+                "name": "Prachikulshresh",
+                "credentialId": "urn:li:member:80811434;354566503"
+            }
+        ],
+        "birthdate": null,
+        "ims": null,
+        "phone_numbers": []
+    },
+    "connections": [
+        {
+            "urn_id": "ACoAAAI9wXoBijRhLoxf7BO8UTK0DX-7KexJV30",
+            "distance": "DISTANCE_1",
+            "public_id": "boren-ghosh-27671410",
+            "tracking_id": "37601658"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Leadership"
+        },
+        {
+            "name": "Technical Recruiting"
+        },
+        {
+            "name": "Compensation & Benefit"
+        },
+        {
+            "name": "Screening"
+        },
+        {
+            "name": "Talent Acquisition"
+        },
+        {
+            "name": "Recruitments"
+        },
+        {
+            "name": "Recruitment Advertising"
+        },
+        {
+            "name": "Resource Management"
+        },
+        {
+            "name": "IT Recruitment"
+        },
+        {
+            "name": "Management"
+        },
+        {
+            "name": "Benefits Negotiation"
+        },
+        {
+            "name": "Recruiting"
+        },
+        {
+            "name": "Screening Resumes"
+        },
+        {
+            "name": "MIS"
+        },
+        {
+            "name": "Sourcing"
+        },
+        {
+            "name": "Vendor Management"
+        },
+        {
+            "name": "Team Management"
+        },
+        {
+            "name": "Compensation & Benefits"
+        },
+        {
+            "name": "CRM"
+        },
+        {
+            "name": "Hiring"
+        },
+        {
+            "name": "Ibm"
+        },
+        {
+            "name": "Human Resources",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:49",
+            "standardizedSkill": {
+                "name": "Human Resources (HR)",
+                "entityUrn": "urn:li:fs_miniSkill:49"
+            }
+        },
+        {
+            "name": "HR Policies",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:1678",
+            "standardizedSkill": {
+                "name": "HR Policies",
+                "entityUrn": "urn:li:fs_miniSkill:1678"
+            }
+        },
+        {
+            "name": "Relationship Building",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:50125",
+            "standardizedSkill": {
+                "name": "Relationship Building",
+                "entityUrn": "urn:li:fs_miniSkill:50125"
+            }
+        },
+        {
+            "name": "Information Technology",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:4725",
+            "standardizedSkill": {
+                "name": "Information Technology",
+                "entityUrn": "urn:li:fs_miniSkill:4725"
+            }
+        }
+    ]
+}

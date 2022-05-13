@@ -1,0 +1,368 @@
+{
+    "profile": {
+        "summary": "Experienced Software Engineer with a demonstrated history of working in the information technology and services industry. Skilled in C, C++, Android, Data Structures, and Leadership. Strong engineering professional with a Bachelor of Technology (B.Tech.) focused in Computer Science from YMCA University of Science & Technology. ",
+        "industryName": "Software Development",
+        "lastName": "kaur",
+        "locationName": "India",
+        "student": false,
+        "geoCountryName": "India",
+        "geoCountryUrn": "urn:li:fs_geo:102713980",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "birthDate": {
+            "month": 5,
+            "day": 15
+        },
+        "industryUrn": "urn:li:fs_industry:4",
+        "firstName": "Mandeep",
+        "entityUrn": "urn:li:fs_profile:ACoAACJZ6fMBdugT9QKJ35gDG-w0uOD8cCHktFc",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:100839447"
+        },
+        "geoLocationName": "Faridabad, Haryana",
+        "location": {
+            "basicLocation": {
+                "countryCode": "in"
+            }
+        },
+        "headline": "Software Development Engineer 2 at Microsoft",
+        "displayPictureUrl": "https://media-exp1.licdn.com/dms/image/C5603AQHZ_Bm6g7oPVQ/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/0/1637497250351?e=1657756800&v=beta&t=tPVb9UcCygnBfIqbSH8VYzGwjVH_zc1omopy6D7Nq8o",
+        "img_200_200": "200_200/0/1637497250351?e=1657756800&v=beta&t=UHzqV5AFOjs_3N84xVOiCsyO_WwYryStBI7wvLUDke0",
+        "img_400_400": "400_400/0/1637497250351?e=1657756800&v=beta&t=5Urm3oVzd9q7rSmg12hEY5u6zv4jddLSoM16k1pyl0E",
+        "img_800_800": "800_800/0/1637497250351?e=1657756800&v=beta&t=w9ffDCdZqcZFzBN0r5POnysJRumFDi3rkCANu5CAP1c",
+        "profile_id": "ACoAACJZ6fMBdugT9QKJ35gDG-w0uOD8cCHktFc",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAACJZ6fMBdugT9QKJ35gDG-w0uOD8cCHktFc",
+        "member_urn": "urn:li:member:576317939",
+        "experience": [
+            {
+                "entityUrn": "urn:li:fs_position:(ACoAACJZ6fMBdugT9QKJ35gDG-w0uOD8cCHktFc,1731602678)",
+                "companyName": "Microsoft",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 2,
+                        "year": 2021
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Computer Software"
+                    ]
+                },
+                "title": "Software Development Engineer 2",
+                "companyUrn": "urn:li:fs_miniCompany:1035",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C560BAQE88xCsONDULQ/company-logo_"
+            },
+            {
+                "locationName": "Noida",
+                "entityUrn": "urn:li:fs_position:(ACoAACJZ6fMBdugT9QKJ35gDG-w0uOD8cCHktFc,1345427894)",
+                "geoLocationName": "Noida",
+                "companyName": "Samsung Electronics",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 2,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 8,
+                        "year": 2018
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Consumer Electronics"
+                    ]
+                },
+                "title": "Software Engineer",
+                "companyUrn": "urn:li:fs_miniCompany:1753",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C560BAQEdsxSQJKkxIA/company-logo_"
+            },
+            {
+                "locationName": "Ahmedabad, Gujarat, India",
+                "entityUrn": "urn:li:fs_position:(ACoAACJZ6fMBdugT9QKJ35gDG-w0uOD8cCHktFc,1119372759)",
+                "geoLocationName": "Ahmedabad, Gujarat, India",
+                "companyName": "Tata Consultancy Services",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 7,
+                        "year": 2018
+                    },
+                    "startDate": {
+                        "month": 10,
+                        "year": 2017
+                    }
+                },
+                "description": "Worked on \u00a0Module of ABC Mobile company project during the ILP \u00a0that deals with the customers services to manage their complaints.\n\nWorked on various Assignment to know the flow of Layering .\n\nTools used \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0: Visual studio\n\nTechnology used : DotNet Framework ,C#\n\n\nWe have been provied with basic training on CRM using Microsoft Dynamics platform ",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Software Engineer",
+                "companyUrn": "urn:li:fs_miniCompany:1353",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQEMvQ8E6gXSPA/company-logo_"
+            },
+            {
+                "locationName": "India",
+                "entityUrn": "urn:li:fs_position:(ACoAACJZ6fMBdugT9QKJ35gDG-w0uOD8cCHktFc,975760627)",
+                "geoLocationName": "India",
+                "companyName": "STMicroelectronics",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2017
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2017
+                    }
+                },
+                "description": "Worked on \u00a0Project FP-CLD-WATSON1\n\nFP-CLD-WATSON1 is an STM32 ODE function pack. It can connect IoT node based on STM32 Nucleo to IBM Watson IOT, transmit sensor data and receive commands from remote applications.\n\n\nTechnology Used : Near Field Communication(NFC),IBM watson IOT services \nHardware Used \u00a0\u00a0\u00a0: STNucleo Boards,sensors Boards\n\n\nDeveloped an FP-CLD-WATSON1 configuration Android Application.\n\nThe app is used to read and write data from and to NFC respectively.\n\n\nTechnology Used : Android Studio, Inkscape, Near Field Communication(NFC).",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Semiconductors"
+                    ]
+                },
+                "title": "Intern",
+                "companyUrn": "urn:li:fs_miniCompany:1618",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQFyQ-q6iu6L0g/company-logo_"
+            },
+            {
+                "locationName": "New Delhi Area, India",
+                "entityUrn": "urn:li:fs_position:(ACoAACJZ6fMBdugT9QKJ35gDG-w0uOD8cCHktFc,976298625)",
+                "geoLocationName": "New Delhi Area, India",
+                "companyName": "Tata Consultancy Services",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 4,
+                        "year": 2017
+                    },
+                    "startDate": {
+                        "month": 2,
+                        "year": 2017
+                    }
+                },
+                "description": "Worked on \u00a0project Online Crime Reporting.\n\nThe web based application provides the facility for reporting online crimes, complaints, news related to crime containing three modules visitor register user and administrator\n\n\nTools used \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0: Eclipse ,Rational Rose\n\nTechnology used : Database,Microsoft office, ,HTML5,CSS",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Remote Intern",
+                "companyUrn": "urn:li:fs_miniCompany:1353",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQEMvQ8E6gXSPA/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAACJZ6fMBdugT9QKJ35gDG-w0uOD8cCHktFc,416274900)",
+                "school": {
+                    "objectUrn": "urn:li:school:226044",
+                    "entityUrn": "urn:li:fs_miniSchool:226044",
+                    "active": true,
+                    "schoolName": "YMCA University of Science & Technology",
+                    "trackingId": "94JQNnunSi6pR5fyacEdRw=="
+                },
+                "grade": "9.005",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2017
+                    },
+                    "startDate": {
+                        "year": 2013
+                    }
+                },
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100189",
+                "degreeName": "Bachelor of Technology (B.Tech.)",
+                "schoolName": "YMCA University of Science & Technology",
+                "fieldOfStudy": "Computer Science",
+                "degreeUrn": "urn:li:fs_degree:250",
+                "schoolUrn": "urn:li:fs_miniSchool:226044"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAACJZ6fMBdugT9QKJ35gDG-w0uOD8cCHktFc,416600502)",
+                "grade": "9.4",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2011
+                    },
+                    "startDate": {
+                        "year": 2010
+                    }
+                },
+                "degreeName": "10TH",
+                "schoolName": "VIDYA NIKETAN SCHOOL NO 2"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAACJZ6fMBdugT9QKJ35gDG-w0uOD8cCHktFc,416600497)",
+                "grade": "94.4",
+                "degreeName": "12th",
+                "schoolName": "VIDYA NIKETAN SCHOLL N02 FARIDABAD",
+                "fieldOfStudy": "Non Medical"
+            }
+        ],
+        "languages": [],
+        "publications": [],
+        "certifications": [
+            {
+                "authority": "Microsoft",
+                "name": "Microsoft Global Hackathon 2021",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 10,
+                        "year": 2021
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:1035",
+                    "entityUrn": "urn:li:fs_miniCompany:1035",
+                    "name": "Microsoft",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1618231291419?e=1660780800&v=beta&t=4ZIOm9ehuT_DOyq44KKJz51Jjh1z0-zZSntgSS5gVvc",
+                                    "expiresAt": 1660780800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1618231291419?e=1660780800&v=beta&t=HH3CCS8kb8Ccq2lh3RCHTQ0nh070nf0L0yqRWSWVtm4",
+                                    "expiresAt": 1660780800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1618231291419?e=1660780800&v=beta&t=MLCLA7EabafvJO_aMRYSdoA9XYZ4avzdUp8_nvE1Ois",
+                                    "expiresAt": 1660780800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQE88xCsONDULQ/company-logo_"
+                        }
+                    },
+                    "universalName": "microsoft",
+                    "dashCompanyUrn": "urn:li:fsd_company:1035",
+                    "trackingId": "5BKKh99DRbaE8PY/cF0/Ow=="
+                },
+                "displaySource": "credly.com",
+                "companyUrn": "urn:li:fs_miniCompany:1035",
+                "url": "https://www.credly.com/badges/001ccfa8-7efb-4561-bc59-91e5694e62a9?source=linked_in_profile"
+            }
+        ],
+        "volunteer": [],
+        "honors": [],
+        "projects": []
+    },
+    "contact_info": {
+        "email_address": null,
+        "websites": [],
+        "twitter": [],
+        "birthdate": {
+            "month": 5,
+            "day": 15
+        },
+        "ims": null,
+        "phone_numbers": []
+    },
+    "connections": [
+        {
+            "urn_id": "ACoAADZ9mPoBBWha8sl8ryS_FeGMwpi6kGUzbzk",
+            "distance": "DISTANCE_1",
+            "public_id": "raj-prasad-4a21b7216",
+            "tracking_id": "914200826"
+        }
+    ],
+    "skills": [
+        {
+            "name": "C",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:438",
+            "standardizedSkill": {
+                "name": "C (Programming Language)",
+                "entityUrn": "urn:li:fs_miniSkill:438"
+            }
+        },
+        {
+            "name": "C++",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:198",
+            "standardizedSkill": {
+                "name": "C++",
+                "entityUrn": "urn:li:fs_miniSkill:198"
+            }
+        },
+        {
+            "name": "Data Structures",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:4202",
+            "standardizedSkill": {
+                "name": "Data Structures",
+                "entityUrn": "urn:li:fs_miniSkill:4202"
+            }
+        },
+        {
+            "name": "algorithms"
+        },
+        {
+            "name": "Android "
+        },
+        {
+            "name": "Leadership"
+        },
+        {
+            "name": "Web Development"
+        },
+        {
+            "name": "Mysql"
+        },
+        {
+            "name": "dot net"
+        },
+        {
+            "name": "Visual Studio"
+        },
+        {
+            "name": "Customer Relationship Management (CRM)"
+        },
+        {
+            "name": "Dynamics 365"
+        },
+        {
+            "name": "Microsoft Office"
+        },
+        {
+            "name": "HTML"
+        },
+        {
+            "name": "SQL"
+        },
+        {
+            "name": "Android Studio"
+        },
+        {
+            "name": "c#"
+        },
+        {
+            "name": "AngularJS"
+        },
+        {
+            "name": "Java"
+        }
+    ]
+}

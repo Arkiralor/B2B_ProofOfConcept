@@ -1,0 +1,340 @@
+{
+    "profile": {
+        "summary": "-Working as Technical Recruiter  in ConsultAdd. Inc, actively hiring for Developers: Python/Java/AWS.\n\n-I'm  highly motivated ,enthusiastic and a multi-tasking person who is ready to take challenges and \n  responsibilities.\n\n-I am a Mechanical Engineer who likes to obtain a challenging environment where my resourceful experience \n   and academic skills will add value to the organisation.",
+        "industryName": "IT Services and IT Consulting",
+        "lastName": "Pagare",
+        "locationName": "United States",
+        "student": false,
+        "geoCountryName": "United States",
+        "geoCountryUrn": "urn:li:fs_geo:103644278",
+        "geoLocationBackfilled": false,
+        "elt": true,
+        "industryUrn": "urn:li:fs_industry:96",
+        "firstName": "Shivam",
+        "entityUrn": "urn:li:fs_profile:ACoAAC67ClcB64xxoGQMEdHNRAUrOY_66cKI77w",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:102387510"
+        },
+        "geoLocationName": "Irving, Texas",
+        "location": {
+            "basicLocation": {
+                "countryCode": "us"
+            }
+        },
+        "headline": "Technical Recruiter |\nHiring: Python, Java, AWS Developer",
+        "displayPictureUrl": "https://media-exp1.licdn.com/dms/image/C5603AQEZNB3hzkoP9g/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/0/1645023915460?e=1657756800&v=beta&t=ze2S8VbsWMHTEQaw-oKawN9u5J5gy2QyJ6oDzzR68sk",
+        "img_200_200": "200_200/0/1645023915460?e=1657756800&v=beta&t=b6JT0sQtCiO5sBjTfVHX1ItlEMWZ-zDiqQ8LWkW8vFI",
+        "img_400_400": "400_400/0/1645023915460?e=1657756800&v=beta&t=ziqlnGykAQAWEknfz6V1Y0b3cFfuDqI42GFBCBn85YI",
+        "img_800_800": "800_800/0/1645023915460?e=1657756800&v=beta&t=12TENwRWu1djixRx_onXv2I0fDAPpXkQJo82lZp6D-U",
+        "profile_id": "ACoAAC67ClcB64xxoGQMEdHNRAUrOY_66cKI77w",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAAC67ClcB64xxoGQMEdHNRAUrOY_66cKI77w",
+        "member_urn": "urn:li:member:784009815",
+        "experience": [
+            {
+                "locationName": "Pune, Maharashtra, India",
+                "entityUrn": "urn:li:fs_position:(ACoAAC67ClcB64xxoGQMEdHNRAUrOY_66cKI77w,1812539374)",
+                "geoLocationName": "Pune, Maharashtra, India",
+                "geoUrn": "urn:li:fs_geo:103671728",
+                "companyName": "ConsultAdd Inc",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 7,
+                        "year": 2021
+                    }
+                },
+                "description": "-\ud835\udc16\ud835\udc2b\ud835\udc22\ud835\udc2d\ud835\udc22\ud835\udc27\ud835\udc20 \ud835\udc23\ud835\udc28\ud835\udc1b \ud835\udc1d\ud835\udc1e\ud835\udc2c\ud835\udc1c\ud835\udc2b\ud835\udc22\ud835\udc29\ud835\udc2d\ud835\udc22\ud835\udc28\ud835\udc27\ud835\udc2c \ud835\udc1a\ud835\udc27\ud835\udc1d \ud835\udc29\ud835\udc28\ud835\udc2c\ud835\udc2d\ud835\udc22\ud835\udc27\ud835\udc20 \ud835\udc2d\ud835\udc28 \ud835\udc2b\ud835\udc1e\ud835\udc25\ud835\udc1e\ud835\udc2f\ud835\udc1a\ud835\udc27\ud835\udc2d \ud835\udc26\ud835\udc1e\ud835\udc1d\ud835\udc22\ud835\udc1a \ud835\udc29\ud835\udc25\ud835\udc1a\ud835\udc2d\ud835\udc1f\ud835\udc28\ud835\udc2b\ud835\udc26\ud835\udc2c.\n-\ud835\udc12\ud835\udc1c\ud835\udc2b\ud835\udc1e\ud835\udc1e\ud835\udc27\ud835\udc22\ud835\udc27\ud835\udc20 \ud835\udc1a\ud835\udc29\ud835\udc29\ud835\udc25\ud835\udc22\ud835\udc1c\ud835\udc1a\ud835\udc27\ud835\udc2d\ud835\udc2c \ud835\udc1f\ud835\udc28\ud835\udc2b \ud835\udc1c\ud835\udc28\ud835\udc26\ud835\udc29\ud835\udc1e\ud835\udc2d\ud835\udc1e\ud835\udc27\ud835\udc1c\ud835\udc32 \ud835\udc30\ud835\udc22\ud835\udc2d\ud835\udc21 \ud835\udc2d\ud835\udc21\ud835\udc1e \ud835\udc23\ud835\udc28\ud835\udc1b \ud835\udc2b\ud835\udc1e\ud835\udc2a\ud835\udc2e\ud835\udc22\ud835\udc2b\ud835\udc1e\ud835\udc26\ud835\udc1e\ud835\udc27\ud835\udc2d\ud835\udc2c.\n-\ud835\udc00\ud835\udc2b\ud835\udc2b\ud835\udc1a\ud835\udc27\ud835\udc20\ud835\udc22\ud835\udc27\ud835\udc20 \ud835\udc2d\ud835\udc1e\ud835\udc25\ud835\udc1e\ud835\udc29\ud835\udc21\ud835\udc28\ud835\udc27\ud835\udc1e, \ud835\udc2f\ud835\udc22\ud835\udc1d\ud835\udc1e\ud835\udc28, \ud835\udc28\ud835\udc2b \ud835\udc22\ud835\udc27-\ud835\udc29\ud835\udc1e\ud835\udc2b\ud835\udc2c\ud835\udc28\ud835\udc27 \ud835\udc22\ud835\udc27\ud835\udc2d\ud835\udc1e\ud835\udc2b\ud835\udc2f\ud835\udc22\ud835\udc1e\ud835\udc30\ud835\udc2c.\n-\ud835\udc0f\ud835\udc1e\ud835\udc2b\ud835\udc1f\ud835\udc28\ud835\udc2b\ud835\udc26\ud835\udc22\ud835\udc27\ud835\udc20 \ud835\udc1b\ud835\udc1a\ud835\udc1c\ud835\udc24\ud835\udc20\ud835\udc2b\ud835\udc28\ud835\udc2e\ud835\udc27\ud835\udc1d \ud835\udc1a\ud835\udc27\ud835\udc1d \ud835\udc2b\ud835\udc1e\ud835\udc1f\ud835\udc1e\ud835\udc2b\ud835\udc1e\ud835\udc27\ud835\udc1c\ud835\udc1e \ud835\udc1c\ud835\udc21\ud835\udc1e\ud835\udc1c\ud835\udc24\ud835\udc2c.\n-\ud835\udc0f\ud835\udc2b\ud835\udc1e\ud835\udc2c\ud835\udc1e\ud835\udc27\ud835\udc2d\ud835\udc22\ud835\udc27\ud835\udc20 \ud835\udc2d\ud835\udc21\ud835\udc1e \ud835\udc2b\ud835\udc1e\ud835\udc2c\ud835\udc2e\ud835\udc26\ud835\udc1e\ud835\udc2c \ud835\udc28\ud835\udc1f \ud835\udc2d\ud835\udc21\ud835\udc1e \ud835\udc26\ud835\udc28\ud835\udc2c\ud835\udc2d \ud835\udc2c\ud835\udc2e\ud835\udc22\ud835\udc2d\ud835\udc1a\ud835\udc1b\ud835\udc25\ud835\udc1e \ud835\udc1c\ud835\udc1a\ud835\udc27\ud835\udc1d\ud835\udc22\ud835\udc1d\ud835\udc1a\ud835\udc2d\ud835\udc1e\ud835\udc2c \ud835\udc2d\ud835\udc28 \ud835\udc2d\ud835\udc21\ud835\udc1e \ud835\udc21\ud835\udc22\ud835\udc2b\ud835\udc22\ud835\udc27\ud835\udc20 \ud835\udc26\ud835\udc1a\ud835\udc27\ud835\udc1a\ud835\udc20\ud835\udc1e\ud835\udc2b.\n-\ud835\udc0e\ud835\udc1f\ud835\udc1f\ud835\udc1e\ud835\udc2b\ud835\udc22\ud835\udc27\ud835\udc20 \ud835\udc23\ud835\udc28\ud835\udc1b \ud835\udc29\ud835\udc28\ud835\udc2c\ud835\udc22\ud835\udc2d\ud835\udc22\ud835\udc28\ud835\udc27\ud835\udc2c \ud835\udc1a\ud835\udc27\ud835\udc1d \ud835\udc1c\ud835\udc28\ud835\udc26\ud835\udc29\ud835\udc25\ud835\udc1e\ud835\udc2d\ud835\udc22\ud835\udc27\ud835\udc20 \ud835\udc2d\ud835\udc21\ud835\udc1e \ud835\udc2b\ud835\udc1e\ud835\udc25\ud835\udc1e\ud835\udc2f\ud835\udc1a\ud835\udc27\ud835\udc2d \ud835\udc29\ud835\udc1a\ud835\udc29\ud835\udc1e\ud835\udc2b\ud835\udc30\ud835\udc28\ud835\udc2b\ud835\udc24.\n-\ud835\udc0a\ud835\udc1e\ud835\udc1e\ud835\udc29\ud835\udc22\ud835\udc27\ud835\udc20 \ud835\udc2d\ud835\udc2b\ud835\udc1a\ud835\udc1c\ud835\udc24 \ud835\udc28\ud835\udc1f \ud835\udc1a\ud835\udc25\ud835\udc25 \ud835\udc1a\ud835\udc29\ud835\udc29\ud835\udc25\ud835\udc22\ud835\udc1c\ud835\udc1a\ud835\udc27\ud835\udc2d\ud835\udc2c \ud835\udc1a\ud835\udc2c \ud835\udc30\ud835\udc1e\ud835\udc25\ud835\udc25 \ud835\udc1a\ud835\udc2c \ud835\udc24\ud835\udc1e\ud835\udc1e\ud835\udc29\ud835\udc22\ud835\udc27\ud835\udc20 \ud835\udc1a\ud835\udc29\ud835\udc29\ud835\udc25\ud835\udc22\ud835\udc1c\ud835\udc1a\ud835\udc27\ud835\udc2d\ud835\udc2c \ud835\udc22\ud835\udc27\ud835\udc1f\ud835\udc28\ud835\udc2b\ud835\udc26\ud835\udc1e\ud835\udc1d \ud835\udc28\ud835\udc27 \ud835\udc2d\ud835\udc21\ud835\udc1e \ud835\udc1a\ud835\udc29\ud835\udc29\ud835\udc25\ud835\udc22\ud835\udc1c\ud835\udc1a\ud835\udc2d\ud835\udc22\ud835\udc28\ud835\udc27 \n  \ud835\udc29\ud835\udc2b\ud835\udc28\ud835\udc1c\ud835\udc1e\ud835\udc2c\ud835\udc2c.\n-\ud835\udc05\ud835\udc28\ud835\udc2b\ud835\udc1e\ud835\udc1c\ud835\udc1a\ud835\udc2c\ud835\udc2d\ud835\udc22\ud835\udc27\ud835\udc20 \ud835\udc2b\ud835\udc1e\ud835\udc1c\ud835\udc2b\ud835\udc2e\ud835\udc22\ud835\udc2d\ud835\udc26\ud835\udc1e\ud835\udc27\ud835\udc2d \ud835\udc1b\ud835\udc2e\ud835\udc1d\ud835\udc20\ud835\udc1e\ud835\udc2d\ud835\udc2c.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 201,
+                        "end": 500
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Technical Recruiter",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:2500598",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQG-vmaMnHtIxg/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAC67ClcB64xxoGQMEdHNRAUrOY_66cKI77w,628828979)",
+                "school": {
+                    "objectUrn": "urn:li:school:221183",
+                    "entityUrn": "urn:li:fs_miniSchool:221183",
+                    "active": true,
+                    "schoolName": "MEDICAPS INSTITUTE OF TECHNO MANAGEMENT, INDORE",
+                    "trackingId": "jfulq2hiRYC5LKaE209iRQ==",
+                    "logoUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQFRuQdP6LICUw/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "year": 2017
+                    }
+                },
+                "degreeName": "Bachelor's degree",
+                "schoolName": "MEDICAPS INSTITUTE OF TECHNO MANAGEMENT, INDORE",
+                "fieldOfStudy": "Mechanical Engineering",
+                "schoolUrn": "urn:li:fs_miniSchool:221183"
+            }
+        ],
+        "languages": [],
+        "publications": [],
+        "certifications": [],
+        "volunteer": [],
+        "honors": [],
+        "projects": []
+    },
+    "contact_info": {
+        "email_address": null,
+        "websites": [],
+        "twitter": [],
+        "birthdate": null,
+        "ims": null,
+        "phone_numbers": []
+    },
+    "connections": [
+        {
+            "urn_id": "ACoAAByhqogBLFVDJbqojrVMhtKfC3o3hRfEcjg",
+            "distance": "DISTANCE_1",
+            "public_id": "biki-talukdar-460a54114",
+            "tracking_id": "480357000"
+        },
+        {
+            "urn_id": "ACoAABr4jt0BoOUmisITdRo1gR4CumG5I4jjZIw",
+            "distance": "DISTANCE_1",
+            "public_id": "samudra-deka-911659107",
+            "tracking_id": "452497117"
+        },
+        {
+            "urn_id": "ACoAADLJzxsBizdB0nN5NZBCM41Q-z6-7ef5gyI",
+            "distance": "DISTANCE_1",
+            "public_id": "deepjyoti-kalita-78b4411b9",
+            "tracking_id": "852086555"
+        },
+        {
+            "urn_id": "ACoAAC24GToBKzC8vS7jZaCEqoq3Jse_M2Tson8",
+            "distance": "DISTANCE_1",
+            "public_id": "abhijit-paul-936a68194",
+            "tracking_id": "767039802"
+        },
+        {
+            "urn_id": "ACoAADe3CFYBsoFdtSEajXbg51HDagdpBEb3kx4",
+            "distance": "DISTANCE_1",
+            "public_id": "binud-panging-872062221",
+            "tracking_id": "934742102"
+        },
+        {
+            "urn_id": "ACoAADZmR9QB1zOH_PmrzQQw2wQmTJRTcNGU7CE",
+            "distance": "DISTANCE_1",
+            "public_id": "bkalita",
+            "tracking_id": "912672724"
+        },
+        {
+            "urn_id": "ACoAADbmf6QBc8hqz1SYgWY92D5X-_ijayWyiQM",
+            "distance": "DISTANCE_1",
+            "public_id": "arindam-bhowal-10",
+            "tracking_id": "921075620"
+        },
+        {
+            "urn_id": "ACoAAC2aUPYBGPB-T9xDu2Hjrq7OgzRPu5nTvyE",
+            "distance": "DISTANCE_1",
+            "public_id": "jintudas",
+            "tracking_id": "765087990"
+        },
+        {
+            "urn_id": "ACoAACT67ZEBgw1Aprl8Aqy8zWMavdTyaWs7J3w",
+            "distance": "DISTANCE_1",
+            "public_id": "titikshya-das-015942153",
+            "tracking_id": "620424593"
+        },
+        {
+            "urn_id": "ACoAAAjgx0kBxJoPu_7t3kS1NbDizQekjIIzMbE",
+            "distance": "DISTANCE_1",
+            "public_id": "lakheswar-nath-289a7141",
+            "tracking_id": "148948809"
+        },
+        {
+            "urn_id": "ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE",
+            "distance": "DISTANCE_1",
+            "public_id": "prithoo11335",
+            "tracking_id": "231212168"
+        },
+        {
+            "urn_id": "ACoAACbTg-gBtT_YqZc-FG2lIVBv13QTx8UUB8E",
+            "distance": "DISTANCE_1",
+            "public_id": "mridul24",
+            "tracking_id": "651396072"
+        },
+        {
+            "urn_id": "ACoAACr0GSwBcmPDh22HqivG9h0JwG-eahXSYW8",
+            "distance": "DISTANCE_1",
+            "public_id": "nihar-kashyap98",
+            "tracking_id": "720640300"
+        },
+        {
+            "urn_id": "ACoAACzP6KMBcLKqKnFRpIudaukkoW4NoqstgrM",
+            "distance": "DISTANCE_1",
+            "public_id": "pranit-prakash-sahu",
+            "tracking_id": "751823011"
+        },
+        {
+            "urn_id": "ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY",
+            "distance": "DISTANCE_1",
+            "public_id": "tridip-das-b5837911b",
+            "tracking_id": "499568180"
+        },
+        {
+            "urn_id": "ACoAAC8MNEkBeOfT5XsGjm2znOBKa5A1eZma5Bw",
+            "distance": "DISTANCE_1",
+            "public_id": "jyotishmoy-deka-7214171a0",
+            "tracking_id": "789328969"
+        },
+        {
+            "urn_id": "ACoAACeXhGEBEVCUXmKi5rowUSeFZNerPjvzQsc",
+            "distance": "DISTANCE_1",
+            "public_id": "mahbubul-haque-a55552166",
+            "tracking_id": "664241249"
+        },
+        {
+            "urn_id": "ACoAAAI9wXoBijRhLoxf7BO8UTK0DX-7KexJV30",
+            "distance": "DISTANCE_1",
+            "public_id": "boren-ghosh-27671410",
+            "tracking_id": "37601658"
+        },
+        {
+            "urn_id": "ACoAACZxhUQBl1V8kpLj4ACrE2LzpatGvVzEgSA",
+            "distance": "DISTANCE_1",
+            "public_id": "nabajyoti-borah-944000160",
+            "tracking_id": "644973892"
+        },
+        {
+            "urn_id": "ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8",
+            "distance": "DISTANCE_1",
+            "public_id": "sivaranjan-goswami-790b4523",
+            "tracking_id": "83451420"
+        },
+        {
+            "urn_id": "ACoAACHlA7IB_d9MYYVP_4JgPjZfqJiP0PpAAk0",
+            "distance": "DISTANCE_1",
+            "public_id": "parthava-borah-98253713a",
+            "tracking_id": "568656818"
+        },
+        {
+            "urn_id": "ACoAACTFIIYB1cK_syRcCXEc0o8RTm4JMlhYcHA",
+            "distance": "DISTANCE_1",
+            "public_id": "arun-kumar-nath-686721152",
+            "tracking_id": "616898694"
+        },
+        {
+            "urn_id": "ACoAABYq8T8ByHFGBUFRrHT5iKBI2u4YZjTLHFc",
+            "distance": "DISTANCE_1",
+            "public_id": "netranjit-borgohain-53b677a4",
+            "tracking_id": "371913023"
+        },
+        {
+            "urn_id": "ACoAAC-mfboBv3YCLG2TYdY8DDGcxvth-aLDFXU",
+            "distance": "DISTANCE_1",
+            "public_id": "bhargov-jyoti-das-0a28931a3",
+            "tracking_id": "799440314"
+        },
+        {
+            "urn_id": "ACoAACDVs-sB_IgxPBMHMRBfR6is3jmwwV_OvTE",
+            "distance": "DISTANCE_1",
+            "public_id": "swapnil-bhattacharjee-ghy",
+            "tracking_id": "550876139"
+        },
+        {
+            "urn_id": "ACoAAC4efLABFBv0f30-SDGDgLSf1gXTlkpJTfc",
+            "distance": "DISTANCE_1",
+            "public_id": "shawan-mandal",
+            "tracking_id": "773749936"
+        },
+        {
+            "urn_id": "ACoAACUEZ3QB2Xm0OWR0cqoc_u-o4KW_OENO1_8",
+            "distance": "DISTANCE_1",
+            "public_id": "rajan-sahu",
+            "tracking_id": "621045620"
+        },
+        {
+            "urn_id": "ACoAAC12ZqEBCx9JN_YIi1eF1FPPDif3mXI3fyc",
+            "distance": "DISTANCE_1",
+            "public_id": "abinash-panigrahi-169531193",
+            "tracking_id": "762734241"
+        },
+        {
+            "urn_id": "ACoAACYmrvgBRdvWxItbY_KP_fyrEgZ9U-QKJqk",
+            "distance": "DISTANCE_1",
+            "public_id": "rtsu",
+            "tracking_id": "640069368"
+        },
+        {
+            "urn_id": "ACoAADRMKTMBj76XTPRfB9R5rvfwNOXP2n93n4c",
+            "distance": "DISTANCE_1",
+            "public_id": "manash-deka-497a12205",
+            "tracking_id": "877406515"
+        },
+        {
+            "urn_id": "ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc",
+            "distance": "DISTANCE_1",
+            "public_id": "ratnadeep-bhattacharjee",
+            "tracking_id": "135079003"
+        },
+        {
+            "urn_id": "ACoAAAR5v8MBjPwCvp8TP9RWZyGSeNYNiJ1wKJE",
+            "distance": "DISTANCE_1",
+            "public_id": "nilotpal-boruah",
+            "tracking_id": "75087811"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Team Management",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:3517",
+            "standardizedSkill": {
+                "name": "Team Management",
+                "entityUrn": "urn:li:fs_miniSkill:3517"
+            }
+        },
+        {
+            "name": "C (Programming Language)",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:438",
+            "standardizedSkill": {
+                "name": "C (Programming Language)",
+                "entityUrn": "urn:li:fs_miniSkill:438"
+            }
+        },
+        {
+            "name": "Engineering",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:166",
+            "standardizedSkill": {
+                "name": "Engineering",
+                "entityUrn": "urn:li:fs_miniSkill:166"
+            }
+        },
+        {
+            "name": "AutoCAD"
+        },
+        {
+            "name": "Leadership"
+        },
+        {
+            "name": "Team Building"
+        },
+        {
+            "name": "Job Search Strategies"
+        },
+        {
+            "name": "Problem Solving"
+        },
+        {
+            "name": "Teamwork"
+        }
+    ]
+}

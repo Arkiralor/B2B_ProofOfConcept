@@ -1,0 +1,1207 @@
+{
+    "profile": {
+        "summary": "An enterprising strategic FullStack recruiter, a true partner to business, data & metric driven approach & passionate about cherry picking the right people for the right role in a hyper competitive environment. Expertise in hiring tech and product professionals in a short span of time who can build applications that touch and enrich lives of millions. \n\nIn the last 7 years, I have had the opportunity to navigate the space and gain expertise around Talent Planning & Development, Sourcing, Industry benchmarking, Branding, Candidate Engagement, Diversity & Inclusion, Leadership Hiring while working with CTO-CIO-Product Heads and Campus Recruitment from Tier I-TierII colleges in India. \n\nA result oriented & methodical approach along with a continuous spree for learning and self-development with an interest towards building an employer brand that helps attract and leverage relevant talents has helped me to start from ground zero in a tech product organization and today we stand at 300+ employees at our APAC Tech Hub, delivering globally a Network for Greater Good in the field of HealthTech.\n\n\u2692\ufe0fTools: \n\n\ud83d\udd0d X Ray Search using Boolean string and operator \n\ud83d\udc40Sourcing passive candidates using LinkedIn,      GitHub, Behance, Stackoverflow, Naukri, Job boards, leetcode\nCustom search engine (CSE)\n\ud83d\udd78\ufe0f Networking \n\ud83d\udcf1 Lead generation via social media platform\n\ud83d\udcbb ATS management (iCIMS)\n\ud83d\udcb9 Market mapping\n\nFun Facts:\n\n\ud83c\udfc5 Recommendations under LinkedIn is what I cherish the most\n\ud83c\udfc6awarded \"employee of the month\" 3 times\n\u2705 Into Enneagram? I\u2019m #3 (The Performer)\n\ud83e\uddd1\u200d\ud83c\udf93XLRI Alumnus\n\ud83c\udfa4 Speaker & Mentor at Club House (https://www.clubhouse.com/@sghosh1704)\n\ud83d\udc69\u200d\ud83d\udc69\u200d\ud83d\udc67\u200d\ud83d\udc67 Member of Leap Club (https://leap.club/ A community led professional network for women)\n\ud83d\ude98 Road trips\n\ud83d\udcfa Binge watch Netflix/Amazon/Hotstar-Disney\n\u2615 Coffee\n\u2026\u2026.& more when we connect \ud83e\udd1d\ud83d\ude00",
+        "industryName": "Software Development",
+        "lastName": "Ghosh",
+        "locationName": "India",
+        "student": false,
+        "geoCountryName": "India",
+        "geoCountryUrn": "urn:li:fs_geo:102713980",
+        "maidenName": "Mahasweta",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "birthDate": {
+            "month": 4,
+            "day": 17
+        },
+        "industryUrn": "urn:li:fs_industry:4",
+        "firstName": "Sweta",
+        "entityUrn": "urn:li:fs_profile:ACoAAAUDQx4BgbuPbow4-OFImj7k28P1l2hx1iU",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:106164952"
+        },
+        "geoLocationName": "Mumbai, Maharashtra",
+        "location": {
+            "basicLocation": {
+                "countryCode": "in"
+            }
+        },
+        "headline": "Principal Recruiter, Hiring SaaS/Platform Engineers|Cloud Architect|Devops|Product & Design|UI-UX|Diversity & Inclusion| Ex-Jio Platform",
+        "displayPictureUrl": "https://media-exp1.licdn.com/dms/image/D4E35AQGZwLONhp1-Pw/profile-framedphoto-shrink_",
+        "img_200_200": "200_200/0/1643611343519?e=1653033600&v=beta&t=0_UrEfHQulGlyt7CSbkfUPgCh2kIIlR3XC9ze9dwzLU",
+        "img_400_400": "400_400/0/1643611343519?e=1653033600&v=beta&t=lvdY7v4vVEcVvnmDY1y5VO0WBeS5XaJT1XWe9jhivNw",
+        "img_800_800": "800_800/0/1643611343519?e=1653033600&v=beta&t=C80PdaWtlKpRgu1I1sbIQPa_wGnAP-WNqDJj7QWLfkk",
+        "img_100_100": "100_100/0/1643611343519?e=1653033600&v=beta&t=9aea4bH7ZUmC2vbPXprpOE0tH1qQWVejTmNLsnzQGMg",
+        "profile_id": "ACoAAAUDQx4BgbuPbow4-OFImj7k28P1l2hx1iU",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAAAUDQx4BgbuPbow4-OFImj7k28P1l2hx1iU",
+        "member_urn": "urn:li:member:84099870",
+        "experience": [
+            {
+                "locationName": "India",
+                "entityUrn": "urn:li:fs_position:(ACoAAAUDQx4BgbuPbow4-OFImj7k28P1l2hx1iU,1751981015)",
+                "geoLocationName": "India",
+                "geoUrn": "urn:li:fs_geo:102713980",
+                "companyName": "TraceLink",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 3,
+                        "year": 2021
+                    }
+                },
+                "description": "I joined Tracelink in Jule 2019 and we were building out the APAC R&D center from ground zero. From 1 employee to 300+ now, two things kept me motivated always, one: I was so grateful for being a part of building out this amazing team in India [Engineering/ Product/ Product Design (UI/UX)/ Analytics/ Cloud (AWS)/ Campus(FTE and Intern)] & two: I had the support of my TA team, my Managers, my stakeholders, my Leadership team, without whom I would have never been able to balance my personal and professional life. I can cherish my success as well as failure here.Tracelink's culture is imbibed by each employee and we have always embedded people first in all fronts.\n\nI encourage you to apply and be a part of the amazing culture.\nconnect at sghosh@tracelink.com",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 501,
+                        "end": 1000
+                    },
+                    "industries": [
+                        "Computer Software"
+                    ]
+                },
+                "title": "Principal Recruiter, APAC- Engineering, Product & Design",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:457886",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQE9xW2WUMj-4A/company-logo_"
+            },
+            {
+                "locationName": "Mumbai, Maharashtra, India",
+                "entityUrn": "urn:li:fs_position:(ACoAAAUDQx4BgbuPbow4-OFImj7k28P1l2hx1iU,1476581071)",
+                "geoLocationName": "Mumbai, Maharashtra, India",
+                "companyName": "TraceLink",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 3,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 6,
+                        "year": 2019
+                    }
+                },
+                "description": "I am a part of a Global Talent Acquisition team at Tracelink\n\nRoles & Responsibilities include:\n# Building short & mid-term sourcing strategies & executing near term recruitment plans along with engagement to bring the best talent to each role.\n# Create & execute a comprehensive hiring plan, analysing requirements to determine target profile needs and closest match.\n# Analyse & build JD\u2019s together with the hiring managers and thereby establish hiring strategy & criteria amongst the available target pool. \n# Collaborate closely with hiring managers throughout the recruiting process to ensure we hit their hiring needs and goals\n# Leading end to end planning to execution by engaging with hiring managers & key stakeholders \n# Manage talent planning, sourcing and development of Engineering, Analytics, Product and Design, Cloud(AWS) and IT division of Tracelink.\n# Partnering with leadership to establish Tracelink as a recognizable \u201cemployer of choice\u201d in India and APAC market.\n# Serve as the talent advisor and subject matter expert (SME) in hiring for Tracelink APAC.\n# Strong Global stakeholder management & Partnerships with internal leadership and executive teams\n# Direct sourcing across junior, middle level and senior Director & VP roles in Cloud (AWS), IT, Analytics, Engineering and Product organization.\n# Managing end to end campus (Graduate and interns) hiring in India.\n# Contributing to the growth of the Tracelink recruiting function by proactively developing and refining the processes, serving as a thought partner for the rest of the team and provide coaching and training as needed.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 501,
+                        "end": 1000
+                    },
+                    "industries": [
+                        "Computer Software"
+                    ]
+                },
+                "title": "Senior Technical Recruiter- Engineering/Analytics/Product/ UI UX/Cloud/IT/Campus",
+                "companyUrn": "urn:li:fs_miniCompany:457886",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQE9xW2WUMj-4A/company-logo_"
+            },
+            {
+                "locationName": "Mumbai, Maharashtra, India",
+                "entityUrn": "urn:li:fs_position:(ACoAAAUDQx4BgbuPbow4-OFImj7k28P1l2hx1iU,922790668)",
+                "geoLocationName": "Mumbai, Maharashtra, India",
+                "companyName": "Jio",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 6,
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "month": 12,
+                        "year": 2016
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Telecommunications"
+                    ]
+                },
+                "title": "Technical Recruiter- HR (Tech/Product/Analytics)",
+                "companyUrn": "urn:li:fs_miniCompany:10173825",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C560BAQEHCTk_-2ifGQ/company-logo_"
+            },
+            {
+                "locationName": "India",
+                "entityUrn": "urn:li:fs_position:(ACoAAAUDQx4BgbuPbow4-OFImj7k28P1l2hx1iU,1908742981)",
+                "$anti_abuse_metadata": {
+                    "/geoUrn": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:84099870"
+                        }
+                    },
+                    "/companyName": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:84099870"
+                        }
+                    },
+                    "/companyUrn": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:84099870"
+                        }
+                    },
+                    "/entityUrn": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:84099870"
+                        }
+                    },
+                    "/geoLocationName": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:84099870"
+                        }
+                    },
+                    "/promotion": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:84099870"
+                        }
+                    },
+                    "/title": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:84099870"
+                        }
+                    },
+                    "/region": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:84099870"
+                        }
+                    },
+                    "/locationName": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:84099870"
+                        }
+                    },
+                    "/description": {
+                        "sourceUrns": {
+                            "com.linkedin.common.urn.MemberUrn": "urn:li:member:84099870"
+                        }
+                    }
+                },
+                "geoLocationName": "India",
+                "geoUrn": "urn:li:fs_geo:102713980",
+                "companyName": "Freelance",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 11,
+                        "year": 2016
+                    },
+                    "startDate": {
+                        "year": 2009
+                    }
+                },
+                "title": "Freelance Agency Recruiter- (Technical/Sales/Marketing/Product) and full-time Mom",
+                "region": "urn:li:fs_region:(in,0)"
+            },
+            {
+                "locationName": "India",
+                "entityUrn": "urn:li:fs_position:(ACoAAAUDQx4BgbuPbow4-OFImj7k28P1l2hx1iU,1908760107)",
+                "geoLocationName": "India",
+                "geoUrn": "urn:li:fs_geo:102713980",
+                "companyName": "Career Concepts International",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 9,
+                        "year": 2008
+                    },
+                    "startDate": {
+                        "month": 11,
+                        "year": 2005
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 11,
+                        "end": 50
+                    },
+                    "industries": [
+                        "Consumer Services"
+                    ]
+                },
+                "title": "Technical Recruiter",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:33786632"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAAUDQx4BgbuPbow4-OFImj7k28P1l2hx1iU,407472529)",
+                "school": {
+                    "objectUrn": "urn:li:school:20387",
+                    "entityUrn": "urn:li:fs_miniSchool:20387",
+                    "active": true,
+                    "schoolName": "XLRI Jamshedpur",
+                    "trackingId": "/jyJUrtATzaZ8r1RazanuA==",
+                    "logoUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQHcZegHIqEXqQ/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "year": 2019
+                    }
+                },
+                "degreeName": "PGCHRM",
+                "schoolName": "XLRI Jamshedpur",
+                "fieldOfStudy": "Human Resource Management",
+                "schoolUrn": "urn:li:fs_miniSchool:20387"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAAUDQx4BgbuPbow4-OFImj7k28P1l2hx1iU,566598808)",
+                "school": {
+                    "objectUrn": "urn:li:school:41202",
+                    "entityUrn": "urn:li:fs_miniSchool:41202",
+                    "active": true,
+                    "schoolName": "Techno India College Of Technology",
+                    "trackingId": "IVXHaKP8R/SpuKq8aQx+Dg==",
+                    "logoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQGQskoSBIRZtg/company-logo_"
+                },
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100189",
+                "degreeName": "MCA - Master of Computer Applications",
+                "schoolName": "Techno India College Of Technology",
+                "fieldOfStudy": "Computer Science",
+                "degreeUrn": "urn:li:fs_degree:594",
+                "schoolUrn": "urn:li:fs_miniSchool:41202"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAAAUDQx4BgbuPbow4-OFImj7k28P1l2hx1iU,615568367)",
+                "school": {
+                    "objectUrn": "urn:li:school:198995",
+                    "entityUrn": "urn:li:fs_miniSchool:198995",
+                    "active": true,
+                    "schoolName": "freshers Jobs Kolkata",
+                    "trackingId": "LGw1vCTLSiGIA6SxmDFAtg=="
+                },
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100693",
+                "degreeName": "Bachelor of Science - BSc",
+                "schoolName": "Scottish Church College",
+                "fieldOfStudy": "Mathematics",
+                "schoolUrn": "urn:li:fs_miniSchool:198995"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English",
+                "proficiency": "PROFESSIONAL_WORKING"
+            },
+            {
+                "name": "Hindi",
+                "proficiency": "PROFESSIONAL_WORKING"
+            }
+        ],
+        "publications": [],
+        "certifications": [
+            {
+                "authority": "LinkedIn",
+                "name": "Mastering Common Interview Questions",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 6,
+                        "year": 2020
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:1337",
+                    "entityUrn": "urn:li:fs_miniCompany:1337",
+                    "name": "LinkedIn",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1638831589865?e=1660780800&v=beta&t=QoqTL_-_vjyq7585eRAVji_Lvp7oqN_Rw4e0er9dqng",
+                                    "expiresAt": 1660780800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1638831589865?e=1660780800&v=beta&t=NpMH1yh_aLfyZ6325qS5NO76BW1CPiB5gCzgbQoTOD0",
+                                    "expiresAt": 1660780800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1638831589865?e=1660780800&v=beta&t=5WrefqpmMjBp40n-E6RS7eNsOrT1v7ffID0Mr7YONiE",
+                                    "expiresAt": 1660780800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_"
+                        }
+                    },
+                    "universalName": "linkedin",
+                    "dashCompanyUrn": "urn:li:fsd_company:1337",
+                    "trackingId": "lh5tbAwbQ5m3rEqFwG4MZw=="
+                },
+                "displaySource": "linkedin.com",
+                "companyUrn": "urn:li:fs_miniCompany:1337",
+                "url": "http://www.linkedin.com/learning/mastering-common-interview-questions"
+            },
+            {
+                "authority": "LinkedIn",
+                "name": "Technical Recruiting",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 5,
+                        "year": 2020
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:1337",
+                    "entityUrn": "urn:li:fs_miniCompany:1337",
+                    "name": "LinkedIn",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1638831589865?e=1660780800&v=beta&t=QoqTL_-_vjyq7585eRAVji_Lvp7oqN_Rw4e0er9dqng",
+                                    "expiresAt": 1660780800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1638831589865?e=1660780800&v=beta&t=NpMH1yh_aLfyZ6325qS5NO76BW1CPiB5gCzgbQoTOD0",
+                                    "expiresAt": 1660780800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1638831589865?e=1660780800&v=beta&t=5WrefqpmMjBp40n-E6RS7eNsOrT1v7ffID0Mr7YONiE",
+                                    "expiresAt": 1660780800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_"
+                        }
+                    },
+                    "universalName": "linkedin",
+                    "dashCompanyUrn": "urn:li:fsd_company:1337",
+                    "trackingId": "4/EvOOu0Rm2e7uVPG0ZCpw=="
+                },
+                "displaySource": "linkedin.com",
+                "companyUrn": "urn:li:fs_miniCompany:1337",
+                "url": "http://www.linkedin.com/learning/technical-recruiting"
+            },
+            {
+                "authority": "LinkedIn",
+                "name": "Big Data Analytics with Hadoop and Apache Spark",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 6,
+                        "year": 2020
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:1337",
+                    "entityUrn": "urn:li:fs_miniCompany:1337",
+                    "name": "LinkedIn",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1638831589865?e=1660780800&v=beta&t=QoqTL_-_vjyq7585eRAVji_Lvp7oqN_Rw4e0er9dqng",
+                                    "expiresAt": 1660780800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1638831589865?e=1660780800&v=beta&t=NpMH1yh_aLfyZ6325qS5NO76BW1CPiB5gCzgbQoTOD0",
+                                    "expiresAt": 1660780800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1638831589865?e=1660780800&v=beta&t=5WrefqpmMjBp40n-E6RS7eNsOrT1v7ffID0Mr7YONiE",
+                                    "expiresAt": 1660780800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_"
+                        }
+                    },
+                    "universalName": "linkedin",
+                    "dashCompanyUrn": "urn:li:fsd_company:1337",
+                    "trackingId": "mUYAqP9DRJq+0UstmD/5Iw=="
+                },
+                "displaySource": "linkedin.com",
+                "companyUrn": "urn:li:fs_miniCompany:1337",
+                "url": "http://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark"
+            },
+            {
+                "authority": "LinkedIn",
+                "name": "Interviewing for Product Management Jobs",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 6,
+                        "year": 2020
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:1337",
+                    "entityUrn": "urn:li:fs_miniCompany:1337",
+                    "name": "LinkedIn",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1638831589865?e=1660780800&v=beta&t=QoqTL_-_vjyq7585eRAVji_Lvp7oqN_Rw4e0er9dqng",
+                                    "expiresAt": 1660780800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1638831589865?e=1660780800&v=beta&t=NpMH1yh_aLfyZ6325qS5NO76BW1CPiB5gCzgbQoTOD0",
+                                    "expiresAt": 1660780800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1638831589865?e=1660780800&v=beta&t=5WrefqpmMjBp40n-E6RS7eNsOrT1v7ffID0Mr7YONiE",
+                                    "expiresAt": 1660780800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_"
+                        }
+                    },
+                    "universalName": "linkedin",
+                    "dashCompanyUrn": "urn:li:fsd_company:1337",
+                    "trackingId": "gBSlQ9GZQ/KhTswXPSILAw=="
+                },
+                "displaySource": "linkedin.com",
+                "companyUrn": "urn:li:fs_miniCompany:1337",
+                "url": "http://www.linkedin.com/learning/interviewing-for-product-management-jobs"
+            },
+            {
+                "authority": "LinkedIn",
+                "name": "Programming Foundations: Object-Oriented Design",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 10,
+                        "year": 2020
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:1337",
+                    "entityUrn": "urn:li:fs_miniCompany:1337",
+                    "name": "LinkedIn",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1638831589865?e=1660780800&v=beta&t=QoqTL_-_vjyq7585eRAVji_Lvp7oqN_Rw4e0er9dqng",
+                                    "expiresAt": 1660780800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1638831589865?e=1660780800&v=beta&t=NpMH1yh_aLfyZ6325qS5NO76BW1CPiB5gCzgbQoTOD0",
+                                    "expiresAt": 1660780800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1638831589865?e=1660780800&v=beta&t=5WrefqpmMjBp40n-E6RS7eNsOrT1v7ffID0Mr7YONiE",
+                                    "expiresAt": 1660780800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_"
+                        }
+                    },
+                    "universalName": "linkedin",
+                    "dashCompanyUrn": "urn:li:fsd_company:1337",
+                    "trackingId": "RqZIqZS5ReeOImRbP8LHGA=="
+                },
+                "displaySource": "linkedin.com",
+                "companyUrn": "urn:li:fs_miniCompany:1337",
+                "url": "http://www.linkedin.com/learning/programming-foundations-object-oriented-design-3"
+            },
+            {
+                "authority": "LinkedIn",
+                "name": "Learning LinkedIn Recruiter",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 5,
+                        "year": 2021
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:1337",
+                    "entityUrn": "urn:li:fs_miniCompany:1337",
+                    "name": "LinkedIn",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1638831589865?e=1660780800&v=beta&t=QoqTL_-_vjyq7585eRAVji_Lvp7oqN_Rw4e0er9dqng",
+                                    "expiresAt": 1660780800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1638831589865?e=1660780800&v=beta&t=NpMH1yh_aLfyZ6325qS5NO76BW1CPiB5gCzgbQoTOD0",
+                                    "expiresAt": 1660780800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1638831589865?e=1660780800&v=beta&t=5WrefqpmMjBp40n-E6RS7eNsOrT1v7ffID0Mr7YONiE",
+                                    "expiresAt": 1660780800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_"
+                        }
+                    },
+                    "universalName": "linkedin",
+                    "dashCompanyUrn": "urn:li:fsd_company:1337",
+                    "trackingId": "O3ycSRNZS/6qb++LSZ5FtQ=="
+                },
+                "displaySource": "linkedin.com",
+                "companyUrn": "urn:li:fs_miniCompany:1337",
+                "url": "https://www.linkedin.com/learning/learning-linkedin-recruiter-2021"
+            },
+            {
+                "authority": "LinkedIn",
+                "name": "Diversity Recruiting",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 7,
+                        "year": 2021
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:1337",
+                    "entityUrn": "urn:li:fs_miniCompany:1337",
+                    "name": "LinkedIn",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1638831589865?e=1660780800&v=beta&t=QoqTL_-_vjyq7585eRAVji_Lvp7oqN_Rw4e0er9dqng",
+                                    "expiresAt": 1660780800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1638831589865?e=1660780800&v=beta&t=NpMH1yh_aLfyZ6325qS5NO76BW1CPiB5gCzgbQoTOD0",
+                                    "expiresAt": 1660780800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1638831589865?e=1660780800&v=beta&t=5WrefqpmMjBp40n-E6RS7eNsOrT1v7ffID0Mr7YONiE",
+                                    "expiresAt": 1660780800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_"
+                        }
+                    },
+                    "universalName": "linkedin",
+                    "dashCompanyUrn": "urn:li:fsd_company:1337",
+                    "trackingId": "N9RA+exPRquo3bSPJSP8JQ=="
+                },
+                "displaySource": "linkedin.com",
+                "companyUrn": "urn:li:fs_miniCompany:1337",
+                "url": "https://www.linkedin.com/learning/diversity-recruiting-2"
+            },
+            {
+                "authority": "DevSkiller",
+                "name": "Tech Recruitment Certified Professional",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 1,
+                        "year": 2022
+                    }
+                },
+                "licenseNumber": "RolhnIX5QBNLGlYeIyoER",
+                "company": {
+                    "objectUrn": "urn:li:company:10113506",
+                    "entityUrn": "urn:li:fs_miniCompany:10113506",
+                    "name": "DevSkiller",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1648129721931?e=1660780800&v=beta&t=wVB_u3PCY40bm6OuJWbAYFy53GytNXJJLMuW67W7LL4",
+                                    "expiresAt": 1660780800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1648129721931?e=1660780800&v=beta&t=MI4oWEf3Ru1lyXKTIVktnAqDTHQsXvg4hzxvgmTwg80",
+                                    "expiresAt": 1660780800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1648129721931?e=1660780800&v=beta&t=SWGEJFujzx_GsRCwnDPGqTRI9gmyRoCD7aVDa4RsgR0",
+                                    "expiresAt": 1660780800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQHwG9iJLQyd9Q/company-logo_"
+                        }
+                    },
+                    "universalName": "devskiller",
+                    "dashCompanyUrn": "urn:li:fsd_company:10113506",
+                    "trackingId": "45GVF1AuQW6Mpfn0IcxEuQ=="
+                },
+                "displaySource": "devskiller.com",
+                "companyUrn": "urn:li:fs_miniCompany:10113506",
+                "url": "https://devskiller.com/hr-certification/RolhnIX5QBNLGlYeIyoER"
+            },
+            {
+                "authority": "LinkedIn",
+                "name": "Job Interview Strategies for UX Designers",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 12,
+                        "year": 2021
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:1337",
+                    "entityUrn": "urn:li:fs_miniCompany:1337",
+                    "name": "LinkedIn",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1638831589865?e=1660780800&v=beta&t=QoqTL_-_vjyq7585eRAVji_Lvp7oqN_Rw4e0er9dqng",
+                                    "expiresAt": 1660780800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1638831589865?e=1660780800&v=beta&t=NpMH1yh_aLfyZ6325qS5NO76BW1CPiB5gCzgbQoTOD0",
+                                    "expiresAt": 1660780800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1638831589865?e=1660780800&v=beta&t=5WrefqpmMjBp40n-E6RS7eNsOrT1v7ffID0Mr7YONiE",
+                                    "expiresAt": 1660780800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_"
+                        }
+                    },
+                    "universalName": "linkedin",
+                    "dashCompanyUrn": "urn:li:fsd_company:1337",
+                    "trackingId": "semDY95jT0KK8LY5FgYJEA=="
+                },
+                "displaySource": "linkedin.com",
+                "companyUrn": "urn:li:fs_miniCompany:1337",
+                "url": "https://www.linkedin.com/learning/job-interview-strategies-for-ux-designers"
+            },
+            {
+                "authority": "LinkedIn",
+                "name": "Excel with LinkedIn Recruiter Assessment",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 4,
+                        "year": 2022
+                    }
+                },
+                "licenseNumber": "72s3hp5ghwzs",
+                "company": {
+                    "objectUrn": "urn:li:company:1337",
+                    "entityUrn": "urn:li:fs_miniCompany:1337",
+                    "name": "LinkedIn",
+                    "showcase": false,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1638831589865?e=1660780800&v=beta&t=QoqTL_-_vjyq7585eRAVji_Lvp7oqN_Rw4e0er9dqng",
+                                    "expiresAt": 1660780800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1638831589865?e=1660780800&v=beta&t=NpMH1yh_aLfyZ6325qS5NO76BW1CPiB5gCzgbQoTOD0",
+                                    "expiresAt": 1660780800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1638831589865?e=1660780800&v=beta&t=5WrefqpmMjBp40n-E6RS7eNsOrT1v7ffID0Mr7YONiE",
+                                    "expiresAt": 1660780800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_"
+                        }
+                    },
+                    "universalName": "linkedin",
+                    "dashCompanyUrn": "urn:li:fsd_company:1337",
+                    "trackingId": "qtkZeQXDRcuLzl8xNHb/HQ=="
+                },
+                "displaySource": "skilljar.com",
+                "companyUrn": "urn:li:fs_miniCompany:1337",
+                "url": "https://verify.skilljar.com/c/72s3hp5ghwzs"
+            }
+        ],
+        "volunteer": [],
+        "honors": [],
+        "projects": []
+    },
+    "contact_info": {
+        "email_address": null,
+        "websites": [
+            {
+                "url": "www.tracelink.com",
+                "label": "COMPANY"
+            }
+        ],
+        "twitter": [],
+        "birthdate": {
+            "month": 4,
+            "day": 17
+        },
+        "ims": null,
+        "phone_numbers": []
+    },
+    "connections": [
+        {
+            "urn_id": "ACoAAByhqogBLFVDJbqojrVMhtKfC3o3hRfEcjg",
+            "distance": "DISTANCE_1",
+            "public_id": "biki-talukdar-460a54114",
+            "tracking_id": "480357000"
+        },
+        {
+            "urn_id": "ACoAABr4jt0BoOUmisITdRo1gR4CumG5I4jjZIw",
+            "distance": "DISTANCE_1",
+            "public_id": "samudra-deka-911659107",
+            "tracking_id": "452497117"
+        },
+        {
+            "urn_id": "ACoAADLJzxsBizdB0nN5NZBCM41Q-z6-7ef5gyI",
+            "distance": "DISTANCE_1",
+            "public_id": "deepjyoti-kalita-78b4411b9",
+            "tracking_id": "852086555"
+        },
+        {
+            "urn_id": "ACoAAC24GToBKzC8vS7jZaCEqoq3Jse_M2Tson8",
+            "distance": "DISTANCE_1",
+            "public_id": "abhijit-paul-936a68194",
+            "tracking_id": "767039802"
+        },
+        {
+            "urn_id": "ACoAADe3CFYBsoFdtSEajXbg51HDagdpBEb3kx4",
+            "distance": "DISTANCE_1",
+            "public_id": "binud-panging-872062221",
+            "tracking_id": "934742102"
+        },
+        {
+            "urn_id": "ACoAADZmR9QB1zOH_PmrzQQw2wQmTJRTcNGU7CE",
+            "distance": "DISTANCE_1",
+            "public_id": "bkalita",
+            "tracking_id": "912672724"
+        },
+        {
+            "urn_id": "ACoAADbmf6QBc8hqz1SYgWY92D5X-_ijayWyiQM",
+            "distance": "DISTANCE_1",
+            "public_id": "arindam-bhowal-10",
+            "tracking_id": "921075620"
+        },
+        {
+            "urn_id": "ACoAAC2aUPYBGPB-T9xDu2Hjrq7OgzRPu5nTvyE",
+            "distance": "DISTANCE_1",
+            "public_id": "jintudas",
+            "tracking_id": "765087990"
+        },
+        {
+            "urn_id": "ACoAACT67ZEBgw1Aprl8Aqy8zWMavdTyaWs7J3w",
+            "distance": "DISTANCE_1",
+            "public_id": "titikshya-das-015942153",
+            "tracking_id": "620424593"
+        },
+        {
+            "urn_id": "ACoAAAjgx0kBxJoPu_7t3kS1NbDizQekjIIzMbE",
+            "distance": "DISTANCE_1",
+            "public_id": "lakheswar-nath-289a7141",
+            "tracking_id": "148948809"
+        },
+        {
+            "urn_id": "ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE",
+            "distance": "DISTANCE_1",
+            "public_id": "prithoo11335",
+            "tracking_id": "231212168"
+        },
+        {
+            "urn_id": "ACoAACbTg-gBtT_YqZc-FG2lIVBv13QTx8UUB8E",
+            "distance": "DISTANCE_1",
+            "public_id": "mridul24",
+            "tracking_id": "651396072"
+        },
+        {
+            "urn_id": "ACoAACr0GSwBcmPDh22HqivG9h0JwG-eahXSYW8",
+            "distance": "DISTANCE_1",
+            "public_id": "nihar-kashyap98",
+            "tracking_id": "720640300"
+        },
+        {
+            "urn_id": "ACoAACzP6KMBcLKqKnFRpIudaukkoW4NoqstgrM",
+            "distance": "DISTANCE_1",
+            "public_id": "pranit-prakash-sahu",
+            "tracking_id": "751823011"
+        },
+        {
+            "urn_id": "ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY",
+            "distance": "DISTANCE_1",
+            "public_id": "tridip-das-b5837911b",
+            "tracking_id": "499568180"
+        },
+        {
+            "urn_id": "ACoAAC8MNEkBeOfT5XsGjm2znOBKa5A1eZma5Bw",
+            "distance": "DISTANCE_1",
+            "public_id": "jyotishmoy-deka-7214171a0",
+            "tracking_id": "789328969"
+        },
+        {
+            "urn_id": "ACoAACeXhGEBEVCUXmKi5rowUSeFZNerPjvzQsc",
+            "distance": "DISTANCE_1",
+            "public_id": "mahbubul-haque-a55552166",
+            "tracking_id": "664241249"
+        },
+        {
+            "urn_id": "ACoAAAI9wXoBijRhLoxf7BO8UTK0DX-7KexJV30",
+            "distance": "DISTANCE_1",
+            "public_id": "boren-ghosh-27671410",
+            "tracking_id": "37601658"
+        },
+        {
+            "urn_id": "ACoAACZxhUQBl1V8kpLj4ACrE2LzpatGvVzEgSA",
+            "distance": "DISTANCE_1",
+            "public_id": "nabajyoti-borah-944000160",
+            "tracking_id": "644973892"
+        },
+        {
+            "urn_id": "ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8",
+            "distance": "DISTANCE_1",
+            "public_id": "sivaranjan-goswami-790b4523",
+            "tracking_id": "83451420"
+        },
+        {
+            "urn_id": "ACoAACHlA7IB_d9MYYVP_4JgPjZfqJiP0PpAAk0",
+            "distance": "DISTANCE_1",
+            "public_id": "parthava-borah-98253713a",
+            "tracking_id": "568656818"
+        },
+        {
+            "urn_id": "ACoAACTFIIYB1cK_syRcCXEc0o8RTm4JMlhYcHA",
+            "distance": "DISTANCE_1",
+            "public_id": "arun-kumar-nath-686721152",
+            "tracking_id": "616898694"
+        },
+        {
+            "urn_id": "ACoAABYq8T8ByHFGBUFRrHT5iKBI2u4YZjTLHFc",
+            "distance": "DISTANCE_1",
+            "public_id": "netranjit-borgohain-53b677a4",
+            "tracking_id": "371913023"
+        },
+        {
+            "urn_id": "ACoAAC-mfboBv3YCLG2TYdY8DDGcxvth-aLDFXU",
+            "distance": "DISTANCE_1",
+            "public_id": "bhargov-jyoti-das-0a28931a3",
+            "tracking_id": "799440314"
+        },
+        {
+            "urn_id": "ACoAACDVs-sB_IgxPBMHMRBfR6is3jmwwV_OvTE",
+            "distance": "DISTANCE_1",
+            "public_id": "swapnil-bhattacharjee-ghy",
+            "tracking_id": "550876139"
+        },
+        {
+            "urn_id": "ACoAAC4efLABFBv0f30-SDGDgLSf1gXTlkpJTfc",
+            "distance": "DISTANCE_1",
+            "public_id": "shawan-mandal",
+            "tracking_id": "773749936"
+        },
+        {
+            "urn_id": "ACoAACUEZ3QB2Xm0OWR0cqoc_u-o4KW_OENO1_8",
+            "distance": "DISTANCE_1",
+            "public_id": "rajan-sahu",
+            "tracking_id": "621045620"
+        },
+        {
+            "urn_id": "ACoAAC12ZqEBCx9JN_YIi1eF1FPPDif3mXI3fyc",
+            "distance": "DISTANCE_1",
+            "public_id": "abinash-panigrahi-169531193",
+            "tracking_id": "762734241"
+        },
+        {
+            "urn_id": "ACoAACYmrvgBRdvWxItbY_KP_fyrEgZ9U-QKJqk",
+            "distance": "DISTANCE_1",
+            "public_id": "rtsu",
+            "tracking_id": "640069368"
+        },
+        {
+            "urn_id": "ACoAADRMKTMBj76XTPRfB9R5rvfwNOXP2n93n4c",
+            "distance": "DISTANCE_1",
+            "public_id": "manash-deka-497a12205",
+            "tracking_id": "877406515"
+        },
+        {
+            "urn_id": "ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc",
+            "distance": "DISTANCE_1",
+            "public_id": "ratnadeep-bhattacharjee",
+            "tracking_id": "135079003"
+        },
+        {
+            "urn_id": "ACoAAAR5v8MBjPwCvp8TP9RWZyGSeNYNiJ1wKJE",
+            "distance": "DISTANCE_1",
+            "public_id": "nilotpal-boruah",
+            "tracking_id": "75087811"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Talent Acquisition"
+        },
+        {
+            "name": "Recruiting",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:44",
+            "standardizedSkill": {
+                "name": "Recruiting",
+                "entityUrn": "urn:li:fs_miniSkill:44"
+            }
+        },
+        {
+            "name": "Technical Recruiting",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:909",
+            "standardizedSkill": {
+                "name": "Technical Recruiting",
+                "entityUrn": "urn:li:fs_miniSkill:909"
+            }
+        },
+        {
+            "name": "IT Recruitment"
+        },
+        {
+            "name": "Strategic Sourcing"
+        },
+        {
+            "name": "Screening"
+        },
+        {
+            "name": "Vendor Management"
+        },
+        {
+            "name": "HR Consulting"
+        },
+        {
+            "name": "Executive Search"
+        },
+        {
+            "name": "Business Development"
+        },
+        {
+            "name": "Temporary Placement"
+        },
+        {
+            "name": "Performance Management"
+        },
+        {
+            "name": "Recruitments"
+        },
+        {
+            "name": "Global Sourcing"
+        },
+        {
+            "name": "Product Management",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:624",
+            "standardizedSkill": {
+                "name": "Product Management",
+                "entityUrn": "urn:li:fs_miniSkill:624"
+            }
+        },
+        {
+            "name": "Analytical Skills"
+        },
+        {
+            "name": "Programming",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:698",
+            "standardizedSkill": {
+                "name": "Programming",
+                "entityUrn": "urn:li:fs_miniSkill:698"
+            }
+        },
+        {
+            "name": "Object-Oriented Programming (OOP)",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:1328",
+            "standardizedSkill": {
+                "name": "Object-Oriented Programming (OOP)",
+                "entityUrn": "urn:li:fs_miniSkill:1328"
+            }
+        },
+        {
+            "name": "Internet Recruiting",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:7378",
+            "standardizedSkill": {
+                "name": "Internet Recruiting",
+                "entityUrn": "urn:li:fs_miniSkill:7378"
+            }
+        },
+        {
+            "name": "LinkedIn Recruiter",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:50093",
+            "standardizedSkill": {
+                "name": "LinkedIn Recruiter",
+                "entityUrn": "urn:li:fs_miniSkill:50093"
+            }
+        },
+        {
+            "name": "Hadoop",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:8280",
+            "standardizedSkill": {
+                "name": "Hadoop",
+                "entityUrn": "urn:li:fs_miniSkill:8280"
+            }
+        },
+        {
+            "name": "Python (Programming Language)",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:1346",
+            "standardizedSkill": {
+                "name": "Python (Programming Language)",
+                "entityUrn": "urn:li:fs_miniSkill:1346"
+            }
+        },
+        {
+            "name": "Employee Engagement"
+        },
+        {
+            "name": "Team Management"
+        },
+        {
+            "name": "Performance Appraisal"
+        },
+        {
+            "name": "Sourcing"
+        },
+        {
+            "name": "Talent Management",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:993",
+            "standardizedSkill": {
+                "name": "Talent Management",
+                "entityUrn": "urn:li:fs_miniSkill:993"
+            }
+        },
+        {
+            "name": "Recruitment for IT and Non IT both..."
+        },
+        {
+            "name": "Job Search Strategies",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:7522",
+            "standardizedSkill": {
+                "name": "Job Search Strategies",
+                "entityUrn": "urn:li:fs_miniSkill:7522"
+            }
+        },
+        {
+            "name": "Interview Preparation",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:7951",
+            "standardizedSkill": {
+                "name": "Interview Preparation",
+                "entityUrn": "urn:li:fs_miniSkill:7951"
+            }
+        },
+        {
+            "name": "Big Data Analytics",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:50188",
+            "standardizedSkill": {
+                "name": "Big Data Analytics",
+                "entityUrn": "urn:li:fs_miniSkill:50188"
+            }
+        },
+        {
+            "name": "Apache Spark",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:50454",
+            "standardizedSkill": {
+                "name": "Apache Spark",
+                "entityUrn": "urn:li:fs_miniSkill:50454"
+            }
+        },
+        {
+            "name": "Hadoop Administration",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:56548",
+            "standardizedSkill": {
+                "name": "Hadoop Administration",
+                "entityUrn": "urn:li:fs_miniSkill:56548"
+            }
+        },
+        {
+            "name": "Social Recruiting",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:20336",
+            "standardizedSkill": {
+                "name": "Social Recruiting",
+                "entityUrn": "urn:li:fs_miniSkill:20336"
+            }
+        },
+        {
+            "name": "Hiring Practices",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:12206",
+            "standardizedSkill": {
+                "name": "Hiring Practices",
+                "entityUrn": "urn:li:fs_miniSkill:12206"
+            }
+        },
+        {
+            "name": "Diversity Recruitment",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:10847",
+            "standardizedSkill": {
+                "name": "Diversity Recruitment",
+                "entityUrn": "urn:li:fs_miniSkill:10847"
+            }
+        },
+        {
+            "name": "Career Management",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:2331",
+            "standardizedSkill": {
+                "name": "Career Management",
+                "entityUrn": "urn:li:fs_miniSkill:2331"
+            }
+        },
+        {
+            "name": "User Experience Design (UED)",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:18207",
+            "standardizedSkill": {
+                "name": "User Experience Design (UED)",
+                "entityUrn": "urn:li:fs_miniSkill:18207"
+            }
+        },
+        {
+            "name": "Kissflow Low-Code"
+        }
+    ]
+}

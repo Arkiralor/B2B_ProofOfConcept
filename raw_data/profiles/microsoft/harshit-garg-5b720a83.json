@@ -1,0 +1,517 @@
+{
+    "profile": {
+        "summary": "Experienced Senior Software Engineer with a demonstrated history of working in the internet industry. Skilled in Python, Java, Apache Spark, Hadoop, Kafka , Django, microservices and Linux, nodejs. Strong engineering professional with a Bachelor of Technology (B.Tech.) focused in Information Technology from YMCA University Of Science and Technology. ",
+        "industryName": "Software Development",
+        "lastName": "Garg",
+        "locationName": "India",
+        "student": false,
+        "geoCountryName": "India",
+        "geoCountryUrn": "urn:li:fs_geo:102713980",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "industryUrn": "urn:li:fs_industry:4",
+        "firstName": "Harshit",
+        "entityUrn": "urn:li:fs_profile:ACoAABGmjtsBM60AA--SdhEjSSy2Y58jE_7Ogh0",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:102713980"
+        },
+        "location": {
+            "basicLocation": {
+                "countryCode": "in"
+            }
+        },
+        "headline": "Software Engineer 2 at Microsoft",
+        "displayPictureUrl": "https://media-exp1.licdn.com/dms/image/C4E03AQEkJWWV9aZZXw/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/0/1615600095800?e=1657756800&v=beta&t=lYmSqM5X8P-0RGYrJIWXCzBCIlQK-T8JNRgzhrSDtTI",
+        "img_200_200": "200_200/0/1615600095800?e=1657756800&v=beta&t=QL3QnhSMK_SbDn4plzliKU-BygBDoHYg3ZopVIUXAvU",
+        "img_400_400": "400_400/0/1615600095800?e=1657756800&v=beta&t=UDi9k215TZCWF0Ns8iCgBfNXiBAFtPzWUTvtdefl93o",
+        "img_800_800": "800_800/0/1615600095800?e=1657756800&v=beta&t=cri3lMRXE-H2_7DIk0BJ13aGizF2lKvxS2OG64H8R34",
+        "profile_id": "ACoAABGmjtsBM60AA--SdhEjSSy2Y58jE_7Ogh0",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAABGmjtsBM60AA--SdhEjSSy2Y58jE_7Ogh0",
+        "member_urn": "urn:li:member:296128219",
+        "experience": [
+            {
+                "locationName": "India",
+                "entityUrn": "urn:li:fs_position:(ACoAABGmjtsBM60AA--SdhEjSSy2Y58jE_7Ogh0,1549072315)",
+                "geoLocationName": "India",
+                "geoUrn": "urn:li:fs_geo:102713980",
+                "companyName": "Microsoft",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 12,
+                        "year": 2019
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Computer Software"
+                    ]
+                },
+                "title": "Software Engineer 2",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:1035",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C560BAQE88xCsONDULQ/company-logo_"
+            },
+            {
+                "locationName": "Gurgaon, Haryana, India",
+                "entityUrn": "urn:li:fs_position:(ACoAABGmjtsBM60AA--SdhEjSSy2Y58jE_7Ogh0,1496847971)",
+                "geoLocationName": "Gurgaon, Haryana, India",
+                "companyName": "OYO",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "month": 12,
+                        "year": 2018
+                    }
+                },
+                "description": "Worked on developing data pipelines for microservices, migration of website from monolith to microservices",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 5001,
+                        "end": 10000
+                    },
+                    "industries": [
+                        "Internet"
+                    ]
+                },
+                "title": " SDE 2 - Big Data",
+                "companyUrn": "urn:li:fs_miniCompany:3716484",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQFHSuxBZc5Yrw/company-logo_"
+            },
+            {
+                "locationName": "Gurgaon, Haryana, India",
+                "entityUrn": "urn:li:fs_position:(ACoAABGmjtsBM60AA--SdhEjSSy2Y58jE_7Ogh0,1332279025)",
+                "geoLocationName": "Gurgaon, Haryana, India",
+                "companyName": "airtel X Labs",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 12,
+                        "year": 2018
+                    },
+                    "startDate": {
+                        "month": 2,
+                        "year": 2018
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 501,
+                        "end": 1000
+                    },
+                    "industries": [
+                        "Internet"
+                    ]
+                },
+                "title": "Senior Software Developer",
+                "companyUrn": "urn:li:fs_miniCompany:14495849",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C510BAQGIuXyR6SDf5Q/company-logo_"
+            },
+            {
+                "locationName": "Noida Area, India",
+                "entityUrn": "urn:li:fs_position:(ACoAABGmjtsBM60AA--SdhEjSSy2Y58jE_7Ogh0,1006317300)",
+                "geoLocationName": "Noida Area, India",
+                "companyName": "Naukri.com",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 2,
+                        "year": 2018
+                    },
+                    "startDate": {
+                        "month": 3,
+                        "year": 2017
+                    }
+                },
+                "description": "worked for enhancement of fast forward part of Naukri",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 1001,
+                        "end": 5000
+                    },
+                    "industries": [
+                        "Internet"
+                    ]
+                },
+                "title": "Software Developer",
+                "companyUrn": "urn:li:fs_miniCompany:5942",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C560BAQG_X0t0TE3h4w/company-logo_"
+            },
+            {
+                "locationName": "Noida Area, India",
+                "entityUrn": "urn:li:fs_position:(ACoAABGmjtsBM60AA--SdhEjSSy2Y58jE_7Ogh0,683945134)",
+                "geoLocationName": "Noida Area, India",
+                "companyName": "Newgen Software Inc",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 3,
+                        "year": 2017
+                    },
+                    "startDate": {
+                        "month": 2,
+                        "year": 2015
+                    }
+                },
+                "description": "Worked on banking enterprise Application",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 1001,
+                        "end": 5000
+                    },
+                    "industries": [
+                        "Computer Software"
+                    ]
+                },
+                "title": "Software Developer",
+                "companyUrn": "urn:li:fs_miniCompany:11980",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQFDLLW38q5xrg/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAABGmjtsBM60AA--SdhEjSSy2Y58jE_7Ogh0,190319458)",
+                "school": {
+                    "objectUrn": "urn:li:school:3243077",
+                    "entityUrn": "urn:li:fs_miniSchool:3243077",
+                    "active": true,
+                    "schoolName": "J.C. Bose University of Science and Technology, YMCA",
+                    "trackingId": "r7Kh45dST7yORp9O2/Hteg==",
+                    "logoUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQHPJfmX5U89xw/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2015
+                    },
+                    "startDate": {
+                        "year": 2011
+                    }
+                },
+                "degreeName": "Bachelor of Technology (B.Tech.)",
+                "schoolName": " YMCA University of Science & Technology, Faridabad",
+                "fieldOfStudy": "Information Technology",
+                "schoolUrn": "urn:li:fs_miniSchool:3243077"
+            }
+        ],
+        "languages": [],
+        "publications": [],
+        "certifications": [],
+        "volunteer": [],
+        "honors": [],
+        "projects": []
+    },
+    "contact_info": {
+        "email_address": null,
+        "websites": [],
+        "twitter": [],
+        "birthdate": null,
+        "ims": null,
+        "phone_numbers": []
+    },
+    "connections": [
+        {
+            "urn_id": "ACoAAByhqogBLFVDJbqojrVMhtKfC3o3hRfEcjg",
+            "distance": "DISTANCE_1",
+            "public_id": "biki-talukdar-460a54114",
+            "tracking_id": "480357000"
+        },
+        {
+            "urn_id": "ACoAABr4jt0BoOUmisITdRo1gR4CumG5I4jjZIw",
+            "distance": "DISTANCE_1",
+            "public_id": "samudra-deka-911659107",
+            "tracking_id": "452497117"
+        },
+        {
+            "urn_id": "ACoAADLJzxsBizdB0nN5NZBCM41Q-z6-7ef5gyI",
+            "distance": "DISTANCE_1",
+            "public_id": "deepjyoti-kalita-78b4411b9",
+            "tracking_id": "852086555"
+        },
+        {
+            "urn_id": "ACoAAC24GToBKzC8vS7jZaCEqoq3Jse_M2Tson8",
+            "distance": "DISTANCE_1",
+            "public_id": "abhijit-paul-936a68194",
+            "tracking_id": "767039802"
+        },
+        {
+            "urn_id": "ACoAADe3CFYBsoFdtSEajXbg51HDagdpBEb3kx4",
+            "distance": "DISTANCE_1",
+            "public_id": "binud-panging-872062221",
+            "tracking_id": "934742102"
+        },
+        {
+            "urn_id": "ACoAADZmR9QB1zOH_PmrzQQw2wQmTJRTcNGU7CE",
+            "distance": "DISTANCE_1",
+            "public_id": "bkalita",
+            "tracking_id": "912672724"
+        },
+        {
+            "urn_id": "ACoAAC2aUPYBGPB-T9xDu2Hjrq7OgzRPu5nTvyE",
+            "distance": "DISTANCE_1",
+            "public_id": "jintudas",
+            "tracking_id": "765087990"
+        },
+        {
+            "urn_id": "ACoAADbmf6QBc8hqz1SYgWY92D5X-_ijayWyiQM",
+            "distance": "DISTANCE_1",
+            "public_id": "arindam-bhowal-10",
+            "tracking_id": "921075620"
+        },
+        {
+            "urn_id": "ACoAACT67ZEBgw1Aprl8Aqy8zWMavdTyaWs7J3w",
+            "distance": "DISTANCE_1",
+            "public_id": "titikshya-das-015942153",
+            "tracking_id": "620424593"
+        },
+        {
+            "urn_id": "ACoAABlgPxsBN_TuPsno84LiwT35FxylJ83tcBw",
+            "distance": "DISTANCE_1",
+            "public_id": "biraj-das-1b76b4ba",
+            "tracking_id": "425738011"
+        },
+        {
+            "urn_id": "ACoAAAjgx0kBxJoPu_7t3kS1NbDizQekjIIzMbE",
+            "distance": "DISTANCE_1",
+            "public_id": "lakheswar-nath-289a7141",
+            "tracking_id": "148948809"
+        },
+        {
+            "urn_id": "ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE",
+            "distance": "DISTANCE_1",
+            "public_id": "prithoo11335",
+            "tracking_id": "231212168"
+        },
+        {
+            "urn_id": "ACoAACbTg-gBtT_YqZc-FG2lIVBv13QTx8UUB8E",
+            "distance": "DISTANCE_1",
+            "public_id": "mridul24",
+            "tracking_id": "651396072"
+        },
+        {
+            "urn_id": "ACoAACr0GSwBcmPDh22HqivG9h0JwG-eahXSYW8",
+            "distance": "DISTANCE_1",
+            "public_id": "nihar-kashyap98",
+            "tracking_id": "720640300"
+        },
+        {
+            "urn_id": "ACoAACzP6KMBcLKqKnFRpIudaukkoW4NoqstgrM",
+            "distance": "DISTANCE_1",
+            "public_id": "pranit-prakash-sahu",
+            "tracking_id": "751823011"
+        },
+        {
+            "urn_id": "ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY",
+            "distance": "DISTANCE_1",
+            "public_id": "tridip-das-b5837911b",
+            "tracking_id": "499568180"
+        },
+        {
+            "urn_id": "ACoAAC8MNEkBeOfT5XsGjm2znOBKa5A1eZma5Bw",
+            "distance": "DISTANCE_1",
+            "public_id": "jyotishmoy-deka-7214171a0",
+            "tracking_id": "789328969"
+        },
+        {
+            "urn_id": "ACoAACeXhGEBEVCUXmKi5rowUSeFZNerPjvzQsc",
+            "distance": "DISTANCE_1",
+            "public_id": "mahbubul-haque-a55552166",
+            "tracking_id": "664241249"
+        },
+        {
+            "urn_id": "ACoAAAI9wXoBijRhLoxf7BO8UTK0DX-7KexJV30",
+            "distance": "DISTANCE_1",
+            "public_id": "boren-ghosh-27671410",
+            "tracking_id": "37601658"
+        },
+        {
+            "urn_id": "ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8",
+            "distance": "DISTANCE_1",
+            "public_id": "sivaranjan-goswami-790b4523",
+            "tracking_id": "83451420"
+        },
+        {
+            "urn_id": "ACoAACZxhUQBl1V8kpLj4ACrE2LzpatGvVzEgSA",
+            "distance": "DISTANCE_1",
+            "public_id": "nabajyoti-borah-944000160",
+            "tracking_id": "644973892"
+        },
+        {
+            "urn_id": "ACoAACHlA7IB_d9MYYVP_4JgPjZfqJiP0PpAAk0",
+            "distance": "DISTANCE_1",
+            "public_id": "parthava-borah-98253713a",
+            "tracking_id": "568656818"
+        },
+        {
+            "urn_id": "ACoAACTFIIYB1cK_syRcCXEc0o8RTm4JMlhYcHA",
+            "distance": "DISTANCE_1",
+            "public_id": "arun-kumar-nath-686721152",
+            "tracking_id": "616898694"
+        },
+        {
+            "urn_id": "ACoAABYq8T8ByHFGBUFRrHT5iKBI2u4YZjTLHFc",
+            "distance": "DISTANCE_1",
+            "public_id": "netranjit-borgohain-53b677a4",
+            "tracking_id": "371913023"
+        },
+        {
+            "urn_id": "ACoAAC-mfboBv3YCLG2TYdY8DDGcxvth-aLDFXU",
+            "distance": "DISTANCE_1",
+            "public_id": "bhargov-jyoti-das-0a28931a3",
+            "tracking_id": "799440314"
+        },
+        {
+            "urn_id": "ACoAACDVs-sB_IgxPBMHMRBfR6is3jmwwV_OvTE",
+            "distance": "DISTANCE_1",
+            "public_id": "swapnil-bhattacharjee-ghy",
+            "tracking_id": "550876139"
+        },
+        {
+            "urn_id": "ACoAACUEZ3QB2Xm0OWR0cqoc_u-o4KW_OENO1_8",
+            "distance": "DISTANCE_1",
+            "public_id": "rajan-sahu",
+            "tracking_id": "621045620"
+        },
+        {
+            "urn_id": "ACoAAC4efLABFBv0f30-SDGDgLSf1gXTlkpJTfc",
+            "distance": "DISTANCE_1",
+            "public_id": "shawan-mandal",
+            "tracking_id": "773749936"
+        },
+        {
+            "urn_id": "ACoAAC12ZqEBCx9JN_YIi1eF1FPPDif3mXI3fyc",
+            "distance": "DISTANCE_1",
+            "public_id": "abinash-panigrahi-169531193",
+            "tracking_id": "762734241"
+        },
+        {
+            "urn_id": "ACoAACYmrvgBRdvWxItbY_KP_fyrEgZ9U-QKJqk",
+            "distance": "DISTANCE_1",
+            "public_id": "rtsu",
+            "tracking_id": "640069368"
+        },
+        {
+            "urn_id": "ACoAADRMKTMBj76XTPRfB9R5rvfwNOXP2n93n4c",
+            "distance": "DISTANCE_1",
+            "public_id": "manash-deka-497a12205",
+            "tracking_id": "877406515"
+        },
+        {
+            "urn_id": "ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc",
+            "distance": "DISTANCE_1",
+            "public_id": "ratnadeep-bhattacharjee",
+            "tracking_id": "135079003"
+        },
+        {
+            "urn_id": "ACoAAClGHl8Bkg1-FBWeyXHlveDeXDBovpxKYtw",
+            "distance": "DISTANCE_1",
+            "public_id": "raju-moni-borah-9bbaa1173",
+            "tracking_id": "692461151"
+        },
+        {
+            "urn_id": "ACoAADZ9mPoBBWha8sl8ryS_FeGMwpi6kGUzbzk",
+            "distance": "DISTANCE_1",
+            "public_id": "raj-prasad-4a21b7216",
+            "tracking_id": "914200826"
+        },
+        {
+            "urn_id": "ACoAAAR5v8MBjPwCvp8TP9RWZyGSeNYNiJ1wKJE",
+            "distance": "DISTANCE_1",
+            "public_id": "nilotpal-boruah",
+            "tracking_id": "75087811"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Microsoft Office"
+        },
+        {
+            "name": "python"
+        },
+        {
+            "name": "PHP"
+        },
+        {
+            "name": "MongoDB"
+        },
+        {
+            "name": "HTML5"
+        },
+        {
+            "name": "C++"
+        },
+        {
+            "name": "C"
+        },
+        {
+            "name": "SQL"
+        },
+        {
+            "name": "SQLite"
+        },
+        {
+            "name": "Web Development"
+        },
+        {
+            "name": "Django"
+        },
+        {
+            "name": "Apache"
+        },
+        {
+            "name": "XAMPP"
+        },
+        {
+            "name": "Python"
+        },
+        {
+            "name": "Linux"
+        },
+        {
+            "name": "Java"
+        },
+        {
+            "name": "HTML"
+        },
+        {
+            "name": "Software Development",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:602",
+            "standardizedSkill": {
+                "name": "Software Development",
+                "entityUrn": "urn:li:fs_miniSkill:602"
+            }
+        },
+        {
+            "name": "Amazon Web Services (AWS)"
+        },
+        {
+            "name": "JavaScript"
+        },
+        {
+            "name": "Data Structures"
+        },
+        {
+            "name": "Algorithms"
+        },
+        {
+            "name": "Object-Oriented Programming (OOP)"
+        },
+        {
+            "name": "Apache Spark"
+        },
+        {
+            "name": "Hadoop"
+        },
+        {
+            "name": "Apache Kafka"
+        },
+        {
+            "name": "Machine Learning"
+        },
+        {
+            "name": "Cassandra"
+        }
+    ]
+}

@@ -1,0 +1,958 @@
+{
+    "profile": {
+        "summary": "Experienced HR professional with a demonstrated history of working in the information technology and start-up industry. Skilled in hiring Tech and non-tech professionals. I carry an experience into HR generalist as well. Handled employee life cycle from joining until exit which includes onboarding, background verification, managing ATS,HRMS modules like leave and attendance management, offer letter generation, organization modules, initiating f&f, exit interviews, survey pulse check, campus engagement, conducting hackathons.",
+        "industryName": "Software Development",
+        "lastName": "PT",
+        "locationName": "India",
+        "student": false,
+        "geoCountryName": "India",
+        "geoCountryUrn": "urn:li:fs_geo:102713980",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "industryUrn": "urn:li:fs_industry:4",
+        "firstName": "Aishwarya",
+        "entityUrn": "urn:li:fs_profile:ACoAABImrygBlmfte1VL9FW6HTG2eBa6i4y0M2U",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:105307040"
+        },
+        "geoLocationName": "Bengaluru, Karnataka",
+        "location": {
+            "basicLocation": {
+                "countryCode": "in"
+            }
+        },
+        "headline": "Technical Recruiter at Microsoft",
+        "displayPictureUrl": "https://media-exp1.licdn.com/dms/image/C4E03AQHktH5N13BK8Q/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/0/1516983729594?e=1657756800&v=beta&t=zTSwpZlbD--fBA0VQoPWQsbBb1h3arkxImub3YIjtcU",
+        "img_200_200": "200_200/0/1516983729594?e=1657756800&v=beta&t=Vl-jQP5lw2veoX1lUdAr9yQURgpO26xORfirPSnRdP0",
+        "img_400_400": "400_400/0/1516983729594?e=1657756800&v=beta&t=6fKRyGCJ77bTN_x08GT1TXURZg5RoC0DiBuFx0iQHmY",
+        "img_800_800": "800_800/0/1516983729594?e=1657756800&v=beta&t=AZY0HigpQqMklIrH0lJcJxCPSWwEkVXqregolj0oLJA",
+        "profile_id": "ACoAABImrygBlmfte1VL9FW6HTG2eBa6i4y0M2U",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAABImrygBlmfte1VL9FW6HTG2eBa6i4y0M2U",
+        "member_urn": "urn:li:member:304525096",
+        "experience": [
+            {
+                "locationName": "Greater Bengaluru Area",
+                "entityUrn": "urn:li:fs_position:(ACoAABImrygBlmfte1VL9FW6HTG2eBa6i4y0M2U,1832684574)",
+                "geoLocationName": "Greater Bengaluru Area",
+                "geoUrn": "urn:li:fs_geo:90009633",
+                "companyName": "Microsoft",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 9,
+                        "year": 2021
+                    }
+                },
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Computer Software"
+                    ]
+                },
+                "title": "Technical Recruiter",
+                "region": "urn:li:fs_region:(in,5281)",
+                "companyUrn": "urn:li:fs_miniCompany:1035",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C560BAQE88xCsONDULQ/company-logo_"
+            },
+            {
+                "locationName": "Bengaluru, Karnataka, India",
+                "entityUrn": "urn:li:fs_position:(ACoAABImrygBlmfte1VL9FW6HTG2eBa6i4y0M2U,1763229906)",
+                "geoLocationName": "Bengaluru, Karnataka, India",
+                "geoUrn": "urn:li:fs_geo:109710172",
+                "companyName": "Riskcovry",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 7,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 4,
+                        "year": 2021
+                    }
+                },
+                "description": "Riskcovry is an omni-channel \"Insurance-in-a-Box\"\u200b for consumer businesses (like Financial Institutions/FinTechs and Retail/eCommerce) to enable any insurance product from any insurer across any customer engagement channel, seamlessly. As an enterprise product company with a B2B2C model, we enable our customers with SaaS & API-first platform, which enables all end-consumer touchpoints of Insurance (buy, manage, claims) holistically without distorting brand experience.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 51,
+                        "end": 200
+                    },
+                    "industries": [
+                        "Computer Software"
+                    ]
+                },
+                "title": "Human Resources Associate",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:13737304",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C560BAQG7kdv32p1EHw/company-logo_"
+            },
+            {
+                "locationName": "Bengaluru, Karnataka, India",
+                "entityUrn": "urn:li:fs_position:(ACoAABImrygBlmfte1VL9FW6HTG2eBa6i4y0M2U,1652137565)",
+                "geoLocationName": "Bengaluru, Karnataka, India",
+                "geoUrn": "urn:li:fs_geo:105214831",
+                "companyName": "TEKsystems",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 3,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 12,
+                        "year": 2018
+                    }
+                },
+                "description": "Handling end to end recruitment and accountable for workforce planning of clients.\nInvolved in innovative recruitment strategies, process required in onboarding the best talents from the available pool.\nHandling various HR activities such as \u2013 Recruitment, Client engagement, Vendor management, HR operations i.e. managing employee life cycle from on boarding to off boarding. \nResponsibilities include: Recruitment to onboarding, background verification initiation, consultant management, performance appraisal discussion, exit interviews, CSR initiatives.\nWork closely with project managers and hiring managers of clients to understand their business need, workforce projection for team size and forecast of manpower needed for different Business unit\u2019s.\nSourcing candidates from LinkedIn, Naukri, Internal Database, other social networking sites.\nScreening resumes through various channels like job boards, social network sites, Internal database, company websites, referrals.\nHiring across different levels of experience \u2013 from junior to Architect roles on technologies like Big data engineer, QA/Test Engineers, Webmethods developer, websphere admin/developer, Security engineers (IAM, Cyberark professionals), .Net C# Developer, Java Developer, UI Developer, Full stack Developer, Business Analyst, Program Manager.\nPartnering with Hiring managers to build effective sourcing, assessment, and Market Intel towards meeting their manpower hiring expectations.\nConduct a healthy element of internal and external sourcing, conducting HR interviews to evaluate a candidate technical and cultural fitment in relation to position requirement.\nConducting onboarding sessions for new joiner\u2019s, regularly connecting with employees on performance management, appraisals, and grievance handling.\nStaffing operations and MIS \u2013 following up with selected candidates till they onboard.\nDriving referral initiatives for the company and handling pay-out and operation related queries of employees.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Senior Technical Recruiter",
+                "region": "urn:li:fs_region:(in,0)",
+                "companyUrn": "urn:li:fs_miniCompany:2152",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHvWB-HshcNtA/company-logo_"
+            },
+            {
+                "locationName": "Bengaluru Area, India",
+                "entityUrn": "urn:li:fs_position:(ACoAABImrygBlmfte1VL9FW6HTG2eBa6i4y0M2U,1387678832)",
+                "geoLocationName": "Bengaluru Area, India",
+                "geoUrn": "urn:li:fs_geo:105307040",
+                "companyName": "Razorpay",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 9,
+                        "year": 2018
+                    },
+                    "startDate": {
+                        "month": 6,
+                        "year": 2018
+                    }
+                },
+                "description": "HR coordination \u2013 Interview planning, travel management, calendar management.\n\nInteracting with panels on their availability for interview, regular connect to receive candidate\u2019s feedback through Slack.\n\nRecruiting for Non-IT positions like Executive Assistant, Digital Marketing, Sales representative, Operations executive.\n\nTechnologies used: Slack for internal communication, LinkedIn and Naukri for hiring.\n\nConducting pulse check towards employee\u2019s performance and grievance handling.\n\nEnsuring candidate\u2019s interview experience to be good and taking feedback post their interview.\n\nSetting up agenda for Townhall meetings that are conducted on a quarterly basis.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 1001,
+                        "end": 5000
+                    },
+                    "industries": [
+                        "Computer Software"
+                    ]
+                },
+                "title": "Talent Acquisition Executive",
+                "region": "urn:li:fs_region:(in,7127)",
+                "companyUrn": "urn:li:fs_miniCompany:3788927",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHggYLcXxs78w/company-logo_"
+            },
+            {
+                "locationName": "Austin, Texas Area",
+                "entityUrn": "urn:li:fs_position:(ACoAABImrygBlmfte1VL9FW6HTG2eBa6i4y0M2U,685753027)",
+                "geoLocationName": "Austin, Texas Area",
+                "geoUrn": "urn:li:fs_geo:90000064",
+                "companyName": "TEKsystems",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 4,
+                        "year": 2016
+                    },
+                    "startDate": {
+                        "month": 5,
+                        "year": 2015
+                    }
+                },
+                "description": "Source profiles through LinkedIn, CareerBuilder, Monster, internal database, and quality based on position requirement.\nScreen the profiles through telephonic interviews, pre-qualify, negotiate offers and close hires.\nRegular connects with POC across US and Canada region for candidate processing across different clients.\nPre-screen candidates with a detailed phone screens, evaluate candidate compatibility according to technical and cultural fitment with specific job requirement to ensure a right fit prior to client submission.\nPreparing weekly and monthly status reports on open positions in Excel sheet. Maintain applicant flow through entire process.\nRequirements handled: .Net C# Developer, Java developer, Security Engineer, UI/UX Developer, Program Manager, Business Analyst, Content manager, AEM.\nMaintain a rapport with recruitment manager or Hiring manager so that the best fit could be considered for interview process and create USP\u2019s for candidates to maximize selections across different clients.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 10001
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Technical Recruiter",
+                "region": "urn:li:fs_region:(us,64)",
+                "companyUrn": "urn:li:fs_miniCompany:2152",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHvWB-HshcNtA/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAABImrygBlmfte1VL9FW6HTG2eBa6i4y0M2U,289690234)",
+                "school": {
+                    "objectUrn": "urn:li:school:160011",
+                    "entityUrn": "urn:li:fs_miniSchool:160011",
+                    "active": true,
+                    "schoolName": "PES University",
+                    "trackingId": "iXyu/qDXQuiHBQcFLdQh1Q==",
+                    "logoUrl": "https://media-exp1.licdn.com/dms/image/C510BAQHKufatNcFRXw/company-logo_"
+                },
+                "activities": "Group Discussions, Music, Dance, SSR ( Student Social Responsibility )",
+                "grade": "A",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2015
+                    },
+                    "startDate": {
+                        "year": 2012
+                    }
+                },
+                "description": "- Attended some of the CSR activities\n- Organised business fest\n- Participated in various inter-college fests",
+                "degreeName": "Bachelor of Business Administration (B.B.A.)",
+                "schoolName": "PES University",
+                "fieldOfStudy": "Business Administration, Management and Operations",
+                "schoolUrn": "urn:li:fs_miniSchool:160011"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAABImrygBlmfte1VL9FW6HTG2eBa6i4y0M2U,365696038)",
+                "grade": "A+",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2018
+                    },
+                    "startDate": {
+                        "year": 2016
+                    }
+                },
+                "description": "- HR club and national conference Organizer\n- Awarded \"Best Research Paper\" in association with AIMS\n- Best outgoing student award 2016-2018",
+                "degreeName": "Master of Business Administration (M.B.A.)",
+                "schoolName": "Dayananda Sagar University",
+                "fieldOfStudy": "HR and Marketing",
+                "schoolUrn": "urn:li:fs_miniSchool:4069021"
+            }
+        ],
+        "languages": [
+            {
+                "name": "English"
+            }
+        ],
+        "publications": [],
+        "certifications": [
+            {
+                "name": "NIICT"
+            },
+            {
+                "authority": "Nokia Networks",
+                "name": "Project on Cost Center Management",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 12,
+                        "year": 2014
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:1069",
+                    "entityUrn": "urn:li:fs_miniCompany:1069",
+                    "name": "Nokia for service providers",
+                    "showcase": true,
+                    "active": true,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1519875877482?e=1660780800&v=beta&t=RnmdgTK7esJIygdLNJgFuxUeqFK5cj8okLlO5bI4HUc",
+                                    "expiresAt": 1660780800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1519875877482?e=1660780800&v=beta&t=3UwdnHNdIR91y22QIbyrAqbSt7x_QcmpUOS2H_w9D_U",
+                                    "expiresAt": 1660780800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1519875877482?e=1660780800&v=beta&t=T7I550xBVeACdVhKy0nHa4zLD2XNR1nawGa5EaaPsSA",
+                                    "expiresAt": 1660780800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C510BAQGNEGA3FtuzUg/company-logo_"
+                        }
+                    },
+                    "universalName": "nokia-for-service-providers",
+                    "dashCompanyUrn": "urn:li:fsd_company:1069",
+                    "trackingId": "QeycxI/aRZWhSu50pFHoBw=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:1069"
+            },
+            {
+                "authority": "Robert Bosch Engineering and Business Solutions Private Limited",
+                "name": "A study on Employee sustainability at Bosch",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 8,
+                        "year": 2017
+                    },
+                    "startDate": {
+                        "month": 7,
+                        "year": 2017
+                    }
+                },
+                "company": {
+                    "objectUrn": "urn:li:company:13617865",
+                    "entityUrn": "urn:li:fs_miniCompany:13617865",
+                    "name": "Robert Bosch Engineering and Business Solutions Private Limited",
+                    "showcase": false,
+                    "active": false,
+                    "logo": {
+                        "com.linkedin.common.VectorImage": {
+                            "artifacts": [
+                                {
+                                    "width": 200,
+                                    "fileIdentifyingUrlPathSegment": "200_200/0/1569048578458?e=1660780800&v=beta&t=LwaQmEOu5khwLclAa0oJD4EuibsyMJqgo8Y16PLE9jo",
+                                    "expiresAt": 1660780800000,
+                                    "height": 200
+                                },
+                                {
+                                    "width": 100,
+                                    "fileIdentifyingUrlPathSegment": "100_100/0/1569048578458?e=1660780800&v=beta&t=NXUd-6w18lNYnb515lc28e0IswH5K_mrreRnuxEervA",
+                                    "expiresAt": 1660780800000,
+                                    "height": 100
+                                },
+                                {
+                                    "width": 400,
+                                    "fileIdentifyingUrlPathSegment": "400_400/0/1569048578458?e=1660780800&v=beta&t=sA69dYKOctBWha_7fq_vMZgHaL_ivLjjMYkhssv1pGY",
+                                    "expiresAt": 1660780800000,
+                                    "height": 400
+                                }
+                            ],
+                            "rootUrl": "https://media-exp1.licdn.com/dms/image/C510BAQHa3oTD-Af0qg/company-logo_"
+                        }
+                    },
+                    "universalName": "notrbei",
+                    "dashCompanyUrn": "urn:li:fsd_company:13617865",
+                    "trackingId": "npDUrp5nTQeFEAPW48yrTg=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:13617865"
+            },
+            {
+                "authority": "Association of Indian Management Schools",
+                "name": "Transition of performance appraisal from 90 degree to 720 degree",
+                "company": {
+                    "objectUrn": "urn:li:company:7898018",
+                    "entityUrn": "urn:li:fs_miniCompany:7898018",
+                    "name": "Association of Indian Management Schools",
+                    "showcase": false,
+                    "active": true,
+                    "universalName": "association-of-indian-management-schools",
+                    "dashCompanyUrn": "urn:li:fsd_company:7898018",
+                    "trackingId": "M/jLu+A2Sny2RgxJSSpPZQ=="
+                },
+                "companyUrn": "urn:li:fs_miniCompany:7898018"
+            }
+        ],
+        "volunteer": [
+            {
+                "role": "National Conference - Chief Organizer",
+                "companyName": "Dayananda Sagar University",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 2,
+                        "year": 2018
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2018
+                    }
+                },
+                "cause": "EDUCATION",
+                "description": "Organized a National Conference on a grand scale in association with AIMS",
+                "company": {
+                    "miniCompany": {
+                        "objectUrn": "urn:li:company:6439007",
+                        "entityUrn": "urn:li:fs_miniCompany:6439007",
+                        "name": "Dayananda Sagar University",
+                        "showcase": false,
+                        "active": true,
+                        "logo": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1519908413948?e=1660780800&v=beta&t=qGwjWdAhUfxyBmu4tNk2sLe0_0SNN527rsfGNEwYMO0",
+                                        "expiresAt": 1660780800000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1519908413948?e=1660780800&v=beta&t=uF82ftZ719Ne02w38R20rVqe2dVowkWFX6Irkme6Oag",
+                                        "expiresAt": 1660780800000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1519908413948?e=1660780800&v=beta&t=5P3Ziou5bl3GtMb6hq_xi9fVm8R6pFuuDphGT6sJbaY",
+                                        "expiresAt": 1660780800000,
+                                        "height": 400
+                                    }
+                                ],
+                                "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQGoM1wIkKj1Jg/company-logo_"
+                            }
+                        },
+                        "universalName": "dayananda-sagar-university",
+                        "dashCompanyUrn": "urn:li:fsd_company:6439007",
+                        "trackingId": "NBLeGHGdR7iQ79ORbWNjuA=="
+                    }
+                },
+                "companyUrn": "urn:li:fs_miniCompany:6439007"
+            },
+            {
+                "role": "HR Club Organizer",
+                "companyName": "Dayananda Sagar University",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 5,
+                        "year": 2018
+                    },
+                    "startDate": {
+                        "month": 4,
+                        "year": 2017
+                    }
+                },
+                "cause": "EDUCATION",
+                "company": {
+                    "miniCompany": {
+                        "objectUrn": "urn:li:company:6439007",
+                        "entityUrn": "urn:li:fs_miniCompany:6439007",
+                        "name": "Dayananda Sagar University",
+                        "showcase": false,
+                        "active": true,
+                        "logo": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1519908413948?e=1660780800&v=beta&t=qGwjWdAhUfxyBmu4tNk2sLe0_0SNN527rsfGNEwYMO0",
+                                        "expiresAt": 1660780800000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1519908413948?e=1660780800&v=beta&t=uF82ftZ719Ne02w38R20rVqe2dVowkWFX6Irkme6Oag",
+                                        "expiresAt": 1660780800000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1519908413948?e=1660780800&v=beta&t=5P3Ziou5bl3GtMb6hq_xi9fVm8R6pFuuDphGT6sJbaY",
+                                        "expiresAt": 1660780800000,
+                                        "height": 400
+                                    }
+                                ],
+                                "rootUrl": "https://media-exp1.licdn.com/dms/image/C4D0BAQGoM1wIkKj1Jg/company-logo_"
+                            }
+                        },
+                        "universalName": "dayananda-sagar-university",
+                        "dashCompanyUrn": "urn:li:fsd_company:6439007",
+                        "trackingId": "EZRa+kqcTuu5Kaua0T2OhA=="
+                    }
+                },
+                "companyUrn": "urn:li:fs_miniCompany:6439007"
+            },
+            {
+                "role": "Choreographer for inter college team",
+                "companyName": "PES Institute of Technology",
+                "company": {
+                    "miniCompany": {
+                        "objectUrn": "urn:li:company:0",
+                        "entityUrn": "urn:li:fs_miniCompany:0",
+                        "name": "United Latino Students Association",
+                        "showcase": false,
+                        "active": false,
+                        "logo": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1560802374788?e=1660780800&v=beta&t=x4OIVnTfindLn5IqD--hRPIuPCsXAfCI1ZMRqBwSJDA",
+                                        "expiresAt": 1660780800000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1560802374788?e=1660780800&v=beta&t=PW3ZFz7njI10EIq-6YVFaJw0weEKJ5_LOL3M3jsDAcY",
+                                        "expiresAt": 1660780800000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1560802374788?e=1660780800&v=beta&t=OmIKkOogSd6TefuZS4tRHMwiUYRJqZG5sM1naTnQqq0",
+                                        "expiresAt": 1660780800000,
+                                        "height": 400
+                                    }
+                                ],
+                                "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHGhly_87bnSw/company-logo_"
+                            }
+                        },
+                        "universalName": "united-latino-students-association",
+                        "dashCompanyUrn": "urn:li:fsd_company:0",
+                        "trackingId": "JngXrAGoRHKAWu7su9rw8g=="
+                    }
+                },
+                "companyUrn": "urn:li:fs_miniCompany:0"
+            }
+        ],
+        "honors": [],
+        "projects": [
+            {
+                "members": [
+                    {
+                        "member": {
+                            "firstName": "Aishwarya",
+                            "lastName": "PT",
+                            "dashEntityUrn": "urn:li:fsd_profile:ACoAABImrygBlmfte1VL9FW6HTG2eBa6i4y0M2U",
+                            "occupation": "Technical Recruiter at Microsoft",
+                            "objectUrn": "urn:li:member:304525096",
+                            "entityUrn": "urn:li:fs_miniProfile:ACoAABImrygBlmfte1VL9FW6HTG2eBa6i4y0M2U",
+                            "backgroundImage": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "200_800/0/1631121026943?e=1657756800&v=beta&t=JDJ8SO48mFzGVk16sGNdvFBDt3X5MIKIdQpNYQ0p7SI",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 1400,
+                                            "fileIdentifyingUrlPathSegment": "350_1400/0/1631121026943?e=1657756800&v=beta&t=_rQt2Gb3hj8R13-YQ-ZnK51_0D5ywbA7ubl50tJI91U",
+                                            "expiresAt": 1657756800000,
+                                            "height": 350
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C5616AQGAQFpAwMpvGA/profile-displaybackgroundimage-shrink_"
+                                }
+                            },
+                            "publicIdentifier": "aishwarya-pt",
+                            "picture": {
+                                "com.linkedin.common.VectorImage": {
+                                    "artifacts": [
+                                        {
+                                            "width": 100,
+                                            "fileIdentifyingUrlPathSegment": "100_100/0/1516983729594?e=1657756800&v=beta&t=zTSwpZlbD--fBA0VQoPWQsbBb1h3arkxImub3YIjtcU",
+                                            "expiresAt": 1657756800000,
+                                            "height": 100
+                                        },
+                                        {
+                                            "width": 200,
+                                            "fileIdentifyingUrlPathSegment": "200_200/0/1516983729594?e=1657756800&v=beta&t=Vl-jQP5lw2veoX1lUdAr9yQURgpO26xORfirPSnRdP0",
+                                            "expiresAt": 1657756800000,
+                                            "height": 200
+                                        },
+                                        {
+                                            "width": 400,
+                                            "fileIdentifyingUrlPathSegment": "400_400/0/1516983729594?e=1657756800&v=beta&t=6fKRyGCJ77bTN_x08GT1TXURZg5RoC0DiBuFx0iQHmY",
+                                            "expiresAt": 1657756800000,
+                                            "height": 400
+                                        },
+                                        {
+                                            "width": 800,
+                                            "fileIdentifyingUrlPathSegment": "800_800/0/1516983729594?e=1657756800&v=beta&t=AZY0HigpQqMklIrH0lJcJxCPSWwEkVXqregolj0oLJA",
+                                            "expiresAt": 1657756800000,
+                                            "height": 800
+                                        }
+                                    ],
+                                    "rootUrl": "https://media-exp1.licdn.com/dms/image/C4E03AQHktH5N13BK8Q/profile-displayphoto-shrink_"
+                                }
+                            },
+                            "trackingId": "t/I09KtlQ4WyitNbt9C26w=="
+                        },
+                        "entityUrn": "urn:li:fs_contributor:(ACoAABImrygBlmfte1VL9FW6HTG2eBa6i4y0M2U,981246079,185120040)",
+                        "profileUrn": "urn:li:fs_miniProfile:ACoAABImrygBlmfte1VL9FW6HTG2eBa6i4y0M2U"
+                    }
+                ],
+                "timePeriod": {
+                    "endDate": {
+                        "month": 8,
+                        "year": 2017
+                    },
+                    "startDate": {
+                        "month": 7,
+                        "year": 2017
+                    }
+                },
+                "title": "A study on Employee Sustainability at Bosch"
+            }
+        ]
+    },
+    "contact_info": {
+        "email_address": null,
+        "websites": [],
+        "twitter": [],
+        "birthdate": null,
+        "ims": null,
+        "phone_numbers": []
+    },
+    "connections": [
+        {
+            "urn_id": "ACoAAByhqogBLFVDJbqojrVMhtKfC3o3hRfEcjg",
+            "distance": "DISTANCE_1",
+            "public_id": "biki-talukdar-460a54114",
+            "tracking_id": "480357000"
+        },
+        {
+            "urn_id": "ACoAABr4jt0BoOUmisITdRo1gR4CumG5I4jjZIw",
+            "distance": "DISTANCE_1",
+            "public_id": "samudra-deka-911659107",
+            "tracking_id": "452497117"
+        },
+        {
+            "urn_id": "ACoAADLJzxsBizdB0nN5NZBCM41Q-z6-7ef5gyI",
+            "distance": "DISTANCE_1",
+            "public_id": "deepjyoti-kalita-78b4411b9",
+            "tracking_id": "852086555"
+        },
+        {
+            "urn_id": "ACoAAC24GToBKzC8vS7jZaCEqoq3Jse_M2Tson8",
+            "distance": "DISTANCE_1",
+            "public_id": "abhijit-paul-936a68194",
+            "tracking_id": "767039802"
+        },
+        {
+            "urn_id": "ACoAADe3CFYBsoFdtSEajXbg51HDagdpBEb3kx4",
+            "distance": "DISTANCE_1",
+            "public_id": "binud-panging-872062221",
+            "tracking_id": "934742102"
+        },
+        {
+            "urn_id": "ACoAADZmR9QB1zOH_PmrzQQw2wQmTJRTcNGU7CE",
+            "distance": "DISTANCE_1",
+            "public_id": "bkalita",
+            "tracking_id": "912672724"
+        },
+        {
+            "urn_id": "ACoAAC2aUPYBGPB-T9xDu2Hjrq7OgzRPu5nTvyE",
+            "distance": "DISTANCE_1",
+            "public_id": "jintudas",
+            "tracking_id": "765087990"
+        },
+        {
+            "urn_id": "ACoAADbmf6QBc8hqz1SYgWY92D5X-_ijayWyiQM",
+            "distance": "DISTANCE_1",
+            "public_id": "arindam-bhowal-10",
+            "tracking_id": "921075620"
+        },
+        {
+            "urn_id": "ACoAACT67ZEBgw1Aprl8Aqy8zWMavdTyaWs7J3w",
+            "distance": "DISTANCE_1",
+            "public_id": "titikshya-das-015942153",
+            "tracking_id": "620424593"
+        },
+        {
+            "urn_id": "ACoAABlgPxsBN_TuPsno84LiwT35FxylJ83tcBw",
+            "distance": "DISTANCE_1",
+            "public_id": "biraj-das-1b76b4ba",
+            "tracking_id": "425738011"
+        },
+        {
+            "urn_id": "ACoAAAjgx0kBxJoPu_7t3kS1NbDizQekjIIzMbE",
+            "distance": "DISTANCE_1",
+            "public_id": "lakheswar-nath-289a7141",
+            "tracking_id": "148948809"
+        },
+        {
+            "urn_id": "ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE",
+            "distance": "DISTANCE_1",
+            "public_id": "prithoo11335",
+            "tracking_id": "231212168"
+        },
+        {
+            "urn_id": "ACoAACbTg-gBtT_YqZc-FG2lIVBv13QTx8UUB8E",
+            "distance": "DISTANCE_1",
+            "public_id": "mridul24",
+            "tracking_id": "651396072"
+        },
+        {
+            "urn_id": "ACoAACr0GSwBcmPDh22HqivG9h0JwG-eahXSYW8",
+            "distance": "DISTANCE_1",
+            "public_id": "nihar-kashyap98",
+            "tracking_id": "720640300"
+        },
+        {
+            "urn_id": "ACoAACzP6KMBcLKqKnFRpIudaukkoW4NoqstgrM",
+            "distance": "DISTANCE_1",
+            "public_id": "pranit-prakash-sahu",
+            "tracking_id": "751823011"
+        },
+        {
+            "urn_id": "ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY",
+            "distance": "DISTANCE_1",
+            "public_id": "tridip-das-b5837911b",
+            "tracking_id": "499568180"
+        },
+        {
+            "urn_id": "ACoAAC8MNEkBeOfT5XsGjm2znOBKa5A1eZma5Bw",
+            "distance": "DISTANCE_1",
+            "public_id": "jyotishmoy-deka-7214171a0",
+            "tracking_id": "789328969"
+        },
+        {
+            "urn_id": "ACoAACeXhGEBEVCUXmKi5rowUSeFZNerPjvzQsc",
+            "distance": "DISTANCE_1",
+            "public_id": "mahbubul-haque-a55552166",
+            "tracking_id": "664241249"
+        },
+        {
+            "urn_id": "ACoAAAI9wXoBijRhLoxf7BO8UTK0DX-7KexJV30",
+            "distance": "DISTANCE_1",
+            "public_id": "boren-ghosh-27671410",
+            "tracking_id": "37601658"
+        },
+        {
+            "urn_id": "ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8",
+            "distance": "DISTANCE_1",
+            "public_id": "sivaranjan-goswami-790b4523",
+            "tracking_id": "83451420"
+        },
+        {
+            "urn_id": "ACoAACZxhUQBl1V8kpLj4ACrE2LzpatGvVzEgSA",
+            "distance": "DISTANCE_1",
+            "public_id": "nabajyoti-borah-944000160",
+            "tracking_id": "644973892"
+        },
+        {
+            "urn_id": "ACoAACHlA7IB_d9MYYVP_4JgPjZfqJiP0PpAAk0",
+            "distance": "DISTANCE_1",
+            "public_id": "parthava-borah-98253713a",
+            "tracking_id": "568656818"
+        },
+        {
+            "urn_id": "ACoAACTFIIYB1cK_syRcCXEc0o8RTm4JMlhYcHA",
+            "distance": "DISTANCE_1",
+            "public_id": "arun-kumar-nath-686721152",
+            "tracking_id": "616898694"
+        },
+        {
+            "urn_id": "ACoAABYq8T8ByHFGBUFRrHT5iKBI2u4YZjTLHFc",
+            "distance": "DISTANCE_1",
+            "public_id": "netranjit-borgohain-53b677a4",
+            "tracking_id": "371913023"
+        },
+        {
+            "urn_id": "ACoAAC-mfboBv3YCLG2TYdY8DDGcxvth-aLDFXU",
+            "distance": "DISTANCE_1",
+            "public_id": "bhargov-jyoti-das-0a28931a3",
+            "tracking_id": "799440314"
+        },
+        {
+            "urn_id": "ACoAACDVs-sB_IgxPBMHMRBfR6is3jmwwV_OvTE",
+            "distance": "DISTANCE_1",
+            "public_id": "swapnil-bhattacharjee-ghy",
+            "tracking_id": "550876139"
+        },
+        {
+            "urn_id": "ACoAACUEZ3QB2Xm0OWR0cqoc_u-o4KW_OENO1_8",
+            "distance": "DISTANCE_1",
+            "public_id": "rajan-sahu",
+            "tracking_id": "621045620"
+        },
+        {
+            "urn_id": "ACoAAC4efLABFBv0f30-SDGDgLSf1gXTlkpJTfc",
+            "distance": "DISTANCE_1",
+            "public_id": "shawan-mandal",
+            "tracking_id": "773749936"
+        },
+        {
+            "urn_id": "ACoAAC12ZqEBCx9JN_YIi1eF1FPPDif3mXI3fyc",
+            "distance": "DISTANCE_1",
+            "public_id": "abinash-panigrahi-169531193",
+            "tracking_id": "762734241"
+        },
+        {
+            "urn_id": "ACoAACYmrvgBRdvWxItbY_KP_fyrEgZ9U-QKJqk",
+            "distance": "DISTANCE_1",
+            "public_id": "rtsu",
+            "tracking_id": "640069368"
+        },
+        {
+            "urn_id": "ACoAADRMKTMBj76XTPRfB9R5rvfwNOXP2n93n4c",
+            "distance": "DISTANCE_1",
+            "public_id": "manash-deka-497a12205",
+            "tracking_id": "877406515"
+        },
+        {
+            "urn_id": "ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc",
+            "distance": "DISTANCE_1",
+            "public_id": "ratnadeep-bhattacharjee",
+            "tracking_id": "135079003"
+        },
+        {
+            "urn_id": "ACoAAClGHl8Bkg1-FBWeyXHlveDeXDBovpxKYtw",
+            "distance": "DISTANCE_1",
+            "public_id": "raju-moni-borah-9bbaa1173",
+            "tracking_id": "692461151"
+        },
+        {
+            "urn_id": "ACoAADZ9mPoBBWha8sl8ryS_FeGMwpi6kGUzbzk",
+            "distance": "DISTANCE_1",
+            "public_id": "raj-prasad-4a21b7216",
+            "tracking_id": "914200826"
+        },
+        {
+            "urn_id": "ACoAAAR5v8MBjPwCvp8TP9RWZyGSeNYNiJ1wKJE",
+            "distance": "DISTANCE_1",
+            "public_id": "nilotpal-boruah",
+            "tracking_id": "75087811"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Microsoft Office"
+        },
+        {
+            "name": "Microsoft Excel"
+        },
+        {
+            "name": "Customer Service"
+        },
+        {
+            "name": "Microsoft Word"
+        },
+        {
+            "name": "PowerPoint"
+        },
+        {
+            "name": "Management"
+        },
+        {
+            "name": "Research"
+        },
+        {
+            "name": "Leadership"
+        },
+        {
+            "name": "Strategic Planning"
+        },
+        {
+            "name": "Public Speaking"
+        },
+        {
+            "name": "Recruiting"
+        },
+        {
+            "name": "HTML"
+        },
+        {
+            "name": "Temporary Placement"
+        },
+        {
+            "name": "SQL"
+        },
+        {
+            "name": "Talent Acquisition"
+        },
+        {
+            "name": "Technical Recruiting"
+        },
+        {
+            "name": "Human Resources"
+        },
+        {
+            "name": "Screening"
+        },
+        {
+            "name": "Sourcing"
+        },
+        {
+            "name": "Internet Recruiting"
+        },
+        {
+            "name": "Vendor Management"
+        },
+        {
+            "name": "Interviewing"
+        },
+        {
+            "name": "Onboarding",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:1776",
+            "standardizedSkill": {
+                "name": "Onboarding",
+                "entityUrn": "urn:li:fs_miniSkill:1776"
+            }
+        },
+        {
+            "name": "Offer Creation",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:48234",
+            "standardizedSkill": {
+                "name": "Offer Creation",
+                "entityUrn": "urn:li:fs_miniSkill:48234"
+            }
+        },
+        {
+            "name": "Exit Interviews",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:3197",
+            "standardizedSkill": {
+                "name": "Exit Interviews",
+                "entityUrn": "urn:li:fs_miniSkill:3197"
+            }
+        },
+        {
+            "name": "Exit Process",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:42436",
+            "standardizedSkill": {
+                "name": "Exit Process",
+                "entityUrn": "urn:li:fs_miniSkill:42436"
+            }
+        },
+        {
+            "name": "Exit Formalities",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:44068",
+            "standardizedSkill": {
+                "name": "Exit Formalities",
+                "entityUrn": "urn:li:fs_miniSkill:44068"
+            }
+        },
+        {
+            "name": "Data Entry",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:869",
+            "standardizedSkill": {
+                "name": "Data Entry",
+                "entityUrn": "urn:li:fs_miniSkill:869"
+            }
+        },
+        {
+            "name": "onboarding"
+        },
+        {
+            "name": "Executive Calendar Management"
+        },
+        {
+            "name": "scheduling"
+        },
+        {
+            "name": "Talent Management"
+        },
+        {
+            "name": "IT Recruitment"
+        },
+        {
+            "name": "Employee Relations"
+        },
+        {
+            "name": "background "
+        },
+        {
+            "name": "Reference Checking"
+        },
+        {
+            "name": "Screening Resumes"
+        },
+        {
+            "name": "Staffing Services"
+        },
+        {
+            "name": "Hiring"
+        },
+        {
+            "name": "Employee Engagement"
+        },
+        {
+            "name": "Customer Relationship Management (CRM)"
+        }
+    ]
+}

@@ -1,0 +1,571 @@
+{
+    "profile": {
+        "summary": "A US Recruiting Professional with over 6 year of diversified experience in the area of Direct/Contract\nrecruiting ,Vendor Management and Organizational Development. Enthusiastic, work-oriented professional, diversified experience in US Recruitment/Staffing in different domains including Federal, Banking, Information Technology (IT). Worked on different leading technologies like AI (Artificial Intelligence), ML (Machine Learning), Hadoop, AWS, Cloud, DevOps, etc. Possess excellent knowledge of recruiting and hiring processes including sourcing, interviewing tracking, salary negotiations, and\nclosing. Recruited for multiple skills, domains, levels and locations. Possess the ability to work independently as well as a team leader and as a team player. Have good experience in US Staffing, Specializing in Headhunting, Actively building VMS (Vendor Management System), Building Resume Database. Good Team Player with interpersonal, Good Oral and written Communication in English Worked on Recruiting H1B Consultants, GC holders, TN Citizens and US Citizens for Direct Clients and Vendor Requirements. Good Knowledge of different contracts W2 (without Benefits), Corp 2 Corp and 1099. Good in passive recruiting. Candidates sourced through LinkedIn. Kept records of the candidates interviewed and updated them through e-mails about the process.",
+        "industryName": "Staffing and Recruiting",
+        "lastName": "sharma",
+        "locationName": "United States",
+        "student": false,
+        "geoCountryName": "United States",
+        "geoCountryUrn": "urn:li:fs_geo:103644278",
+        "geoLocationBackfilled": false,
+        "elt": false,
+        "industryUrn": "urn:li:fs_industry:104",
+        "firstName": "Tarun",
+        "entityUrn": "urn:li:fs_profile:ACoAACc6KFwBpWdrlSaFGafMmQxMT1ldgF4LGBA",
+        "geoLocation": {
+            "geoUrn": "urn:li:fs_geo:103627077"
+        },
+        "geoLocationName": "Walnut Creek, California",
+        "location": {
+            "basicLocation": {
+                "countryCode": "us"
+            }
+        },
+        "headline": "Recruiting Team Lead at Shimento, Inc. M.A Hons. School in Economics. Dept. of Economics (PU)",
+        "displayPictureUrl": "https://media-exp1.licdn.com/dms/image/C4D03AQGIpY044t0p6w/profile-displayphoto-shrink_",
+        "img_100_100": "100_100/0/1644852703963?e=1657756800&v=beta&t=fE7Vo_Sz8VuZc0vti1Ff1RI3UFa8ioy5bCgXFPOLOKg",
+        "img_200_200": "200_200/0/1644852703963?e=1657756800&v=beta&t=r31_mVQmWoj9xLmcv8VdckC2cMlYx8dfT17lZzO6CUI",
+        "img_400_400": "400_400/0/1644852703963?e=1657756800&v=beta&t=5964t8z0pKkUfdnUcAlvjR45Q0Gw98MU37pGL_FA0iY",
+        "img_800_800": "800_800/0/1644852703963?e=1657756800&v=beta&t=GaN3eox_AiCgtRMjJCpJ6Q1IjIZcq-IGczVRZAyt_08",
+        "profile_id": "ACoAACc6KFwBpWdrlSaFGafMmQxMT1ldgF4LGBA",
+        "profile_urn": "urn:li:fs_miniProfile:ACoAACc6KFwBpWdrlSaFGafMmQxMT1ldgF4LGBA",
+        "member_urn": "urn:li:member:658122844",
+        "experience": [
+            {
+                "locationName": "Walnut Creek, California, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAACc6KFwBpWdrlSaFGafMmQxMT1ldgF4LGBA,1849373177)",
+                "geoLocationName": "Walnut Creek, California, United States",
+                "geoUrn": "urn:li:fs_geo:103627077",
+                "companyName": "Shimento, Inc.",
+                "timePeriod": {
+                    "startDate": {
+                        "month": 9,
+                        "year": 2021
+                    }
+                },
+                "description": "Responsible for mentoring a Team of Recruiters right from making them understand the requirements that we receive from the client, Keywords formation, Screening Candidates, 2nd Level Closing, Interview Set-Ups, Prep-Ups and making sure that the candidate is delivered once the Job Offer is made to them.\nDeveloped recruiting strategies to identify qualified professionals through various job boards, professional and social network, recruiting tools and unconventional methods for contract, contract-to-hire opportunities.\nExplained engagements and long lasting relationships with quality candidates through meetings and consistent coaching to the team\nTrained and developed recruiters in unique strategies to find passive candidates.\nCoached the team on regular basis to build organizational database with regular additions of premier candidates.\nManaged day in and day out coordination of Delivery, Sales, Operations, and Candidate Relations for an organized / smooth process of on-boarding and project completion of individual candidates.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 51,
+                        "end": 200
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Recruiting Team Lead",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:1294799",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C560BAQGUkghYZJAXIQ/company-logo_"
+            },
+            {
+                "locationName": "McLean, Virginia, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAACc6KFwBpWdrlSaFGafMmQxMT1ldgF4LGBA,1733288795)",
+                "geoLocationName": "McLean, Virginia, United States",
+                "geoUrn": "urn:li:fs_geo:106504367",
+                "companyName": "DISYS",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 9,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 1,
+                        "year": 2021
+                    }
+                },
+                "description": "Digital Intelligence Systems, LLC (DISYS) is a global staffing, IT consulting & managed services firm with more than 33 offices worldwide. Within these offices, DISYS employs industry problem solvers who have the expertise to understand industry staffing issues but also possess the knowledge to locate. inefficiencies, design and implement game-changing automation and other IT service offerings.\nAssist a team of  recruiters focused on hiring individual contributors for Financial & Banking positions.\nWork closely with Hiring Managers to develop position profile and to understand overall needs and requirements.\nSeeking out professionals with the right combination of experience, education and skills to fill a particular position.\nEffectively recruits high Caliber, quality candidates, by partnering with hiring managers to understand their business strategies and talent needs.\nDrive and manage the interview and selection process.\nAchieve overall staffing needs of assigned client groups by filling open positions with qualified candidates within the specified timeframe.\nFacilitate internal and external recruitment process, effectively interviewing and evaluating candidates utilizing consistent criteria and evaluative measures.\nUtilize creative sourcing techniques including but not limited to internet mining, cold calling, and referral programs.\nEnsure a diverse talent pool is sourced, assessed, and presented for open positions.\nExtend, negotiate, and close job offers to candidates.\nBuild and develop a strong, competitive bench of external talent for all opportunities within the assigned functional area.\nDevelop and maintain a strong external recruitment network.\nEstablish and maintain a candidate database of pre-qualified candidates to meet current and anticipated staffing needs.\nUtilize the ATS system to maintain candidate information and accurate data for reporting purposes.\nProvide mentoring support to other Recruiters on the team.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 1001,
+                        "end": 5000
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Senior Technical Recruiter, Centralized F&A, Financial & Banking Services at DISYS",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:15228",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQHuMRjXGwiVGQ/company-logo_"
+            },
+            {
+                "locationName": "Walnut Creek, California, United States",
+                "entityUrn": "urn:li:fs_position:(ACoAACc6KFwBpWdrlSaFGafMmQxMT1ldgF4LGBA,1686034004)",
+                "geoLocationName": "Walnut Creek, California, United States",
+                "geoUrn": "urn:li:fs_geo:103627077",
+                "companyName": "Shimento, Inc.",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 1,
+                        "year": 2021
+                    },
+                    "startDate": {
+                        "month": 7,
+                        "year": 2020
+                    }
+                },
+                "description": "\u2022 Lead a team of 8 recruiters and was responsible for their overall training.\n\u2022 Solicited and identified prospective candidates by telephone, e-mail and the internet to determine skills, experience and areas for \ngeographic employment, preferences, availability and visa status.\n\u2022 Ensured that adequate number of qualified candidates is submitted for all assigned client requirements in a timely manner.\n\u2022 Sourced potential candidates through job portals, networking and head hunting in target software companies.\n\u2022 Matched the profile of the candidate on technical grounds.\n\u2022 Conducted initial interviews by phone to determine experience and skill level.\n\u2022 Ensured candidate is available and ready to take up the position.\n\u2022 Ensured that resume appropriately reflects candidate\u2019s experience and requirement.\n\u2022 Negotiated salaries with candidates and closed the position.\n\u2022 Arranged for client interviews and possible offer of employment.\n\u2022 Maintained and updated the company\u2019s Applicant Tracking System (ATS) like JOBDIVA sending mails to the consultant & \nmaintain their updated status in a separate excel sheet.\n\u2022 Handled the tasks of picking up the requirement from Vendor Management systems like: Fieldglass.\n\u2022 Tapped talent via LinkedIn for niche skills & built a pipeline for subsequent requisitions.\n\u2022 Mentored and provided on-going training and support for new recruiters and served as a resource for learning and navigating \nsenior technical policies and procedures.\n\u2022 Handled I.T. requirements (Java, Python, UI Architect, Data Scientist, DevOps Engineer, Cloud, Architect, Developer, Data \nWarehousing and Testing) from Banking, Insurance, Financial Client.\n",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 51,
+                        "end": 200
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Lead Recruiter",
+                "region": "urn:li:fs_region:(us,0)",
+                "companyUrn": "urn:li:fs_miniCompany:1294799",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C560BAQGUkghYZJAXIQ/company-logo_"
+            },
+            {
+                "locationName": "Chandigarh Area, India",
+                "entityUrn": "urn:li:fs_position:(ACoAACc6KFwBpWdrlSaFGafMmQxMT1ldgF4LGBA,1345083166)",
+                "geoLocationName": "Chandigarh Area, India",
+                "geoUrn": "urn:li:fs_geo:100139308",
+                "companyName": "Shimento, Inc.",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 7,
+                        "year": 2020
+                    },
+                    "startDate": {
+                        "month": 7,
+                        "year": 2019
+                    }
+                },
+                "description": "\u2022 Managing the full life cycle recruitment process for high volume hiring at all levels.\r\n\u2022 Creating and posting requisitions, reviewing resumes, following up on the updates through the hires.\r\n\u2022 Participating in staffing, intake and status update meetings with key stakeholders and submitting weekly reports to the management \r\n\u2022 Recruited utilizing unique sourcing methodologies through associates and internet (Monster, Dice, Career Builder, Job Diva and other social recruiting media).\r\n\u2022 Recognized for out of the box thinking, consistent and good performance in the company.\r\n\u2022 Involved in full life - cycle Recruitment including Requirements understanding, Initial screening, short listing, interviewing, negotiating and making offers.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 51,
+                        "end": 200
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Senior Technical Recruiter",
+                "region": "urn:li:fs_region:(in,6879)",
+                "companyUrn": "urn:li:fs_miniCompany:1294799",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C560BAQGUkghYZJAXIQ/company-logo_"
+            },
+            {
+                "locationName": "Chandigarh Area, India",
+                "entityUrn": "urn:li:fs_position:(ACoAACc6KFwBpWdrlSaFGafMmQxMT1ldgF4LGBA,1515661421)",
+                "geoLocationName": "Chandigarh Area, India",
+                "companyName": "Shimento, Inc.",
+                "timePeriod": {
+                    "endDate": {
+                        "month": 7,
+                        "year": 2019
+                    },
+                    "startDate": {
+                        "month": 7,
+                        "year": 2018
+                    }
+                },
+                "description": "\u2022 Senior level sourcing of profiles particularly with Financial Background for Top notch Banks in US.\r\n\u2022 Provide full life cycle recruitment support which includes: sourcing, screening, interviewing, assessing and presenting a diversified and high-quality pool of candidates to the business leaders in a timely manner.\r\n\u2022 Drive the recruitment and candidate assessment process from requisition to offer.\r\n\u2022 Develop and maintain internal and external relationships that facilitate acquiring talent to align with business needs.\r\n\u2022 Leveraging online recruiting resources and in-house ATS (JobDiva) to identify and recruit the very best candidates\r\n\u2022 Was working as an IT Recruiter, Specializing in Headhunting, actively building VMS (Vendor Management System), Building \r\nResume Database. Good Team Player with interpersonal, Good Oral and written Communication in English, Worked on Recruiting GC holders, TN Citizens and US Citizens for Direct Clients.\r\n\u2022 Good Knowledge of different contracts W2, Corp 2 Corp and 1099. Good in passive recruiting. Candidates sourced through LinkedIn. Kept records of the candidates interviewed and updated them through e-mails about the process.\r\n\u2022 Sourcing, screening, short listing & interviewing the candidates as per the Business Unit requirement through various resume posting boards, Portals and Database Searches, Job postings, and through Referrals.\r\n\u2022 Maintaining excellent long-lasting relationships with various Vendors for obtaining consultant/candidates for many or major positions\r\n\u2022 Negotiating salaries and performing detailed interviews.\r\n\u2022 Created, sourced and managed Job postings or using search query through Monster, Dice & CB.",
+                "company": {
+                    "employeeCountRange": {
+                        "start": 51,
+                        "end": 200
+                    },
+                    "industries": [
+                        "Information Technology and Services"
+                    ]
+                },
+                "title": "Technical Recruiter",
+                "companyUrn": "urn:li:fs_miniCompany:1294799",
+                "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C560BAQGUkghYZJAXIQ/company-logo_"
+            }
+        ],
+        "education": [
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAACc6KFwBpWdrlSaFGafMmQxMT1ldgF4LGBA,530187028)",
+                "school": {
+                    "objectUrn": "urn:li:school:211377",
+                    "entityUrn": "urn:li:fs_miniSchool:211377",
+                    "active": true,
+                    "schoolName": "Panjab University,Chandigarh",
+                    "trackingId": "AF/hLIuBQTSjIhLN61XcBQ==",
+                    "logoUrl": "https://media-exp1.licdn.com/dms/image/C560BAQFhaQINOeKfnQ/company-logo_"
+                },
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2014
+                    },
+                    "startDate": {
+                        "year": 2009
+                    }
+                },
+                "degreeName": "Master of Arts",
+                "schoolName": "Panjab University,Chandigarh",
+                "fieldOfStudy": "Economics",
+                "degreeUrn": "urn:li:fs_degree:536",
+                "schoolUrn": "urn:li:fs_miniSchool:211377"
+            },
+            {
+                "entityUrn": "urn:li:fs_education:(ACoAACc6KFwBpWdrlSaFGafMmQxMT1ldgF4LGBA,704340201)",
+                "timePeriod": {
+                    "endDate": {
+                        "year": 2009
+                    }
+                },
+                "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:100990",
+                "degreeName": "12th",
+                "schoolName": "Jawahar Navodaya Vidyalaya , Chandigarh",
+                "fieldOfStudy": "Economics"
+            }
+        ],
+        "languages": [],
+        "publications": [],
+        "certifications": [],
+        "volunteer": [],
+        "honors": [],
+        "projects": []
+    },
+    "contact_info": {
+        "email_address": null,
+        "websites": [],
+        "twitter": [],
+        "birthdate": null,
+        "ims": null,
+        "phone_numbers": []
+    },
+    "connections": [
+        {
+            "urn_id": "ACoAAByhqogBLFVDJbqojrVMhtKfC3o3hRfEcjg",
+            "distance": "DISTANCE_1",
+            "public_id": "biki-talukdar-460a54114",
+            "tracking_id": "480357000"
+        },
+        {
+            "urn_id": "ACoAABr4jt0BoOUmisITdRo1gR4CumG5I4jjZIw",
+            "distance": "DISTANCE_1",
+            "public_id": "samudra-deka-911659107",
+            "tracking_id": "452497117"
+        },
+        {
+            "urn_id": "ACoAADLJzxsBizdB0nN5NZBCM41Q-z6-7ef5gyI",
+            "distance": "DISTANCE_1",
+            "public_id": "deepjyoti-kalita-78b4411b9",
+            "tracking_id": "852086555"
+        },
+        {
+            "urn_id": "ACoAAC24GToBKzC8vS7jZaCEqoq3Jse_M2Tson8",
+            "distance": "DISTANCE_1",
+            "public_id": "abhijit-paul-936a68194",
+            "tracking_id": "767039802"
+        },
+        {
+            "urn_id": "ACoAADe3CFYBsoFdtSEajXbg51HDagdpBEb3kx4",
+            "distance": "DISTANCE_1",
+            "public_id": "binud-panging-872062221",
+            "tracking_id": "934742102"
+        },
+        {
+            "urn_id": "ACoAADZmR9QB1zOH_PmrzQQw2wQmTJRTcNGU7CE",
+            "distance": "DISTANCE_1",
+            "public_id": "bkalita",
+            "tracking_id": "912672724"
+        },
+        {
+            "urn_id": "ACoAADbmf6QBc8hqz1SYgWY92D5X-_ijayWyiQM",
+            "distance": "DISTANCE_1",
+            "public_id": "arindam-bhowal-10",
+            "tracking_id": "921075620"
+        },
+        {
+            "urn_id": "ACoAAC2aUPYBGPB-T9xDu2Hjrq7OgzRPu5nTvyE",
+            "distance": "DISTANCE_1",
+            "public_id": "jintudas",
+            "tracking_id": "765087990"
+        },
+        {
+            "urn_id": "ACoAACT67ZEBgw1Aprl8Aqy8zWMavdTyaWs7J3w",
+            "distance": "DISTANCE_1",
+            "public_id": "titikshya-das-015942153",
+            "tracking_id": "620424593"
+        },
+        {
+            "urn_id": "ACoAAAjgx0kBxJoPu_7t3kS1NbDizQekjIIzMbE",
+            "distance": "DISTANCE_1",
+            "public_id": "lakheswar-nath-289a7141",
+            "tracking_id": "148948809"
+        },
+        {
+            "urn_id": "ACoAAA3IBIgB5HPG7B3yEAqhWv1LqgR_nPRRFoE",
+            "distance": "DISTANCE_1",
+            "public_id": "prithoo11335",
+            "tracking_id": "231212168"
+        },
+        {
+            "urn_id": "ACoAACbTg-gBtT_YqZc-FG2lIVBv13QTx8UUB8E",
+            "distance": "DISTANCE_1",
+            "public_id": "mridul24",
+            "tracking_id": "651396072"
+        },
+        {
+            "urn_id": "ACoAACr0GSwBcmPDh22HqivG9h0JwG-eahXSYW8",
+            "distance": "DISTANCE_1",
+            "public_id": "nihar-kashyap98",
+            "tracking_id": "720640300"
+        },
+        {
+            "urn_id": "ACoAACzP6KMBcLKqKnFRpIudaukkoW4NoqstgrM",
+            "distance": "DISTANCE_1",
+            "public_id": "pranit-prakash-sahu",
+            "tracking_id": "751823011"
+        },
+        {
+            "urn_id": "ACoAAB3GzjQBMN9gnf70dEwLoXbqTvb6FMkvlaY",
+            "distance": "DISTANCE_1",
+            "public_id": "tridip-das-b5837911b",
+            "tracking_id": "499568180"
+        },
+        {
+            "urn_id": "ACoAAC8MNEkBeOfT5XsGjm2znOBKa5A1eZma5Bw",
+            "distance": "DISTANCE_1",
+            "public_id": "jyotishmoy-deka-7214171a0",
+            "tracking_id": "789328969"
+        },
+        {
+            "urn_id": "ACoAACeXhGEBEVCUXmKi5rowUSeFZNerPjvzQsc",
+            "distance": "DISTANCE_1",
+            "public_id": "mahbubul-haque-a55552166",
+            "tracking_id": "664241249"
+        },
+        {
+            "urn_id": "ACoAAAI9wXoBijRhLoxf7BO8UTK0DX-7KexJV30",
+            "distance": "DISTANCE_1",
+            "public_id": "boren-ghosh-27671410",
+            "tracking_id": "37601658"
+        },
+        {
+            "urn_id": "ACoAACZxhUQBl1V8kpLj4ACrE2LzpatGvVzEgSA",
+            "distance": "DISTANCE_1",
+            "public_id": "nabajyoti-borah-944000160",
+            "tracking_id": "644973892"
+        },
+        {
+            "urn_id": "ACoAAAT5XhwBvaOWIGSz3V4IqWLBaYC5Hp15UV8",
+            "distance": "DISTANCE_1",
+            "public_id": "sivaranjan-goswami-790b4523",
+            "tracking_id": "83451420"
+        },
+        {
+            "urn_id": "ACoAACHlA7IB_d9MYYVP_4JgPjZfqJiP0PpAAk0",
+            "distance": "DISTANCE_1",
+            "public_id": "parthava-borah-98253713a",
+            "tracking_id": "568656818"
+        },
+        {
+            "urn_id": "ACoAACTFIIYB1cK_syRcCXEc0o8RTm4JMlhYcHA",
+            "distance": "DISTANCE_1",
+            "public_id": "arun-kumar-nath-686721152",
+            "tracking_id": "616898694"
+        },
+        {
+            "urn_id": "ACoAABYq8T8ByHFGBUFRrHT5iKBI2u4YZjTLHFc",
+            "distance": "DISTANCE_1",
+            "public_id": "netranjit-borgohain-53b677a4",
+            "tracking_id": "371913023"
+        },
+        {
+            "urn_id": "ACoAAC-mfboBv3YCLG2TYdY8DDGcxvth-aLDFXU",
+            "distance": "DISTANCE_1",
+            "public_id": "bhargov-jyoti-das-0a28931a3",
+            "tracking_id": "799440314"
+        },
+        {
+            "urn_id": "ACoAACDVs-sB_IgxPBMHMRBfR6is3jmwwV_OvTE",
+            "distance": "DISTANCE_1",
+            "public_id": "swapnil-bhattacharjee-ghy",
+            "tracking_id": "550876139"
+        },
+        {
+            "urn_id": "ACoAAC4efLABFBv0f30-SDGDgLSf1gXTlkpJTfc",
+            "distance": "DISTANCE_1",
+            "public_id": "shawan-mandal",
+            "tracking_id": "773749936"
+        },
+        {
+            "urn_id": "ACoAACUEZ3QB2Xm0OWR0cqoc_u-o4KW_OENO1_8",
+            "distance": "DISTANCE_1",
+            "public_id": "rajan-sahu",
+            "tracking_id": "621045620"
+        },
+        {
+            "urn_id": "ACoAAC12ZqEBCx9JN_YIi1eF1FPPDif3mXI3fyc",
+            "distance": "DISTANCE_1",
+            "public_id": "abinash-panigrahi-169531193",
+            "tracking_id": "762734241"
+        },
+        {
+            "urn_id": "ACoAACYmrvgBRdvWxItbY_KP_fyrEgZ9U-QKJqk",
+            "distance": "DISTANCE_1",
+            "public_id": "rtsu",
+            "tracking_id": "640069368"
+        },
+        {
+            "urn_id": "ACoAADRMKTMBj76XTPRfB9R5rvfwNOXP2n93n4c",
+            "distance": "DISTANCE_1",
+            "public_id": "manash-deka-497a12205",
+            "tracking_id": "877406515"
+        },
+        {
+            "urn_id": "ACoAAAgNJFsBwaj5gsKx6s0Zt_BfbdRHE8BWSMc",
+            "distance": "DISTANCE_1",
+            "public_id": "ratnadeep-bhattacharjee",
+            "tracking_id": "135079003"
+        },
+        {
+            "urn_id": "ACoAAAR5v8MBjPwCvp8TP9RWZyGSeNYNiJ1wKJE",
+            "distance": "DISTANCE_1",
+            "public_id": "nilotpal-boruah",
+            "tracking_id": "75087811"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Leadership",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:154",
+            "standardizedSkill": {
+                "name": "Leadership",
+                "entityUrn": "urn:li:fs_miniSkill:154"
+            }
+        },
+        {
+            "name": "Sourcing",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:722",
+            "standardizedSkill": {
+                "name": "Sourcing",
+                "entityUrn": "urn:li:fs_miniSkill:722"
+            }
+        },
+        {
+            "name": "Recruiting",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:44",
+            "standardizedSkill": {
+                "name": "Recruiting",
+                "entityUrn": "urn:li:fs_miniSkill:44"
+            }
+        },
+        {
+            "name": "Screening",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:1171",
+            "standardizedSkill": {
+                "name": "Screening",
+                "entityUrn": "urn:li:fs_miniSkill:1171"
+            }
+        },
+        {
+            "name": "Microsoft Excel",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:163",
+            "standardizedSkill": {
+                "name": "Microsoft Excel",
+                "entityUrn": "urn:li:fs_miniSkill:163"
+            }
+        },
+        {
+            "name": "Team Management",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:3517",
+            "standardizedSkill": {
+                "name": "Team Management",
+                "entityUrn": "urn:li:fs_miniSkill:3517"
+            }
+        },
+        {
+            "name": "Interviewing",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:542",
+            "standardizedSkill": {
+                "name": "Interviewing",
+                "entityUrn": "urn:li:fs_miniSkill:542"
+            }
+        },
+        {
+            "name": "Microsoft PowerPoint",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:310",
+            "standardizedSkill": {
+                "name": "Microsoft PowerPoint",
+                "entityUrn": "urn:li:fs_miniSkill:310"
+            }
+        },
+        {
+            "name": "Applicant Tracking Systems",
+            "standardizedSkillUrn": "urn:li:fs_miniSkill:2711",
+            "standardizedSkill": {
+                "name": "Applicant Tracking Systems",
+                "entityUrn": "urn:li:fs_miniSkill:2711"
+            }
+        },
+        {
+            "name": "Onboarding"
+        },
+        {
+            "name": "Executive Search"
+        },
+        {
+            "name": "Communication"
+        },
+        {
+            "name": "Performance Appraisal"
+        },
+        {
+            "name": "Technical Recruiting"
+        },
+        {
+            "name": "Hiring"
+        },
+        {
+            "name": "Internet Recruiting"
+        },
+        {
+            "name": "Talent Management"
+        },
+        {
+            "name": "Screening Resumes"
+        },
+        {
+            "name": "Temporary Staffing"
+        },
+        {
+            "name": "Team Building"
+        },
+        {
+            "name": "Team Leadership"
+        },
+        {
+            "name": "Human Resources (HR)"
+        },
+        {
+            "name": "Contract Recruitment"
+        },
+        {
+            "name": "IT Recruitment"
+        },
+        {
+            "name": "Staffing Services"
+        },
+        {
+            "name": "Python (Programming Language)"
+        },
+        {
+            "name": "Permanent Placement"
+        },
+        {
+            "name": "Interpersonal Skills"
+        },
+        {
+            "name": "Staff Augmentation"
+        },
+        {
+            "name": "Training"
+        },
+        {
+            "name": "Java"
+        }
+    ]
+}
