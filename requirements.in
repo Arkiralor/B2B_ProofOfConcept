@@ -1,0 +1,7 @@
+beautifulsoup4
+linkedin-api==2.0.0a5
+jupyter
+pandas
+python-dotenv
+requests
+autopep8
