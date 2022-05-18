@@ -4,75 +4,20 @@ import json
 from random import randrange, seed
 from logger.logger import logging
 import argparse
+from datetime import datetime
 
 def main():
 
     main_api = LinkedInAPI()
-
-    ## For profile parser:
-    # with open(f"data_store{sep}uids.csv", "rt", encoding="utf-8") as data:
-    #     uid_list = data.read().split("\n")
-
-
-    # uid_list.sort()
-
-    # for uid in uid_list:
-    #     main_api.get_profile_details(uid)
-
-    ## For search results:
-    # main_api.search_posts("Python", "CONTENT")
-
-    ## For post comments
-    # LinkedInAPI.get_comments("6926503527993204736")
-
-    # main_api.get_feed()
-
-    ## For searching jobs:
-    # main_api.get_jobs("python")
-
-    ## Company Details:
-    # main_api.get_companies("microsoft")
-
     ## Search people:
-    # main_api.get_people(keywords="microsoft")
+    people = main_api.get_people(keywords="interested in biriyani")
+    # print(people)
 
-    ## Search people:
-    # main_api.get_people(keywords="technical recruiter hiring python")
-
-    ## Get Python Profile:
-    # with open("raw_data\search_results\people\python_people.json")as python_people_file:
-    #     python_people_dict = json.load(python_people_file)
-
-    ## Get TechVariable Profile:
-    # with open(f"raw_data{sep}search_results\people{sep}techvariable_people.json")as python_people_file:
-    #     python_people_dict = json.load(python_people_file)
-
-    ## Get LinkedIn Profile:
-    # with open("raw_data\search_results\people\linkedin_people.json")as python_people_file:
-    #     python_people_dict = json.load(python_people_file)
-
-    ## Get Python Technical recruiters Profile:
-    # with open("raw_data/search_results/people/technical recruiter hiring python_people.json")as python_people_file:
-    #     python_people_dict = json.load(python_people_file)
-
-    ## Get Microsoft Profile:
-    with open("raw_data/search_results/people/microsoft_people.json")as python_people_file:
-        python_people_dict = json.load(python_people_file)
-
-    max_rand = len(python_people_dict)
-    seed()
-
-    for counter in range(26):
-        logging.info(f"   \n\n\nBEGIN ITERATION: {counter+1}  ")
-        i = randrange(max_rand)
-        logging.info(f"   INDEX: {i}  ")
-        person = python_people_dict[i]
-        main_api.get_profile_details(person.get("public_id"))
-        logging.info(f"   END ITERATION: {counter+1}  \n\n\n")
-
-
-    # for person in python_people_dict:
-    #      main_api.get_profile_details(person.get("public_id"))
+    with open(f"raw_data{sep}profiles{sep}test.json", "w+t", encoding="utf-8") as data_file:
+            data = json.dumps(people, indent=4)
+            logging.info(
+                f"[{datetime.now()}]   WRITING SEARCH INFO for: 'technical recruiter hiring python'")
+            data_file.write(data)
 
 
 

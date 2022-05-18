@@ -25,6 +25,7 @@ class LinkedInAPI:
 
         logging.info(f"[{datetime.now()}]   GETTING PROFILE INFO for: {uid}")
         profile = self.api.get_profile(uid)
+        detail_dict['source'] = "linkedin"
         detail_dict['profile'] = profile
 
         # GET a profiles contact info
@@ -32,21 +33,23 @@ class LinkedInAPI:
         contact_info = self.api.get_profile_contact_info(uid)
         detail_dict['contact_info'] = contact_info
 
-        ## GET 1st degree connections of a given profile
-        logging.info(f"[{datetime.now()}]   GETTING CONNECTIONS INFO for: {uid}")
-        urn = detail_dict.get('profile', {}).get('entityUrn', "").split(":")[-1]
-        connections = self.api.get_profile_connections(urn_id=urn)
-        detail_dict['connections'] = connections
+        # GET 1st degree connections of a given profile
+        # logging.info(f"[{datetime.now()}]   GETTING CONNECTIONS INFO for: {uid}")
+        # urn = detail_dict.get('profile', {}).get('entityUrn', "").split(":")[-1]
+        # connections = self.api.get_profile_connections(urn_id=urn)
+        # detail_dict['connections'] = connections
 
-        ## GET skills from profile
+        # GET skills from profile
         skills = self.api.get_profile_skills(uid)
         detail_dict['skills'] = skills
 
-        with open(f"raw_data{sep}profiles{sep}{uid}.json", "w+t", encoding="utf-8") as data_file:
-            data = dumps(detail_dict, indent=4)
-            logging.info(
-                f"[{datetime.now()}]   WRITING PROFILE INFO for: {uid}")
-            data_file.write(data)
+        return detail_dict
+
+        # with open(f"raw_data{sep}profiles{sep}{uid}.json", "w+t", encoding="utf-8") as data_file:
+        #     data = dumps(detail_dict, indent=4)
+        #     logging.info(
+        #         f"[{datetime.now()}]   WRITING PROFILE INFO for: {uid}")
+        #     data_file.write(data)
 
     def search_posts(self, search_term: str = "Python", search_type: str = "CONTENT"):
         '''
@@ -79,12 +82,13 @@ class LinkedInAPI:
                 f"[{datetime.now()}]   WRITING SEARCH INFO for: {post_urn}")
             data_file.write(data)
 
-    def get_jobs(self, query:str):
+    def get_jobs(self, query: str):
         jobs = self.api.search_jobs(query)
 
         with open(f"raw_data{sep}search_results{sep}jobs{sep}{query}_jobs.json", "w+t", encoding="utf-8") as data_file:
             data = dumps(jobs, indent=4)
-            logging.info(f"[{datetime.now()}]   WRITING SEARCH INFO for: {query}")
+            logging.info(
+                f"[{datetime.now()}]   WRITING SEARCH INFO for: {query}")
             data_file.write(data)
 
     def get_feed(self):
@@ -102,29 +106,30 @@ class LinkedInAPI:
 
         with open(f"raw_data{sep}companies{sep}{public_id}_company.json", "w+t", encoding="utf-8") as data_file:
             data = dumps(company, indent=4)
-            logging.info(f"[{datetime.now()}]   WRITING SEARCH INFO for: {company}")
+            logging.info(
+                f"[{datetime.now()}]   WRITING SEARCH INFO for: {company}")
             data_file.write(data)
 
     def get_people(
-                    self,
-                    keywords=None,
-                    current_company=None,
-                    past_companies=None,
-                    regions=None,
-                    industries=None,
-                    schools=None,
-                    profile_languages=None,
-                    contact_interests=None,
-                    service_categories=None,
-                    network_depths=["F", "S", "O"],
-                    include_private_profiles=None,
-                    keyword_first_name=None,
-                    keyword_last_name=None,
-                    keyword_title=None,
-                    keyword_company=None,
-                    keyword_school=None,
-                    connection_of=None
-                ):
+        self,
+        keywords=None,
+        current_company=None,
+        past_companies=None,
+        regions=None,
+        industries=None,
+        schools=None,
+        profile_languages=None,
+        contact_interests=None,
+        service_categories=None,
+        network_depths=["F", "S", "O"],
+        include_private_profiles=None,
+        keyword_first_name=None,
+        keyword_last_name=None,
+        keyword_title=None,
+        keyword_company=None,
+        keyword_school=None,
+        connection_of=None
+    ):
         people = self.api.search_people(
             keywords,
             current_company,
@@ -144,13 +149,19 @@ class LinkedInAPI:
             keyword_school,
             connection_of
         )
+        profile_list = []
+        for person in people[:25]:
+            public_id = person.get('public_id', "")
+            if public_id:
+                details = self.get_profile_details(public_id)
+                profile_list.append(details)
 
-        with open(f"raw_data{sep}search_results{sep}people{sep}{keywords}_people.json", "w+t", encoding="utf-8") as data_file:
-            data = dumps(people, indent=4)
-            logging.info(f"[{datetime.now()}]   WRITING SEARCH INFO for: {people}")
-            data_file.write(data)
+        return profile_list
 
-
+        # with open(f"raw_data{sep}search_results{sep}people{sep}{keywords}_people.json", "w+t", encoding="utf-8") as data_file:
+        #     data = dumps(people, indent=4)
+        #     logging.info(f"[{datetime.now()}]   WRITING SEARCH INFO for: {people}")
+        #     data_file.write(data)
 
 
 if __name__ == "__main__":

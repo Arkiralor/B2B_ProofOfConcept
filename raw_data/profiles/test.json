@@ -1,0 +1,503 @@
+[
+    {
+        "source": "linkedin",
+        "profile": {
+            "summary": "Ex-RedBull, Ex-Disney, Angel investor in the Agri space, Currently designing an Agro climate platform. \n\nAt Innoterra I am designing an agro-climate impact platform that combines ed tech with AgriFin Tech grounded in web 3.0 technologies like specifically smart contracts and tokens to build climate positive behaviour change systems for Agri communities across the world. \n\nCurrently hiring across roles (Instructional designer, Product manager, UX, analytics, Rural ecom) - Reach out directly with CV - mithul.etta@innoterra.com",
+            "industryName": "Food and Beverage Services",
+            "lastName": "Etta",
+            "locationName": "India",
+            "student": false,
+            "geoCountryName": "India",
+            "geoCountryUrn": "urn:li:fs_geo:102713980",
+            "geoLocationBackfilled": false,
+            "elt": false,
+            "industryUrn": "urn:li:fs_industry:34",
+            "firstName": "Mithul",
+            "entityUrn": "urn:li:fs_profile:ACoAAAXr8yAB3YmyuptBTBt-wy3T3FdIsd4m2iw",
+            "geoLocation": {
+                "geoUrn": "urn:li:fs_geo:103476667"
+            },
+            "geoLocationName": "Mumbai, Maharashtra",
+            "location": {
+                "basicLocation": {
+                    "countryCode": "in"
+                }
+            },
+            "headline": "Designing a climate positive Agri system | Hiring Product - Managers, Designers, UX, UI, Marketing - Reach out if interested",
+            "displayPictureUrl": "https://media-exp1.licdn.com/dms/image/C4E03AQEqsbIqHTib2A/profile-displayphoto-shrink_",
+            "img_100_100": "100_100/0/1616740005278?e=1658361600&v=beta&t=lPwkaPeqnbGkcCaWPOfZXR6cflokZgPzDYKDeKtWWxk",
+            "img_200_200": "200_200/0/1616740005278?e=1658361600&v=beta&t=i6RTeMBNRYqBg2dmTm0sMza4uGSm-qkL2JSDEyUPIS4",
+            "img_400_400": "400_400/0/1616740005278?e=1658361600&v=beta&t=37oT2bDrzdxFP_I9HI1NJcLZD4846yOyaSoa0LOyCss",
+            "img_800_800": "800_800/0/1616740005278?e=1658361600&v=beta&t=65q20LeKztePaJxtY-m8oE1UfT60f2hwsijjAAc_04k",
+            "profile_id": "ACoAAAXr8yAB3YmyuptBTBt-wy3T3FdIsd4m2iw",
+            "profile_urn": "urn:li:fs_miniProfile:ACoAAAXr8yAB3YmyuptBTBt-wy3T3FdIsd4m2iw",
+            "member_urn": "urn:li:member:99349280",
+            "experience": [
+                {
+                    "locationName": "Mumbai, Maharashtra, India",
+                    "entityUrn": "urn:li:fs_position:(ACoAAAXr8yAB3YmyuptBTBt-wy3T3FdIsd4m2iw,1882772857)",
+                    "geoLocationName": "Mumbai, Maharashtra, India",
+                    "geoUrn": "urn:li:fs_geo:106164952",
+                    "companyName": "Innoterra",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 3,
+                            "year": 2021
+                        }
+                    },
+                    "description": "ExDisney Product designer with a finance and business background aiming to transform the Agrifood system.  \nAt Innoterra I am designing an agroclimate impact platform that creatively uses technology, finance, education and data to transition farmer families across India and the world to a more stable and resiliant life position. \nThe Platform combines ed tech with AgriFin Tech principles with web 3.0 technologies like smart contracts and tokens to build climate positive behaviour change systems for agri communities across the world.",
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 501,
+                            "end": 1000
+                        },
+                        "industries": [
+                            "Food Production"
+                        ]
+                    },
+                    "title": "SR Product Manager ",
+                    "region": "urn:li:fs_region:(in,0)",
+                    "companyUrn": "urn:li:fs_miniCompany:71261120",
+                    "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQER6_Z0MGxxSQ/company-logo_"
+                },
+                {
+                    "locationName": "Mumbai, Maharashtra, India",
+                    "entityUrn": "urn:li:fs_position:(ACoAAAXr8yAB3YmyuptBTBt-wy3T3FdIsd4m2iw,1708301222)",
+                    "geoLocationName": "Mumbai, Maharashtra, India",
+                    "geoUrn": "urn:li:fs_geo:106164952",
+                    "companyName": "FarmLink ",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 12,
+                            "year": 2021
+                        },
+                        "startDate": {
+                            "month": 7,
+                            "year": 2019
+                        }
+                    },
+                    "description": "At FarmLink ( An Innoterra Group Company ) we built from scratch an experiential retail shopping experience for fresh fruits and vegetables as well as online + 3rd party channels. \n\nHighlights \n- Managed a team of over 50 rockstars !! (Our corona heroes)\n- At the height of the pandemic, we pioneered contact less shopping experience serving over 20K households. \n- Designed and built full stack tech solution for eCommerce, including chatbots for automated ordering \n- Created price prediction ML algorithms + Margin management tools \n- Pioneered the design of a pop-up shop that can be set up in a 150Sqft footprint in under 15 minutes. \n\nMy role required me to .. \nBuild  & Train teams / Expand & ramp up business ( added 50 new locations) / direct marketing and sales promotions activities / Design dashboards and data systems to track and analyze business metrics / Business reporting to the board & stakeholder management / Hosted biriyani parties to keep the team motivated and pumped up !",
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 51,
+                            "end": 200
+                        },
+                        "industries": [
+                            "Food & Beverages"
+                        ]
+                    },
+                    "title": "Head Of Business Development",
+                    "region": "urn:li:fs_region:(in,0)",
+                    "companyUrn": "urn:li:fs_miniCompany:13442641",
+                    "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C560BAQGMOdPJhbzDwQ/company-logo_"
+                },
+                {
+                    "locationName": "Chennai, Tamil Nadu, India",
+                    "entityUrn": "urn:li:fs_position:(ACoAAAXr8yAB3YmyuptBTBt-wy3T3FdIsd4m2iw,978582894)",
+                    "geoLocationName": "Chennai, Tamil Nadu, India",
+                    "companyName": "FutureFarms",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 6,
+                            "year": 2019
+                        },
+                        "startDate": {
+                            "month": 10,
+                            "year": 2016
+                        }
+                    },
+                    "description": "Future Farms is India's first indigenous hydroponics and smart farming company that has to date set up over 30 commercial hydroponics farms across the country.  \nAs part of the core team, my responsibilities were to build processes, improve operational efficiencies drive alignment with business goals and drive revenue growth through cost-conscious business development practices, with a core focus on working with partners to build a new industry of smart soilless farming. \n",
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 51,
+                            "end": 200
+                        },
+                        "industries": [
+                            "Food Production"
+                        ]
+                    },
+                    "title": "Chief Operations Officer",
+                    "companyUrn": "urn:li:fs_miniCompany:13234963",
+                    "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQEDUwJHRcwMDg/company-logo_"
+                },
+                {
+                    "locationName": "Mumbai Area, India",
+                    "entityUrn": "urn:li:fs_position:(ACoAAAXr8yAB3YmyuptBTBt-wy3T3FdIsd4m2iw,641235816)",
+                    "geoLocationName": "Mumbai Area, India",
+                    "geoUrn": "urn:li:fs_geo:90009639",
+                    "companyName": "The Walt Disney Company",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 11,
+                            "year": 2016
+                        },
+                        "startDate": {
+                            "month": 12,
+                            "year": 2014
+                        }
+                    },
+                    "description": "At the Walt Disney, I was responsible for identifying and developing new businesses as well as help optimise existing revenue streams across Disney's digital products such as Gaming, edutainmant, content platforms and kid-specific content that are governed by Disneys brand principles. \n\nAs a trained futurist under the Disney's global futurist program, we performed rigorous environmental scanning and research to identify strong trends, signals and insights. We used the findings to build robust future proof business. \n\n",
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Entertainment"
+                        ]
+                    },
+                    "title": "Futurist & Senior Producer - Branded content",
+                    "region": "urn:li:fs_region:(in,7150)",
+                    "companyUrn": "urn:li:fs_miniCompany:1292",
+                    "companyLogoUrl": "https://media-exp1.licdn.com/dms/image/C560BAQGXZv4H6QwUeA/company-logo_"
+                },
+                {
+                    "locationName": "Banglore",
+                    "entityUrn": "urn:li:fs_position:(ACoAAAXr8yAB3YmyuptBTBt-wy3T3FdIsd4m2iw,442152731)",
+                    "$anti_abuse_metadata": {
+                        "/geoUrn": {
+                            "sourceUrns": {
+                                "com.linkedin.common.urn.MemberUrn": "urn:li:member:99349280"
+                            }
+                        },
+                        "/companyName": {
+                            "sourceUrns": {
+                                "com.linkedin.common.urn.MemberUrn": "urn:li:member:99349280"
+                            }
+                        },
+                        "/companyUrn": {
+                            "sourceUrns": {
+                                "com.linkedin.common.urn.MemberUrn": "urn:li:member:99349280"
+                            }
+                        },
+                        "/entityUrn": {
+                            "sourceUrns": {
+                                "com.linkedin.common.urn.MemberUrn": "urn:li:member:99349280"
+                            }
+                        },
+                        "/geoLocationName": {
+                            "sourceUrns": {
+                                "com.linkedin.common.urn.MemberUrn": "urn:li:member:99349280"
+                            }
+                        },
+                        "/promotion": {
+                            "sourceUrns": {
+                                "com.linkedin.common.urn.MemberUrn": "urn:li:member:99349280"
+                            }
+                        },
+                        "/title": {
+                            "sourceUrns": {
+                                "com.linkedin.common.urn.MemberUrn": "urn:li:member:99349280"
+                            }
+                        },
+                        "/region": {
+                            "sourceUrns": {
+                                "com.linkedin.common.urn.MemberUrn": "urn:li:member:99349280"
+                            }
+                        },
+                        "/locationName": {
+                            "sourceUrns": {
+                                "com.linkedin.common.urn.MemberUrn": "urn:li:member:99349280"
+                            }
+                        },
+                        "/description": {
+                            "sourceUrns": {
+                                "com.linkedin.common.urn.MemberUrn": "urn:li:member:99349280"
+                            }
+                        }
+                    },
+                    "geoLocationName": "Banglore",
+                    "companyName": "Founders institute",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 12,
+                            "year": 2014
+                        },
+                        "startDate": {
+                            "month": 8,
+                            "year": 2013
+                        }
+                    },
+                    "title": "Participating Founder"
+                }
+            ],
+            "education": [
+                {
+                    "entityUrn": "urn:li:fs_education:(ACoAAAXr8yAB3YmyuptBTBt-wy3T3FdIsd4m2iw,592709828)",
+                    "school": {
+                        "objectUrn": "urn:li:school:221697",
+                        "entityUrn": "urn:li:fs_miniSchool:221697",
+                        "active": true,
+                        "schoolName": "Mumbai University Mumbai",
+                        "trackingId": "b0oA8ECNTRKZWQyfCTUotA==",
+                        "logoUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQFL4n-rhgKzjQ/company-logo_"
+                    },
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2016
+                        },
+                        "startDate": {
+                            "year": 2014
+                        }
+                    },
+                    "fieldOfStudyUrn": "urn:li:fs_fieldOfStudy:101409",
+                    "degreeName": "Master's degree",
+                    "schoolName": "Mumbai University Mumbai",
+                    "fieldOfStudy": "Business Administration and Management, General & Finance",
+                    "degreeUrn": "urn:li:fs_degree:500",
+                    "schoolUrn": "urn:li:fs_miniSchool:221697"
+                },
+                {
+                    "entityUrn": "urn:li:fs_education:(ACoAAAXr8yAB3YmyuptBTBt-wy3T3FdIsd4m2iw,168822110)",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2012
+                        },
+                        "startDate": {
+                            "year": 2009
+                        }
+                    },
+                    "degreeName": "(B.B.I)Bachelor of Banking and Insurance",
+                    "schoolName": "SIES college of commerce and economics",
+                    "fieldOfStudy": "Banking, Corporate, Finance, and Securities Law"
+                },
+                {
+                    "entityUrn": "urn:li:fs_education:(ACoAAAXr8yAB3YmyuptBTBt-wy3T3FdIsd4m2iw,168821867)",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2008
+                        },
+                        "startDate": {
+                            "year": 2006
+                        }
+                    },
+                    "degreeName": "HSC",
+                    "schoolName": "SIES college of science and arts",
+                    "fieldOfStudy": "Science"
+                }
+            ],
+            "languages": [],
+            "publications": [],
+            "certifications": [
+                {
+                    "authority": "The Walt Disney Company",
+                    "name": "Disney Futurist ",
+                    "company": {
+                        "objectUrn": "urn:li:company:1292",
+                        "entityUrn": "urn:li:fs_miniCompany:1292",
+                        "name": "The Walt Disney Company",
+                        "showcase": false,
+                        "active": true,
+                        "logo": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1625095446434?e=1660780800&v=beta&t=ZYVhbHtEgNs5ncVyYSInfw6z14SRu8N8UESbn3FE8vY",
+                                        "expiresAt": 1660780800000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1625095446434?e=1660780800&v=beta&t=uF6feNNZLrrJJKi6hU7lNY4B5BzwxiaoBV3jrAgQQ04",
+                                        "expiresAt": 1660780800000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1625095446434?e=1660780800&v=beta&t=AIV9vXoP1Vd-ZISX0nFN77xTaex-8bKIdzCqX77PPRc",
+                                        "expiresAt": 1660780800000,
+                                        "height": 400
+                                    }
+                                ],
+                                "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQGXZv4H6QwUeA/company-logo_"
+                            }
+                        },
+                        "universalName": "the-walt-disney-company",
+                        "dashCompanyUrn": "urn:li:fsd_company:1292",
+                        "trackingId": "mrgKupRzReetlPbly1lZjg=="
+                    },
+                    "companyUrn": "urn:li:fs_miniCompany:1292"
+                },
+                {
+                    "authority": "The Walt Disney Company",
+                    "name": "Disney Toy Box (Design Thinking Practioner)",
+                    "company": {
+                        "objectUrn": "urn:li:company:1292",
+                        "entityUrn": "urn:li:fs_miniCompany:1292",
+                        "name": "The Walt Disney Company",
+                        "showcase": false,
+                        "active": true,
+                        "logo": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1625095446434?e=1660780800&v=beta&t=ZYVhbHtEgNs5ncVyYSInfw6z14SRu8N8UESbn3FE8vY",
+                                        "expiresAt": 1660780800000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1625095446434?e=1660780800&v=beta&t=uF6feNNZLrrJJKi6hU7lNY4B5BzwxiaoBV3jrAgQQ04",
+                                        "expiresAt": 1660780800000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1625095446434?e=1660780800&v=beta&t=AIV9vXoP1Vd-ZISX0nFN77xTaex-8bKIdzCqX77PPRc",
+                                        "expiresAt": 1660780800000,
+                                        "height": 400
+                                    }
+                                ],
+                                "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQGXZv4H6QwUeA/company-logo_"
+                            }
+                        },
+                        "universalName": "the-walt-disney-company",
+                        "dashCompanyUrn": "urn:li:fsd_company:1292",
+                        "trackingId": "fwPXVI25TK2tvEg1/hyOnA=="
+                    },
+                    "companyUrn": "urn:li:fs_miniCompany:1292"
+                },
+                {
+                    "authority": "LinkedIn",
+                    "name": "Business Development: Strategic Planning",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 9,
+                            "year": 2020
+                        }
+                    },
+                    "company": {
+                        "objectUrn": "urn:li:company:1337",
+                        "entityUrn": "urn:li:fs_miniCompany:1337",
+                        "name": "LinkedIn",
+                        "showcase": false,
+                        "active": true,
+                        "logo": {
+                            "com.linkedin.common.VectorImage": {
+                                "artifacts": [
+                                    {
+                                        "width": 200,
+                                        "fileIdentifyingUrlPathSegment": "200_200/0/1638831589865?e=1660780800&v=beta&t=QoqTL_-_vjyq7585eRAVji_Lvp7oqN_Rw4e0er9dqng",
+                                        "expiresAt": 1660780800000,
+                                        "height": 200
+                                    },
+                                    {
+                                        "width": 100,
+                                        "fileIdentifyingUrlPathSegment": "100_100/0/1638831589865?e=1660780800&v=beta&t=NpMH1yh_aLfyZ6325qS5NO76BW1CPiB5gCzgbQoTOD0",
+                                        "expiresAt": 1660780800000,
+                                        "height": 100
+                                    },
+                                    {
+                                        "width": 400,
+                                        "fileIdentifyingUrlPathSegment": "400_400/0/1638831589865?e=1660780800&v=beta&t=5WrefqpmMjBp40n-E6RS7eNsOrT1v7ffID0Mr7YONiE",
+                                        "expiresAt": 1660780800000,
+                                        "height": 400
+                                    }
+                                ],
+                                "rootUrl": "https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_"
+                            }
+                        },
+                        "universalName": "linkedin",
+                        "dashCompanyUrn": "urn:li:fsd_company:1337",
+                        "trackingId": "Yd6sO3uPRO6LE5AWOHeIzA=="
+                    },
+                    "displaySource": "linkedin.com",
+                    "companyUrn": "urn:li:fs_miniCompany:1337",
+                    "url": "http://www.linkedin.com/learning/business-development-strategic-planning"
+                }
+            ],
+            "volunteer": [],
+            "honors": [],
+            "projects": []
+        },
+        "contact_info": {
+            "email_address": null,
+            "websites": [],
+            "twitter": [],
+            "birthdate": null,
+            "ims": null,
+            "phone_numbers": []
+        },
+        "skills": [
+            {
+                "name": "Marketing"
+            },
+            {
+                "name": "Brand Management"
+            },
+            {
+                "name": "Management"
+            },
+            {
+                "name": "Marketing Strategy"
+            },
+            {
+                "name": "Market Research"
+            },
+            {
+                "name": "Marketing Communications"
+            },
+            {
+                "name": "Marketing Management"
+            },
+            {
+                "name": "Advertising"
+            },
+            {
+                "name": "Social Media Marketing"
+            },
+            {
+                "name": "Strategic Planning"
+            },
+            {
+                "name": "Teamwork"
+            },
+            {
+                "name": "Brand Awareness"
+            },
+            {
+                "name": "Brand Development"
+            },
+            {
+                "name": "Competitive Analysis"
+            },
+            {
+                "name": "Futures Thinking"
+            },
+            {
+                "name": "Design Thinking"
+            },
+            {
+                "name": "Futurism"
+            },
+            {
+                "name": "Hydroponics"
+            },
+            {
+                "name": "Environmental Scanning"
+            },
+            {
+                "name": "Conscious Business"
+            },
+            {
+                "name": "Strategic Forecasting"
+            },
+            {
+                "name": "Business Development"
+            },
+            {
+                "name": "Foresight"
+            },
+            {
+                "name": "Operations Management"
+            },
+            {
+                "name": "Sales"
+            },
+            {
+                "name": "Financial Analysis"
+            }
+        ]
+    }
+]
